@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "e21232197f4f2f3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cce5055e3a66bc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8033f8f3eaf5bfe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "314b9acb3c6a8e6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9184d8ad38e5d291",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f330f8c65bfecb57",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "526226b9c9104145",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "c99eac1e236429ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd6d32f4b21cae4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "269ff65ef5d4546a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d9f6a638566f963",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "d6e0c3374ca3db1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "25a8a82dba089047",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "e6e4e5276924070d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "db7a69223299d21e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "f330f8c65bfecb57",
+  "lastOpenFiles": [
+    "_MODELOS/PROMPT_gemini.md",
+    "_MODELOS/PROMPT_gpt.md",
+    "_MODELOS/PROMPT_opus.md",
+    "_MODELOS/_CONVENCOES.md",
+    "_MODELOS/_INDICE_DE_CAMINHOS.md",
+    "_MODELOS/_STATUS_gemini.md",
+    "_MODELOS/_LEIA_PRIMEIRO.md",
+    "_MODELOS/_STATUS_opus.md",
+    "_MODELOS/_STATUS_gpt.md",
+    "_MODELOS/MODELO_cosmetico.md",
+    "_MODELOS/MODELO_companheiro.md",
+    "_MODELOS/MODELO_lore.md",
+    "_MODELOS/MODELO_local.md",
+    "_MODELOS/MODELO_mecanica.md",
+    "_MODELOS/MODELO_missao.md",
+    "_MODELOS/MODELO_recurso.md",
+    "_MODELOS/MODELO_mod.md",
+    "_MODELOS/MODELO_arma.md",
+    "_MODELOS/MODELO_warframe.md",
+    "_MODELOS",
+    "_GUIA_AGENTE_IA.md",
+    "_to_delete/_GUIA_AGENTE_IA.md",
+    "_to_delete/_Warframe _Segunda _Mente.BACKUP.md",
+    "_to_delete",
+    "_Warframe _Segunda _Mente.md"
+  ]
+}
