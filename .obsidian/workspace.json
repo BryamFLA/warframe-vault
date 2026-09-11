@@ -11,10 +11,10 @@
             "id": "a8033f8f3eaf5bfe",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -181,10 +181,26 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "f330f8c65bfecb57",
+  "active": "a8033f8f3eaf5bfe",
   "lastOpenFiles": [
-    "_MODELOS/PROMPT_gemini.md",
+    "warframes/regular/follie.md",
+    "warframes/regular/excalibur.md",
+    "warframes/regular/atlas.md",
+    "warframes/regular/ash.md",
+    "lore/chefes/ambulas.md",
+    "lore/chefes/alad_v.md",
+    "lore/chefes/archon_amar.md",
+    "lore/chefes/_Chefes _Indice.md",
+    "armas/secundarias/akjagara.md",
+    "armas/secundarias/akarius.md",
+    "armas/secundarias/acrid.md",
+    "armas/archwing/dual_decurion.md",
+    "armas/archwing/cortege.md",
+    "armas/archwing/centaur.md",
+    "armas/primarias/acceltra_prime.md",
+    "armas/primarias/acceltra.md",
     "_MODELOS/PROMPT_gpt.md",
+    "_MODELOS/PROMPT_gemini.md",
     "_MODELOS/PROMPT_opus.md",
     "_MODELOS/_CONVENCOES.md",
     "_MODELOS/_INDICE_DE_CAMINHOS.md",
@@ -193,20 +209,7 @@
     "_MODELOS/_STATUS_opus.md",
     "_MODELOS/_STATUS_gpt.md",
     "_MODELOS/MODELO_cosmetico.md",
-    "_MODELOS/MODELO_companheiro.md",
-    "_MODELOS/MODELO_lore.md",
-    "_MODELOS/MODELO_local.md",
-    "_MODELOS/MODELO_mecanica.md",
-    "_MODELOS/MODELO_missao.md",
-    "_MODELOS/MODELO_recurso.md",
-    "_MODELOS/MODELO_mod.md",
-    "_MODELOS/MODELO_arma.md",
-    "_MODELOS/MODELO_warframe.md",
     "_MODELOS",
-    "_GUIA_AGENTE_IA.md",
-    "_to_delete/_GUIA_AGENTE_IA.md",
-    "_to_delete/_Warframe _Segunda _Mente.BACKUP.md",
-    "_to_delete",
-    "_Warframe _Segunda _Mente.md"
+    "_to_delete"
   ]
 }

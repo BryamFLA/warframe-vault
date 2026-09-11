@@ -1,4 +1,4 @@
-﻿---
+---
 title: Akarius
 tipo: secundaria
 tags:

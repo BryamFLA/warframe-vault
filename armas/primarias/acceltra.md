@@ -1,4 +1,4 @@
-﻿---
+---
 title: Acceltra
 tipo: primaria
 tags:

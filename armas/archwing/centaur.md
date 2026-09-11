@@ -1,4 +1,4 @@
-﻿---
+---
 title: Centaur
 tipo: archwing
 tags:

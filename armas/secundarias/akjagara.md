@@ -1,4 +1,4 @@
-﻿---
+---
 title: Akjagara
 tipo: secundaria
 tags:

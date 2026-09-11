@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cortege
 tipo: archwing
 tags:

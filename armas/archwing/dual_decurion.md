@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dual Decurion
 tipo: archwing
 tags:
