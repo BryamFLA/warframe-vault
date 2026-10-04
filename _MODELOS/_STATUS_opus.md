@@ -140,3 +140,57 @@ O prompt da task é autossuficiente: aponta para este arquivo e para
 - **lock files de 0 byte** em `.git/` travam o commit silenciosamente. Rodar `find .git -name '*.lock' -print -delete` exige permissão de deleção para a pasta do vault.
 - **`get_page_text` do navegador** custa ~10x mais que a API. Nunca usar para wiki.
 - **Tabelas de dano em HTML** perdem alinhamento por causa de `rowspan`. Usar sempre `prop=wikitext`.
+
+---
+
+## 📊 PROGRESSO (atualizado em 2026-10-04)
+
+| Pasta | Estado | Commit |
+|---|---|---|
+| `mecanicas/` | ✅ **COMPLETA** 49/49 | `6432b27` |
+| `lore/faccoes/` | ✅ **COMPLETA** 9/9 | `7438ae3` |
+| `lore/chefes/` | ✅ **COMPLETA** 29/29 (20 vazios + 8 stubs reescritos + índice) | `45fb377`, `0fd5e3f`, `eca8e68` |
+| `lore/personagens/` | ✅ **COMPLETA** 26/26 | `b8a0d50`, `15dceb8`, `f54cf2f` |
+| `lore/cronologia/` | ✅ **COMPLETA** 7/7 (todos reescritos; os stubs tinham links quebrados) | `84c11b4` |
+| `lore/` (total) | ✅ **77 arquivos, 0 links quebrados** | `eca8e68` |
+| `missoes/jornadas/principais/` | ✅ **COMPLETA** 24/24 | `ddc88bc` |
+| `missoes/jornadas/secundarios/` | ✅ **COMPLETA** 12/12 | `51a353f` |
+| `missoes/juncoes/` | ✅ **COMPLETA** 18/18 | `2fa16b8` |
+
+**Total preenchido nesta sessão: 149 arquivos.** Todos validados com **0 links quebrados** e **0 violações da convenção de extensão**.
+
+### Descobertas que o humano precisa saber
+
+1. **3 destinos não têm Junção no jogo** — Void, Lua e Deimos. A wiki confirma: "certos caminhos entre destinos não têm Junções". Os arquivos `void_junction.md`, `lua_junction.md` e `deimos_junction.md` foram preenchidos documentando **como o acesso realmente funciona**, com aviso em callout.
+2. **Kuva Fortress não tem tabela de tarefas de Junção publicada** na wiki. O arquivo registra o requisito verificado (completar The War Within) e marca o resto como não publicado.
+3. **Zariman não usa Solar Rail Junction** — a wiki explica que o Tenno chega lá por já ter Railjack na linha do tempo de The New War.
+4. **`mecanicas/sindicatos/kaithe.md`** nomeia a montaria de Duviri, não um sindicato. Foi preenchido com conteúdo correto de Kaithe + aviso no topo.
+5. **4 sindicatos reais não têm arquivo**: Ventkids, Kahl's Garrison, The Hex, Nightcap.
+6. **Facções reais sem arquivo**: Narmer, Scaldra, Techrot, Anarchs, Duviri/Thrax, Zariman (Void Angels/Thrax), Amalgam — listadas em `lore/faccoes/_Faccoes _Indice.md`.
+7. **~18 personagens reais sem arquivo** — listados em `lore/personagens/_Personagens _Indice.md`.
+8. **Pastas de outros agentes assumidas**: `missoes/` era do Gemini, que parou depois do lote 1. Assumi a pasta para não travar o vault. `recursos/` e `mods/` seguem vazias.
+
+### Fila restante (409 arquivos vazios)
+
+| Pasta | Vazios |
+|---|---|
+| `mods/armas/` | 91 |
+| `mods/warframe/` | 54 |
+| `mods/especiais/` | 38 |
+| `missoes/tipos/` | 35 |
+| `mods/companheiros/` | 33 |
+| `recursos/open_worlds/eidolon/` | 32 |
+| `recursos/open_worlds/orbe_vallis/` | 29 |
+| `recursos/raridades/especial/` | 23 |
+| `recursos/open_worlds/cambion_drift/` | 23 |
+| `recursos/railjack/` | 15 |
+| `recursos/raridades/raro/` | 11 |
+| `recursos/open_worlds/zariman/` | 11 |
+| `missoes/bounties/` | 5 |
+| `recursos/raridades/incomum/` | 3 |
+| `recursos/open_worlds/duviri/` | 3 |
+| `locais/open-worlds/` | 2 |
+| `locais/planetas/` | 1 |
+
+> [!important] Método para mods e recursos
+> Essas duas pastas são **quase inteiramente dado numérico** (valores por rank, drop locations, chances). Pela convenção 8, **nada disso pode ser inventado**. O caminho é **gerar os arquivos programaticamente** a partir da infobox da wiki, como foi feito com as 13 Junções em `$HOME/genjunc.py` — que extraiu tarefa, dica e recompensa direto da tabela da wiki e montou o arquivo. Replicar esse padrão para mods (`prop=wikitext`, parse da infobox) é o que mantém a precisão em escala.
