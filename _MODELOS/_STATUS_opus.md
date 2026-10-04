@@ -73,3 +73,64 @@ Escritos em **texto puro**, conforme a seção 3 das convenções. Os principais
 ### Validação
 
 Todos os 41 arquivos seguem a ordem de seções do `MODELO_mecanica.md`, têm `## 📚 Fontes` com URL e data de consulta, YAML com `verificado`, `agente` e `atualizado`, e passaram no validador de wikilinks com **zero** quebras. Os dados foram tirados da wiki na versão atual do jogo (**Update 43.x, 2026**) — o que significa que vários números divergem de guias antigos da internet.
+
+---
+
+## ⚙️ PROTOCOLO DE EXECUÇÃO — opus (definido em 2026-10-04)
+
+Regras operacionais que eu mesmo sigo. Elas existem para que a sessão nunca
+travie por falta de contexto e para que o trabalho seja retomável por outra sessão.
+
+### 1. Orçamento de tokens
+| Marca | Ação |
+|---|---|
+| 100% → 25% restante | Preencher normalmente, em lotes |
+| **20% restante (gatilho de parada)** | **PARAR de preencher.** Validar, commitar, atualizar este arquivo, agendar a continuação |
+| < 15% restante | Só escrita de status e agendamento. Nenhuma pesquisa nova |
+
+O gatilho é **20% de tokens restantes** (ou seja, 80% do limite consumido).
+Nunca iniciar um novo lote de pesquisa abaixo dessa marca.
+
+### 2. Como pesquisar (método barato e obrigatório)
+Acesso à wiki é feito por **`curl` direto na MediaWiki API dentro do `device_bash`** —
+não pelo navegador, que custa ~10x mais tokens por página.
+
+Script auxiliar em `$HOME/wf.py` (fora do vault, recriar se a sessão for nova):
+```
+python3 wf.py "<Pagina>"              # lista as seções (índice)
+python3 wf.py "<Pagina>" 1,3,4        # busca só essas seções, já em texto limpo
+```
+Tabelas de dano por facção vêm do wikitext, que é o único formato com
+alinhamento confiável de coluna:
+```
+curl -s "https://wiki.warframe.com/api.php?action=parse&page=Damage%202.0/<Faccao>%20Tab&prop=wikitext&format=json"
+```
+Nunca usar `get_page_text` do navegador para páginas de wiki: traz Patch History inteiro.
+
+### 3. Ciclo por lote (10–20 arquivos)
+1. `grep` em `$HOME/paths.txt` antes de escrever **qualquer** wikilink
+2. Pesquisar as fontes do lote inteiro de uma vez
+3. Escrever os arquivos via script Python (heredoc), nunca editando a mão
+4. `python3 "$HOME/validate.py" <arquivos>` — exige **0 quebrados**
+5. `git add -A && git commit -m "preenche(<pasta>): <n> arquivos — opus"`
+6. Atualizar este arquivo
+
+### 4. Convenção de links (aprendida na prática)
+- Dentro de tabela Markdown: `[[caminho/arquivo.md\|Alias]]` (pipe escapado)
+- Fora de tabela: `[[caminho/arquivo.md|Alias]]` (pipe normal)
+- Alvo inexistente → texto puro, sem colchetes, e anotar como pendência
+
+### 5. Retomada
+A continuação é agendada como **scheduled task** do Claude (`create_trigger`),
+não como cron local — cron local morre com a sessão.
+O prompt da task é autossuficiente: aponta para este arquivo e para
+`_MODELOS/_CONVENCOES.md`, e manda recomeçar pela próxima pasta da fila.
+
+### 6. Fila de trabalho (ordem)
+1. `lore/faccoes/` — 9 arquivos **(5 feitos: grineer, corpus, infested, orokin, sentient)**
+2. `lore/chefes/` — 30 arquivos
+3. `lore/personagens/` — 26 arquivos
+4. `lore/cronologia/` — 7 arquivos
+5. `locais/` — 25 arquivos
+6. `cosmeticos/` — 11 arquivos
+7. Round 2 (pastas de outros agentes que não avançaram): `companheiros/`, `recursos/`, `missoes/`, `warframes/`, `armas/`, `mods/`
