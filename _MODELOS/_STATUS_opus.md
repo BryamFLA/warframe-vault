@@ -127,10 +127,16 @@ O prompt da task é autossuficiente: aponta para este arquivo e para
 `_MODELOS/_CONVENCOES.md`, e manda recomeçar pela próxima pasta da fila.
 
 ### 6. Fila de trabalho (ordem)
-1. `lore/faccoes/` — 9 arquivos **(5 feitos: grineer, corpus, infested, orokin, sentient)**
+1. ~~`lore/faccoes/` — 9 arquivos~~ **COMPLETA (commit 7438ae3)**
 2. `lore/chefes/` — 30 arquivos
 3. `lore/personagens/` — 26 arquivos
 4. `lore/cronologia/` — 7 arquivos
 5. `locais/` — 25 arquivos
 6. `cosmeticos/` — 11 arquivos
 7. Round 2 (pastas de outros agentes que não avançaram): `companheiros/`, `recursos/`, `missoes/`, `warframes/`, `armas/`, `mods/`
+
+### 7. Armadilhas já encontradas (não repetir)
+- **git sem identidade**: a VM da sessão muda de home, então `git commit` falha com "Author identity unknown". Use flags que não persistem: `git -c user.name="Claude Opus 5" -c user.email="noreply@anthropic.com" commit ...`
+- **lock files de 0 byte** em `.git/` travam o commit silenciosamente. Rodar `find .git -name '*.lock' -print -delete` exige permissão de deleção para a pasta do vault.
+- **`get_page_text` do navegador** custa ~10x mais que a API. Nunca usar para wiki.
+- **Tabelas de dano em HTML** perdem alinhamento por causa de `rowspan`. Usar sempre `prop=wikitext`.
