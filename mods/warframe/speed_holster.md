@@ -12,6 +12,9 @@ agente: opus
 
 # Holster Amp
 
+> [!note] O arquivo usa o nome antigo deste mod
+> O arquivo é `speed_holster.md`, mas o nome atual do mod no jogo é **Holster Amp**. **Speed Holster** era como ele se chamava antes; a wiki oficial hoje **redireciona** `Speed Holster` para `Holster Amp`. O conteúdo abaixo é o do mod atual.
+
 > [!info] Efeito no rank máximo
 > **Ao equipar: · O squad ganha 60% Dano de Arma por 3s**
 >
