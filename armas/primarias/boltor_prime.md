@@ -1,4 +1,4 @@
-﻿---
+---
 title: Boltor Prime
 tipo: primaria
 tags:

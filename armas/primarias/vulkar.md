@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vulkar
 tipo: primaria
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Exergis
 tipo: primaria
 tags:

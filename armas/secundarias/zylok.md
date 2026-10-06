@@ -1,4 +1,4 @@
-﻿---
+---
 title: Zylok
 tipo: secundaria
 tags:

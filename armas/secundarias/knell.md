@@ -1,4 +1,4 @@
-﻿---
+---
 title: Knell
 tipo: secundaria
 tags:

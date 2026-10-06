@@ -1,4 +1,4 @@
-﻿---
+---
 title: Orthos
 tipo: branca
 tags:

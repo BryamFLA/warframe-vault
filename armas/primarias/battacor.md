@@ -1,4 +1,4 @@
-﻿---
+---
 title: Battacor
 tipo: primaria
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tenet Ferrox
 tipo: primaria
 tags:

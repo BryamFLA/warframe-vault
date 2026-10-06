@@ -1,4 +1,4 @@
-﻿---
+---
 title: Venka Prime
 tipo: branca
 tags:

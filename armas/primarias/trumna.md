@@ -1,4 +1,4 @@
-﻿---
+---
 title: Trumna
 tipo: primaria
 tags:

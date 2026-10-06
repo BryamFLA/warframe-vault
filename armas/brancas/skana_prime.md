@@ -1,4 +1,4 @@
-﻿---
+---
 title: Skana Prime
 tipo: branca
 tags:

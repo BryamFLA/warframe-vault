@@ -1,4 +1,4 @@
-﻿---
+---
 title: Magnus Prime
 tipo: secundaria
 tags:

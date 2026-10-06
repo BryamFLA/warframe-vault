@@ -1,4 +1,4 @@
-﻿---
+---
 title: Castanas
 tipo: secundaria
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Quanta Vandal
 tipo: primaria
 tags:

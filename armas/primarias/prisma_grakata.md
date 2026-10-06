@@ -1,4 +1,4 @@
-﻿---
+---
 title: Prisma Grakata
 tipo: primaria
 tags:

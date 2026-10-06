@@ -1,4 +1,4 @@
-﻿---
+---
 title: Phaedra
 tipo: archwing
 tags:

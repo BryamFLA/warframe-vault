@@ -1,4 +1,4 @@
-﻿---
+---
 title: Kuva Tonkor
 tipo: primaria
 tags:

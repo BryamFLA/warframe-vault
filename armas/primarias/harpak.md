@@ -1,4 +1,4 @@
-﻿---
+---
 title: Harpak
 tipo: primaria
 tags:

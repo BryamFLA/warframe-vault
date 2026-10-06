@@ -1,4 +1,4 @@
-﻿---
+---
 title: Para MOA
 tipo: moa
 tags:

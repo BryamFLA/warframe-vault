@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dual Ichor
 tipo: branca
 tags:

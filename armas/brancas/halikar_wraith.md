@@ -1,4 +1,4 @@
-﻿---
+---
 title: Halikar Wraith
 tipo: branca
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Carrier Prime
 tipo: sentinel
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Secura Penta
 tipo: primaria
 tags:

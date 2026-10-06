@@ -1,4 +1,4 @@
-﻿---
+---
 title: Braton Vandal
 tipo: primaria
 tags:

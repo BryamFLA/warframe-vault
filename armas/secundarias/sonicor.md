@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sonicor
 tipo: secundaria
 tags:

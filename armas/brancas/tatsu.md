@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tatsu
 tipo: branca
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Smeeta Kavat
 tipo: kavat
 tags:

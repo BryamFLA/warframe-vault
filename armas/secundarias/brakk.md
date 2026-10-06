@@ -1,4 +1,4 @@
-﻿---
+---
 title: Brakk
 tipo: secundaria
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Soma Prime
 tipo: primaria
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tenet Cycron
 tipo: secundaria
 tags:

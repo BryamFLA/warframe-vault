@@ -1,4 +1,4 @@
-﻿---
+---
 title: Akvasto Prime
 tipo: secundaria
 tags:

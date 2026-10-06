@@ -1,4 +1,4 @@
-﻿---
+---
 title: Kuva Ogris
 tipo: primaria
 tags:

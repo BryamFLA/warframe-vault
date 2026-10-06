@@ -1,4 +1,4 @@
-﻿---
+---
 title: MK1-Braton
 tipo: primaria
 tags:

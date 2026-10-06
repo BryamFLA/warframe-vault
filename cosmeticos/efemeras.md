@@ -1,4 +1,4 @@
-﻿---
+---
 title: Efemeras
 tipo: cosmetico
 tags:
@@ -7,9 +7,9 @@ tags:
 atualizado: 2026-04-19
 ---
 
-## O que sÃ£o Efemeras?
+## O que são Efemeras?
 
-Efemeras sÃ£o efeitos visuais passivos aplicados ao Warframe â€” trilhas de luz, auras elementais, partÃ­culas e distorÃ§Ãµes que seguem o frame durante o movimento.
+Efemeras são efeitos visuais passivos aplicados ao Warframe — trilhas de luz, auras elementais, partículas e distorções que seguem o frame durante o movimento.
 
 ---
 
@@ -17,19 +17,19 @@ Efemeras sÃ£o efeitos visuais passivos aplicados ao Warframe â€” trilhas 
 
 | Efemera | Efeito Visual |
 |---|---|
-| **Smoking Body** | FumaÃ§a escura saindo do frame |
-| **Eidolon Efemera** | Efeito azul de void â€” drop de Teralyst |
-| **Kuva Efemera** | Aura de Kuva vermelho â€” drop de Kuva Lich |
-| **Vengeful** series | Efemeras elementais â€” drops de Kuva Liches especÃ­ficos |
-| **Tenet Efemera** | Aura de Corpus â€” drop de Sisters of Parvos |
+| **Smoking Body** | Fumaça escura saindo do frame |
+| **Eidolon Efemera** | Efeito azul de void — drop de Teralyst |
+| **Kuva Efemera** | Aura de Kuva vermelho — drop de Kuva Lich |
+| **Vengeful** series | Efemeras elementais — drops de Kuva Liches específicos |
+| **Tenet Efemera** | Aura de Corpus — drop de Sisters of Parvos |
 | **Galvanized Efemera** | Drop de Steel Path |
 | **Umbra Efemera** | Efeito de Void ligado ao Umbra |
-| **Blazing Step** | Fogo nas passadas â€” drop de Profit-Taker |
-| **Shocking Step** | Eletricidade nas passadas â€” drop de Exploiter Orb |
+| **Blazing Step** | Fogo nas passadas — drop de Profit-Taker |
+| **Shocking Step** | Eletricidade nas passadas — drop de Exploiter Orb |
 
 ---
 
-## AquisiÃ§Ã£o
+## Aquisição
 
 | Fonte | Exemplos |
 |---|---|
@@ -43,9 +43,9 @@ Efemeras sÃ£o efeitos visuais passivos aplicados ao Warframe â€” trilhas 
 
 ---
 
-## ObservaÃ§Ãµes
+## Observações
 
-- Efemeras de Lich/Sister sÃ£o as mais farmadas â€” exigem criar e derrotar liches com o elemento correto
-- Algumas efemeras sÃ£o extremamente raras e valiosas no trading
+- Efemeras de Lich/Sister são as mais farmadas — exigem criar e derrotar liches com o elemento correto
+- Algumas efemeras são extremamente raras e valiosas no trading
 - Apenas uma efemera pode ser equipada por vez
-- Efeitos sÃ£o visÃ­veis por todos os jogadores na missÃ£o
+- Efeitos são visíveis por todos os jogadores na missão

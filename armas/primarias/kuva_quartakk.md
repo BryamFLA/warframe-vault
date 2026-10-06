@@ -1,4 +1,4 @@
-﻿---
+---
 title: Kuva Quartakk
 tipo: primaria
 tags:

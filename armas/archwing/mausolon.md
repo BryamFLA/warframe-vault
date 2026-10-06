@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mausolon
 tipo: archwing
 tags:

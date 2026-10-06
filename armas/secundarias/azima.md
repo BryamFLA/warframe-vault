@@ -1,4 +1,4 @@
-﻿---
+---
 title: Azima
 tipo: secundaria
 tags:

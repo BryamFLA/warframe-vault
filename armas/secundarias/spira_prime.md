@@ -1,4 +1,4 @@
-﻿---
+---
 title: Spira Prime
 tipo: secundaria
 tags:

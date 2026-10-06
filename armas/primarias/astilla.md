@@ -1,4 +1,4 @@
-﻿---
+---
 title: Astilla
 tipo: primaria
 tags:

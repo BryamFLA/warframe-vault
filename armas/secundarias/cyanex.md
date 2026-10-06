@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cyanex
 tipo: secundaria
 tags:

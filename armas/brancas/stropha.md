@@ -1,4 +1,4 @@
-﻿---
+---
 title: Stropha
 tipo: branca
 tags:

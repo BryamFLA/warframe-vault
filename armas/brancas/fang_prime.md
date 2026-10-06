@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fang Prime
 tipo: branca
 tags:

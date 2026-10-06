@@ -1,4 +1,4 @@
-﻿---
+---
 title: Broken Sword
 tipo: branca
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Larkspur Prime
 tipo: archwing
 tags:

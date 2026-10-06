@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dual Cleavers
 tipo: branca
 tags:

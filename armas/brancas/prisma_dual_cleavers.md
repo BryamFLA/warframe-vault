@@ -1,4 +1,4 @@
-﻿---
+---
 title: Prisma Dual Cleavers
 tipo: branca
 tags:

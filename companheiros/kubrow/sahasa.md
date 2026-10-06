@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sahasa Kubrow
 tipo: kubrow
 tags:

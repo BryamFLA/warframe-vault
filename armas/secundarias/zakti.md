@@ -1,4 +1,4 @@
-﻿---
+---
 title: Zakti
 tipo: secundaria
 tags:

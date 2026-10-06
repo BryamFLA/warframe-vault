@@ -1,4 +1,4 @@
-﻿---
+---
 title: Aklex
 tipo: secundaria
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tipedo Prime
 tipo: branca
 tags:

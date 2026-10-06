@@ -1,4 +1,4 @@
-﻿---
+---
 title: Venka
 tipo: branca
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tenet Spirex
 tipo: secundaria
 tags:

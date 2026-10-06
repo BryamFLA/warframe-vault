@@ -1,4 +1,4 @@
-﻿---
+---
 title: Plasma Sword
 tipo: branca
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dark Dagger
 tipo: branca
 tags:

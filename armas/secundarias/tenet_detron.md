@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tenet Detron
 tipo: secundaria
 tags:

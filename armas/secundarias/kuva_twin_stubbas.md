@@ -1,4 +1,4 @@
-﻿---
+---
 title: Kuva Twin Stubbas
 tipo: secundaria
 tags:

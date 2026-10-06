@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cedo
 tipo: primaria
 tags:

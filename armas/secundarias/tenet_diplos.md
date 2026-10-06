@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tenet Diplos
 tipo: secundaria
 tags:

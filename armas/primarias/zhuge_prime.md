@@ -1,4 +1,4 @@
-﻿---
+---
 title: Zhuge Prime
 tipo: primaria
 tags:

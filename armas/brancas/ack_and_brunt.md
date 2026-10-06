@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ack e Brunt
 tipo: branca
 tags:

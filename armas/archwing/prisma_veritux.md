@@ -1,4 +1,4 @@
-﻿---
+---
 title: Prisma Veritux
 tipo: archwing
 tags:

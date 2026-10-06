@@ -1,4 +1,4 @@
-﻿---
+---
 title: War
 tipo: branca
 tags:

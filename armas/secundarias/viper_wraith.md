@@ -1,4 +1,4 @@
-﻿---
+---
 title: Viper Wraith
 tipo: secundaria
 tags:

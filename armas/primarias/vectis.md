@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vectis
 tipo: primaria
 tags:

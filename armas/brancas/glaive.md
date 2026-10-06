@@ -1,4 +1,4 @@
-﻿---
+---
 title: Glaive
 tipo: branca
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dex Sybaris
 tipo: primaria
 tags:

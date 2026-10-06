@@ -1,4 +1,4 @@
-﻿---
+---
 title: Panthera
 tipo: primaria
 tags:

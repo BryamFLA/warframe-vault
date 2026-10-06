@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sicarus
 tipo: secundaria
 tags:

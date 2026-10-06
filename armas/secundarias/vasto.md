@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vasto
 tipo: secundaria
 tags:

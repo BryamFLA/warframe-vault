@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hind
 tipo: primaria
 tags:

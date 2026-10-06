@@ -1,4 +1,4 @@
-﻿---
+---
 title: Stratus MOA
 tipo: moa
 tags:

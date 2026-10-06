@@ -1,4 +1,4 @@
-﻿---
+---
 title: Prova Vandal
 tipo: branca
 tags:

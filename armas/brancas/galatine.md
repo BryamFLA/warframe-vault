@@ -1,4 +1,4 @@
-﻿---
+---
 title: Galatine
 tipo: branca
 tags:

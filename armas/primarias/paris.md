@@ -1,4 +1,4 @@
-﻿---
+---
 title: Paris
 tipo: primaria
 tags:

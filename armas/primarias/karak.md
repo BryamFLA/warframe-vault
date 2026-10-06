@@ -1,4 +1,4 @@
-﻿---
+---
 title: Karak
 tipo: primaria
 tags:

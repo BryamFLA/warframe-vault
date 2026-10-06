@@ -1,4 +1,4 @@
-﻿---
+---
 title: Snipetron Vandal
 tipo: primaria
 tags:

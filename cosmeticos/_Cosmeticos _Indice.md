@@ -8,95 +8,95 @@ atualizado: 2026-04-19
 ---
 
 > [!quote]
-> *"A aparÃªncia do Tenno Ã© sua assinatura no Sistema Solar."*
+> *"A aparência do Tenno é sua assinatura no Sistema Solar."*
 
 ---
 
-## O Sistema de EstilizaÃ§Ã£o
+## O Sistema de Estilização
 
-Warframe tem um dos sistemas de customizaÃ§Ã£o visual mais abrangentes entre jogos live-service. Cada Warframe, arma e companheiro tem mÃºltiplas camadas de personalizaÃ§Ã£o independentes â€” todas 100% estÃ©ticas, sem impacto em gameplay.
+Warframe tem um dos sistemas de customização visual mais abrangentes entre jogos live-service. Cada Warframe, arma e companheiro tem múltiplas camadas de personalização independentes — todas 100% estéticas, sem impacto em gameplay.
 
-O jogo divide os cosmÃ©ticos em **camadas de customizaÃ§Ã£o**:
+O jogo divide os cosméticos em **camadas de customização**:
 
 | Camada | O que cobre |
 |---|---|
 | **Forma base** | Skin do Warframe / Capacete alternativo |
 | **Dorso** | Syandana (capa/ornamento) |
-| **Armadura** | Anexos nos slots de ombro, peito, braÃ§o e perna |
+| **Armadura** | Anexos nos slots de ombro, peito, braço e perna |
 | **Efeito passivo** | Efemera (aura / trilha visual) |
 | **Cor** | Paleta de cores em todos os canais |
 | **Identidade** | Sigil (peito/costas) e Emblema (ombro) |
-| **Gesto** | AnimaÃ§Ãµes idle e emotes |
+| **Gesto** | Animações idle e emotes |
 | **Arma melee** | Sugatra (ornamento do punho) |
-| **Ambiente** | DecoraÃ§Ãµes do Orbiter e Dojo |
+| **Ambiente** | Decorações do Orbiter e Dojo |
 
 ---
 
-## Fontes de CosmÃ©ticos
+## Fontes de Cosméticos
 
 | Fonte | Tipo de Item |
 |---|---|
-| **Platinum (Mercado)** | Skins, syandanas, anexos, capacetes, animaÃ§Ãµes |
-| **Steam (Tennogen)** | Skins, capacetes, syandanas, animaÃ§Ãµes criadas pela comunidade |
-| **Prime Access / Prime Vault** | Pacotes com skin Prime, syandana, acessÃ³rios e estÃ¡tua |
+| **Platinum (Mercado)** | Skins, syandanas, anexos, capacetes, animações |
+| **Steam (Tennogen)** | Skins, capacetes, syandanas, animações criadas pela comunidade |
+| **Prime Access / Prime Vault** | Pacotes com skin Prime, syandana, acessórios e estátua |
 | **Nightwave** | Paletas, emotes, sigils, skins ocasionais |
-| **Eventos sazonais** | Paletas, sigils, decoraÃ§Ãµes, emotes exclusivos |
+| **Eventos sazonais** | Paletas, sigils, decorações, emotes exclusivos |
 | **Kuva Liches** | Efemeras Vengeful (drop direto do Lich) |
-| **Sisters of Parvos** | Tenet Efemera (drop direto da IrmÃ£) |
+| **Sisters of Parvos** | Tenet Efemera (drop direto da Irmã) |
 | **Eidolons / Orb Bosses** | Efemeras de boss (Blazing Step, Eidolon etc.) |
 | **Steel Path** | Galvanized Efemera |
-| **Sindicatos** | Sigils de afiliaÃ§Ã£o, algumas paletas |
-| **ConservaÃ§Ã£o (Open Worlds)** | TrofÃ©us de bestas para o Orbiter |
+| **Sindicatos** | Sigils de afiliação, algumas paletas |
+| **Conservação (Open Worlds)** | Troféus de bestas para o Orbiter |
 
 ---
 
-## Arquivos de ReferÃªncia
+## Arquivos de Referência
 
-| CosmÃ©tico | Arquivo | DescriÃ§Ã£o |
+| Cosmético | Arquivo | Descrição |
 |---|---|---|
-| [[skins\|Skins]] | skins.md | Warframe skins, weapon skins â€” Tennogen, Deluxe, Prime |
+| [[skins\|Skins]] | skins.md | Warframe skins, weapon skins — Tennogen, Deluxe, Prime |
 | [[capacetes\|Capacetes]] | capacetes.md | Helmets alternativos por frame |
 | [[syandanas\|Syandanas]] | syandanas.md | Capas e ornamentos dorsais |
-| [[anexos\|Anexos]] | nexos.md | Armor pieces â€” ombro, peito, braÃ§o, perna |
+| [[anexos\|Anexos]] | nexos.md | Armor pieces — ombro, peito, braço, perna |
 | [[efemeras\|Efemeras]] | efemeras.md | Efeitos visuais passivos no frame |
-| [[paletas\|Paletas de Cores]] | paletas.md | Conjuntos de cores para customizaÃ§Ã£o |
-| [[animacoes\|AnimaÃ§Ãµes e Emotes]] | nimacoes.md | Idle animations e gestos sociais |
-| [[brasoes_emblemas\|BrasÃµes e Emblemas]] | rasoes_emblemas.md | Sigils e badges de identidade |
+| [[paletas\|Paletas de Cores]] | paletas.md | Conjuntos de cores para customização |
+| [[animacoes\|Animações e Emotes]] | nimacoes.md | Idle animations e gestos sociais |
+| [[brasoes_emblemas\|Brasões e Emblemas]] | rasoes_emblemas.md | Sigils e badges de identidade |
 | [[sugatras\|Sugatras]] | sugatras.md | Ornamentos pendurados em armas brancas |
-| [[decoracoes\|DecoraÃ§Ãµes do Orbiter]] | decoracoes.md | Itens para o Orbiter e Dojo |
+| [[decoracoes\|Decorações do Orbiter]] | decoracoes.md | Itens para o Orbiter e Dojo |
 
 ---
 
 ## Tennogen
 
-Tennogen Ã© o programa de criaÃ§Ã£o comunitÃ¡ria da Digital Extremes. Jogadores enviam designs via Steam Workshop â€” os aprovados sÃ£o vendidos na Steam com divisÃ£o de royalties entre o criador e a DE.
+Tennogen é o programa de criação comunitária da Digital Extremes. Jogadores enviam designs via Steam Workshop — os aprovados são vendidos na Steam com divisão de royalties entre o criador e a DE.
 
 **Regras do Tennogen:**
-- DisponÃ­vel principalmente no **PC via Steam** â€” consoles tÃªm acesso limitado e via Platinum
-- NÃ£o pode ser comprado com Platinum no PC â€” exige compra separada em dinheiro real
-- Qualidade altamente variÃ¡vel â€” os mais populares tÃªm votaÃ§Ã£o massiva da comunidade
+- Disponível principalmente no **PC via Steam** — consoles têm acesso limitado e via Platinum
+- Não pode ser comprado com Platinum no PC — exige compra separada em dinheiro real
+- Qualidade altamente variável — os mais populares têm votação massiva da comunidade
 
 ---
 
 ## Prime Access e Prime Vault
 
-Cada Prime Access inclui um pacote cosmÃ©tico completo:
+Cada Prime Access inclui um pacote cosmético completo:
 - Skin/visual Prime do frame (via acesso antecipado)
 - Syandana Prime exclusiva
 - Armor set Prime
-- EstÃ¡tua para o Orbiter
+- Estátua para o Orbiter
 - Efemera (em alguns pacotes recentes)
 
-Prime Vault retorna frames Prime antigos com seus pacotes cosmÃ©ticos originais.
+Prime Vault retorna frames Prime antigos com seus pacotes cosméticos originais.
 
 ---
 
 ## Curiosidades
 
-- Warframe foi pioneiro em Tennogen â€” um dos primeiros jogos a formalizar royalties para criadores de conteÃºdo cosmÃ©tico.
-- O sistema de cores tem mais de 30 paletas disponÃ­veis â€” incluindo tons que nÃ£o existem na paleta padrÃ£o.
-- Efemeras de Lich sÃ£o farmadas intencionalmente pela comunidade â€” alguns elementos como Toxin Vengeful sÃ£o raros e valiosos no trading.
-- O modo Captura (Fashion Frame) tem comunidade prÃ³pria dentro do jogo â€” jogadores criam poses e tiram screenshots com iluminaÃ§Ã£o customizada.
-- A Digital Extremes lanÃ§ou skins colaborativas com franquias externas (Neon Genesis Evangelion, entre outras) â€” mostrando o alcance do sistema.
-- Alguns jogadores chamam o sistema de customizaÃ§Ã£o de ''Fashion Frame'' â€” considerado por parte da comunidade o verdadeiro end-game do jogo.
-- Sigils de sindicato contribuem passivamente com standing apenas ao serem usados em missÃµes â€” mechÃ¢nica pouco conhecida por iniciantes.
+- Warframe foi pioneiro em Tennogen — um dos primeiros jogos a formalizar royalties para criadores de conteúdo cosmético.
+- O sistema de cores tem mais de 30 paletas disponíveis — incluindo tons que não existem na paleta padrão.
+- Efemeras de Lich são farmadas intencionalmente pela comunidade — alguns elementos como Toxin Vengeful são raros e valiosos no trading.
+- O modo Captura (Fashion Frame) tem comunidade própria dentro do jogo — jogadores criam poses e tiram screenshots com iluminação customizada.
+- A Digital Extremes lançou skins colaborativas com franquias externas (Neon Genesis Evangelion, entre outras) — mostrando o alcance do sistema.
+- Alguns jogadores chamam o sistema de customização de ''Fashion Frame'' — considerado por parte da comunidade o verdadeiro end-game do jogo.
+- Sigils de sindicato contribuem passivamente com standing apenas ao serem usados em missões — mechânica pouco conhecida por iniciantes.

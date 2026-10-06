@@ -1,4 +1,4 @@
-﻿---
+---
 title: Rubico Prime
 tipo: primaria
 tags:

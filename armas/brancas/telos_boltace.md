@@ -1,4 +1,4 @@
-﻿---
+---
 title: Telos Boltace
 tipo: branca
 tags:

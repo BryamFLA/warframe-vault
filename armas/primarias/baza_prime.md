@@ -1,4 +1,4 @@
-﻿---
+---
 title: Baza Prime
 tipo: primaria
 tags:

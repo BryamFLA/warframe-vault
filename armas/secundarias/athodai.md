@@ -1,4 +1,4 @@
-﻿---
+---
 title: Athodai
 tipo: secundaria
 tags:

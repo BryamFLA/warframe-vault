@@ -1,4 +1,4 @@
-﻿---
+---
 title: Corinth Prime
 tipo: primaria
 tags:

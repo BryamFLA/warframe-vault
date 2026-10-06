@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cernos Prime
 tipo: primaria
 tags:

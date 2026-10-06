@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tauga Hound
 tipo: hound
 tags:

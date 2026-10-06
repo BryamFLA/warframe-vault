@@ -1,4 +1,4 @@
-﻿---
+---
 title: Veritux
 tipo: archwing
 tags:

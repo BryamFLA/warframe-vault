@@ -1,4 +1,4 @@
-﻿---
+---
 title: Arca Plasmor
 tipo: primaria
 tags:

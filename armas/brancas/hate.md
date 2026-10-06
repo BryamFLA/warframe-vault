@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hate
 tipo: branca
 tags:

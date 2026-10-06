@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sobek
 tipo: primaria
 tags:

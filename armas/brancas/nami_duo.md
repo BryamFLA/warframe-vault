@@ -1,4 +1,4 @@
-﻿---
+---
 title: Nami Duo
 tipo: branca
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Boltor
 tipo: primaria
 tags:

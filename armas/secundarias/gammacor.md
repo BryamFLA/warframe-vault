@@ -1,4 +1,4 @@
-﻿---
+---
 title: Gammacor
 tipo: secundaria
 tags:

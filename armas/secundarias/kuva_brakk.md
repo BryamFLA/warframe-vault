@@ -1,4 +1,4 @@
-﻿---
+---
 title: Kuva Brakk
 tipo: secundaria
 tags:

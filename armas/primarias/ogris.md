@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ogris
 tipo: primaria
 tags:

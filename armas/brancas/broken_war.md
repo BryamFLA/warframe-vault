@@ -1,4 +1,4 @@
-﻿---
+---
 title: Broken War
 tipo: branca
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pharaoh Vulpaphyla
 tipo: kavat
 tags:

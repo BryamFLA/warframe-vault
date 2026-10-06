@@ -1,4 +1,4 @@
-﻿---
+---
 title: Paracesis
 tipo: branca
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Paracyst
 tipo: primaria
 tags:

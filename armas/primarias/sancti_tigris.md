@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sancti Tigris
 tipo: primaria
 tags:

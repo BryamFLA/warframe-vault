@@ -1,4 +1,4 @@
-﻿---
+---
 title: Jat Kittag
 tipo: branca
 tags:

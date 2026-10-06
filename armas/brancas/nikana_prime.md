@@ -1,4 +1,4 @@
-﻿---
+---
 title: Nikana Prime
 tipo: branca
 tags:

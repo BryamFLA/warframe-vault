@@ -1,4 +1,4 @@
-﻿---
+---
 title: Zarr
 tipo: primaria
 tags:

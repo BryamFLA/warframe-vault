@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tigris Prime
 tipo: primaria
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hek
 tipo: primaria
 tags:

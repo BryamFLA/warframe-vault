@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ceramic Dagger
 tipo: branca
 tags:

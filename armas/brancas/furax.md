@@ -1,4 +1,4 @@
-﻿---
+---
 title: Furax
 tipo: branca
 tags:

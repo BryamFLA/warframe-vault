@@ -1,4 +1,4 @@
-﻿---
+---
 title: Nautilus
 tipo: sentinel
 tags:

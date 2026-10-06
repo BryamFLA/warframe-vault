@@ -1,4 +1,4 @@
-﻿---
+---
 title: Laetum
 tipo: secundaria
 tags:

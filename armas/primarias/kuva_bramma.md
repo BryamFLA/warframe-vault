@@ -1,4 +1,4 @@
-﻿---
+---
 title: Kuva Bramma
 tipo: primaria
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bolto
 tipo: secundaria
 tags:

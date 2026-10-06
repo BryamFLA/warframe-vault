@@ -1,4 +1,4 @@
-﻿---
+---
 title: Karyst
 tipo: branca
 tags:

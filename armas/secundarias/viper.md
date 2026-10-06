@@ -1,4 +1,4 @@
-﻿---
+---
 title: Viper
 tipo: secundaria
 tags:

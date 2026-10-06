@@ -1,4 +1,4 @@
-﻿---
+---
 title: Kulstar
 tipo: secundaria
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vermisplicer
 tipo: primaria
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Prisma Skana
 tipo: branca
 tags:

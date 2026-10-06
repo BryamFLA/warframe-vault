@@ -1,4 +1,4 @@
-﻿---
+---
 title: Redeemer
 tipo: branca
 tags:

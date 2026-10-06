@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dragon Nikana
 tipo: branca
 tags:

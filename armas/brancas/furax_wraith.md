@@ -1,4 +1,4 @@
-﻿---
+---
 title: Furax Wraith
 tipo: branca
 tags:

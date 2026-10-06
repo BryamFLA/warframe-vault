@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vitrica
 tipo: branca
 tags:

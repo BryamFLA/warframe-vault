@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pandero
 tipo: secundaria
 tags:

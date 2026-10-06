@@ -1,4 +1,4 @@
-﻿---
+---
 title: Kompressa
 tipo: secundaria
 tags:

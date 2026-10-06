@@ -1,4 +1,4 @@
-﻿---
+---
 title: Anku
 tipo: branca
 tags:

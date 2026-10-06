@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sporothrix
 tipo: primaria
 tags:

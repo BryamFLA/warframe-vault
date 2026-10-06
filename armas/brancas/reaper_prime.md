@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reaper Prime
 tipo: branca
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dorma Hound
 tipo: hound
 tags:

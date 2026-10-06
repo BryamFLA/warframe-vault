@@ -1,4 +1,4 @@
-﻿---
+---
 title: Twin Vipers Wraith
 tipo: secundaria
 tags:

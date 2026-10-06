@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pandero Prime
 tipo: secundaria
 tags:

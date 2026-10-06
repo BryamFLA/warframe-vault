@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tenet Flux Rifle
 tipo: primaria
 tags:

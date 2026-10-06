@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dakra Prime
 tipo: branca
 tags:

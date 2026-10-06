@@ -1,4 +1,4 @@
-﻿---
+---
 title: Machete
 tipo: branca
 tags:

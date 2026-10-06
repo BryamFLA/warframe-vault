@@ -1,4 +1,4 @@
-﻿---
+---
 title: Imperator Vandal
 tipo: archwing
 tags:

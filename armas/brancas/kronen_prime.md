@@ -1,4 +1,4 @@
-﻿---
+---
 title: Kronen Prime
 tipo: branca
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Arum Spinosa
 tipo: branca
 tags:

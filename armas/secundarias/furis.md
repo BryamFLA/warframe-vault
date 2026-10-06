@@ -1,4 +1,4 @@
-﻿---
+---
 title: Furis
 tipo: secundaria
 tags:

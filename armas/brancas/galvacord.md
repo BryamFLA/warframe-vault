@@ -1,4 +1,4 @@
-﻿---
+---
 title: Galvacord
 tipo: branca
 tags:

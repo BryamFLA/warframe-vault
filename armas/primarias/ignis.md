@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ignis
 tipo: primaria
 tags:

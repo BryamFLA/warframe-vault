@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fragor
 tipo: branca
 tags:

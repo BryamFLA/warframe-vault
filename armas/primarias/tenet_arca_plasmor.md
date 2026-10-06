@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tenet Arca Plasmor
 tipo: primaria
 tags:

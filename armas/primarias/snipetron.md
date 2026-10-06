@@ -1,4 +1,4 @@
-﻿---
+---
 title: Snipetron
 tipo: primaria
 tags:

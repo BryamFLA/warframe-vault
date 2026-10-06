@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ripkas
 tipo: branca
 tags:

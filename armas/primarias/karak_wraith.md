@@ -1,4 +1,4 @@
-﻿---
+---
 title: Karak Wraith
 tipo: primaria
 tags:

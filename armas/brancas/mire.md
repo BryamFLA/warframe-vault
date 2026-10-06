@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mire
 tipo: branca
 tags:

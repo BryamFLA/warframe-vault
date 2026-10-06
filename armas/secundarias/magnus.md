@@ -1,4 +1,4 @@
-﻿---
+---
 title: Magnus
 tipo: secundaria
 tags:

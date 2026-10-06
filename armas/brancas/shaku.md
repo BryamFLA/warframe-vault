@@ -1,4 +1,4 @@
-﻿---
+---
 title: Shaku
 tipo: branca
 tags:

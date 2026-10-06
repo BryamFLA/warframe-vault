@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ferrox
 tipo: primaria
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Rakta Cernos
 tipo: primaria
 tags:

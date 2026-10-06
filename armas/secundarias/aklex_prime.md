@@ -1,4 +1,4 @@
-﻿---
+---
 title: Aklex Prime
 tipo: secundaria
 tags:

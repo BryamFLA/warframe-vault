@@ -1,4 +1,4 @@
-﻿---
+---
 title: Shade Prime
 tipo: sentinel
 tags:

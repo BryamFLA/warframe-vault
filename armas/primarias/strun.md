@@ -1,4 +1,4 @@
-﻿---
+---
 title: Strun
 tipo: primaria
 tags:

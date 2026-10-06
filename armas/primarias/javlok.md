@@ -1,4 +1,4 @@
-﻿---
+---
 title: Javlok
 tipo: primaria
 tags:

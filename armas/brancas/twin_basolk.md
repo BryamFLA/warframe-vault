@@ -1,4 +1,4 @@
-﻿---
+---
 title: Twin Basolk
 tipo: branca
 tags:

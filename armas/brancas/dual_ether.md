@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dual Ether
 tipo: branca
 tags:

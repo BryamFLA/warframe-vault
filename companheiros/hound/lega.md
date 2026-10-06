@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lega Hound
 tipo: hound
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mutalist Quanta
 tipo: primaria
 tags:

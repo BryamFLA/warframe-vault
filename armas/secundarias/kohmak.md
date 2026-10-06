@@ -1,4 +1,4 @@
-﻿---
+---
 title: Kohmak
 tipo: secundaria
 tags:

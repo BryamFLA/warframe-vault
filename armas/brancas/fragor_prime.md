@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fragor Prime
 tipo: branca
 tags:

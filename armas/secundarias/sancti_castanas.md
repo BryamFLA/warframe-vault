@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sancti Castanas
 tipo: secundaria
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Kuva Nukor
 tipo: secundaria
 tags:

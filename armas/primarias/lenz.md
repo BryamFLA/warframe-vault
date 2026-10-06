@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lenz
 tipo: primaria
 tags:

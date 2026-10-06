@@ -1,4 +1,4 @@
-﻿---
+---
 title: Quanta
 tipo: primaria
 tags:

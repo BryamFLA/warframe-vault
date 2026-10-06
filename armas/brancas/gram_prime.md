@@ -1,4 +1,4 @@
-﻿---
+---
 title: Gram Prime
 tipo: branca
 tags:

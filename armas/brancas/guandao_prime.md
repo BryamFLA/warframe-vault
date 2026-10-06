@@ -1,4 +1,4 @@
-﻿---
+---
 title: Guandao Prime
 tipo: branca
 tags:

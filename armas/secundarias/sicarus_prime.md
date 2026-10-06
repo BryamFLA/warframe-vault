@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sicarus Prime
 tipo: secundaria
 tags:

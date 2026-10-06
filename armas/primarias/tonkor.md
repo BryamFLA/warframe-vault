@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tonkor
 tipo: primaria
 tags:

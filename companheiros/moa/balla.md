@@ -1,4 +1,4 @@
-﻿---
+---
 title: Balla MOA
 tipo: moa
 tags:

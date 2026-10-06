@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tipedo
 tipo: branca
 tags:

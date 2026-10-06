@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ocucor
 tipo: secundaria
 tags:

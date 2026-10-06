@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ballistica
 tipo: secundaria
 tags:

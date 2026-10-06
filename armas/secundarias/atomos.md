@@ -1,4 +1,4 @@
-﻿---
+---
 title: Atomos
 tipo: secundaria
 tags:

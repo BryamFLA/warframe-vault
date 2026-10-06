@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vulkar Wraith
 tipo: primaria
 tags:

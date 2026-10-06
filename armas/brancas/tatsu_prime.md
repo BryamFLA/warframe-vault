@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tatsu Prime
 tipo: branca
 tags:

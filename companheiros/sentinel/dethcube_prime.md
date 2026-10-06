@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dethcube Prime
 tipo: sentinel
 tags:

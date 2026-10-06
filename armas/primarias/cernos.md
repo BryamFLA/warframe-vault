@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cernos
 tipo: primaria
 tags:

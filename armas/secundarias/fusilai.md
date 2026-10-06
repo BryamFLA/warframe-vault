@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fusilai
 tipo: secundaria
 tags:

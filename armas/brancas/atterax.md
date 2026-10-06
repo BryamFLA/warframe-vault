@@ -1,4 +1,4 @@
-﻿---
+---
 title: Atterax
 tipo: branca
 tags:

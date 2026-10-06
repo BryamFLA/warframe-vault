@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sarpa
 tipo: branca
 tags:

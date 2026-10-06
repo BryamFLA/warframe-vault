@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ballistica Prime
 tipo: secundaria
 tags:

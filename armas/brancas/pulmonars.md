@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pulmonars
 tipo: branca
 tags:

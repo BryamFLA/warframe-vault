@@ -1,4 +1,4 @@
-﻿---
+---
 title: Akvasto
 tipo: secundaria
 tags:

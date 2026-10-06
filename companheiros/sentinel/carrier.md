@@ -1,4 +1,4 @@
-﻿---
+---
 title: Carrier
 tipo: sentinel
 tags:

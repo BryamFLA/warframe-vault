@@ -1,4 +1,4 @@
-﻿---
+---
 title: Opticor Vandal
 tipo: primaria
 tags:

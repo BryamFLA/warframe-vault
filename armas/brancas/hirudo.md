@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hirudo
 tipo: branca
 tags:

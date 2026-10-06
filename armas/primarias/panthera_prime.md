@@ -1,4 +1,4 @@
-﻿---
+---
 title: Panthera Prime
 tipo: primaria
 tags:

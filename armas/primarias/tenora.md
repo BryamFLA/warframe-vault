@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tenora
 tipo: primaria
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Orm Hound
 tipo: hound
 tags:

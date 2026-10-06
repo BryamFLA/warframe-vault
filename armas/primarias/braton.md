@@ -1,4 +1,4 @@
-﻿---
+---
 title: Braton
 tipo: primaria
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Drex MOA
 tipo: moa
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Latron Wraith
 tipo: primaria
 tags:

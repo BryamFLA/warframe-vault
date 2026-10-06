@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ninkondi Prime
 tipo: branca
 tags:

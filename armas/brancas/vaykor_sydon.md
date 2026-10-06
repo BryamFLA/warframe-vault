@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vaykor Sydon
 tipo: branca
 tags:

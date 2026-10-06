@@ -1,4 +1,4 @@
-﻿---
+---
 title: Stubba
 tipo: secundaria
 tags:

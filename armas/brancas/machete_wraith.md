@@ -1,4 +1,4 @@
-﻿---
+---
 title: Machete Wraith
 tipo: branca
 tags:

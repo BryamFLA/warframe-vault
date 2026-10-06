@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ether Daggers
 tipo: branca
 tags:

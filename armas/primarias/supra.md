@@ -1,4 +1,4 @@
-﻿---
+---
 title: Supra
 tipo: primaria
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fang
 tipo: branca
 tags:

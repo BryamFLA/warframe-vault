@@ -1,4 +1,4 @@
-﻿---
+---
 title: Corinth
 tipo: primaria
 tags:

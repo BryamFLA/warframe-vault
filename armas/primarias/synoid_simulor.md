@@ -1,4 +1,4 @@
-﻿---
+---
 title: Synoid Simulor
 tipo: primaria
 tags:

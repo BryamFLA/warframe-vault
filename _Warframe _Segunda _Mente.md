@@ -2362,13 +2362,13 @@ Todos os companheiros têm:
 
 ## Tipos de Companheiro
 
-| Tipo           | Origem                               | CaracterÃ­sticas                                                                          |
+| Tipo           | Origem                               | Características                                                                          |
 | -------------- | ------------------------------------ | ----------------------------------------------------------------------------------------- |
 | **Sentinel**   | Mercado / Relí­quias                 | Robô flutuantes; não entram em combate direto; habilidades passivas e ativas via precepts |
 | **Kubrow**     | Incubação de ovos (Plains / Mercado) | Caninos; comportamento agressivo ou utilitário conforme a raça                            |
 | **Kavat**      | Incubação de DNA felino              | Felinos; buffs e utilidade; Smeeta à o mais usado em farm                                 |
 | **MOA**        | Modular dê Fortuna (Solaris United)  | Robôs modulares; customizáveis com diferentes modelos e precepts                          |
-| **Hound**      | Irmãs de Parvos                      | Robôs de combate; obtidos apás derrotar uma IrmÃ£ de Parvos                               |
+| **Hound**      | Irmãs de Parvos                      | Robôs de combate; obtidos apás derrotar uma Irmã de Parvos                               |
 | **Vulpaphyla** | Deimos (Entrati)                     | Raposas infestadas; ressuscitam automaticamente se morrerem                               |
 | **Predasite**  | Deimos (Entrati)                     | Felinos infestados; habilidades de debuff e controle                                      |
 
@@ -2378,14 +2378,14 @@ Todos os companheiros têm:
 
 Companheiros contribuem com **Affinity de Mastery** ao atingir Rank 30:
 - Sentinels, Kubrows, Kavats, MOAs, Hounds: **3.000 pontos** cada
-- VersÃµes Prime de Sentinels: **6.000 pontos** (contam separado da versÃ£o base)
+- Versões Prime de Sentinels: **6.000 pontos** (contam separado da versão base)
 
 ---
 
 ## Lista Completa
 
 > [!info] Status
-> `nao-obtido` Â· `incubado` Â· `maximizado` Â· `vendido`
+> `nao-obtido` · `incubado` · `maximizado` · `vendido`
 
 ### Sentinels (16)
 
@@ -2440,9 +2440,9 @@ Companheiros contribuem com **Affinity de Mastery** ao atingir Rank 30:
 
 ---
 
-### MOAs â€” Modulares (6)
+### MOAs — Modulares (6)
 
-> MOAs sÃ£o construÃ­dos em Fortuna com modelos intercambiÃ¡veis. Cada entrada representa um modelo base.
+> MOAs são construídos em Fortuna com modelos intercambiáveis. Cada entrada representa um modelo base.
 
 | Companheiro | Status |
 |---|---|
@@ -2455,9 +2455,9 @@ Companheiros contribuem com **Affinity de Mastery** ao atingir Rank 30:
 
 ---
 
-### Hounds â€” IrmÃ£s de Parvos (7)
+### Hounds — Irmãs de Parvos (7)
 
-> Hounds sÃ£o obtidos ao derrotar IrmÃ£s de Parvos. Cada entrada representa um tipo de Hound.
+> Hounds são obtidos ao derrotar Irmãs de Parvos. Cada entrada representa um tipo de Hound.
 
 | Companheiro | Status |
 |---|---|
@@ -2471,43 +2471,43 @@ Companheiros contribuem com **Affinity de Mastery** ao atingir Rank 30:
 
 ---
 
-## Por FunÃ§Ã£o
+## Por Função
 
 ### Utilidade e Farm
-[[smeeta|Smeeta Kavat]] Â· [[carrier|Carrier]] Â· [[carrier_prime|Carrier Prime]] Â· [[sahasa|Sahasa Kubrow]] Â· [[chesa|Chesa Kubrow]] Â· [[oxylus|Oxylus]] Â· [[taxon|Taxon]]
+[[smeeta|Smeeta Kavat]] · [[carrier|Carrier]] · [[carrier_prime|Carrier Prime]] · [[sahasa|Sahasa Kubrow]] · [[chesa|Chesa Kubrow]] · [[oxylus|Oxylus]] · [[taxon|Taxon]]
 
 ### Buffs e Dano
-[[adarza|Adarza Kavat]] Â· [[panzer_vulpaphyla|Panzer Vulpaphyla]] Â· [[helios|Helios]] Â· [[helios_prime|Helios Prime]] Â· [[dethcube|Dethcube]] Â· [[dethcube_prime|Dethcube Prime]]
+[[adarza|Adarza Kavat]] · [[panzer_vulpaphyla|Panzer Vulpaphyla]] · [[helios|Helios]] · [[helios_prime|Helios Prime]] · [[dethcube|Dethcube]] · [[dethcube_prime|Dethcube Prime]]
 
-### Defesa e SobrevivÃªncia
-[[raksa|Raksa Kubrow]] Â· [[huras|Huras Kubrow]] Â· [[djinn|Djinn]] Â· [[nautilus|Nautilus]] Â· [[nautilus_prime|Nautilus Prime]] Â· [[vasca|Vasca Kavat]]
+### Defesa e Sobrevivência
+[[raksa|Raksa Kubrow]] · [[huras|Huras Kubrow]] · [[djinn|Djinn]] · [[nautilus|Nautilus]] · [[nautilus_prime|Nautilus Prime]] · [[vasca|Vasca Kavat]]
 
 ### Furtividade
-[[huras|Huras Kubrow]] Â· [[shade|Shade]] Â· [[shade_prime|Shade Prime]]
+[[huras|Huras Kubrow]] · [[shade|Shade]] · [[shade_prime|Shade Prime]]
 
 ### Combate Agressivo
-[[sunika|Sunika Kubrow]] Â· [[venari|Venari]] Â· [[wyrm|Wyrm]] Â· [[wyrm_prime|Wyrm Prime]]
+[[sunika|Sunika Kubrow]] · [[venari|Venari]] · [[wyrm|Wyrm]] · [[wyrm_prime|Wyrm Prime]]
 
 ### Modulares (Fortuna / Parvos)
-[[lambeo|Lambeo MOA]] Â· [[oloro|Oloro MOA]] Â· [[para|Para MOA]] Â· [[stratus|Stratus MOA]] Â· [[balla|Balla MOA]] Â· [[drex|Drex MOA]] Â· [[bhaira|Bhaira Hound]] Â· [[lega|Lega Hound]] Â· [[orm|Orm Hound]]
+[[lambeo|Lambeo MOA]] · [[oloro|Oloro MOA]] · [[para|Para MOA]] · [[stratus|Stratus MOA]] · [[balla|Balla MOA]] · [[drex|Drex MOA]] · [[bhaira|Bhaira Hound]] · [[lega|Lega Hound]] · [[orm|Orm Hound]]
 
 ### Deimos (Infestados)
-[[panzer_vulpaphyla|Panzer Vulpaphyla]] Â· [[crescent_vulpaphyla|Crescent Vulpaphyla]] Â· [[pharaoh_vulpaphyla|Pharaoh Vulpaphyla]] Â· [[medjay_predasite|Medjay Predasite]] Â· [[vizier_predasite|Vizier Predasite]] Â· [[hyena_predasite|Hyena Predasite]]
+[[panzer_vulpaphyla|Panzer Vulpaphyla]] · [[crescent_vulpaphyla|Crescent Vulpaphyla]] · [[pharaoh_vulpaphyla|Pharaoh Vulpaphyla]] · [[medjay_predasite|Medjay Predasite]] · [[vizier_predasite|Vizier Predasite]] · [[hyena_predasite|Hyena Predasite]]
 
 ---
 
 ## Curiosidades
 
-- Carrier Prime foi por anos o sentinel padrÃ£o do end-game por carregar muniÃ§Ã£o automaticamente â€” sÃ³ perdeu relevÃ¢ncia com o sistema de Infinite Ammo de alguns frames.
-- Smeeta Kavat tem uma habilidade chamada Charm que pode dobrar drops, crÃ©ditos e affinity â€” central em qualquer sessÃ£o de farm intenso.
-- Venari Ã© exclusiva de Khora e nÃ£o pode ser equip ada por outros frames â€” funciona como uma habilidade disfarÃ§ada de companheiro.
-- Huras Kubrow era o Ãºnico companheiro capaz de deixar o operador invisÃ­vel antes das reworks de furtividade.
-- Panzer Vulpaphyla aplica Viral automaticamente em inimigos via espinhos â€” compatÃ­vel com builds de Condition Overload sem esforÃ§o do jogador.
-- MOAs podem ser configurados com diferentes combinaÃ§Ãµes de modelo, arma e suporte â€” o Oloro MOA com precept de escudo Ã© popular em missÃµes de alto nÃ­vel.
-- Djinn tem a habilidade Reawaken que o ressuscita automaticamente a cada 90 segundos apÃ³s a morte â€” Ãºnico sentinel com autorreavivamento antes da rework geral.
-- Nautilus foi introduzido com Railjack e pode implantar Ã¢ncoras de void que restringem inimigos â€” Ãºtil em missÃµes de defesa.
-- Vasca Kavat tem habilidades relacionadas a vampirismo e pode transferir parte da vida dela para o Tenno quando a saÃºde estÃ¡ crÃ­tica.
-- Predasites e Vulpaphylas de Deimos precisam de tags de conservaÃ§Ã£o do bioma para serem obtidos â€” Ãºnico mÃ©todo de aquisiÃ§Ã£o por caÃ§a no open world.
+- Carrier Prime foi por anos o sentinel padrão do end-game por carregar munição automaticamente — só perdeu relevância com o sistema de Infinite Ammo de alguns frames.
+- Smeeta Kavat tem uma habilidade chamada Charm que pode dobrar drops, créditos e affinity — central em qualquer sessão de farm intenso.
+- Venari é exclusiva de Khora e não pode ser equip ada por outros frames — funciona como uma habilidade disfarçada de companheiro.
+- Huras Kubrow era o único companheiro capaz de deixar o operador invisível antes das reworks de furtividade.
+- Panzer Vulpaphyla aplica Viral automaticamente em inimigos via espinhos — compatível com builds de Condition Overload sem esforço do jogador.
+- MOAs podem ser configurados com diferentes combinações de modelo, arma e suporte — o Oloro MOA com precept de escudo é popular em missões de alto nível.
+- Djinn tem a habilidade Reawaken que o ressuscita automaticamente a cada 90 segundos após a morte — único sentinel com autorreavivamento antes da rework geral.
+- Nautilus foi introduzido com Railjack e pode implantar âncoras de void que restringem inimigos — útil em missões de defesa.
+- Vasca Kavat tem habilidades relacionadas a vampirismo e pode transferir parte da vida dela para o Tenno quando a saúde está crítica.
+- Predasites e Vulpaphylas de Deimos precisam de tags de conservação do bioma para serem obtidos — único método de aquisição por caça no open world.
 
 ----------------------------------------
 
@@ -2516,98 +2516,98 @@ Companheiros contribuem com **Affinity de Mastery** ao atingir Rank 30:
 ### 📄 arquivo: _Cosmeticos _Indice.md
 
 > [!quote]
-> *"A aparÃªncia do Tenno Ã© sua assinatura no Sistema Solar."*
+> *"A aparência do Tenno é sua assinatura no Sistema Solar."*
 
 ---
 
-## O Sistema de EstilizaÃ§Ã£o
+## O Sistema de Estilização
 
-Warframe tem um dos sistemas de customizaÃ§Ã£o visual mais abrangentes entre jogos live-service. Cada Warframe, arma e companheiro tem mÃºltiplas camadas de personalizaÃ§Ã£o independentes â€” todas 100% estÃ©ticas, sem impacto em gameplay.
+Warframe tem um dos sistemas de customização visual mais abrangentes entre jogos live-service. Cada Warframe, arma e companheiro tem múltiplas camadas de personalização independentes — todas 100% estéticas, sem impacto em gameplay.
 
-O jogo divide os cosmÃ©ticos em **camadas de customizaÃ§Ã£o**:
+O jogo divide os cosméticos em **camadas de customização**:
 
 | Camada | O que cobre |
 |---|---|
 | **Forma base** | Skin do Warframe / Capacete alternativo |
 | **Dorso** | Syandana (capa/ornamento) |
-| **Armadura** | Anexos nos slots de ombro, peito, braÃ§o e perna |
+| **Armadura** | Anexos nos slots de ombro, peito, braço e perna |
 | **Efeito passivo** | Efemera (aura / trilha visual) |
 | **Cor** | Paleta de cores em todos os canais |
 | **Identidade** | Sigil (peito/costas) e Emblema (ombro) |
-| **Gesto** | AnimaÃ§Ãµes idle e emotes |
+| **Gesto** | Animações idle e emotes |
 | **Arma melee** | Sugatra (ornamento do punho) |
-| **Ambiente** | DecoraÃ§Ãµes do Orbiter e Dojo |
+| **Ambiente** | Decorações do Orbiter e Dojo |
 
 ---
 
-## Fontes de CosmÃ©ticos
+## Fontes de Cosméticos
 
 | Fonte | Tipo de Item |
 |---|---|
-| **Platinum (Mercado)** | Skins, syandanas, anexos, capacetes, animaÃ§Ãµes |
-| **Steam (Tennogen)** | Skins, capacetes, syandanas, animaÃ§Ãµes criadas pela comunidade |
-| **Prime Access / Prime Vault** | Pacotes com skin Prime, syandana, acessÃ³rios e estÃ¡tua |
+| **Platinum (Mercado)** | Skins, syandanas, anexos, capacetes, animações |
+| **Steam (Tennogen)** | Skins, capacetes, syandanas, animações criadas pela comunidade |
+| **Prime Access / Prime Vault** | Pacotes com skin Prime, syandana, acessórios e estátua |
 | **Nightwave** | Paletas, emotes, sigils, skins ocasionais |
-| **Eventos sazonais** | Paletas, sigils, decoraÃ§Ãµes, emotes exclusivos |
+| **Eventos sazonais** | Paletas, sigils, decorações, emotes exclusivos |
 | **Kuva Liches** | Efemeras Vengeful (drop direto do Lich) |
-| **Sisters of Parvos** | Tenet Efemera (drop direto da IrmÃ£) |
+| **Sisters of Parvos** | Tenet Efemera (drop direto da Irmã) |
 | **Eidolons / Orb Bosses** | Efemeras de boss (Blazing Step, Eidolon etc.) |
 | **Steel Path** | Galvanized Efemera |
-| **Sindicatos** | Sigils de afiliaÃ§Ã£o, algumas paletas |
-| **ConservaÃ§Ã£o (Open Worlds)** | TrofÃ©us de bestas para o Orbiter |
+| **Sindicatos** | Sigils de afiliação, algumas paletas |
+| **Conservação (Open Worlds)** | Troféus de bestas para o Orbiter |
 
 ---
 
-## Arquivos de ReferÃªncia
+## Arquivos de Referência
 
-| CosmÃ©tico | Arquivo | DescriÃ§Ã£o |
+| Cosmético | Arquivo | Descrição |
 |---|---|---|
-| [[skins\|Skins]] | skins.md | Warframe skins, weapon skins â€” Tennogen, Deluxe, Prime |
+| [[skins\|Skins]] | skins.md | Warframe skins, weapon skins — Tennogen, Deluxe, Prime |
 | [[capacetes\|Capacetes]] | capacetes.md | Helmets alternativos por frame |
 | [[syandanas\|Syandanas]] | syandanas.md | Capas e ornamentos dorsais |
-| [[anexos\|Anexos]] | nexos.md | Armor pieces â€” ombro, peito, braÃ§o, perna |
+| [[anexos\|Anexos]] | nexos.md | Armor pieces — ombro, peito, braço, perna |
 | [[efemeras\|Efemeras]] | efemeras.md | Efeitos visuais passivos no frame |
-| [[paletas\|Paletas de Cores]] | paletas.md | Conjuntos de cores para customizaÃ§Ã£o |
-| [[animacoes\|AnimaÃ§Ãµes e Emotes]] | nimacoes.md | Idle animations e gestos sociais |
-| [[brasoes_emblemas\|BrasÃµes e Emblemas]] | rasoes_emblemas.md | Sigils e badges de identidade |
+| [[paletas\|Paletas de Cores]] | paletas.md | Conjuntos de cores para customização |
+| [[animacoes\|Animações e Emotes]] | nimacoes.md | Idle animations e gestos sociais |
+| [[brasoes_emblemas\|Brasões e Emblemas]] | rasoes_emblemas.md | Sigils e badges de identidade |
 | [[sugatras\|Sugatras]] | sugatras.md | Ornamentos pendurados em armas brancas |
-| [[decoracoes\|DecoraÃ§Ãµes do Orbiter]] | decoracoes.md | Itens para o Orbiter e Dojo |
+| [[decoracoes\|Decorações do Orbiter]] | decoracoes.md | Itens para o Orbiter e Dojo |
 
 ---
 
 ## Tennogen
 
-Tennogen Ã© o programa de criaÃ§Ã£o comunitÃ¡ria da Digital Extremes. Jogadores enviam designs via Steam Workshop â€” os aprovados sÃ£o vendidos na Steam com divisÃ£o de royalties entre o criador e a DE.
+Tennogen é o programa de criação comunitária da Digital Extremes. Jogadores enviam designs via Steam Workshop — os aprovados são vendidos na Steam com divisão de royalties entre o criador e a DE.
 
 **Regras do Tennogen:**
-- DisponÃ­vel principalmente no **PC via Steam** â€” consoles tÃªm acesso limitado e via Platinum
-- NÃ£o pode ser comprado com Platinum no PC â€” exige compra separada em dinheiro real
-- Qualidade altamente variÃ¡vel â€” os mais populares tÃªm votaÃ§Ã£o massiva da comunidade
+- Disponível principalmente no **PC via Steam** — consoles têm acesso limitado e via Platinum
+- Não pode ser comprado com Platinum no PC — exige compra separada em dinheiro real
+- Qualidade altamente variável — os mais populares têm votação massiva da comunidade
 
 ---
 
 ## Prime Access e Prime Vault
 
-Cada Prime Access inclui um pacote cosmÃ©tico completo:
+Cada Prime Access inclui um pacote cosmético completo:
 - Skin/visual Prime do frame (via acesso antecipado)
 - Syandana Prime exclusiva
 - Armor set Prime
-- EstÃ¡tua para o Orbiter
+- Estátua para o Orbiter
 - Efemera (em alguns pacotes recentes)
 
-Prime Vault retorna frames Prime antigos com seus pacotes cosmÃ©ticos originais.
+Prime Vault retorna frames Prime antigos com seus pacotes cosméticos originais.
 
 ---
 
 ## Curiosidades
 
-- Warframe foi pioneiro em Tennogen â€” um dos primeiros jogos a formalizar royalties para criadores de conteÃºdo cosmÃ©tico.
-- O sistema de cores tem mais de 30 paletas disponÃ­veis â€” incluindo tons que nÃ£o existem na paleta padrÃ£o.
-- Efemeras de Lich sÃ£o farmadas intencionalmente pela comunidade â€” alguns elementos como Toxin Vengeful sÃ£o raros e valiosos no trading.
-- O modo Captura (Fashion Frame) tem comunidade prÃ³pria dentro do jogo â€” jogadores criam poses e tiram screenshots com iluminaÃ§Ã£o customizada.
-- A Digital Extremes lanÃ§ou skins colaborativas com franquias externas (Neon Genesis Evangelion, entre outras) â€” mostrando o alcance do sistema.
-- Alguns jogadores chamam o sistema de customizaÃ§Ã£o de ''Fashion Frame'' â€” considerado por parte da comunidade o verdadeiro end-game do jogo.
-- Sigils de sindicato contribuem passivamente com standing apenas ao serem usados em missÃµes â€” mechÃ¢nica pouco conhecida por iniciantes.
+- Warframe foi pioneiro em Tennogen — um dos primeiros jogos a formalizar royalties para criadores de conteúdo cosmético.
+- O sistema de cores tem mais de 30 paletas disponíveis — incluindo tons que não existem na paleta padrão.
+- Efemeras de Lich são farmadas intencionalmente pela comunidade — alguns elementos como Toxin Vengeful são raros e valiosos no trading.
+- O modo Captura (Fashion Frame) tem comunidade própria dentro do jogo — jogadores criam poses e tiram screenshots com iluminação customizada.
+- A Digital Extremes lançou skins colaborativas com franquias externas (Neon Genesis Evangelion, entre outras) — mostrando o alcance do sistema.
+- Alguns jogadores chamam o sistema de customização de ''Fashion Frame'' — considerado por parte da comunidade o verdadeiro end-game do jogo.
+- Sigils de sindicato contribuem passivamente com standing apenas ao serem usados em missões — mechânica pouco conhecida por iniciantes.
 
 ----------------------------------------
 
@@ -2624,9 +2624,9 @@ tags:
 atualizado: 2026-04-19
 ---
 
-## O que sÃ£o Efemeras?
+## O que são Efemeras?
 
-Efemeras sÃ£o efeitos visuais passivos aplicados ao Warframe â€” trilhas de luz, auras elementais, partÃ­culas e distorÃ§Ãµes que seguem o frame durante o movimento.
+Efemeras são efeitos visuais passivos aplicados ao Warframe — trilhas de luz, auras elementais, partículas e distorções que seguem o frame durante o movimento.
 
 ---
 
@@ -2634,19 +2634,19 @@ Efemeras sÃ£o efeitos visuais passivos aplicados ao Warframe â€” trilhas 
 
 | Efemera | Efeito Visual |
 |---|---|
-| **Smoking Body** | FumaÃ§a escura saindo do frame |
-| **Eidolon Efemera** | Efeito azul de void â€” drop de Teralyst |
-| **Kuva Efemera** | Aura de Kuva vermelho â€” drop de Kuva Lich |
-| **Vengeful** series | Efemeras elementais â€” drops de Kuva Liches especÃ­ficos |
-| **Tenet Efemera** | Aura de Corpus â€” drop de Sisters of Parvos |
+| **Smoking Body** | Fumaça escura saindo do frame |
+| **Eidolon Efemera** | Efeito azul de void — drop de Teralyst |
+| **Kuva Efemera** | Aura de Kuva vermelho — drop de Kuva Lich |
+| **Vengeful** series | Efemeras elementais — drops de Kuva Liches específicos |
+| **Tenet Efemera** | Aura de Corpus — drop de Sisters of Parvos |
 | **Galvanized Efemera** | Drop de Steel Path |
 | **Umbra Efemera** | Efeito de Void ligado ao Umbra |
-| **Blazing Step** | Fogo nas passadas â€” drop de Profit-Taker |
-| **Shocking Step** | Eletricidade nas passadas â€” drop de Exploiter Orb |
+| **Blazing Step** | Fogo nas passadas — drop de Profit-Taker |
+| **Shocking Step** | Eletricidade nas passadas — drop de Exploiter Orb |
 
 ---
 
-## AquisiÃ§Ã£o
+## Aquisição
 
 | Fonte | Exemplos |
 |---|---|
@@ -2660,12 +2660,12 @@ Efemeras sÃ£o efeitos visuais passivos aplicados ao Warframe â€” trilhas 
 
 ---
 
-## ObservaÃ§Ãµes
+## Observações
 
-- Efemeras de Lich/Sister sÃ£o as mais farmadas â€” exigem criar e derrotar liches com o elemento correto
-- Algumas efemeras sÃ£o extremamente raras e valiosas no trading
+- Efemeras de Lich/Sister são as mais farmadas — exigem criar e derrotar liches com o elemento correto
+- Algumas efemeras são extremamente raras e valiosas no trading
 - Apenas uma efemera pode ser equipada por vez
-- Efeitos sÃ£o visÃ­veis por todos os jogadores na missÃ£o
+- Efeitos são visíveis por todos os jogadores na missão
 
 ----------------------------------------
 
@@ -2682,39 +2682,39 @@ tags:
 atualizado: 2026-04-19
 ---
 
-## O que sÃ£o Skins?
+## O que são Skins?
 
-Skins substituem completamente a aparÃªncia visual de um Warframe ou arma, mantendo os stats e habilidades intactos. SÃ£o puramente estÃ©ticos.
+Skins substituem completamente a aparência visual de um Warframe ou arma, mantendo os stats e habilidades intactos. São puramente estéticos.
 
 ---
 
 ## Tipos de Skin
 
-| Tipo | DescriÃ§Ã£o |
+| Tipo | Descrição |
 |---|---|
 | **Tennogen** | Criadas pela comunidade via Steam Workshop; compradas com dinheiro real via Steam |
-| **Prime Accessories** | Skin + Syandana incluÃ­dos em pacotes de Prime Access |
+| **Prime Accessories** | Skin + Syandana incluídos em pacotes de Prime Access |
 | **Deluxe Bundles** | Skins oficiais de alta qualidade vendidas por Platinum |
-| **Graxx / Feyarch** | Skins temÃ¡ticas de sindicatos ou eventos |
-| **Umbra Tennogen** | Skins compatÃ­veis com Excalibur Umbra (limitadas) |
-| **Weapon Skins** | Substituem o visual de armas especÃ­ficas ou categorias inteiras |
+| **Graxx / Feyarch** | Skins temáticas de sindicatos ou eventos |
+| **Umbra Tennogen** | Skins compatíveis com Excalibur Umbra (limitadas) |
+| **Weapon Skins** | Substituem o visual de armas específicas ou categorias inteiras |
 
 ---
 
-## Fontes de AquisiÃ§Ã£o
+## Fontes de Aquisição
 
-- **Mercado** (Platinum) â€” Deluxe Bundles, weapon skins oficiais
-- **Steam** (dinheiro real) â€” Tennogen exclusivo de PC
-- **Prime Access / Prime Vault** â€” incluÃ­dos em pacotes premium
-- **Nightwave** â€” ocasionalmente oferecidas como recompensas de rank
-- **Eventos** â€” skins exclusivas por tempo limitado
+- **Mercado** (Platinum) — Deluxe Bundles, weapon skins oficiais
+- **Steam** (dinheiro real) — Tennogen exclusivo de PC
+- **Prime Access / Prime Vault** — incluídos em pacotes premium
+- **Nightwave** — ocasionalmente oferecidas como recompensas de rank
+- **Eventos** — skins exclusivas por tempo limitado
 
 ---
 
-## ObservaÃ§Ãµes
+## Observações
 
-- Tennogen **nÃ£o estÃ¡ disponÃ­vel** em consoles via Steam â€” consoles tÃªm seleÃ§Ã£o reduzida via Platinum
-- Skins de Warframe nÃ£o substituem o capacete â€” precisam do capacete default ou de um capacete compatÃ­vel
+- Tennogen **não está disponível** em consoles via Steam — consoles têm seleção reduzida via Platinum
+- Skins de Warframe não substituem o capacete — precisam do capacete default ou de um capacete compatível
 - Algumas skins de arma cobrem categorias inteiras (ex: skin para todas as espadas simples)
 
 ----------------------------------------
@@ -2733,46 +2733,46 @@ tags:
 atualizado: 2026-04-19
 ---
 
-## O que sÃ£o Paletas?
+## O que são Paletas?
 
-Paletas sÃ£o conjuntos de cores usados para customizar Warframes, armas, companheiros, veÃ­culos e decoraÃ§Ãµes do Orbiter. Cada paleta adiciona um conjunto de tons ao editor de cores.
+Paletas são conjuntos de cores usados para customizar Warframes, armas, companheiros, veículos e decorações do Orbiter. Cada paleta adiciona um conjunto de tons ao editor de cores.
 
 ---
 
-## Paletas NotÃ¡veis
+## Paletas Notáveis
 
 | Paleta | Como Obter |
 |---|---|
-| **Classic Saturated** | 75.000 CrÃ©ditos â€” paleta base acessÃ­vel |
-| **Tenno** | Platinum â€” tons variados |
-| **Dojo / Syndicate** | Algumas paletas exclusivas de pesquisa de clÃ£ |
+| **Classic Saturated** | 75.000 Créditos — paleta base acessível |
+| **Tenno** | Platinum — tons variados |
+| **Dojo / Syndicate** | Algumas paletas exclusivas de pesquisa de clã |
 | **Event Palettes** | Drops de eventos sazonais (Frostfall, Plague Star etc.) |
 | **Nightwave** | Periodicamente como recompensa de rank |
-| **Twitch Drops** | Paletas distribuÃ­das via drops de streams oficiais |
-| **Paleta Prime** | IncluÃ­da em alguns Prime Access |
+| **Twitch Drops** | Paletas distribuídas via drops de streams oficiais |
+| **Paleta Prime** | Incluída em alguns Prime Access |
 
 ---
 
 ## Canais de Cor
 
-Cada item tem mÃºltiplos canais de cor independentes:
+Cada item tem múltiplos canais de cor independentes:
 
-| Canal | Ãrea Colorida |
+| Canal | Área Colorida |
 |---|---|
-| **PrimÃ¡rio** | Cor dominante do item |
-| **SecundÃ¡rio** | Cor de contraste |
-| **TerciÃ¡rio** | Detalhes menores |
-| **QuaternÃ¡rio** | Acentos e brilhos |
+| **Primário** | Cor dominante do item |
+| **Secundário** | Cor de contraste |
+| **Terciário** | Detalhes menores |
+| **Quaternário** | Acentos e brilhos |
 | **Energia** | Cor dos efeitos de habilidade e energia |
 
 ---
 
-## ObservaÃ§Ãµes
+## Observações
 
-- A paleta **Classic Saturated** Ã© considerada essencial â€” cobre a maioria dos tons bÃ¡sicos com intensidade
-- Cor de Energia afeta partÃ­culas de habilidade, olhos do frame e alguns efeitos visuais
-- Paletas de evento sÃ£o as mais difÃ­ceis de reobter â€” muitas nunca voltam
-- A **Iguais** (Equals) paleta Ã© uma das mais populares por incluir tons neutros e pretos reais
+- A paleta **Classic Saturated** é considerada essencial — cobre a maioria dos tons básicos com intensidade
+- Cor de Energia afeta partículas de habilidade, olhos do frame e alguns efeitos visuais
+- Paletas de evento são as mais difíceis de reobter — muitas nunca voltam
+- A **Iguais** (Equals) paleta é uma das mais populares por incluir tons neutros e pretos reais
 
 ----------------------------------------
 
@@ -2789,9 +2789,9 @@ tags:
 atualizado: 2026-04-19
 ---
 
-## O que sÃ£o Syandanas?
+## O que são Syandanas?
 
-Syandanas sÃ£o capas, vÃ©us e ornamentos dorsais equipados no Warframe. VÃ£o desde capas simples atÃ© estruturas elaboradas com fÃ­sicas e efeitos de partÃ­cula.
+Syandanas são capas, véus e ornamentos dorsais equipados no Warframe. Vão desde capas simples até estruturas elaboradas com físicas e efeitos de partícula.
 
 ---
 
@@ -2799,30 +2799,30 @@ Syandanas sÃ£o capas, vÃ©us e ornamentos dorsais equipados no Warframe. VÃ�
 
 | Estilo | Exemplos |
 |---|---|
-| **Capas longas** | Asa de anjo, tecidos fluÃ­dos |
-| **Estruturais** | Asas mecÃ¢nicas, estruturas rÃ­gidas |
-| **Com efeitos** | Syandanas com partÃ­culas, luz, fogo, void |
-| **Prime** | IncluÃ­das em Prime Access â€” geralmente douradas com design elaborado |
+| **Capas longas** | Asa de anjo, tecidos fluídos |
+| **Estruturais** | Asas mecânicas, estruturas rígidas |
+| **Com efeitos** | Syandanas com partículas, luz, fogo, void |
+| **Prime** | Incluídas em Prime Access — geralmente douradas com design elaborado |
 | **Tennogen** | Criadas pela comunidade |
-| **Sindicato** | Algumas syandanas sÃ£o recompensas de standing de sindicatos |
+| **Sindicato** | Algumas syandanas são recompensas de standing de sindicatos |
 
 ---
 
-## AquisiÃ§Ã£o
+## Aquisição
 
-- **Mercado** (Platinum) â€” maioria das syandanas
-- **Prime Access / Prime Vault** â€” sempre incluem uma syandana Prime exclusiva
-- **Tennogen** (Steam) â€” syandanas criadas por jogadores
-- **Nightwave** â€” rotaÃ§Ã£o periÃ³dica como recompensa
-- **Eventos e Login Rewards** â€” ocasionalmente
+- **Mercado** (Platinum) — maioria das syandanas
+- **Prime Access / Prime Vault** — sempre incluem uma syandana Prime exclusiva
+- **Tennogen** (Steam) — syandanas criadas por jogadores
+- **Nightwave** — rotação periódica como recompensa
+- **Eventos e Login Rewards** — ocasionalmente
 
 ---
 
-## ObservaÃ§Ãµes
+## Observações
 
-- Syandanas tÃªm fÃ­sica simulada â€” reagem ao movimento e parkour do frame
-- Algumas sÃ£o exclusivas de pacotes e nunca voltam ao mercado individualmente
-- A syandana Ã© o cosmÃ©tico mais visÃ­vel durante gameplay â€” grande peso na identidade visual do personagem
+- Syandanas têm física simulada — reagem ao movimento e parkour do frame
+- Algumas são exclusivas de pacotes e nunca voltam ao mercado individualmente
+- A syandana é o cosmético mais visível durante gameplay — grande peso na identidade visual do personagem
 
 ----------------------------------------
 
@@ -2830,50 +2830,50 @@ Syandanas sÃ£o capas, vÃ©us e ornamentos dorsais equipados no Warframe. VÃ�
 ## Seção: cosmeticos
 ### 📄 arquivo: animacoes.md
 
-## O que sÃ£o AnimaÃ§Ãµes e Emotes?
+## O que são Animações e Emotes?
 
-AnimaÃ§Ãµes customizam a postura idle do Warframe (como ele fica parado) e emotes sÃ£o gestos executados manualmente para interaÃ§Ã£o social ou expressÃ£o.
+Animações customizam a postura idle do Warframe (como ele fica parado) e emotes são gestos executados manualmente para interação social ou expressão.
 
 ---
 
 ## Tipos
 
-| Tipo | DescriÃ§Ã£o |
+| Tipo | Descrição |
 |---|---|
-| **Idle Animation** | Substitui a animaÃ§Ã£o de espera padrÃ£o do frame |
-| **Emote** | Gesto ativado manualmente (danÃ§a, saudaÃ§Ã£o, etc.) |
+| **Idle Animation** | Substitui a animação de espera padrão do frame |
+| **Emote** | Gesto ativado manualmente (dança, saudação, etc.) |
 | **Stance Emotes** | Posturas alternativas que o frame assume |
-| **Captura Animations** | Usadas em modo Captura para poses fotogrÃ¡ficas |
+| **Captura Animations** | Usadas em modo Captura para poses fotográficas |
 
 ---
 
 ## Exemplos
 
-| AnimaÃ§Ã£o / Emote | Origem |
+| Animação / Emote | Origem |
 |---|---|
-| **Limbo Agony** | IcÃ´nica danÃ§a de Limbo â€” muito popular |
-| **Tennogen Idles** | Packs de animaÃ§Ã£o criados pela comunidade |
-| **Harka Stance** | Postura guerreira â€” Nightwave |
-| **Emotes de SaudaÃ§Ã£o** | Pack inicial ou Mercado |
-| **DanÃ§a do Cetus** | Evento / Nightwave |
+| **Limbo Agony** | Icônica dança de Limbo — muito popular |
+| **Tennogen Idles** | Packs de animação criados pela comunidade |
+| **Harka Stance** | Postura guerreira — Nightwave |
+| **Emotes de Saudação** | Pack inicial ou Mercado |
+| **Dança do Cetus** | Evento / Nightwave |
 
 ---
 
-## AquisiÃ§Ã£o
+## Aquisição
 
-- **Mercado** (Platinum) â€” packs de emotes e idles individuais
-- **Tennogen** (Steam) â€” animation packs criados pela comunidade
-- **Nightwave** â€” emotes como recompensas de rank
-- **Eventos** â€” emotes exclusivos de eventos sazonais
-- **Login Rewards** â€” ocasionalmente
+- **Mercado** (Platinum) — packs de emotes e idles individuais
+- **Tennogen** (Steam) — animation packs criados pela comunidade
+- **Nightwave** — emotes como recompensas de rank
+- **Eventos** — emotes exclusivos de eventos sazonais
+- **Login Rewards** — ocasionalmente
 
 ---
 
-## ObservaÃ§Ãµes
+## Observações
 
-- Idle animations sÃ£o visÃ­veis apenas quando o frame estÃ¡ parado â€” grande impacto em Captura (modo fotogrÃ¡fico)
-- Emotes sÃ£o acessados via roda de comandos rÃ¡pidos
-- Alguns emotes sincronizam com outros jogadores prÃ³ximos
+- Idle animations são visíveis apenas quando o frame está parado — grande impacto em Captura (modo fotográfico)
+- Emotes são acessados via roda de comandos rápidos
+- Alguns emotes sincronizam com outros jogadores próximos
 
 ----------------------------------------
 
@@ -2890,29 +2890,29 @@ tags:
 atualizado: 2026-04-19
 ---
 
-## O que sÃ£o Capacetes?
+## O que são Capacetes?
 
-Capacetes sÃ£o variantes visuais do elmo de cada Warframe. Cada frame tem ao menos um capacete alternativo alÃ©m do padrÃ£o. SÃ£o 100% estÃ©ticos â€” nenhum capacete altera stats desde a rework de 2013.
+Capacetes são variantes visuais do elmo de cada Warframe. Cada frame tem ao menos um capacete alternativo além do padrão. São 100% estéticos — nenhum capacete altera stats desde a rework de 2013.
 
 ---
 
-## AquisiÃ§Ã£o
+## Aquisição
 
-| Fonte | MÃ©todo |
+| Fonte | Método |
 |---|---|
 | **Mercado** | Compra direta por Platinum |
 | **Alerts / Invasions** (antigo) | Eram drops de alertas antes do Nightwave substituir o sistema |
 | **Tennogen** | Alguns capacetes alternativos via Steam Workshop |
-| **Prime Accessories** | Capacetes Prime incluÃ­dos em pacotes de Prime Access |
-| **Crafting** | Blueprints de capacetes podiam ser adquiridos e construÃ­dos na FundiÃ§Ã£o (sistema descontinuado) |
+| **Prime Accessories** | Capacetes Prime incluídos em pacotes de Prime Access |
+| **Crafting** | Blueprints de capacetes podiam ser adquiridos e construídos na Fundição (sistema descontinuado) |
 
 ---
 
-## ObservaÃ§Ãµes
+## Observações
 
-- Capacetes **Prime** tÃªm design mais elaborado e sÃ£o obtidos via Prime Accessories, nÃ£o via RelÃ­quias
-- Capacetes Tennogen tÃªm qualidade variÃ¡vel â€” alguns sÃ£o altamente votados pela comunidade
-- A escolha do capacete nÃ£o afeta gameplay â€” apenas aparÃªncia e preferÃªncia visual
+- Capacetes **Prime** têm design mais elaborado e são obtidos via Prime Accessories, não via Relíquias
+- Capacetes Tennogen têm qualidade variável — alguns são altamente votados pela comunidade
+- A escolha do capacete não afeta gameplay — apenas aparência e preferência visual
 
 ----------------------------------------
 
@@ -2920,50 +2920,50 @@ Capacetes sÃ£o variantes visuais do elmo de cada Warframe. Cada frame tem ao m
 ## Seção: cosmeticos
 ### 📄 arquivo: anexos.md
 
-## O que sÃ£o Anexos?
+## O que são Anexos?
 
-Anexos sÃ£o peÃ§as de armadura decorativas fixadas em partes especÃ­ficas do Warframe. NÃ£o alteram stats â€” apenas aparÃªncia.
+Anexos são peças de armadura decorativas fixadas em partes específicas do Warframe. Não alteram stats — apenas aparência.
 
 ---
 
 ## Slots de Anexo
 
-| Slot | LocalizaÃ§Ã£o |
+| Slot | Localização |
 |---|---|
 | **Ombro esquerdo** | Pauldron esquerdo |
 | **Ombro direito** | Pauldron direito |
 | **Peito** | Placa peitoral |
 | **Perna esquerda** | Greave esquerda |
 | **Perna direita** | Greave direita |
-| **BraÃ§o** | Gauntlet (punho/antebraÃ§o) |
+| **Braço** | Gauntlet (punho/antebraço) |
 
 ---
 
 ## Tipos de Anexo
 
-| Tipo | CaracterÃ­stica |
+| Tipo | Característica |
 |---|---|
-| **Armor Sets** | Conjuntos temÃ¡ticos que cobrem todos os slots com design unificado |
+| **Armor Sets** | Conjuntos temáticos que cobrem todos os slots com design unificado |
 | **Prime Accessories** | Geralmente incluem arm/chest/leg armor junto com syandana |
-| **Tennogen** | PeÃ§as individuais criadas pela comunidade |
+| **Tennogen** | Peças individuais criadas pela comunidade |
 | **Sindicato** | Itens de standing de alguns sindicatos |
 
 ---
 
-## AquisiÃ§Ã£o
+## Aquisição
 
-- **Mercado** (Platinum) â€” armor sets e peÃ§as individuais
-- **Prime Access / Prime Vault** â€” Prime Accessories sempre incluem peÃ§as de armadura
-- **Tennogen** (Steam) â€” peÃ§as individuais votadas pela comunidade
-- **Nightwave** â€” periodicamente como recompensa de rank
+- **Mercado** (Platinum) — armor sets e peças individuais
+- **Prime Access / Prime Vault** — Prime Accessories sempre incluem peças de armadura
+- **Tennogen** (Steam) — peças individuais votadas pela comunidade
+- **Nightwave** — periodicamente como recompensa de rank
 
 ---
 
-## ObservaÃ§Ãµes
+## Observações
 
-- Cada slot aceita apenas uma peÃ§a por vez
-- Ã‰ possÃ­vel misturar peÃ§as de sets diferentes para criar looks Ãºnicos
-- Algumas peÃ§as tÃªm fÃ­sica simulada ou efeitos de partÃ­cula
+- Cada slot aceita apenas uma peça por vez
+- É possível misturar peças de sets diferentes para criar looks únicos
+- Algumas peças têm física simulada ou efeitos de partícula
 
 ----------------------------------------
 
@@ -2972,7 +2972,7 @@ Anexos sÃ£o peÃ§as de armadura decorativas fixadas em partes especÃ­ficas 
 ### 📄 arquivo: brasoes_emblemas.md
 
 ﻿---
-title: BrasÃµes e Emblemas
+title: Brasões e Emblemas
 tipo: cosmetico
 tags:
   - cosmetico
@@ -2982,56 +2982,56 @@ tags:
 atualizado: 2026-04-19
 ---
 
-## O que sÃ£o BrasÃµes e Emblemas?
+## O que são Brasões e Emblemas?
 
-**Sigils (BrasÃµes)** sÃ£o marcas decorativas aplicadas no peito ou nas costas do Warframe. **Emblemas** sÃ£o pequenos badges menores aplicados no ombro.
+**Sigils (Brasões)** são marcas decorativas aplicadas no peito ou nas costas do Warframe. **Emblemas** são pequenos badges menores aplicados no ombro.
 
 ---
 
 ## Tipos
 
-| Tipo | LocalizaÃ§Ã£o | DescriÃ§Ã£o |
+| Tipo | Localização | Descrição |
 |---|---|---|
-| **Sigil** | Peito / Costas | Marca grande, personalizÃ¡vel em posiÃ§Ã£o e tamanho |
-| **Emblema** | Ombro esquerdo / direito | Badge menor, geralmente de clÃ£ ou evento |
+| **Sigil** | Peito / Costas | Marca grande, personalizável em posição e tamanho |
+| **Emblema** | Ombro esquerdo / direito | Badge menor, geralmente de clã ou evento |
 
 ---
 
 ## Sigils de Sindicato
 
-Cada sindicato tem um sigil prÃ³prio que demonstra afiliaÃ§Ã£o:
+Cada sindicato tem um sigil próprio que demonstra afiliação:
 
 | Sindicato | Sigil |
 |---|---|
 | Steel Meridian | Caveira com espinhos vermelhos |
 | Arbiters of Hexis | Escala dourada |
 | Cephalon Suda | Forma abstrata cian |
-| Red Veil | MÃ¡scara sangrenta |
+| Red Veil | Máscara sangrenta |
 | New Loka | Flor branca |
-| Perrin Sequence | SÃ­mbolo de crÃ©dito dourado |
+| Perrin Sequence | Símbolo de crédito dourado |
 
-> Sigils de sindicato ganham XP ao serem usados em missÃµes â€” nÃ£o Ã© obrigatÃ³rio mas acelera o standing visual.
+> Sigils de sindicato ganham XP ao serem usados em missões — não é obrigatório mas acelera o standing visual.
 
 ---
 
-## AquisiÃ§Ã£o
+## Aquisição
 
 | Fonte | Tipo |
 |---|---|
-| **Sindicatos** | Sigils de afiliaÃ§Ã£o (gratuitos com rank) |
-| **Eventos** | Sigils exclusivos por participaÃ§Ã£o |
-| **Mercado** (Platinum) | Sigils decorativos sem vÃ­nculo de sindicato |
-| **ClÃ£s** | Emblemas personalizados com o logo do clÃ£ |
+| **Sindicatos** | Sigils de afiliação (gratuitos com rank) |
+| **Eventos** | Sigils exclusivos por participação |
+| **Mercado** (Platinum) | Sigils decorativos sem vínculo de sindicato |
+| **Clãs** | Emblemas personalizados com o logo do clã |
 | **Nightwave** | Sigils como recompensas de rank |
-| **Conquistas** | Alguns sigils desbloqueiam por milestones (MR mÃ¡ximo, etc.) |
+| **Conquistas** | Alguns sigils desbloqueiam por milestones (MR máximo, etc.) |
 
 ---
 
-## ObservaÃ§Ãµes
+## Observações
 
-- Emblemas de clÃ£ sÃ£o criados pelo Warlord ou lÃ­deres e aplicados a todos os membros
-- Sigils podem ser redimensionados e reposicionados livremente na tela de customizaÃ§Ã£o
-- Usar sigil de sindicato durante missÃµes contribui passivamente para o standing daquele sindicato
+- Emblemas de clã são criados pelo Warlord ou líderes e aplicados a todos os membros
+- Sigils podem ser redimensionados e reposicionados livremente na tela de customização
+- Usar sigil de sindicato durante missões contribui passivamente para o standing daquele sindicato
 
 ----------------------------------------
 
@@ -3040,7 +3040,7 @@ Cada sindicato tem um sigil prÃ³prio que demonstra afiliaÃ§Ã£o:
 ### 📄 arquivo: decoracoes.md
 
 ﻿---
-title: DecoraÃ§Ãµes do Orbiter
+title: Decorações do Orbiter
 tipo: cosmetico
 tags:
   - cosmetico
@@ -3050,51 +3050,51 @@ tags:
 atualizado: 2026-04-19
 ---
 
-## O que sÃ£o DecoraÃ§Ãµes?
+## O que são Decorações?
 
-DecoraÃ§Ãµes sÃ£o itens colocados no interior do Orbiter (nave base do Tenno) e no Dojo (sede do clÃ£). Permitem personalizar os ambientes de forma livre.
+Decorações são itens colocados no interior do Orbiter (nave base do Tenno) e no Dojo (sede do clã). Permitem personalizar os ambientes de forma livre.
 
 ---
 
-## Tipos de DecoraÃ§Ã£o
+## Tipos de Decoração
 
 | Tipo | Local | Exemplos |
 |---|---|---|
-| **EstÃ¡tuas de Frame** | Orbiter | EstÃ¡tuas Prime obtidas em Prime Access |
-| **TrofÃ©us / Plaques** | Orbiter | Registram conquistas (MR, Eidolons etc.) |
-| **Objetos temÃ¡ticos** | Orbiter / Dojo | Plantas, mÃ³veis, artefatos Orokin |
-| **Captura de Bestas** | Orbiter | TrofÃ©us de conservaÃ§Ã£o (Plains, Vallis, Deimos) |
-| **DecoraÃ§Ãµes Sazonais** | Orbiter | Eventos como Frostfall e Naberus |
-| **Dojo Rooms** | Dojo | Salas inteiras decorÃ¡veis: arenas, jardins, galerias |
+| **Estátuas de Frame** | Orbiter | Estátuas Prime obtidas em Prime Access |
+| **Troféus / Plaques** | Orbiter | Registram conquistas (MR, Eidolons etc.) |
+| **Objetos temáticos** | Orbiter / Dojo | Plantas, móveis, artefatos Orokin |
+| **Captura de Bestas** | Orbiter | Troféus de conservação (Plains, Vallis, Deimos) |
+| **Decorações Sazonais** | Orbiter | Eventos como Frostfall e Naberus |
+| **Dojo Rooms** | Dojo | Salas inteiras decoráveis: arenas, jardins, galerias |
 
 ---
 
-## AquisiÃ§Ã£o
+## Aquisição
 
 | Fonte | Itens |
 |---|---|
-| **Mercado** (Platinum) | Packs de decoraÃ§Ã£o, estÃ¡tuas |
-| **Prime Access** | EstÃ¡tua Prime exclusiva do pacote |
-| **ConservaÃ§Ã£o** | TrofÃ©us de criaturas capturadas vivas |
-| **Eventos** | DecoraÃ§Ãµes sazonais por participaÃ§Ã£o |
-| **Nightwave** | DecoraÃ§Ãµes como recompensa de rank |
-| **Pesquisa de ClÃ£** | DecoraÃ§Ãµes especÃ­ficas do Dojo |
+| **Mercado** (Platinum) | Packs de decoração, estátuas |
+| **Prime Access** | Estátua Prime exclusiva do pacote |
+| **Conservação** | Troféus de criaturas capturadas vivas |
+| **Eventos** | Decorações sazonais por participação |
+| **Nightwave** | Decorações como recompensa de rank |
+| **Pesquisa de Clã** | Decorações específicas do Dojo |
 
 ---
 
-## Sistema de DecoraÃ§Ã£o do Orbiter
+## Sistema de Decoração do Orbiter
 
-- DecoraÃ§Ãµes sÃ£o posicionadas livremente em modo de ediÃ§Ã£o
-- Itens tÃªm limites de capacidade (decoration cap) no Orbiter
-- O Dojo tem sistema prÃ³prio com capacidade muito maior e ferramentas avanÃ§adas de construÃ§Ã£o
+- Decorações são posicionadas livremente em modo de edição
+- Itens têm limites de capacidade (decoration cap) no Orbiter
+- O Dojo tem sistema próprio com capacidade muito maior e ferramentas avançadas de construção
 
 ---
 
-## ObservaÃ§Ãµes
+## Observações
 
-- EstÃ¡tuas Prime sÃ£o consideradas itens de prestÃ­gio â€” indicam participaÃ§Ã£o em Prime Access no lanÃ§amento
-- O sistema de Dojo permite construÃ§Ãµes elaboradas â€” alguns clÃ£s criam rÃ©plicas de cenÃ¡rios e obras de arte
-- TrofÃ©us de conservaÃ§Ã£o encorajam o modo de jogo de caÃ§a passiva nos open worlds
+- Estátuas Prime são consideradas itens de prestígio — indicam participação em Prime Access no lançamento
+- O sistema de Dojo permite construções elaboradas — alguns clãs criam réplicas de cenários e obras de arte
+- Troféus de conservação encorajam o modo de jogo de caça passiva nos open worlds
 
 ----------------------------------------
 
@@ -3111,39 +3111,39 @@ tags:
 atualizado: 2026-04-19
 ---
 
-## O que sÃ£o Sugatras?
+## O que são Sugatras?
 
-Sugatras sÃ£o ornamentos decorativos pendurados no punho ou pommel de armas brancas (melee). SÃ£o anÃ¡logos aos amuletos de espada em culturas orientais â€” puramente estÃ©ticos.
+Sugatras são ornamentos decorativos pendurados no punho ou pommel de armas brancas (melee). São análogos aos amuletos de espada em culturas orientais — puramente estéticos.
 
 ---
 
-## CaracterÃ­sticas
+## Características
 
 - Equipadas no slot de **Sugatra** de qualquer arma branca
-- Ficam penduradas no punho/cabo da arma durante gameplay e animaÃ§Ãµes
-- TÃªm fÃ­sica simulada â€” balanÃ§am durante o movimento
+- Ficam penduradas no punho/cabo da arma durante gameplay e animações
+- Têm física simulada — balançam durante o movimento
 - Uma por arma, no slot dedicado
 
 ---
 
-## AquisiÃ§Ã£o
+## Aquisição
 
-| Fonte | ObservaÃ§Ã£o |
+| Fonte | Observação |
 |---|---|
-| **Mercado** (Platinum) | Maioria das sugatras disponÃ­veis |
+| **Mercado** (Platinum) | Maioria das sugatras disponíveis |
 | **Prime Access** | Algumas inclusas em pacotes Prime |
 | **Nightwave** | Periodicamente como recompensa |
-| **Eventos** | Sugatras exclusivas por participaÃ§Ã£o |
-| **Sindicatos** | Algumas disponÃ­veis via standing |
-| **MissÃµes especiais** | Raras â€” drops ou recompensas de quest |
+| **Eventos** | Sugatras exclusivas por participação |
+| **Sindicatos** | Algumas disponíveis via standing |
+| **Missões especiais** | Raras — drops ou recompensas de quest |
 
 ---
 
-## ObservaÃ§Ãµes
+## Observações
 
-- SÃ£o o cosmÃ©tico de menor impacto visual geral â€” visÃ­veis apenas em animaÃ§Ãµes de melee e cÃ¢meras prÃ³ximas
+- São o cosmético de menor impacto visual geral — visíveis apenas em animações de melee e câmeras próximas
 - Populares entre jogadores que investem em builds de melee puro
-- Algumas sugatras Prime tÃªm efeitos de partÃ­cula sutis
+- Algumas sugatras Prime têm efeitos de partícula sutis
 
 ----------------------------------------
 

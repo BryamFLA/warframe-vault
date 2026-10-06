@@ -1,4 +1,4 @@
-﻿---
+---
 title: Kohm
 tipo: primaria
 tags:

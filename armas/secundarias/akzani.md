@@ -1,4 +1,4 @@
-﻿---
+---
 title: Akzani
 tipo: secundaria
 tags:

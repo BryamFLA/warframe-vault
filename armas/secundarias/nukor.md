@@ -1,4 +1,4 @@
-﻿---
+---
 title: Nukor
 tipo: secundaria
 tags:

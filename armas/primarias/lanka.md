@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lanka
 tipo: primaria
 tags:

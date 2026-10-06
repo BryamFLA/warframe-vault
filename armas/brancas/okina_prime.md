@@ -1,4 +1,4 @@
-﻿---
+---
 title: Okina Prime
 tipo: branca
 tags:

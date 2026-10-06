@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sheev
 tipo: branca
 tags:

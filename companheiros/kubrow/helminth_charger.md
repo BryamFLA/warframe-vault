@@ -1,4 +1,4 @@
-﻿---
+---
 title: Helminth Charger
 tipo: kubrow
 tags:

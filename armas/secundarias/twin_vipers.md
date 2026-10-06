@@ -1,4 +1,4 @@
-﻿---
+---
 title: Twin Vipers
 tipo: secundaria
 tags:

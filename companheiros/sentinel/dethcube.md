@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dethcube
 tipo: sentinel
 tags:

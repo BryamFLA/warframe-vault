@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fulmin Prime
 tipo: primaria
 tags:

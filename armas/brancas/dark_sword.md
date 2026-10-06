@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dark Sword
 tipo: branca
 tags:

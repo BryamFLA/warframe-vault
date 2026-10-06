@@ -1,4 +1,4 @@
-﻿---
+---
 title: Penta
 tipo: primaria
 tags:

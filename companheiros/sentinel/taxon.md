@@ -1,4 +1,4 @@
-﻿---
+---
 title: Taxon
 tipo: sentinel
 tags:

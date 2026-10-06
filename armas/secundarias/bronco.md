@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bronco
 tipo: secundaria
 tags:

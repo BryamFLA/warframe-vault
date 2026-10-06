@@ -1,4 +1,4 @@
-﻿---
+---
 title: Shade
 tipo: sentinel
 tags:

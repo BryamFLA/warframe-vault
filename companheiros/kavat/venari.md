@@ -1,4 +1,4 @@
-﻿---
+---
 title: Venari
 tipo: kavat
 tags:

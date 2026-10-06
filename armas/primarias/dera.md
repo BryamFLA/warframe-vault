@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dera
 tipo: primaria
 tags:

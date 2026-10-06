@@ -1,4 +1,4 @@
-﻿---
+---
 title: Komorex
 tipo: primaria
 tags:

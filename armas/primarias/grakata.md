@@ -1,4 +1,4 @@
-﻿---
+---
 title: Grakata
 tipo: primaria
 tags:

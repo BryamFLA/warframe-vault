@@ -1,4 +1,4 @@
-﻿---
+---
 title: Morgha
 tipo: archwing
 tags:

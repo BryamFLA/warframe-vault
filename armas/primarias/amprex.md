@@ -1,4 +1,4 @@
-﻿---
+---
 title: Amprex
 tipo: primaria
 tags:

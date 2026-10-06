@@ -1,4 +1,4 @@
-﻿---
+---
 title: Velox
 tipo: secundaria
 tags:

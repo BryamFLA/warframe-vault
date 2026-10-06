@@ -1,4 +1,4 @@
-﻿---
+---
 title: Euphona Prime
 tipo: secundaria
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Glaxion Vandal
 tipo: primaria
 tags:

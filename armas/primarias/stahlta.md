@@ -1,4 +1,4 @@
-﻿---
+---
 title: Stahlta
 tipo: primaria
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Convectrix
 tipo: primaria
 tags:

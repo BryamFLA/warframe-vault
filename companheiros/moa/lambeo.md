@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lambeo MOA
 tipo: moa
 tags:

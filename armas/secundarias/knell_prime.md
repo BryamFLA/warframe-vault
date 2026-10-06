@@ -1,4 +1,4 @@
-﻿---
+---
 title: Knell Prime
 tipo: secundaria
 tags:

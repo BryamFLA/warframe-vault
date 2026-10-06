@@ -1,4 +1,4 @@
-﻿---
+---
 title: Magistar Wraith
 tipo: branca
 tags:

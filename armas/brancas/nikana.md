@@ -1,4 +1,4 @@
-﻿---
+---
 title: Nikana
 tipo: branca
 tags:

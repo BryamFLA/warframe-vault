@@ -1,4 +1,4 @@
-﻿---
+---
 title: Scourge
 tipo: primaria
 tags:

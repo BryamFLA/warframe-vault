@@ -1,4 +1,4 @@
-﻿---
+---
 title: Oxylus
 tipo: sentinel
 tags:

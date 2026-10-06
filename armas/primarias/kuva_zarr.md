@@ -1,4 +1,4 @@
-﻿---
+---
 title: Kuva Zarr
 tipo: primaria
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Akbolto
 tipo: secundaria
 tags:

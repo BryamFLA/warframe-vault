@@ -1,4 +1,4 @@
-﻿---
+---
 title: Detron
 tipo: secundaria
 tags:

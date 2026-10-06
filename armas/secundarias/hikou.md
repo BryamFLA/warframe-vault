@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hikou
 tipo: secundaria
 tags:

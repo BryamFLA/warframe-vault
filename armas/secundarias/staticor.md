@@ -1,4 +1,4 @@
-﻿---
+---
 title: Staticor
 tipo: secundaria
 tags:

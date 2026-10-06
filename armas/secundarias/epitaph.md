@@ -1,4 +1,4 @@
-﻿---
+---
 title: Epitaph
 tipo: secundaria
 tags:

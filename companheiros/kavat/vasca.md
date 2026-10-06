@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vasca Kavat
 tipo: kavat
 tags:

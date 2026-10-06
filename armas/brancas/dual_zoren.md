@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dual Zoren
 tipo: branca
 tags:

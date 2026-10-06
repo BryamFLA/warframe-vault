@@ -1,4 +1,4 @@
-﻿---
+---
 title: Imperator
 tipo: archwing
 tags:

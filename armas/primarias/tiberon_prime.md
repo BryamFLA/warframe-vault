@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tiberon Prime
 tipo: primaria
 tags:

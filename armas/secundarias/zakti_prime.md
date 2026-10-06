@@ -1,4 +1,4 @@
-﻿---
+---
 title: Zakti Prime
 tipo: secundaria
 tags:

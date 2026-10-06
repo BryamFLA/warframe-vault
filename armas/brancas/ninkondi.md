@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ninkondi
 tipo: branca
 tags:

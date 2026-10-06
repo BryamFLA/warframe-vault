@@ -1,4 +1,4 @@
-﻿---
+---
 title: Gram
 tipo: branca
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Chesa Kubrow
 tipo: kubrow
 tags:

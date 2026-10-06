@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hikou Prime
 tipo: secundaria
 tags:

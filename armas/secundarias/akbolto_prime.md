@@ -1,4 +1,4 @@
-﻿---
+---
 title: Akbolto Prime
 tipo: secundaria
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bhaira Hound
 tipo: hound
 tags:

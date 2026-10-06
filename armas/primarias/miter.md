@@ -1,4 +1,4 @@
-﻿---
+---
 title: Miter
 tipo: primaria
 tags:

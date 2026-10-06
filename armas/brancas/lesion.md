@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lesion
 tipo: branca
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Panzer Vulpaphyla
 tipo: kavat
 tags:

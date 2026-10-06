@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bo
 tipo: branca
 tags:

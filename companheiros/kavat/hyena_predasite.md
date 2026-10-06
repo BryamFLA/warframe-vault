@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hyena Predasite
 tipo: kavat
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cobra e Crane
 tipo: branca
 tags:

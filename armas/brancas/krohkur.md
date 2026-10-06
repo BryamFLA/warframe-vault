@@ -1,4 +1,4 @@
-﻿---
+---
 title: Krohkur
 tipo: branca
 tags:

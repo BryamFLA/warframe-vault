@@ -1,4 +1,4 @@
-﻿---
+---
 title: Supra Vandal
 tipo: primaria
 tags:

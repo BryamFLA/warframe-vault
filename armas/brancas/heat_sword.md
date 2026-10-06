@@ -1,4 +1,4 @@
-﻿---
+---
 title: Heat Sword
 tipo: branca
 tags:

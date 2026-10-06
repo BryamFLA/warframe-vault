@@ -1,4 +1,4 @@
-﻿---
+---
 title: Akstiletto
 tipo: secundaria
 tags:

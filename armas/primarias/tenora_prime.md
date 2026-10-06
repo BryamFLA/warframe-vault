@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tenora Prime
 tipo: primaria
 tags:

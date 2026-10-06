@@ -1,4 +1,4 @@
-﻿---
+---
 title: Kuva Chakkhurr
 tipo: primaria
 tags:

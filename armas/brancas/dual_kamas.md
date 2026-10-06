@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dual Kamas
 tipo: branca
 tags:

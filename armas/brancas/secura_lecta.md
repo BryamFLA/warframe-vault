@@ -1,4 +1,4 @@
-﻿---
+---
 title: Secura Lecta
 tipo: branca
 tags:

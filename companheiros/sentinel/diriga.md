@@ -1,4 +1,4 @@
-﻿---
+---
 title: Diriga
 tipo: sentinel
 tags:

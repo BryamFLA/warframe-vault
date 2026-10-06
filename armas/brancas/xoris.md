@@ -1,4 +1,4 @@
-﻿---
+---
 title: Xoris
 tipo: branca
 tags:

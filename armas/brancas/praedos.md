@@ -1,4 +1,4 @@
-﻿---
+---
 title: Praedos
 tipo: branca
 tags:

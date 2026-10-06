@@ -1,4 +1,4 @@
-﻿---
+---
 title: Twin Grakata
 tipo: secundaria
 tags:

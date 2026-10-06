@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lecta
 tipo: branca
 tags:

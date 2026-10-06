@@ -1,4 +1,4 @@
-﻿---
+---
 title: Telos Boltor
 tipo: primaria
 tags:

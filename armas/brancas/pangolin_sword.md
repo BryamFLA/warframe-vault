@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pangolin Sword
 tipo: branca
 tags:

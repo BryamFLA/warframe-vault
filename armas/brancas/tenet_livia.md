@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tenet Livia
 tipo: branca
 tags:

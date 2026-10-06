@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ambassador
 tipo: primaria
 tags:

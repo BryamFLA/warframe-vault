@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tenet Plinx
 tipo: secundaria
 tags:

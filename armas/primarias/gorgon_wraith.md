@@ -1,4 +1,4 @@
-﻿---
+---
 title: Gorgon Wraith
 tipo: primaria
 tags:

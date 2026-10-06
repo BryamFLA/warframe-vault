@@ -1,4 +1,4 @@
-﻿---
+---
 title: Halikar
 tipo: branca
 tags:

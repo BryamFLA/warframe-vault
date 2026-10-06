@@ -1,4 +1,4 @@
-﻿---
+---
 title: Orthos Prime
 tipo: branca
 tags:

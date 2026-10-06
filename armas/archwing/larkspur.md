@@ -1,4 +1,4 @@
-﻿---
+---
 title: Larkspur
 tipo: archwing
 tags:

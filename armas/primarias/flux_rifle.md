@@ -1,4 +1,4 @@
-﻿---
+---
 title: Flux Rifle
 tipo: primaria
 tags:

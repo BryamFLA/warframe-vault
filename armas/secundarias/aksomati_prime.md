@@ -1,4 +1,4 @@
-﻿---
+---
 title: Aksomati Prime
 tipo: secundaria
 tags:

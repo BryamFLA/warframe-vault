@@ -1,4 +1,4 @@
-﻿---
+---
 title: Despair
 tipo: secundaria
 tags:

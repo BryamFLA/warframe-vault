@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lato Vandal
 tipo: secundaria
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cronus
 tipo: branca
 tags:

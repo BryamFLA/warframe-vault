@@ -1,4 +1,4 @@
-﻿---
+---
 title: Soma
 tipo: primaria
 tags:

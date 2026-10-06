@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mara Detron
 tipo: secundaria
 tags:

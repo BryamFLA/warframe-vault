@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lato
 tipo: secundaria
 tags:

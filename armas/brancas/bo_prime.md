@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bo Prime
 tipo: branca
 tags:

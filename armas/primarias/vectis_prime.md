@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vectis Prime
 tipo: primaria
 tags:

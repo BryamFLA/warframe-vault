@@ -1,4 +1,4 @@
-﻿---
+---
 title: Redeemer Prime
 tipo: branca
 tags:

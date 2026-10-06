@@ -1,4 +1,4 @@
-﻿---
+---
 title: Medjay Predasite
 tipo: kavat
 tags:

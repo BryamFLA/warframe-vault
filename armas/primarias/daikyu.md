@@ -1,4 +1,4 @@
-﻿---
+---
 title: Daikyu
 tipo: primaria
 tags:

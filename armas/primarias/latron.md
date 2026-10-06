@@ -1,4 +1,4 @@
-﻿---
+---
 title: Latron
 tipo: primaria
 tags:

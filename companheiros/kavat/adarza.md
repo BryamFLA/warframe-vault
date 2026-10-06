@@ -1,4 +1,4 @@
-﻿---
+---
 title: Adarza Kavat
 tipo: kavat
 tags:

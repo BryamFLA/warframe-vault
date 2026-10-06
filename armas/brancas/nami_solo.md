@@ -1,4 +1,4 @@
-﻿---
+---
 title: Nami Solo
 tipo: branca
 tags:

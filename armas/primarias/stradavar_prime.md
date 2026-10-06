@@ -1,4 +1,4 @@
-﻿---
+---
 title: Stradavar Prime
 tipo: primaria
 tags:

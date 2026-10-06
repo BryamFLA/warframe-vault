@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pangolin Prime
 tipo: branca
 tags:

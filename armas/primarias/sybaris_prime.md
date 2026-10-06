@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sybaris Prime
 tipo: primaria
 tags:

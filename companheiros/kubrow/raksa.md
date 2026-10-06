@@ -1,4 +1,4 @@
-﻿---
+---
 title: Raksa Kubrow
 tipo: kubrow
 tags:

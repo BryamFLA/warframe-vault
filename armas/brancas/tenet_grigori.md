@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tenet Grigori
 tipo: branca
 tags:

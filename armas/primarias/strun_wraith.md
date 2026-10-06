@@ -1,4 +1,4 @@
-﻿---
+---
 title: Strun Wraith
 tipo: primaria
 tags:

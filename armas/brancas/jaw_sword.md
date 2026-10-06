@@ -1,4 +1,4 @@
-﻿---
+---
 title: Jaw Sword
 tipo: branca
 tags:

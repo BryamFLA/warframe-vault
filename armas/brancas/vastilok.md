@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vastilok
 tipo: branca
 tags:

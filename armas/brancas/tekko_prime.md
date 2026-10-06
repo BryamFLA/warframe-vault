@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tekko Prime
 tipo: branca
 tags:

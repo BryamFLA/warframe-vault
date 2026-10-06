@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dark Split-Sword
 tipo: branca
 tags:

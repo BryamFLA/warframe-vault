@@ -1,4 +1,4 @@
-﻿---
+---
 title: Guandao
 tipo: branca
 tags:

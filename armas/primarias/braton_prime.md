@@ -1,4 +1,4 @@
-﻿---
+---
 title: Braton Prime
 tipo: primaria
 tags:

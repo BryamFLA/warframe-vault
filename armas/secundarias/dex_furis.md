@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dex Furis
 tipo: secundaria
 tags:

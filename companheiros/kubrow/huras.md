@@ -1,4 +1,4 @@
-﻿---
+---
 title: Huras Kubrow
 tipo: kubrow
 tags:

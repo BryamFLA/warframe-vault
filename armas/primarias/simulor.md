@@ -1,4 +1,4 @@
-﻿---
+---
 title: Simulor
 tipo: primaria
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Phantasma Prime
 tipo: primaria
 tags:

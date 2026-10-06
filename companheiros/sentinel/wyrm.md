@@ -1,4 +1,4 @@
-﻿---
+---
 title: Wyrm
 tipo: sentinel
 tags:

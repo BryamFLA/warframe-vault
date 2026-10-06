@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ohma
 tipo: branca
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Baza
 tipo: primaria
 tags:

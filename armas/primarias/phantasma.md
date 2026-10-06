@@ -1,4 +1,4 @@
-﻿---
+---
 title: Phantasma
 tipo: primaria
 tags:

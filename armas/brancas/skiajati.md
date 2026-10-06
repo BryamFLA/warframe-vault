@@ -1,4 +1,4 @@
-﻿---
+---
 title: Skiajati
 tipo: branca
 tags:

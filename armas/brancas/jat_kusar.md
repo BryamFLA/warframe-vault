@@ -1,4 +1,4 @@
-﻿---
+---
 title: Jat Kusar
 tipo: branca
 tags:

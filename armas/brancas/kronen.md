@@ -1,4 +1,4 @@
-﻿---
+---
 title: Kronen
 tipo: branca
 tags:

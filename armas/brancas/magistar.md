@@ -1,4 +1,4 @@
-﻿---
+---
 title: Magistar
 tipo: branca
 tags:

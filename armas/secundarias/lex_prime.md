@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lex Prime
 tipo: secundaria
 tags:

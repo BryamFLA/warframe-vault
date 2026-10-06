@@ -1,4 +1,4 @@
-﻿---
+---
 title: Paris Prime
 tipo: primaria
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cyngas
 tipo: archwing
 tags:

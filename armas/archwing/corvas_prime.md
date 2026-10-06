@@ -1,4 +1,4 @@
-﻿---
+---
 title: Corvas Prime
 tipo: archwing
 tags:

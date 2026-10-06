@@ -1,4 +1,4 @@
-﻿---
+---
 title: Arca Titron
 tipo: branca
 tags:

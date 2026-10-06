@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sigma e Octantis
 tipo: branca
 tags:

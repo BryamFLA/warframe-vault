@@ -1,4 +1,4 @@
-﻿---
+---
 title: Phenmor
 tipo: primaria
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Drakgoon
 tipo: primaria
 tags:

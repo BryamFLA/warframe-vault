@@ -1,4 +1,4 @@
-﻿---
+---
 title: Kuva Shildeg
 tipo: branca
 tags:

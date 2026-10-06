@@ -1,4 +1,4 @@
-﻿---
+---
 title: Galatine Prime
 tipo: branca
 tags:

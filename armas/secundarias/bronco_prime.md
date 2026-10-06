@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bronco Prime
 tipo: secundaria
 tags:

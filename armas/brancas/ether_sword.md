@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ether Sword
 tipo: branca
 tags:

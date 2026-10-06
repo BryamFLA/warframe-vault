@@ -1,4 +1,4 @@
-﻿---
+---
 title: Gorgon
 tipo: primaria
 tags:

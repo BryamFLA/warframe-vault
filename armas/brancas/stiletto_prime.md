@@ -1,4 +1,4 @@
-﻿---
+---
 title: Stiletto Prime
 tipo: branca
 tags:

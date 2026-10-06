@@ -1,4 +1,4 @@
-﻿---
+---
 title: Spira
 tipo: secundaria
 tags:

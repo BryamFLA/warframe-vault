@@ -1,4 +1,4 @@
-﻿---
+---
 title: Veldt
 tipo: primaria
 tags:

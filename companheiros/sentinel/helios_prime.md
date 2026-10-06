@@ -1,4 +1,4 @@
-﻿---
+---
 title: Helios Prime
 tipo: sentinel
 tags:

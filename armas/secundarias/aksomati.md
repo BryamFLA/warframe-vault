@@ -1,4 +1,4 @@
-﻿---
+---
 title: Aksomati
 tipo: secundaria
 tags:

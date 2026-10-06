@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dual Heat Swords
 tipo: branca
 tags:

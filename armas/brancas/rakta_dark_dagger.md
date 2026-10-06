@@ -1,4 +1,4 @@
-﻿---
+---
 title: Rakta Dark Dagger
 tipo: branca
 tags:

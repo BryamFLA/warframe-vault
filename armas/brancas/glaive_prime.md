@@ -1,4 +1,4 @@
-﻿---
+---
 title: Glaive Prime
 tipo: branca
 tags:

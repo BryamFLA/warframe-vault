@@ -1,4 +1,4 @@
-﻿---
+---
 title: Kaszas
 tipo: archwing
 tags:

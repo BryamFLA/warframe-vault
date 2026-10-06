@@ -1,4 +1,4 @@
-﻿---
+---
 title: Scoliac
 tipo: branca
 tags:

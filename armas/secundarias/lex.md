@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lex
 tipo: secundaria
 tags:

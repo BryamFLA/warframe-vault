@@ -1,4 +1,4 @@
-﻿---
+---
 title: Skins
 tipo: cosmetico
 tags:
@@ -7,37 +7,37 @@ tags:
 atualizado: 2026-04-19
 ---
 
-## O que sÃ£o Skins?
+## O que são Skins?
 
-Skins substituem completamente a aparÃªncia visual de um Warframe ou arma, mantendo os stats e habilidades intactos. SÃ£o puramente estÃ©ticos.
+Skins substituem completamente a aparência visual de um Warframe ou arma, mantendo os stats e habilidades intactos. São puramente estéticos.
 
 ---
 
 ## Tipos de Skin
 
-| Tipo | DescriÃ§Ã£o |
+| Tipo | Descrição |
 |---|---|
 | **Tennogen** | Criadas pela comunidade via Steam Workshop; compradas com dinheiro real via Steam |
-| **Prime Accessories** | Skin + Syandana incluÃ­dos em pacotes de Prime Access |
+| **Prime Accessories** | Skin + Syandana incluídos em pacotes de Prime Access |
 | **Deluxe Bundles** | Skins oficiais de alta qualidade vendidas por Platinum |
-| **Graxx / Feyarch** | Skins temÃ¡ticas de sindicatos ou eventos |
-| **Umbra Tennogen** | Skins compatÃ­veis com Excalibur Umbra (limitadas) |
-| **Weapon Skins** | Substituem o visual de armas especÃ­ficas ou categorias inteiras |
+| **Graxx / Feyarch** | Skins temáticas de sindicatos ou eventos |
+| **Umbra Tennogen** | Skins compatíveis com Excalibur Umbra (limitadas) |
+| **Weapon Skins** | Substituem o visual de armas específicas ou categorias inteiras |
 
 ---
 
-## Fontes de AquisiÃ§Ã£o
+## Fontes de Aquisição
 
-- **Mercado** (Platinum) â€” Deluxe Bundles, weapon skins oficiais
-- **Steam** (dinheiro real) â€” Tennogen exclusivo de PC
-- **Prime Access / Prime Vault** â€” incluÃ­dos em pacotes premium
-- **Nightwave** â€” ocasionalmente oferecidas como recompensas de rank
-- **Eventos** â€” skins exclusivas por tempo limitado
+- **Mercado** (Platinum) — Deluxe Bundles, weapon skins oficiais
+- **Steam** (dinheiro real) — Tennogen exclusivo de PC
+- **Prime Access / Prime Vault** — incluídos em pacotes premium
+- **Nightwave** — ocasionalmente oferecidas como recompensas de rank
+- **Eventos** — skins exclusivas por tempo limitado
 
 ---
 
-## ObservaÃ§Ãµes
+## Observações
 
-- Tennogen **nÃ£o estÃ¡ disponÃ­vel** em consoles via Steam â€” consoles tÃªm seleÃ§Ã£o reduzida via Platinum
-- Skins de Warframe nÃ£o substituem o capacete â€” precisam do capacete default ou de um capacete compatÃ­vel
+- Tennogen **não está disponível** em consoles via Steam — consoles têm seleção reduzida via Platinum
+- Skins de Warframe não substituem o capacete — precisam do capacete default ou de um capacete compatível
 - Algumas skins de arma cobrem categorias inteiras (ex: skin para todas as espadas simples)

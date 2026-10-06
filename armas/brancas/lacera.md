@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lacera
 tipo: branca
 tags:

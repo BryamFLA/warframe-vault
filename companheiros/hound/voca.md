@@ -1,4 +1,4 @@
-﻿---
+---
 title: Voca Hound
 tipo: hound
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sunika Kubrow
 tipo: kubrow
 tags:

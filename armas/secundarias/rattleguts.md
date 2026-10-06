@@ -1,4 +1,4 @@
-﻿---
+---
 title: Rattleguts
 tipo: secundaria
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Kuva Hek
 tipo: primaria
 tags:

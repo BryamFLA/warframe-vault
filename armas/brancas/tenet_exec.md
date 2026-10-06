@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tenet Exec
 tipo: branca
 tags:

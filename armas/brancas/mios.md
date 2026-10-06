@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mios
 tipo: branca
 tags:

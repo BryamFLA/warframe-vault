@@ -1,4 +1,4 @@
-﻿---
+---
 title: Destreza Prime
 tipo: branca
 tags:

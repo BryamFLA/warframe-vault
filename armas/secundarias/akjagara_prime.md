@@ -1,4 +1,4 @@
-﻿---
+---
 title: Akjagara Prime
 tipo: secundaria
 tags:

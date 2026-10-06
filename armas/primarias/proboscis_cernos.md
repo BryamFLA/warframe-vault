@@ -1,4 +1,4 @@
-﻿---
+---
 title: Proboscis Cernos
 tipo: primaria
 tags:

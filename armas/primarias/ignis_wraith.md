@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ignis Wraith
 tipo: primaria
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Rubico
 tipo: primaria
 tags:

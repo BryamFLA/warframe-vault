@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lato Prime
 tipo: secundaria
 tags:

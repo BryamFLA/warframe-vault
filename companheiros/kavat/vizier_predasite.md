@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vizier Predasite
 tipo: kavat
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Arca Scisco
 tipo: secundaria
 tags:

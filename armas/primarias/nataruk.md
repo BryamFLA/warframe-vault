@@ -1,4 +1,4 @@
-﻿---
+---
 title: Nataruk
 tipo: primaria
 tags:

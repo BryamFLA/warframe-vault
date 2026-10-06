@@ -1,4 +1,4 @@
-﻿---
+---
 title: Buzlok
 tipo: primaria
 tags:

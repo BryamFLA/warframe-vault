@@ -1,4 +1,4 @@
-﻿---
+---
 title: Djinn
 tipo: sentinel
 tags:

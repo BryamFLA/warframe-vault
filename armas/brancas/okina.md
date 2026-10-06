@@ -1,4 +1,4 @@
-﻿---
+---
 title: Okina
 tipo: branca
 tags:

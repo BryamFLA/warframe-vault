@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tenet Envoy
 tipo: primaria
 tags:

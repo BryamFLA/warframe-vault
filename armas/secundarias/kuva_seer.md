@@ -1,4 +1,4 @@
-﻿---
+---
 title: Kuva Seer
 tipo: secundaria
 tags:

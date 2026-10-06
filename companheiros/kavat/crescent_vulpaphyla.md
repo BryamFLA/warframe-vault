@@ -1,4 +1,4 @@
-﻿---
+---
 title: Crescent Vulpaphyla
 tipo: kavat
 tags:

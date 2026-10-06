@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dual Kamas Prime
 tipo: branca
 tags:

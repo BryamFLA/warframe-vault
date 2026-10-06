@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vasto Prime
 tipo: secundaria
 tags:

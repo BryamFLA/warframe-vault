@@ -1,4 +1,4 @@
-﻿---
+---
 title: Nautilus Prime
 tipo: sentinel
 tags:

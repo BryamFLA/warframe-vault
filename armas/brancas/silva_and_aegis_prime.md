@@ -1,4 +1,4 @@
-﻿---
+---
 title: Silva e Aegis Prime
 tipo: branca
 tags:

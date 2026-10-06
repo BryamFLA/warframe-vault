@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vaykor Hek
 tipo: primaria
 tags:
