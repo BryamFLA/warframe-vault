@@ -2,7 +2,7 @@
 title: Status — opus
 tipo: protocolo
 tags: [protocolo, status]
-atualizado: 2026-10-06
+atualizado: 2026-10-07
 ---
 
 # Status — opus
@@ -237,6 +237,127 @@ Os **73 sem `.md`** estão quase todos em `locais/planetas/` (Eris 7, Júpiter 5
 
 > [!note] A fila da seção 6 do protocolo está zerada
 > Todos os itens 1 a 7 da fila original foram concluídos. A próxima execução deve começar pela tabela de prioridades acima, não pela seção 6.
+
+---
+
+## Sessão 2026-10-07 — PREPARAÇÃO PARA RAG (interrompida pelo usuário, retomar amanhã)
+
+> [!important] Correção do relatório anterior
+> O bloco de 2026-10-06 diz "vault 100% preenchido, 0 vazios". **A métrica estava errada.**
+> Usei `find -size -1c`, que só pega arquivo de 0 byte. Medindo **corpo útil** (sem frontmatter
+> e sem a seção Fontes), o vault tem **564 stubs (48%)** — incluindo `armas/` (357 de ~380),
+> `warframes/` (107 de 115), `companheiros/` (45) e `locais/planetas/` (17 de 18).
+> Exemplos: `armas/primarias/acceltra.md` = só frontmatter, corpo vazio.
+> `warframes/regular/mesa.md` = template com tabelas em branco (`| HP | |`).
+> **Os 369 arquivos que escrevi em 2026-10-06 têm conteúdo real; o resto das pastas não.**
+
+### Objetivo desta sessão
+O usuário vai conectar o vault a um **RAG + um modelo de geração de texto pequeno**.
+Pedido: revisar arquivo por arquivo, verificar a arquitetura e corrigir inconsistências,
+de modo que o RAG recupere o suficiente **sem trazer texto desnecessário**.
+
+### Diagnóstico medido (não estimado)
+Construí um simulador de RAG (chunking por heading + BM25) em `$HOME/ragtest/`.
+Com as 6 perguntas-teste do usuário, **as 6 falharam** no estado original. Causas:
+
+| # | Causa | Medida |
+|---|---|---|
+| 1 | **`_Warframe _Segunda _Mente.md` é um espelho do vault** (352 KB, 517 seções) | gerava **595 chunks** contra 17 do `rhino.md`; detinha 72 chunks de "corpus", 64 de "orokin". Ganhava de todo arquivo canônico |
+| 2 | **Vocabulário do vault ≠ vocabulário da pergunta** | `rhino.md` tinha a seção certa chamada "Aquisição e Fundição"; a palavra "construir" aparecia **0 vezes** no arquivo |
+| 3 | **608 seções `📚 Fontes` no corpo** | rankeavam alto (as URLs contêm o nome da entidade) e são inúteis para o modelo de texto |
+| 4 | **528 variantes de heading H2** para ~15 conceitos | "Onde Obter"/"Como Obter"/"Onde Farmar"; "Relacionados"/"Relações"/"Conexões"; "Habilidades" com e sem emoji |
+| 5 | **425 arquivos com BOM** antes do `---` | quebrava o parsing de frontmatter: por isso 425 arquivos pareciam "sem tipo" |
+| 6 | **13 arquivos com mojibake** (`ObservaÃ§Ãµes`) | UTF-8 lido como Latin-1, misturado com texto correto |
+| 7 | **70 seções "Minha Progressão"** e 33 "Pendência para o humano" | checklist pessoal e meta-comentário de processo: ruído puro |
+
+### Decisões do usuário (respondidas por ele nesta sessão)
+1. `_Warframe _Segunda _Mente.md` → **reescrever como índice enxuto** (~5 KB, só roteamento). **AINDA NÃO FEITO.**
+2. Escopo → **normalização completa** (headings canônicos + aliases + resumo + flags).
+3. **Autorizado criar e renomear arquivos** — a seção 2 do `_CONVENCOES.md` foi relaxada para isso. **O `_CONVENCOES.md` ainda não foi atualizado registrando a mudança.**
+4. Fontes e Progressão → **mover para o frontmatter / fora do corpo**.
+5. Stubs → marcar **`rag: false` + `status: stub`**.
+
+### O que FOI feito (commits `77088b7` e `4b29acc`)
+
+**Encoding (`77088b7`):**
+- 941 sequências mojibake reparadas em 13 arquivos
+- BOM removido de 425 arquivos
+- CRLF normalizado em 564 arquivos
+
+**Normalização para RAG (`4b29acc`) — 1.181 arquivos:**
+- **Headings**: 528 variantes → conjunto canônico, **com a entidade no título**:
+  `## 🏗️ Como Construir — Rhino`, `## 🛠️ Build — Excalibur`, `## 🌍 Onde Conseguir — Orokin Cell`.
+  Isso resolve duas coisas de uma vez: o chunk passa a carregar o nome da entidade mesmo
+  depois de fatiado, e o heading passa a usar a palavra que o jogador digita
+  ("construir", "build", "história", "conseguir").
+- **Frontmatter canônico**: `aliases` (PT+EN, com variante sem acento), `resumo`
+  (uma frase auto-suficiente que começa pelo nome da entidade), `status`
+  (completo 578 / parcial 39 / stub 564), `rag` (true/false).
+- **Fontes**: 597 seções movidas do corpo para o campo `fontes:` do YAML. Rastreabilidade
+  preservada, zero custo de contexto.
+- **Ruído removido do corpo**: 70 "Minha Progressão" e 33 "Pendência para o humano".
+  As pendências foram reunidas em **`_MODELOS/_PENDENCIAS.md`** (`rag: false`).
+- **Links**: 2.608 wikilinks sem caminho resolvidos para o caminho canônico.
+  Os 470 cujo alvo não existe **foram preservados como wikilink**, nunca destruídos.
+
+> [!warning] Erro que eu cometi e corrigi no meio desta sessão
+> A primeira versão do resolvedor de links convertia o link **em texto puro** quando não
+> achava o alvo — destruiu 824 links em 18 arquivos, incluindo casos que só precisavam
+> de `.md` (`locais/planetas/venus` → `locais/planetas/venus.md`). Recuperei os 18 arquivos
+> do commit `77088b7` via `git show`, reaplicei a normalização e rodei o resolvedor
+> corrigido. **Regra para o futuro: alvo não resolvido se PRESERVA, nunca se apaga.**
+
+### Resultado medido das 6 perguntas, depois da normalização
+
+| Pergunta | Antes | Depois |
+|---|---|---|
+| Build do Excalibur | ❌ arquivo ausente do top-8 | ✅ **top 1, 3 e 4** são `excalibur.md › 🛠️ Build` |
+| O que é Deimos | ⚠️ junção/planeta/open-world competindo | ✅ `locais/planetas/deimos.md` em 3 dos top 5 |
+| Construir Rhino | ❌ zero conteúdo de Rhino | ⚠️ `rhino.md › Como Construir` entrou em 4º e 5º — ainda perde para ruído |
+| História dos Corpus | ❌ só chefes Corpus | ⚠️ `corpus.md › Ficha` em 5º; a seção História ainda não entra |
+| Célula Orokin | ⚠️ 8º lugar | ❌ ainda falha — ver causa abaixo |
+| O que fazer em Vênus | ❌ | ❌ **falta conteúdo**: `venus.md` tem 689 bytes e está `rag:false` |
+
+### FILA PARA AMANHÃ, em ordem
+
+1. **Reescrever `_Warframe _Segunda _Mente.md` como índice enxuto** (decisão 1 do usuário,
+   ainda pendente). Ele ainda detém **239 links quebrados** e ainda aparece no top-5 da
+   pergunta de Vênus. É o maior ganho isolado que resta.
+2. **Aliases precisam de plural/singular.** A pergunta "celulas orokin" não casou com o alias
+   `Celula Orokin`. Gerar as duas formas em `$HOME/norm/aliases.py`.
+3. **`🔗 Relacionados` e `📋 Tabelas de Referência` são ímãs de ruído** — são despejos de link
+   que casam com muitas palavras da pergunta. Foi o que fez Razorback Armada e The Archwing
+   ganharem da pergunta do Rhino. Avaliar marcá-las para não indexar (delimitador de seção).
+4. **Conteúdo dos stubs, por prioridade de pergunta:** `locais/planetas/venus.md` e os outros
+   16 planetas primeiro (é a pergunta "estou em X, o que faço aqui", a mais provável de um
+   jogador), depois os ~107 warframes, depois as 357 armas.
+5. **Reescrever `warframes/regular/ash.md`, `atlas.md` e `primes/ash_prime.md`** — concentram
+   192 dos 397 links quebrados restantes.
+6. **Atualizar o `_CONVENCOES.md`** registrando que a seção 2 foi relaxada (criar/renomear
+   autorizado) e acrescentando as regras novas de RAG (heading canônico com entidade,
+   aliases, resumo, status/rag, fontes no frontmatter).
+
+### Ferramentas desta sessão (em `$HOME`, recriar se a sessão for nova)
+
+| Script | O que faz |
+|---|---|
+| `~/ragtest/rag.py` | Chunker por heading + BM25. Simula o que o RAG real vai recuperar |
+| `~/ragtest/query.py` | Roda as 6 perguntas-teste e mostra top-K e custo de contexto |
+| `~/norm/schema.py` | Mapa das 528 variantes de heading → canônico, por tipo de arquivo |
+| `~/norm/aliases.py` | Gerador de aliases PT/EN (precisa do ajuste de plural, item 2) |
+| `~/norm/norm.py` | Normalizador principal. **Idempotente** — pode rodar de novo sem estragar |
+
+### Estado do vault agora
+
+| Métrica | Valor |
+|---|---|
+| Arquivos | 1.181 |
+| `rag: true` (indexáveis) | **617** |
+| `rag: false` (stubs blindados) | **564** |
+| Chunks indexáveis | **4.320** (eram 6.131 sem o filtro) |
+| BOM / mojibake | **0 / 0** |
+| Fontes no corpo | **2** (o espelho e o índice de cosméticos, ambos na fila) |
+| Links quebrados | 397, sendo **239 no espelho** e 192 em ash/atlas/ash_prime |
 
 ---
 
