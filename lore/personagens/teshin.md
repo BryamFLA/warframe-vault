@@ -1,9 +1,14 @@
 ---
 title: Teshin
+aliases: [Teshin]
 tipo: lore
 subtipo: personagem
+resumo: "Teshin — O último Dax de pé: não entrou em criosono, culpa a Lotus por deixar os Tenno \"complacentes como bois\", e fundou o Conclave para prepará-los para horrores além do Outer Terminus."
+status: completo
+rag: true
 tags: [lore, personagem, dax, orokin, conclave]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Teshin"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O último Dax de pé: não entrou em criosono, culpa a Lotus por deixar os Tenno "complacentes como bois", e fundou o Conclave para prepará-los para horrores além do Outer Terminus.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Teshin
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Vivo em [[locais/open-worlds/duviri.md\|Duviri]], ressuscitado pelo trono. No Sistema de Origem foi **substituído por um holograma cinza** após The New War |
 | Armas | Nikana, [[armas/brancas/orvius.md\|Orvius]], e **Sun & Moon** (que ele oferece ao Drifter) |
 
----
 
-## 📖 História
+## 📖 História — Teshin
+
 
 Como **Dax** — a força de guerreiros de elite dos [[lore/faccoes/orokin.md|Orokin]] — as origens de Teshin remontam à Era Orokin, e ele foi **um dos poucos que não entraram em criosono**. **Como permaneceu vivo tanto tempo é desconhecido.** Ele **culpa a [[lore/personagens/lotus.md|Lotus]] pela queda dos Orokin**, por ter levado os [[lore/faccoes/tenno.md|Tenno]] a ficarem "complacentes como bois" — embora admita, a contragosto, que a ruína dos Orokin e a [[lore/cronologia/antiga_guerra.md|Antiga Guerra]] eram necessárias.
 
@@ -56,9 +61,9 @@ Ele faz referência à **chegada iminente dos [[lore/faccoes/sentient.md|Sentien
 >
 > O rei louco **[[lore/personagens/dominus_thrax.md|Dominus Thrax]]**, cada vez mais irritado com a rebeldia do Drifter, **localiza e captura Teshin**, deixa um impostor no lugar (depois morto pelo Rablit) e o manda **executar**. Teshin morre diante do Drifter, pedindo que cuide do bicho dele e **reconhecendo o crescimento do aluno**. O Drifter então confronta Thrax e, ao descobrir que **ele mesmo era o verdadeiro mestre de Duviri todo esse tempo**, usa o poder de rebobinar o tempo do trono para **ressuscitar Teshin** — mas devolve o poder a Thrax, o que considera uma troca justa.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Teshin
+
 
 - **[[lore/faccoes/dax.md|Dax]]** — ele e **Varzia** são os dois únicos sobreviventes conhecidos da casta.
 - **[[lore/personagens/lotus.md|Lotus]]** — oponente ideológico. Ele a culpa por deixar os Tenno complacentes; ela o considera necessário como mentor.
@@ -72,9 +77,9 @@ Ele faz referência à **chegada iminente dos [[lore/faccoes/sentient.md|Sentien
 - **Mathila** — quem o curou ao cair em Duviri.
 - **[[mecanicas/steel_path.md|Steel Path]]** — ele hospeda o modo e vende na loja dele.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Teshin
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -88,6 +93,3 @@ Ele faz referência à **chegada iminente dos [[lore/faccoes/sentient.md|Sentien
 | [[mecanicas/steel_path.md\|Steel Path]] | Hospeda o modo e a loja de Steel Essence |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Teshin (consultado em 2026-10-04)

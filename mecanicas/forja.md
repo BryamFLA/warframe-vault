@@ -1,8 +1,13 @@
 ---
 title: Forja (Foundry)
+aliases: [Forja (Foundry), forja]
 tipo: mecanica
+resumo: "Forja (Foundry) — Seção da Orbiter onde todo equipamento do jogo é construído: blueprint + componentes + Credits + tempo real de espera, com opção de rush por Platinum."
+status: completo
+rag: true
 tags: [mecanica, forja, foundry, crafting, blueprint]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Foundry", "https://wiki.warframe.com/w/Platinum"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Seção da Orbiter onde todo equipamento do jogo é construído: blueprint + componentes + Credits + tempo real de espera, com opção de rush por Platinum.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Forja (Foundry)
+
 
 A Forja constrói Warframes, Archwings, Sentinels, armas e praticamente todo o resto. Destranca ao concluir a missão tutorial "Locate the Foundry Segment" da quest [[missoes/jornadas/principais/vors_prize.md\|Vor's Prize]] e instalar o **Foundry Segment** recebido nela — depois disso fica permanente.
 
@@ -22,9 +27,9 @@ O ciclo é: **conseguir o blueprint → juntar os componentes → iniciar a cons
 
 A Forja também é acessível pelo **Warframe Companion app** no celular, o que serve para iniciar e reivindicar construções fora do jogo.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Forja (Foundry)
+
 
 ```
 Custo de rush = custo inicial de rush x (1 - ((progresso - 50) / 100))
@@ -68,9 +73,9 @@ Um item pronto **fica preso na Forja** até existir slot livre do tipo correspon
 - Blueprints de uso único mostram a quantidade restante; blueprints **reutilizáveis** têm fundo dourado e a inscrição "REUSABLE BLUEPRINT" no rodapé.
 - Enquanto vários itens constroem ao mesmo tempo, a Forja exibe visualmente **o primeiro que começou**.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Forja (Foundry)
+
 
 ### De onde vêm os blueprints
 
@@ -100,9 +105,9 @@ Um item pronto **fica preso na Forja** até existir slot livre do tipo correspon
 |---|---|---|---|
 | **Landing Craft Segment** | Permite construir Landing Crafts e **Air Support Charges** | Blueprint no Tenno Research Lab do Dojo | 15.000 Credits (ou 175 Platinum pronto no Market) |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Forja (Foundry)
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -116,9 +121,9 @@ Um item pronto **fica preso na Forja** até existir slot livre do tipo correspon
 
 **Mods que interagem:** nenhum. A Forja consome recursos e Credits, não mods — mas é onde se constrói [[recursos/raridades/especial/forma.md|Forma]], [[recursos/raridades/especial/umbral_forma.md|Umbral Forma]], [[recursos/raridades/especial/aura_forma.md|Aura Forma]], [[recursos/raridades/especial/orokin_catalyst.md|Orokin Catalyst]] e [[recursos/raridades/especial/orokin_reactor.md|Orokin Reactor]], que são o que de fato aumenta a capacidade de mod.
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Forja (Foundry)
+
 
 - **"Preciso ficar jogando para a forja andar."** Não. O cronômetro é tempo real e corre com o jogo fechado.
 - **"Cancelar perde tudo."** Devolve recursos **e** blueprint. A única perda é o **Argon Crystal**. A única construção que não pode ser cancelada é a Clan Key.
@@ -127,9 +132,9 @@ Um item pronto **fica preso na Forja** até existir slot livre do tipo correspon
 - **"Posso construir 2 Formas ao mesmo tempo."** Não. Duas construções do **mesmo item** simultâneas são bloqueadas — mas Forma e Forma Umbral, sendo itens diferentes, podem.
 - **"Peça Prime já construída pode ser tradeada."** Não. Só o **blueprint** Prime é tradeável; peça construída e Warframe montado não são.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Forja (Foundry)
+
 
 - [[mecanicas/platinum.md|Platinum]] — rush de construção, slots e compra de itens prontos.
 - [[mecanicas/cla_e_dojo.md|Clã e Dojo]] — as salas de Research são a origem de boa parte dos blueprints, e o Landing Craft Segment sai do Tenno Lab.
@@ -141,7 +146,3 @@ Um item pronto **fica preso na Forja** até existir slot livre do tipo correspon
 - [[missoes/jornadas/principais/vors_prize.md|Vor's Prize]] — a quest que entrega o Foundry Segment.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Foundry — desbloqueio pelo Foundry Segment, regras de construção e cancelamento, blueprints reutilizáveis, claim e slots, fórmula e custos de rush, Landing Craft Segment (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Platinum — custos de rush por tipo de item e preços de slot (consultado em 2026-10-04)

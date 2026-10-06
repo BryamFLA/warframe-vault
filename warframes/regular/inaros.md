@@ -1,12 +1,14 @@
 ---
 title: Inaros
+aliases: [Inaros]
 tipo: warframe
-status: nao-obtido
-polaridade: []
 categoria: tanque
-tags:
-  - warframe
-atualizado: 2026-04-16
+resumo: Inaros — Tanque egípcio com HP massivo e cura por dreno.
+status: stub
+rag: false
+tags: [warframe]
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Inaros
@@ -14,12 +16,14 @@ atualizado: 2026-04-16
 > [!info] Visão Geral
 > Tanque egípcio com HP massivo e cura por dreno
 
-## Como Obter
+## 🏗️ Como Construir — Inaros
+
 - Fonte: 
 - Drop location: 
-- Blueprint: 
+- Blueprint:
 
-## Habilidades
+## 🔮 Habilidades — Inaros
+
 
 | # | Nome | Custo | Descrição |
 |---|------|-------|-----------|
@@ -29,7 +33,8 @@ atualizado: 2026-04-16
 | 3 | | 75 | |
 | 4 | | 100 | |
 
-## Stats Base
+## 📊 Stats Base — Inaros
+
 
 | Stat | Valor |
 |------|-------|
@@ -40,18 +45,13 @@ atualizado: 2026-04-16
 | Sprint | |
 | Polaridades | |
 
-## Build Recomendada
+## 🛠️ Build — Inaros
+
 > Preencher após obter o Warframe.
-- [ ] 
+- [ ]
 
-## Minha Progressão
-- [ ] Blueprint obtido
-- [ ] Componentes farmados
-- [ ] Craftado
-- [ ] Rank 30
-- [ ] Forma aplicado
+## 🔗 Relacionados — Inaros
 
-## Conexões
 - Sinergias: 
 - Recursos necessários: 
-- Quests relacionadas: 
+- Quests relacionadas:

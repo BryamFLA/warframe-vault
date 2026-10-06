@@ -1,11 +1,14 @@
 ---
 title: Phobos
+aliases: [Phobos]
 tipo: local
-status: nao-visitado
 faccao: Corpus
-tags:
-  - local
-atualizado: 2026-04-17
+resumo: Phobos — Lua de Marte com instalações Corpus em ruínas.
+status: stub
+rag: false
+tags: [local]
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Phobos
@@ -13,24 +16,25 @@ atualizado: 2026-04-17
 > [!info] Visão Geral
 > Lua de Marte com instalações Corpus em ruínas
 
-## Facção Principal
+## 🏴 Facção — Phobos
+
 - Corpus
 - Inimigos: Crewmen, MOAs, Ospreys
 
-## Missões Disponíveis
+## 🗺️ Missões — Phobos
+
 - Exterminate, Capture, Mobile Defense, Rescue
 
-## Chefe
-- [[lech_kril|Lech Kril & Vor (Iliad)]] — recompensa: [[frost|Frost]] partes
+## 👑 Chefe — Phobos
 
-## Recursos Notáveis
+- [[lore/chefes/lech_kril.md|Lech Kril & Vor (Iliad)]] — recompensa: [[warframes/regular/frost.md|Frost]] partes
+
+## 💎 Recursos — Phobos
+
 - Morphics
 - Salvage
 - Circuits
 
-## Minha Progressão
-- [ ] Planeta desbloqueado
-- [ ] Chefe derrotado
+## 🔗 Relacionados — Phobos
 
-## Conexões
-- Chefe: [[lech_kril|Lech Kril]]
+- Chefe: [[lore/chefes/lech_kril.md|Lech Kril]]

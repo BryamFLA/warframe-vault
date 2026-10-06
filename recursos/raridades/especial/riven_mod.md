@@ -1,10 +1,15 @@
 ---
 title: Riven Mod
+aliases: [Riven Mod]
 tipo: recurso
 raridade: especial
 origem: sindicato
+resumo: "Item especial e único por instância: cada Riven tem 2 ou 3 atributos sorteados, é designado a uma única arma (e suas variantes), pode carregar um atributo negativo e é rerolável com recursos/raridades/raro/kuva.md|Kuva."
+status: completo
+rag: true
 tags: [recurso, especial, riven]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Riven_Mods"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -17,9 +22,9 @@ agente: opus
 > [!warning] Este arquivo é o lado "recurso" do Riven
 > As **regras completas do sistema** — estados velado/desvelado, Disposition, tabela de custo de rerolagem — estão nos arquivos de mod, por tipo de arma: **[[mods/especiais/riven_rifle.md|Rifle]]**, **[[mods/especiais/riven_shotgun.md|Shotgun]]**, **[[mods/especiais/riven_pistola.md|Pistol]]**, **[[mods/especiais/riven_melee.md|Melee]]** e **[[mods/especiais/riven_archgun.md|Archgun]]**. Aqui ficam apenas **aquisição, estoque e economia**.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Riven Mod
+
 
 | Item | Valor |
 |---|---|
@@ -48,9 +53,9 @@ agente: opus
 > [!important] O estoque é o gargalo real
 > Um Riven velado **já ocupa slot** mesmo sem dar nenhum bônus. Com 15 slots iniciais, acumular velados sem desvelar trava a coleção — e cada expansão custa **20 Platinum por slot**.
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Riven Mod
+
 
 | Fonte | Detalhe |
 |---|---|
@@ -80,9 +85,9 @@ agente: opus
 
 **Mods e frames que ajudam:** nenhum. Riven **não é drop de inimigo** — frames de loot (Nekros, Khora, Hydroid), mods de Vacuum e Resource Boosters **não têm efeito nenhum** sobre a aquisição de Riven.
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Riven Mod
+
 
 | Item | Detalhe |
 |---|---|
@@ -93,9 +98,9 @@ agente: opus
 > [!warning] Riven não entra em receita de Foundry
 > Ao contrário de todo outro item desta pasta, Riven **não é componente de blueprint**. Ele não é consumido para construir nada — é equipado. O único "consumo" associado a ele é o **Kuva gasto em rerolagem**.
 
----
 
-## 💰 Economia
+## 💰 Economia — Riven Mod
+
 
 **Faixa de preço em platina:** ⚠️ **não registrada.** Riven é o item de preço **mais volátil do jogo**: depende da arma, da **Disposition vigente** (que muda a cada 3 meses, junto com cada Prime Access) e da rolagem específica daquela instância. Pela **seção 8 das convenções**, não há estimativa aqui — consulte **riven.market** ou warframe.market no momento da negociação.
 
@@ -107,6 +112,3 @@ O que move o preço, em ordem:
 4. **Número de cycles já feitos.** Um Riven com poucos rerolls tem mais margem para o comprador melhorar.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Riven_Mods — propriedades (2–3 atributos, negativo, polaridades, MR 8–16, custo igual a Rare, rank 8), slots de Riven e preços em Platinum, estado `???` não ocupando slot, Acquisition completa (The War Within, Palladino e os 10 Riven Sliver, chances de Sortie por tipo, Steel Path, Acrithis e os 15 Pathos Clamps, Archon Hunt, Nightwave, calendário de 1999), Disposition e seu ciclo de 3 meses, e a tabela de custo de Cycling em Kuva (consultado em 2026-10-06)

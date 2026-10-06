@@ -1,9 +1,14 @@
 ---
 title: Eidolon Hydrolyst
+aliases: [Eidolon Hydrolyst]
 tipo: lore
 subtipo: chefe
+resumo: "O terceiro e mais perigoso Eidolon: a energia dentro dele é forte o bastante para alterar o clima local — chuva ácida, raios e bolhas EMP que podem matar um Tenno de uma vez."
+status: completo
+rag: true
 tags: [lore, chefe, sentient, eidolon]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Eidolon_Hydrolyst", "https://wiki.warframe.com/w/Damage_2.0/Sentient_Tab"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O terceiro e mais perigoso Eidolon: a energia dentro dele é forte o bastante para **alterar o clima local** — chuva ácida, raios e bolhas EMP que podem matar um Tenno de uma vez.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Eidolon Hydrolyst
+
 
 | Item | Valor |
 |---|---|
@@ -26,9 +31,9 @@ agente: opus
 | Dublagem | Sem fala (grito Sentient) |
 | Codex | "The energy contained within this Eidolon is powerful enough to alter the local weather system." |
 
----
 
-## 📖 História
+## 📖 História — Eidolon Hydrolyst
+
 
 O Hydrolyst fecha a cadeia dos Eidolons das Plains. Como os outros dois, é um **fragmento de um Sentient morto muito maior** — resto da [[lore/cronologia/antiga_guerra.md|Antiga Guerra]] nas Plains da [[locais/planetas/terra.md|Terra]] — mas é o que concentra mais energia residual, e isso tem consequência física: **o clima ao redor dele muda**. Nuvens de chuva pesada se formam, raios caem, e o terreno vira hostil por conta própria.
 
@@ -36,9 +41,9 @@ Ele exige a cadeia completa: capturar o [[lore/chefes/eidolon_teralyst.md|Teraly
 
 Como o Gantulyst, é **muito mais móvel do que o tamanho sugere** — e, ao contrário dos dois anteriores, boa parte dos ataques dele é difícil de evitar mesmo com uso extensivo do Void Mode do Operator.
 
----
 
-## ⚔️ Combate
+## ⚔️ Combate — Eidolon Hydrolyst
+
 
 | Item | Detalhe |
 |---|---|
@@ -105,9 +110,9 @@ Para o Hydrolyst, o recomendado é terminar com **três Lures** sob controle.
 
 **Frames recomendados:** [[warframes/regular/harrow.md|Harrow]] (Covenant contra o Magnetic constante — aqui é quase obrigatório), [[warframes/regular/dante.md|Dante]] (Overguard contra bolhas e raios), [[warframes/regular/trinity.md|Trinity]] (Lures e squad), [[warframes/regular/chroma.md|Chroma]] (dano nas Synovia), [[warframes/regular/volt.md|Volt]] (amplifica o Operator, que é quem lida com Blooms), [[warframes/regular/nezha.md|Nezha]] (Warding Halo + Safeguard), [[warframes/regular/sevagoth.md|Sevagoth]] (Gloom desacelera Vomvalysts e cura).
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Eidolon Hydrolyst
+
 
 - **[[lore/chefes/eidolon_gantulyst.md|Eidolon Gantulyst]]** — pré-requisito obrigatório: só a captura dele dá os Radiant Eidolon Shards.
 - **[[lore/chefes/eidolon_teralyst.md|Eidolon Teralyst]]** — o primeiro elo da cadeia.
@@ -115,9 +120,9 @@ Para o Hydrolyst, o recomendado é terminar com **três Lures** sob controle.
 - **[[mecanicas/sindicatos/the_quills.md|The Quills]]** — sindicato que troca Sentient Cores por Arcanes e peças de Amp; os Arcanes mais valiosos vêm daqui.
 - **[[lore/personagens/onkko.md|Onkko]]** — representante dos Quills em Cetus.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Eidolon Hydrolyst
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -126,7 +131,3 @@ Para o Hydrolyst, o recomendado é terminar com **três Lures** sob controle.
 | [[mecanicas/sindicatos/the_quills.md\|The Quills]] | Arcanes de maior valor e Standing |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Eidolon_Hydrolyst (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Sentient_Tab (consultado em 2026-10-04)

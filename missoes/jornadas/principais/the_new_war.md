@@ -1,9 +1,14 @@
 ---
 title: The New War
+aliases: [The New War]
 tipo: missao
 subtipo: jornada
+resumo: "The New War — A maior quest do jogo: os Sentients invadem, Tenno, Grineer e Corpus se aliam, e você perde a Warframe, o Operator e a Lotus — e joga como outras três pessoas."
+status: completo
+rag: true
 tags: [missao, jornada, principal]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/The_New_War"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > A maior quest do jogo: os Sentients invadem, Tenno, Grineer e Corpus se aliam, e você perde a Warframe, o Operator e a Lotus — e joga como outras três pessoas.
 
----
 
-## 📖 Narrativa e Pré-requisitos
+## 📖 Narrativa e Pré-requisitos — The New War
+
 
 | Item | Detalhe |
 |---|---|
@@ -39,9 +44,9 @@ agente: opus
 >
 > No fim, a Lotus está **em conflito entre três personalidades: ela mesma, Natah e Margulis** — e **o jogador escolhe** qual identidade ela assume.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — The New War
+
 
 | Recompensa | Nota |
 |---|---|
@@ -52,18 +57,18 @@ agente: opus
 | Escolha de identidade da Lotus | Narrativa, permanente |
 | Desbloqueia 4 quests | Angels of the Zariman, Veilbreaker, Jade Shadows, Whispers in the Walls |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — The New War
+
 
 - **Solo-only e longa** (várias horas). Reserve tempo e **não comece com pressa** — não há como pausar o progresso narrativo no meio de um segmento.
 - Você joga trechos **como Kahl-175, Veso e Teshin**, com loadouts fixos. Não há build para preparar nesses segmentos; são tutoriais disfarçados de drama.
 - Depois dela, os **Archon Shards** se tornam a progressão de endgame de Warframe — ver [[mecanicas/helminth.md|Helminth]].
 - A matriz de dano do Narmer é **fraca a Slash e Toxin, resistente a Magnetic** — monte as builds anti-Archon com isso em mente, e não com Corrosive.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — The New War
+
 
 - **[[lore/cronologia/a_nova_guerra.md|A Nova Guerra]]** — a era, com a linha do tempo completa.
 - **[[lore/personagens/ballas.md|Ballas]]**, **[[lore/personagens/lotus.md|Lotus]]**, **[[lore/personagens/erra.md|Erra]]**, **[[lore/personagens/the_drifter.md|Drifter]]**, **[[lore/personagens/hunhow.md|Hunhow]]**, **[[lore/personagens/teshin.md|Teshin]]** — os seis eixos da quest.
@@ -72,6 +77,3 @@ agente: opus
 - **[[missoes/jornadas/principais/the_duviri_paradox.md|The Duviri Paradox]]** — explica de onde vem o Drifter.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/The_New_War (consultado em 2026-10-04)

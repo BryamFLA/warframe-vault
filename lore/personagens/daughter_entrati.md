@@ -1,9 +1,14 @@
 ---
 title: Daughter
+aliases: [Daughter, daughter entrati]
 tipo: lore
 subtipo: personagem
+resumo: "Daughter — Bióloga de xenobiologia e xenobotânica com foco em harmônicas sinergéticas do Void: embarcou clandestinamente para Deimos, teve os peixes roubados pelo irmão e arrancou o braço do pai com a garra que ele lhe deu."
+status: completo
+rag: true
 tags: [lore, personagem, orokin, entrati]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Daughter"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Bióloga de xenobiologia e xenobotânica com foco em harmônicas sinergéticas do Void: embarcou clandestinamente para Deimos, teve os peixes roubados pelo irmão e arrancou o braço do pai com a garra que ele lhe deu.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Daughter
+
 
 | Item | Valor |
 |---|---|
@@ -26,9 +31,9 @@ agente: opus
 | Especialidade | **Xenobiologia e xenobotânica**, com foco em **harmônicas sinergéticas do Void** |
 | Família | Pais [[lore/personagens/mother_entrati.md\|Mother]] e [[lore/personagens/father_entrati.md\|Father]], irmão [[lore/personagens/son_entrati.md\|Son]], avó [[lore/personagens/grandmother_entrati.md\|Grandmother]] |
 
----
 
-## 📖 História
+## 📖 História — Daughter
+
 
 Daughter pertence à família **[[mecanicas/sindicatos/entrati.md|Entrati]]**, altamente respeitada desde a Era Orokin por ter sido a primeira a criar tecnologias que aproveitavam o poder do Void. Ela é **bióloga e pesquisadora**, especializada em **xenobiologia e xenobotânica**, com foco particular em **harmônicas sinergéticas do Void** — e afirma ter sido **desqualificada do Archimedean Collegium "por um detalhe técnico"**.
 
@@ -43,9 +48,9 @@ No presente, Daughter está absorvida na pesquisa sobre a natureza da Infestaç�
 
 Junto com [[lore/personagens/loid.md|Loid]], ela também é responsável por **garantir nutrição e preparar comida simples** que a família consiga ingerir no estado Infested — como um ensopado feito de partes de corpo Infested. Em vez disso, ela desenvolveu gosto por **Fungal Polyps**: massas de fungo Infested que, **fermentadas no sistema digestivo de um Juggernaut**, dão **sonhos psicodélicos** quando consumidas — e pede ao Tenno que vá colhê-las, **contra a vontade de Mother**.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Daughter
+
 
 - **[[lore/personagens/son_entrati.md|Son]]** — o irmão invejoso que roubou os peixes dela, deixou uma caixa de cinzas no lugar e contaminou a família.
 - **[[lore/personagens/father_entrati.md|Father]]** — o pai que menosprezava a pesquisa dela e cujo braço ela arrancou com a garra que ele lhe deu.
@@ -55,9 +60,9 @@ Junto com [[lore/personagens/loid.md|Loid]], ela também é responsável por **g
 - **Fass e Vome** — os wyrms cuja briga ela estuda para entender o hivemind dividido da Grey Strain.
 - **[[lore/faccoes/infested.md|Infested]]** — o objeto de pesquisa dela, e a ameaça que ela quer impedir de assimilar a família.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Daughter
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -68,6 +73,3 @@ Junto com [[lore/personagens/loid.md|Loid]], ela também é responsável por **g
 | [[missoes/jornadas/principais/veilbreaker.md\|Veilbreaker]] | Participação |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Daughter (consultado em 2026-10-04)

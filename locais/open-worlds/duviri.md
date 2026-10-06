@@ -1,12 +1,14 @@
 ---
 title: Duviri
+aliases: [Duviri]
 tipo: local
-status: nao-visitado
 faccao: — (Dominus Thrax)
-tags:
-  - local
-  - open-world
-atualizado: 2026-04-17
+resumo: Duviri — Mundo surreal dentro do Void governado por Thrax.
+status: stub
+rag: false
+tags: [local, open-world]
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Duviri
@@ -14,32 +16,39 @@ atualizado: 2026-04-17
 > [!info] O que é
 > Mundo surreal dentro do Void governado por Thrax. Roguelite com Warframes aleatórios.
 
-## Como Acessar
+## 🚪 Como Chegar — Duviri — Duviri
+
+
 - Pré-requisito: The Duviri Paradox (quest)
 - Rota: Via menu de missões após a quest
 
-## O que fazer aqui
+## 🌍 O Que Fazer — Duviri
+
+
 - The Circuit (roguelite)
 - Duviri Proper (mundo aberto)
 - coleta de Intrinsics
 
-## Facção: — (Dominus Thrax)
+## Facção: — (Dominus Thrax) — Duviri — Duviri
+
+
 - Moeda: Duviri Intrinsic
 - Cap diário de standing: MR × 1.000
 
-## Recursos Exclusivos
+## 💎 Recursos — Duviri — Duviri
+
+
 - Pathos Clamp
 - Solaris United Toroids
 
-## Recompensas de Bounty
+## 🎁 Recompensas — Duviri
+
+
 - Incarnon Genesis mods
 - Archon Shards
 - Kullervo blueprint
 
-## Minha Progressão
-- [ ] Desbloqueado
-- [ ] Primeiro Bounty completado
-- [ ] Standing máximo alcançado
+## 🔗 Relacionados — Duviri
 
-## Conexões
+
 - Sistema: [[sistemas/plains-e-bounties|Plains & Bounties]]

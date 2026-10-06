@@ -1,8 +1,13 @@
 ---
 title: Helminth
+aliases: [Helminth]
 tipo: mecanica
+resumo: "Criatura Infestada na Helminth Infirmary da Orbiter que come recursos, converte em Secretions e permite trocar uma habilidade de qualquer Warframe por outra, aplicar Archon Shards e injetar buffs semanais (Invigoration)."
+status: completo
+rag: true
 tags: [mecanica, helminth, subsume, archon-shard, invigoration, orbiter]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Helminth", "https://wiki.warframe.com/w/Archon_Shard"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Criatura Infestada na Helminth Infirmary da Orbiter que come recursos, converte em Secretions e permite trocar uma habilidade de qualquer Warframe por outra, aplicar Archon Shards e injetar buffs semanais (Invigoration).
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Helminth
+
 
 O Helminth é um ser Infestado que mora na **Helminth Infirmary** da Orbiter, responsável pelas "funções biológicas" da nave — o reparo dos Warframes nos bastidores. Primeira aparição no Update 19.5 (2016-12-22), mas só virou sistema jogável no Update 29.0 (2020-08-25). Você interage sentando o Warframe equipado na cadeira no centro da sala.
 
@@ -22,9 +27,9 @@ O ciclo é sempre o mesmo: **alimente o Helminth com recursos → ele converte e
 
 As quatro funções são: **Subsume** (devorar um Warframe para aprender uma de suas habilidades), **Infusion** (substituir uma habilidade de outro frame pela habilidade aprendida), **Invigoration** (buffs temporários semanais) e **Archon Shards** (bônus permanentes de stat). Cada uma exige um Segment próprio instalado.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Helminth
+
 
 ### Desbloqueio dos Segments
 
@@ -100,9 +105,9 @@ Recuperação de apetite: 24 h do vermelho total até neutro
 | Alimentar o Helminth | ~6,66 XP por 1% de material ganho — 200 XP se gosta (30%), 100 XP neutro (15%), 46 XP se não gosta (7%), 20 XP se odeia (3%) |
 | Injetar uma Invigoration | 4.800 |
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Helminth
+
 
 ### Recursos por tipo de Secretion
 
@@ -272,9 +277,9 @@ Mods de Duração, Eficiência e Força funcionam normalmente em todas elas.
 
 Normal só funde com normal; Tauforged só com Tauforged (gerando Tauforged). As duas fusões são **permanentes e irreversíveis** — o jogo pede para digitar CONFIRM.
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Helminth
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -294,9 +299,9 @@ Normal só funde com normal; Tauforged só com Tauforged (gerando Tauforged). As
 
 **Frames que interagem:** [[warframes/regular/nidus.md|Nidus]] (único jeito de abrir a Infirmary antes do Segment), [[warframes/regular/hildryn.md|Hildryn]] e [[warframes/regular/styanax.md|Styanax]] (strip de armadura+escudo), [[warframes/regular/harrow.md|Harrow]] e [[warframes/regular/khora.md|Khora]] (travar Acolyte), [[warframes/regular/protea.md|Protea]] (Dispensary), [[warframes/regular/grendel.md|Grendel]] (Nourish), [[warframes/regular/rhino.md|Rhino]] e [[warframes/regular/mirage.md|Mirage]] (buffs restritos), [[warframes/regular/inaros.md|Inaros]] e [[warframes/regular/kullervo.md|Kullervo]] (não aproveitam Shard de escudo).
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Helminth
+
 
 - **"Vou subsumir meu Prime para liberar slot."** Impossível. Só **não-Prime e não-Umbra** podem ser subsumidos. E o frame é **destruído permanentemente** — a Mastery dele você mantém, mas o frame some do inventário.
 - **"Nyx dá Psychic Bolts."** Não. Nyx dá **Mind Control**. Psychic Bolts, a habilidade que todo mundo quer para Steel Path, **não é subsumível**.
@@ -309,9 +314,9 @@ Normal só funde com normal; Tauforged só com Tauforged (gerando Tauforged). As
 - **"Posso pôr duas habilidades infundidas no mesmo frame."** Uma por configuração de mod. Configs diferentes podem ter habilidades diferentes — é assim que se tem "duas", trocando de config.
 - **"Invigoration eu escolho."** Não, é sorteio. Só depois de 10 Invigorations você ganha **um** Override para forçar o frame equipado.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Helminth
+
 
 - [[mecanicas/steel_path.md|The Steel Path]] — Tharros Strike, Pillage e Condemn subsumidos são a resposta direta ao escudo de 250%; Archon Shards cobrem a sobrevivência.
 - [[mecanicas/forma_e_polaridades.md|Forma e Polaridades]] — habilidade infundida não muda polaridade de slot, mas builds de Força/Duração para a habilidade nova geralmente exigem repolarizar.
@@ -328,7 +333,3 @@ Normal só funde com normal; Tauforged só com Tauforged (gerando Tauforged). As
 - [[companheiros/_Companheiros _Indice.md|Companheiros]] — Helminth Charger, gerado pelo cisto.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Helminth — Secretions e recursos por categoria, taxas de apetite, Metamorphosis e XP, lista completa de habilidades subsumíveis e restrições de buff de dano, habilidades próprias do Helminth, Invigoration, Archon Shards e fusões, custos e requisitos de cada Segment (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Archon_Shard — tabela de buffs por cor, transcluída na página do Helminth (consultado em 2026-10-04)

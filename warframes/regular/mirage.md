@@ -1,12 +1,14 @@
 ---
 title: Mirage
+aliases: [Mirage]
 tipo: warframe
-status: nao-obtido
-polaridade: []
 categoria: dps
-tags:
-  - warframe
-atualizado: 2026-04-16
+resumo: Mirage — DPS de ilusão que cria clones e amplifica dano por luz.
+status: stub
+rag: false
+tags: [warframe]
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Mirage
@@ -14,12 +16,14 @@ atualizado: 2026-04-16
 > [!info] Visão Geral
 > DPS de ilusão que cria clones e amplifica dano por luz
 
-## Como Obter
+## 🏗️ Como Construir — Mirage
+
 - Fonte: 
 - Drop location: 
-- Blueprint: 
+- Blueprint:
 
-## Habilidades
+## 🔮 Habilidades — Mirage
+
 
 | # | Nome | Custo | Descrição |
 |---|------|-------|-----------|
@@ -29,7 +33,8 @@ atualizado: 2026-04-16
 | 3 | | 75 | |
 | 4 | | 100 | |
 
-## Stats Base
+## 📊 Stats Base — Mirage
+
 
 | Stat | Valor |
 |------|-------|
@@ -40,18 +45,13 @@ atualizado: 2026-04-16
 | Sprint | |
 | Polaridades | |
 
-## Build Recomendada
+## 🛠️ Build — Mirage
+
 > Preencher após obter o Warframe.
-- [ ] 
+- [ ]
 
-## Minha Progressão
-- [ ] Blueprint obtido
-- [ ] Componentes farmados
-- [ ] Craftado
-- [ ] Rank 30
-- [ ] Forma aplicado
+## 🔗 Relacionados — Mirage
 
-## Conexões
 - Sinergias: 
 - Recursos necessários: 
-- Quests relacionadas: 
+- Quests relacionadas:

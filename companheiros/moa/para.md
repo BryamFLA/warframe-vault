@@ -1,9 +1,16 @@
 ---
 title: Para MOA
-tipo: moa
-tags:
-  - companheiro
-  - moa
-status: nao-obtido
-atualizado: 2026-04-19
+aliases: [Para MOA, para]
+tipo: companheiro
+subtipo: moa
+resumo: Para MOA — conteúdo ainda não preenchido no vault.
+status: stub
+rag: false
+tags: [companheiro, moa]
+atualizado: 2026-10-07
+agente: opus
 ---
+
+# Para MOA
+
+

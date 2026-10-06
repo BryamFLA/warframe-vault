@@ -1,9 +1,16 @@
 ---
 title: Arum Spinosa
-tipo: branca
-tags:
-  - arma
-  - branca
-status: nao-obtida
-atualizado: 2026-04-19
+aliases: [Arum Spinosa]
+tipo: arma
+subtipo: branca
+resumo: Arum Spinosa — conteúdo ainda não preenchido no vault.
+status: stub
+rag: false
+tags: [arma, branca]
+atualizado: 2026-10-07
+agente: opus
 ---
+
+# Arum Spinosa
+
+

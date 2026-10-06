@@ -1,9 +1,14 @@
 ---
 title: Jackal
+aliases: [Jackal]
 tipo: lore
 subtipo: chefe
+resumo: "Jackal — O primeiro chefe de verdade do jogo: um proxy quadrúpede Corpus cujo stomp desliga as habilidades de Warframe, e que só morre com quatro ciclos de perna destruída → Grid Wall → Parazon."
+status: completo
+rag: true
 tags: [lore, chefe, corpus]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Jackal", "https://wiki.warframe.com/w/Damage_2.0/Corpus_Tab"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O primeiro chefe de verdade do jogo: um proxy quadrúpede Corpus cujo stomp **desliga as habilidades de Warframe**, e que só morre com quatro ciclos de perna destruída → Grid Wall → Parazon.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Jackal
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Ativo. Modelos dissecados aparecem em tilesets Grineer |
 | Dublagem | Sem fala (proxy) |
 
----
 
-## 📖 História
+## 📖 História — Jackal
+
 
 O Jackal é um **modelo antigo e mais volumoso** comparado à robótica Corpus mais recente — e ainda assim é temível, com **escudos invulneráveis**, uma onda de choque gigante capaz de derrubar jogadores, e uma das armas Corpus mais poderosas: o **Plasma Grenade Cluster**.
 
@@ -35,9 +40,9 @@ Um detalhe que diz muito sobre o Sistema: **modelos dissecados do Jackal podem s
 
 Existem variantes. A **Terra** pode surgir no Orb Vallis durante o estado de high alert, mas é considerada **inimigo comum**: não dropa blueprints e não irrita o [[lore/chefes/stalker.md|Stalker]]. Ela é menos armada — **falta o grenade cluster, os mísseis teleguiados e a grid wall**. E uma variante **Corrupted** aparece no Assassination do The Circuit, com mecânicas alteradas.
 
----
 
-## ⚔️ Combate
+## ⚔️ Combate — Jackal
+
 
 | Item | Detalhe |
 |---|---|
@@ -76,9 +81,9 @@ A armadilha real é o **Rippling Shockwave**: ele **desliga habilidades**, entã
 
 **Frames recomendados:** [[warframes/regular/rhino.md|Rhino]] (Iron Skin ignora o shockwave e é a Warframe que ele dropa), [[warframes/regular/mag.md|Mag]] (Magnetize e Polarize destroem escudo de proxy), [[warframes/regular/volt.md|Volt]] (Electricity é +50% em Robotic), [[warframes/regular/excalibur.md|Excalibur]] ou [[warframes/regular/mesa.md|Mesa]] para dano confiável nas pernas.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Jackal
+
 
 - **[[lore/chefes/hyena_pack.md|Hyena Pack]]** — o outro grupo-chefe de proxies Corpus, de desenho oposto (quatro pequenos em vez de um grande).
 - **[[warframes/regular/rhino.md|Rhino]]** — a Warframe cujos componentes ele dropa.
@@ -88,9 +93,9 @@ A armadilha real é o **Rippling Shockwave**: ele **desliga habilidades**, entã
 - **Razorback** — descrito como **um Jackal muito maior**, criação de Nef Anyo, no evento [[mecanicas/eventos/razorback_armada.md|Razorback Armada]].
 - **[[locais/open-worlds/fortuna.md|Orb Vallis]]** — onde a variante Terra aparece como inimigo comum.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Jackal
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -100,7 +105,3 @@ A armadilha real é o **Rippling Shockwave**: ele **desliga habilidades**, entã
 | [[mecanicas/steel_path.md\|Steel Path]] | Versão de dificuldade elevada do nó |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Jackal (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Corpus_Tab (consultado em 2026-10-04)

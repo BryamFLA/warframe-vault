@@ -1,8 +1,13 @@
 ---
 title: Eventos — Índice
+aliases: [Eventos — Índice, Eventos — Indice, Eventos  Indice]
 tipo: index
+resumo: "Os eventos recorrentes do Warframe: dois de calendário fixo (Anniversary em março, Tennobaum em dezembro, Naberus em outubro) e quatro que voltam por world state ou por ciclo de Invasion."
+status: completo
+rag: true
 tags: [index, evento, mecanica]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Operation:_Plague_Star"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Os eventos **recorrentes** do Warframe: dois de calendário fixo (Anniversary em março, Tennobaum em dezembro, Naberus em outubro) e quatro que voltam por world state ou por ciclo de Invasion.
 
----
 
-## Como pensar os eventos
+## Como pensar os eventos — Eventos — Índice
+
 
 Eventos recorrentes se dividem em dois tipos de gatilho:
 
@@ -23,9 +28,9 @@ Eventos recorrentes se dividem em dois tipos de gatilho:
 | **Calendário anual** | [[mecanicas/eventos/anniversary.md\|Anniversary]] (março) · [[mecanicas/eventos/nights_of_naberus.md\|Nights of Naberus]] (outubro) · [[mecanicas/eventos/tennobaum.md\|Tennobaum]] (dezembro) | Anúncio oficial e inbox |
 | **World state / Invasion** | [[mecanicas/eventos/plague_star.md\|Operation: Plague Star]] · [[mecanicas/eventos/thermia_fractures.md\|Thermia Fractures]] · [[mecanicas/eventos/razorback_armada.md\|Razorback Armada]] · [[mecanicas/eventos/balor_fomorian.md\|Balor Fomorian]] | Nó novo no Star Chart, painel de Invasion ou painel de Alerts |
 
----
 
-## Tabela comparativa
+## Tabela comparativa — Eventos — Índice
+
 
 | Evento | Onde | Gatilho | Moeda / progresso | Recompensa que não existe em outro lugar |
 |---|---|---|---|---|
@@ -37,9 +42,9 @@ Eventos recorrentes se dividem em dois tipos de gatilho:
 | **[[mecanicas/eventos/tennobaum.md\|Tennobaum]]** | Market / Orbiter / Dojo | Anual, dezembro | **Platinum**, Credits e recursos — e **presentear** pelo Market | Skins Solstice · **Ki'Teer Solstice Syandana** (Baro) · decorações de Dojo · itens por **1 Credit** |
 | **[[mecanicas/eventos/anniversary.md\|Anniversary]]** | Alertas semanais ou login | Anual, março | **Nenhuma** — é gratuito | Toda a série **Dex**: Dex Furis, Dex Dakra, Dex Sybaris, Dex Nikana, skins e acessórios |
 
----
 
-## Os dois eventos de Relay (espelhados)
+## Os dois eventos de Relay (espelhados) — Eventos — Índice
+
 
 O **Razorback Armada** (Corpus) e o **Balor Fomorian** (Grineer) são o mesmo sistema visto dos dois lados: o painel de **Invasion** acumula uma construção, e apoiar um lado faz a ameaça do **outro** aparecer perto de um Relay. As diferenças:
 
@@ -54,9 +59,9 @@ O **Razorback Armada** (Corpus) e o **Balor Fomorian** (Grineer) são o mesmo si
 | Recompensa de arma | **Gorgon Wraith** | **Imperator Vandal** (exige **MR 5**) |
 | Recompensa de evento | **200.000 Credits + 1 Orokin Catalyst** por 3 conclusões | 400 Endo (40%) |
 
----
 
-## O que priorizar em cada evento
+## O que priorizar em cada evento — Eventos — Índice
+
 
 | Prioridade | Por que |
 |---|---|
@@ -67,9 +72,9 @@ O **Razorback Armada** (Corpus) e o **Balor Fomorian** (Grineer) são o mesmo si
 | **Tennobaum — itens por 1 Credit** | Spearmint Scythe, Ringers Skin, Little Helper Hat, Crimson Nose Pattern e Festive Interior Decorations saem **praticamente de graça** |
 | **Anniversary — as 4 armas Dex** | **3.000 de Mastery cada**, e são gratuitas |
 
----
 
-## Erros comuns sobre eventos
+## Erros comuns sobre eventos — Eventos — Índice
+
 
 - **"Perdi o evento, perdi os pontos."** No **Thermia Fractures** os pontos **acumulam entre edições** e cada recompensa só é obtida uma vez. Nos outros, o progresso dentro da edição é que se perde.
 - **"Plague Star é um evento único."** É **recorrente** — o boil volta a crescer.
@@ -82,9 +87,9 @@ O **Razorback Armada** (Corpus) e o **Balor Fomorian** (Grineer) são o mesmo si
 - **"Exploiter Orb só pode ser invocado durante o Thermia Fractures."** Pode ser invocado **sempre**, no **Thermic Condenser** do **Deck 12**, desde que você tenha Diluted Thermia.
 - **"Habilidade de Archwing funciona no núcleo do Fomorian."** Desativadas a menos de 350 m desde a Hotfix 17.7.1 (2015-10-15).
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Eventos — Índice
+
 
 - [[mecanicas/sindicatos/operational_supply.md|Operational Supply]] — o sindicato que só existe durante a Plague Star.
 - [[mecanicas/sindicatos/_Sindicatos _Indice.md|Sindicatos]] — onde Operational Supply e Nightwave se encaixam como sindicatos de evento.
@@ -98,6 +103,3 @@ O **Razorback Armada** (Corpus) e o **Balor Fomorian** (Grineer) são o mesmo si
 - [[mecanicas/_Mecanicas _Indice.md|Mecânicas]] — o índice da pasta.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Operation:_Plague_Star · /w/Thermia_Fractures · /w/Razorback · /w/Balor_Fomorian · /w/Nights_of_Naberus · /w/Tennobaum · /w/Anniversary — gatilhos, moedas, recompensas exclusivas e números de cada evento (consultado em 2026-10-04)

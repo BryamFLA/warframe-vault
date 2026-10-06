@@ -1,9 +1,14 @@
 ---
 title: 02. A Antiga Guerra
+aliases: [02. A Antiga Guerra, antiga guerra]
 tipo: lore
 subtipo: cronologia
+resumo: "02. A Antiga Guerra — Os Sentients voltaram de Tau para destruir quem os criou, adaptaram-se a toda arma Orokin, e só foram vencidos quando o Império transformou crianças mutadas e humanos infestados em armas vivas."
+status: completo
+rag: true
 tags: [lore, cronologia, orokin, sentient]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Sentient", "https://wiki.warframe.com/w/Infested", "https://wiki.warframe.com/w/Orokin"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Os Sentients voltaram de Tau para destruir quem os criou, adaptaram-se a toda arma Orokin, e só foram vencidos quando o Império transformou crianças mutadas e humanos infestados em armas vivas.
 
----
 
-## 🕰️ Linha do Tempo
+## 🕰️ Linha do Tempo — 02. A Antiga Guerra
+
 
 | Evento | O que aconteceu |
 |---|---|
@@ -32,9 +37,9 @@ agente: opus
 | Natah infiltrada | Hunhow envia a filha **Natah** com aparência humana, para destruir o Império por dentro e exterminar os Tenno |
 | Vitória | Os Orokin empurram os Sentients de volta e **lançam as celebrações** |
 
----
 
-## 📖 História
+## 📖 História — 02. A Antiga Guerra
+
 
 A guerra foi, antes de tudo, **um problema de adaptação**. Os Sentients foram projetados para se adaptar a qualquer dano e se replicar a partir de peças danificadas. Isso significava que **toda arma nova dos Orokin funcionava uma vez**. A fraqueza ao Void embutida no projeto deles era a única resposta — e por isso as crianças do Zariman, que **eram** poder do Void, se tornaram a arma decisiva.
 
@@ -44,9 +49,9 @@ A segunda solução foi a **Transference**. Ela resolveu o problema das Warframe
 
 Houve um intervalo de paz real, que quase nada no jogo moderno lembra. Alguns Sentients absorveram a **Xenoflora**, uma planta nativa de Tau que **os desconectava do hivemind e dava individualidade** (as luzes deles ficavam azuis). Disso nasceu o **Old Peace**, com a Tauron Academy e criações conjuntas — inclusive o **Caliban Prime** e a **Venato Prime**, feita a partir dos ossos que um Sentient doou voluntariamente. **Dois Executors sabotaram o tratado por caminhos separados**, e a guerra voltou.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — 02. A Antiga Guerra
+
 
 - **[[lore/cronologia/era_orokin.md|A Era Orokin]]** — a era anterior, que criou tanto os Sentients quanto os Tenno.
 - **[[lore/cronologia/o_colapso.md|O Colapso]]** — o que vem imediatamente depois: a festa da vitória.
@@ -57,9 +62,9 @@ Houve um intervalo de paz real, que quase nada no jogo moderno lembra. Alguns Se
 - **[[lore/faccoes/dax.md|Dax]]** — a elite militar da guerra; os **Anarchs** separatistas nascem do rompimento do Old Peace.
 - **[[lore/personagens/cephalon_cy.md|Cephalon Cy]]** — a tripulação original de Railjack dele morreu nesta guerra.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — 02. A Antiga Guerra
+
 
 | Quest / Conteúdo | O que mostra desta era |
 |---|---|
@@ -72,8 +77,3 @@ Houve um intervalo de paz real, que quase nada no jogo moderno lembra. Alguns Se
 | [[missoes/bounties/eidolon.md\|Plains of Eidolon]] | Os Eidolons são restos de um Sentient morto nesta guerra |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Sentient (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Infested (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Orokin (consultado em 2026-10-04)

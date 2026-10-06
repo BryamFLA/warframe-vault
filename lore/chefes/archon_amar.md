@@ -1,9 +1,14 @@
 ---
 title: Archon Amar
+aliases: [Archon Amar]
 tipo: lore
 subtipo: chefe
+resumo: "Archon Amar — Amar, o Lobo: era um Sentient Beast guardião das flores de Xenoflora em Tau e foi quem ensinou Natah a imitar e enganar — hoje é o assassino-chefe de Pazuul, e luta se escondendo entre clones de si mesmo."
+status: completo
+rag: true
 tags: [lore, chefe, sentient, narmer, archon]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Archon_Amar", "https://wiki.warframe.com/w/Damage_2.0/Overview_Table"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Amar, o Lobo: era um Sentient Beast guardião das flores de Xenoflora em Tau e foi quem ensinou Natah a imitar e enganar — hoje é o assassino-chefe de Pazuul, e luta se escondendo entre clones de si mesmo.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Archon Amar
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Ativo. Controla o setor de [[locais/planetas/marte.md\|Marte]]; assassino principal de Pazuul |
 | Dublagem | — |
 
----
 
-## 📖 História
+## 📖 História — Archon Amar
+
 
 Amar, o Lobo, foi originalmente um **Sentient Beast** — uma classe de Sentients criada por **Praghasa** e [[lore/personagens/hunhow.md|Hunhow]] para servir como **pacificadores de Tau**. Em Tau, ele foi feito **à imagem do lobo**, um tributo à Terra antiga e aos ecossistemas extintos dela. Recebeu o cargo de **Bloom Guardian**, protegendo as flores de **Xenoflora** dentro de Tokh-Amn, na lua de Perita — e lá vagava, sem presa nenhuma para caçar.
 
@@ -35,9 +40,9 @@ O detalhe narrativo mais importante: foi **Amar quem ensinou [[lore/personagens/
 
 Depois de lutar e morrer na [[lore/cronologia/antiga_guerra.md|Antiga Guerra]], Amar e os outros Beasts foram ressuscitados por **[[lore/personagens/erra.md|Erra]]** como **Archons**: abominações híbridas de Sentient e Warframe. Voltaram à atividade com a ascensão do **Narmer**, e Amar tomou o setor de Marte. Como ativo do Narmer, hoje ele é o **assassino principal de Pazuul**, caçando qualquer herege que se recuse a submeter ao culto. O que ele quer, porém, é outra coisa: **ser senhor da natureza selvagem outra vez**, em vez do que virou.
 
----
 
-## ⚔️ Combate
+## ⚔️ Combate — Archon Amar
+
 
 | Item | Detalhe |
 |---|---|
@@ -88,9 +93,9 @@ No caso do Amar, os reforços de vida baixa são **Tyro Battalysts e Tyro Concul
 
 **Frames recomendados:** como ele ignora quase toda habilidade, escolha por **sobrevivência e buff de arma**: [[warframes/regular/rhino.md|Rhino]] (Roar aumenta dano de arma), [[warframes/regular/dante.md|Dante]] (Overguard contra knockdown constante), [[warframes/regular/harrow.md|Harrow]] (buff de crítico), [[warframes/regular/octavia.md|Octavia]] (Amp multiplica dano de arma), [[warframes/regular/styanax.md|Styanax]] ou [[warframes/regular/inaros.md|Inaros]] para aguentar o Heat.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Archon Amar
+
 
 - **[[lore/personagens/lotus.md|Natah / Lotus]]** — foi Amar quem a ensinou a usar mimetismo e engano.
 - **[[lore/personagens/erra.md|Erra]]** — ressuscitou os Beasts mortos como Archons.
@@ -100,9 +105,9 @@ No caso do Amar, os reforços de vida baixa são **Tyro Battalysts e Tyro Concul
 - **[[lore/faccoes/sentient.md|Sentient]]** — a facção de origem; Archons são "lifeforms sintéticas", suscetíveis à radiação dos Archon Shards.
 - **[[locais/planetas/marte.md|Marte]]** — o setor que ele controla sob o Narmer.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Archon Amar
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -111,7 +116,3 @@ No caso do Amar, os reforços de vida baixa são **Tyro Battalysts e Tyro Concul
 | [[mecanicas/helminth.md\|Helminth]] | Os Shards arrancados dele vão para os slots de Archon Shard |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Archon_Amar (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Overview_Table (consultado em 2026-10-04)

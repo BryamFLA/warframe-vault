@@ -1,11 +1,16 @@
 ---
 title: Primed Vigor
+aliases: [Primed Vigor]
 tipo: mod
 categoria: warframe
-polaridade: Vazarin
 raridade: lendario
+polaridade: Vazarin
+resumo: "Primed Vigor — +75% Capacidade de Escudo · +75% Vida Texto exato no jogo (inglês): +75% Shield Capacity / +75% Health."
+status: completo
+rag: true
 tags: [mod, warframe]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Primed_Vigor", "https://wiki.warframe.com/w/Module:Mods/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -17,9 +22,9 @@ agente: opus
 >
 > *Texto exato no jogo (inglês):* `+75% Shield Capacity / +75% Health`
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Primed Vigor
+
 
 | Item | Valor |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 | Transmutável | **Não** |
 | Introduzido no Update | **19.5.6.1** |
 
----
 
-## 📈 Efeito por Rank
+## 📈 Efeito por Rank — Primed Vigor
+
 
 <!-- Valores copiados da seção Stats da página do mod na wiki. Nenhum valor interpolado. -->
 
@@ -56,9 +61,9 @@ agente: opus
 > [!note] A drenagem sobe 1 por rank
 > Regra do jogo, visível na própria tabela: a drenagem no rank R é **6 + R**.
 
----
 
-## 🏗️ Onde Obter
+## 🌍 Onde Conseguir — Primed Vigor
+
 
 | Fonte | Detalhe |
 |---|---|
@@ -71,9 +76,9 @@ agente: opus
 
 **Faixa de preço em platina:** ⚠️ **estimativa não fornecida.** Pela seção 8 das convenções, preço de platina é mercado flutuante e não é registrado aqui. Consulte warframe.market no momento da compra.
 
----
 
-## 🛠️ Uso
+## 🛠️ Como Usar — Primed Vigor
+
 
 **Vale a pena?** **Sim, se você tiver.** Mod **Legendary** — a variante Primed/Legendary de um mod base, vendida pelo **Baro Ki'Teer** por Ducats e Créditos. Supera o mod base em valor, mas **drena mais**, então exige capacidade (Orokin Reactor/Catalyst e Forma) para caber na build.
 
@@ -89,7 +94,3 @@ Os mods abaixo são **mutuamente exclusivos** com este — o jogo não deixa equ
 - **Vigor**
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Primed_Vigor — efeito por rank, polaridade, drenagem, raridade e incompatibilidades (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Mods/data — ficha do mod: tipo, classe, comercializável, transmutável, update de introdução (consultado em 2026-10-06)

@@ -1,9 +1,14 @@
 ---
 title: Kela De Thaym
+aliases: [Kela De Thaym]
 tipo: lore
 subtipo: chefe
+resumo: "Kela De Thaym — A chefe de Sedna: sanguinária e sádica, dona da arena Rathuum, onde desertores Grineer são forçados a lutar pela liberdade contra os Executioners dela — e você precisa pagar 25 Judgement Points para desafiá-la."
+status: completo
+rag: true
 tags: [lore, chefe, grineer, rathuum]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Kela_De_Thaym", "https://wiki.warframe.com/w/Damage_2.0/Grineer_Tab"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > A chefe de Sedna: sanguinária e sádica, dona da arena **Rathuum**, onde desertores Grineer são forçados a lutar pela liberdade contra os Executioners dela — e você precisa **pagar 25 Judgement Points** para desafiá-la.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Kela De Thaym
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Ativa. Mantém o Rathuum em operação |
 | Relação interna | Aparenta ter relação **favorável** com [[lore/chefes/vay_hek.md\|Vay Hek]] |
 
----
 
-## 📖 História
+## 📖 História — Kela De Thaym
+
 
 Kela De Thaym é **sanguinária e sádica**, e é dona da arena de combate conhecida como **Rathuum** — onde **desertores Grineer são forçados a lutar pela própria liberdade** contra os **Executioners** dela, para o deleite da plateia.
 
@@ -35,9 +40,9 @@ Isso a coloca no centro de um conflito que atravessa toda a facção. Os Grineer
 
 Por isso ela aparece em contexto com quase todos os outros chefes Grineer: [[lore/chefes/captain_vor.md|Vor]], [[lore/chefes/vay_hek.md|Vay Hek]], [[lore/chefes/sargas_ruk.md|Sargas Ruk]] e [[lore/chefes/tyl_regor.md|Tyl Regor]] têm registros ligados ao Rathuum.
 
----
 
-## ⚔️ Combate
+## ⚔️ Combate — Kela De Thaym
+
 
 | Item | Detalhe |
 |---|---|
@@ -89,9 +94,9 @@ Ela também é apoiada por **Armored Rollers e Roller Sentries**, que spawnam co
 
 **Frames recomendados:** [[warframes/regular/mesa.md|Mesa]] (resolve Kela e os Rollers sem depender de mira na alvo que pula), [[warframes/regular/limbo.md|Limbo]] (Cataclysm anula Orbital Strikes e deixa fazer o puzzle em paz), [[warframes/regular/volt.md|Volt]] ou [[warframes/regular/gauss.md|Gauss]] pela mobilidade entre pads, [[warframes/regular/rhino.md|Rhino]] contra o knockdown constante, [[warframes/regular/nekros.md|Nekros]] para o farm.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Kela De Thaym
+
 
 - **[[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]]** — os desertores Grineer que ela executa na arena são exatamente a base desse sindicato.
 - **[[lore/chefes/vay_hek.md|Vay Hek]]** — ela aparenta ter relação favorável com ele.
@@ -100,9 +105,9 @@ Ela também é apoiada por **Armored Rollers e Roller Sentries**, que spawnam co
 - **Executioners** — os campeões da arena dela, que dropam os mods temáticos.
 - **[[lore/chefes/captain_vor.md|Vor]]**, **[[lore/chefes/sargas_ruk.md|Sargas Ruk]]** e **[[lore/chefes/tyl_regor.md|Tyl Regor]]** — todos têm registros ligados ao Rathuum.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Kela De Thaym
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -113,7 +118,3 @@ Ela também é apoiada por **Armored Rollers e Roller Sentries**, que spawnam co
 | [[mecanicas/steel_path.md\|Steel Path]] | Versão de dificuldade elevada |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Kela_De_Thaym (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Grineer_Tab (consultado em 2026-10-04)

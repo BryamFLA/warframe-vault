@@ -1,29 +1,37 @@
 ---
 title: Loki Prime
+aliases: [Loki Prime]
 tipo: warframe
-status: nao-obtido
+resumo: Loki Prime — 1.
+status: stub
+rag: false
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Loki Prime
 
-> [!info] 
+> [!info]
 
-## 🏗️ Como Obter
+## 🏗️ Como Construir — Loki Prime
 
 
-## 🔮 Habilidades
+## 🔮 Habilidades — Loki Prime
+
 1. **Passiva:** 
 2. **Habilidade 1:** 
 3. **Habilidade 2:** 
 4. **Habilidade 3:** 
-5. **Habilidade 4:** 
+5. **Habilidade 4:**
 
-## 📊 Stats Base
+## 📊 Stats Base — Loki Prime
+
 - **Vida:**
 - **Escudos:**
 - **Armadura:**
 - **Energia:**
 - **Velocidade:**
 
-## ⚙️ Progressão e Conexões
-- **Mascote/Arma Assinatura:** 
+## 🔗 Relacionados — Loki Prime
+
+- **Mascote/Arma Assinatura:**

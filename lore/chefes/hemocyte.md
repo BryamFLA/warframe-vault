@@ -1,9 +1,14 @@
 ---
 title: Hemocyte
+aliases: [Hemocyte]
 tipo: lore
 subtipo: chefe
+resumo: "Hemocyte — O chefe de três cabeças do Plague Star: a pele externa é invulnerável a tudo, e cada cabeça só abre um ponto fraco no instante em que ataca — quatro deles aparecem no estágio final do bounty."
+status: completo
+rag: true
 tags: [lore, chefe, infested, evento]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Hemocyte", "https://wiki.warframe.com/w/Damage_2.0/Infested_Tab"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O chefe de três cabeças do Plague Star: a pele externa é invulnerável a tudo, e cada cabeça só abre um ponto fraco **no instante em que ataca** — quatro deles aparecem no estágio final do bounty.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Hemocyte
+
 
 | Item | Valor |
 |---|---|
@@ -25,17 +30,17 @@ agente: opus
 | Status atual na história | Recorrente, só durante o evento |
 | Dublagem | Sem fala |
 
----
 
-## 📖 História
+## 📖 História — Hemocyte
+
 
 O Hemocyte é o produto final do **boil Infested** das Plains of Eidolon: a massa de matéria Infested que o evento [[mecanicas/eventos/plague_star.md|Operation: Plague Star]] existe para destruir. Ele é um **exemplar super-mutado** do hivemind — não um indivíduo — e a semelhança visual e estrutural com **Lephantis** não é coincidência: **os dois têm três cabeças**, uma de origem [[lore/faccoes/corpus.md|Corpus]], uma [[lore/faccoes/grineer.md|Grineer]] e uma Ancient, cada uma com ataques próprios.
 
 Essa arquitetura de três cabeças é a assinatura das criaturas Infested criadas para a guerra: a Infestação **assimila** os corpos que encontra e monta o que a situação pede. No caso do Hemocyte, usa a armadura **Infested Sinew** — a mesma classe da maioria dos Infested de Deimos e de alguns Zealots.
 
----
 
-## ⚔️ Combate
+## ⚔️ Combate — Hemocyte
+
 
 | Item | Detalhe |
 |---|---|
@@ -75,9 +80,9 @@ O único ataque comum às três é um **slam radial em área** que derruba quem 
 
 **Frames recomendados:** [[warframes/regular/mesa.md|Mesa]] (Peacemaker acerta os pontos fracos sem depender da sua mira na janela curta), [[warframes/regular/rhino.md|Rhino]] (Roar para dano de squad e Iron Skin contra o slam radial), [[warframes/regular/trinity.md|Trinity]] contra o gás tóxico da cabeça Corpus, [[warframes/regular/octavia.md|Octavia]] (Amp), [[warframes/regular/nekros.md|Nekros]] para o farm do evento.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Hemocyte
+
 
 - **[[mecanicas/eventos/plague_star.md|Operation: Plague Star]]** — o evento que o contém; ele é o obstáculo do estágio final.
 - **Lephantis** — a criatura Infested de três cabeças que ele replica visual e estruturalmente.
@@ -85,9 +90,9 @@ O único ataque comum às três é um **slam radial em área** que derruba quem 
 - **[[mecanicas/sindicatos/ostron.md|Ostron]]** — o evento acontece nas Plains of Eidolon e paga Standing deles.
 - **[[lore/chefes/phorid.md|Phorid]]** e **[[lore/chefes/jordas_golem.md|Jordas Golem]]** — os outros chefes Infested.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Hemocyte
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -96,7 +101,3 @@ O único ataque comum às três é um **slam radial em área** que derruba quem 
 | Plains of Eidolon | Cenário do evento |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Hemocyte (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Infested_Tab (consultado em 2026-10-04)

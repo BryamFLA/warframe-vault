@@ -1,8 +1,13 @@
 ---
 title: Cephalon Simaris
+aliases: [Cephalon Simaris]
 tipo: mecanica
+resumo: "Cephalon obcecado por preservar criaturas como dados dentro do Sanctuary; sindicato neutro sem ranks, cujo Standing vem de escanear coisas com o Synthesis Scanner — e a única fonte de duplicata de item exclusivo de quest e de Daily Tribute."
+status: completo
+rag: true
 tags: [mecanica, sindicato, cephalon-simaris, synthesis, sanctuary, neutro]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Cephalon_Simaris", "https://wiki.warframe.com/w/Syndicate"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Cephalon obcecado por preservar criaturas como dados dentro do Sanctuary; **sindicato neutro sem ranks**, cujo Standing vem de escanear coisas com o Synthesis Scanner — e a única fonte de duplicata de item exclusivo de quest e de Daily Tribute.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Cephalon Simaris
+
 
 Cephalon Simaris (chamado de **Irmis** pela [[mecanicas/sindicatos/cephalon_suda.md\|Cephalon Suda]]) é um construto Cephalon que vive no **Sanctuary Enclave**, sala presente em **todos** os Relays — acessível por `Esc → FAST TRAVEL → CEPHALON SIMARIS`. O objetivo dele é "imortalizar" criaturas pelo processo de **Synthesis**, que desconstrói um ser e o preserva como dado para pesquisa no Sanctuary.
 
@@ -23,9 +28,9 @@ Cephalon Simaris (chamado de **Irmis** pela [[mecanicas/sindicatos/cephalon_suda
 
 O Standing vem de **escanear** objetos e entidades com o **Synthesis Scanner**. O valor **escala com o nível do inimigo** e é **multiplicado** se o scan for feito em stealth. Scans do **Investigator** do Helios **não dão** Standing de Simaris.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Cephalon Simaris
+
 
 ```
 Teto total de Standing = 125.000  (sem ranks, sem travas)
@@ -65,9 +70,9 @@ Alvo de Synthesis: precisa escanear 3 a 4 pontos do corpo
 - Personal Target Task é **irrepetível** por alvo.
 - Simaris é o **único lugar** para conseguir **duplicata** de arma de Daily Tribute já reivindicada e de item exclusivo de quest (mods, armas, Warframes e Archwings).
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Cephalon Simaris
+
 
 ### O que tem no Sanctuary Enclave
 
@@ -147,9 +152,9 @@ Alvo de Synthesis: precisa escanear 3 a 4 pontos do corpo
 | [[armas/archwing/imperator.md\|Imperator]] BP · [[armas/archwing/veritux.md\|Veritux]] BP | 100.000 cada | The Archwing |
 | Exilus Warframe Adapter BP | — | Concluir **Natah** |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Cephalon Simaris
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -164,9 +169,9 @@ Alvo de Synthesis: precisa escanear 3 a 4 pontos do corpo
 | Pegar os mods Umbral | Umbral Vitality, Umbral Fiber, Umbral Intensify, Sacrificial Pressure e Sacrificial Steel: 100.000 cada, exigem **The Sacrifice**. É a única fonte de duplicata |
 | Planejar o longo prazo | Comprar **tudo** custa **4.220.000** Standing — maxar os 125.000 **34 vezes** |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Cephalon Simaris
+
 
 - **"Simaris tem ranks como os outros sindicatos."** Não tem nenhum. Só um teto de 125.000.
 - **"Subir Simaris derruba outro sindicato."** Não. Simaris é **neutro**: nenhuma relação com os sindicatos de facção.
@@ -177,9 +182,9 @@ Alvo de Synthesis: precisa escanear 3 a 4 pontos do corpo
 - **"Perdi a parte do Warframe de quest, perdi para sempre."** Simaris vende todas as duplicatas de blueprint de quest.
 - **"Preciso comprar tudo."** 4,22 milhões de Standing. Vários itens têm outras fontes — priorize o que é exclusivo daqui.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Cephalon Simaris
+
 
 - [[mecanicas/sindicatos/_Sindicatos _Indice.md|Sindicatos]] — a visão geral; Simaris é um dos sindicatos **neutros**, sem demoção nem Standing negativo.
 - [[mecanicas/mastery_rank.md|Mastery Rank]] — o corredor de treino dos testes de MR fica no Sanctuary dele; o teto diário dele sobe 500 por MR.
@@ -195,7 +200,3 @@ Alvo de Synthesis: precisa escanear 3 a 4 pontos do corpo
 - [[missoes/tipos/sanctuary_onslaught.md|Sanctuary Onslaught]] e [[missoes/tipos/elite_sanctuary_onslaught.md|Elite Sanctuary Onslaught]] — os modos que levam o nome do Sanctuary dele.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Cephalon_Simaris — localização e acesso, como ganhar Standing por scan (escala por nível, multiplicador de stealth, Investigator não conta), Personal Target Task e Daily Synthesis Task, ausência de ranks e teto de 125.000, funções do Sanctuary, lista completa de ofertas com custos e requisitos de quest, total de 4.220.000 Standing para comprar tudo (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Syndicate — classificação como sindicato neutro, sem demoção nem Standing negativo, e teto diário próprio (consultado em 2026-10-04)

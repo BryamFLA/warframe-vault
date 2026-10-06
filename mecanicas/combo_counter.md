@@ -1,8 +1,13 @@
 ---
 title: Combo Counter
+aliases: [Combo Counter]
 tipo: mecanica
+resumo: "Combo Counter — Contador de acertos consecutivos de arma branca que multiplica o dano de melee de 2× até 12× — e, com Blood Rush e Weeping Wounds, escala também chance crítica e chance de status."
+status: completo
+rag: true
 tags: [mecanica, melee, combo, dano, vocabulario]
-atualizado: 2026-09-09
+fontes: ["https://wiki.warframe.com/w/Melee_Combo_Counter", "https://wiki.warframe.com/w/Critical_Hit"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Contador de acertos consecutivos de arma branca que multiplica o dano de melee de 2× até 12× — e, com Blood Rush e Weeping Wounds, escala também chance crítica e chance de status. É o que faz melee escalar para nível alto.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Combo Counter
+
 
 Cada acerto de arma branca (e cada bloqueio) adiciona 1 ao **contador de combo**. Ao cruzar limiares de contagem, o contador sobe de **camada**, e cada camada multiplica o dano de melee: 20 acertos = 2×, 40 = 3×, e assim até 220 acertos = 12×. O contador tem um **temporizador de 5 segundos** que reinicia a cada novo acerto ou bloqueio; se você parar de bater, ele expira e o combo zera.
 
@@ -22,9 +27,9 @@ O multiplicador de dano é só metade do valor. A outra metade é que **três fa
 
 O combo também é **moeda**: o **Heavy Attack** consome o contador para converter em um golpe pesado, entregando entre 2× e 12× de dano de uma vez. Mods de eficiência de heavy attack reduzem esse consumo (com teto de 90%, então sempre restam 10% consumidos), permitindo golpes pesados repetidos sem perder o combo acumulado.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Combo Counter
+
 
 ```
 Dano de melee com combo:
@@ -66,9 +71,9 @@ Heavy Attack:
 > [!warning] ⚠️ Valores por rank de mod não verificados
 > Os valores exatos de Blood Rush, Weeping Wounds, Body Count, Drifting Contact, Corrupt Charge e do conjunto Gladiator por rank **não foram verificados** nesta consulta. Não cite números de rank de mod a partir deste arquivo — abra a página do mod.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Combo Counter
+
 
 ### Tabela de camadas de combo
 
@@ -119,9 +124,9 @@ Padrão: **20 acertos por camada**, multiplicador igual ao número da camada.
 **Frames que interagem:**
 [[warframes/regular/kullervo.md|Kullervo]] — construído em torno de melee crítico e combo · [[warframes/regular/valkyr.md|Valkyr]] — Hysteria mantém melee contínuo · [[warframes/regular/excalibur.md|Excalibur]] — Exalted Blade usa mods de melee · [[warframes/regular/gauss.md|Gauss]] — velocidade de ataque acelera o acúmulo · [[warframes/regular/wisp.md|Wisp]] — mote de velocidade de ataque
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Combo Counter
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -133,9 +138,9 @@ Padrão: **20 acertos por camada**, multiplicador igual ao número da camada.
 | Build de dano contínuo | Ignore heavy attack, mantenha 12× permanente e deixe Blood Rush + Weeping Wounds fazerem o trabalho |
 | Sustentar vida em melee | [[mods/armas/life_strike.md\|Life Strike]] em heavy attack, ou [[mods/armas/healing_return.md\|Healing Return]] curando por status ativo no alvo |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Combo Counter
+
 
 1. **Achar que combo só multiplica dano.** O multiplicador de dano (até 12×) é a parte menos importante em nível alto. O valor real está em Blood Rush e Weeping Wounds, que usam o combo como variável para crítico e status.
 
@@ -153,9 +158,9 @@ Padrão: **20 acertos por camada**, multiplicador igual ao número da camada.
 
 8. **Tratar o temporizador como pausado ao usar arma de fogo.** Ele continua correndo. Trocar para primária por mais de 5 segundos perde o combo (salvo Power Spike).
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Combo Counter
+
 
 - [[mecanicas/critico.md|Crítico]] — o destino principal do combo. Blood Rush converte 12× de combo em camada laranja/vermelha de crítico; camadas aparecem acima de 100% e 200% de chance crítica.
 - [[mecanicas/dano_e_status.md|Dano e Status]] — Weeping Wounds converte combo em chance de status; status como Viral (+325% de dano na vida) e Corrosivo (−80% de armadura) é o que faz o dano de melee escalar.
@@ -166,7 +171,3 @@ Padrão: **20 acertos por camada**, multiplicador igual ao número da camada.
 - [[mecanicas/forma_e_polaridades.md|Forma e Polaridades]] — Blood Rush, Weeping Wounds e Condition Overload juntos são caros em drenagem; polarizar é obrigatório.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Melee_Combo_Counter — tabela completa de camadas e acertos, temporizador de 5s, exceção da Venka Prime, consumo e dano de heavy attack, teto de 90% de eficiência, decaimento de Naramon Power Spike (consultado em 2026-09-09)
-- https://wiki.warframe.com/w/Critical_Hit — fórmula de chance crítica com Blood Rush escalando pelo multiplicador de combo (consultado em 2026-09-09)

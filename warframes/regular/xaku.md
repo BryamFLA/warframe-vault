@@ -1,12 +1,14 @@
 ---
 title: Xaku
+aliases: [Xaku]
 tipo: warframe
-status: nao-obtido
-polaridade: []
 categoria: dps
-tags:
-  - warframe
-atualizado: 2026-04-16
+resumo: Xaku — Corpo fragmentado de Void que rouba armas de inimigos.
+status: stub
+rag: false
+tags: [warframe]
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Xaku
@@ -14,12 +16,14 @@ atualizado: 2026-04-16
 > [!info] Visão Geral
 > Corpo fragmentado de Void que rouba armas de inimigos
 
-## Como Obter
+## 🏗️ Como Construir — Xaku
+
 - Fonte: 
 - Drop location: 
-- Blueprint: 
+- Blueprint:
 
-## Habilidades
+## 🔮 Habilidades — Xaku
+
 
 | # | Nome | Custo | Descrição |
 |---|------|-------|-----------|
@@ -29,7 +33,8 @@ atualizado: 2026-04-16
 | 3 | | 75 | |
 | 4 | | 100 | |
 
-## Stats Base
+## 📊 Stats Base — Xaku
+
 
 | Stat | Valor |
 |------|-------|
@@ -40,18 +45,13 @@ atualizado: 2026-04-16
 | Sprint | |
 | Polaridades | |
 
-## Build Recomendada
+## 🛠️ Build — Xaku
+
 > Preencher após obter o Warframe.
-- [ ] 
+- [ ]
 
-## Minha Progressão
-- [ ] Blueprint obtido
-- [ ] Componentes farmados
-- [ ] Craftado
-- [ ] Rank 30
-- [ ] Forma aplicado
+## 🔗 Relacionados — Xaku
 
-## Conexões
 - Sinergias: 
 - Recursos necessários: 
-- Quests relacionadas: 
+- Quests relacionadas:

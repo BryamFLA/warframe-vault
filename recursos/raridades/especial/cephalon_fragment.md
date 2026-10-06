@@ -1,10 +1,15 @@
 ---
 title: Cephalon
+aliases: [Cephalon, cephalon fragment]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: planeta
+resumo: "Cephalon Fragments are fragments of data found all around the Origin system, usually hidden in rooms during missions, visualized as hovering blue data blocks."
+status: completo
+rag: true
 tags: [recurso, planeta]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Fragments/Cephalon"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -20,9 +25,9 @@ agente: opus
 > [!warning] Este item não está no `Module:Resources/data`
 > Ao contrário da maioria dos recursos do vault, este não tem entrada no módulo de dados de recursos da wiki — então **não há ficha estruturada** de raridade, quantidade por drop ou compatibilidade com booster para copiar. O que está abaixo vem do **texto da própria página** e do **`Module:DropTables/data`**. Os campos sem fonte ficam marcados.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Cephalon
+
 
 | Item | Valor |
 |---|---|
@@ -37,9 +42,9 @@ During missions, the Cephalon Fragment will appear on the mini-map as a blue qua
 
 Decrypting these fragments reveals Ordis' Past, narrated by Ordis.
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Cephalon
+
 
 Este item **não aparece em nenhuma tabela do `Module:DropTables/data`**. O que a página diz sobre como obtê-lo está no resumo e na seção acima.
 
@@ -57,15 +62,12 @@ Este item **não aparece em nenhuma tabela do `Module:DropTables/data`**. O que 
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Cephalon
+
 
 | Item | Quantidade |
 |---|---|
 | ⚠️ NÃO VERIFICADO | A página da wiki não traz um **Item Checklist** parseável e o item não está no `Module:Resources/data`. Confira em https://wiki.warframe.com/w/Fragments/Cephalon |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Fragments/Cephalon — descrição, forma de obtenção e Item Checklist (consultado em 2026-10-06)

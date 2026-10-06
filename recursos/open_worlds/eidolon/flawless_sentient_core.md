@@ -1,10 +1,15 @@
 ---
 title: Flawless Sentient Core
+aliases: [Flawless Sentient Core]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+resumo: "Flawless Sentient Core — Recurso, farmado em Earned by capturing Eidolons found roaming the Plains of Eidolon on Earth at night, 1 por drop."
+status: completo
+rag: true
 tags: [recurso, open_world]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Sentient_Core", "https://wiki.warframe.com/w/Module:Resources/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “A Sentient Core of this quality and condition has rarely been found. Truly a special specimen.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Flawless Sentient Core
+
 
 | Item | Valor |
 |---|---|
@@ -31,9 +36,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **Não** |
 | Introduzido no Update | **22** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Flawless Sentient Core
+
 
 **Locais que o próprio jogo lista:** Earned by capturing Eidolons found roaming the Plains of Eidolon on Earth at night
 
@@ -56,9 +61,9 @@ No vault: [[locais/planetas/terra.md|Earth]], [[locais/open-worlds/cetus.md|Plai
 > [!warning] Booster não funciona neste recurso
 > Os dados da wiki marcam este item como **não afetado** por Resource Booster nem por Resource Drop Chance Booster. Boosters e frames de loot **não aceleram** o farm dele.
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Flawless Sentient Core
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este recurso:
 
@@ -75,7 +80,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este recurso
 > Total de **7** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Sentient_Core — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)

@@ -1,21 +1,25 @@
 ---
 title: Decorações do Orbiter
+aliases: [Decorações do Orbiter, Decoracoes do Orbiter, decoracoes]
 tipo: cosmetico
-tags:
-  - cosmetico
-  - decoracao
-  - orbiter
-  - dojo
-atualizado: 2026-04-19
+resumo: Decorações são itens colocados no interior do Orbiter (nave base do Tenno) e no Dojo (sede do clã).
+status: parcial
+rag: true
+tags: [cosmetico, decoracao, orbiter, dojo]
+atualizado: 2026-10-07
+agente: opus
 ---
 
-## O que são Decorações?
+# Decorações do Orbiter
+
+## O que são Decorações? — Decorações do Orbiter
+
 
 Decorações são itens colocados no interior do Orbiter (nave base do Tenno) e no Dojo (sede do clã). Permitem personalizar os ambientes de forma livre.
 
----
 
-## Tipos de Decoração
+## Tipos de Decoração — Decorações do Orbiter
+
 
 | Tipo | Local | Exemplos |
 |---|---|---|
@@ -26,9 +30,9 @@ Decorações são itens colocados no interior do Orbiter (nave base do Tenno) e 
 | **Decorações Sazonais** | Orbiter | Eventos como Frostfall e Naberus |
 | **Dojo Rooms** | Dojo | Salas inteiras decoráveis: arenas, jardins, galerias |
 
----
 
-## Aquisição
+## 🌍 Onde Conseguir — Decorações do Orbiter
+
 
 | Fonte | Itens |
 |---|---|
@@ -39,17 +43,17 @@ Decorações são itens colocados no interior do Orbiter (nave base do Tenno) e 
 | **Nightwave** | Decorações como recompensa de rank |
 | **Pesquisa de Clã** | Decorações específicas do Dojo |
 
----
 
-## Sistema de Decoração do Orbiter
+## Sistema de Decoração do Orbiter — Decorações do Orbiter
+
 
 - Decorações são posicionadas livremente em modo de edição
 - Itens têm limites de capacidade (decoration cap) no Orbiter
 - O Dojo tem sistema próprio com capacidade muito maior e ferramentas avançadas de construção
 
----
 
-## Observações
+## 📝 Observações — Decorações do Orbiter
+
 
 - Estátuas Prime são consideradas itens de prestígio — indicam participação em Prime Access no lançamento
 - O sistema de Dojo permite construções elaboradas — alguns clãs criam réplicas de cenários e obras de arte

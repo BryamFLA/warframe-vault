@@ -1,11 +1,16 @@
 ---
 title: Maul
+aliases: [Maul]
 tipo: mod
 categoria: companheiro
-polaridade: Madurai
 raridade: incomum
+polaridade: Madurai
+resumo: "Maul — +330% Dano de Melee Texto exato no jogo (inglês): +330% Melee Damage."
+status: completo
+rag: true
 tags: [mod, companheiro]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Maul", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Mods/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -17,9 +22,9 @@ agente: opus
 >
 > *Texto exato no jogo (inglês):* `+330% Melee Damage`
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Maul
+
 
 | Item | Valor |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 | Transmutável | **Sim** |
 | Introduzido no Update | **14** |
 
----
 
-## 📈 Efeito por Rank
+## 📈 Efeito por Rank — Maul
+
 
 <!-- Valores copiados da seção Stats da página do mod na wiki. Nenhum valor interpolado. -->
 
@@ -56,9 +61,9 @@ agente: opus
 > [!note] A drenagem sobe 1 por rank
 > Regra do jogo, visível na própria tabela: a drenagem no rank R é **4 + R**.
 
----
 
-## 🏗️ Onde Obter
+## 🌍 Onde Conseguir — Maul
+
 
 | Fonte | Tipo | Chance do mod na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -72,9 +77,9 @@ agente: opus
 
 **Faixa de preço em platina:** ⚠️ **estimativa não fornecida.** Pela seção 8 das convenções, preço de platina é mercado flutuante e não é registrado aqui. Consulte warframe.market no momento da compra.
 
----
 
-## 🛠️ Uso
+## 🛠️ Como Usar — Maul
+
 
 **Vale a pena?** **Geralmente sim.** Mod **Uncommon** — fácil de conseguir e normalmente parte do núcleo de uma build.
 
@@ -88,8 +93,3 @@ O efeito concreto no rank máximo é **+330% Dano de Melee** — é por esse nú
 Nenhum mod é registrado como **mutuamente exclusivo** com este nos dados da wiki. A concorrência é pelo **slot** e pela **capacidade**, não por bloqueio do jogo.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Maul — efeito por rank, polaridade, drenagem, raridade e incompatibilidades (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Mods/data — ficha do mod: tipo, classe, comercializável, transmutável, update de introdução (consultado em 2026-10-06)

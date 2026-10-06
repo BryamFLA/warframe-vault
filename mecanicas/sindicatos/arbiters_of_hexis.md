@@ -1,8 +1,13 @@
 ---
 title: Arbiters of Hexis
+aliases: [Arbiters of Hexis]
 tipo: mecanica
+resumo: "Arbiters of Hexis — Ordem obcecada pela verdade sobre a natureza do Tenno, convicta de que os Tenno são muito mais do que a história estilhaçada deles sugere."
+status: completo
+rag: true
 tags: [mecanica, sindicato, arbiters-of-hexis, tenno]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Syndicate", "https://wiki.warframe.com/w/Warframe_Augment_Mods"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Ordem obcecada pela verdade sobre a natureza do Tenno, convicta de que os Tenno são muito mais do que a história estilhaçada deles sugere.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Arbiters of Hexis
+
 
 Os Arbiters of Hexis exemplificam uma **paixão ardente por buscar a verdade** sobre a habilidade Tenno, partindo da convicção de que os Tenno são **muito maiores do que a própria história fragmentada deles indica**.
 
@@ -28,7 +33,8 @@ Mecanicamente, Arbiters of Hexis é um **sindicato de facção**: o console de s
 | ⚠️ **Oposto** | The Perrin Sequence | **−50% Rep** |
 | ⛔ **Inimigo** | Red Veil | **−100% Rep** |
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Arbiters of Hexis
+
 
 ```
 Conversão de Affinity em Standing (com Pledge ativo no terminal da Orbiter) = 15%
@@ -75,9 +81,9 @@ Syndicate Medallions por missão de alerta = 8
 - Assassinos (Stalker e companhia) **não** spawnam em missão de sindicato.
 - Missão de sindicato **ignora** a lista normal de spawn do tileset — dá para encontrar Hellion em Grineer Asteroid e Anti MOA fora da Gas City.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Arbiters of Hexis
+
 
 ### Identidade de equipamento
 
@@ -146,9 +152,9 @@ O Death Squad deste sindicato é sempre do mesmo tipo: **Corrupted Lancer — Ar
 
 > [!important] O sindicato que hospeda as Arbitrations
 > A sala dos Arbiters em qualquer Relay abriga o **Arbitrations Vendor**, que vende por **Vitus Essence** — e essa loja **ignora completamente o seu Standing** com o sindicato. Ou seja: dá para comprar as Galvanized e os Grendel Locators sem nunca subir um rank aqui. Ver [[mecanicas/arbitrations.md|Arbitrations]].
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Arbiters of Hexis
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -160,9 +166,9 @@ O Death Squad deste sindicato é sempre do mesmo tipo: **Corrupted Lancer — Ar
 | Escolher o presente de promoção | Arma exclusiva **não pode** ser o presente grátis — escolha mod ou cosmético e compre a arma com Standing |
 | Efeito de sindicato na arma | Equipe um **Weapon Augment** desta lista. A arma passa a acumular Syndicate Points pela Affinity dela e dispara Truth (Gas radial + +25% de boost em manobras de Parkour + 25% de Vida) quando a barra enche |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Arbiters of Hexis
+
 
 - **"Posso subir todos os sindicatos."** Não ao mesmo tempo. Subir Arbiters of Hexis **derruba** The Perrin Sequence (−50%) e Red Veil (−100%).
 - **"Standing sobra depois da promoção."** **Todo** o Standing é consumido ao subir de rank, mais um sacrifício em Credits e recursos.
@@ -174,9 +180,9 @@ O Death Squad deste sindicato é sempre do mesmo tipo: **Corrupted Lancer — Ar
 - **"Caí 3 ranks, preciso de 3 sacrifícios."** Desde o Update 16, é **um sacrifício por tier** ao se mover entre eles.
 - **"Posso escolher outro presente ao reconquistar o rank."** Não. Reobter rank após rebaixamento **não** libera outra escolha.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Arbiters of Hexis
+
 
 - [[mecanicas/sindicatos/_Sindicatos _Indice.md|Sindicatos]] — a visão geral das 18 facções e suas relações.
 - [[mecanicas/augments.md|Augments]] — a tabela completa de Warframe → augment → sindicato, e os grupos que não brigam entre si.
@@ -190,7 +196,3 @@ O Death Squad deste sindicato é sempre do mesmo tipo: **Corrupted Lancer — Ar
 - [[mecanicas/sindicatos/red_veil.md|Red Veil]] — inimigo: −100% de Rep.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Syndicate — descrição e relações do sindicato, tabela de ranks e Standing, conversão de 15% da Affinity, teto diário, ofertas por rank (Specter, Relic Pack, Team Bonus Consumable, Weapon Augments, Warframe Augments), tabela de efeito de sindicato por facção (dano, restauração e buff), armas exclusivas, Syandanas, partes de Archweapon, Death Squads, Syndicate Alerts e Medallions (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Warframe_Augment_Mods — lista de Warframes favorecidos e regras de aquisição (consultado em 2026-10-04)

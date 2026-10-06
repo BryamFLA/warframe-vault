@@ -1,12 +1,14 @@
 ---
 title: Styanax
+aliases: [Styanax]
 tipo: warframe
-status: nao-obtido
-polaridade: []
 categoria: tanque
-tags:
-  - warframe
-atualizado: 2026-04-16
+resumo: Styanax — Tanque guerreiro que ganha escudo ao matar inimigos.
+status: stub
+rag: false
+tags: [warframe]
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Styanax
@@ -14,12 +16,14 @@ atualizado: 2026-04-16
 > [!info] Visão Geral
 > Tanque guerreiro que ganha escudo ao matar inimigos
 
-## Como Obter
+## 🏗️ Como Construir — Styanax
+
 - Fonte: 
 - Drop location: 
-- Blueprint: 
+- Blueprint:
 
-## Habilidades
+## 🔮 Habilidades — Styanax
+
 
 | # | Nome | Custo | Descrição |
 |---|------|-------|-----------|
@@ -29,7 +33,8 @@ atualizado: 2026-04-16
 | 3 | | 75 | |
 | 4 | | 100 | |
 
-## Stats Base
+## 📊 Stats Base — Styanax
+
 
 | Stat | Valor |
 |------|-------|
@@ -40,18 +45,13 @@ atualizado: 2026-04-16
 | Sprint | |
 | Polaridades | |
 
-## Build Recomendada
+## 🛠️ Build — Styanax
+
 > Preencher após obter o Warframe.
-- [ ] 
+- [ ]
 
-## Minha Progressão
-- [ ] Blueprint obtido
-- [ ] Componentes farmados
-- [ ] Craftado
-- [ ] Rank 30
-- [ ] Forma aplicado
+## 🔗 Relacionados — Styanax
 
-## Conexões
 - Sinergias: 
 - Recursos necessários: 
-- Quests relacionadas: 
+- Quests relacionadas:

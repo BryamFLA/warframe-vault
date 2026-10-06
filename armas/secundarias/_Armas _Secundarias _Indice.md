@@ -1,18 +1,16 @@
 ---
 title: Armas Secundárias — Índice
+aliases: [Armas Secundárias — Índice, Armas Secundarias — Indice, Armas  Secundarias  Indice]
 tipo: index
 categoria: arma-secundaria
-tags:
-  - index
-  - arma
-  - secundaria
-atualizado: 2026-04-23
+resumo: Armas secundárias ocupam o slot de pistola do Tenno.
+status: completo
+rag: true
+tags: [index, arma, secundaria]
+atualizado: 2026-10-07
+agente: opus
 total-secundarias: 93
-indices-relacionados:
-  - _Armas _Indice
-  - _Mods Armas _Indice
-  - _Recursos _Indice
-  - _Locais _Indice
+indices-relacionados: [_Armas _Indice, _Mods Armas _Indice, _Recursos _Indice, _Locais _Indice]
 ---
 
 # Armas Secundárias — Índice
@@ -20,17 +18,17 @@ indices-relacionados:
 > [!quote]
 > *"Quando a primária cai, a secundária define quem sobrevive."*
 
----
 
-## Visão Geral
+## 📊 Visão Geral — Armas Secundárias — Índice
+
 
 Armas secundárias ocupam o slot de pistola do Tenno. São mais compactas que as primárias mas cobrem funções diversas — pistolas de precisão, armas de arremesso, espingardas secundárias, kits modulares e canhões de braço.
 
 **Slot:** Secundário · **Mods:** 8 slots + Exilus (com adaptador) + Arcane (com adaptador)
 
----
 
-## Sistema Kitgun
+## Sistema Kitgun — Armas Secundárias — Índice
+
 
 Kitguns são secundárias modulares montadas em Fortuna (Orb Vallis, Vênus) pela NPC **Rude Zuud**. Combinam três componentes independentes:
 
@@ -45,9 +43,9 @@ Kitguns são secundárias modulares montadas em Fortuna (Orb Vallis, Vênus) pel
 > - Receber o nome permanente e contribuir com Mastery
 > - Ativar o bônus passivo exclusivo da Chamber
 
----
 
-## Armas de Arremesso (Thrown)
+## Armas de Arremesso (Thrown) — Armas Secundárias — Índice
+
 
 Armas como Hikou, Spira, Despair, Fusilai, Zakti e Castanas são arremessadas em vez de disparadas. Mecânicas únicas:
 
@@ -58,9 +56,9 @@ Armas como Hikou, Spira, Despair, Fusilai, Zakti e Castanas são arremessadas em
 | **Recuperação** | A maioria não recupera projéteis — consome ammo normalmente |
 | **Explosivas** | Castanas e Sancti Castanas explodem por timer ou contato |
 
----
 
-## Prefixo Ak- (Dual-Wield)
+## Prefixo Ak- (Dual-Wield) — Armas Secundárias — Índice
+
 
 Armas com prefixo **Ak-** são versões dual-wield construídas usando **duas unidades** da pistola base como componente de crafting:
 
@@ -77,119 +75,119 @@ Armas com prefixo **Ak-** são versões dual-wield construídas usando **duas un
 > [!note]
 > Versões Ak- têm fire rate maior mas magazine dobrado e reload mais lento. Exigem que as armas base já estejam construídas (ou compradas) antes do craft.
 
----
 
-## Incarnon Genesis
+## Incarnon Genesis — Armas Secundárias — Índice
+
 
 **Laetum** é a única secundária Incarnon do Duviri Paradox. Evolui durante a missão ao cumprir um objetivo de evolução — transforma-se em uma forma alternativa mais poderosa com mecânica de disparo distinta. Obtida via missões do Duviri Circuit.
 
----
 
-## Lista Completa (93)
+## Lista Completa (93) — Armas Secundárias — Índice
+
 
 | Arma | Tipo | Fonte |
 |---|---|---|
-| [[acrid\|Acrid]] | Especial | Drop (Invasões Infested) |
-| [[akarius\|Akarius]] | Pistolas Duplas | Pesquisa de Clã (Entrati) |
-| [[akbolto\|Akbolto]] | Pistolas Duplas | Mercado (2× Bolto) |
-| [[akbolto_prime\|Akbolto Prime]] | Pistolas Duplas | Relíquias (Prime) |
-| [[akjagara\|Akjagara]] | Pistolas Duplas | Mercado (blueprint) |
-| [[akjagara_prime\|Akjagara Prime]] | Pistolas Duplas | Relíquias (Prime) |
-| [[aklex\|Aklex]] | Pistolas Duplas | Mercado (2× Lex) |
-| [[aklex_prime\|Aklex Prime]] | Pistolas Duplas | Relíquias (Prime) |
-| [[aksomati\|Aksomati]] | Pistolas Duplas | Pesquisa de Clã (Corpus) |
-| [[aksomati_prime\|Aksomati Prime]] | Pistolas Duplas | Relíquias (Prime) |
-| [[akstiletto\|Akstiletto]] | Pistolas Duplas | Mercado (blueprint) |
-| [[akstiletto_prime\|Akstiletto Prime]] | Pistolas Duplas | Relíquias (Prime) |
-| [[akvasto\|Akvasto]] | Pistolas Duplas | Mercado (2× Vasto) |
-| [[akvasto_prime\|Akvasto Prime]] | Pistolas Duplas | Relíquias (Prime) |
-| [[akzani\|Akzani]] | Pistolas Duplas | Pesquisa de Clã (Cetus) |
-| [[arca_scisco\|Arca Scisco]] | Pistola | Pesquisa de Clã (Corpus) |
-| [[athodai\|Athodai]] | Pistola | Fortuna (Old Mate, rank 5) |
-| [[atomos\|Atomos]] | Especial | Pesquisa de Clã (Corpus) |
-| [[azima\|Azima]] | Especial | Nightwave / Evento |
-| [[ballistica\|Ballistica]] | Arco Secundário | Mercado (blueprint) |
-| [[ballistica_prime\|Ballistica Prime]] | Arco Secundário | Relíquias (Prime) |
-| [[bolto\|Bolto]] | Pistola | Mercado (blueprint) |
-| [[brakk\|Brakk]] | Pistola | Drop (Grustrag Three) / Invasões |
-| [[bronco\|Bronco]] | Pistola | Mercado (blueprint) |
-| [[bronco_prime\|Bronco Prime]] | Pistola | Relíquias (Prime) |
-| [[bubonico\|Bubonico]] | Canhão de Braço | Pesquisa de Clã (Entrati) |
-| [[castanas\|Castanas]] | Arremesso | Mercado (blueprint) |
-| [[catchmoon\|Catchmoon]] | Kitgun | Kitgun (Fortuna) |
-| [[cyanex\|Cyanex]] | Especial | Pesquisa de Clã (Entrati) |
-| [[despair\|Despair]] | Arremesso | Drop (Stalker) |
-| [[detron\|Detron]] | Pistola | Drop (Corrupted, Void) |
-| [[dex_furis\|Dex Furis]] | Pistola | Evento (Aniversário DE) |
-| [[embolist\|Embolist]] | Especial | Pesquisa de Clã (Grineer) |
-| [[epitaph\|Epitaph]] | Pistola | Pesquisa de Clã (Entrati) |
-| [[euphona_prime\|Euphona Prime]] | Pistola | Relíquias (Prime) |
-| [[furis\|Furis]] | Pistola | Mercado (blueprint) |
-| [[fusilai\|Fusilai]] | Arremesso | Nakak, Cetus (caça) |
-| [[gammacor\|Gammacor]] | Especial | Pesquisa de Clã (Corpus) |
-| [[gaze\|Gaze]] | Kitgun | Kitgun (Fortuna) |
-| [[hikou\|Hikou]] | Arremesso | Mercado (blueprint) |
-| [[hikou_prime\|Hikou Prime]] | Arremesso | Relíquias (Prime) |
-| [[knell\|Knell]] | Pistola | Pesquisa de Clã (Quills, Cetus) |
-| [[knell_prime\|Knell Prime]] | Pistola | Relíquias (Prime) |
-| [[kohmak\|Kohmak]] | Especial | Pesquisa de Clã (Corpus) |
-| [[kompressa\|Kompressa]] | Especial | Pesquisa de Clã (Entrati) |
-| [[kulstar\|Kulstar]] | Especial | Pesquisa de Clã (Grineer) |
-| [[kuva_brakk\|Kuva Brakk]] | Pistola | Kuva Lich |
-| [[kuva_nukor\|Kuva Nukor]] | Pistola | Kuva Lich |
-| [[kuva_seer\|Kuva Seer]] | Pistola | Kuva Lich |
-| [[kuva_twin_stubbas\|Kuva Twin Stubbas]] | Pistolas Duplas | Kuva Lich |
-| [[laetum\|Laetum]] | Incarnon | Incarnon (Duviri) |
-| [[lato\|Lato]] | Pistola | Starter / Mercado |
-| [[lato_prime\|Lato Prime]] | Pistola | Indisponível (Founder's Pack, 2013) |
-| [[lato_vandal\|Lato Vandal]] | Pistola | Nightwave / Evento |
-| [[lex\|Lex]] | Pistola | Mercado (blueprint) |
-| [[lex_prime\|Lex Prime]] | Pistola | Relíquias (Prime) |
-| [[magnus\|Magnus]] | Pistola | Mercado (blueprint) |
-| [[magnus_prime\|Magnus Prime]] | Pistola | Relíquias (Prime) |
-| [[mara_detron\|Mara Detron]] | Pistola | Baro Ki'Teer |
-| [[nukor\|Nukor]] | Pistola | Pesquisa de Clã (Corpus) |
-| [[ocucor\|Ocucor]] | Especial | Pesquisa de Clã (Entrati) |
-| [[pandero\|Pandero]] | Pistola | Mercado (blueprint) |
-| [[pandero_prime\|Pandero Prime]] | Pistola | Relíquias (Prime) |
-| [[rattleguts\|Rattleguts]] | Kitgun | Kitgun (Fortuna) |
-| [[sancti_castanas\|Sancti Castanas]] | Arremesso | Sindicato (New Loka) |
-| [[seer\|Seer]] | Pistola | Drop (Vor, Mercury — Tolstoj) |
-| [[sicarus\|Sicarus]] | Pistola | Mercado (blueprint) |
-| [[sicarus_prime\|Sicarus Prime]] | Pistola | Relíquias (Prime) |
-| [[sonicor\|Sonicor]] | Especial | Pesquisa de Clã (Corpus) |
-| [[spira\|Spira]] | Arremesso | Mercado (blueprint) |
-| [[spira_prime\|Spira Prime]] | Arremesso | Relíquias (Prime) |
-| [[staticor\|Staticor]] | Especial | Pesquisa de Clã (Corpus) |
-| [[stubba\|Stubba]] | Especial | Pesquisa de Clã (Grineer) |
-| [[stug\|Stug]] | Especial | Pesquisa de Clã (Corpus) |
-| [[synoid_gammacor\|Synoid Gammacor]] | Especial | Sindicato (Cephalon Suda) |
-| [[tenet_agendus\|Tenet Agendus]] | Especial | Irmãs de Parvos |
-| [[tenet_cycron\|Tenet Cycron]] | Especial | Irmãs de Parvos |
-| [[tenet_detron\|Tenet Detron]] | Pistola | Irmãs de Parvos |
-| [[tenet_diplos\|Tenet Diplos]] | Pistolas Duplas | Irmãs de Parvos |
-| [[tenet_plinx\|Tenet Plinx]] | Pistola | Irmãs de Parvos |
-| [[tenet_spirex\|Tenet Spirex]] | Especial | Irmãs de Parvos |
-| [[tombfinger\|Tombfinger]] | Kitgun | Kitgun (Fortuna) |
-| [[twin_grakata\|Twin Grakata]] | Pistolas Duplas | Mercado (blueprint) |
-| [[twin_vipers\|Twin Vipers]] | Pistolas Duplas | Mercado (blueprint) |
-| [[twin_vipers_wraith\|Twin Vipers Wraith]] | Pistolas Duplas | Nightwave / Evento |
-| [[vasto\|Vasto]] | Pistola | Mercado (blueprint) |
-| [[vasto_prime\|Vasto Prime]] | Pistola | Relíquias (Prime) |
-| [[velox\|Velox]] | Pistola | Drop (Corpus, Orb Vallis) |
-| [[viper\|Viper]] | Pistola | Mercado (blueprint) |
-| [[viper_wraith\|Viper Wraith]] | Pistola | Nightwave / Evento |
-| [[zakti\|Zakti]] | Arremesso | Mercado (blueprint) |
-| [[zakti_prime\|Zakti Prime]] | Arremesso | Relíquias (Prime) |
-| [[zylok\|Zylok]] | Pistola | Nightwave / Evento |
+| [[armas/secundarias/acrid.md\|Acrid]] | Especial | Drop (Invasões Infested) |
+| [[armas/secundarias/akarius.md\|Akarius]] | Pistolas Duplas | Pesquisa de Clã (Entrati) |
+| [[armas/secundarias/akbolto.md\|Akbolto]] | Pistolas Duplas | Mercado (2× Bolto) |
+| [[armas/secundarias/akbolto_prime.md\|Akbolto Prime]] | Pistolas Duplas | Relíquias (Prime) |
+| [[armas/secundarias/akjagara.md\|Akjagara]] | Pistolas Duplas | Mercado (blueprint) |
+| [[armas/secundarias/akjagara_prime.md\|Akjagara Prime]] | Pistolas Duplas | Relíquias (Prime) |
+| [[armas/secundarias/aklex.md\|Aklex]] | Pistolas Duplas | Mercado (2× Lex) |
+| [[armas/secundarias/aklex_prime.md\|Aklex Prime]] | Pistolas Duplas | Relíquias (Prime) |
+| [[armas/secundarias/aksomati.md\|Aksomati]] | Pistolas Duplas | Pesquisa de Clã (Corpus) |
+| [[armas/secundarias/aksomati_prime.md\|Aksomati Prime]] | Pistolas Duplas | Relíquias (Prime) |
+| [[armas/secundarias/akstiletto.md\|Akstiletto]] | Pistolas Duplas | Mercado (blueprint) |
+| [[armas/secundarias/akstiletto_prime.md\|Akstiletto Prime]] | Pistolas Duplas | Relíquias (Prime) |
+| [[armas/secundarias/akvasto.md\|Akvasto]] | Pistolas Duplas | Mercado (2× Vasto) |
+| [[armas/secundarias/akvasto_prime.md\|Akvasto Prime]] | Pistolas Duplas | Relíquias (Prime) |
+| [[armas/secundarias/akzani.md\|Akzani]] | Pistolas Duplas | Pesquisa de Clã (Cetus) |
+| [[armas/secundarias/arca_scisco.md\|Arca Scisco]] | Pistola | Pesquisa de Clã (Corpus) |
+| [[armas/secundarias/athodai.md\|Athodai]] | Pistola | Fortuna (Old Mate, rank 5) |
+| [[armas/secundarias/atomos.md\|Atomos]] | Especial | Pesquisa de Clã (Corpus) |
+| [[armas/secundarias/azima.md\|Azima]] | Especial | Nightwave / Evento |
+| [[armas/secundarias/ballistica.md\|Ballistica]] | Arco Secundário | Mercado (blueprint) |
+| [[armas/secundarias/ballistica_prime.md\|Ballistica Prime]] | Arco Secundário | Relíquias (Prime) |
+| [[armas/secundarias/bolto.md\|Bolto]] | Pistola | Mercado (blueprint) |
+| [[armas/secundarias/brakk.md\|Brakk]] | Pistola | Drop (Grustrag Three) / Invasões |
+| [[armas/secundarias/bronco.md\|Bronco]] | Pistola | Mercado (blueprint) |
+| [[armas/secundarias/bronco_prime.md\|Bronco Prime]] | Pistola | Relíquias (Prime) |
+| [[armas/secundarias/bubonico.md\|Bubonico]] | Canhão de Braço | Pesquisa de Clã (Entrati) |
+| [[armas/secundarias/castanas.md\|Castanas]] | Arremesso | Mercado (blueprint) |
+| [[armas/secundarias/catchmoon.md\|Catchmoon]] | Kitgun | Kitgun (Fortuna) |
+| [[armas/secundarias/cyanex.md\|Cyanex]] | Especial | Pesquisa de Clã (Entrati) |
+| [[armas/secundarias/despair.md\|Despair]] | Arremesso | Drop (Stalker) |
+| [[armas/secundarias/detron.md\|Detron]] | Pistola | Drop (Corrupted, Void) |
+| [[armas/secundarias/dex_furis.md\|Dex Furis]] | Pistola | Evento (Aniversário DE) |
+| [[armas/secundarias/embolist.md\|Embolist]] | Especial | Pesquisa de Clã (Grineer) |
+| [[armas/secundarias/epitaph.md\|Epitaph]] | Pistola | Pesquisa de Clã (Entrati) |
+| [[armas/secundarias/euphona_prime.md\|Euphona Prime]] | Pistola | Relíquias (Prime) |
+| [[armas/secundarias/furis.md\|Furis]] | Pistola | Mercado (blueprint) |
+| [[armas/secundarias/fusilai.md\|Fusilai]] | Arremesso | Nakak, Cetus (caça) |
+| [[armas/secundarias/gammacor.md\|Gammacor]] | Especial | Pesquisa de Clã (Corpus) |
+| [[armas/secundarias/gaze.md\|Gaze]] | Kitgun | Kitgun (Fortuna) |
+| [[armas/secundarias/hikou.md\|Hikou]] | Arremesso | Mercado (blueprint) |
+| [[armas/secundarias/hikou_prime.md\|Hikou Prime]] | Arremesso | Relíquias (Prime) |
+| [[armas/secundarias/knell.md\|Knell]] | Pistola | Pesquisa de Clã (Quills, Cetus) |
+| [[armas/secundarias/knell_prime.md\|Knell Prime]] | Pistola | Relíquias (Prime) |
+| [[armas/secundarias/kohmak.md\|Kohmak]] | Especial | Pesquisa de Clã (Corpus) |
+| [[armas/secundarias/kompressa.md\|Kompressa]] | Especial | Pesquisa de Clã (Entrati) |
+| [[armas/secundarias/kulstar.md\|Kulstar]] | Especial | Pesquisa de Clã (Grineer) |
+| [[armas/secundarias/kuva_brakk.md\|Kuva Brakk]] | Pistola | Kuva Lich |
+| [[armas/secundarias/kuva_nukor.md\|Kuva Nukor]] | Pistola | Kuva Lich |
+| [[armas/secundarias/kuva_seer.md\|Kuva Seer]] | Pistola | Kuva Lich |
+| [[armas/secundarias/kuva_twin_stubbas.md\|Kuva Twin Stubbas]] | Pistolas Duplas | Kuva Lich |
+| [[armas/secundarias/laetum.md\|Laetum]] | Incarnon | Incarnon (Duviri) |
+| [[armas/secundarias/lato.md\|Lato]] | Pistola | Starter / Mercado |
+| [[armas/secundarias/lato_prime.md\|Lato Prime]] | Pistola | Indisponível (Founder's Pack, 2013) |
+| [[armas/secundarias/lato_vandal.md\|Lato Vandal]] | Pistola | Nightwave / Evento |
+| [[armas/secundarias/lex.md\|Lex]] | Pistola | Mercado (blueprint) |
+| [[armas/secundarias/lex_prime.md\|Lex Prime]] | Pistola | Relíquias (Prime) |
+| [[armas/secundarias/magnus.md\|Magnus]] | Pistola | Mercado (blueprint) |
+| [[armas/secundarias/magnus_prime.md\|Magnus Prime]] | Pistola | Relíquias (Prime) |
+| [[armas/secundarias/mara_detron.md\|Mara Detron]] | Pistola | Baro Ki'Teer |
+| [[armas/secundarias/nukor.md\|Nukor]] | Pistola | Pesquisa de Clã (Corpus) |
+| [[armas/secundarias/ocucor.md\|Ocucor]] | Especial | Pesquisa de Clã (Entrati) |
+| [[armas/secundarias/pandero.md\|Pandero]] | Pistola | Mercado (blueprint) |
+| [[armas/secundarias/pandero_prime.md\|Pandero Prime]] | Pistola | Relíquias (Prime) |
+| [[armas/secundarias/rattleguts.md\|Rattleguts]] | Kitgun | Kitgun (Fortuna) |
+| [[armas/secundarias/sancti_castanas.md\|Sancti Castanas]] | Arremesso | Sindicato (New Loka) |
+| [[armas/secundarias/seer.md\|Seer]] | Pistola | Drop (Vor, Mercury — Tolstoj) |
+| [[armas/secundarias/sicarus.md\|Sicarus]] | Pistola | Mercado (blueprint) |
+| [[armas/secundarias/sicarus_prime.md\|Sicarus Prime]] | Pistola | Relíquias (Prime) |
+| [[armas/secundarias/sonicor.md\|Sonicor]] | Especial | Pesquisa de Clã (Corpus) |
+| [[armas/secundarias/spira.md\|Spira]] | Arremesso | Mercado (blueprint) |
+| [[armas/secundarias/spira_prime.md\|Spira Prime]] | Arremesso | Relíquias (Prime) |
+| [[armas/secundarias/staticor.md\|Staticor]] | Especial | Pesquisa de Clã (Corpus) |
+| [[armas/secundarias/stubba.md\|Stubba]] | Especial | Pesquisa de Clã (Grineer) |
+| [[armas/secundarias/stug.md\|Stug]] | Especial | Pesquisa de Clã (Corpus) |
+| [[armas/secundarias/synoid_gammacor.md\|Synoid Gammacor]] | Especial | Sindicato (Cephalon Suda) |
+| [[armas/secundarias/tenet_agendus.md\|Tenet Agendus]] | Especial | Irmãs de Parvos |
+| [[armas/secundarias/tenet_cycron.md\|Tenet Cycron]] | Especial | Irmãs de Parvos |
+| [[armas/secundarias/tenet_detron.md\|Tenet Detron]] | Pistola | Irmãs de Parvos |
+| [[armas/secundarias/tenet_diplos.md\|Tenet Diplos]] | Pistolas Duplas | Irmãs de Parvos |
+| [[armas/secundarias/tenet_plinx.md\|Tenet Plinx]] | Pistola | Irmãs de Parvos |
+| [[armas/secundarias/tenet_spirex.md\|Tenet Spirex]] | Especial | Irmãs de Parvos |
+| [[armas/secundarias/tombfinger.md\|Tombfinger]] | Kitgun | Kitgun (Fortuna) |
+| [[armas/secundarias/twin_grakata.md\|Twin Grakata]] | Pistolas Duplas | Mercado (blueprint) |
+| [[armas/secundarias/twin_vipers.md\|Twin Vipers]] | Pistolas Duplas | Mercado (blueprint) |
+| [[armas/secundarias/twin_vipers_wraith.md\|Twin Vipers Wraith]] | Pistolas Duplas | Nightwave / Evento |
+| [[armas/secundarias/vasto.md\|Vasto]] | Pistola | Mercado (blueprint) |
+| [[armas/secundarias/vasto_prime.md\|Vasto Prime]] | Pistola | Relíquias (Prime) |
+| [[armas/secundarias/velox.md\|Velox]] | Pistola | Drop (Corpus, Orb Vallis) |
+| [[armas/secundarias/viper.md\|Viper]] | Pistola | Mercado (blueprint) |
+| [[armas/secundarias/viper_wraith.md\|Viper Wraith]] | Pistola | Nightwave / Evento |
+| [[armas/secundarias/zakti.md\|Zakti]] | Arremesso | Mercado (blueprint) |
+| [[armas/secundarias/zakti_prime.md\|Zakti Prime]] | Arremesso | Relíquias (Prime) |
+| [[armas/secundarias/zylok.md\|Zylok]] | Pistola | Nightwave / Evento |
 
----
 
-## Referências Cruzadas
+## 🔗 Relacionados — Armas Secundárias — Índice
+
 
 | Índice | Relação |
 |---|---|
-| [[_Armas _Indice\|Armas]] | Índice geral — todas as categorias de arma |
-| [[_Mods Armas _Indice\|Mods de Armas]] | Mods de pistola e secundária |
-| [[_Recursos _Indice\|Recursos]] | Materiais para crafting de secundárias |
-| [[_Locais _Indice\|Locais]] | Planetas onde drops de secundárias ocorrem |
+| [[armas/_Armas _Indice.md\|Armas]] | Índice geral — todas as categorias de arma |
+| [[mods/armas/_Mods Armas _Indice.md\|Mods de Armas]] | Mods de pistola e secundária |
+| [[recursos/_Recursos _Indice.md\|Recursos]] | Materiais para crafting de secundárias |
+| [[locais/_Locais _Indice.md\|Locais]] | Planetas onde drops de secundárias ocorrem |

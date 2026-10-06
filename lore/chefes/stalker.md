@@ -1,9 +1,14 @@
 ---
 title: Stalker
+aliases: [Stalker]
 tipo: lore
 subtipo: chefe
+resumo: "Stalker — Sorren, um Low Guardian punido por Ballas com a transformação em Warframe por amar Jade e ter um filho com ela — hoje caça Tenno por vingança, usando habilidades de várias Warframes ao mesmo tempo."
+status: completo
+rag: true
 tags: [lore, chefe, assassino]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Stalker", "https://wiki.warframe.com/w/Damage_2.0/Overview_Table"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Sorren, um Low Guardian punido por Ballas com a transformação em Warframe por amar Jade e ter um filho com ela — hoje caça Tenno por vingança, usando habilidades de várias Warframes ao mesmo tempo.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Stalker
+
 
 | Item | Valor |
 |---|---|
@@ -26,9 +31,9 @@ agente: opus
 | Dublagem | — |
 | Armas | **Dread** (arco), [[armas/secundarias/despair.md\|Despair]] (kunai), [[armas/brancas/hate.md\|Hate]] (foice) |
 
----
 
-## 📖 História
+## 📖 História — Stalker
+
 
 > [!warning] Spoiler — The Second Dream / Jade Shadows
 
@@ -38,9 +43,9 @@ Durante o [[lore/cronologia/o_colapso.md|Colapso]] do Império, ele percebeu que
 
 Mais tarde, serviu a Hunhow como **Shadow Stalker**, com armadura Sentient — foi assim que Lua e a verdade sobre os Tenno vieram à tona em [[missoes/jornadas/principais/the_second_dream.md|The Second Dream]]. No fim, Hunhow passou a aconselhá-lo a abandonar o próprio ódio, com pouco sucesso; a reconciliação só veio em **Jade Shadows**, com Jade e com o passado dele.
 
----
 
-## ⚔️ Combate
+## ⚔️ Combate — Stalker
+
 
 | Item | Detalhe |
 |---|---|
@@ -91,9 +96,9 @@ Outros detalhes úteis: ele normalmente só ataca o alvo marcado, mas engaja out
 > [!info] Diálogos especiais
 > Se [[warframes/regular/jade.md|Jade]] estiver presente, ele diz "Never", **despawna imediatamente** e dropa o loot normal. Se **Sirius & Orion** estiverem presentes, ele diz "Show me you've learned" e a luta segue normalmente.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Stalker
+
 
 - **[[warframes/regular/jade.md|Jade]]** — a companheira pela qual ele foi punido, que o resgatou sem ser reconhecida, e com quem se reconcilia em Jade Shadows.
 - **Sirius & Orion** — os filhos dele, travados em conflito por **Eternalism**; Hunhow ofereceu as próprias memórias à The Indifference para encerrar a disputa.
@@ -104,9 +109,9 @@ Outros detalhes úteis: ele normalmente só ataca o alvo marcado, mas engaja out
 - **The Grustrag Three** e **Zanuka Hunter** — os outros dois Assassinos; apenas um pode ser "escolhido" por missão.
 - **[[warframes/regular/excalibur.md|Excalibur]]**, **[[warframes/regular/ash.md|Ash]]**, **[[warframes/regular/nyx.md|Nyx]]**, **[[warframes/regular/oberon.md|Oberon]]**, **[[warframes/regular/mag.md|Mag]]** — as Warframes cujas habilidades ele usa.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Stalker
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -120,7 +125,3 @@ Outros detalhes úteis: ele normalmente só ataca o alvo marcado, mas engaja out
 | Farm de Dread / Despair / Hate | As armas dele, obtidas por blueprint dropado |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Stalker (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Overview_Table (consultado em 2026-10-04)

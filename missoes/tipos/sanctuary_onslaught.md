@@ -1,9 +1,14 @@
 ---
 title: Sanctuary Onslaught
+aliases: [Sanctuary Onslaught]
 tipo: missao
 subtipo: tipo
+resumo: "Sanctuary Onslaught — Modo endless do mecanicas/sindicatos/cephalon_simaris.md|Cephalon Simaris: matar rápido para manter o medidor de Efficiency acima de zero e atravessar o maior número de Zonas possível, com recompensa a cada 2 Zonas."
+status: completo
+rag: true
 tags: [missao, tipo, endless]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Sanctuary_Onslaught", "https://wiki.warframe.com/w/Module:Missions/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Modo endless do [[mecanicas/sindicatos/cephalon_simaris.md|Cephalon Simaris]]: matar rápido para manter o medidor de **Efficiency** acima de zero e atravessar o maior número de **Zonas** possível, com recompensa a cada 2 Zonas.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Sanctuary Onslaught
+
 
 | Item | Detalhe |
 |---|---|
@@ -26,9 +31,9 @@ agente: opus
 | Pré-requisito | **[[missoes/jornadas/secundarios/the_new_strange.md\|The New Strange]]** concluída |
 | Nível inimigo | Começa em **20–30**, sobe para **80–100** depois da Zona 15, **110–130** depois da 20, **130–150** depois da 25 |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Sanctuary Onslaught
+
 
 1. O squad entra num **Conduit** e enfrenta inimigos cada vez mais fortes.
 2. **Cada abate soma Efficiency.** Inimigos **Eximus** somam mais.
@@ -71,9 +76,9 @@ agente: opus
 | 6, 14, 22… | **B** |
 | 8, 16, 24… | **C** |
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Sanctuary Onslaught
+
 
 | Planeta | Nó | Nível | Pré-requisito |
 |---|---|---|---|
@@ -83,9 +88,9 @@ O nó é **oculto** no Star Chart: aparece no painel de missões do Simaris, nã
 
 **Melhor nó para farmar:** é o único nó do modo normal. Para farm sério de **[[warframes/regular/khora.md|Khora]]** e de **Braton/Lato Vandal**, a versão **Elite** é mais eficiente por Zona — o normal serve para subir até ter frame rank 30.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Sanctuary Onslaught
+
 
 | Recompensa | Rotação | Nota |
 |---|---|---|
@@ -96,9 +101,9 @@ O nó é **oculto** no Star Chart: aparece no painel de missões do Simaris, nã
 > [!warning] Tabela parcial
 > Pela seção 8 das convenções **não completo a drop table de memória**. A tabela integral, com chance por rotação, está em https://wiki.warframe.com/w/Sanctuary_Onslaught/Rewards.
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Sanctuary Onslaught
+
 
 - **O modo é limitado por velocidade de abate, não por sobrevivência.** Leve dano de área que escala: **[[warframes/regular/saryn.md|Saryn]]** (ciente da perda de 30% de Spores por Conduit), **[[warframes/regular/mesa.md|Mesa]]** ou **[[warframes/regular/octavia.md|Octavia]]**.
 - **Equipe Preparation.** É o único mod que contorna o reset de energia a cada Conduit, e sem energia no início da Zona você perde os primeiros 20 segundos do medidor.
@@ -107,7 +112,3 @@ O nó é **oculto** no Star Chart: aparece no painel de missões do Simaris, nã
 - **Lockers valem parada se você tiver Master Thief.** São a única fonte de Affinity Orb e de Ayatan Star dentro da Sanctuary, já que containers não aparecem.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Sanctuary_Onslaught — Efficiency, Zonas de 2 min 30 s, Conduit de 30 s, Stimulus, regras do Simaris, perdas por frame, rotação AABC, escalonamento de nível (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Missions/data — nó oculto, nível 20–30, pré-requisito The New Strange (consultado em 2026-10-06)

@@ -1,10 +1,15 @@
 ---
 title: Aya
+aliases: [Aya]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: planeta
+resumo: "Aya — Recurso do tipo currency, farmado em Void Missions and Bounties, 1 por drop."
+status: completo
+rag: true
 tags: [recurso, planeta, currency]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Aya", "https://wiki.warframe.com/w/Module:Resources/data", "https://wiki.warframe.com/w/Module:DropTables/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “Raw Orokin memory plasma. Varzia's Foundry can consume Aya to create Void Relics. Find her in Maroo's Bazaar on Mars.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Aya
+
 
 | Item | Valor |
 |---|---|
@@ -31,9 +36,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **Não** |
 | Introduzido no Update | **30.9.4** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Aya
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -75,17 +80,12 @@ No vault: [[locais/planetas/void.md|Void]].
 > [!warning] Booster não funciona neste recurso
 > Os dados da wiki marcam este item como **não afetado** por Resource Booster nem por Resource Drop Chance Booster. Boosters e frames de loot **não aceleram** o farm dele.
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Aya
+
 
 | Item | Quantidade |
 |---|---|
 | ⚠️ NÃO VERIFICADO | Nenhuma receita do `Module:Resources/data` lista este item como componente e a página da wiki não traz Item Checklist parseável. Ele pode ser usado em **trocas de sindicato** ou **consumido direto** — usos que não estão nesses dados. Confira em https://wiki.warframe.com/w/Aya |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Aya — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)

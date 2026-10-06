@@ -1,9 +1,16 @@
 ---
 title: Kuva Shildeg
-tipo: branca
-tags:
-  - arma
-  - branca
-status: nao-obtida
-atualizado: 2026-04-19
+aliases: [Kuva Shildeg]
+tipo: arma
+subtipo: branca
+resumo: Kuva Shildeg — conteúdo ainda não preenchido no vault.
+status: stub
+rag: false
+tags: [arma, branca]
+atualizado: 2026-10-07
+agente: opus
 ---
+
+# Kuva Shildeg
+
+

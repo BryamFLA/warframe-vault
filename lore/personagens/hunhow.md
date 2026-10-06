@@ -1,9 +1,14 @@
 ---
 title: Hunhow
+aliases: [Hunhow]
 tipo: lore
 subtipo: personagem
+resumo: "Hunhow — O Sentient-pai enterrado sob os mares de Urano: a mente individual de todos os combatentes Sentient, pai de Natah e Erra — que no fim preferiu aliar-se ao inimigo a ver a filha usada como fantoche."
+status: completo
+rag: true
 tags: [lore, personagem, sentient]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Hunhow"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O Sentient-pai enterrado sob os mares de Urano: a mente individual de todos os combatentes Sentient, pai de Natah e Erra — que no fim preferiu aliar-se ao inimigo a ver a filha usada como fantoche.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Hunhow
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Vivo, imóvel sob os mares de [[locais/planetas/urano.md\|Urano]] — e **senil**, após doar as memórias |
 | Natureza | **A mente individual de todos os combatentes Sentient dele**; os drones são "fragmentos", "filhos" ou "corpo" dele |
 
----
 
-## 📖 História
+## 📖 História — Hunhow
+
 
 Hunhow é presumido morto quando os jogadores o encontram — ele **acorda quando o Grineer [[lore/chefes/tyl_regor.md|Tyl Regor]] perturba o lugar de descanso dele nas profundezas de [[locais/planetas/urano.md|Urano]]**. Mesmo depois da [[lore/cronologia/antiga_guerra.md|Antiga Guerra]], a [[lore/personagens/lotus.md|Lotus]] ainda o teme, e ele ainda dispõe de **drones [[lore/faccoes/sentient.md|Sentient]]** — que chama de "fragmentos", "filhos" ou "corpo" — e está disposto a se aliar ao **[[lore/chefes/stalker.md|Stalker]]** para atingir os objetivos dele.
 
@@ -49,9 +54,9 @@ Em [[missoes/jornadas/principais/the_second_dream.md|The Second Dream]], ele se 
 >
 > Quando os filhos futuros do Stalker, **Sirius & Orion**, chegam travados em combate por **Eternalism**, Hunhow ajuda o Stalker uma última vez e **oferece as próprias memórias à The Indifference** para encerrar a disputa entre os filhos, transportando a família para a **Pontis Tower**. Ele aceitou que a filha está sendo cuidada pelos Tenno — mas, **por causa do sacrifício, já não se lembra deles e ficou senil**.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Hunhow
+
 
 - **[[lore/personagens/lotus.md|Lotus]] / Natah** — a filha que ele enviou para destruir os Tenno e que o traiu; no fim, ele se alia ao inimigo para salvá-la.
 - **[[lore/personagens/erra.md|Erra]]** — o filho, que ele tentou avisar sobre Ballas e que o chamou de fracassado.
@@ -63,9 +68,9 @@ Em [[missoes/jornadas/principais/the_second_dream.md|The Second Dream]], ele se 
 - **[[lore/chefes/eidolon_teralyst.md|Eidolons]]** — fragmentos de um Sentient morto; a reprodução por fragmentação é o mecanismo dele.
 - **The Indifference** — recebeu as memórias dele em troca de encerrar a disputa entre os filhos do Stalker.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Hunhow
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -78,6 +83,3 @@ Em [[missoes/jornadas/principais/the_second_dream.md|The Second Dream]], ele se 
 | Jade Shadows | Doa as memórias à Indifference e fica senil |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Hunhow (consultado em 2026-10-04)

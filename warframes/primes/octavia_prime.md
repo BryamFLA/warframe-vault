@@ -1,29 +1,37 @@
 ---
 title: Octavia Prime
+aliases: [Octavia Prime]
 tipo: warframe
-status: nao-obtido
+resumo: Octavia Prime — 1.
+status: stub
+rag: false
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Octavia Prime
 
-> [!info] 
+> [!info]
 
-## 🏗️ Como Obter
+## 🏗️ Como Construir — Octavia Prime
 
 
-## 🔮 Habilidades
+## 🔮 Habilidades — Octavia Prime
+
 1. **Passiva:** 
 2. **Habilidade 1:** 
 3. **Habilidade 2:** 
 4. **Habilidade 3:** 
-5. **Habilidade 4:** 
+5. **Habilidade 4:**
 
-## 📊 Stats Base
+## 📊 Stats Base — Octavia Prime
+
 - **Vida:**
 - **Escudos:**
 - **Armadura:**
 - **Energia:**
 - **Velocidade:**
 
-## ⚙️ Progressão e Conexões
-- **Mascote/Arma Assinatura:** 
+## 🔗 Relacionados — Octavia Prime
+
+- **Mascote/Arma Assinatura:**

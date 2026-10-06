@@ -1,9 +1,14 @@
 ---
 title: Kullervo
+aliases: [Kullervo]
 tipo: lore
 subtipo: chefe
+resumo: "Kullervo — A Warframe condenada por sete crimes — do assassinato por aprovação até a tentativa de regicídio contra Ballas — e presa em Duviri numa ilha com sete celas, guardada pela própria culpa dela em forma de carcereiro."
+status: completo
+rag: true
 tags: [lore, chefe, duviri, warframe]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Kullervo", "https://wiki.warframe.com/w/Duviri"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > A Warframe condenada por **sete crimes** — do assassinato por aprovação até a tentativa de regicídio contra Ballas — e presa em Duviri numa ilha com sete celas, guardada pela própria culpa dela em forma de carcereiro.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Kullervo
+
 
 | Item | Valor |
 |---|---|
@@ -26,9 +31,9 @@ agente: opus
 | Dublagem | — |
 | Arma assinada | **Vaenn**, a lâmina pesada dele, escondida por uma menina numa caverna próxima |
 
----
 
-## 📖 História
+## 📖 História — Kullervo
+
 
 > [!warning] Spoiler — The Duviri Paradox
 
@@ -48,9 +53,9 @@ Segundo **Acrithis**, Kullervo chegou a Duviri numa bola de fogo que então form
 
 Ao explorar a ilha, as crianças de Duviri que o [[lore/personagens/the_drifter.md|Drifter]] encontra **cantam os feitos dele em rimas**, começando com "Kullervo, Kullervo...". E uma menina escondida num túnel de caverna **embala Vaenn**, a lâmina pesada dele, para esconder a arma do Warden.
 
----
 
-## ⚔️ Combate
+## ⚔️ Combate — Kullervo
+
 
 | Item | Detalhe |
 |---|---|
@@ -71,9 +76,9 @@ Ao explorar a ilha, as crianças de Duviri que o [[lore/personagens/the_drifter.
 
 **Segredo da ilha:** uma caverna que sai da prisão tem uma cela trancada com um tom de **Somachord**. Para abrir: localize os **três bustos de [[lore/personagens/dominus_thrax.md|Dominus Thrax]]** espalhados pela ilha, rotacione-os para que **fiquem virados para o centro**, e hackeie o console do lado de fora da cela.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Kullervo
+
 
 - **The Warden** — o carcereiro, aparentemente uma Conceptual Embodiment de Ballas formada da culpa de Kullervo; refere-se a si mesmo como "a culpa dele".
 - **[[lore/personagens/ballas.md|Ballas]]** — o Executor que imputou os sete crimes e sobreviveu à tentativa de regicídio. Um dos Seven.
@@ -85,9 +90,9 @@ Ao explorar a ilha, as crianças de Duviri que o [[lore/personagens/the_drifter.
 - **[[lore/personagens/dominus_thrax.md|Dominus Thrax]]** — o Rei de Duviri; os bustos dele guardam o segredo da ilha.
 - **Acrithis** — vendedora no Dormizone que troca Kullervo's Bane pelos blueprints.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Kullervo
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -98,7 +103,3 @@ Ao explorar a ilha, as crianças de Duviri que o [[lore/personagens/the_drifter.
 | [[recursos/open_worlds/duviri/kullervo_bane.md\|Kullervo's Bane]] | O recurso que ele dropa |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Kullervo (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Duviri (consultado em 2026-10-04)

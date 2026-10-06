@@ -1,9 +1,14 @@
 ---
 title: Sabotage
+aliases: [Sabotage]
 tipo: missao
 subtipo: tipo
+resumo: "Sabotage — Destruir o reator de uma instalação — ou o caso específico do tileset: colmeia Infested, portal do Void, reator de nave ou laboratório submarino."
+status: completo
+rag: true
 tags: [missao, tipo]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Sabotage"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Destruir o reator de uma instalação — ou o caso específico do tileset: colmeia Infested, portal do Void, reator de nave ou laboratório submarino. Cada variante tem regra própria.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Sabotage
+
 
 | Item | Detalhe |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Squad recomendado | Qualquer |
 | Tipo | **Finito** |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Sabotage
+
 
 ### Core Sabotage (a variante mais comum)
 
@@ -55,9 +60,9 @@ agente: opus
 | **Sealab Sabotage** | Variante dos laboratórios submarinos de [[locais/planetas/urano.md\|Urano]] |
 | **[[missoes/tipos/sabotage_railjack.md\|Sabotage (Railjack)]]** | A versão Empyrean |
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Sabotage
+
 
 | Onde | Detalhe |
 |---|---|
@@ -69,9 +74,9 @@ agente: opus
 
 **Melhor nó para farmar:** Sabotage é usado principalmente como **tarefa** (Junções, Sorties) e como rotação de Void Fissure. Para farm de recurso, os nós de Hive Sabotage em Derelict rendem materiais Infested.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Sabotage
+
 
 | Recompensa | Rotação / Chance | Nota |
 |---|---|---|
@@ -80,18 +85,18 @@ agente: opus
 | Relic aberta | — | Em Void Fissure |
 | Recursos do field boss | Chance | Em Orokin Sabotage |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Sabotage
+
 
 - **Em Core Sabotage, extraia imediatamente** depois de destruir o núcleo: a mensagem "Core Integrity Compromised" significa **5 minutos para sair ou falhar**.
 - Em **Hive Sabotage**, não mate o Pulsing Hive perto do squad: os orbes pulsantes que ele ativa **drenam escudo e energia** por todo o nível.
 - Em **Orokin Sabotage**, o field boss guarda a Void Key — identifique se é **Sprag/Ven'kra Tel** (Grineer) ou **Lynx** (Corpus) e monte o elemento certo.
 - Os **4.000 de afinidade de objetivo** fazem de Sabotage uma opção decente para ranquear uma Warframe nova.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Sabotage
+
 
 - **[[missoes/tipos/sabotage_railjack.md|Sabotage (Railjack)]]** — a versão Empyrean.
 - **[[missoes/tipos/rescue.md|Rescue]]** — os mesmos orbes pulsantes aparecem na variante Infested.
@@ -99,6 +104,3 @@ agente: opus
 - **[[missoes/tipos/sortie.md|Sortie]]** — onde Sabotage aparece com frequência.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Sabotage (consultado em 2026-10-04)

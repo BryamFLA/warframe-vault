@@ -1,9 +1,14 @@
 ---
 title: Tenno
+aliases: [Tenno]
 tipo: lore
 subtipo: faccao
+resumo: "Tenno — As crianças sobreviventes da nave-colônia Zariman Ten Zero, mutadas pelo Void, que pilotam Warframes por Transference — você é uma delas, e foram elas que destruíram o Império Orokin."
+status: completo
+rag: true
 tags: [lore, faccao, tenno]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Tenno", "https://wiki.warframe.com/w/Damage_2.0/Tenno_Tab", "https://wiki.warframe.com/w/Focus"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > As crianças sobreviventes da nave-colônia Zariman Ten Zero, mutadas pelo Void, que pilotam Warframes por Transference — você é uma delas, e foram elas que destruíram o Império Orokin.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Tenno
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Ativos. Após [[missoes/jornadas/principais/the_new_war.md\|The New War]] existem dois: o Tenno original e o **Drifter**, versão paradoxal do mesmo Operator |
 | Dublagem | Voz do Operator escolhida pelo jogador (várias opções) |
 
----
 
-## 📖 História
+## 📖 História — Tenno
+
 
 > [!warning] Spoiler — The Second Dream / The War Within
 > Tudo abaixo é a revelação central do jogo.
@@ -38,9 +43,9 @@ A pesquisa foi tomada dela depois que os Orokin a executaram por se recusar a ma
 
 O fim da ameaça Sentient devia ter encerrado os problemas dos Orokin. Mas os Tenno nunca perdoaram a execução de Margulis, que consideravam mãe adotiva: **na festa da vitória, as Warframes assassinaram a liderança Orokin** e derrubaram o Império. No meio do colapso, a agente Sentient **Natah** — enviada para exterminá-los — se apegou a eles, escondeu Lua e o Reservoir dentro do Void, pôs as Warframes em criostase e se rebatizou **Lotus**, guardiã dos Tenno adormecidos.
 
----
 
-## 🏛️ Estrutura e Unidades
+## 🏛️ Estrutura e Unidades — Tenno
+
 
 ### As cinco Escolas (Tenno Ways)
 
@@ -88,9 +93,9 @@ As cinco são o sistema de [[mecanicas/operator_e_focus.md|Focus]]: você escolh
 > [!info] Por que a tabela é quase vazia
 > Fora do Conclave, o Tenno não é alvo das regras de facção — os inimigos usam escala de dano própria. Essa tabela existe para PvP e para Specters Tenno.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Tenno
+
 
 - **[[lore/personagens/lotus.md|Lotus]] / Natah** — mãe adotiva e comandante. Sentient enviada para matá-los que escolheu protegê-los; ela guia as missões por áudio.
 - **[[lore/personagens/margulis.md|Margulis]]** — a Archimedean que descobriu como controlar o poder das crianças e morreu por elas. Motivo direto do massacre Orokin.
@@ -102,9 +107,9 @@ As cinco são o sistema de [[mecanicas/operator_e_focus.md|Focus]]: você escolh
 - **[[lore/chefes/stalker.md|Stalker]]** — sobrevivente da era Orokin que caça os Tenno por vingança pelo massacre.
 - **[[lore/personagens/ordis.md|Ordis]]** — Cephalon do Orbiter, um Orokin "glassado" como punição.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Tenno
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -119,8 +124,3 @@ As cinco são o sistema de [[mecanicas/operator_e_focus.md|Focus]]: você escolh
 | [[mecanicas/sindicatos/conclave.md\|Conclave]] | PvP mantido por Teshin |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Tenno (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Tenno_Tab (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Focus (consultado em 2026-10-04)

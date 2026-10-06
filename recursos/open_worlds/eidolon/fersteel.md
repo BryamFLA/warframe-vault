@@ -1,10 +1,15 @@
 ---
 title: Fersteel Alloy
+aliases: [Fersteel Alloy, Liga Fersteel, fersteel]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+resumo: Fersteel Alloy is a resource crafted from Ferros.
+status: completo
+rag: true
 tags: [recurso, open_world]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Fersteel_Alloy"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -22,9 +27,9 @@ agente: opus
 > [!warning] Este item não está no `Module:Resources/data`
 > Ao contrário da maioria dos recursos do vault, este não tem entrada no módulo de dados de recursos da wiki — então **não há ficha estruturada** de raridade, quantidade por drop ou compatibilidade com booster para copiar. O que está abaixo vem do **texto da própria página** e do **`Module:DropTables/data`**. Os campos sem fonte ficam marcados.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Fersteel Alloy
+
 
 | Item | Valor |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 | Quantidade por drop | ⚠️ NÃO VERIFICADO |
 | Afetado por boosters | ⚠️ NÃO VERIFICADO |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Fersteel Alloy
+
 
 **Da seção de aquisição da página:** The reusable blueprint can be purchased from Old Man Suumbaat for 5,000 Standing 5,000, requiring the rank of Visitor with the Ostron.
 
@@ -53,9 +58,9 @@ agente: opus
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Fersteel Alloy
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este item:
 
@@ -86,6 +91,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este item:
 > Total de **21** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Fersteel_Alloy — descrição, forma de obtenção e Item Checklist (consultado em 2026-10-06)

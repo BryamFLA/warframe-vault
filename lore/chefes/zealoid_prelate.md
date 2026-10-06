@@ -1,9 +1,14 @@
 ---
 title: Zealoid Prelate
+aliases: [Zealoid Prelate]
 tipo: lore
 subtipo: chefe
+resumo: "Zealoid Prelate — O líder dos Zealots de Arlo: fica invulnerável e se liga a todos os Infested da sala, e só abre quando você mata o Zealoid Bastion e carrega a luz dele de volta até o Prelate."
+status: completo
+rag: true
 tags: [lore, chefe, infested, zealot]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Zealoid_Prelate", "https://wiki.warframe.com/w/Infested", "https://wiki.warframe.com/w/Damage_2.0/Infested_Tab"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O líder dos Zealots de Arlo: fica invulnerável e se liga a todos os Infested da sala, e só abre quando você mata o Zealoid Bastion e **carrega a luz dele** de volta até o Prelate.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Zealoid Prelate
+
 
 | Item | Valor |
 |---|---|
@@ -26,9 +31,9 @@ agente: opus
 | Dublagem | — |
 | Arma assinada | **Pathocyst** (glaive Infested) |
 
----
 
-## 📖 História
+## 📖 História — Zealoid Prelate
+
 
 O Zealoid Prelate é produto da cepa **Emissary** — a mais inteligente que a Infestação já produziu. Com o surto de [[locais/planetas/eris.md|Eris]] praticamente contido, o hivemind de Eris resolveu o problema de outra forma: despachou **Arlo**, aparentemente uma cepa evoluída disfarçada de jovem sobrevivente, com o poder de **curar uma variedade infinita de doenças**.
 
@@ -36,9 +41,9 @@ A cura era isca. Arlo atraía o impulso humano, e **assimilava secretamente** os
 
 A cepa Emissary não se distingue por crescimentos ambientais diferentes, mas pelas **criaturas** que gera: carne mais escura cobrindo todo o corpo e forma **mais humanoide**. As forças de Arlo foram derrotadas, mas esse hivemind provou ser **cunning e inteligente** o bastante para criar uma solução própria para o problema dele.
 
----
 
-## ⚔️ Combate
+## ⚔️ Combate — Zealoid Prelate
+
 
 | Item | Detalhe |
 |---|---|
@@ -87,9 +92,9 @@ Por isso o loadout certo é **limpeza de sala**, não single-target. Um frame qu
 
 **Frames recomendados:** [[warframes/regular/saryn.md|Saryn]] (Spores + Miasma limpam a sala inteira de Infested ligados instantaneamente — a melhor escolha disparada), [[warframes/regular/mesa.md|Mesa]] (Peacemaker como alternativa), [[warframes/regular/nova.md|Nova]] (Molecular Prime detona a sala em cadeia), [[warframes/regular/dante.md|Dante]] (Overguard contra os slams e o maggot explosivo), [[warframes/regular/nekros.md|Nekros]] para o farm da Pathocyst.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Zealoid Prelate
+
 
 - **Arlo, o "Emissary of Eris"** — a cepa evoluída disfarçada de jovem curandeiro que criou os Zealots.
 - **Zealoid Bastion** — a unidade cuja **luz** é a chave para remover a invulnerabilidade do Prelate.
@@ -99,9 +104,9 @@ Por isso o loadout certo é **limpeza de sala**, não single-target. Um frame qu
 - **[[mecanicas/nightwave.md|Nightwave]]** — a Series 2 (The Emissary) foi o contexto original dele.
 - **[[lore/chefes/hemocyte.md|Hemocyte]]** e **[[lore/chefes/phorid.md|Phorid]]** — os outros chefes Infested, ambos ligados a surtos.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Zealoid Prelate
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -111,8 +116,3 @@ Por isso o loadout certo é **limpeza de sala**, não single-target. Um frame qu
 | Zealots de Arlo | A estrutura que ele lidera |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Zealoid_Prelate (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Infested (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Infested_Tab (consultado em 2026-10-04)

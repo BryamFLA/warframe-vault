@@ -1,9 +1,14 @@
 ---
 title: Void Angel
+aliases: [Void Angel]
 tipo: lore
 subtipo: chefe
+resumo: "Manifestações humanas feitas de energia do Void que cederam ao canto do Void e evoluíram para algo abstrato: dormem nas paredes do Zariman cantando baixinho, e enfurecidas tentam rasgar a Membrana de Albrecht para soltar o mestre delas."
+status: completo
+rag: true
 tags: [lore, chefe, zariman, void]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Void_Angel"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Manifestações humanas feitas de energia do Void que cederam ao canto do Void e evoluíram para algo abstrato: dormem nas paredes do Zariman cantando baixinho, e enfurecidas tentam rasgar a Membrana de Albrecht para soltar o mestre delas.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Void Angel
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Ativas e enfurecidas pela invasão [[lore/faccoes/corpus.md\|Corpus]] e [[lore/faccoes/grineer.md\|Grineer]] |
 | Dublagem | Sem fala — lamento e canto |
 
----
 
-## 📖 História
+## 📖 História — Void Angel
+
 
 Todos os Void Angels foram, originalmente, **manifestações humanoides criadas por Conceptual Embodiment** — o mesmo processo que gerou os [[mecanicas/sindicatos/the_holdfasts.md|Holdfasts]]. A diferença é o que fizeram depois: **cederam ao canto do Void**. Renascidos do Void, evoluíram para uma forma **mais abstrata** — massas de energia em forma humana.
 
@@ -35,9 +40,9 @@ Essas massas podem ser encontradas **encasuladas e adormecidas dentro das parede
 
 O problema é político e físico ao mesmo tempo. Por causa das forças invasoras do **Corpus** e dos **Grineer**, os Angels ficaram **enfurecidos** — e agora tentam **rasgar a Membrana de Albrecht** para libertar o mestre delas. A consequência direta disso são as **Void Floods** que aparecem pela nave, aumentando o risco de contaminação. Quando não estão dormindo nas paredes, elas tentam chegar ao **Reliquary Drive** do Zariman **para se alimentar dele**.
 
----
 
-## ⚔️ Combate
+## ⚔️ Combate — Void Angel
+
 
 | Item | Detalhe |
 |---|---|
@@ -91,9 +96,9 @@ Três detalhes práticos:
 
 **Frames recomendados:** como o peso está no Operator, priorize frames que **sobrevivem sozinhos** enquanto você está fora: [[warframes/regular/inaros.md|Inaros]], [[warframes/regular/rhino.md|Rhino]] (Iron Skin), [[warframes/regular/wukong.md|Wukong]] (Cloud Walker e Defy), [[warframes/regular/nidus.md|Nidus]]. [[warframes/regular/limbo.md|Limbo]] com Cataclysm e [[warframes/regular/dante.md|Dante]] com Overguard protegem a Warframe parada enquanto você luta no Ethereal. Para o Operator, [[mecanicas/operator_e_focus.md|Madurai]] com um Amp de dano é o caminho mais direto.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Void Angel
+
 
 - **[[mecanicas/sindicatos/the_holdfasts.md|The Holdfasts]]** — mesma origem: Conceptual Embodiment. A diferença é que os Holdfasts **não** cederam ao canto do Void.
 - **[[locais/open-worlds/zariman.md|Zariman]]** — a nave onde elas dormem nas paredes e onde tentam alcançar o Reliquary Drive.
@@ -102,9 +107,9 @@ Três detalhes práticos:
 - **[[lore/faccoes/corpus.md|Corpus]]** e **[[lore/faccoes/grineer.md|Grineer]]** — a invasão deles no Zariman é a causa direta da fúria das Angels.
 - **[[lore/faccoes/tenno.md|Tenno]]** — os Void Angels são, em última instância, parentes conceituais dos Tenno: ambos nasceram do que o Void fez com gente a bordo do Zariman.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Void Angel
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -114,6 +119,3 @@ Três detalhes práticos:
 | [[mecanicas/sindicatos/the_holdfasts.md\|The Holdfasts]] | Standing e recompensas da região |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Void_Angel (consultado em 2026-10-04)

@@ -1,12 +1,14 @@
 ---
 title: Gauss
+aliases: [Gauss]
 tipo: warframe
-status: nao-obtido
-polaridade: []
 categoria: velocidade
-tags:
-  - warframe
-atualizado: 2026-04-16
+resumo: Gauss — Velocidade extrema com escudos cinéticos e superaquecimento.
+status: stub
+rag: false
+tags: [warframe]
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Gauss
@@ -14,12 +16,14 @@ atualizado: 2026-04-16
 > [!info] Visão Geral
 > Velocidade extrema com escudos cinéticos e superaquecimento
 
-## Como Obter
+## 🏗️ Como Construir — Gauss
+
 - Fonte: 
 - Drop location: 
-- Blueprint: 
+- Blueprint:
 
-## Habilidades
+## 🔮 Habilidades — Gauss
+
 
 | # | Nome | Custo | Descrição |
 |---|------|-------|-----------|
@@ -29,7 +33,8 @@ atualizado: 2026-04-16
 | 3 | | 75 | |
 | 4 | | 100 | |
 
-## Stats Base
+## 📊 Stats Base — Gauss
+
 
 | Stat | Valor |
 |------|-------|
@@ -40,18 +45,13 @@ atualizado: 2026-04-16
 | Sprint | |
 | Polaridades | |
 
-## Build Recomendada
+## 🛠️ Build — Gauss
+
 > Preencher após obter o Warframe.
-- [ ] 
+- [ ]
 
-## Minha Progressão
-- [ ] Blueprint obtido
-- [ ] Componentes farmados
-- [ ] Craftado
-- [ ] Rank 30
-- [ ] Forma aplicado
+## 🔗 Relacionados — Gauss
 
-## Conexões
 - Sinergias: 
 - Recursos necessários: 
-- Quests relacionadas: 
+- Quests relacionadas:

@@ -1,9 +1,14 @@
 ---
 title: Lua — acesso (sem Junção)
+aliases: [Lua — acesso (sem Junção), Lua — acesso (sem Juncao), lua junction]
 tipo: missao
 subtipo: juncao
+resumo: "Lua não tem Junção: ela só é desbloqueada ao completar The Second Dream, e o caminho da Terra para Lua é livre depois disso."
+status: completo
+rag: true
 tags: [missao, juncao]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Junction", "https://wiki.warframe.com/w/Lua"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -24,9 +29,9 @@ agente: opus
 >
 > Este arquivo existe no vault com nome de Junção, mas **não há Junção correspondente no jogo**. O conteúdo abaixo documenta **como o destino é realmente desbloqueado**.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Lua — acesso (sem Junção)
+
 
 | Item | Detalhe |
 |---|---|
@@ -35,9 +40,9 @@ agente: opus
 | Guardião de Junção | **Não existe** |
 | Mastery de Junção | **Não se aplica** |
 
----
 
-## 🔓 Como o acesso realmente acontece
+## 🔓 Como o acesso realmente acontece — Lua — acesso (sem Junção)
+
 
 **Lua só pode ser desbloqueada depois que o jogador completa [[missoes/jornadas/principais/the_second_dream.md|The Second Dream]]** — e isso não é detalhe de progressão, é consequência da própria história: foi a **[[lore/personagens/lotus.md|Lotus]] quem escondeu Lua dentro do Void** para proteger o **Reservoir** com os corpos reais dos [[lore/faccoes/tenno.md|Tenno]]. A lua reaparece porque **[[lore/personagens/hunhow.md|Hunhow]] e o [[lore/chefes/stalker.md|Stalker]] a expõem**.
 
@@ -51,18 +56,18 @@ agente: opus
 
 Lua foi **a sede do poder do Império Orokin** e hoje está estilhaçada, com os restos disputados pelas duas facções — o que faz dela um dos poucos lugares de **Crossfire** permanente.
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Lua — acesso (sem Junção)
+
 
 - Se você está procurando as Junções de verdade, elas são **13**: Vênus, Mercúrio, Marte, Phobos, Ceres, Júpiter, Europa, Saturno, Urano, Netuno, Plutão, Eris e Sedna. Cada uma dá **1.000 de Mastery**.
 - Junções podem ser usadas como **atalho** entre corpos celestes na navegação do Star Chart.
 - As tarefas de Junção **só impedem de lutar contra o Specter**, não de entrar na Junção. E **Specters podem ser escaneados** mesmo quando você não pode atacá-los.
 - Specters de Junção dão aproximadamente **2.000 de afinidade** ao morrer.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Lua — acesso (sem Junção)
+
 
 - **[[locais/planetas/lua.md|Lua]]** — o destino.
 - **[[missoes/jornadas/principais/the_second_dream.md|The Second Dream]]** — o que desbloqueia.
@@ -71,7 +76,3 @@ Lua foi **a sede do poder do Império Orokin** e hoje está estilhaçada, com os
 - **[[mecanicas/operator_e_focus.md|Operator e Focus]]** — o Reservoir está aqui.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Junction (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Lua (consultado em 2026-10-04)

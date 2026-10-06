@@ -1,10 +1,15 @@
 ---
 title: Regal Aya
+aliases: [Regal Aya]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: planeta
+resumo: Regal Aya — Recurso do tipo currency.
+status: completo
+rag: true
 tags: [recurso, planeta, currency]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Regal_Aya", "https://wiki.warframe.com/w/Module:Resources/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “Premium quality Aya, available from the Market. Varzia uses Regal Aya to reconstruct Prime Warframes and equipment.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Regal Aya
+
 
 | Item | Valor |
 |---|---|
@@ -29,9 +34,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **⚠️ NÃO VERIFICADO** |
 | Introduzido no Update | **30.9.4** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Regal Aya
+
 
 ⚠️ **NÃO VERIFICADO** — este recurso não aparece em nenhuma tabela do `Module:DropTables/data`, a descrição do jogo não traz linha `Location:` e a página da wiki não tem seção de aquisição parseável. Pela seção 8 das convenções, **não invento local de farm**. Confira em https://wiki.warframe.com/w/Regal_Aya.
 
@@ -49,16 +54,12 @@ agente: opus
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Regal Aya
+
 
 | Item | Quantidade |
 |---|---|
 | ⚠️ NÃO VERIFICADO | Nenhuma receita do `Module:Resources/data` lista este item como componente e a página da wiki não traz Item Checklist parseável. Ele pode ser usado em **trocas de sindicato** ou **consumido direto** — usos que não estão nesses dados. Confira em https://wiki.warframe.com/w/Regal_Aya |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Regal_Aya — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)

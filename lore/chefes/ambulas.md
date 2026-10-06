@@ -1,9 +1,14 @@
 ---
 title: Ambulas
+aliases: [Ambulas]
 tipo: lore
 subtipo: chefe
+resumo: "Ambulas — O proxy com a IA Animo, que aprende e se adapta de combates anteriores para que a mesma estratégia nunca funcione duas vezes — e que respawna indefinidamente porque a luta acontece na fábrica dele."
+status: completo
+rag: true
 tags: [lore, chefe, corpus]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Ambulas", "https://wiki.warframe.com/w/Damage_2.0/Corpus_Tab"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O proxy com a IA **Animo**, que aprende e se adapta de combates anteriores para que **a mesma estratégia nunca funcione duas vezes** — e que respawna indefinidamente porque a luta acontece na fábrica dele.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Ambulas
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Ativo, em produção em massa em [[locais/planetas/plutao.md\|Plutão]] |
 | IA | **Animo**, criada por **Ergo Glast** — e weaponizada por Frohd Bek |
 
----
 
-## 📖 História
+## 📖 História — Ambulas
+
 
 Ambulas é o chefe Corpus de [[locais/planetas/plutao.md|Plutão]], e o que o torna único é a IA: **Animo**, altamente inteligente, que **permite a ele aprender e se adaptar de experiências de combate anteriores** — garantindo que **o proxy não possa ser derrotado duas vezes pela mesma estratégia**.
 
@@ -35,9 +40,9 @@ A origem do Animo é o conflito moral da história. Ele foi criado por **Ergo Gl
 
 Esse detalhe fecha um círculo com a Era Orokin: a sociedade Orokin **proibia por princípio a criação de verdadeira inteligência de máquina**, e é essa mesma proibição que Glast — hoje líder da [[mecanicas/sindicatos/perrin_sequence.md|Perrin Sequence]] — invoca ao pedir a destruição da própria criação.
 
----
 
-## ⚔️ Combate
+## ⚔️ Combate — Ambulas
+
 
 | Item | Detalhe |
 |---|---|
@@ -78,9 +83,9 @@ A gestão da luta é sobre o **ciclo de 90 segundos**: esgote, hackeie rápido, 
 
 **Frames recomendados:** [[warframes/regular/limbo.md|Limbo]] (Cataclysm protege o Ambulas hackeado dos reforços — a melhor escolha disparada), [[warframes/regular/frost.md|Frost]] (Snow Globe no mesmo papel), [[warframes/regular/mesa.md|Mesa]] (Peacemaker destrói as 9 placas rápido), [[warframes/regular/volt.md|Volt]] (Electricity +50% em Robotic), [[warframes/regular/rhino.md|Rhino]] contra Ground-Burst e Leap.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Ambulas
+
 
 - **Ergo Glast** — criou o Animo para resolver conflitos e hoje pede a destruição dele; líder da [[mecanicas/sindicatos/perrin_sequence.md|Perrin Sequence]].
 - **Frohd Bek** — weaponizou o Animo e comanda a nave capital que apoia a luta.
@@ -89,9 +94,9 @@ A gestão da luta é sobre o **ciclo de 90 segundos**: esgote, hackeie rápido, 
 - **[[lore/chefes/jackal.md|Jackal]]**, **[[lore/chefes/hyena_pack.md|Hyena Pack]]** e **[[lore/chefes/raptors.md|Raptors]]** — os outros chefes-proxy Corpus.
 - **[[lore/chefes/alad_v.md|Alad V]]** — rival de Frohd Bek, substituído por ele na Board.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Ambulas
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -102,7 +107,3 @@ A gestão da luta é sobre o **ciclo de 90 segundos**: esgote, hackeie rápido, 
 | [[mecanicas/steel_path.md\|Steel Path]] | Versão de dificuldade elevada |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Ambulas (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Corpus_Tab (consultado em 2026-10-04)

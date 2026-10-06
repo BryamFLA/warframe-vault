@@ -1,9 +1,14 @@
 ---
 title: Rising Tide
+aliases: [Rising Tide]
 tipo: missao
 subtipo: jornada
+resumo: "Rising Tide — A quest de construção do Railjack: o Tenno reconstrói Cephalon Cy e caça pelo Sistema as peças de uma nave de guerra Orokin da Antiga Guerra."
+status: completo
+rag: true
 tags: [missao, jornada, principal]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Rising_Tide"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > A quest de construção do Railjack: o Tenno reconstrói Cephalon Cy e caça pelo Sistema as peças de uma nave de guerra Orokin da Antiga Guerra.
 
----
 
-## 📖 Narrativa e Pré-requisitos
+## 📖 Narrativa e Pré-requisitos — Rising Tide
+
 
 | Item | Detalhe |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 >
 > Por causa disso, Cy **não se considerava um Command Cephalon viável**, e só aceitou ser instalado ao perceber que **nenhum outro Cephalon tem dados ou experiência com guerra espacial** — e porque quer entender por que os registros daquela missão **foram eliminados do Cephalon weave**.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Rising Tide
+
 
 | Recompensa | Nota |
 |---|---|
@@ -43,18 +48,18 @@ agente: opus
 | Acesso a **Empyrean** | Missões de Railjack nos Proximas |
 | **[[lore/personagens/cephalon_cy.md\|Cephalon Cy]]** | O Command Cephalon da nave |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Rising Tide
+
 
 - A quest exige uma **Dry Dock construída no Dojo**, o que por sua vez exige um clã. Se você joga solo, crie um clã só seu — ver [[mecanicas/cla_e_dojo.md|Clã e Dojo]].
 - A coleta de peças é longa e espalhada. Faça-a junto com outro farm, não como objetivo único.
 - O **Plexus** (sistema de mods de Railjack) vem de [[missoes/jornadas/principais/the_archwing.md|The Archwing]], não desta quest — tenha os dois antes de levar o Railjack a sério.
 - Railjack é pré-requisito narrativo de **[[missoes/jornadas/principais/erra.md|Erra]]**, que acontece a bordo de um Murex no Veil Proxima.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Rising Tide
+
 
 - **[[lore/personagens/cephalon_cy.md|Cephalon Cy]]** — quem ele é e o que fez com a tripulação original.
 - **[[mecanicas/cla_e_dojo.md|Clã e Dojo]]** — a Dry Dock exigida.
@@ -64,6 +69,3 @@ agente: opus
 - **[[missoes/jornadas/principais/erra.md|Erra]]** — usa o Railjack.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Rising_Tide (consultado em 2026-10-04)

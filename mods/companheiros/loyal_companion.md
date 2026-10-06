@@ -1,11 +1,16 @@
 ---
 title: Loyal Companion
+aliases: [Loyal Companion]
 tipo: mod
 categoria: companheiro
-polaridade: Vazarin
 raridade: comum
+polaridade: Vazarin
+resumo: "Loyal Companion — When your Health falls below 35%, gain 75% Damage Reduction for 10s while your Companion becomes invincible and draws fire to itself for 10s. 60s cooldown."
+status: completo
+rag: true
 tags: [mod, companheiro]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Loyal_Companion", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Mods/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -17,9 +22,9 @@ agente: opus
 >
 > *Mantido em inglês:* a descrição tem texto corrido que uma tradução automática deturparia. O texto acima é o do jogo, literal.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Loyal Companion
+
 
 | Item | Valor |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 | Transmutável | **Não** |
 | Introduzido no Update | **14** |
 
----
 
-## 📈 Efeito por Rank
+## 📈 Efeito por Rank — Loyal Companion
+
 
 <!-- Valores copiados da seção Stats da página do mod na wiki. Nenhum valor interpolado. -->
 
@@ -51,9 +56,9 @@ agente: opus
 > [!note] A drenagem sobe 1 por rank
 > Regra do jogo, visível na própria tabela: a drenagem no rank R é **2 + R**.
 
----
 
-## 🏗️ Onde Obter
+## 🌍 Onde Conseguir — Loyal Companion
+
 
 | Fonte | Tipo | Chance do mod na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -66,9 +71,9 @@ agente: opus
 
 **Faixa de preço em platina:** ⚠️ **estimativa não fornecida.** Pela seção 8 das convenções, preço de platina é mercado flutuante e não é registrado aqui. Consulte warframe.market no momento da compra.
 
----
 
-## 🛠️ Uso
+## 🛠️ Como Usar — Loyal Companion
+
 
 **Vale a pena?** **Sim, no começo.** Mod **Common** — barato em capacidade e fácil de maximizar, mas costuma ser substituído por uma variante melhor em builds de endgame.
 
@@ -82,8 +87,3 @@ O efeito concreto no rank máximo é **When your Health falls below 35%, gain 75
 Nenhum mod é registrado como **mutuamente exclusivo** com este nos dados da wiki. A concorrência é pelo **slot** e pela **capacidade**, não por bloqueio do jogo.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Loyal_Companion — efeito por rank, polaridade, drenagem, raridade e incompatibilidades (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Mods/data — ficha do mod: tipo, classe, comercializável, transmutável, update de introdução (consultado em 2026-10-06)

@@ -1,10 +1,15 @@
 ---
 title: Polymer Bundle
+aliases: [Polymer Bundle, Pacote Polymer]
 tipo: recurso
 raridade: incomum
 origem: planeta
+resumo: "Polymer Bundle — Um recurso extremamente requisitado, usado quase perpetuamente na fabricação de consumíveis como Energy Restores e armamentos."
+status: parcial
+rag: true
 tags: [recurso]
-atualizado: 2026-09-09
+fontes: ["https://wiki.warframe.com/w/Polymer_Bundle"]
+atualizado: 2026-10-07
 verificado: false
 agente: gemini
 ---
@@ -14,9 +19,9 @@ agente: gemini
 > [!info] Resumo
 > Um recurso extremamente requisitado, usado quase perpetuamente na fabricação de consumíveis como Energy Restores e armamentos.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Polymer Bundle
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: gemini
 | Aparece a partir de | [[locais/planetas/mercurio.md|Mercurio]] |
 | Afetado por boosters | Sim |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Polymer Bundle
+
 
 | Local | Missão / Método | Rendimento | Nota |
 |---|---|---|---|
@@ -40,9 +45,9 @@ agente: gemini
 
 **Mods e frames que ajudam:** Nekros com armas cortantes (Desecrate), Khora (Pilfering Strangledome), Speed Nova.
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Polymer Bundle
+
 
 | Item | Quantidade |
 |---|---|
@@ -51,6 +56,3 @@ agente: gemini
 | Consumíveis e Specters em geral | Varia |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Polymer_Bundle — drop e uso (consultado em 2026-09-09)

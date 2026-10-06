@@ -1,9 +1,14 @@
 ---
 title: Assassination
+aliases: [Assassination]
 tipo: missao
 subtipo: tipo
+resumo: Assassination — Caçar e matar o chefe de um planeta.
+status: completo
+rag: true
 tags: [missao, tipo]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Assassination"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Caçar e matar o chefe de um planeta. Cada nó tem um alvo fixo, e é daí que vêm os componentes da maioria das Warframes clássicas.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Assassination
+
 
 | Item | Detalhe |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Squad recomendado | Varia muito por chefe — alguns pedem squad, outros são melhores solo |
 | Tipo | **Finito** |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Assassination
+
 
 1. Atravesse o tileset até a **arena do chefe**.
 2. **Derrote o alvo**, respeitando o **gate mecânico** dele — quase nenhum chefe do jogo morre só de dano. Ver [[lore/chefes/_Chefes _Indice.md|Chefes — Índice]] para o gate de cada um.
@@ -36,9 +41,9 @@ agente: opus
 > [!important] Matar não basta: é preciso extrair
 > Em quase todos os nós de Assassination, o blueprint de componente é entregue **ao completar a missão**. Morrer com o squad todo depois de matar o chefe **perde a recompensa**.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Assassination
+
 
 ### Nós de Assassination do Star Chart
 
@@ -58,9 +63,9 @@ agente: opus
 
 **Melhor nó para farmar:** depende do que você quer. A tabela de [[lore/chefes/_Chefes _Indice.md|Chefes — Índice]] mapeia **chefe → recompensa** diretamente.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Assassination
+
 
 | Recompensa | Rotação / Chance | Nota |
 |---|---|---|
@@ -69,18 +74,18 @@ agente: opus
 | Recursos raros | Chance | Vários chefes têm chance aumentada de Orokin Cell |
 | Mod de chefe | Chance | Ex.: mods de Executioner em Kela De Thaym |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Assassination
+
 
 - **Leia o gate antes de montar a build.** [[lore/chefes/sargas_ruk.md|Sargas Ruk]] só recebe dano nos exaustores; [[lore/chefes/lech_kril.md|Lech Kril]] só no coolant pack azul; [[lore/chefes/vay_hek.md|Vay Hek]] só durante o broadcast. Dano alto não substitui mecânica.
 - **Alguns chefes punem elementos específicos**: não leve **Cold** contra Lech Kril (prolonga invulnerabilidade), nem **Toxin** contra [[lore/chefes/alad_v.md|Alad V]] (ignora o escudo que você precisa derrubar), nem **Viral/Impact** contra [[lore/chefes/ambulas.md|Ambulas]] (imune aos procs).
 - **[[warframes/regular/mesa.md|Mesa]]** é a escolha curinga: o Peacemaker acerta pontos fracos pequenos em janelas curtas sem depender da sua mira.
 - **[[warframes/regular/nekros.md|Nekros]] com Desecrate** aumenta o drop de recursos raros dos chefes.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Assassination
+
 
 - **[[lore/chefes/_Chefes _Indice.md|Chefes — Índice]]** — a tabela de gate mecânico de cada chefe.
 - **[[lore/faccoes/_Faccoes _Indice.md|Facções — Índice]]** — qual elemento usar contra cada facção.
@@ -88,6 +93,3 @@ agente: opus
 - **[[mecanicas/steel_path.md|Steel Path]]** — versões de nível elevado dos mesmos nós.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Assassination (consultado em 2026-10-04)

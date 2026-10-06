@@ -1,9 +1,16 @@
 ---
 title: Sigma e Octantis
-tipo: branca
-tags:
-  - arma
-  - branca
-status: nao-obtida
-atualizado: 2026-04-19
+aliases: [Sigma e Octantis, sigma and octantis]
+tipo: arma
+subtipo: branca
+resumo: Sigma e Octantis — conteúdo ainda não preenchido no vault.
+status: stub
+rag: false
+tags: [arma, branca]
+atualizado: 2026-10-07
+agente: opus
 ---
+
+# Sigma e Octantis
+
+

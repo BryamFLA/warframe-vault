@@ -1,8 +1,13 @@
 ---
 title: Anniversary
+aliases: [Anniversary]
 tipo: mecanica
+resumo: "Anniversary — Aniversário anual do Warframe, em março: entrega as recompensas da série Dex — armas, acessórios, skins e glyphs — por alertas semanais ou simplesmente por login."
+status: completo
+rag: true
 tags: [mecanica, evento, anniversary, dex, aniversario]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Anniversary", "https://wiki.warframe.com/w/Cephalon_Simaris"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Aniversário anual do Warframe, em março: entrega as recompensas da série **Dex** — armas, acessórios, skins e glyphs — por alertas semanais ou simplesmente por login.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Anniversary
+
 
 O Warframe celebra o **aniversário todo ano, em todas as plataformas**. A forma varia: às vezes a Digital Extremes lança **sequências de alertas semanais ao longo de vários meses**, cada um recompensando uma arma ou skin da série **Dex**; em outros anos as recompensas Dex vêm **atreladas ao login**.
 
@@ -23,9 +28,9 @@ A série **Dex** é a marca do aniversário: o nome vem de **D**igital **Ex**tre
 > [!important] Dex volta todo ano
 > Itens Dex de aniversários anteriores costumam **voltar a estar disponíveis** nos aniversários seguintes. Perder um ano não significa perder o item para sempre — mas o **duplicata** de arma Dex já reivindicada só sai no [[mecanicas/sindicatos/cephalon_simaris.md\|Cephalon Simaris]].
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Anniversary
+
 
 ```
 Cadência: anual, em março (com exceções — o 8º foi em abril de 2021)
@@ -47,9 +52,9 @@ Série Dex = itens exclusivos de aniversário
 - **Duplicata** de arma Dex já reivindicada só é comprável no **Cephalon Simaris** (100.000 Standing).
 - O **Dex Nikana** rompeu uma lacuna de 8 anos: a série de armas parou no 3º aniversário (2016) e só voltou no **11º** (2024).
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Anniversary
+
 
 ### Armas Dex
 
@@ -94,9 +99,9 @@ Série Dex = itens exclusivos de aniversário
 | Year Twelve Anniversary Glyph | 12º | 2025-03-07 |
 | Year Thirteen Anniversary Glyph | 13º | **2026-03-13** |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Anniversary
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -106,9 +111,9 @@ Série Dex = itens exclusivos de aniversário
 | Pegar itens de anos anteriores | Itens Dex de aniversários passados costumam **voltar** nos aniversários seguintes |
 | Entender o nome | **Dex = Digital Extremes.** É a assinatura da desenvolvedora nos itens de aniversário |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Anniversary
+
 
 - **"Perdi o Dex Furis para sempre."** Itens Dex antigos costumam **retornar** em aniversários seguintes; e duplicata de arma já reivindicada sai no **Cephalon Simaris**.
 - **"Dex é tradeável."** **Não.** Itens Dex são exclusivos de aniversário e intradeáveis.
@@ -117,9 +122,9 @@ Série Dex = itens exclusivos de aniversário
 - **"Dex vem de uma facção do jogo."** **Dex = Digital Extremes**, a desenvolvedora.
 - **"Teve arma Dex todo ano."** A série de armas foi do 1º ao 3º aniversário (2014–2016) e só **voltou no 11º** (2024), com o Dex Nikana.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Anniversary
+
 
 - [[mecanicas/eventos/_Eventos _Indice.md|Eventos]] — o calendário anual; o Anniversary é o de março.
 - [[mecanicas/sindicatos/cephalon_simaris.md|Cephalon Simaris]] — a única fonte de duplicata de arma Dex já reivindicada (100.000 Standing).
@@ -132,7 +137,3 @@ Série Dex = itens exclusivos de aniversário
 - [[cosmeticos/skins.md|Skins]], [[cosmeticos/syandanas.md|Syandanas]], [[cosmeticos/efemeras.md|Efêmeras]], [[cosmeticos/anexos.md|Anexos]], [[cosmeticos/paletas.md|Paletas]] — as categorias cobertas pelos acessórios Dex.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Anniversary — cadência anual e formato de entrega (alertas semanais ou login), tabelas completas de armas Dex, acessórios Dex, skins Dex e glyphs de aniversário com o número do aniversário e a data de primeira liberação de cada um, até o 13º aniversário em 2026-03-13 (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Cephalon_Simaris — duplicata de arma de Daily Tribute e de item exclusivo só disponível ali (consultado em 2026-10-04)

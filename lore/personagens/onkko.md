@@ -1,9 +1,14 @@
 ---
 title: Onkko
+aliases: [Onkko]
 tipo: lore
 subtipo: personagem
+resumo: "Onkko — O Cetus Archivist que descobriu os restos de Gara, não desapareceu nas Plains — encenou o próprio desaparecimento porque previu que ficar com Saya a condenaria."
+status: completo
+rag: true
 tags: [lore, personagem, ostron, quills]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Onkko"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O Cetus Archivist que descobriu os restos de Gara, não desapareceu nas Plains — **encenou o próprio desaparecimento** porque previu que ficar com Saya a condenaria.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Onkko
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Vivo, numa caverna atrás de Konzu e Saya em Cetus, **com a identidade oculta** |
 | Título | **Cetus Archivist** — o guardião da lore dos Ostron |
 
----
 
-## 📖 História
+## 📖 História — Onkko
+
 
 Com o título oficial de **Cetus Archivist**, Onkko era o **guardião da lore** dos [[mecanicas/sindicatos/ostron.md|Ostron]]. Junto com os [[mecanicas/sindicatos/the_quills.md|Quills]], pesquisava e traduzia os mitos, lendas e histórias em torno das **Plains of Eidolon**, do povo Ostron e do ser misterioso conhecido como **a Unum**. Ele é o **narrador por trás da lore dos Thousand-Year Fish e dos fragmentos de Glass Shard**.
 
@@ -44,9 +49,9 @@ Um dos estudos notáveis dele foi a **descoberta dos restos da Warframe [[warfra
 >
 > E a reviravolta final: **Onkko não desapareceu — ele se juntou à ordem dos Quills**. Por algum meio desconhecido, **ele adivinhou que Saya encontraria um destino indesejado se ele ficasse com ela** — e por isso **encenou o próprio desaparecimento**, para que Saya ficasse segura, cuidada por Konzu. Hoje ele passa os dias como **representante dos Quills**, ajudando tanto os Ostron quanto os [[lore/faccoes/tenno.md|Tenno]], **mantendo a identidade escondida do povo de Cetus**. Pode ser encontrado numa **caverna atrás de Konzu e Saya**.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Onkko
+
 
 - **Saya** — a esposa, de quem ele se afastou de propósito para protegê-la de um destino que previu.
 - **Konzu** — amigo próximo, companheiro na excursão do desaparecimento, e quem cuida de Saya hoje.
@@ -57,9 +62,9 @@ Um dos estudos notáveis dele foi a **descoberta dos restos da Warframe [[warfra
 - **[[lore/chefes/eidolon_teralyst.md|Eidolons]]** — os Quills convertem os recursos deles em Arcanas e peças de Amp.
 - **[[lore/personagens/little_duck.md|Little Duck]]** — o equivalente dela em Fortuna, pelo lado de [[mecanicas/sindicatos/vox_solaris.md|Vox Solaris]].
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Onkko
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -69,6 +74,3 @@ Um dos estudos notáveis dele foi a **descoberta dos restos da Warframe [[warfra
 | [[warframes/regular/gara.md\|Gara]] | O blueprint dela vem da descoberta dele |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Onkko (consultado em 2026-10-04)

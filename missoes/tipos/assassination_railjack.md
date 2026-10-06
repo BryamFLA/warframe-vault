@@ -1,9 +1,14 @@
 ---
 title: Assassination (Railjack)
+aliases: [Assassination (Railjack), assassination railjack]
 tipo: missao
 subtipo: tipo
+resumo: "Os nós de Assassination do Empyrean são ocultos: só aparecem quando existe um alvo ativo."
+status: completo
+rag: true
 tags: [missao, tipo, railjack, empyrean]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Module:Missions/data", "https://wiki.warframe.com/w/Empyrean"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Os nós de Assassination do Empyrean são **ocultos**: só aparecem quando existe um alvo ativo. São os confrontos finais de **Kuva Lich** e **Sister of Parvos**, mais o **Technocyte Coda Concert** de Höllvania.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Assassination (Railjack)
+
 
 | Item | Detalhe |
 |---|---|
@@ -29,9 +34,9 @@ agente: opus
 > [!warning] Esses nós não são farmáveis como tipo de missão
 > Não existe "ir farmar Assassination de Railjack". Os três nós só são jogáveis quando o jogador **criou** o alvo: dando spawn num Kuva Lich, numa Sister of Parvos ou ativando um Technocyte Coda. Para os três, o conteúdo de verdade está no sistema que gera o alvo, não no nó.
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Assassination (Railjack)
+
 
 ### Kuva Lich Confrontation (Saturn Proxima)
 
@@ -54,9 +59,9 @@ agente: opus
 
 **Rotações de recompensa:** nenhuma. **Não é endless**; a recompensa é o loot do alvo.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Assassination (Railjack)
+
 
 | Planeta | Nó | Nível | Facção | Pré-requisito |
 |---|---|---|---|---|
@@ -66,9 +71,9 @@ agente: opus
 
 **Melhor nó para farmar:** não se aplica. Os três são **nós de conclusão**, disponíveis uma vez por alvo.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Assassination (Railjack)
+
 
 | Recompensa | Nota |
 |---|---|
@@ -82,9 +87,9 @@ agente: opus
 > [!warning] Não invento a tabela de drop
 > As porcentagens das armas Kuva/Tenet dependem do bônus elemental sorteado e da sequência de Requiem, não de uma drop table do nó. Consulte https://wiki.warframe.com/w/Kuva_Lich e https://wiki.warframe.com/w/Sisters_of_Parvos para as tabelas completas.
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Assassination (Railjack)
+
 
 - **Confirme a sequência de Requiem antes de entrar.** Se os três mods estiverem na ordem errada, o confronto termina com o alvo fugindo — e você perde o parazon charge.
 - **Converter vale quando a arma já está no inventário.** Um Lich convertido pode ser **negociado** com outro jogador, o que às vezes vale mais que uma arma duplicada.
@@ -92,7 +97,3 @@ agente: opus
 - **A fase espacial é curta** nos nós de Lich e Sister (fighters 31–36, sem cota alta) e **inexistente** no Technocyte Coda. Não monte o squad pensando em dogfight.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Module:Missions/data — os três nós ocultos, níveis, facções, tilesets e pré-requisitos (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Empyrean — Assassination como um dos modos Corpus do Empyrean (consultado em 2026-10-06)

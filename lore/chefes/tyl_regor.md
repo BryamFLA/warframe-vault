@@ -1,9 +1,14 @@
 ---
 title: Tyl Regor
+aliases: [Tyl Regor]
 tipo: lore
 subtipo: chefe
+resumo: "Tyl Regor — O cientista-chefe do reparo genético Grineer, que luta só no corpo a corpo e afoga a arena em dois andares — foi ele quem desenterrou Hunhow no fundo do oceano de Urano."
+status: completo
+rag: true
 tags: [lore, chefe, grineer]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Tyl_Regor", "https://wiki.warframe.com/w/Damage_2.0/Grineer_Tab"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O cientista-chefe do reparo genético Grineer, que luta só no corpo a corpo e afoga a arena em dois andares — foi ele quem desenterrou Hunhow no fundo do oceano de Urano.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Tyl Regor
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Ativo. Continua a pesquisa de cura da Cloning Decay Syndrome |
 | Dublagem | Lucas Schuneman |
 
----
 
-## 📖 História
+## 📖 História — Tyl Regor
+
 
 Tyl Regor é o pesquisador-chefe do **reparo genético Grineer**. O problema que ele ataca é existencial para a facção: a **Cloning Decay Syndrome**, a degeneração acumulada pelas gerações sucessivas de clonagem invasiva, que encurta drasticamente a vida de cada Grineer. Para isso ele construiu **laboratórios de pesquisa submarinos secretos** nas profundezas turvas do oceano de Urano, e a pesquisa deu fruto na forma dos **"tubemen"**: espécimes Grineer mais fortes e saudáveis que o normal.
 
@@ -35,9 +40,9 @@ A importância dele vai além da ciência Grineer. Foi escavando o fundo do ocea
 
 Ele compartilha com [[lore/chefes/alad_v.md|Alad V]] e [[lore/chefes/captain_vor.md|Captain Vor]] o fascínio pela dissecação: "sempre aprendo tanto... com uma dissecação ao vivo". Já chamou [[lore/personagens/teshin.md|Teshin]] de "pseudo-Tenno", embora não haja ligação visível entre os dois.
 
----
 
-## ⚔️ Combate
+## ⚔️ Combate — Tyl Regor
+
 
 | Item | Detalhe |
 |---|---|
@@ -55,9 +60,9 @@ As fases 2 e 3 não são sobre ele, são sobre os reforços: **enquanto os Dreka
 
 **Frames recomendados:** [[warframes/regular/mesa.md|Mesa]] ou [[warframes/regular/mag.md|Mag]] para resolver os Manics rápido à distância, [[warframes/regular/limbo.md|Limbo]] ou [[warframes/regular/loki.md|Loki]] para sair do alcance do corpo a corpo, [[warframes/regular/rhino.md|Rhino]] para absorver os combos de stagger, [[warframes/regular/titania.md|Titania]] para ficar fora da água eletrificada da fase 3.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Tyl Regor
+
 
 - **[[lore/personagens/hunhow.md|Hunhow]]** — Regor desenterrou e reacendeu os restos dele no oceano de Urano, reiniciando a ameaça Sentient.
 - **[[lore/faccoes/grineer.md|Grineer]]** — ele é a única resposta científica real à Cloning Decay Syndrome da facção.
@@ -66,9 +71,9 @@ As fases 2 e 3 não são sobre ele, são sobre os reforços: **enquanto os Dreka
 - **[[lore/chefes/alad_v.md|Alad V]]** e **[[lore/chefes/captain_vor.md|Captain Vor]]** — os outros dois dissecadores de Tenno do cenário.
 - **[[lore/personagens/lotus.md|Lotus]] / Natah** — a quest Natah gira em torno do que Regor desenterrou.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Tyl Regor
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -80,7 +85,3 @@ As fases 2 e 3 não são sobre ele, são sobre os reforços: **enquanto os Dreka
 | Rathuum | Experimentos em voluntários no contexto da arena |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Tyl_Regor (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Grineer_Tab (consultado em 2026-10-04)

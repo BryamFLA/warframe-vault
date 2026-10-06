@@ -1,8 +1,13 @@
 ---
 title: Solaris United
+aliases: [Solaris United]
 tipo: mecanica
+resumo: "Grupo rebelde de trabalhadores Solaris em Fortuna lutando para libertar os seus das dívidas com o Nef Anyo; sindicato neutro cuja moeda de rank são Debt-Bonds, e a fonte de Kitguns, MOAs, Baruuk, Hildryn e dos Heists."
+status: completo
+rag: true
 tags: [mecanica, sindicato, solaris-united, fortuna, kitgun, moa, debt-bond, neutro]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Solaris_United", "https://wiki.warframe.com/w/Vox_Solaris_(Syndicate"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Grupo rebelde de trabalhadores Solaris em Fortuna lutando para libertar os seus das dívidas com o Nef Anyo; **sindicato neutro** cuja moeda de rank são **Debt-Bonds**, e a fonte de **Kitguns**, **MOAs**, Baruuk, Hildryn e dos **Heists**.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Solaris United
+
 
 Os **Solaris** são trabalhadores com augmentações corporais que os fazem parecer híbridos Corpus-máquina. Eles processam a rede subterrânea de refrigerante de terraformação Orokin e o refinam para uso na superfície calcinada do **Orb Vallis**, em Vênus — e **trabalham para pagar os corpos artificiais (rigs) que compraram para poder trabalhar**. Esse é o ciclo de dívida que o **Solaris United** existe para romper.
 
@@ -22,9 +27,9 @@ Os **Solaris** são trabalhadores com augmentações corporais que os fazem pare
 
 Para acessar o sindicato por completo é preciso concluir a quest **Vox Solaris**. Mecanicamente é um **sindicato neutro**: Standing aqui **não afeta** ninguém, e não há demoção nem Standing negativo. A estrutura é a mesma do [[mecanicas/sindicatos/ostron.md\|Ostron]] — tarefas para membros individuais de **[[locais/open-worlds/fortuna.md\|Fortuna]]** — mas o **sacrifício de rank é pago em Debt-Bonds**, não em recursos comuns.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Solaris United
+
 
 ```
 Como ganhar Standing:
@@ -61,9 +66,9 @@ Total de Neutral até Old Mate (Rank 5):
 - O **Profit-Taker dropa o Crisma Toroid**, que é o item exigido para o **Rank 5 da [[mecanicas/sindicatos/vox_solaris.md\|Vox Solaris]]** — ou seja, os dois sindicatos se encadeiam.
 - Sendo neutro, não há demoção nem Standing negativo.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Solaris United
+
 
 ### Ranks, sacrifícios e benefícios
 
@@ -101,9 +106,9 @@ Total de Neutral até Old Mate (Rank 5):
 
 > O **Ticker** vende Debt-Bonds por Credits e outros Debt-Bonds, e **compra** Debt-Bonds por Standing. É ele que transforma Credits em progresso de rank.
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Solaris United
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -118,9 +123,9 @@ Total de Neutral até Old Mate (Rank 5):
 | Liberar os Heists | **Rank 5 (Old Mate)**: a Eudico passa a dar Heists contra o **[[lore/chefes/profit_taker.md\|Profit-Taker Orb]]** e o **[[lore/chefes/exploiter_orb.md\|Exploiter Orb]]** |
 | Encadear com a Vox Solaris | O **Crisma Toroid** exigido pelo Rank 5 da Vox Solaris é dropado pelo **Profit-Taker**, que só é acessível no Rank 5 daqui |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Solaris United
+
 
 - **"Sacrifício de rank é recurso comum."** Aqui é **Debt-Bond**, e os Debt-Bonds não caem sozinhos em missão: vêm de Bounty, do Ticker ou do Profit-Taker.
 - **"Preciso gildar o Kitgun para entregar."** Não. Rank máximo basta. Mas **sem gilding não há Mastery**.
@@ -130,9 +135,9 @@ Total de Neutral até Old Mate (Rank 5):
 - **"Dá para pular o Solaris United e ir direto à Vox Solaris."** A Vox Solaris exige a quest Vox Solaris, The War Within **e** ter falado com o Onkko; e o item do Rank 5 dela vem do Profit-Taker, que exige **Rank 5 aqui**.
 - **"Qualquer peixe e qualquer gema valem igual."** As espécies com isca (Tromyzon, Charamote, Synathid) e as gemas Amarast/Thyst/Zodian rendem muito mais.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Solaris United
+
 
 - [[mecanicas/sindicatos/vox_solaris.md|Vox Solaris]] — a camada secreta do mesmo grupo, que vende Amps de tier alto, arcanes Magus/Virtuos e os blueprints de Baruuk e Hildryn.
 - [[mecanicas/sindicatos/the_quills.md|The Quills]] — associados à Vox Solaris; falar com o Onkko é pré-requisito dela.
@@ -150,7 +155,3 @@ Total de Neutral até Old Mate (Rank 5):
 - [[warframes/regular/baruuk.md|Baruuk]] e [[warframes/regular/hildryn.md|Hildryn]] — os dois frames da região.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Solaris_United — contexto dos Solaris e das rigs, requisito da quest Vox Solaris, todas as fontes de Standing (bounty, peixe, conservação, gema, Kitgun e MOA no rank máximo sem gilding, Debt-Bonds ao Ticker, Granum Crowns e Granum Void com o Xoris), tabela completa de ranks com sacrifício em Debt-Bonds e benefícios, totais de Debt-Bond e Credits até Old Mate, membros notáveis de Fortuna (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Vox_Solaris_(Syndicate) — encadeamento entre Rank 5 do Solaris United, os Heists e o Crisma Toroid (consultado em 2026-10-04)

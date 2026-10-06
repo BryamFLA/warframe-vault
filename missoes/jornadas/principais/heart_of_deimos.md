@@ -1,9 +1,14 @@
 ---
 title: Heart of Deimos
+aliases: [Heart of Deimos]
 tipo: missao
 subtipo: jornada
+resumo: "Heart of Deimos — A quest que abre o Cambion Drift: a família Entrati, Orokin parcialmente Infested, precisa consertar o Heart — o artefato que alimenta todo dispositivo de Void do Sistema, Warframes incluídas."
+status: completo
+rag: true
 tags: [missao, jornada, principal]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Heart_of_Deimos"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > A quest que abre o Cambion Drift: a família Entrati, Orokin parcialmente Infested, precisa consertar o Heart — o artefato que alimenta todo dispositivo de Void do Sistema, Warframes incluídas.
 
----
 
-## 📖 Narrativa e Pré-requisitos
+## 📖 Narrativa e Pré-requisitos — Heart of Deimos
+
 
 | Item | Detalhe |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 > [!warning] Spoiler — Heart of Deimos
 > No fim, descobre-se que foi **[[lore/personagens/grandmother_entrati.md|Grandmother]]** quem provocou os eventos em torno da destruição do Heart — justamente para forçar a família disfuncional a se reunir numa crise. E o Heart foi construído por **[[lore/personagens/albrecht_entrati.md|Albrecht Entrati]]**, pai de Mother, **sobre o mesmo portão de Void** que ele usou na primeira travessia.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Heart of Deimos
+
 
 | Recompensa | Nota |
 |---|---|
@@ -46,18 +51,18 @@ agente: opus
 | **Voidrig** blueprint + Capsule, Casing, Engine e Weapon Pod | O primeiro Necramech |
 | **Mirror Defense** | Tipo de missão |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Heart of Deimos
+
 
 - O **Voidrig** que esta quest entrega não é opcional a longo prazo: Necramech é **a única forma de agir dentro de campos Orphix**, e o **Arquebex** dele é uma das melhores fontes de dano contra [[lore/chefes/eidolon_teralyst.md|Eidolons]].
 - A quest é **solo-only**. Planeje a build antes: não há squad para carregar.
 - Depois de concluída, cada membro da família vende coisas diferentes por **tokens próprios** — e [[lore/personagens/grandmother_entrati.md|Grandmother]] é quem **troca tokens de um membro por outro**.
 - O Cambion Drift tem **dois estados de dia** determinados pela briga dos wyrms **Fass e Vome**, e isso muda o que spawna e o que se pesca.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Heart of Deimos
+
 
 - **[[mecanicas/sindicatos/entrati.md|Entrati]]** — o sindicato que a quest destrava.
 - **[[lore/personagens/mother_entrati.md|Mother]]**, **[[lore/personagens/father_entrati.md|Father]]**, **[[lore/personagens/daughter_entrati.md|Daughter]]**, **[[lore/personagens/son_entrati.md|Son]]**, **[[lore/personagens/grandmother_entrati.md|Grandmother]]**, **[[lore/personagens/loid.md|Loid]]** — a família.
@@ -67,6 +72,3 @@ agente: opus
 - **[[locais/open-worlds/deimos.md|Cambion Drift]]** — o open world aberto aqui.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Heart_of_Deimos (consultado em 2026-10-04)

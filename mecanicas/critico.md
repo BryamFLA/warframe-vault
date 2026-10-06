@@ -1,8 +1,13 @@
 ---
 title: Crítico
+aliases: [Crítico, Critico]
 tipo: mecanica
+resumo: "Crítico — Um dos dois eixos de escala de dano do jogo (o outro é status): chance crítica decide com que frequência o acerto é crítico, multiplicador crítico decide quanto ele multiplica — e acima de 100% de chance o Warframe entra em camadas de críti."
+status: completo
+rag: true
 tags: [mecanica, critico, dano, vocabulario]
-atualizado: 2026-09-09
+fontes: ["https://wiki.warframe.com/w/Critical_Hit", "https://wiki.warframe.com/w/Damage/Calculation", "https://wiki.warframe.com/w/Damage_Type_Modifier", "https://wiki.warframe.com/w/Armor"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Um dos dois eixos de escala de dano do jogo (o outro é status): chance crítica decide *com que frequência* o acerto é crítico, multiplicador crítico decide *quanto* ele multiplica — e acima de 100% de chance o Warframe entra em camadas de crítico que multiplicam ainda mais.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Crítico
+
 
 Toda arma tem duas estatísticas de crítico: **Chance Crítica (CC)** e **Multiplicador Crítico (CM, "Critical Damage" no arsenal)**. A cada projétil disparado o jogo sorteia contra a CC; se acertar, o dano daquele projétil é multiplicado pelo CM. O sorteio é **por projétil**, não por disparo — uma escopeta com multishot 10 sorteia dez vezes.
 
@@ -22,9 +27,9 @@ O que torna o sistema interessante é que **a chance crítica não é limitada a
 
 Por isso builds de crítico têm um formato característico: primeiro você empurra a chance para além de 100% (mods de CC, [[mecanicas/combo_counter.md|combo counter]] via Blood Rush, buffs de aliados, arcanas), e só então investe em multiplicador — porque o multiplicador é aplicado uma vez por camada alcançada.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Crítico
+
 
 ### Chance crítica
 
@@ -94,9 +99,9 @@ Com CC = 0,625 e CM = 2,0: `1 + 0,625 × 1,0 = 1,625` → **+62,5% de dano médi
 > [!warning] ⚠️ Multiplicador de ponto fraco (headshot) — NÃO VERIFICADO
 > O headshot entra na cadeia como `Tiro Médio no Ponto Fraco = Tiro Médio × (Mult. Ponto Fraco + Bônus de Dano em Ponto Fraco)`, mas o **valor base do multiplicador de ponto fraco por tipo de inimigo não foi verificado** aqui. Não invente "×2".
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Crítico
+
 
 ### Onde o crítico entra na cadeia de dano
 
@@ -125,9 +130,9 @@ O crítico é aplicado **antes** do modificador de facção e da armadura. Ou se
 **Frames que interagem:**
 [[warframes/regular/citrine.md|Citrine]] — Crystallize fixa 300% de CC absoluta na área · [[warframes/regular/kullervo.md|Kullervo]] — crítico alto nativo em melee · [[warframes/regular/wisp.md|Wisp]] — motes de buff de dano · [[warframes/regular/gauss.md|Gauss]] · [[warframes/regular/xaku.md|Xaku]] (remove armadura, o que amplifica o dano crítico que chega)
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Crítico
+
 
 1. **Colocar mods de crítico em arma sem crítico.** Mods de CC são **relativos**: multiplicam a base. Point Strike numa arma de 5% de CC entrega 12,5%; na mesma arma um mod de status ou de dano bruto vale muito mais. Regra prática: crítico compensa a partir de ~20% de CC base.
 
@@ -145,9 +150,9 @@ O crítico é aplicado **antes** do modificador de facção e da armadura. Ou se
 
 8. **Aplicar crítico depois da armadura no cálculo mental.** O crítico entra **antes** do modificador de facção e da redução por armadura. Contra alvo blindado, o número que aparece na tela já passou pela armadura — o crítico não "furou" nada.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Crítico
+
 
 - [[mecanicas/dano_e_status.md|Dano e Status]] — o outro eixo de escala. Viral (+325% de dano na vida) e Corrosivo (−80% de armadura) multiplicam o dano crítico que chega ao alvo.
 - [[mecanicas/combo_counter.md|Combo Counter]] — em melee, o multiplicador de combo (até 12×) é o que alimenta Blood Rush e leva a chance crítica a camada vermelha.
@@ -158,9 +163,3 @@ O crítico é aplicado **antes** do modificador de facção e da armadura. Ou se
 - [[mecanicas/augments.md|Augments]] — vários augments convertem crítico em efeito de status ou em dano de área.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Critical_Hit — fórmulas de chance crítica (relativa, absoluta, Blood Rush), camadas de crítico e limiares de 100% e 200%, tetos de Covenant, Crystallize e Practiced Aim (consultado em 2026-09-09)
-- https://wiki.warframe.com/w/Damage/Calculation — fórmula de tiro médio, posição do crítico e do ponto fraco na cadeia de cálculo, quantização (consultado em 2026-09-09)
-- https://wiki.warframe.com/w/Damage_Type_Modifier — modificadores de facção aplicados após o crítico (consultado em 2026-09-09)
-- https://wiki.warframe.com/w/Armor — fórmula de redução por armadura aplicada após o crítico (consultado em 2026-09-09)

@@ -1,10 +1,15 @@
 ---
 title: Nano Spores
+aliases: [Nano Spores]
 tipo: recurso
 raridade: comum
 origem: planeta
+resumo: "Nano Spores — Um tumor biológico extremamente abundante, usado em massa para criar armas, componentes de Warframes e consumíveis."
+status: parcial
+rag: true
 tags: [recurso]
-atualizado: 2026-09-09
+fontes: ["https://wiki.warframe.com/w/Nano_Spores"]
+atualizado: 2026-10-07
 verificado: false
 agente: gemini
 ---
@@ -14,9 +19,9 @@ agente: gemini
 > [!info] Resumo
 > Um tumor biológico extremamente abundante, usado em massa para criar armas, componentes de Warframes e consumíveis.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Nano Spores
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: gemini
 | Aparece a partir de | [[locais/planetas/deimos.md|Deimos]] |
 | Afetado por boosters | Sim |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Nano Spores
+
 
 | Local | Missão / Método | Rendimento | Nota |
 |---|---|---|---|
@@ -40,9 +45,9 @@ agente: gemini
 
 **Mods e frames que ajudam:** Nekros (Desecrate), Khora (Pilfering Strangledome), Speed Nova.
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Nano Spores
+
 
 | Item | Quantidade |
 |---|---|
@@ -51,6 +56,3 @@ agente: gemini
 | Consumíveis (Energy Restores) | Varia |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Nano_Spores — drop e uso (consultado em 2026-09-09)

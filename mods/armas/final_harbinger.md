@@ -1,11 +1,16 @@
 ---
 title: Final Harbinger
+aliases: [Final Harbinger]
 tipo: mod
 categoria: arma
-polaridade: Madurai
 raridade: incomum
+polaridade: Madurai
+resumo: Final Harbinger — Powerful slashes and shield attacks.
+status: completo
+rag: true
 tags: [mod, arma]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Final_Harbinger", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Mods/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -17,9 +22,9 @@ agente: opus
 >
 > *Mantido em inglês:* a descrição tem texto corrido que uma tradução automática deturparia. O texto acima é o do jogo, literal.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Final Harbinger
+
 
 | Item | Valor |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 | Transmutável | **Não** |
 | Introduzido no Update | **17** |
 
----
 
-## 📈 Efeito por Rank
+## 📈 Efeito por Rank — Final Harbinger
+
 
 | Rank | Efeito | Drenagem |
 |---|---|---|
@@ -44,9 +49,9 @@ agente: opus
 > [!warning] Tabela de ranks não publicada na seção Stats
 > A página da wiki deste mod não traz uma tabela `Rank / Effect / Cost` parseável. O efeito de rank máximo acima **é** verificado (vem dos dados da wiki), mas **os valores intermediários não foram confirmados** e, pela seção 8 das convenções, não são inventados aqui. Confira em https://wiki.warframe.com/w/Final_Harbinger.
 
----
 
-## 🏗️ Onde Obter
+## 🌍 Onde Conseguir — Final Harbinger
+
 
 | Fonte | Tipo | Chance do mod na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -59,9 +64,9 @@ agente: opus
 
 **Faixa de preço em platina:** ⚠️ **estimativa não fornecida.** Pela seção 8 das convenções, preço de platina é mercado flutuante e não é registrado aqui. Consulte warframe.market no momento da compra.
 
----
 
-## 🛠️ Uso
+## 🛠️ Como Usar — Final Harbinger
+
 
 **Vale a pena?** **Geralmente sim.** Mod **Uncommon** — fácil de conseguir e normalmente parte do núcleo de uma build.
 
@@ -75,8 +80,3 @@ O efeito concreto no rank máximo é **Powerful slashes and shield attacks.** �
 Nenhum mod é registrado como **mutuamente exclusivo** com este nos dados da wiki. A concorrência é pelo **slot** e pela **capacidade**, não por bloqueio do jogo.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Final_Harbinger — efeito por rank, polaridade, drenagem, raridade e incompatibilidades (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Mods/data — ficha do mod: tipo, classe, comercializável, transmutável, update de introdução (consultado em 2026-10-06)

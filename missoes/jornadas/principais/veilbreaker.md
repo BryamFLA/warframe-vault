@@ -1,9 +1,14 @@
 ---
 title: Veilbreaker
+aliases: [Veilbreaker]
 tipo: missao
 subtipo: jornada
+resumo: "Veilbreaker — A quest de Kahl-175: um Lancer Grineer arranca a própria Narmer Veil num Murex sobre Deimos e começa uma campanha para libertar os irmãos — jogada inteiramente como ele."
+status: completo
+rag: true
 tags: [missao, jornada, principal]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Veilbreaker"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > A quest de Kahl-175: um Lancer Grineer arranca a própria Narmer Veil num Murex sobre Deimos e começa uma campanha para libertar os irmãos — jogada inteiramente como ele.
 
----
 
-## 📖 Narrativa e Pré-requisitos
+## 📖 Narrativa e Pré-requisitos — Veilbreaker
+
 
 | Item | Detalhe |
 |---|---|
@@ -35,9 +40,9 @@ O sinal de socorro dele é captado por **[[lore/personagens/daughter_entrati.md|
 >
 > Durante as **Archon Hunts**, a [[lore/personagens/lotus.md|Lotus]] descobre que **a consciência de Erra está suprimida** por Pazuul e pelos [[lore/chefes/archon_amar.md|Archons]] revividos, que ficaram **vingativos contra o próprio criador**. Erra **ressurge brevemente para pedir perdão ao Tenno**, e a Lotus espera que derrotar os Archons **liberte o irmão**.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Veilbreaker
+
 
 | Recompensa | Nota |
 |---|---|
@@ -46,18 +51,18 @@ O sinal de socorro dele é captado por **[[lore/personagens/daughter_entrati.md|
 | Acesso a **Archon Shards** via Kahl | Caminho alternativo ao das Archon Hunts |
 | **Styanax** (via Kahl's Garrison) | A Warframe ligada ao conteúdo |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Veilbreaker
+
 
 - As missões de Kahl são **semanais e solo**, jogadas **como Grineer**, com loadout próprio. Não há build de Warframe para preparar.
 - Elas são uma **segunda fonte de Archon Shards** além das Archon Hunts — importante, porque Shards são a progressão de endgame de [[mecanicas/helminth.md|Helminth]].
 - Vale fazer as três missões semanais: o **Stock** acumulado compra itens que não existem em outro lugar.
 - A quest explica **por que o Narmer continua existindo** depois da morte de Ballas. Se você achou que a Nova Guerra acabou, é aqui que fica claro que não.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Veilbreaker
+
 
 - **Kahl-175** — o protagonista; Grineer que arranca a própria veil.
 - **[[lore/personagens/erra.md|Erra]] / Pazuul** — o que o Narmer fez do corpo dele.
@@ -68,6 +73,3 @@ O sinal de socorro dele é captado por **[[lore/personagens/daughter_entrati.md|
 - **[[mecanicas/helminth.md|Helminth]]** — onde os Archon Shards são usados.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Veilbreaker (consultado em 2026-10-04)

@@ -1,9 +1,14 @@
 ---
 title: Erra
+aliases: [Erra]
 tipo: lore
 subtipo: personagem
+resumo: "O irmão de Natah: senhor da guerra cruel que esmagava cabeças de Dax feridos por puro ódio aos Orokin, segundo em comando do Narmer — e que no fim desertou e morreu para salvar a irmã."
+status: completo
+rag: true
 tags: [lore, personagem, sentient, narmer]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Erra_(Character"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O irmão de Natah: senhor da guerra cruel que esmagava cabeças de Dax feridos por puro ódio aos Orokin, segundo em comando do Narmer — e que no fim desertou e morreu para salvar a irmã.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Erra
+
 
 | Item | Valor |
 |---|---|
@@ -26,9 +31,9 @@ agente: opus
 | Família | Pai [[lore/personagens/hunhow.md\|Hunhow]], irmã [[lore/personagens/lotus.md\|Natah]] |
 | Criação | Ressuscitou os Sentient Beasts mortos como **[[lore/chefes/archon_amar.md\|Archons]]** |
 
----
 
-## 📖 História
+## 📖 História — Erra
+
 
 Erra é um **senhor da guerra cruel e feroz**, movido pelo ódio a tudo que esteja ligado aos [[lore/faccoes/orokin.md|Orokin]] e aos [[lore/faccoes/tenno.md|Tenno]]. O retrato mais eloquente dele: ao notar uma guerreira [[lore/faccoes/dax.md|Dax]] ferida e indefesa em [[locais/planetas/lua.md|Lua]], **rastejando para longe e sem representar ameaça nenhuma**, Erra a **pegou pela cabeça, levantou-a até o próprio rosto e começou a esmagá-la** — só soltando quando a irmã mandou. Para ele, **se alguém tem qualquer ligação com os Orokin, tem de morrer**.
 
@@ -54,9 +59,9 @@ Só mais tarde ele percebe que o pai dizia a verdade — e passa a ajudar os Ten
 >
 > Durante as **Archon Hunts**, a Lotus descobre que **a consciência de Erra está suprimida** por Pazuul e pelos Archons revividos, que ficaram **vingativos contra o próprio criador**, porque consideraram a criação deles uma vergonha. Erra **ressurge brevemente para pedir perdão ao Tenno**. A Lotus espera que derrotar os Archons **liberte o irmão**.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Erra
+
 
 - **[[lore/personagens/lotus.md|Lotus]] / Natah** — a irmã. É a única com quem ele é gentil, e por quem no fim ele morre.
 - **[[lore/personagens/hunhow.md|Hunhow]]** — o pai que ele considerava fracassado, e que estava certo sobre Ballas.
@@ -67,9 +72,9 @@ Só mais tarde ele percebe que o pai dizia a verdade — e passa a ajudar os Ten
 - **Kahl-175** — o Grineer que ele poupou dizendo "não tenha medo", e que depois o enfrenta como Pazuul.
 - **[[lore/faccoes/tenno.md|Tenno]]** — objeto do ódio dele, e no fim quem ele ajuda.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Erra
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -80,6 +85,3 @@ Só mais tarde ele percebe que o pai dizia a verdade — e passa a ajudar os Ten
 | Archon Hunts | A consciência dele suprimida; ressurge para pedir perdão |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Erra_(Character) (consultado em 2026-10-04)

@@ -1,9 +1,14 @@
 ---
 title: Cephalon Cy
+aliases: [Cephalon Cy]
 tipo: lore
 subtipo: personagem
+resumo: O Cephalon de combate do Railjack que deixou a própria tripulação morrer para completar a missão — e por isso não se considerava um Command Cephalon viável.
+status: completo
+rag: true
 tags: [lore, personagem, cephalon, railjack]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Cephalon_Cy"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O Cephalon de combate do Railjack que **deixou a própria tripulação morrer para completar a missão** — e por isso não se considerava um Command Cephalon viável.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Cephalon Cy
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Instalado no Railjack do jogador |
 | Origem dos esquemas | Recuperados **inexplicavelmente** por [[lore/personagens/ordis.md\|Ordis]] em dados de redshift, numa contagem rotineira de estrelas |
 
----
 
-## 📖 História
+## 📖 História — Cephalon Cy
+
 
 Os esquemas usados para reconstruir Cy na Dry Dock do Dojo foram recuperados de forma inexplicável por **[[lore/personagens/ordis.md|Cephalon Ordis]]**, a partir de **dados de redshift** durante uma contagem rotineira de estrelas. A origem deles **não é clara**. Ordis descreve ter detectado "um padrão escondido nos dados de redshift" e, ao rodar uma varredura autônoma, encontrado **dados de esquema base antes marcados como corrompidos... íntegros outra vez**, perguntando-se se recebeu **bits de paridade de alguma fonte desconhecida**.
 
@@ -40,9 +45,9 @@ Os esquemas usados para reconstruir Cy na Dry Dock do Dojo foram recuperados de 
 >
 > Por causa do trauma, ele já não se considerava um Command Cephalon viável, e **só aceitou ser instalado no Railjack** ao perceber que **nenhum outro Cephalon possível tem dados ou experiência com guerra espacial** — e porque **quer entender por que os registros daquela missão foram eliminados do Cephalon weave**.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Cephalon Cy
+
 
 - **[[lore/personagens/ordis.md|Ordis]]** — recuperou os esquemas dele dos dados de redshift, de origem desconhecida.
 - **[[lore/faccoes/tenno.md|Tenno]]** — a tripulação atual, que ele serve sabendo o que fez com a anterior.
@@ -51,9 +56,9 @@ Os esquemas usados para reconstruir Cy na Dry Dock do Dojo foram recuperados de 
 - **[[lore/faccoes/infested.md|Cephalon Jordas]]** — outro Cephalon que se perdeu, este para a cepa Mutalist (ver [[lore/chefes/jordas_golem.md|Jordas Golem]]).
 - **[[lore/personagens/cephalon_simaris.md|Cephalon Simaris]]** e **[[lore/personagens/loid.md|Loid]]** — os outros Cephalons de destaque.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Cephalon Cy
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -63,6 +68,3 @@ Os esquemas usados para reconstruir Cy na Dry Dock do Dojo foram recuperados de 
 | [[mecanicas/cla_e_dojo.md\|Dry Dock]] | Onde é reconstruído, no Dojo do clã |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Cephalon_Cy (consultado em 2026-10-04)

@@ -1,9 +1,16 @@
 ---
 title: Stratus MOA
-tipo: moa
-tags:
-  - companheiro
-  - moa
-status: nao-obtido
-atualizado: 2026-04-19
+aliases: [Stratus MOA, stratus]
+tipo: companheiro
+subtipo: moa
+resumo: Stratus MOA — conteúdo ainda não preenchido no vault.
+status: stub
+rag: false
+tags: [companheiro, moa]
+atualizado: 2026-10-07
+agente: opus
 ---
+
+# Stratus MOA
+
+

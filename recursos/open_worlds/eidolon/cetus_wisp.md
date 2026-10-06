@@ -1,10 +1,15 @@
 ---
 title: Cetus Wisp
+aliases: [Cetus Wisp]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+resumo: "Cetus Wisp — Recurso, farmado em Plains of Eidolon on Earth, 1 por drop."
+status: completo
+rag: true
 tags: [recurso, open_world]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Cetus_Wisp", "https://wiki.warframe.com/w/Module:Resources/data", "https://wiki.warframe.com/w/Module:DropTables/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “Most common at night, these stone lifeforms are drawn to shorelines touched by the Eidolon. They linger around lakes on the Plains of Eidolon at all hours. Their origin remains mysterious.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Cetus Wisp
+
 
 | Item | Valor |
 |---|---|
@@ -31,9 +36,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **Sim** |
 | Introduzido no Update | **22** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Cetus Wisp
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -72,9 +77,9 @@ No vault: [[locais/planetas/terra.md|Earth]], [[locais/open-worlds/cetus.md|Plai
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Cetus Wisp
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este recurso:
 
@@ -100,8 +105,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este recurso
 > Total de **16** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Cetus_Wisp — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)

@@ -1,10 +1,15 @@
 ---
 title: Rubedo
+aliases: [Rubedo]
 tipo: recurso
 raridade: incomum
 origem: planeta
+resumo: Rubedo — Um minério cristalino comum e amplamente utilizado na criação de Warframes e armamentos ao longo de todo o jogo.
+status: parcial
+rag: true
 tags: [recurso]
-atualizado: 2026-09-09
+fontes: ["https://wiki.warframe.com/w/Rubedo"]
+atualizado: 2026-10-07
 verificado: false
 agente: gemini
 ---
@@ -14,9 +19,9 @@ agente: gemini
 > [!info] Resumo
 > Um minério cristalino comum e amplamente utilizado na criação de Warframes e armamentos ao longo de todo o jogo.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Rubedo
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: gemini
 | Aparece a partir de | [[locais/planetas/terra.md|Terra]] |
 | Afetado por boosters | Sim |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Rubedo
+
 
 | Local | Missão / Método | Rendimento | Nota |
 |---|---|---|---|
@@ -40,9 +45,9 @@ agente: gemini
 
 **Mods e frames que ajudam:** Xaku (The Vast Untime) ou Limbo (Cataclysm) para quebrar minérios no mapa, Nekros, Loot Detector.
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Rubedo
+
 
 | Item | Quantidade |
 |---|---|
@@ -51,6 +56,3 @@ agente: gemini
 | Armas (Rifles, Escopetas, Melee) | Varia |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Rubedo — drop e uso (consultado em 2026-09-09)

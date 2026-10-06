@@ -1,9 +1,14 @@
 ---
 title: The Duviri Paradox
+aliases: [The Duviri Paradox]
 tipo: missao
 subtipo: jornada
+resumo: "The Duviri Paradox — A quest que explica o Drifter: preso num loop infinito sendo executado por um rei que reseta o tempo, ele descobre que Duviri e todos nela foram criados por ele mesmo."
+status: completo
+rag: true
 tags: [missao, jornada, principal]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/The_Duviri_Paradox"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > A quest que explica o Drifter: preso num loop infinito sendo executado por um rei que reseta o tempo, ele descobre que Duviri e todos nela foram criados por ele mesmo.
 
----
 
-## 📖 Narrativa e Pré-requisitos
+## 📖 Narrativa e Pré-requisitos — The Duviri Paradox
+
 
 | Item | Detalhe |
 |---|---|
@@ -37,9 +42,9 @@ Um dia, depois de uma sensação estranha de ser apunhalado, **uma mão misterio
 >
 > O Drifter senta no trono, **usa o poder de rebobinar o tempo para ressuscitar Teshin**, mas **devolve o trono a Thrax** — troca que considera justa. Sem poder sobre ele, Thrax o deixa partir. Teshin avisa: **ao atravessar, ele não será quem é agora, mas quem foi então.**
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — The Duviri Paradox
+
 
 | Recompensa | Nota |
 |---|---|
@@ -50,18 +55,18 @@ Um dia, depois de uma sensação estranha de ser apunhalado, **uma mão misterio
 | Acesso ao **[[lore/chefes/kullervo.md\|Kullervo]]** | Via Kullervo's Hold |
 | Pré-requisito de **The Hex** | O arco de 1999 |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — The Duviri Paradox
+
 
 - **The Circuit** é a razão prática mais forte para jogar Duviri: é a **única fonte dos adaptadores Incarnon Genesis**, com **2 de 5 adaptadores selecionáveis por semana** — ver [[mecanicas/incarnon.md|Incarnon]].
 - Em Duviri você usa **Decrees** em vez de mods, e eles se acumulam dentro de uma run. Isso significa que **o começo é fraco e o fim é absurdo** — não desista nos primeiros minutos.
 - O combate de Drifter é baseado em **parry e counter-attack**, não em spam de ataque. Aprender o parry é a diferença entre a quest ser fácil e ser frustrante.
 - Para farmar [[recursos/open_worlds/duviri/kullervo_bane.md|Kullervo's Bane]], rode **The Duviri Experience** nos Spirals de **Anger, Sorrow ou Fear** — são os únicos em que Kullervo's Hold aparece.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — The Duviri Paradox
+
 
 - **[[lore/personagens/the_drifter.md|Drifter]]** — quem ele é e a relação com o Operator.
 - **[[lore/personagens/dominus_thrax.md|Dominus Thrax]]** — o rei, e o que ele é de verdade.
@@ -72,6 +77,3 @@ Um dia, depois de uma sensação estranha de ser apunhalado, **uma mão misterio
 - **[[mecanicas/incarnon.md|Incarnon]]** — o sistema alimentado por The Circuit.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/The_Duviri_Paradox (consultado em 2026-10-04)

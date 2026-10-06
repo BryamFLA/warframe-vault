@@ -1,9 +1,14 @@
 ---
 title: Infested
+aliases: [Infested]
 tipo: lore
 subtipo: faccao
+resumo: "Infested — Não é um povo, é uma doença: o vírus Technocyte, que os Orokin armaram contra os Sentients, converte Grineer, Corpus, máquinas e fauna numa mente coletiva — e é a mesma coisa de que as Warframes são feitas."
+status: completo
+rag: true
 tags: [lore, faccao, infested]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Infested", "https://wiki.warframe.com/w/Damage_2.0/Infested_Tab", "https://wiki.warframe.com/w/Damage_2.0/Overview_Table"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Não é um povo, é uma doença: o vírus Technocyte, que os Orokin armaram contra os Sentients, converte Grineer, Corpus, máquinas e fauna numa mente coletiva — e é a mesma coisa de que as Warframes são feitas.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Infested
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Ativos. Contidos em grande parte aos Dark Sectors, com surtos periódicos e domínio total de [[locais/planetas/eris.md\|Eris]] e [[locais/planetas/deimos.md\|Deimos]] |
 | Dublagem | Sem voz individual (hivemind); vozes associadas vêm de hospedeiros como Arlo e a família Entrati |
 
----
 
-## 📖 História
+## 📖 História — Infested
+
 
 O registro mais antigo da Infestação é o **Techrot**, usado em **1997** numa tentativa de produzir jogos em Höllvania, com o governo hollvaniano e a HitMaker Music usando o Technocyte para clonar os membros da banda On-lyne. Surtos continuaram até a era Orokin, quando a intervenção e o extermínio sistemático praticamente erradicaram o vírus do Sistema de Origem — a Infestação passou a atingir só colônias periféricas e de camponeses a serviço dos [[lore/faccoes/orokin.md|Orokin]].
 
@@ -35,9 +40,9 @@ Durante a [[lore/cronologia/antiga_guerra.md|Antiga Guerra]], desesperados contr
 
 Depois da traição dos Tenno e do [[lore/cronologia/o_colapso.md|Colapso]], a Infestação ficou sem supervisão em naves e laboratórios Orokin. Com o tempo ela assimila matéria e evolui para formas mais sofisticadas; no pior caso, como Deimos, engole corpos celestes inteiros. Na era Tenno houve um salto: **Arlo, o "Emissary of Eris"**, um hospedeiro mudo que curava doenças para atrair fiéis e assimilá-los, criando um exército de Zealots que atacou o Sistema. Nem os Orokin são imunes — a **família [[mecanicas/sindicatos/entrati.md|Entrati]]** é parcialmente Infested e só mantém a consciência por tratamentos especiais. Imunes de fato são apenas os Tenno com poder do Void, suas Warframes e os próprios Sentients.
 
----
 
-## 🏛️ Estrutura e Unidades
+## 🏛️ Estrutura e Unidades — Infested
+
 
 ### Cepas (a Infestação não tem corps, tem cepas)
 
@@ -101,9 +106,9 @@ Depois da traição dos Tenno e do [[lore/cronologia/o_colapso.md|Colapso]], a I
 > [!danger] Ancient Disruptor
 > O Disruptor aplica uma aura que **drena energia e reduz drasticamente o dano de habilidades** em quem estiver perto. Em [[mecanicas/steel_path.md|Steel Path]] e em Survival de alto nível, matar Ancients primeiro vale mais do que qualquer upgrade de dano. Ver [[mecanicas/dano_e_status.md|Dano e Status]].
 
----
 
-## ⚔️ Chefes Infested
+## ⚔️ Chefes Infested — Infested
+
 
 | Chefe | Onde | Recompensa principal |
 |---|---|---|
@@ -115,9 +120,9 @@ Depois da traição dos Tenno e do [[lore/cronologia/o_colapso.md|Colapso]], a I
 | Juggernaut Behemoth | Última missão de The Jordas Precept, Jordas Golem Assassination e a quest Jade Shadows | Variante chefe do Juggernaut |
 | [[lore/chefes/zealoid_prelate.md\|Zealoid Prelate]] | Arena dos Zealots (cepa Emissary) | Pennant e mods de Zealot |
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Infested
+
 
 - **[[lore/faccoes/orokin.md|Orokin]]** — criadores involuntários e depois deliberados. Combateram o Technocyte até quase erradicá-lo, então o rearmaram como bio-bomba contra os Sentients.
 - **[[lore/faccoes/tenno.md|Tenno]]** — parentesco incômodo: as Warframes são feitas da cepa Helminth. Tenno com poder do Void são imunes ao vírus.
@@ -128,9 +133,9 @@ Depois da traição dos Tenno e do [[lore/cronologia/o_colapso.md|Colapso]], a I
 - **[[mecanicas/helminth.md|Helminth]]** — o sistema de subsumir habilidades é literalmente alimentar a cepa Infested que vive no seu Orbiter.
 - **[[companheiros/kubrow/helminth_charger.md|Helminth Charger]]** — companheiro criado a partir da cepa Helminth.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Infested
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -145,8 +150,3 @@ Depois da traição dos Tenno e do [[lore/cronologia/o_colapso.md|Colapso]], a I
 | Infested Invasions | Surtos que tomam nós de Grineer e Corpus temporariamente |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Infested (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Infested_Tab (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Overview_Table (consultado em 2026-10-04)

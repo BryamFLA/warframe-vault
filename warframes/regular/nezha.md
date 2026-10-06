@@ -1,12 +1,14 @@
 ---
 title: Nezha
+aliases: [Nezha]
 tipo: warframe
-status: nao-obtido
-polaridade: []
 categoria: suporte
-tags:
-  - warframe
-atualizado: 2026-09-09
+resumo: "Nezha — Combatente móvel com proteção de Warding Halo, vulnerabilidade e orbes por Blazing Chakram; Divine Retribution espalha status entre alvos empalados."
+status: completo
+rag: true
+tags: [warframe]
+fontes: ["https://wiki.warframe.com/w/Nezha", "https://wiki.warframe.com/w/Nezha/Abilities", "https://wiki.warframe.com/w/Nezha/Prime", "https://wiki.warframe.com/w/Nezha/Cosmetics", "https://wiki.warframe.com/w/Warframe_Augment_Mods", "https://wiki.warframe.com/w/Helminth", "https://wiki.warframe.com/w/The_Circuit", "https://wiki.warframe.com/w/Vitality"]
+atualizado: 2026-10-07
 verificado: false
 agente: gpt
 ---
@@ -16,9 +18,9 @@ agente: gpt
 > [!info] Resumo em uma linha
 > Combatente móvel com proteção de Warding Halo, vulnerabilidade e orbes por Blazing Chakram; Divine Retribution espalha status entre alvos empalados.
 
----
 
-## 📊 Estatísticas Base
+## 📊 Stats Base — Nezha
+
 
 Valores sem mods. Os bônus das habilidades abaixo usam o rank máximo da habilidade, salvo indicação contrária.
 
@@ -39,9 +41,9 @@ Valores sem mods. Os bônus das habilidades abaixo usam o rank máximo da habili
 
 **Versão Prime:** [[warframes/primes/nezha_prime.md|Nezha Prime]] — Nezha Prime aumenta armadura de 200 para 265 e sprint de 1,15 para 1,20. Vida, escudo e energia no rank 30 continuam 465, 185 e 225; mantém as habilidades e acrescenta uma polaridade.
 
----
 
-## 🔮 Habilidades
+## 🔮 Habilidades — Nezha
+
 
 Custos-base de energia, antes de Eficiência. A passiva não consome energia; Eficiência reduz os custos de ativação de todas as habilidades.
 
@@ -72,9 +74,9 @@ Custos-base de energia, antes de Eficiência. A passiva não consome energia; Ef
 
 Os sindicatos principais vendem seus augments no rank máximo de reputação por 25.000 de Standing cada. Augments de Conclave seguem oferta própria; não presumir o mesmo vendedor/preço. Nomes sem wikilink não possuem alvo próprio confirmado no índice do vault.
 
----
 
-## 🏗️ Aquisição e Fundição
+## 🏗️ Como Construir — Nezha
+
 
 **Fonte principal do blueprint:** Blueprint principal e componentes por pesquisa/replicação no Tenno Lab do Dojo. O principal custa 35.000 créditos. Não listar Sorties ou troca entre jogadores como fonte atual das peças regulares: são formas históricas removidas.
 
@@ -108,9 +110,9 @@ As peças são fabricadas separadamente e depois consumidas pela montagem final.
 - O Circuito (Duviri): ⚠️ NAO VERIFICADO: disponibilidade como recompensa de blueprint. A página principal não lista essa rota e a tabela consultada do Circuito não apresentou Nezha entre as recompensas; encontrar Nezha como equipamento emprestado não concede seus blueprints.
 - Relíquias (só para Prime): não fornecem peças do Nezha regular. A versão Prime possui aquisição separada.
 
----
 
-## 🛠️ Builds
+## 🛠️ Build — Nezha
+
 
 Sugestões editoriais baseadas nas mecânicas verificadas; não são builds medidas em jogo. A geral usa mods de sobrevivência e Equilibrium em ranks intermediários para conter o custo. As contas de Forma pressupõem Warframe rank 30 com Reator Orokin, aura no rank indicado e os mods exatamente nos ranks das tabelas.
 
@@ -155,9 +157,9 @@ Empale o grupo, aplique Chakram e status com armas a um alvo. Divine Retribution
 **Prioridade de Forma:** Geral: 0 Forma com Reator, Energy Siphon e Mobilize; use Steel Fiber no Vazarin e Intensify no Madurai. Avançada: 2 Forma Naramon em slots neutros, primeiro Equilibrium e depois Stretch; use Vitality no Vazarin e Intensify no Madurai originais. Cálculo: 74 de 74 pontos com Mobilize. Essas contas usam Equilibrium/Vitality no rank 10 apenas na avançada.
 
 
----
 
-## 🧬 Helminth
+## 🧬 Helminth — Nezha
+
 
 | Item | Valor |
 |---|---|
@@ -167,9 +169,9 @@ Empale o grupo, aplique Chakram e status com armas a um alvo. Divine Retribution
 
 [[mecanicas/helminth.md|Helminth]] permite substituir uma habilidade da configuração. A subsunção sacrifica o Warframe regular; não sacrifica a variante Prime. As recomendações acima são alternativas às builds com kit original, e não trocas já realizadas no inventário do jogador.
 
----
 
-## 🔗 Sinergias e Uso
+## 🔗 Sinergias e Uso — Nezha
+
 
 **Funciona bem em:** [[missoes/tipos/survival.md|Survival]] e [[missoes/tipos/exterminate.md|Exterminate]]: mobilidade, Halo e geração de orbes sustentam combate contínuo. Divine Spears/Divine Retribution funcionam melhor quando é possível empalar vários inimigos e aplicar status ao grupo.
 
@@ -179,21 +181,21 @@ Empale o grupo, aplique Chakram e status com armas a um alvo. Divine Retribution
 
 **Armas que combinam:** Armas capazes de aplicar Slash, Heat ou Toxin fortes combinam com Divine Retribution: o status aplicado a um alvo empalado é distribuído aos demais. Nikana Prime é uma opção melee; a recomendação depende dos mods e dos procs efetivamente aplicados, não só do nome da arma.
 
----
 
-## 📖 Lore e Códice
+## 📖 História — Nezha
+
 
 O Leverian narra Reshantur, onde crianças sob opressão Corpus adotaram Nezha como protetor. Um sobrevivente relata que ele surgiu entre chamas, derrotou soldados e levou as outras crianças consigo; preserve a atribuição ao relato, sem tratar cada detalhe como registro independente.
 
----
 
-## 💡 Curiosidades
+## 💡 Curiosidades — Nezha
+
 
 - O tema vem da divindade chinesa Nezha, o Third Lotus Prince. O Universe Ring nas costas e os anéis dos tornozelos remetem a seus artefatos mitológicos.
 
----
 
-## 🎨 Fashion Frame
+## 🎨 Fashion Frame — Nezha
+
 
 | Item | Opções |
 |---|---|
@@ -203,38 +205,3 @@ O Leverian narra Reshantur, onde crianças sob opressão Corpus adotaram Nezha c
 | Paletas que combinam | Sugestão estética: vermelho, verde jade e dourado; escolha livre, sem efeito sobre os atributos. |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Nezha — stats rank 0/30, polaridades, aquisição, receitas e contexto (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Nezha/Abilities — passiva, custos e efeitos das habilidades, detalhamento e augments (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Nezha/Prime — comparação com a versão Prime (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Nezha/Cosmetics — nomes e categorias das opções cosméticas (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Warframe_Augment_Mods — sindicatos dos augments; categoria Conclave quando indicada (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Helminth — habilidade transferível e restrições; Roar transferido (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/The_Circuit — rota alternativa e distinção entre recompensa e equipamento emprestado (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Vitality — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Steel_Fiber — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Intensify — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Continuity — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Stretch — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Streamline — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Flow — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Equilibrium — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Divine_Retribution — efeito e notas específicas (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Adaptation — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Augur_Reach — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Energy_Siphon — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Mobilize — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Orokin_Cell — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Argon_Crystal — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Neural_Sensors — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Polymer_Bundle — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Salvage — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Morphics — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Ferrite — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Rubedo — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Control_Module — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Plastids — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Arcane_Energize — efeito e recarga (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Molt_Augmented — efeito e limite de acúmulos (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Controlled_Slide — efeito e notas específicas (consultado em 2026-09-08; redação em 2026-09-09).

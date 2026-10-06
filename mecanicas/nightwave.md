@@ -1,8 +1,13 @@
 ---
 title: Nightwave
+aliases: [Nightwave]
 tipo: mecanica
+resumo: "Nightwave — Rádio pirata da Nora Night que funciona como battle pass: desafios diários e semanais dão Standing, o Standing dá ranks, e cada rank dá recompensa e Cred — a moeda que compra Nitain Extract, Catalyst, Reactor, auras, augments e cosméticos."
+status: completo
+rag: true
 tags: [mecanica, nightwave, nora-night, battle-pass, acts, cred]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Nightwave", "https://wiki.warframe.com/w/Nightwave/Offerings"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Rádio pirata da Nora Night que funciona como battle pass: desafios diários e semanais dão Standing, o Standing dá ranks, e cada rank dá recompensa e **Cred** — a moeda que compra Nitain Extract, Catalyst, Reactor, auras, augments e cosméticos.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Nightwave
+
 
 Nightwave (Update 24.3, 2019-02-27) substituiu o antigo sistema de **Alerts** e de recompensas por desafio. É um sindicato atípico: o Standing dele **só serve para subir rank**, nunca para comprar — as compras são feitas com **Cred**. Libera ao concluir a quest **The Teacher**.
 
@@ -25,9 +30,9 @@ O ciclo é: completar **Acts** (desafios) → ganhar **Nightwave Standing** → 
 > [!danger] Cred expira
 > Cada Series tem a **sua própria** moeda de Cred, que **expira** quando a Series acaba. Cred não gasto pode ser vendido no inventário por **5.000 Credits** cada. A loja fica **inacessível** durante o intervalo entre Series.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Nightwave
+
 
 ```
 Standing por rank          = 10.000
@@ -62,9 +67,9 @@ Teto de prestige atingido → Standing fica estocado até o teto subir
 - Temporadas duram até **vários meses**. Um contador aparece quando faltam **2 semanas** para o fim.
 - A loja tem **rotação de 7 dias** — não tudo está disponível a qualquer momento. Itens em **negrito** na wiki são os sempre disponíveis.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Nightwave
+
 
 ### Tipos de temporada
 
@@ -127,9 +132,9 @@ Temporadas já lançadas sem história: Intermission, Intermission II, Intermiss
 | **Orokin Reactor (pronto)** | **75** |
 | Armor sets (Saturn Six, Frakta, Daybreak) e Syandanas | **75** cada |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Nightwave
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -148,9 +153,9 @@ Temporadas já lançadas sem história: Intermission, Intermission II, Intermiss
 
 **Frames que interagem:** [[warframes/regular/vauban.md|Vauban]] (as 3 partes só saem aqui), [[warframes/regular/protea.md|Protea]] (Dispensary resolve o Act de Energy Orbs), [[warframes/regular/garuda.md|Garuda]] (Talons não contam como melee, resolvendo o "Hands Full"), [[warframes/regular/loki.md|Loki]] e [[warframes/regular/ivara.md|Ivara]] (stealth para o Act de Finishers).
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Nightwave
+
 
 - **"Standing de Nightwave compra coisa."** Não. Standing **só** sobe rank. Compra é com **Cred**.
 - **"Cred é Credits."** São moedas diferentes: **Cred** (moeda da Series, expira) versus **Credits** (moeda comum do jogo).
@@ -164,9 +169,9 @@ Temporadas já lançadas sem história: Intermission, Intermission II, Intermiss
 - **"A loja funciona entre temporadas."** Fica **inacessível** no intervalo entre Series, inclusive Intermissions.
 - **"Duplicata é desperdício."** Recompensa exclusiva duplicada vira **50 Cred**.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Nightwave
+
 
 - [[mecanicas/forja.md|Forja]] — Catalyst e Reactor comprados aqui vêm **prontos**, sem forja; o Landing Craft Segment libera o Act "Air It Out".
 - [[mecanicas/forma_e_polaridades.md|Forma e Polaridades]] — Orokin Catalyst e Orokin Reactor (75 Cred cada) são o que dobra a capacidade de mod.
@@ -184,7 +189,3 @@ Temporadas já lançadas sem história: Intermission, Intermission II, Intermiss
 - [[cosmeticos/capacetes.md|Capacetes]], [[cosmeticos/skins.md|Skins]], [[cosmeticos/syandanas.md|Syandanas]], [[cosmeticos/efemeras.md|Efêmeras]], [[cosmeticos/decoracoes.md|Decorações]] — as categorias que a loja de Cred cobre.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Nightwave — desbloqueio pela quest The Teacher, estrutura de ranks e Standing, tipos de temporada, tipos de Act e seus valores, sistema de Recovered Acts, regras de Cred e expiração, lista de Acts conhecidos com as pegadinhas de cada um (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Nightwave/Offerings — preços em Cred de cada categoria da loja, incluindo Nitain Extract, Orokin Catalyst, Orokin Reactor, partes do Vauban, auras e augments (consultado em 2026-10-04)

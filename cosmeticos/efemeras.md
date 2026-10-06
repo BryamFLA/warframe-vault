@@ -1,19 +1,25 @@
 ---
 title: Efemeras
+aliases: [Efemeras]
 tipo: cosmetico
-tags:
-  - cosmetico
-  - efemera
-atualizado: 2026-04-19
+resumo: "Efemeras são efeitos visuais passivos aplicados ao Warframe — trilhas de luz, auras elementais, partículas e distorções que seguem o frame durante o movimento."
+status: parcial
+rag: true
+tags: [cosmetico, efemera]
+atualizado: 2026-10-07
+agente: opus
 ---
 
-## O que são Efemeras?
+# Efemeras
+
+## O que são Efemeras? — Efemeras
+
 
 Efemeras são efeitos visuais passivos aplicados ao Warframe — trilhas de luz, auras elementais, partículas e distorções que seguem o frame durante o movimento.
 
----
 
-## Exemplos de Tipos
+## Exemplos de Tipos — Efemeras
+
 
 | Efemera | Efeito Visual |
 |---|---|
@@ -27,9 +33,9 @@ Efemeras são efeitos visuais passivos aplicados ao Warframe — trilhas de luz,
 | **Blazing Step** | Fogo nas passadas — drop de Profit-Taker |
 | **Shocking Step** | Eletricidade nas passadas — drop de Exploiter Orb |
 
----
 
-## Aquisição
+## 🌍 Onde Conseguir — Efemeras
+
 
 | Fonte | Exemplos |
 |---|---|
@@ -41,9 +47,9 @@ Efemeras são efeitos visuais passivos aplicados ao Warframe — trilhas de luz,
 | **Eventos / Login** | Exclusivas por tempo limitado |
 | **Prime Access** | Algumas Prime Access incluem efemeras |
 
----
 
-## Observações
+## 📝 Observações — Efemeras
+
 
 - Efemeras de Lich/Sister são as mais farmadas — exigem criar e derrotar liches com o elemento correto
 - Algumas efemeras são extremamente raras e valiosas no trading

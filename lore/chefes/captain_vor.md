@@ -1,9 +1,14 @@
 ---
 title: Captain Vor
+aliases: [Captain Vor]
 tipo: lore
 subtipo: chefe
+resumo: "Captain Vor — O Grineer que te acordou da criostase: ex-Admiral rebaixado por capturar Tenno em vez de destruí-los, e um dos pouquíssimos no Sistema que entende tecnologia Orokin."
+status: completo
+rag: true
 tags: [lore, chefe, grineer]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Captain_Vor", "https://wiki.warframe.com/w/Damage_2.0/Grineer_Tab"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O Grineer que te acordou da criostase: ex-Admiral rebaixado por capturar Tenno em vez de destruí-los, e um dos pouquíssimos no Sistema que entende tecnologia Orokin.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Captain Vor
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Morto como Captain Vor; renasce no Void como [[lore/chefes/corrupted_vor.md\|Corrupted Vor]] |
 | Dublagem | Kol Crosbie (aka [DE]Skree) |
 
----
 
-## 📖 História
+## 📖 História — Captain Vor
+
 
 Antes do início do jogo, Vor tinha a patente de **Admiral** e recebeu das Twin Queens a missão de encontrar e destruir as cryopods de Warframe escondidas pelo Sistema antes que despertassem. Ele desobedeceu: em vez de destruir, passou a **capturar os Tenno dentro delas**, na esperança de usar aquele poder para refazer o exército Grineer com uma geração de clones mais saudáveis. A falha em cumprir a ordem fez as Rainhas perderem a fé nele, e Vor foi **rebaixado a Captain**.
 
@@ -35,9 +40,9 @@ Vor é uma das pouquíssimas figuras do cenário que entende tecnologia [[lore/f
 
 Como a maioria dos Grineer, ele despreza os Tenno e provoca dizendo que vai levar o equipamento deles como troféu. Algumas falas sugerem que **dissecava** os Tenno que capturava para entender a fonte daquele poder — o mesmo impulso de [[lore/chefes/alad_v.md|Alad V]].
 
----
 
-## ⚔️ Combate
+## ⚔️ Combate — Captain Vor
+
 
 | Item | Detalhe |
 |---|---|
@@ -55,9 +60,9 @@ Como a maioria dos Grineer, ele despreza os Tenno e provoca dizendo que vai leva
 
 **Frames recomendados:** [[warframes/regular/excalibur.md|Excalibur]] ou [[warframes/regular/rhino.md|Rhino]] para quem está começando (é um chefe de nível 10); [[warframes/regular/nekros.md|Nekros]] se a intenção é farmar os reforços.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Captain Vor
+
 
 - **[[lore/chefes/corrupted_vor.md|Corrupted Vor]]** — ele mesmo, refeito pelos Neural Sentries do [[locais/planetas/void.md|Void]] após a morte.
 - **[[lore/chefes/lech_kril.md|Lech Kril]]** — parceiro de luta em Exta, Ceres.
@@ -67,9 +72,9 @@ Como a maioria dos Grineer, ele despreza os Tenno e provoca dizendo que vai leva
 - **[[lore/personagens/vor.md|Vor (personagem)]]** — a ficha de personagem, com falas e papel narrativo.
 - **[[lore/chefes/alad_v.md|Alad V]]** — paralelo direto: os dois dissecam Tenno para entender o poder do Void.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Captain Vor
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -81,7 +86,3 @@ Como a maioria dos Grineer, ele despreza os Tenno e provoca dizendo que vai leva
 | Janus Captain Vor | Variante opcional com Sumdali e Accolade Glyphs |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Captain_Vor (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Grineer_Tab (consultado em 2026-10-04)

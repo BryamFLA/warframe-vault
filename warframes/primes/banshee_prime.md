@@ -1,29 +1,37 @@
 ---
 title: Banshee Prime
+aliases: [Banshee Prime]
 tipo: warframe
-status: nao-obtido
+resumo: Banshee Prime — 1.
+status: stub
+rag: false
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Banshee Prime
 
-> [!info] 
+> [!info]
 
-## 🏗️ Como Obter
+## 🏗️ Como Construir — Banshee Prime
 
 
-## 🔮 Habilidades
+## 🔮 Habilidades — Banshee Prime
+
 1. **Passiva:** 
 2. **Habilidade 1:** 
 3. **Habilidade 2:** 
 4. **Habilidade 3:** 
-5. **Habilidade 4:** 
+5. **Habilidade 4:**
 
-## 📊 Stats Base
+## 📊 Stats Base — Banshee Prime
+
 - **Vida:**
 - **Escudos:**
 - **Armadura:**
 - **Energia:**
 - **Velocidade:**
 
-## ⚙️ Progressão e Conexões
-- **Mascote/Arma Assinatura:** 
+## 🔗 Relacionados — Banshee Prime
+
+- **Mascote/Arma Assinatura:**

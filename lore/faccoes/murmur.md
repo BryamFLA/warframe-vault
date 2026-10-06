@@ -1,9 +1,14 @@
 ---
 title: The Murmur
+aliases: [The Murmur, murmur]
 tipo: lore
 subtipo: faccao
+resumo: "Construtos de pedra com membros humanos, feitos de energia do Void pelo Man in the Wall: pedaços recortados da própria Indifference, que se fundem em formas maiores — e quanto mais fragmentados, mais sem mente ficam."
+status: completo
+rag: true
 tags: [lore, faccao, murmur, void]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/The_Murmur", "https://wiki.warframe.com/w/Damage_2.0/Murmur_Tab", "https://wiki.warframe.com/w/Damage_2.0/Overview_Table"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Construtos de pedra com membros humanos, feitos de energia do Void pelo Man in the Wall: pedaços recortados da própria Indifference, que se fundem em formas maiores — e quanto mais fragmentados, mais sem mente ficam.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — The Murmur
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Ativos. Invadem os laboratórios subterrâneos de [[lore/personagens/albrecht_entrati.md\|Albrecht Entrati]] sob [[locais/planetas/deimos.md\|Deimos]] |
 | Dublagem | Sem fala articulada (murmúrio) |
 
----
 
-## 📖 História
+## 📖 História — The Murmur
+
 
 Os Murmur foram **criados a partir de energia do Void pelo Man in the Wall**. São construtos geométricos, de aparência pétrea, com membros estranhamente humanos, e têm a capacidade única de **se combinar em entidades maiores**, como The Fragmented. Vêm da própria Indifference: recortados dela, partidos, desmembrados e remontados em formas novas e deformadas. A relação é inversa ao que se espera — **quanto mais fragmentado o Murmur, mais sem mente ele é**; a lucidez só aparece quando se fundem em formas monstruosas e maiores.
 
@@ -35,9 +40,9 @@ O habitat natural deles é a **Great Indifference**: um ambiente de cabeça para
 
 A chegada tem causa concreta: a tentativa de **[[lore/personagens/ballas.md|Ballas]] de transportar a si mesmo e o culto [[lore/faccoes/sentient.md|Narmer]] para Tau** voltou a atenção do Man in the Wall para o Sistema de Origem. Com isso os Murmur foram soltos nos laboratórios subterrâneos de Albrecht Entrati, agora dessellados. A **Kalymos Sequence** foi ativada: sem acordar o Sleeper, o legado de Albrecht cai. [[lore/personagens/loid.md|Loid]] então chama o Tenno.
 
----
 
-## 🏛️ Estrutura e Unidades
+## 🏛️ Estrutura e Unidades — The Murmur
+
 
 | Unidade | Papel | Ameaça |
 |---|---|---|
@@ -81,9 +86,9 @@ A chegada tem causa concreta: a tentativa de **[[lore/personagens/ballas.md|Ball
 | Viral | −50% | — | −50% | −25% |
 | Void | +25% | — | — | — |
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — The Murmur
+
 
 - **Man in the Wall / The Indifference** — criador e mestre. Os Murmur são literalmente pedaços dele, recortados e remontados.
 - **[[lore/personagens/albrecht_entrati.md|Albrecht Entrati]]** — o Orokin que abriu o caminho para o Void e cujos laboratórios os Murmur agora invadem.
@@ -93,9 +98,9 @@ A chegada tem causa concreta: a tentativa de **[[lore/personagens/ballas.md|Ball
 - **[[lore/faccoes/orokin.md|Orokin]]** — os laboratórios, os grimórios e a própria Kalymos Sequence são legado Orokin.
 - **[[lore/faccoes/tenno.md|Tenno]]** — o "Chosen Operator" que a sequência esperava; o poder do Void é o que permite enfrentá-los.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — The Murmur
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -107,8 +112,3 @@ A chegada tem causa concreta: a tentativa de **[[lore/personagens/ballas.md|Ball
 | [[mecanicas/sindicatos/cavia.md\|Cavia]] | Sindicato do conteúdo; Standing e recompensas |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/The_Murmur (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Murmur_Tab (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Overview_Table (consultado em 2026-10-04)

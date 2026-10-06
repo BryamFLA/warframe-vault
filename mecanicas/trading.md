@@ -1,8 +1,13 @@
 ---
 title: Trading
+aliases: [Trading]
 tipo: mecanica
+resumo: "Sistema de troca entre jogadores feito no Trading Post do Dojo ou no Maroo's Bazaar: exige Mastery Rank 2 e 2FA, cobra taxa em Credits de quem recebe o item, e é a única rota de Platinum dentro do jogo."
+status: completo
+rag: true
 tags: [mecanica, trading, economia, platinum, dojo]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Trading", "https://wiki.warframe.com/w/Platinum"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Sistema de troca entre jogadores feito no Trading Post do Dojo ou no Maroo's Bazaar: exige Mastery Rank 2 e 2FA, cobra taxa em Credits de quem **recebe** o item, e é a única rota de Platinum dentro do jogo.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Trading
+
 
 Trading libera no **Mastery Rank 2** e exige **autenticação de dois fatores (2FA)** ativada no site oficial desde o Update 25.0 (2019-05-22). Acontece em dois lugares: no **Trading Post** de um [[mecanicas/cla_e_dojo.md\|Clan Dojo]] (você pode convidar não-membros do clã para o seu Dojo) ou no **Maroo's Bazaar**, o relay dedicado em Marte. Railjack não permite trade.
 
@@ -22,9 +27,9 @@ Cada parceiro oferece **até 6 itens** por transação — máximo de 12 itens n
 
 **Quem paga a taxa é quem recebe o item**, e a taxa é sempre em **Credits**, nunca em Platinum. Sobre a taxa base do jogo incide ainda uma taxa de hub: **fixa de +10% no Maroo's Bazaar**, ou **variável de 0% a 100% no Dojo**, definida por qualquer membro do clã com privilégio de Treasurer em qualquer Trading Post.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Trading
+
 
 ```
 Taxa total = taxa base do item x (1 + taxa de hub)
@@ -58,9 +63,9 @@ Trades por dia = Mastery Rank do jogador
 - **Switch não troca Platinum** com outras plataformas, nem com Cross Save (política da Nintendo).
 - Com exceção de adversários convertidos (Lich / Sister / Coda), **não há limite** de quantas vezes um item pode ser tradeado.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Trading
+
 
 ### Taxa base por raridade — Mods e Void Relics
 
@@ -132,9 +137,9 @@ Variantes cujas **partes e blueprints** são tradeáveis: Prime, Carmine, Vandal
 | `100p+` | 100 Platinum ou mais |
 | blitzer | Jogador que corre a missão solo só para pegar a recompensa tradeável e passar ao cliente |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Trading
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -147,9 +152,9 @@ Variantes cujas **partes e blueprints** são tradeáveis: Prime, Carmine, Vandal
 | Achar comprador | Trade Chat no jogo (ative em Opções > Chat > Trade Chat, e use filtros por canal), Maroo's Bazaar em Marte, ou os sites de trading board da comunidade |
 | Evitar ban | Só tradeie **o que aparece na janela de trade**. Trade por favor, promessa, serviço ou vaga de clã não é protegido e é violação do EULA |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Trading
+
 
 - **"Quem vende paga a taxa."** Quem **recebe** o item paga. E sempre em **Credits**, nunca em Platinum.
 - **"O limite diário é de itens."** É de **transações**. Trocar 1 item gasta o mesmo trade que trocar 6.
@@ -162,9 +167,9 @@ Variantes cujas **partes e blueprints** são tradeáveis: Prime, Carmine, Vandal
 - **"Switch troca Platinum normalmente."** Não troca com outras plataformas, nem com Cross Save ativo.
 - **"Dá para tradear o último mod de Precept."** Não. A última cópia de um mod com polaridade Precept é bloqueada.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Trading
+
 
 - [[mecanicas/platinum.md|Platinum]] — o que o trade serve para conseguir, e onde gastar depois.
 - [[mecanicas/mastery_rank.md|Mastery Rank]] — MR 2 libera, o MR é o limite diário, MR 8 para Riven, MR 11 para Arcane Legendary.
@@ -177,7 +182,3 @@ Variantes cujas **partes e blueprints** são tradeáveis: Prime, Carmine, Vandal
 - [[recursos/raridades/especial/riven_mod.md|Riven Mod]], [[recursos/raridades/especial/ayatan_sculpture.md|Ayatan Sculpture]], [[recursos/raridades/especial/orokin_ducats.md|Orokin Ducats]] — as três mercadorias de maior valor por slot de trade.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Trading — pré-requisitos (MR 2 e 2FA), locais, limite de 6 itens, tabela completa de taxas por raridade e por rank de Arcane, taxas de hub, lista do que é e do que não é tradeável, requisitos de MR por tipo de item, regras de arma tradeável, gíria do Trade Chat (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Platinum — regra de Personal Platinum e restrição da Nintendo Switch (consultado em 2026-10-04)

@@ -1,11 +1,16 @@
 ---
 title: Pistol Gambit
+aliases: [Pistol Gambit]
 tipo: mod
 categoria: arma
-polaridade: Madurai
 raridade: comum
+polaridade: Madurai
+resumo: "Pistol Gambit — +120% Chance de Crítico Texto exato no jogo (inglês): +120% Critical Chance."
+status: completo
+rag: true
 tags: [mod, arma]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Pistol_Gambit", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Mods/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -17,9 +22,9 @@ agente: opus
 >
 > *Texto exato no jogo (inglês):* `+120% Critical Chance`
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Pistol Gambit
+
 
 | Item | Valor |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 | Transmutável | **Sim** |
 | Introduzido no Update | **lançamento do jogo (Update 0)** |
 
----
 
-## 📈 Efeito por Rank
+## 📈 Efeito por Rank — Pistol Gambit
+
 
 <!-- Valores copiados da seção Stats da página do mod na wiki. Nenhum valor interpolado. -->
 
@@ -51,9 +56,9 @@ agente: opus
 > [!note] A drenagem sobe 1 por rank
 > Regra do jogo, visível na própria tabela: a drenagem no rank R é **4 + R**.
 
----
 
-## 🏗️ Onde Obter
+## 🌍 Onde Conseguir — Pistol Gambit
+
 
 | Fonte | Tipo | Chance do mod na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -78,9 +83,9 @@ agente: opus
 
 **Faixa de preço em platina:** ⚠️ **estimativa não fornecida.** Pela seção 8 das convenções, preço de platina é mercado flutuante e não é registrado aqui. Consulte warframe.market no momento da compra.
 
----
 
-## 🛠️ Uso
+## 🛠️ Como Usar — Pistol Gambit
+
 
 **Vale a pena?** **Sim, no começo.** Mod **Common** — barato em capacidade e fácil de maximizar, mas costuma ser substituído por uma variante melhor em builds de endgame.
 
@@ -98,8 +103,3 @@ Os mods abaixo são **mutuamente exclusivos** com este — o jogo não deixa equ
 - **Creeping Bullseye**
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Pistol_Gambit — efeito por rank, polaridade, drenagem, raridade e incompatibilidades (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Mods/data — ficha do mod: tipo, classe, comercializável, transmutável, update de introdução (consultado em 2026-10-06)

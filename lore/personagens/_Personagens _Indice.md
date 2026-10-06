@@ -1,8 +1,13 @@
 ---
 title: Personagens — Índice
+aliases: [Personagens — Índice, Personagens — Indice, Personagens  Indice]
 tipo: index
+resumo: "26 personagens: o núcleo narrativo que explica por que o Sistema de Origem está do jeito que está, a família Entrati, os Cephalons, e os NPCs que você usa como loja todo dia."
+status: completo
+rag: true
 tags: [index, lore, personagem]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Category:Characters"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > 26 personagens: o núcleo narrativo que explica por que o Sistema de Origem está do jeito que está, a família Entrati, os Cephalons, e os NPCs que você usa como loja todo dia.
 
----
 
-## O núcleo narrativo — leia nesta ordem
+## O núcleo narrativo — leia nesta ordem — Personagens — Índice
+
 
 Se a intenção é entender a história principal, esta é a sequência causal:
 
@@ -33,9 +38,9 @@ Se a intenção é entender a história principal, esta é a sequência causal:
 
 Para a ordem de **eventos** em vez de personagens, ver [[lore/cronologia/cronologia.md|Cronologia]].
 
----
 
-## A família Entrati
+## A família Entrati — Personagens — Índice
+
 
 Os únicos Orokin sobreviventes que você conhece de perto — todos **parcialmente Infested**, tendo perdido os corpos e boa parte das memórias, **mas não as identidades**.
 
@@ -51,9 +56,9 @@ Os únicos Orokin sobreviventes que você conhece de perto — todos **parcialme
 
 Ver o sindicato em [[mecanicas/sindicatos/entrati.md|Entrati]], e os desdobramentos em [[mecanicas/sindicatos/necraloid.md|Necraloid]] e [[mecanicas/sindicatos/cavia.md|Cavia]].
 
----
 
-## Os Cephalons
+## Os Cephalons — Personagens — Índice
+
 
 Humanos "glassados" pelos Orokin como punição ou servidão perpétua.
 
@@ -64,9 +69,9 @@ Humanos "glassados" pelos Orokin como punição ou servidão perpétua.
 | [[lore/personagens/cephalon_simaris.md\|Cephalon Simaris]] | Arquivista | Obcecado por Synthesis; opera o Sanctuary e o Simulacrum |
 | [[lore/personagens/loid.md\|Loid]] | Necraloid dos Entrati | Carrega Otak, irreparavelmente danificado |
 
----
 
-## Vendedores e operadores
+## Vendedores e operadores — Personagens — Índice
+
 
 Os NPCs que, na prática, são a sua loja.
 
@@ -80,17 +85,17 @@ Os NPCs que, na prática, são a sua loja.
 | [[lore/personagens/nora_night.md\|Nora Night]] | Rádio | **[[mecanicas/nightwave.md\|Nightwave]]**: Acts e Cred Offerings |
 | [[lore/personagens/cephalon_simaris.md\|Cephalon Simaris]] | Relays (Sanctuary) | Synthesis, Simulacrum e testes de Mastery Rank |
 
----
 
-## Höllvania (1999)
+## Höllvania (1999) — Personagens — Índice
+
 
 | Personagem | O que é |
 |---|---|
 | [[lore/personagens/arthur.md\|Arthur]] | **Protoframe** baseado em Excalibur: Warframe parcial que **manteve a mente** |
 
----
 
-## Personagens reais que ainda não têm arquivo
+## Personagens reais que ainda não têm arquivo — Personagens — Índice
+
 
 > [!warning] Pendência para o humano
 > Pela convenção 2 do [[_MODELOS/_CONVENCOES.md|_CONVENCOES]], nenhum agente pode criar arquivos. Os personagens abaixo aparecem em outros arquivos deste vault **como texto puro**, porque não têm arquivo próprio.
@@ -116,6 +121,3 @@ Os NPCs que, na prática, são a sua loja.
 | Nihil, o Glassmaker | Executioner Orokin; Nightwave Series 3 |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Category:Characters (consultado em 2026-10-04)

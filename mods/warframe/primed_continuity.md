@@ -1,11 +1,16 @@
 ---
 title: Primed Continuity
+aliases: [Primed Continuity]
 tipo: mod
 categoria: warframe
-polaridade: Madurai
 raridade: lendario
+polaridade: Madurai
+resumo: "Primed Continuity — +55% Duração de Habilidade Texto exato no jogo (inglês): +55% Ability Duration."
+status: completo
+rag: true
 tags: [mod, warframe]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Primed_Continuity", "https://wiki.warframe.com/w/Module:Mods/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -17,9 +22,9 @@ agente: opus
 >
 > *Texto exato no jogo (inglês):* `+55% Ability Duration`
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Primed Continuity
+
 
 | Item | Valor |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 | Transmutável | **Não** |
 | Introduzido no Update | **15.6.3** |
 
----
 
-## 📈 Efeito por Rank
+## 📈 Efeito por Rank — Primed Continuity
+
 
 <!-- Valores copiados da seção Stats da página do mod na wiki. Nenhum valor interpolado. -->
 
@@ -56,9 +61,9 @@ agente: opus
 > [!note] A drenagem sobe 1 por rank
 > Regra do jogo, visível na própria tabela: a drenagem no rank R é **4 + R**.
 
----
 
-## 🏗️ Onde Obter
+## 🌍 Onde Conseguir — Primed Continuity
+
 
 | Fonte | Detalhe |
 |---|---|
@@ -71,9 +76,9 @@ agente: opus
 
 **Faixa de preço em platina:** ⚠️ **estimativa não fornecida.** Pela seção 8 das convenções, preço de platina é mercado flutuante e não é registrado aqui. Consulte warframe.market no momento da compra.
 
----
 
-## 🛠️ Uso
+## 🛠️ Como Usar — Primed Continuity
+
 
 **Vale a pena?** **Sim, se você tiver.** Mod **Legendary** — a variante Primed/Legendary de um mod base, vendida pelo **Baro Ki'Teer** por Ducats e Créditos. Supera o mod base em valor, mas **drena mais**, então exige capacidade (Orokin Reactor/Catalyst e Forma) para caber na build.
 
@@ -91,7 +96,3 @@ Os mods abaixo são **mutuamente exclusivos** com este — o jogo não deixa equ
 - **Flawed Continuity**
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Primed_Continuity — efeito por rank, polaridade, drenagem, raridade e incompatibilidades (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Mods/data — ficha do mod: tipo, classe, comercializável, transmutável, update de introdução (consultado em 2026-10-06)

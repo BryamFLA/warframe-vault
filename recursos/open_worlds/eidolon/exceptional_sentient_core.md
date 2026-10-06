@@ -1,10 +1,15 @@
 ---
 title: Sentient Core
+aliases: [Sentient Core, Núcleo Sentient, Nucleo Sentient, exceptional sentient core]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+resumo: Sentient Cores are Sentient objects that can be traded in for Standing with The Quills in Cetus.
+status: completo
+rag: true
 tags: [recurso, open_world]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Sentient_Core"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -22,9 +27,9 @@ agente: opus
 > [!warning] Este item não está no `Module:Resources/data`
 > Ao contrário da maioria dos recursos do vault, este não tem entrada no módulo de dados de recursos da wiki — então **não há ficha estruturada** de raridade, quantidade por drop ou compatibilidade com booster para copiar. O que está abaixo vem do **texto da própria página** e do **`Module:DropTables/data`**. Os campos sem fonte ficam marcados.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Sentient Core
+
 
 | Item | Valor |
 |---|---|
@@ -37,9 +42,9 @@ agente: opus
 
 On the Plains of Eidolon, Intact Sentient Cores are dropped by Eidolon Vomvalysts while Exceptional Sentient Cores are dropped by destroying the Synovia joints of the Eidolons. A Flawless Sentient Core is dropped upon successfully capturing (not defeating) an Eidolon through having them fully tethered by allied Eidolon Lures; both the Eidolon Shards and the Flawless Sentient Cores will be dropped by the Lures upon self-destruction, not by the Eidolon themself.
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Sentient Core
+
 
 **Da seção de aquisição da página:** Contents 1 Drop Locations 1.1 Intact Sentient Core 1.1.1 Mission Drop Tables 1.1.2 Enemy Drop Tables 1.2 Exceptional Sentient Core 1.2.1 Mission Drop Tables 1.2.2 Enemy Drop Tables 1.3 Flawless Sentient Core 1.3.1 Mission Drop Tables 1.3.2 Enemy Drop Tables Drop Locations edit | edit] Sourced from the official drop table repository. See Module:DropTables/data to edit on the wiki. Intact Sentient Core edit | edit] Mission Drop Tables edit | edit] Enemy Drop Tables edit | edit] Exceptional Sentient Core edit | edit] Mission Drop Tables edit | edit] Enemy Drop Tables edit | edit] Flawless Sentient Core edit | edit] Mission Drop Tables edit | edit] Enemy Drop Tables edit | edit] ↑ 1.0 1.1 1.2 1.3 1.4 1.5 Chance to roll item within drop table ↑ 2.0 2.1 2.2 2.3 2.4 2.5 Amount rewarded on successful roll ↑ 3.0 3.1 3.2 (Quantity × Chance) ↑ 4.0 4.1 4.2 Chance to roll drop table ↑ 5.0 5.1 5.2 (Dr
 
@@ -57,9 +62,9 @@ On the Plains of Eidolon, Intact Sentient Cores are dropped by Eidolon Vomvalyst
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Sentient Core
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este item:
 
@@ -76,6 +81,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este item:
 > Total de **7** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Sentient_Core — descrição, forma de obtenção e Item Checklist (consultado em 2026-10-06)

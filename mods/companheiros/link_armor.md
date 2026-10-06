@@ -1,11 +1,16 @@
 ---
 title: Link Fiber
+aliases: [Link Fiber, link armor]
 tipo: mod
 categoria: companheiro
-polaridade: Vazarin
 raridade: incomum
+polaridade: Vazarin
+resumo: "Link Fiber — Increase Max Armor by +125% of Warframe's Armor Mantido em inglês: a descrição tem texto corrido que uma tradução automática deturparia."
+status: completo
+rag: true
 tags: [mod, companheiro]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Link_Fiber", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Mods/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -20,9 +25,9 @@ agente: opus
 >
 > *Mantido em inglês:* a descrição tem texto corrido que uma tradução automática deturparia. O texto acima é o do jogo, literal.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Link Fiber
+
 
 | Item | Valor |
 |---|---|
@@ -36,9 +41,9 @@ agente: opus
 | Transmutável | **Sim** |
 | Introduzido no Update | **14** |
 
----
 
-## 📈 Efeito por Rank
+## 📈 Efeito por Rank — Link Fiber
+
 
 <!-- Valores copiados da seção Stats da página do mod na wiki. Nenhum valor interpolado. -->
 
@@ -59,9 +64,9 @@ agente: opus
 > [!note] A drenagem sobe 1 por rank
 > Regra do jogo, visível na própria tabela: a drenagem no rank R é **4 + R**.
 
----
 
-## 🏗️ Onde Obter
+## 🌍 Onde Conseguir — Link Fiber
+
 
 | Fonte | Tipo | Chance do mod na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -75,9 +80,9 @@ agente: opus
 
 **Faixa de preço em platina:** ⚠️ **estimativa não fornecida.** Pela seção 8 das convenções, preço de platina é mercado flutuante e não é registrado aqui. Consulte warframe.market no momento da compra.
 
----
 
-## 🛠️ Uso
+## 🛠️ Como Usar — Link Fiber
+
 
 **Vale a pena?** **Geralmente sim.** Mod **Uncommon** — fácil de conseguir e normalmente parte do núcleo de uma build.
 
@@ -93,8 +98,3 @@ Os mods abaixo são **mutuamente exclusivos** com este — o jogo não deixa equ
 - **Metal Fiber**
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Link_Fiber — efeito por rank, polaridade, drenagem, raridade e incompatibilidades (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Mods/data — ficha do mod: tipo, classe, comercializável, transmutável, update de introdução (consultado em 2026-10-06)

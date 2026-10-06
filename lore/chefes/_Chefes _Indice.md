@@ -1,8 +1,13 @@
 ---
 title: Chefes — Índice
+aliases: [Chefes — Índice, Chefes — Indice, Chefes  Indice]
 tipo: index
+resumo: 29 chefes.
+status: completo
+rag: true
 tags: [index, lore, chefe]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Boss"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > 29 chefes. Quase nenhum morre no dano: a maioria tem um **gate mecânico** — ponto fraco que só abre em certo momento, escudo que só cai com um tipo específico, ou um objeto no cenário que precisa ser usado primeiro.
 
----
 
-## A tabela que resolve a maioria das dúvidas
+## A tabela que resolve a maioria das dúvidas — Chefes — Índice
+
 
 | Chefe | Onde | O gate mecânico | Recompensa principal |
 |---|---|---|---|
@@ -50,9 +55,9 @@ agente: opus
 | [[lore/chefes/kullervo.md\|Kullervo]] | Kullervo's Hold, Duviri | Duelo como **Drifter**, com Decrees | [[recursos/open_worlds/duviri/kullervo_bane.md\|Kullervo's Bane]] |
 | [[lore/chefes/stalker.md\|Stalker]] | Qualquer missão (Death Mark) | **Imune a habilidades**; **PARE de atirar no Absorb** | Dread / Despair / Hate |
 
----
 
-## Por facção
+## Por facção — Chefes — Índice
+
 
 | Facção | Chefes |
 |---|---|
@@ -63,9 +68,9 @@ agente: opus
 | [[lore/faccoes/orokin.md\|Orokin / Corrupted]] | [[lore/chefes/corrupted_vor.md\|Corrupted Vor]] |
 | Void / outros | [[lore/chefes/void_angel.md\|Void Angel]] · [[lore/chefes/kullervo.md\|Kullervo]] · [[lore/chefes/stalker.md\|Stalker]] |
 
----
 
-## Os três padrões de gate
+## Os três padrões de gate — Chefes — Índice
+
 
 Entender esses três resolve quase todo chefe novo:
 
@@ -78,6 +83,3 @@ Entender esses três resolve quase todo chefe novo:
 Para escolher elemento contra cada um, ver [[lore/faccoes/_Faccoes _Indice.md|Facções — Índice]] e [[mecanicas/dano_e_status.md|Dano e Status]].
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Boss (consultado em 2026-10-04)

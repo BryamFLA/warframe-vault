@@ -1,10 +1,15 @@
 ---
 title: Pathos Clamp
+aliases: [Pathos Clamp]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+resumo: "Pathos Clamp — Recurso, farmado em Rewarded upon defeating the Orowyrm in Duviri."
+status: completo
+rag: true
 tags: [recurso, open_world]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Pathos_Clamp", "https://wiki.warframe.com/w/Module:Resources/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “The manifestation of Thrax's malevolence that shapes the Orowyrms' outbursts.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Pathos Clamp
+
 
 | Item | Valor |
 |---|---|
@@ -30,9 +35,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **Não** |
 | Introduzido no Update | **33** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Pathos Clamp
+
 
 **Locais que o próprio jogo lista:** Rewarded upon defeating the Orowyrm in Duviri
 
@@ -55,9 +60,9 @@ No vault: [[locais/open-worlds/duviri.md|Duviri]].
 > [!warning] Booster não funciona neste recurso
 > Os dados da wiki marcam este item como **não afetado** por Resource Booster nem por Resource Drop Chance Booster. Boosters e frames de loot **não aceleram** o farm dele.
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Pathos Clamp
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este recurso:
 
@@ -97,7 +102,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este recurso
 > Total de **54** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Pathos_Clamp — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)

@@ -1,11 +1,16 @@
 ---
 title: Rolling Guard
+aliases: [Rolling Guard]
 tipo: mod
 categoria: warframe
-polaridade: Vazarin
 raridade: raro
+polaridade: Vazarin
+resumo: "Rolling Guard — On Dodge: / Become invulnerable for 3s and remove all Status Effects. 7s cooldown."
+status: completo
+rag: true
 tags: [mod, warframe]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Rolling_Guard", "https://wiki.warframe.com/w/Module:Mods/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -17,9 +22,9 @@ agente: opus
 >
 > *Mantido em inglês:* a descrição tem texto corrido que uma tradução automática deturparia. O texto acima é o do jogo, literal.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Rolling Guard
+
 
 | Item | Valor |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 | Transmutável | **Não** |
 | Introduzido no Update | **23.10** |
 
----
 
-## 📈 Efeito por Rank
+## 📈 Efeito por Rank — Rolling Guard
+
 
 <!-- Valores copiados da seção Stats da página do mod na wiki. Nenhum valor interpolado. -->
 
@@ -56,9 +61,9 @@ agente: opus
 > [!note] A drenagem sobe 1 por rank
 > Regra do jogo, visível na própria tabela: a drenagem no rank R é **2 + R**.
 
----
 
-## 🏗️ Onde Obter
+## 🌍 Onde Conseguir — Rolling Guard
+
 
 | Fonte | Detalhe |
 |---|---|
@@ -71,9 +76,9 @@ agente: opus
 
 **Faixa de preço em platina:** ⚠️ **estimativa não fornecida.** Pela seção 8 das convenções, preço de platina é mercado flutuante e não é registrado aqui. Consulte warframe.market no momento da compra.
 
----
 
-## 🛠️ Uso
+## 🛠️ Como Usar — Rolling Guard
+
 
 **Vale a pena?** **Depende da build.** Mod **Rare** — a raridade mais disputada por slot. Vale conferir a tabela de drop acima antes de farmar, porque a chance costuma ser baixa.
 
@@ -87,7 +92,3 @@ O efeito concreto no rank máximo é **On Dodge: / Become invulnerable for 3s an
 Nenhum mod é registrado como **mutuamente exclusivo** com este nos dados da wiki. A concorrência é pelo **slot** e pela **capacidade**, não por bloqueio do jogo.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Rolling_Guard — efeito por rank, polaridade, drenagem, raridade e incompatibilidades (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Mods/data — ficha do mod: tipo, classe, comercializável, transmutável, update de introdução (consultado em 2026-10-06)

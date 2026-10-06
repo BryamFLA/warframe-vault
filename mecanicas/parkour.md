@@ -1,8 +1,13 @@
 ---
 title: Parkour (Maneuvers)
+aliases: [Parkour (Maneuvers), parkour]
 tipo: mecanica
+resumo: "Parkour (Maneuvers) — Sistema de movimentação do Warframe — Bullet Jump, Aim Glide, Wall Dash, Roll e combinações — que é mais rápido que correr e é a principal defesa do jogo, já que inimigo não acerta quem está em movimento."
+status: completo
+rag: true
 tags: [mecanica, parkour, movimento, bullet-jump, mobilidade]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Maneuvers"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Sistema de movimentação do Warframe — Bullet Jump, Aim Glide, Wall Dash, Roll e combinações — que é mais rápido que correr e é a principal defesa do jogo, já que inimigo não acerta quem está em movimento.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Parkour (Maneuvers)
+
 
 Correr (Sprint) é o jeito **mais lento** de atravessar um mapa em Warframe. O movimento real é uma cadeia: **Bullet Jump → Aim Glide / Double Jump → Roll → Bullet Jump de novo**. O Bullet Jump sai a **14,5 m/s** de velocidade inicial, contra ~1,0 de Sprint Speed base da maioria dos frames, e pode ser repetido indefinidamente desde que você toque o chão, uma parede ou faça Wall Latch entre um e outro.
 
@@ -22,9 +27,9 @@ A regra que organiza todo o sistema é o **reset de manobra**: Roll no ar, Doubl
 
 Parkour também é defesa. **Roll reduz todo o dano recebido em 75%** (ou dá invulnerabilidade com Rolling Guard) e dá imunidade a knockdown durante a animação; Aim Glide reduz a precisão do inimigo; Bullet Jump deixa você fora de linha de tiro. Em conteúdo de alto nível isso vale mais que armadura.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Parkour (Maneuvers)
+
 
 ```
 Bullet Jump: velocidade inicial = 14,5 m/s
@@ -66,9 +71,9 @@ Slam Jump (tech de comunidade): ~50 m/s
 - Na zipline **não é possível castar habilidade nem usar melee** — só andar, correr, deslizar e atirar.
 - **Nenhum dano de queda existe no jogo.** Hard Landing só trava o movimento por um instante.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Parkour (Maneuvers)
+
 
 ### As manobras e seus comandos
 
@@ -131,9 +136,9 @@ Slam Jump (tech de comunidade): ~50 m/s
 | **Movement Speed** | Velocidade de animação de manobras que **não** são sprint. Mods: Agile Aim, Dispatch Overdrive, Snap Shot, Spry Sights. Habilidades: Jet Stream, Escape Velocity, Razorwing Blitz, Infiltrate (agachado ou em zipline) |
 | **Mobility** | Stat **exclusivo do Conclave** (PvP): multiplicador de velocidade de Bullet Jump, slide e atrito de slide |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Parkour (Maneuvers)
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -155,9 +160,9 @@ Slam Jump (tech de comunidade): ~50 m/s
 
 **Frames que interagem:** [[warframes/regular/gauss.md|Gauss]] e [[warframes/primes/gauss_prime.md|Gauss Prime]] (1,4 e 1,5 de Sprint Speed, os mais rápidos), [[warframes/regular/volt.md|Volt]] (Speed é **multiplicativo** com outros buffs de velocidade), [[warframes/regular/titania.md|Titania]] (Razorwing e Razorwing Blitz), [[warframes/regular/wisp.md|Wisp]] (Breach Surge e mote de velocidade), [[warframes/regular/chroma.md|Chroma]] (passiva permite 2 Bullet Rolls seguidos), [[warframes/regular/mirage.md|Mirage]] (passiva aumenta Dodge Speed), [[warframes/regular/zephyr.md|Zephyr]] (controle aéreo), [[warframes/regular/nezha.md|Nezha]] (Fire Walker, subsumível), [[warframes/regular/yareli.md|Yareli]] (Merulina como veículo).
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Parkour (Maneuvers)
+
 
 - **"Sprint Speed e Parkour Velocity são a mesma coisa."** São stats separados. Rush não aumenta a distância do Bullet Jump; Mobilize não aumenta a velocidade de corrida.
 - **"Existe dano de queda."** Não existe. Cair de qualquer altura só gera Hard Landing — um travamento breve, zero dano.
@@ -169,9 +174,9 @@ Slam Jump (tech de comunidade): ~50 m/s
 - **"Bullet Jump pode ser feito depois de Double Jump."** Não. A ordem válida é Bullet Jump → Double Jump, nunca o contrário.
 - **"Slam Jump é oficial."** É terminologia de comunidade; a wiki marca a seção como não-oficial. O comportamento existe, o nome não é da Digital Extremes.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Parkour (Maneuvers)
+
 
 - [[mecanicas/stealth_e_finishers.md|Stealth e Finishers]] — Crouch reduz hitbox e ajuda stealth; Roll e Wall Latch posicionam para Finisher.
 - [[mecanicas/combo_counter.md|Combo Counter]] — Slide Attack e ataques aéreos alimentam o contador; Slam Cancel preserva momento entre slams.
@@ -183,6 +188,3 @@ Slam Jump (tech de comunidade): ~50 m/s
 - [[mecanicas/mastery_rank.md|Mastery Rank]] — os testes de MR 8 (Wall Dash), 10 e 13 (Disappearing Platform), 11 (Time Trial) e 12 (Carousel) são testes de parkour.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Maneuvers — lista completa de manobras e comandos, velocidade do Bullet Jump, dano e raio, durações de Aim Glide e Wall Latch, redução de dano do Roll, Hard Landing, zipline, Knockdown Recovery, técnicas avançadas, tabela de Sprint Speed por Warframe, os stats de mobilidade e suas fontes (consultado em 2026-10-04)

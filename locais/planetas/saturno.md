@@ -1,11 +1,14 @@
 ---
 title: Saturno
+aliases: [Saturno, Saturn]
 tipo: local
-status: nao-visitado
 faccao: Grineer
-tags:
-  - local
-atualizado: 2026-04-17
+resumo: Saturno — Anel planetário com fortalezas Grineer massivas.
+status: stub
+rag: false
+tags: [local]
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Saturno
@@ -13,25 +16,31 @@ atualizado: 2026-04-17
 > [!info] Visão Geral
 > Anel planetário com fortalezas Grineer massivas
 
-## Facção Principal
+## 🏴 Facção — Saturno — Saturno
+
+
 - Grineer
 - Inimigos: Lancers, Napalms, Bombards, Corrupted
 
-## Missões Disponíveis
+## 🗺️ Missões — Saturno — Saturno
+
+
 - Exterminate, Defense, Survival, Spy
 
-## Chefe
-- [[sargas_ruk|Sargas Ruk (Tethys)]] — recompensa: [[ember|Ember]] partes
+## 👑 Chefe — Saturno
 
-## Recursos Notáveis
+
+- [[lore/chefes/sargas_ruk.md|Sargas Ruk (Tethys)]] — recompensa: [[warframes/regular/ember.md|Ember]] partes
+
+## 💎 Recursos — Saturno — Saturno
+
+
 - Alloy Plate
 - Nano Spores
 - Orokin Cell
 
-## Minha Progressão
-- [ ] Planeta desbloqueado
-- [ ] Chefe derrotado
+## 🔗 Relacionados — Saturno
 
-## Conexões
-- Chefe: [[sargas_ruk|Sargas Ruk]]
+
+- Chefe: [[lore/chefes/sargas_ruk.md|Sargas Ruk]]
 - Recursos: [[recursos/]]

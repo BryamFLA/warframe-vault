@@ -1,11 +1,14 @@
 ---
 title: Vênus
+aliases: [Vênus, Venus]
 tipo: local
-status: nao-visitado
 faccao: Corpus
-tags:
-  - local
-atualizado: 2026-04-17
+resumo: Vênus — Planeta Corpus com ambientes frios e interiores corporativos.
+status: stub
+rag: false
+tags: [local]
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Vênus
@@ -13,25 +16,31 @@ atualizado: 2026-04-17
 > [!info] Visão Geral
 > Planeta Corpus com ambientes frios e interiores corporativos
 
-## Facção Principal
+## 🏴 Facção — Vênus — Vênus
+
+
 - Corpus
 - Inimigos: Crewmen, MOAs, Ospreys
 
-## Missões Disponíveis
+## 🗺️ Missões — Vênus — Vênus
+
+
 - Exterminate, Capture, Spy, Defense
 
-## Chefe
-- [[jackal|Jackal (Fossa)]] — recompensa: [[rhino|Rhino]] partes
+## 👑 Chefe — Vênus
 
-## Recursos Notáveis
+
+- [[lore/chefes/jackal.md|Jackal (Fossa)]] — recompensa: [[warframes/regular/rhino.md|Rhino]] partes
+
+## 💎 Recursos — Vênus — Vênus
+
+
 - Polymer Bundle
 - Circuits
 - Rubedo
 
-## Minha Progressão
-- [ ] Planeta desbloqueado
-- [ ] Chefe derrotado
+## 🔗 Relacionados — Vênus
 
-## Conexões
-- Chefe: [[jackal|Jackal]]
-- Open World: [[locais/open-worlds/fortuna|Orbe Vallis (Fortuna)]]
+
+- Chefe: [[lore/chefes/jackal.md|Jackal]]
+- Open World: [[locais/open-worlds/fortuna.md|Orbe Vallis (Fortuna)]]

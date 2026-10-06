@@ -1,9 +1,16 @@
 ---
 title: Voca Hound
-tipo: hound
-tags:
-  - companheiro
-  - hound
-status: nao-obtido
-atualizado: 2026-04-19
+aliases: [Voca Hound, voca]
+tipo: companheiro
+subtipo: hound
+resumo: Voca Hound — conteúdo ainda não preenchido no vault.
+status: stub
+rag: false
+tags: [companheiro, hound]
+atualizado: 2026-10-07
+agente: opus
 ---
+
+# Voca Hound
+
+

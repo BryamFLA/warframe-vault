@@ -1,35 +1,40 @@
 ---
 title: Ash Prime
+aliases: [Ash Prime]
 tipo: warframe
-archetype: [furtividade, assassino, dps]
+resumo: "Ash Prime é a variante ancestral e militarmente otimizada do chassi warframes/ash.md|Ash original, manufaturada durante o ápice do lore/faccoes/orokin.md|Império Orokin."
+status: completo
+rag: true
 tags: [warframe, sangramento]
-estado:
-  forjado: false
-  rank_max: false
-  polarizacoes: 0
-  reator_instalado: false
-  subsuncao_helminte_cedida: false
-sindicato_augment: ['[[lore/faccoes/sindicatos/veu_vermelho.md|Véu Vermelho]]', '[[lore/faccoes/sindicatos/arbitros_de_hexis.md|Árbitros de Hexis]]']
-atualizado: 2026-04-18
+atualizado: 2026-10-07
+agente: opus
+archetype: [furtividade, assassino, dps]
+sindicato_augment: ["[[lore/faccoes/sindicatos/veu_vermelho.md|Véu Vermelho]]", "[[lore/faccoes/sindicatos/arbitros_de_hexis.md|Árbitros de Hexis]]"]
 ---
+
+# Ash Prime
 
 > *"Especialista na arte militar da distração e subterfúgio, Ash Prime ataca não visto, mas deixa para trás um rastro de letalidade inconfundível. Uma relíquia letal e aprimorada de uma era distante."* — **Códice, Warframe.com**
 
-## 📖 História e Códice
+## 📖 História e Códice — Ash Prime
+
 
 Ash Prime é a variante ancestral e militarmente otimizada do chassi [[warframes/ash.md|Ash]] original, manufaturada durante o ápice do [[lore/faccoes/orokin.md|Império Orokin]]. Operava como o carrasco e a lâmina silenciosa dos Executores, empregado taticamente para fins de eliminação de alvos de alto valor e desestabilização de frentes sem ativar protocolos de alerta limitantes.
 
-## 🎮 Visão Geral e Gameplay
+## 🎮 Visão Geral e Gameplay — Ash Prime
+
 
 O núcleo tático deste Warframe repousa no dano focado contínuo e imunidade tática através de furtividade ativa. Ash Prime anula alvos singulares extremamente blindados em conteúdos de alto nível (como o [[sistemas/caminho_de_aco.md|Caminho de Aço]]) ignorando a camada física defensiva via status inato de Sangramento (Corte). Exige precisão e controle operante de energia, priorizando extermínios rápidos e isolamento de ameaças sistêmicas no campo de batalha em abordagens majoritariamente solo.
 
-## 💡 Curiosidades (Trivia)
+## 💡 Curiosidades (Trivia) — Ash Prime
+
 
 Possui o design do capacete com inspiração militar restrita voltada no tradicional "Kabuto" dos samurais japoneses originais.
 
 Apresenta caligrafia Orokin gráfica nativa em seu chassi equivalente à identificação serial: *"Tenno Model 24N - Serial 147H"*.
 
-## 🔮 Habilidades
+## 🔮 Habilidades — Ash Prime
+
 
 *   **Passiva (Hemorragia):** Efeitos de status Cortante (*Slash*) infligidos de qualquer fonte originada por Ash recebem **25% de Dano Adicional** e um **incremento de 50% em sua duração base**.
 
@@ -41,7 +46,8 @@ Apresenta caligrafia Orokin gráfica nativa em seu chassi equivalente à identif
 
 *   **4. Blade Storm (12 Energia por Marcação):** Invoca hologramas sombrios de clones operantes que escalam independente do estado atual do chassi mestre para varredura de área. Marca alvos múltiplos na visão. A execução ignora inteiramente e de forma absoluta defesas de armaduras pesadas aplicando dano de Sangramento real puro.
 
-## 🏗️ Aquisição e Fundição
+## 🏗️ Como Construir — Ash Prime
+
 
 O plano Prime exige obtenção exclusiva de diagramas por partições de Relíquias abertas no [[sistemas/prime_vault.md|Cofre Primordial]] (Prime Vault) ou Resgate fixo por Ayas via [[sistemas/ressurgencia_prime.md|Ressurgência Prime]]. O projeto central é manufaturado em etapas parciais físicas.
 
@@ -57,9 +63,10 @@ O plano Prime exige obtenção exclusiva de diagramas por partições de Relíqu
 #### Vias Alternativas de Obtenção:
 
 * **Comércio entre Jogadores (Trade):** Ao invés de abrir relíquias, o jogador pode comercializar os Diagramas do Chassi, Sistemas, Neurovisor ou Diagrama Principal listados no Mercado de Troca com outros Tennos em troca de [[recursos/platina.md|Platina]].
-* **[[sistemas/ressurgencia_prime.md|Ressurgência Prime]]:** A aquisição fora da janela convencional acontece por meio da lojista [[varzia|Varzia]] em [[locais/maroos_bazaar.md|Maroo's Bazaar]]. É possível trocar Ayas Regulares para obter as Relíquias trancadas do Cofre, ou adquirir de forma imediata o quadro completo finalizado utilizando Ayas Régias monetizadas (O quadro neste caso já vem acompanhado de um Slot Livrado e um [[sistemas/reator_orokin.md|Reator Orokin]] pré-instalados).
+* **[[sistemas/ressurgencia_prime.md|Ressurgência Prime]]:** A aquisição fora da janela convencional acontece por meio da lojista Varzia em [[locais/maroos_bazaar.md|Maroo's Bazaar]]. É possível trocar Ayas Regulares para obter as Relíquias trancadas do Cofre, ou adquirir de forma imediata o quadro completo finalizado utilizando Ayas Régias monetizadas (O quadro neste caso já vem acompanhado de um Slot Livrado e um [[sistemas/reator_orokin.md|Reator Orokin]] pré-instalados).
 
-## 📊 Estatísticas Matemáticas e Sobrevivência (Rank 0 -> 30)
+## 📊 Estatísticas Matemáticas e Sobrevivência (Rank 0 -> 30) — Ash Prime
+
 
 | Atributo Oficial | Status Base (Rank 0) | Evolução Máxima (Rank 30) |
 |------------------|----------------------|---------------------------|
@@ -72,7 +79,8 @@ O plano Prime exige obtenção exclusiva de diagramas por partições de Relíqu
 > **Polaridades Inatas Ocultas:** Naramon (Traço -), 2x Madurai (Traço V)
 > **Slot de Aura Inata:** Madurai (Traço V)
 
-## 🛠️ Guia Builds e Maximização
+## 🛠️ Build — Ash Prime
+
 
 Os guias avançados centralizam no uso da mecânica do Warframe atrelada à invisibilidade defensiva enquanto priorizam melhorias ofensivas em Dano Verdadeiro. O end-game prescinde normalmente de mods massivos de resiliência e saúde crua. O viés ideal exige o aumento contínuo no status de Força (Strength) somado à estabilidade contínua entre as pausas automáticas das mecânicas ativas de execuções.
 
@@ -84,12 +92,14 @@ Os guias avançados centralizam no uso da mecânica do Warframe atrelada à invi
 | **[[mods/fatal_teleport.md\|Fatal Teleport]]** | Mod de Ampliação | Aprimoramento da Habilidade 3. Adiciona multiplicador automático de +200% de dano finalizador puro. | Origina-se do *[[lore/faccoes/sindicatos/veu_vermelho.md\|Véu Vermelho]]* ou *[[lore/faccoes/sindicatos/arbitros_de_hexis.md\|Árbitros de Hexis]]*. |
 | **[[mods/transient_fortitude.md\|Transient Fortitude]]** | Mod Corrompido | Intensifica significativamente a Força de Habilidade bruta com sacrifício tático associado na duração. | Cofres Estelares ([[locais/deimos.md\|Deimos]] Vaults). |
 
-## 🧬 Subsunção e Acoplagem do Helminte
+## 🧬 Subsunção e Acoplagem do Helminte — Ash Prime
+
 
 **Poder Cedido Base (Doação [[sistemas/helminte.md|Helminte]]):** **Shuriken**. Ao interagir no sacrifício, Ash Prime cede nativamente em doação permanente esta habilidade. 
 Ao otimizar o próprio chassi no recebimento modular, este exemplar apresenta máxima eficiência absorvendo a injeção mecânica do **Silence** (da [[warframes/banshee.md|Banshee]]) encaixável rotacionalmente, acoplada para ativar multiplicadores de danos atordoando inimigos e protegendo os Clones do *Blade Storm*.
 
-## 🔗 Terrenos de Atuação, Sinergia e Lâminas Reais
+## 🔗 Terrenos de Atuação, Sinergia e Lâminas Reais — Ash Prime
+
 
 #### 📍 Compatibilidade de Modalidades de Guerra:
 
@@ -104,7 +114,9 @@ Ao otimizar o próprio chassi no recebimento modular, este exemplar apresenta m�
 #### ⚔️ Conexões Canônicas com O Arsenal Furtivo:
 
 O design militarizado purista do Ash Prime ratifica e invoca a progressão letal no combate focado em lâminas ancestrais cortantes, especialmente o trançado passivo de golpes de **[[armas/nikana.md|Nikanas]]** ou a aplicação cirúrgica de uso de **[[armas/adagas.md|Adagas]]** operando combinadas com o Mod Assassino nato de "[[mods/covert_lethality.md|Covert Lethality]]". No folclore do Lançamento do Cofre Prime, Ash Prime foi visualmente apresentado de forma canônica atrelado ao rifle sniper **[[armas/vectis_prime.md|Vectis Prime]]** e em suporte tático robótico com o sentinela utilitária **[[companheiros/carrier_prime.md|Carrier Prime]]**, cristalizando assim o estilo militar estrito e autônomo (não necessitando de drops de munição no terreno e atirando oculto na fumaça).
-## 🎨 Apresentação e Estilização (Fashion Frame)
+
+## 🎨 Apresentação e Estilização (Fashion Frame) — Ash Prime
+
 
 O rigor base do chassi Ash Prime compele a arquétipos letais sombrios em fardamentos militarizados restritos, favorecendo intensamente a utilização elementar de paletas monocromáticas.
 

@@ -1,10 +1,15 @@
 ---
 title: Voidplume Pinion
+aliases: [Voidplume Pinion]
 tipo: recurso
 raridade: raro
 origem: open-world
+resumo: "Voidplume Pinion — Recurso raro, farmado em Zariman, 1 por drop."
+status: completo
+rag: true
 tags: [recurso, open_world]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Voidplume_Pinion", "https://wiki.warframe.com/w/Module:Resources/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “A Void Angel's living feather, ripped out in combat.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Voidplume Pinion
+
 
 | Item | Valor |
 |---|---|
@@ -31,9 +36,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **⚠️ NÃO VERIFICADO** |
 | Introduzido no Update | **31.5** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Voidplume Pinion
+
 
 **Locais que o próprio jogo lista:** Zariman
 
@@ -53,9 +58,9 @@ No vault: [[locais/planetas/zariman.md|Zariman]].
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Voidplume Pinion
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este recurso:
 
@@ -75,7 +80,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este recurso
 > Total de **10** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Voidplume_Pinion — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)

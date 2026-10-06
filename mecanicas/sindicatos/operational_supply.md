@@ -1,8 +1,13 @@
 ---
 title: Operational Supply
+aliases: [Operational Supply]
 tipo: mecanica
+resumo: "Operational Supply — Sindicato exclusivo de evento, ativo somente durante a Operation: Plague Star, administrado pela Nakak em Cetus; só 3 ranks, e a única fonte dos Zaws Plague, do Ghoulsaw e dos arcanes Exodia Contagion e Exodia Epidemic."
+status: completo
+rag: true
 tags: [mecanica, sindicato, operational-supply, plague-star, evento, nakak]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Operational_Supply"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Sindicato **exclusivo de evento**, ativo somente durante a **Operation: Plague Star**, administrado pela Nakak em Cetus; só **3 ranks**, e a única fonte dos Zaws Plague, do Ghoulsaw e dos arcanes **Exodia Contagion** e **Exodia Epidemic**.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Operational Supply
+
 
 A **Operational Supply** representa a infraestrutura de apoio e logística que assiste os Tenno numa operação ativa. Ela é **administrada pela Nakak**, em Cetus, e **só existe enquanto a [[mecanicas/eventos/plague_star.md\|Operation: Plague Star]] está no ar**.
 
@@ -23,9 +28,9 @@ Diferente dos sindicatos tradicionais, a Operational Supply **não está ligada 
 > [!important] A estrutura de preço é dupla
 > Aqui **todo item custa Standing E Credits ao mesmo tempo** — como o [[mecanicas/baro_ki_teer.md\|Baro Ki'Teer]] faz com Ducats e Credits. Os valores de Standing são muito menores que os de outros sindicatos (centenas, não dezenas de milhares), porque o Standing do evento é ganho em volume pelas Bounties de Plague Star.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Operational Supply
+
 
 ```
 Apenas 3 ranks (Collaborator, Defender, Champion)
@@ -49,9 +54,9 @@ Todo item custa Standing + Credits simultaneamente
 - Sendo um sindicato **de evento**, **tudo fica inacessível** quando a Plague Star sai do ar. Planeje as compras durante o evento.
 - O teto de **494.000** no Rank 3 é o maior de qualquer sindicato do jogo — reflete que o evento é uma corrida curta de acúmulo, não um grind de longo prazo.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Operational Supply
+
 
 ### Ranks e sacrifícios
 
@@ -106,9 +111,9 @@ Todo item custa Standing + Credits simultaneamente
 | Protosomid Shoulder Guard | 3.000 + 5.000 |
 | Aspirus Apex Ephemera | 5.000 + 10.000 |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Operational Supply
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -121,9 +126,9 @@ Todo item custa Standing + Credits simultaneamente
 | Não perder o evento | **Tudo isso desaparece quando a Plague Star acaba.** Suba aos 3 ranks e compre o que é exclusivo antes de gastar em recurso |
 | Subir os 3 ranks | Sacrifícios baratos: 10 Grokdrul, 10 Iradite, 10 Nistlepod — todos recursos comuns das Plains of Eidolon |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Operational Supply
+
 
 - **"Está sempre disponível."** **Não.** É sindicato **de evento**: existe só enquanto a Operation: Plague Star estiver no ar.
 - **"Exodia Contagion vem do Hok."** O Hok vende as **6 Exodia comuns**. **Contagion e Epidemic são Legendary** e vêm **daqui**.
@@ -133,9 +138,9 @@ Todo item custa Standing + Credits simultaneamente
 - **"Peças Plague de Zaw aparecem no Hok depois."** Não. São exclusivas da Operational Supply.
 - **"Subir aqui derruba algum sindicato."** Não está ligada a nenhuma facção nem pessoa.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Operational Supply
+
 
 - [[mecanicas/eventos/plague_star.md|Plague Star]] — o evento que liga e desliga este sindicato.
 - [[mecanicas/eventos/_Eventos _Indice.md|Eventos]] — a visão geral dos eventos recorrentes.
@@ -149,6 +154,3 @@ Todo item custa Standing + Credits simultaneamente
 - [[armas/primarias/snipetron.md|Snipetron]] e [[armas/brancas/ether_daggers.md|Ether Daggers]] — armas antigas cujo blueprint reaparece aqui.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Operational_Supply — natureza de sindicato exclusivo de evento administrado pela Nakak, independência de facção, tabela dos 3 ranks com sacrifício, benefício e faixa de Standing (incluindo o teto de 494.000 no Rank 3), lista completa de ofertas por rank com preço em Standing e Credits (consultado em 2026-10-04)

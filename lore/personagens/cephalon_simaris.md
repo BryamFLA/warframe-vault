@@ -1,9 +1,14 @@
 ---
 title: Cephalon Simaris
+aliases: [Cephalon Simaris]
 tipo: lore
 subtipo: personagem
+resumo: "O Cephalon-arquivista obcecado por preservar conhecimento: Synthesis é o propósito primário dele, e o Sanctuary é o único enclave de sindicato que também abriga o Simulacrum e os testes de Mastery Rank."
+status: completo
+rag: true
 tags: [lore, personagem, cephalon, sindicato]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Cephalon_Simaris"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O Cephalon-arquivista obcecado por preservar conhecimento: Synthesis é o propósito primário dele, e o Sanctuary é o único enclave de sindicato que também abriga o Simulacrum e os testes de Mastery Rank.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Cephalon Simaris
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Ativo. Coleta Synthesis continuamente |
 | Mecânica | Ver [[mecanicas/sindicatos/cephalon_simaris.md\|Cephalon Simaris (sindicato)]] para Standing, ofertas e Synthesis Targets |
 
----
 
-## 📖 História
+## 📖 História — Cephalon Simaris
+
 
 Cephalon Simaris é um **arquivista**: o propósito e o interesse primários dele como Cephalon é a **Synthesis** — o processo de analisar objetos físicos e contribuir os dados ao **Sanctuary**, usando **Synthesis Scanners**. O objetivo declarado é **popular o Sanctuary com conhecimento** e, no caminho, **recompensar o Tenno com a lore do universo de Warframe que foi perdida com o tempo**.
 
@@ -44,9 +49,9 @@ O **Sanctuary** é o enclave dele nas Relays e, comparado aos outros enclaves de
 > [!info] Por que o Simulacrum importa
 > O Simulacrum é a única forma de **testar dano contra um tipo específico de inimigo e nível** sem rodar missão. Para quem monta build com base nas matrizes de [[mecanicas/dano_e_status.md|Dano e Status]], é a bancada de testes do jogo — e está no enclave do Simaris.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Cephalon Simaris
+
 
 - **[[lore/faccoes/tenno.md|Tenno]]** — os coletores de campo dele; ele paga Standing por Synthesis.
 - **[[lore/faccoes/orokin.md|Orokin]]** — a origem do ideal de catalogar tudo, e provavelmente dele próprio (Cephalons são humanos "glassados").
@@ -55,9 +60,9 @@ O **Sanctuary** é o enclave dele nas Relays e, comparado aos outros enclaves de
 - **[[lore/faccoes/sentient.md|Sentient]]** — Simaris conseguiu criar **cópias artificiais de Eidolon Shards**, embora muito menos potentes que as reais.
 - **[[mecanicas/mastery_rank.md|Mastery Rank]]** — os testes praticáveis ficam no Sanctuary dele.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Cephalon Simaris
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -68,6 +73,3 @@ O **Sanctuary** é o enclave dele nas Relays e, comparado aos outros enclaves de
 | Synthesis | A fonte de boa parte da lore registrada no Codex |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Cephalon_Simaris (consultado em 2026-10-04)

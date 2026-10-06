@@ -1,8 +1,13 @@
 ---
 title: Tennobaum
+aliases: [Tennobaum]
 tipo: mecanica
+resumo: "Tennobaum — Evento anual de inverno do Warframe: o jogo libera cosméticos de solstício e, desde 2016, gira em torno de jogadores presentearem outros jogadores pelo Market — com metas coletivas que viram doação real da Digital Extremes."
+status: completo
+rag: true
 tags: [mecanica, evento, tennobaum, inverno, solstice, presente, caridade]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Tennobaum", "https://wiki.warframe.com/w/Conclave"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Evento anual de inverno do Warframe: o jogo libera cosméticos de solstício e, desde 2016, gira em torno de **jogadores presentearem outros jogadores** pelo Market — com metas coletivas que viram **doação real** da Digital Extremes.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Tennobaum
+
 
 O inverno é celebrado no Warframe **desde o Closed Beta**. Como evento anual, ele traz muito conteúdo cosmético: customizações baseadas no Natal tradicional e no **solstício de inverno**.
 
@@ -23,9 +28,9 @@ O inverno é celebrado no Warframe **desde o Closed Beta**. Como evento anual, e
 > [!important] O Tennobaum tem meta de caridade real
 > Em 2025, o Tennobaum arrecadou para a **Big Brothers Big Sisters of London and Area**, um serviço canadense que constrói senso de comunidade e autoestima em crianças, pareando-as com um adulto voluntário como mentor. A meta: se **100.000 itens** fossem presenteados no jogo no período, a **Digital Extremes doaria US$ 60.000 (CAD)**. **Recompensas são destravadas para todos os jogadores conforme as metas são batidas.**
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Tennobaum
+
 
 ```
 Meta de caridade do Tennobaum 2025:
@@ -55,9 +60,9 @@ Decoração de Dojo: custo multiplicado pelo CLAN TIER (x1 / x3 / x10 / x30 / x1
 - Decorações de Dojo do evento têm custo **multiplicado pelo Clan Tier**. Ver [[mecanicas/cla_e_dojo.md\|Clã e Dojo]].
 - A **Ki'Teer Solstice Syandana** é a exceção que **não** é comprada no Market: é item do **[[mecanicas/baro_ki_teer.md\|Baro Ki'Teer]]**, custando Ducats + Credits.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Tennobaum
+
 
 ### Itens por 1 Credit (praticamente grátis)
 
@@ -127,9 +132,9 @@ Todas levam **24 horas** de construção e consomem **3 de Decoration Capacity**
 | **Ornaments** (decoração de Orbiter) | Relic · Endo · Glaive · Domestik Drone · Festive Domestik · Festive Endosphere · Festive Cychel · Festive Relic |
 | **Outras decorações** | Dashing Through the Vallis Display · Frost Snowday Noggle |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Tennobaum
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -141,9 +146,9 @@ Todas levam **24 horas** de construção e consomem **3 de Decoration Capacity**
 | Jogar o Snowday Showdown | A variante de inverno do **Team Annihilation** no [[mecanicas/sindicatos/conclave.md\|Conclave]]: Solstice Spheres (bola de neve, 50 de dano) e Solstice Scythe (50 de dano), ambos com **Cold** que lentifica por 1 s. **Sem passiva, habilidade nem mod** |
 | Planejar o Platinum | Skins de Warframe custam **40 pl**, armaduras **100 pl**. Os pacotes de Prime Access costumam dar Platinum mais barato por real — ver [[mecanicas/platinum.md\|Platinum]] |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Tennobaum
+
 
 - **"Preciso presentear para ganhar as recompensas."** As recompensas de **meta coletiva** vão para **todos**. Presentear ajuda a bater a meta (e a doação real), não é condição para receber.
 - **"Tudo custa Platinum."** Vários itens custam **1 Credit**, e as decorações de Dojo custam **recursos**.
@@ -152,9 +157,9 @@ Todas levam **24 horas** de construção e consomem **3 de Decoration Capacity**
 - **"O Tennobaum sempre existiu com esse nome."** O inverno é celebrado desde o Closed Beta, mas o **nome Tennobaum** e o foco em presentear começaram em **2016**.
 - **"A meta é só marketing."** Em 2025 ela estava atrelada a uma doação real de **US$ 60.000 (CAD)** à Big Brothers Big Sisters of London and Area.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Tennobaum
+
 
 - [[mecanicas/eventos/_Eventos _Indice.md|Eventos]] — o calendário anual; o Tennobaum é o de dezembro, o [[mecanicas/eventos/nights_of_naberus.md|Naberus]] o de outubro.
 - [[mecanicas/platinum.md|Platinum]] — a moeda principal do evento, e o mecanismo de presentear pelo Market.
@@ -167,7 +172,3 @@ Todas levam **24 horas** de construção e consomem **3 de Decoration Capacity**
 - [[warframes/regular/frost.md|Frost]], [[warframes/regular/mirage.md|Mirage]], [[warframes/regular/titania.md|Titania]] — os frames com skin exclusiva do evento.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Tennobaum — história do evento desde o Closed Beta e a adoção do nome Tennobaum em 2016, foco em presentear pelo Market, meta de caridade de 2025 (100.000 itens presenteados → US$ 60.000 CAD para a Big Brothers Big Sisters of London and Area) e destrave de recompensas por metas, lista completa de recompensas com preços em Credits, Platinum e Ducats, tabela de custo das decorações de Dojo por Clan Tier, listas de Glyphs, Sigils e Ornaments (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Conclave — o Snowday Showdown como variante de inverno do Team Annihilation, com Solstice Spheres e Solstice Scythe (consultado em 2026-10-04)

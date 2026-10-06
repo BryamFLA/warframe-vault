@@ -1,9 +1,14 @@
 ---
 title: A Man of Few Words
+aliases: [A Man of Few Words]
 tipo: missao
 subtipo: jornada
+resumo: "A quest do Clem: Darvo pede ao Tenno que resgate um \"contratado\" dele — um Grineer que só diz \"Clem\" e que vira o companheiro mais querido do jogo."
+status: completo
+rag: true
 tags: [missao, jornada, secundaria]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/A_Man_of_Few_Words"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > A quest do Clem: Darvo pede ao Tenno que resgate um "contratado" dele — um Grineer que só diz "Clem" e que vira o companheiro mais querido do jogo.
 
----
 
-## 📖 Narrativa e Pré-requisitos
+## 📖 Narrativa e Pré-requisitos — A Man of Few Words
+
 
 | Item | Detalhe |
 |---|---|
@@ -32,9 +37,9 @@ O contratado é **Clem**, um Grineer que **só consegue dizer a própria palavra
 
 Darvo, por sua vez, é o mercador que **expôs a identidade de [[lore/personagens/baro_kiteer.md|Baro Ki'Teer]]** por despeito depois de ter a garganta inchada ao provar uma medusa marciana que Baro vendia como delicadeza.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — A Man of Few Words
+
 
 | Recompensa | Nota |
 |---|---|
@@ -42,17 +47,17 @@ Darvo, por sua vez, é o mercador que **expôs a identidade de [[lore/personagen
 | **Clem Clone Blueprint** | Specter de Clem, invocável em missão |
 | **Help Clem** desbloqueado | Missão **semanal** com Clem |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — A Man of Few Words
+
 
 - A missão semanal **Help Clem** é uma Survival de 5 minutos com o Specter dele — rápida e com recompensas próprias. Faça toda semana.
 - O **Clem Specter** é útil de verdade: ele vem com **Twin Grakatas** e dano respeitável, e serve como aliado em missões solo difíceis.
 - O **Exilus Adapter** é um item caro de obter por outras vias; receber um de graça aqui vale o tempo da quest.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — A Man of Few Words
+
 
 - **Darvo** — o mercador que dá a quest; aparece em várias outras histórias.
 - **[[lore/personagens/baro_kiteer.md|Baro Ki'Teer]]** — o rival de Darvo, exposto por ele.
@@ -61,6 +66,3 @@ Darvo, por sua vez, é o mercador que **expôs a identidade de [[lore/personagen
 - **[[locais/planetas/urano.md|Urano]]** — onde o resgate acontece.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/A_Man_of_Few_Words (consultado em 2026-10-04)

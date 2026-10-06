@@ -1,9 +1,14 @@
 ---
 title: Eidolon Teralyst
+aliases: [Eidolon Teralyst]
 tipo: lore
 subtipo: chefe
+resumo: "O primeiro dos três Eidolons das Plains of Eidolon: um Sentient antigo e fragmentado, procurando os irmãos perdidos para se tornar inteiro — e o único cujo escudo só cai com dano Void do Operator."
+status: completo
+rag: true
 tags: [lore, chefe, sentient, eidolon]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Eidolon_Teralyst", "https://wiki.warframe.com/w/Damage_2.0/Sentient_Tab"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O primeiro dos três Eidolons das Plains of Eidolon: um Sentient antigo e fragmentado, procurando os irmãos perdidos para se tornar inteiro — e o único cujo escudo só cai com dano Void do Operator.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Eidolon Teralyst
+
 
 | Item | Valor |
 |---|---|
@@ -26,9 +31,9 @@ agente: opus
 | Dublagem | Sem fala (grito Sentient) |
 | Codex | "An ancient Eidolon, searching for its lost brethren. Trying to make itself whole." |
 
----
 
-## 📖 História
+## 📖 História — Eidolon Teralyst
+
 
 Os Eidolons não são Sentients inteiros: são **pedaços de um Sentient morto muito maior**, visível ao longe no horizonte oeste das Plains. Essa é a razão de a aparência deles ser estilhaçada e fraturada, com massas de tentáculos fantasmagóricos ocupando os cotos dos membros — e é a razão de o Teralyst "procurar os irmãos perdidos, tentando se tornar inteiro".
 
@@ -36,9 +41,9 @@ Eles existem por causa da [[lore/cronologia/antiga_guerra.md|Antiga Guerra]]. Qu
 
 Quem lucra com isso são os [[mecanicas/sindicatos/the_quills.md|Quills]]: a Unum, que testemunhou a batalha final de [[warframes/regular/gara.md|Gara]], e o sindicato recluso de [[lore/personagens/onkko.md|Onkko]] usam os recursos arrancados dos Eidolons para montar os Amps que canalizam Void. Os [[lore/faccoes/grineer.md|Grineer]] estacionados nos arredores de Cetus desenvolveram contenção rudimentar de energia Sentient justamente para afastar os Eidolons menores à noite, e ainda assim posicionam acampamentos longe do caminho dos grandes.
 
----
 
-## ⚔️ Combate
+## ⚔️ Combate — Eidolon Teralyst
+
 
 | Item | Detalhe |
 |---|---|
@@ -120,9 +125,9 @@ O **Voidrig Necramech** causa dano enorme nos pontos vulneráveis via **Arquebex
 > [!info] Xaku não funciona aqui
 > As habilidades da [[warframes/regular/xaku.md|Xaku]], apesar de causarem dano Void, **não afetam** o escudo do Eidolon Teralyst.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Eidolon Teralyst
+
 
 - **[[lore/chefes/eidolon_gantulyst.md|Eidolon Gantulyst]]** — o segundo da cadeia. **Capturar o Teralyst é obrigatório** para invocá-lo: é a única fonte do Brilliant Eidolon Shard necessário.
 - **[[lore/chefes/eidolon_hydrolyst.md|Eidolon Hydrolyst]]** — o terceiro, invocado após capturar o Gantulyst.
@@ -132,9 +137,9 @@ O **Voidrig Necramech** causa dano enorme nos pontos vulneráveis via **Arquebex
 - **[[warframes/regular/gara.md|Gara]]** — a Warframe cuja batalha final nas Plains a Unum testemunhou.
 - **[[lore/personagens/hunhow.md|Hunhow]]** — o Sentient-pai, que se reproduz por fragmentação, exatamente o mecanismo que gera Eidolons.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Eidolon Teralyst
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -144,7 +149,3 @@ O **Voidrig Necramech** causa dano enorme nos pontos vulneráveis via **Arquebex
 | Amps | Os recursos dele alimentam a construção de Amps de Operator |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Eidolon_Teralyst (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Sentient_Tab (consultado em 2026-10-04)

@@ -1,9 +1,14 @@
 ---
 title: The Steel Path
+aliases: [The Steel Path, steel path]
 tipo: missao
 subtipo: tipo
+resumo: "The Steel Path — Não é um tipo de missão: é um modo alternativo do Star Chart inteiro, que sobe todo inimigo em +100 níveis e dá +150% de vida e escudo (total de 250%, ou 2,5x)."
+status: completo
+rag: true
 tags: [missao, tipo, endgame]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/The_Steel_Path"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Não é um tipo de missão: é um **modo alternativo do Star Chart inteiro**, que sobe todo inimigo em **+100 níveis** e dá **+150% de vida e escudo** (total de 250%, ou 2,5x). Vista aqui pelo ângulo de "o que muda na missão"; o sistema completo está em **[[mecanicas/steel_path.md|Steel Path (mecânica)]]**.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — The Steel Path
+
 
 | Item | Detalhe |
 |---|---|
@@ -38,9 +43,9 @@ agente: opus
 
 Desbloqueado, o modo aparece como um **toggle no lado direito da tela do Star Chart**.
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — The Steel Path
+
 
 1. **Você re-desbloqueia o Star Chart do zero**, começando em **E Prime, [[locais/planetas/terra.md|Terra]]**, como se a conta fosse nova.
    - **Já liberados de imediato:** **Dakata** ([[locais/planetas/kuva_fortress.md|Kuva Fortress]]), os Assassinations individuais de **Jordas Golem** e **Mutalist Alad V** em Eris, e as **Bounties**.
@@ -75,17 +80,17 @@ Desbloqueado, o modo aparece como um **toggle no lado direito da tela do Star Ch
 
 **Rotações de recompensa:** a do tipo de missão de base, **sem alteração de rotação**. O que o Steel Path adiciona é o drop de **Steel Essence** e o acesso à loja do Teshin.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — The Steel Path
+
 
 **Em todo o Star Chart.** O Steel Path é um **toggle**, não um nó — está disponível em todos os planetas, Dark Sectors, Junções, Mission Locators e Duviri, uma vez desbloqueado com o Teshin.
 
 **Melhor nó para farmar:** as **6 Incursions diárias** são sempre a primeira parada, porque entregam **5 Steel Essence garantidos cada** (30/dia) sem depender de drop. Depois disso, o farm padrão de Steel Essence é um nó endless de alta densidade de inimigo com **[[warframes/regular/nekros.md|Nekros]]** no squad.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — The Steel Path
+
 
 | Recompensa | Origem | Nota |
 |---|---|---|
@@ -100,9 +105,9 @@ Desbloqueado, o modo aparece como um **toggle no lado direito da tela do Star Ch
 > [!warning] Catálogo do Teshin não replicado aqui
 > O catálogo Evergreen e a oferta semanal mudam, e os preços em Steel Essence não foram conferidos nesta sessão. Pela seção 8 das convenções **não listo preço de memória** — ver https://wiki.warframe.com/w/The_Steel_Path.
 
----
 
-## 💡 Dicas
+## 💡 Dicas — The Steel Path
+
 
 - **Faça as 6 Incursions diárias antes de qualquer outra coisa.** São **30 Steel Essence garantidos por dia**, sem drop e sem booster. É o retorno mais previsível do modo.
 - **Incursion desbloqueia nó travado.** Se você está abrindo o Star Chart do Steel Path, uma Incursion caída num nó que você ainda não alcançou **o desbloqueia de graça** — vale checar o painel antes de grindar a progressão linear.
@@ -113,6 +118,3 @@ Desbloqueado, o modo aparece como um **toggle no lado direito da tela do Star Ch
 - **Para o sistema completo** — Steel Essence, Acolytes, loja do Teshin, The Circuit — ver **[[mecanicas/steel_path.md|Steel Path (mecânica)]]**.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/The_Steel_Path — requisito de desbloqueio e exclusões, nós travados por jornada, MR 5 do Vay Hek, requisito de Duviri, re-desbloqueio do Star Chart, +100 níveis e +150% vida/escudo, modificadores de Archwing/Empyrean/Sealab, níveis dos Eidolons, Junções sem tarefa, Bounty tier 6 e MR 10, o que o modo não afeta, Incursions (6/dia às 00:00 UTC, 5 Steel Essence, condições de Spy/Interception/Excavation) (consultado em 2026-10-06)

@@ -1,10 +1,15 @@
 ---
 title: Longwinder Lathe Coagulant
+aliases: [Longwinder Lathe Coagulant, longwinder fillet]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+resumo: "Longwinder Lathe Coagulant — Recurso do tipo fish part, cuja melhor fonte confirmada é Exploiter Orb, 1 por drop."
+status: completo
+rag: true
 tags: [recurso, open_world, fish_part]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Longwinder_Lathe_Coagulant", "https://wiki.warframe.com/w/Module:Resources/data", "https://wiki.warframe.com/w/Module:DropTables/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -19,9 +24,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “A liquid that mixes with coolant fluid to produce a resilient gel that repairs leaks.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Longwinder Lathe Coagulant
+
 
 | Item | Valor |
 |---|---|
@@ -36,9 +41,9 @@ agente: opus
 > [!note] Nota do jogo
 > Source: Dismantled from Longwinder servofish via The Business in Fortuna (Venus). Catch Longwinder in Orb Vallis lake hotspots during Warm weather.
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Longwinder Lathe Coagulant
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -58,9 +63,9 @@ agente: opus
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Longwinder Lathe Coagulant
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este recurso:
 
@@ -85,8 +90,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este recurso
 > Total de **15** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Longwinder_Lathe_Coagulant — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)

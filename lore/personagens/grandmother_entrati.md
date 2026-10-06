@@ -1,9 +1,14 @@
 ---
 title: Grandmother
+aliases: [Grandmother, grandmother entrati]
 tipo: lore
 subtipo: personagem
+resumo: "Grandmother — O nome dela era Dagath — e ela o deu a uma Warframe sem nome e sem rosto numa celebração de Naberus, virando \"Grandmother\" para sempre."
+status: completo
+rag: true
 tags: [lore, personagem, orokin, entrati]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Grandmother"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O nome dela era **Dagath** — e ela o deu a uma Warframe sem nome e sem rosto numa celebração de Naberus, virando "Grandmother" para sempre. É ela quem provocou a crise do Heart para forçar a família a se reunir.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Grandmother
+
 
 | Item | Valor |
 |---|---|
@@ -26,9 +31,9 @@ agente: opus
 | Nome original | **Dagath** — dado por ela a uma Warframe então sem nome e sem rosto, numa celebração de Naberus |
 | Família | Mãe de [[lore/personagens/father_entrati.md\|Father]]; avó de [[lore/personagens/son_entrati.md\|Son]] e [[lore/personagens/daughter_entrati.md\|Daughter]] |
 
----
 
-## 📖 História
+## 📖 História — Grandmother
+
 
 Grandmother pertence à família **[[mecanicas/sindicatos/entrati.md|Entrati]]**, respeitada desde a Era Orokin por ter criado as primeiras tecnologias do Void. O nome original dela era **Dagath** — e, **durante uma celebração de Naberus, ela o deu a uma Warframe que então não tinha nome nem rosto**, passando a ser conhecida como Grandmother para sempre. É a mãe de **[[lore/personagens/father_entrati.md|Father]]**.
 
@@ -42,9 +47,9 @@ Enquanto o resto da família brigava e discutia, **Grandhmother agia como parte 
 > [!warning] Spoiler — Heart of Deimos
 > Depois de o Tenno reunir a família para restaurar o Heart destruído, Grandmother comenta que, **apesar da natureza disfuncional, a família se junta numa crise**. Da conversa o Tenno deduz que **foi ela quem causou os eventos em torno da destruição do Heart — justamente para unir a família**.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Grandmother
+
 
 - **[[warframes/regular/dagath.md|Dagath]]** — a Warframe que recebeu o nome original dela numa celebração de Naberus.
 - **[[lore/personagens/father_entrati.md|Father]]** — o filho, cujos exercícios marciais ela considerava fúteis.
@@ -53,9 +58,9 @@ Enquanto o resto da família brigava e discutia, **Grandhmother agia como parte 
 - **[[mecanicas/eventos/nights_of_naberus.md|Nights of Naberus]]** — o evento ligado à celebração em que ela deu o nome.
 - **[[lore/faccoes/infested.md|Infested]]** — infectada como o resto da família.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Grandmother
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -65,6 +70,3 @@ Enquanto o resto da família brigava e discutia, **Grandhmother agia como parte 
 | [[missoes/jornadas/principais/the_waverider.md\|The Waverider]] | Participação |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Grandmother (consultado em 2026-10-04)

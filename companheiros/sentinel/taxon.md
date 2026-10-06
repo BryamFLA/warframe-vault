@@ -1,9 +1,16 @@
 ---
 title: Taxon
-tipo: sentinel
-tags:
-  - companheiro
-  - sentinel
-status: nao-obtido
-atualizado: 2026-04-19
+aliases: [Taxon]
+tipo: companheiro
+subtipo: sentinel
+resumo: Taxon — conteúdo ainda não preenchido no vault.
+status: stub
+rag: false
+tags: [companheiro, sentinel]
+atualizado: 2026-10-07
+agente: opus
 ---
+
+# Taxon
+
+

@@ -1,9 +1,14 @@
 ---
 title: Sentient
+aliases: [Sentient]
 tipo: lore
 subtipo: faccao
+resumo: "Sentient — Máquinas terraformadoras que os Orokin enviaram a Tau, ganharam consciência, voltaram para destruir seus criadores — e cuja única fraqueza real é o Void: toda outra forma de dano elas aprendem a resistir."
+status: completo
+rag: true
 tags: [lore, faccao, sentient]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Sentient", "https://wiki.warframe.com/w/Damage_2.0/Sentient_Tab", "https://wiki.warframe.com/w/Damage_2.0/Overview_Table"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Máquinas terraformadoras que os Orokin enviaram a Tau, ganharam consciência, voltaram para destruir seus criadores — e cuja única fraqueza real é o Void: toda outra forma de dano elas aprendem a resistir.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Sentient
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Ativos. Após [[missoes/jornadas/principais/the_new_war.md\|The New War]], o Narmer é reagrupado por **Pazuul**, um Archon que ocupou o corpo de Erra |
 | Dublagem | Elenco variado (Hunhow, Erra, Natah / Lotus, Pazuul) |
 
----
 
-## 📖 História
+## 📖 História — Sentient
+
 
 Os Sentients foram projetados pela Archimedean Perintol como **ferramentas de terraformação** rumo ao sistema Tau: capazes de se adaptar a qualquer dano e de se replicar a partir de peças danificadas. Os Orokin embutiram neles uma falha deliberada — **fraqueza ao Void**, que interfere na adaptação e na replicação — para que ficassem presos em Tau depois de cumprir a função. Normalmente o Império rejeitaria tal criação; [[lore/personagens/ballas.md|Ballas]] fingiu oposição veemente justamente para manipular os outros Executors a aprová-la.
 
@@ -38,9 +43,9 @@ No clímax, Ballas traiu o próprio Império e entregou a Hunhow o ponto fraco d
 > [!warning] Spoiler — The New War / Jade Shadows
 > Hunhow hoje se arrepende: a filha o abandonou, o filho foi reanimado por forças que ele não controla, e ele segue impotente sob os mares de [[locais/planetas/urano.md|Urano]]. Ele chegou a oferecer suas memórias à The Indifference para encerrar a disputa entre os filhos do [[lore/chefes/stalker.md|Stalker]] — e por isso ficou senil, sem lembrar dos Tenno.
 
----
 
-## 🏛️ Estrutura e Unidades
+## 🏛️ Estrutura e Unidades — Sentient
+
 
 ### Contingentes
 
@@ -103,9 +108,9 @@ No clímax, Ballas traiu o próprio Império e entregou a Hunhow o ponto fraco d
 | Radiation | — | +25% | — | **+75%** | −25% |
 | Viral | **+50%** | — | — | — | — |
 
----
 
-## 🔢 Adaptação a Dano (a mecânica que define a facção)
+## 🔢 Adaptação a Dano (a mecânica que define a facção) — Sentient
+
 
 Um Sentient adapta-se a **no máximo 4 tipos de dano**. A saúde é dividida em *health gates*: ao cruzar cada um, ele ganha resistência ao tipo de dano que recebeu em maior proporção.
 
@@ -141,9 +146,9 @@ O gating também limita o dano por instância:
 > [!important] Por isso Void importa mais que elemento
 > Dano Void é o único que os Sentients não conseguem neutralizar: ele limpa a adaptação já adquirida. Sem uma dessas ferramentas, qualquer arma de dano único vira inútil depois do segundo gate. Ver [[mecanicas/dano_e_status.md|Dano e Status]] e [[mecanicas/operator_e_focus.md|Operator e Focus]].
 
----
 
-## ⚔️ Chefes Sentient
+## ⚔️ Chefes Sentient — Sentient
+
 
 | Chefe | Onde | Recompensa principal |
 |---|---|---|
@@ -156,9 +161,9 @@ O gating também limita o dano por instância:
 | [[lore/chefes/archon_boreal.md\|Archon Boreal]] | Archon Hunt rotativa | Archon Shards |
 | Orphix | Missões Orphix (Necramech / Operator) | Arcanas e componentes de Necramech |
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Sentient
+
 
 - **[[lore/faccoes/orokin.md|Orokin]]** — criadores. Foram feitos como terraformadores de Tau, com fraqueza ao Void embutida para serem descartáveis.
 - **[[lore/faccoes/tenno.md|Tenno]]** — contra-arma criada especificamente para eles, e alvo do ódio da família de Hunhow, que vê os Operators como "parasitas manipuladores".
@@ -171,9 +176,9 @@ O gating também limita o dano por instância:
 - **[[lore/faccoes/grineer.md|Grineer]]** — Tyl Regor desenterrou Hunhow; os Grineer desenvolveram contenção rudimentar de energia Sentient para defender arredores de Cetus à noite.
 - **[[lore/faccoes/infested.md|Infested]]** — alvo original da bio-arma Orokin; Sentients são imunes ao Technocyte, o que fez o plano falhar.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Sentient
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -189,8 +194,3 @@ O gating também limita o dano por instância:
 | Archon Hunts | Caça semanal a Amar, Nira ou Boreal por Archon Shards |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Sentient (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Sentient_Tab (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Overview_Table (consultado em 2026-10-04)

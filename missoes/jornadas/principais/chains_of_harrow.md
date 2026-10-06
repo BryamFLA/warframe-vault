@@ -1,9 +1,14 @@
 ---
 title: Chains of Harrow
+aliases: [Chains of Harrow]
 tipo: missao
 subtipo: jornada
+resumo: "Chains of Harrow — A quest de terror do jogo: uma transmissão de uma nave abandonada do Steel Meridian leva ao Tenno Rell, expulso pelos seus, que mantinha algo à distância — e que aparece pela primeira vez aqui."
+status: completo
+rag: true
 tags: [missao, jornada, principal]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Chains_of_Harrow"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > A quest de terror do jogo: uma transmissão de uma nave abandonada do Steel Meridian leva ao Tenno Rell, expulso pelos seus, que mantinha algo à distância — e que aparece pela primeira vez aqui.
 
----
 
-## 📖 Narrativa e Pré-requisitos
+## 📖 Narrativa e Pré-requisitos — Chains of Harrow
+
 
 | Item | Detalhe |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 >
 > A quest também explica a origem de **[[warframes/regular/harrow.md|Harrow]]**, a Warframe ligada a Rell.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Chains of Harrow
+
 
 | Recompensa | Nota |
 |---|---|
@@ -43,18 +48,18 @@ agente: opus
 | Acesso a **Iron Wake** | O enclave do [[mecanicas/sindicatos/steel_meridian.md\|Steel Meridian]] na [[locais/planetas/terra.md\|Terra]], com **Palladino** |
 | Acesso a **Follie's Hunt** | Nó novo |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Chains of Harrow
+
 
 - Solo-only e com forte componente de ambientação — é a quest mais atípica do jogo em tom.
 - **Iron Wake** é importante depois: é o enclave do Steel Meridian na Terra, de onde **Cressa Tellus** opera, e onde **Palladino** vende.
 - **Harrow** não é uma Warframe secundária: o **Covenant** dela é uma das melhores respostas a status forçado, e é praticamente obrigatório contra [[lore/chefes/eidolon_hydrolyst.md|Hydrolyst]] e útil contra [[lore/chefes/archon_amar.md|Archons]].
 - A primeira aparição do Man in the Wall aqui é pré-requisito emocional para [[missoes/jornadas/principais/whispers_in_the_walls.md|Whispers in the Walls]]: jogue em ordem.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Chains of Harrow
+
 
 - **[[warframes/regular/harrow.md|Harrow]]** — a Warframe recompensada.
 - **[[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]]** — a nave abandonada e Iron Wake.
@@ -63,6 +68,3 @@ agente: opus
 - **[[missoes/jornadas/principais/whispers_in_the_walls.md|Whispers in the Walls]]** — o pagamento narrativo desta quest.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Chains_of_Harrow (consultado em 2026-10-04)

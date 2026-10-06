@@ -1,9 +1,14 @@
 ---
 title: Alad V
+aliases: [Alad V]
 tipo: lore
 subtipo: chefe
+resumo: "Alad V — O membro da Board que chamava os Grineer de \"cachorros\", desmontava Warframes para fazer proxies, criou a cepa que infesta inteligência artificial — e acabou infestado por ela."
+status: completo
+rag: true
 tags: [lore, chefe, corpus]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Alad_V", "https://wiki.warframe.com/w/Damage_2.0/Corpus_Tab"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O membro da Board que chamava os Grineer de "cachorros", desmontava Warframes para fazer proxies, criou a cepa que infesta inteligência artificial — e acabou infestado por ela.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Alad V
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Ativo. **Removido da Board** e substituído por Frohd Bek; sobrevive mudando de aliança |
 | Criações | **Zanuka Project**, a cepa **Mutalist**, os **Amalgams** |
 
----
 
-## 📖 História
+## 📖 História — Alad V
+
 
 Alad V era membro da **Corpus Board of Directors** e chefe de **Grineer Relations**. Apesar do cargo, demonstrava **desprezo particular pelos [[lore/faccoes/grineer.md|Grineer]]** — a quem se refere como **"cachorros"** — e, em menor medida, pelos [[lore/faccoes/tenno.md|Tenno]]. Ao longo da carreira, desenvolveu **obsessão pelos Tenno** e, mais tarde, pelos [[lore/faccoes/infested.md|Infested]] e pelos [[lore/faccoes/sentient.md|Sentients]], acreditando que **poderia aproveitar o poder deles em benefício próprio**.
 
@@ -37,9 +42,9 @@ As duas criações que mudaram o jogo: a cepa **Mutalist**, a primeira capaz de 
 
 E ele mesmo pagou o preço: **sucumbiu à Infestação** que inventou, tornando-se **Mutalist Alad V**, um dos dois chefes de [[locais/planetas/eris.md|Eris]].
 
----
 
-## ⚔️ Combate
+## ⚔️ Combate — Alad V
+
 
 | Item | Detalhe |
 |---|---|
@@ -71,9 +76,9 @@ Alad V aparece como **um homem num robe metálico azul**, com um **controlador e
 
 **Frames recomendados:** [[warframes/regular/mag.md|Mag]] (Polarize e Magnetize arrasam escudo, que é a trava da luta), [[warframes/regular/volt.md|Volt]] (Electricity é forte contra Zanuka, que é Robotic), [[warframes/regular/mesa.md|Mesa]] (Peacemaker ignora o problema de Alad fugir), [[warframes/regular/rhino.md|Rhino]] contra o Flame Pulse e o knockback, [[warframes/regular/nekros.md|Nekros]] para o farm de Neural Sensors.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Alad V
+
 
 - **Zanuka** — o proxy construído com peças de Warframes capturadas, alimentado pelo disco no pescoço dele. Também existe como o **Zanuka Hunter**, que caça Tenno com Death Mark.
 - **Frohd Bek** — rival de longa data que o substituiu na Board.
@@ -86,9 +91,9 @@ Alad V aparece como **um homem num robe metálico azul**, com um **controlador e
 - **[[lore/personagens/lotus.md|Lotus]]** — fez trégua com ela em [[missoes/jornadas/principais/the_second_dream.md|The Second Dream]] contra Hunhow.
 - **[[lore/personagens/vor.md|Vor]]** e **[[lore/chefes/tyl_regor.md|Tyl Regor]]** — os outros dois que dissecam Tenno para estudar o poder do Void.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Alad V
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -102,7 +107,3 @@ Alad V aparece como **um homem num robe metálico azul**, com um **controlador e
 | Eris | Como **Mutalist Alad V**, um dos dois chefes do planeta |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Alad_V (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Corpus_Tab (consultado em 2026-10-04)

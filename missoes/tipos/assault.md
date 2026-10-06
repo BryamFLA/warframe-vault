@@ -1,9 +1,14 @@
 ---
 title: Assault
+aliases: [Assault]
 tipo: missao
 subtipo: tipo
+resumo: "Assault — Tipo de missão com um único nó no jogo: uma sabotagem em cinco etapas dentro da locais/planetas/kuva_fortress.md|Kuva Fortress — arrombar os portões, desligar o Navar-Cannon, tomar o centro de comando, virar o canhão contra um galleon Grine."
+status: completo
+rag: true
 tags: [missao, tipo]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Assault", "https://wiki.warframe.com/w/Module:Missions/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Tipo de missão com **um único nó no jogo**: uma sabotagem em cinco etapas dentro da [[locais/planetas/kuva_fortress.md|Kuva Fortress]] — arrombar os portões, desligar o Navar-Cannon, tomar o centro de comando, virar o canhão contra um galleon Grineer e destruir o mecanismo de mira.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Assault
+
 
 | Item | Detalhe |
 |---|---|
@@ -26,9 +31,9 @@ agente: opus
 | Pré-requisito | Acesso à **Kuva Fortress**, que exige **[[missoes/jornadas/principais/the_war_within.md\|The War Within]]** e a [[missoes/juncoes/kuva_fortress_junction.md\|Junção da Kuva Fortress]] |
 | Nós no jogo | **1** — Koro, Kuva Fortress |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Assault
+
 
 A missão é dividida em **cinco objetivos maiores**, em ordem:
 
@@ -45,9 +50,9 @@ A missão é dividida em **cinco objetivos maiores**, em ordem:
 
 **Rotações de recompensa:** nenhuma. **Não é endless** e **Assault padrão não dá nenhuma recompensa de missão fora de afinidade.**
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Assault
+
 
 | Planeta | Nó | Facção | Nível | Tileset |
 |---|---|---|---|---|
@@ -55,9 +60,9 @@ A missão é dividida em **cinco objetivos maiores**, em ordem:
 
 **Melhor nó para farmar:** **Koro** é o único — e não é um nó de farm. Vale jogá-lo pela **afinidade de objetivo** (até **16.000** numa run com stealth) e pelo **ponto de maestria** do nó.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Assault
+
 
 | Recompensa | Valor | Nota |
 |---|---|---|
@@ -69,9 +74,9 @@ A missão é dividida em **cinco objetivos maiores**, em ordem:
 > [!tip] É uma missão de afinidade, não de loot
 > Somando as três etapas com o bônus de stealth, uma run limpa entrega **16.000 de afinidade de objetivo** — distribuída conforme a regra normal de afinidade, não pelo autor do abate. Isso faz de Koro um nó decente para **levelar uma arma recém-forjada** junto de um frame que você já usa.
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Assault
+
 
 - **Use parkour pela ravina, não o caminho de chão.** A wiki aponta isso explicitamente: ziplines e salto entre bunkers cortam a etapa 2 pela metade, e os 2 minutos são apertados.
 - **Destrua o circuito exposto na frente do bunker** em vez de hackear diretamente, quando possível: abaixa a parede e reduz o risco de disparar Fortress Scanner — o que preserva os **4.000 de afinidade extra** do stealth.
@@ -80,7 +85,3 @@ A missão é dividida em **cinco objetivos maiores**, em ordem:
 - **Frames de defesa de objetivo cobrem as etapas 1 e 3.** **[[warframes/regular/frost.md|Frost]]** com Snow Globe sobre o console de telemetria ou **[[warframes/regular/gara.md|Gara]]** com Mass Vitrify resolvem os 50 segundos sem atenção.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Assault — as 5 etapas, moltecoil, 2 minutos do Navar-Cannon, Friendship Door do canhão, afinidade por objetivo e bônus de stealth (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Missions/data — nó Koro, Kuva Fortress, nível 29–31, facção e tileset (consultado em 2026-10-06)

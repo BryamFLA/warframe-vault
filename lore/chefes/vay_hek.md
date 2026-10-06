@@ -1,9 +1,14 @@
 ---
 title: Councilor Vay Hek
+aliases: [Councilor Vay Hek, vay hek]
 tipo: lore
 subtipo: chefe
+resumo: "Councilor Vay Hek — O Grineer mais influente e perigoso do Sistema: envenenou as florestas da Terra, criou os Ghouls e as Fomorians, e luta numa forma-drone cujo corpo é invulnerável exceto durante os 10 segundos de propaganda."
+status: completo
+rag: true
 tags: [lore, chefe, grineer]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Councilor_Vay_Hek", "https://wiki.warframe.com/w/Damage_2.0/Grineer_Tab"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O Grineer mais influente e perigoso do Sistema: envenenou as florestas da Terra, criou os Ghouls e as Fomorians, e luta numa forma-drone cujo corpo é invulnerável exceto durante os 10 segundos de propaganda.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Councilor Vay Hek
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Ativo. Responsável por Ghoul Purge e pelas [[mecanicas/eventos/balor_fomorian.md\|Balor Fomorians]] |
 | Dublagem | James Atkins |
 
----
 
-## 📖 História
+## 📖 História — Councilor Vay Hek
+
 
 A lealdade fanática de Vay Hek à causa Grineer o levou a encabeçar operação após operação contra o Sistema. Ele é tão escandaloso quanto zeloso: é conhecido por **sequestrar transmissões Tenno** para mandar mensagens vaidosas, de broadcasts de [[mecanicas/cla_e_dojo.md|Relay]] até uma Devstream. Somando isso à posição de liderança e, mais tarde, ao acesso à frota **Fomorian**, ele se tornou um dos inimigos mais perigosos que os [[lore/faccoes/tenno.md|Tenno]] já enfrentaram.
 
@@ -35,9 +40,9 @@ A lista de atrocidades é concreta: a **Toxina Cicero**, usada para envenenar as
 
 Essas decisões lhe custaram aliados internos. [[lore/chefes/sargas_ruk.md|General Sargas Ruk]] discordou publicamente do recondicionamento do Grustrag Three, argumentando que deveriam ter sido executados, e avisou que a instabilidade mental do trio acabaria sendo a ruína de Hek. Mesmo entre os Ghouls, alguns instigadores já se voltaram contra o próprio Hek.
 
----
 
-## ⚔️ Combate
+## ⚔️ Combate — Councilor Vay Hek
+
 
 | Item | Detalhe |
 |---|---|
@@ -55,9 +60,9 @@ No Terra Frame o problema inverte: o corpo todo é alvo, mas o **Hek Cannon** mi
 
 **Frames recomendados:** [[warframes/regular/nova.md|Nova]] (Molecular Prime para desacelerar o drone), [[warframes/regular/rhino.md|Rhino]] (Stomp e Iron Skin), [[warframes/regular/frost.md|Frost]] (Avalanche), [[warframes/regular/limbo.md|Limbo]] (Cataclysm contra os mísseis), [[warframes/regular/mesa.md|Mesa]] (Peacemaker acerta os pontos fracos sem depender da sua mira). [[mecanicas/operator_e_focus.md|Zenurik]] com Temporal Drag resolve o problema de mobilidade sem gastar slot de habilidade.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Councilor Vay Hek
+
 
 - **[[lore/chefes/sargas_ruk.md|Sargas Ruk]]** — opositor interno. Queria o Grustrag Three executado e previu que eles seriam a ruína de Hek.
 - **The Grustrag Three** — trio de assassinos Grineer que ele mandou recondicionar; caçam Tenno que completam 5 Invasions a favor do Corpus.
@@ -68,9 +73,9 @@ No Terra Frame o problema inverte: o corpo todo é alvo, mas o **Hek Cannon** mi
 - **[[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]]** — Grineer dissidentes que operam contra ele a partir de Iron Wake, na Terra.
 - **[[lore/faccoes/sentient.md|Narmer]]** — Hek aparece no contexto de [[missoes/jornadas/principais/the_new_war.md|The New War]].
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Councilor Vay Hek
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -84,7 +89,3 @@ No Terra Frame o problema inverte: o corpo todo é alvo, mas o **Hek Cannon** mi
 | [[missoes/jornadas/principais/the_new_war.md\|The New War]] | Aparição no arco Narmer |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Councilor_Vay_Hek (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Grineer_Tab (consultado em 2026-10-04)

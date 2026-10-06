@@ -1,10 +1,15 @@
 ---
 title: Coprun
+aliases: [Coprun]
 tipo: recurso
 raridade: comum
 origem: railjack
+resumo: "Coprun — Recurso comum do tipo ore, farmado em Plains of Eidolon (Earth) from Red Mining Veins, 5 a 10 por drop."
+status: completo
+rag: true
 tags: [recurso, railjack, ore]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Coprun", "https://wiki.warframe.com/w/Module:Resources/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “A soft, malleable metal.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Coprun
+
 
 | Item | Valor |
 |---|---|
@@ -31,9 +36,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **Sim** |
 | Introduzido no Update | **22** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Coprun
+
 
 **Locais que o próprio jogo lista:** Plains of Eidolon (Earth) from Red Mining Veins
 
@@ -53,9 +58,9 @@ No vault: [[locais/planetas/terra.md|Earth]], [[locais/open-worlds/cetus.md|Plai
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Coprun
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este recurso:
 
@@ -68,7 +73,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este recurso
 > Total de **3** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Coprun — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)

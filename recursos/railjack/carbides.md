@@ -1,10 +1,15 @@
 ---
 title: Carbides
+aliases: [Carbides]
 tipo: recurso
 raridade: incomum
 origem: railjack
+resumo: "Carbides are an uncommon Resource dropped by Eximus units found in the Grineer Shipyard tileset, primarily Ceres and Sedna, and can also be found in Empyrean missions as a possible loot drop."
+status: completo
+rag: true
 tags: [recurso, railjack]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Carbides", "https://wiki.warframe.com/w/Module:DropTables/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -19,9 +24,9 @@ agente: opus
 > [!warning] Este item não está no `Module:Resources/data`
 > Ao contrário da maioria dos recursos do vault, este não tem entrada no módulo de dados de recursos da wiki — então **não há ficha estruturada** de raridade, quantidade por drop ou compatibilidade com booster para copiar. O que está abaixo vem do **texto da própria página** e do **`Module:DropTables/data`**. Os campos sem fonte ficam marcados.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Carbides
+
 
 | Item | Valor |
 |---|---|
@@ -34,9 +39,9 @@ agente: opus
 
 Carbides are also dropped Earth Proxima missions by Grineer, Storage Containers and ships.
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Carbides
+
 
 | Fonte | Tipo | Chance do recurso | Rolagens na tabela |
 |---|---|---|---|
@@ -73,9 +78,9 @@ Carbides are also dropped Earth Proxima missions by Grineer, Storage Containers 
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Carbides
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este item:
 
@@ -93,7 +98,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este item:
 > Total de **8** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Carbides — descrição, forma de obtenção e Item Checklist (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)

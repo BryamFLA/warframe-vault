@@ -1,10 +1,15 @@
 ---
 title: Exilus Weapon Adapter
+aliases: [Exilus Weapon Adapter, exilus adapter]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: planeta
+resumo: Exilus Weapon Adapter — Recurso do tipo item.
+status: completo
+rag: true
 tags: [recurso, planeta, item]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Exilus_Weapon_Adapter", "https://wiki.warframe.com/w/Module:Resources/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -19,9 +24,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “Fuses with a compatible weapon to unlock its Exilus Mod Slot.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Exilus Weapon Adapter
+
 
 | Item | Valor |
 |---|---|
@@ -32,9 +37,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **⚠️ NÃO VERIFICADO** |
 | Introduzido no Update | **26** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Exilus Weapon Adapter
+
 
 **Da seção de aquisição da wiki:** Purchased blueprint from any of the Faction Syndicates for 75,000 Standing 75,000. Blueprint awarded from Requiem Relics. Sometimes obtained complete from the 1999 Calendar. Sometimes purchased complete from Acrithis's shop for 20 Pathos Clamps. Purchased complete from the Market for 20 Platinum 20 under Equipment → Components. Obtained as a potential reward from the Void Surplus offering for sale by Baro Ki'Teer.
 
@@ -52,16 +57,12 @@ agente: opus
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Exilus Weapon Adapter
+
 
 | Item | Quantidade |
 |---|---|
 | ⚠️ NÃO VERIFICADO | Nenhuma receita do `Module:Resources/data` lista este item como componente e a página da wiki não traz Item Checklist parseável. Ele pode ser usado em **trocas de sindicato** ou **consumido direto** — usos que não estão nesses dados. Confira em https://wiki.warframe.com/w/Exilus_Weapon_Adapter |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Exilus_Weapon_Adapter — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)

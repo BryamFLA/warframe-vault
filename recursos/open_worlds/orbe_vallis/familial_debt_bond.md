@@ -1,10 +1,15 @@
 ---
 title: Familial Debt-Bond
+aliases: [Familial Debt-Bond, familial debt bond]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+resumo: "Familial Debt-Bond — Recurso, cuja melhor fonte confirmada é Fortuna Bounty Lvl 40-60 Final Stage ×2 (rot."
+status: completo
+rag: true
 tags: [recurso, open_world]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Familial_Debt-Bond", "https://wiki.warframe.com/w/Module:Resources/data", "https://wiki.warframe.com/w/Module:DropTables/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “Debts unpaid by one generation are passed to the next. Working to pay them off is seen as something to be proud of. What choice do they have?”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Familial Debt-Bond
+
 
 | Item | Valor |
 |---|---|
@@ -32,9 +37,9 @@ agente: opus
 > [!note] Nota do jogo
 > Obtained from Bounties in the Orb Vallis (Venus), or purchased from Ticker in Fortuna (Venus).
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Familial Debt-Bond
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -69,17 +74,12 @@ agente: opus
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Familial Debt-Bond
+
 
 | Item | Quantidade |
 |---|---|
 | ⚠️ NÃO VERIFICADO | Nenhuma receita do `Module:Resources/data` lista este item como componente e a página da wiki não traz Item Checklist parseável. Ele pode ser usado em **trocas de sindicato** ou **consumido direto** — usos que não estão nesses dados. Confira em https://wiki.warframe.com/w/Familial_Debt-Bond |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Familial_Debt-Bond — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)

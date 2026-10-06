@@ -1,9 +1,14 @@
 ---
 title: Bounties de Fortuna (Orb Vallis)
+aliases: [Bounties de Fortuna (Orb Vallis), orbe vallis]
 tipo: missao
 subtipo: bounty
+resumo: "Bounties de Fortuna (Orb Vallis) — Missões multi-estágio dadas pela Eudico em locais/open-worlds/fortuna.md|Fortuna ou por Solaris United Agents no locais/planetas/venus.md|Orb Vallis."
+status: completo
+rag: true
 tags: [missao, bounty, open-world]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Bounty", "https://wiki.warframe.com/w/Orb_Vallis", "https://wiki.warframe.com/w/Orb_Vallis/Rewards"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Missões multi-estágio dadas pela **Eudico** em [[locais/open-worlds/fortuna.md|Fortuna]] ou por **Solaris United Agents** no [[locais/planetas/venus.md|Orb Vallis]]. Incluem os dois **Heists** contra as Orb Mothers: [[lore/chefes/profit_taker.md|Profit-Taker]] e [[lore/chefes/exploiter_orb.md|Exploiter Orb]].
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Bounties de Fortuna (Orb Vallis)
+
 
 | Item | Detalhe |
 |---|---|
@@ -27,9 +32,9 @@ agente: opus
 | Refresh | **A cada 2 horas e 30 minutos** |
 | Facção | [[lore/faccoes/corpus.md\|Corpus]] (Terra); **Narmer** nas bounties de nível 50–70 |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Bounties de Fortuna (Orb Vallis)
+
 
 1. O **Bounty Board** gera a lista; antes de confirmar você vê **nível**, **reputação** e **recompensas possíveis**.
 2. **Cada estágio dá uma recompensa + reputação [[mecanicas/sindicatos/solaris_united.md|Solaris United]].**
@@ -92,9 +97,9 @@ Bounties especiais dadas pelo **[[mecanicas/sindicatos/vox_solaris.md|Vox Solari
 
 **Rotações de recompensa:** pools **A → B → C** a cada **150 minutos**, sincronizadas com todas as bounties do jogo.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Bounties de Fortuna (Orb Vallis)
+
 
 | Local | Quem dá | Acesso |
 |---|---|---|
@@ -104,9 +109,9 @@ Bounties especiais dadas pelo **[[mecanicas/sindicatos/vox_solaris.md|Vox Solari
 
 **Melhor nó para farmar:** **capture uma base** e use o **Solaris United Agent** dela — as bounties de base dão as mesmas recompensas e o mesmo refresh que a Eudico, **sem a viagem de volta a Fortuna**, o que é o maior ganho de tempo por hora na Vallis. **Selecione uma bounty de tier alto com a Eudico antes de entrar**, porque é isso que define o tier das bounties de base (sem seleção, elas viram **tier 1**).
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Bounties de Fortuna (Orb Vallis)
+
 
 | Recompensa | Rotação | Nota |
 |---|---|---|
@@ -118,9 +123,9 @@ Bounties especiais dadas pelo **[[mecanicas/sindicatos/vox_solaris.md|Vox Solari
 > [!warning] Tabela parcial
 > Cada tier tem drop table própria por estágio (`FortunaBounty1-1`, `FortunaBounty1-2`, `FortunaBounty1-F`, e assim por diante). Pela seção 8 das convenções **não invento porcentagem** — tabela integral em https://wiki.warframe.com/w/Orb_Vallis/Rewards.
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Bounties de Fortuna (Orb Vallis)
+
 
 - **Selecione a bounty com a Eudico ANTES de entrar na Vallis.** As 3 bounties de cada base capturada herdam o nível da que você escolheu; entrando sem escolher, você trava todas as bases em **tier 1** até o próximo refresh.
 - **Capture uma base e fique nela.** Agent na base = bounty sem viagem a Fortuna. A captura é uma defesa curta de terminal e se paga na primeira rodada.
@@ -131,8 +136,3 @@ Bounties especiais dadas pelo **[[mecanicas/sindicatos/vox_solaris.md|Vox Solari
 - **O Exploiter Orb precisa de Diluted Thermia**, que só vem do **[[mecanicas/eventos/thermia_fractures.md|Thermia Fractures]]** bissemanal. Estoque Thermia durante o evento se quiser farmar o Orb fora dele.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Bounty — mecânica geral, pools A/B/C e ciclo de 150 min, raridade por estágio, pré-requisito da jornada Vox Solaris, tipos de missão do Orb Vallis com todos os números, Heists de Profit-Taker e Exploiter, Narmer Bounties (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Orb_Vallis — Solaris United Agents, captura de bases, herança do tier da bounty da Eudico, comportamento do host nas bounties de base (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Orb_Vallis/Rewards — tiers de nível por bounty e estrutura das drop tables por estágio (consultado em 2026-10-06)

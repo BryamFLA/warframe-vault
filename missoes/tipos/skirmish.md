@@ -1,9 +1,14 @@
 ---
 title: Skirmish
+aliases: [Skirmish]
 tipo: missao
 subtipo: tipo
+resumo: "Skirmish — O Exterminate do espaço: destruir uma cota de fighters e Gokstad Crewships lore/faccoes/grineer.md|Grineer com o Railjack e, a partir de certo nível, invadir Points of Interest com um Away Team."
+status: completo
+rag: true
 tags: [missao, tipo, railjack, empyrean]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Skirmish", "https://wiki.warframe.com/w/Empyrean", "https://wiki.warframe.com/w/Module:Missions/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > O Exterminate do espaço: destruir uma cota de fighters e Gokstad Crewships [[lore/faccoes/grineer.md|Grineer]] com o Railjack e, a partir de certo nível, invadir Points of Interest com um Away Team.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Skirmish
+
 
 | Item | Detalhe |
 |---|---|
@@ -27,9 +32,9 @@ agente: opus
 | Pré-requisito | **[[missoes/jornadas/principais/rising_tide.md\|Rising Tide]]** concluída para pilotar o próprio Railjack. Entrar no squad de outro jogador exige apenas **[[missoes/jornadas/principais/the_archwing.md\|The Archwing]]** |
 | Facção | Exclusivamente **Grineer** — Skirmish é o único tipo de nó nas Proximas controladas por eles |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Skirmish
+
 
 1. O squad entra na área de operações e o **Cephalon Cy** anuncia a cota: **30 fighters + 2 Gokstad Crewships** no mínimo, escalando com o nó.
 2. **Fighters** morrem fácil para os armamentos do Railjack (turret do piloto e side turrets).
@@ -54,9 +59,9 @@ agente: opus
 
 **Rotações de recompensa:** Skirmish **não é endless** — a recompensa sai **uma vez, na conclusão**, somada ao que foi saqueado dos destroços e dos caches do Point of Interest.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Skirmish
+
 
 | Planeta | Nó | Nível (solo) | Fighters | Pré-requisito |
 |---|---|---|---|---|
@@ -79,9 +84,9 @@ As Proximas Grineer são as regiões Empyrean de **[[locais/planetas/terra.md|Te
 
 **Melhor nó para farmar:** **Flexa** ou **R-9 Cloud** (Veil Proxima) para componentes **Mk III** de Railjack — é a faixa de nível mais alta e a única que dropa a tier máxima das Houses. Para componentes **Mk I** e para subir Intrinsics do zero, **Sover Strait** (Earth Proxima) é o mais rápido por ser o de cota menor.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Skirmish
+
 
 | Recompensa | Chance | Nota |
 |---|---|---|
@@ -95,9 +100,9 @@ As Proximas Grineer são as regiões Empyrean de **[[locais/planetas/terra.md|Te
 > [!warning] A tier do componente segue o nó
 > Os valores acima são da tabela de **Earth Proxima**. Saturn Proxima e Veil Proxima entregam **Mk II** e **Mk III** das mesmas Houses, com tabelas próprias. Consulte a wiki para a tabela exata de cada região antes de farmar um componente específico — as chances por região **não** estão replicadas aqui para não arriscar dado errado.
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Skirmish
+
 
 - **Pulse Turbine primeiro, sempre.** Os 50% de redução de dano que ela dá aos fighters praticamente dobram o tempo da cota. Mate-a antes de limpar fighter.
 - **Forward Artillery economiza a missão inteira.** Um tiro mata um Gokstad Crewship. O **Dome Charge** regenera, então em squad vale deixar uma pessoa fixa na artilharia enquanto o piloto alinha o tiro.
@@ -106,8 +111,3 @@ As Proximas Grineer são as regiões Empyrean de **[[locais/planetas/terra.md|Te
 - **Frame para o Away Team:** qualquer um com mobilidade e dano single-target serve, mas **[[warframes/regular/mesa.md|Mesa]]** ou **[[warframes/regular/saryn.md|Saryn]]** limpam o interior do Galleon rápido; para o reator do Crewship, dano direto em um alvo é o que conta.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Skirmish — mecânica, cota, Points of Interest, tabela de recompensas (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Empyrean — distribuição de facções por Proxima, requisitos de acesso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Missions/data — nós, níveis, faixas de fighter e pré-requisitos por nó (consultado em 2026-10-06)

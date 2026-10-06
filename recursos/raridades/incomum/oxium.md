@@ -1,10 +1,15 @@
 ---
 title: Oxium
+aliases: [Oxium]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: planeta
+resumo: "Oxium — Recurso, farmado em Venus, Jupiter, Mars, Neptune, Pluto, Eris, Europa, and Lua., 7 a 12 por drop."
+status: completo
+rag: true
 tags: [recurso, planeta]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Oxium", "https://wiki.warframe.com/w/Module:Resources/data", "https://wiki.warframe.com/w/Module:DropTables/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “Oxium is a rare lighter than air alloy of Orokin origin, used in certain Corpus Robotics.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Oxium
+
 
 | Item | Valor |
 |---|---|
@@ -31,9 +36,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **Sim** |
 | Introduzido no Update | **11.9** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Oxium
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -72,17 +77,12 @@ No vault: [[locais/planetas/venus.md|Venus]], [[locais/planetas/marte.md|Mars]],
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Oxium
+
 
 | Item | Quantidade |
 |---|---|
 | [[recursos/open_worlds/eidolon/auron.md\|Auron]] | 600 |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Oxium — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)

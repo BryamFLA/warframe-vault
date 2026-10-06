@@ -1,10 +1,15 @@
 ---
 title: Adramal Alloy
+aliases: [Adramal Alloy, Liga Adramal]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: railjack
+resumo: "Adramal Alloy — Recurso, forjado na Foundry, não dropado puro."
+status: completo
+rag: true
 tags: [recurso, railjack]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Voidrig_Casing", "https://wiki.warframe.com/w/Module:Resources/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “Casing component for the VOIDRIG Necramech.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Adramal Alloy
+
 
 | Item | Valor |
 |---|---|
@@ -30,9 +35,9 @@ agente: opus
 | Introduzido no Update | **29** |
 | Forjável na [[mecanicas/forja.md\|Foundry]] | **Sim** — custa **15000 Créditos**, rende **1** unidades, leva **43200 s** (rush: **25 Platinum**) |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Adramal Alloy
+
 
 ⚠️ **NÃO VERIFICADO** — este recurso não aparece em nenhuma tabela do `Module:DropTables/data`, a descrição do jogo não traz linha `Location:` e a página da wiki não tem seção de aquisição parseável. Pela seção 8 das convenções, **não invento local de farm**. Confira em https://wiki.warframe.com/w/Voidrig_Casing.
 
@@ -50,9 +55,9 @@ agente: opus
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Adramal Alloy
+
 
 Este item é **forjado**, não dropado puro. Receita:
 
@@ -69,7 +74,3 @@ Este item é **forjado**, não dropado puro. Receita:
 | [[recursos/railjack/adramal_alloy.md\|Adramal Alloy]] | 120 |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Voidrig_Casing — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)

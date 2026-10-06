@@ -1,9 +1,14 @@
 ---
 title: Eidolon Gantulyst
+aliases: [Eidolon Gantulyst]
 tipo: lore
 subtipo: chefe
+resumo: "O segundo Eidolon: um bruto gigantesco que, apesar do tamanho, se move mais rápido que o Teralyst — e que levanta uma cúpula laranja que bloqueia tiro de fora e drena a vida de tudo que está em volta."
+status: completo
+rag: true
 tags: [lore, chefe, sentient, eidolon]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Eidolon_Gantulyst", "https://wiki.warframe.com/w/Damage_2.0/Sentient_Tab"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O segundo Eidolon: um bruto gigantesco que, apesar do tamanho, se move mais rápido que o Teralyst — e que levanta uma cúpula laranja que bloqueia tiro de fora e drena a vida de tudo que está em volta.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Eidolon Gantulyst
+
 
 | Item | Valor |
 |---|---|
@@ -26,9 +31,9 @@ agente: opus
 | Dublagem | Sem fala (grito Sentient) |
 | Codex | "A massive, lumbering, brute of an Eidolon." |
 
----
 
-## 📖 História
+## 📖 História — Eidolon Gantulyst
+
 
 Como o [[lore/chefes/eidolon_teralyst.md|Teralyst]] e o [[lore/chefes/eidolon_hydrolyst.md|Hydrolyst]], o Gantulyst é um **pedaço de um Sentient morto muito maior**, resto da [[lore/cronologia/antiga_guerra.md|Antiga Guerra]] travada nas Plains da [[locais/planetas/terra.md|Terra]]. A diferença dele é de escala: é um bruto enorme, que literalmente se ergue acima do Teralyst — e, contra a intuição, **a velocidade dele não é prejudicada pelo tamanho**: move-se bem mais rápido que o antecessor.
 
@@ -36,9 +41,9 @@ Ao contrário do Teralyst, ele **não emerge sozinho**. É preciso **capturar** 
 
 Essa dependência em cadeia é o desenho da caçada noturna inteira: Teralyst → Gantulyst → Hydrolyst, cada um pagando a entrada do próximo em shards, e todos desaparecendo ao amanhecer.
 
----
 
-## ⚔️ Combate
+## ⚔️ Combate — Eidolon Gantulyst
+
 
 | Item | Detalhe |
 |---|---|
@@ -104,9 +109,9 @@ O resto segue a receita do Teralyst: Corrosive Projection, Radiation e Cold nas 
 
 **Frames recomendados:** os mesmos do [[lore/chefes/eidolon_teralyst.md|Teralyst]] — [[warframes/regular/chroma.md|Chroma]] (Vex Armor nas Synovia), [[warframes/regular/trinity.md|Trinity]] (manter Lures vivas, aqui mais crítico), [[warframes/regular/harrow.md|Harrow]] (imunidade ao Magnetic + buff de dano), [[warframes/regular/volt.md|Volt]] (Electric Shield amplifica o Operator), [[warframes/regular/rhino.md|Rhino]] (Roar), [[warframes/regular/dante.md|Dante]] (Overguard contra os pulsos da cúpula).
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Eidolon Gantulyst
+
 
 - **[[lore/chefes/eidolon_teralyst.md|Eidolon Teralyst]]** — pré-requisito obrigatório: só a **captura** dele dá os Brilliant Eidolon Shards que invocam o Gantulyst.
 - **[[lore/chefes/eidolon_hydrolyst.md|Eidolon Hydrolyst]]** — o próximo da cadeia, invocado com os Radiant Eidolon Shards que o Gantulyst rende.
@@ -114,9 +119,9 @@ O resto segue a receita do Teralyst: Corrosive Projection, Radiation e Cold nas 
 - **[[mecanicas/sindicatos/the_quills.md|The Quills]]** — sindicato que troca Sentient Cores por Arcanes e peças de Amp.
 - **[[lore/personagens/onkko.md|Onkko]]** — representante dos Quills em Cetus.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Eidolon Gantulyst
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -125,7 +130,3 @@ O resto segue a receita do Teralyst: Corrosive Projection, Radiation e Cold nas 
 | Tridolon (3x1) | A corrida completa Teralyst → Gantulyst → Hydrolyst numa só noite |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Eidolon_Gantulyst (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Sentient_Tab (consultado em 2026-10-04)

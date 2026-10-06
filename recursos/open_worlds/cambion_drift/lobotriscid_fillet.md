@@ -1,10 +1,15 @@
 ---
-title: "Lobotriscid Fillet (não existe no jogo)"
+title: Lobotriscid Fillet (não existe no jogo)
+aliases: [Lobotriscid Fillet (não existe no jogo), Lobotriscid Fillet (nao existe no jogo), lobotriscid fillet]
 tipo: recurso
+resumo: "Não existe nenhum item chamado “Lobotriscid Fillet” em Warframe."
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+status: parcial
+rag: true
 tags: [recurso, open_world, pesca, inexistente]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Lobotriscid", "https://wiki.warframe.com/w/Module:Resources/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -20,9 +25,9 @@ agente: opus
 >
 > Pela **seção 2 das convenções** (nunca criar, renomear ou apagar arquivos), o arquivo fica como está, documentando a ausência em vez de inventar um recurso.
 
----
 
-## 🐟 O peixe Lobotriscid — ficha real
+## 🐟 O peixe Lobotriscid — ficha real — Lobotriscid Fillet (não existe no jogo)
+
 
 | Item | Valor |
 |---|---|
@@ -34,9 +39,9 @@ agente: opus
 | Lanças que pegam | **Spari/Ebisu** |
 | Pontuação máxima | **16 kg** |
 
----
 
-## ✅ As partes que o Lobotriscid realmente rende
+## ✅ As partes que o Lobotriscid realmente rende — Lobotriscid Fillet (não existe no jogo)
+
 
 | Parte real | No vault |
 |---|---|
@@ -47,14 +52,3 @@ agente: opus
 > São **3** partes. Nenhuma delas se chama “Lobotriscid Fillet”.
 
 ---
-
-## 💡 Pendência para o humano
-
-- **Decisão sua:** este arquivo pode ser **apagado** ou **renomeado** para uma das partes reais da tabela acima. Eu não faço nenhuma das duas coisas pela seção 2 das convenções.
-- **Partes reais sem arquivo no vault:** **Benign Infested Tumor**, **Ferment Bladder**, **Parasitic Tethermaw**.
-
----
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Lobotriscid — infobox do peixe: raridade, planeta, tileset, bioma, ciclo, lanças, pontuação e a lista `other_drops` com as partes reais (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — nenhuma entrada chamada “Lobotriscid Fillet” (consultado em 2026-10-06)

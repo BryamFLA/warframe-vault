@@ -1,11 +1,16 @@
 ---
 title: Rifle Amp
+aliases: [Rifle Amp]
 tipo: mod
 categoria: warframe
-polaridade: Madurai
 raridade: incomum
+polaridade: Madurai
+resumo: "O squad recebe +27% Rifle Dano Texto exato no jogo (inglês): Squad receives +27% Rifle Damage."
+status: completo
+rag: true
 tags: [mod, warframe]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Rifle_Amp", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Mods/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -17,9 +22,9 @@ agente: opus
 >
 > *Texto exato no jogo (inglês):* `Squad receives +27% Rifle Damage`
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Rifle Amp
+
 
 | Item | Valor |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 | Transmutável | **Não** |
 | Introduzido no Update | **5** |
 
----
 
-## 📈 Efeito por Rank
+## 📈 Efeito por Rank — Rifle Amp
+
 
 <!-- Valores copiados da seção Stats da página do mod na wiki. Nenhum valor interpolado. -->
 
@@ -51,9 +56,9 @@ agente: opus
 > [!note] A drenagem sobe 1 por rank
 > Regra do jogo, visível na própria tabela: a drenagem no rank R é **-2 + R**.
 
----
 
-## 🏗️ Onde Obter
+## 🌍 Onde Conseguir — Rifle Amp
+
 
 | Fonte | Tipo | Chance do mod na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -64,9 +69,9 @@ agente: opus
 
 **Faixa de preço em platina:** ⚠️ **estimativa não fornecida.** Pela seção 8 das convenções, preço de platina é mercado flutuante e não é registrado aqui. Consulte warframe.market no momento da compra.
 
----
 
-## 🛠️ Uso
+## 🛠️ Como Usar — Rifle Amp
+
 
 **Vale a pena?** **Geralmente sim.** Mod **Uncommon** — fácil de conseguir e normalmente parte do núcleo de uma build.
 
@@ -80,8 +85,3 @@ O efeito concreto no rank máximo é **O squad recebe +27% Rifle Dano** — é p
 Nenhum mod é registrado como **mutuamente exclusivo** com este nos dados da wiki. A concorrência é pelo **slot** e pela **capacidade**, não por bloqueio do jogo.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Rifle_Amp — efeito por rank, polaridade, drenagem, raridade e incompatibilidades (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Mods/data — ficha do mod: tipo, classe, comercializável, transmutável, update de introdução (consultado em 2026-10-06)

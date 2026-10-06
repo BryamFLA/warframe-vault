@@ -1,9 +1,14 @@
 ---
 title: Grineer
+aliases: [Grineer]
 tipo: lore
 subtipo: faccao
+resumo: "Grineer — Império militar de clones geneticamente degradados, fanaticamente leais às Rainhas Gêmeas, que domina Terra, Marte, Ceres, Saturno, Sedna, Urano e a Kuva Fortress — e é a facção mais blindada do jogo."
+status: completo
+rag: true
 tags: [lore, faccao, grineer]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Grineer", "https://wiki.warframe.com/w/Damage_2.0/Grineer_Tab", "https://wiki.warframe.com/w/Kuva_Lich", "https://wiki.warframe.com/w/Damage_2.0/Overview_Table"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Império militar de clones geneticamente degradados, fanaticamente leais às Rainhas Gêmeas, que domina Terra, Marte, Ceres, Saturno, Sedna, Urano e a Kuva Fortress — e é a facção mais blindada do jogo.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Grineer
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Ativos e expansionistas. A Worm Queen segue no poder; parte das forças foi absorvida pelo Narmer durante [[missoes/jornadas/principais/the_new_war.md\|The New War]] e libertada em [[missoes/jornadas/principais/veilbreaker.md\|Veilbreaker]] |
 | Dublagem | Elenco variado (facção, não personagem único) |
 
----
 
-## 📖 História
+## 📖 História — Grineer
+
 
 Os Grineer começaram como uma **casta de escravos clonados** pelos [[lore/faccoes/orokin.md|Orokin]]: humanos geneticamente modificados e produzidos em série para trabalho manual e extração de recursos, com obediência escrita no genoma. Durante a [[lore/cronologia/antiga_guerra.md|Antiga Guerra]], os Orokin precisavam de soldados e criaram uma nova linhagem militarizada a partir da amostra genética de um indivíduo que havia conseguido derrotar um [[lore/faccoes/sentient.md|Sentient]]. Esses Grineer de combate foram jogados na guerra e fracassaram contra as estratégias Sentient — a vitória só veio com as Warframes e os [[lore/faccoes/tenno.md|Tenno]].
 
@@ -35,9 +40,9 @@ Depois do [[lore/cronologia/o_colapso.md|Colapso]] do Império Orokin, os Grinee
 
 No presente, o clone industrial cobra seu preço: **cada Grineer é geneticamente defeituoso**, com vida útil curta e distúrbios degenerativos (membros em decomposição, inteligência instável). Eles compensam com próteses cibernéticas grosseiras e armadura pesada — são melhores em consertar corpos do que em criá-los. O mesmo defeito que encurta suas vidas também corrói o condicionamento: parte dos clones nasce sem lealdade às Rainhas, e esses desertores formam o [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]]. [[lore/chefes/tyl_regor.md|Tyl Regor]] pesquisa a cura da Cloning Decay Syndrome em Urano; os **Kuva Liches**, super-soldados tornados imortais pelo Kuva, são a resposta das Rainhas ao problema da mortalidade.
 
----
 
-## 🏛️ Estrutura e Unidades
+## 🏛️ Estrutura e Unidades — Grineer
+
 
 ### Corps (divisões por teatro de operações)
 
@@ -102,9 +107,9 @@ No presente, o clone industrial cobra seu preço: **cada Grineer é geneticament
 > [!warning] Armadura escala
 > Ferrite e Alloy Armor reduzem o dano recebido de forma multiplicativa e **crescem com o nível do inimigo**. Em [[mecanicas/steel_path.md|Steel Path]] a armadura é o gargalo real, não a vida — por isso Corrosive (remoção de armadura) e Heat (remoção parcial + DoT) dominam builds anti-Grineer. Ver [[mecanicas/dano_e_status.md|Dano e Status]].
 
----
 
-## ⚔️ Chefes Grineer
+## ⚔️ Chefes Grineer — Grineer
+
 
 | Chefe | Onde | Recompensa principal |
 |---|---|---|
@@ -117,9 +122,9 @@ No presente, o clone industrial cobra seu preço: **cada Grineer é geneticament
 | The Grustrag Three (G3) | Caçam o Tenno após 5 Invasions a favor do Corpus | Mods Brakk/Detron-relacionados |
 | Sprag e Ven'kra Tel | Orokin Sabotage com Grineer dominante | Guardam a Void Key da missão |
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Grineer
+
 
 - **[[lore/faccoes/orokin.md|Orokin]]** — criadores e antigos donos. Os Grineer foram clonados como escravos Orokin; hoje caçam remanescentes Orokin, e as próprias Rainhas são Orokin adotadas pela facção.
 - **[[lore/faccoes/corpus.md|Corpus]]** — rival comercial e militar permanente. Disputam planetas em Invasions, mas o Corpus vende armamento aos Grineer.
@@ -129,9 +134,9 @@ No presente, o clone industrial cobra seu preço: **cada Grineer é geneticament
 - **[[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]]** — dissidência interna. Formado por Grineer defeituosos sem lealdade às Rainhas, liderados por Cressa Tellus a partir de Iron Wake, na Terra.
 - **[[mecanicas/sindicatos/ostron.md|Ostron]]** — população civil de Cetus que os Grineer não conseguem expulsar da Terra.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Grineer
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -146,9 +151,3 @@ No presente, o clone industrial cobra seu preço: **cada Grineer é geneticament
 | Ghoul Purge (Plains of Eidolon) | Surto periódico de Ghouls criados por Vay Hek |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Grineer (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Grineer_Tab (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Kuva_Lich (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Overview_Table (consultado em 2026-10-04)

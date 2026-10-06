@@ -1,9 +1,14 @@
 ---
 title: Arthur
+aliases: [Arthur]
 tipo: lore
 subtipo: personagem
+resumo: "Arthur — Soldado britânico que deu um ultimato aos superiores em vez de matar civis, pegou Techrot em Höllvania, procurou o Dr."
+status: completo
+rag: true
 tags: [lore, personagem, protoframe, 1999, techrot]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Arthur"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Soldado britânico que deu um ultimato aos superiores em vez de matar civis, pegou Techrot em Höllvania, procurou o Dr. Entrati por uma cura — e virou um Excalibur parcial que **manteve a mente**.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Arthur
+
 
 | Item | Valor |
 |---|---|
@@ -26,9 +31,9 @@ agente: opus
 | Protoframe | Baseado em **[[warframes/regular/excalibur.md\|Excalibur]]** |
 | Origem | **Britânico**; irmã **Eleanor** |
 
----
 
-## 📖 História
+## 📖 História — Arthur
+
 
 Originalmente um **homem britânico**, Arthur teve uma **infância idílica com Eleanor**, sem nunca ter brigado uma única vez com ela. Eleanor frequentemente **trançava o cabelo dele e usava maquiagem nele**. Existe um **aniversário que os dois lamentam anualmente**, data em que perderam alguém importante.
 
@@ -51,9 +56,9 @@ Eventualmente, **Arthur foi infectado pelo [[lore/faccoes/infested.md|Techrot]]*
 >
 > Ao acordar, é **confrontado pelo doutor e pela kavat dele**, que **sorri de forma sinistra** enquanto o **Voidtongue do Man in the Wall** é ouvido.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Arthur
+
 
 - **Eleanor** — a irmã, jornalista que entrou ilegalmente em Höllvania por causa do que ele contou. Foi ela quem apelidou a cepa de "Techrot".
 - **Aoi** — colega da ICR e **outra voluntária Protoframe**; o Protoframe dela corresponde à Mag.
@@ -66,9 +71,9 @@ Eventualmente, **Arthur foi infectado pelo [[lore/faccoes/infested.md|Techrot]]*
 - **The Hex** — o grupo de Protoframes de Höllvania a que ele pertence.
 - **[[lore/personagens/loid.md|Loid]]** — notou o redirecionamento da Transference.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Arthur
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -78,6 +83,3 @@ Eventualmente, **Arthur foi infectado pelo [[lore/faccoes/infested.md|Techrot]]*
 | Albrecht's Laboratories / Netracell | A pesquisa sobre a anatomia dele nos quadros-negros |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Arthur (consultado em 2026-10-04)

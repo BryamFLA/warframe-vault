@@ -1,10 +1,15 @@
 ---
 title: Circuits
+aliases: [Circuits]
 tipo: recurso
 raridade: comum
 origem: planeta
+resumo: "Circuits — Um recurso tecnológico básico, vital para a construção de armas Corpus e equipamentos eletrônicos."
+status: parcial
+rag: true
 tags: [recurso]
-atualizado: 2026-09-09
+fontes: ["https://wiki.warframe.com/w/Circuits"]
+atualizado: 2026-10-07
 verificado: false
 agente: gemini
 ---
@@ -14,9 +19,9 @@ agente: gemini
 > [!info] Resumo
 > Um recurso tecnológico básico, vital para a construção de armas Corpus e equipamentos eletrônicos.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Circuits
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: gemini
 | Aparece a partir de | [[locais/planetas/venus.md|Venus]] |
 | Afetado por boosters | Sim |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Circuits
+
 
 | Local | Missão / Método | Rendimento | Nota |
 |---|---|---|---|
@@ -40,9 +45,9 @@ agente: gemini
 
 **Mods e frames que ajudam:** Nekros (Desecrate), Khora (Pilfering Strangledome), mods de Vacuum/Fetch, Resource Booster.
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Circuits
+
 
 | Item | Quantidade |
 |---|---|
@@ -51,6 +56,3 @@ agente: gemini
 | Segmento de Modificação de Incubadora | 1.000 |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Circuits — drop e uso (consultado em 2026-09-09)

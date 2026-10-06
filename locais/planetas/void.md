@@ -1,11 +1,14 @@
 ---
 title: Void
+aliases: [Void]
 tipo: local
-status: nao-visitado
 faccao: Orokin
-tags:
-  - local
-atualizado: 2026-04-17
+resumo: Void — Dimensão Orokin com Torres e missões Fissure.
+status: stub
+rag: false
+tags: [local]
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Void
@@ -13,24 +16,25 @@ atualizado: 2026-04-17
 > [!info] Visão Geral
 > Dimensão Orokin com Torres e missões Fissure
 
-## Facção Principal
+## 🏴 Facção — Void
+
 - Orokin
 - Inimigos: Corrupted enemies (versões corrompidas de Grineer e Corpus)
 
-## Missões Disponíveis
+## 🗺️ Missões — Void
+
 - Exterminate, Defense, Survival, Sabotage, Capture (Fissure missions)
 
-## Chefe
-- [[corrupted_vor|Corrupted Vor]] — recompensa: mods Orokin, Argon Crystal
+## 👑 Chefe — Void
 
-## Recursos Notáveis
+- [[lore/chefes/corrupted_vor.md|Corrupted Vor]] — recompensa: mods Orokin, Argon Crystal
+
+## 💎 Recursos — Void
+
 - Argon Crystal
 - Forma
 - mods raros
 
-## Minha Progressão
-- [ ] Planeta desbloqueado
-- [ ] Chefe derrotado
+## 🔗 Relacionados — Void
 
-## Conexões
-- Chefe: [[corrupted_vor|Corrupted Vor]]
+- Chefe: [[lore/chefes/corrupted_vor.md|Corrupted Vor]]

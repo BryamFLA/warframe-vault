@@ -1,10 +1,15 @@
 ---
 title: Lunar Pitcher
+aliases: [Lunar Pitcher]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+resumo: "Recurso do tipo plant, farmado em Obtained by gathering Lunar Pitcher plants that grow on Lua, 1 por drop."
+status: completo
+rag: true
 tags: [recurso, open_world, plant]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Lunar_Pitcher", "https://wiki.warframe.com/w/Module:Resources/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “This carnivorous plant can be found growing in the wilderness on Lua.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Lunar Pitcher
+
 
 | Item | Valor |
 |---|---|
@@ -31,9 +36,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **Sim** |
 | Introduzido no Update | **Update: The Silver Grove** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Lunar Pitcher
+
 
 **Locais que o próprio jogo lista:** Obtained by gathering Lunar Pitcher plants that grow on Lua
 
@@ -53,16 +58,12 @@ No vault: [[locais/planetas/lua.md|Lua]].
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Lunar Pitcher
+
 
 | Item | Quantidade |
 |---|---|
 | ⚠️ NÃO VERIFICADO | Nenhuma receita do `Module:Resources/data` lista este item como componente e a página da wiki não traz Item Checklist parseável. Ele pode ser usado em **trocas de sindicato** ou **consumido direto** — usos que não estão nesses dados. Confira em https://wiki.warframe.com/w/Lunar_Pitcher |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Lunar_Pitcher — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)

@@ -1,9 +1,16 @@
 ---
 title: Vasca Kavat
-tipo: kavat
-tags:
-  - companheiro
-  - kavat
-status: nao-obtido
-atualizado: 2026-04-19
+aliases: [Vasca Kavat, vasca]
+tipo: companheiro
+subtipo: kavat
+resumo: Vasca Kavat — conteúdo ainda não preenchido no vault.
+status: stub
+rag: false
+tags: [companheiro, kavat]
+atualizado: 2026-10-07
+agente: opus
 ---
+
+# Vasca Kavat
+
+

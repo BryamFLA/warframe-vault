@@ -1,9 +1,14 @@
 ---
 title: Margulis
+aliases: [Margulis]
 tipo: lore
 subtipo: personagem
+resumo: "Margulis — A Archimedean que cuidou das crianças do Zariman mesmo depois de elas queimarem os olhos dela, criou a Transference, e foi executada pelos Seven por se recusar a abandoná-las."
+status: completo
+rag: true
 tags: [lore, personagem, orokin]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Margulis"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > A Archimedean que cuidou das crianças do Zariman mesmo depois de elas queimarem os olhos dela, criou a Transference, e foi executada pelos Seven por se recusar a abandoná-las.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Margulis
+
 
 | Item | Valor |
 |---|---|
@@ -26,9 +31,9 @@ agente: opus
 | Legado | A **Transference**, e por consequência as Warframes pilotáveis |
 | Condição | **Permanentemente cega**, pelos poderes das próprias crianças que cuidava |
 
----
 
-## 📖 História
+## 📖 História — Margulis
+
 
 > [!warning] Spoiler — The Second Dream / The War Within
 
@@ -53,9 +58,9 @@ No confronto final de [[missoes/jornadas/principais/the_new_war.md|The New War]]
 
 Em **The Old Peace**, no Dark Refractory, quando o Operator mergulha nas próprias memórias pela segunda vez, **uma imagem de Margulis cegada pelos Tenno aparece brevemente**.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Margulis
+
 
 - **[[lore/faccoes/tenno.md|Tenno]]** — as crianças que ela protegeu, que a cegaram sem querer, e que massacraram os Orokin em vingança pela execução dela.
 - **[[lore/personagens/ballas.md|Ballas]]** — amava-a de verdade e, como Executor, participou da execução dela. Morreu beijando uma ilusão dela.
@@ -65,9 +70,9 @@ Em **The Old Peace**, no Dark Refractory, quando o Operator mergulha nas própri
 - **The Seven** — o conselho de Executors que a condenou.
 - **[[locais/open-worlds/zariman.md|Zariman Ten Zero]]** — a origem das crianças que ela cuidou.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Margulis
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -78,6 +83,3 @@ Em **The Old Peace**, no Dark Refractory, quando o Operator mergulha nas própri
 | The Old Peace / Dark Refractory | Imagem dela cegada pelos Tenno |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Margulis (consultado em 2026-10-04)

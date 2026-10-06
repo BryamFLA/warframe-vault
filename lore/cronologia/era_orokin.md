@@ -1,9 +1,14 @@
 ---
 title: 01. A Era Orokin
+aliases: [01. A Era Orokin, era orokin]
 tipo: lore
 subtipo: cronologia
+resumo: "01. A Era Orokin — Uma aristocracia imortal que dominou todo o Sistema de Origem em quatro eras, proibiu inteligência de máquina por princípio, e cuja obsessão por colonizar Tau produziu — nessa ordem — os Tenno, os Sentients e as Warframes."
+status: completo
+rag: true
 tags: [lore, cronologia, orokin]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Orokin", "https://wiki.warframe.com/w/Albrecht_Entrati"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Uma aristocracia imortal que dominou todo o Sistema de Origem em quatro eras, proibiu inteligência de máquina por princípio, e cuja obsessão por colonizar Tau produziu — nessa ordem — os Tenno, os Sentients e as Warframes.
 
----
 
-## 🕰️ Linha do Tempo
+## 🕰️ Linha do Tempo — 01. A Era Orokin
+
 
 | Evento | Quando | O que aconteceu |
 |---|---|---|
@@ -31,9 +36,9 @@ agente: opus
 | Execução de Margulis | Pouco depois | Ela se recusa a matar as crianças; **os Seven a executam** por apostasia e traição — com [[lore/personagens/ballas.md\|Ballas]] participando como Executor |
 | Criação dos Sentients | Segunda tentativa de ir a Tau | Máquinas terraformadoras autoadaptativas, **com fraqueza ao Void embutida** para serem descartáveis → [[lore/faccoes/sentient.md\|Sentient]] |
 
----
 
-## 📖 História
+## 📖 História — 01. A Era Orokin
+
 
 O Império era **tecnologicamente incomparável e socialmente brutal**. A tecnologia superava qualquer coisa moderna — as **Solar Rails** ainda funcionam hoje — mas a sociedade era estratificada ao ponto de **só o topo ser considerado "Orokin de verdade"**. A mobilidade de classe era privilégio de pouquíssimos; esperava-se servidão inquestionada aos senhores quase-divinos. **Capitalismo era visto com suspeita**, justamente pelo potencial de elevar indivíduos acima da classe de nascimento.
 
@@ -43,9 +48,9 @@ E havia uma proibição reveladora: **a criação de verdadeira inteligência de
 
 A estética era obsessiva: branco, ouro, preto, cinza, bege e azul; estruturas gigantescas com ornamentos dourados, corredores longos e tetos altíssimos. Até os rifles de infantaria mais básicos tinham esse acabamento luxuoso. Alguns Orokin de alto escalão **modificavam o próprio corpo** para uma aparência mais selvagem e bela do que seria naturalmente possível — pele azul e braço direito alongado.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — 01. A Era Orokin
+
 
 - **[[lore/cronologia/antiga_guerra.md|A Antiga Guerra]]** — a era seguinte, consequência direta da criação dos Sentients.
 - **[[lore/faccoes/orokin.md|Orokin]]** — a ficha completa da facção, com hierarquia e inimigos Corrupted.
@@ -54,9 +59,9 @@ A estética era obsessiva: branco, ouro, preto, cinza, bege e azul; estruturas g
 - **[[locais/open-worlds/zariman.md|Zariman Ten Zero]]** — o acidente que cria os Tenno.
 - **[[lore/faccoes/dax.md|Dax]]** — a elite militar da era, incapaz de desobedecer a quem porta Kuva.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — 01. A Era Orokin
+
 
 | Quest / Conteúdo | O que mostra desta era |
 |---|---|
@@ -68,7 +73,3 @@ A estética era obsessiva: branco, ouro, preto, cinza, bege e azul; estruturas g
 | Relics (Lith, Meso, Neo, Axi) | Nomeadas pelas quatro eras de expansão |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Orokin (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Albrecht_Entrati (consultado em 2026-10-04)

@@ -1,9 +1,14 @@
 ---
 title: Jordas Golem
+aliases: [Jordas Golem]
 tipo: lore
 subtipo: chefe
+resumo: Jordas Golem — Uma plataforma de combate feita de carne Infested fundida com tecnologia de nave Corpus e um Cephalon corrompido — luta de Archwing em que só os motores das costas dele são vulneráveis.
+status: completo
+rag: true
 tags: [lore, chefe, infested, archwing]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Jordas_Golem", "https://wiki.warframe.com/w/Damage_2.0/Infested_Tab"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Uma plataforma de combate feita de carne Infested fundida com tecnologia de nave Corpus **e um Cephalon corrompido** — luta de Archwing em que só os motores das costas dele são vulneráveis.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Jordas Golem
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Ativo. Um dos dois chefes de [[locais/planetas/eris.md\|Eris]], ao lado de Mutalist Alad V |
 | Dublagem | Cephalon Jordas |
 
----
 
-## 📖 História
+## 📖 História — Jordas Golem
+
 
 O Jordas Golem é a prova mais literal do que a cepa **Mutalist** faz. Criada por [[lore/chefes/alad_v.md|Alad V]], essa cepa foi a primeira a permitir que a Infestação **assimilasse inteligência artificial** diretamente — não só máquinas, mas **Cephalons**. O Golem é o resultado: uma **plataforma de combate massiva** formada pela amálgama de **carne Infested + tecnologia de nave [[lore/faccoes/corpus.md|Corpus]] + um Cephalon corrompido**.
 
@@ -35,9 +40,9 @@ Esse Cephalon é **Jordas**, e é daí que vem o nome. A quest [[missoes/jornada
 
 É um dos dois chefes de [[locais/planetas/eris.md|Eris]]; o outro é **Mutalist Alad V**, o próprio criador da cepa, que acabou sucumbindo à Infestação que inventou.
 
----
 
-## ⚔️ Combate
+## ⚔️ Combate — Jordas Golem
+
 
 | Item | Detalhe |
 |---|---|
@@ -68,9 +73,9 @@ Os dois erros comuns: tentar atirar de frente (nada entra) e tentar manter dist�
 
 **Archwings/armas recomendados:** [[armas/archwing/imperator_vandal.md|Imperator Vandal]] ou [[armas/archwing/larkspur.md|Larkspur]] para dano sustentado nos motores; [[armas/archwing/velocitus.md|Velocitus]] para burst; a **Odonata** se o Ball Lightning estiver sendo o problema.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Jordas Golem
+
 
 - **[[lore/chefes/alad_v.md|Alad V]]** — criador da cepa Mutalist que permitiu a assimilação de IA; depois virou **Mutalist Alad V**, o outro chefe de Eris.
 - **Cephalon Jordas** — o Cephalon corrompido incorporado no Golem; dá nome a ele e à quest.
@@ -80,9 +85,9 @@ Os dois erros comuns: tentar atirar de frente (nada entra) e tentar manter dist�
 - **[[lore/chefes/hemocyte.md|Hemocyte]]** e **[[lore/chefes/phorid.md|Phorid]]** — os outros chefes Infested.
 - **[[lore/personagens/cephalon_cy.md|Cephalon Cy]]** — outro Cephalon danificado, para contraste: Cy foi recuperado, Jordas não.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Jordas Golem
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -91,7 +96,3 @@ Os dois erros comuns: tentar atirar de frente (nada entra) e tentar manter dist�
 | [[missoes/jornadas/principais/the_archwing.md\|The Archwing]] | Pré-requisito: a luta é inteiramente em Archwing |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Jordas_Golem (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Infested_Tab (consultado em 2026-10-04)

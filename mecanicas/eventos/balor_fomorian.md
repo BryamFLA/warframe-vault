@@ -1,8 +1,13 @@
 ---
 title: Balor Fomorian
+aliases: [Balor Fomorian]
 tipo: mecanica
+resumo: "Balor Fomorian — A maior classe de Fomorian Grineer, enfrentada num alerta de Fomorian Sabotage de Archwing: aproximar-se sob o canhão de cerco, destruir os geradores de escudo, detonar o núcleo com o Fomorian Disruptor e fugir 1.400 m em 30 segundos."
+status: completo
+rag: true
 tags: [mecanica, evento, balor-fomorian, grineer, archwing, relay, vay-hek]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Balor_Fomorian"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > A maior classe de Fomorian Grineer, enfrentada num alerta de **Fomorian Sabotage** de Archwing: aproximar-se sob o canhão de cerco, destruir os geradores de escudo, detonar o núcleo com o **Fomorian Disruptor** e fugir 1.400 m em 30 segundos.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Balor Fomorian
+
 
 > *"Bek! Conheça o Balor! Seu destino! MEU FUTURO!"* — Conselheiro [[lore/chefes/vay_hek.md\|Vay Hek]], provocando Frohd Bek em The Archwing
 
@@ -25,9 +30,9 @@ Aparecem ocasionalmente num alerta de **Fomorian Sabotage**, como **chefe Grinee
 > [!important] A fraqueza do Balor
 > Apesar do tamanho, o Balor Fomorian **não tem defesa confiável contra os Tenno**: ele só tem o **mesmo canhão laser de cerco impreciso**, que precisa ser **carregado a cada tiro**. Por isso ele compensa com uma escolta grande de tropas espaciais.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Balor Fomorian
+
 
 ```
 Multiplicador de dano no núcleo:
@@ -75,9 +80,9 @@ Drops de missão:
 - **Basta um Tenno escapar** da distância crítica para a missão contar como concluída.
 - O **Imperator Vandal exige Mastery Rank 5**, e os componentes dele só vêm deste evento.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Balor Fomorian
+
 
 ### A missão, passo a passo
 
@@ -111,9 +116,9 @@ Drops de missão:
 | **Ion Infusion** | 5,00% |
 | **Infectious Injection** | 5,00% |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Balor Fomorian
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -126,9 +131,9 @@ Drops de missão:
 | Farmar Endo | **400 Endo com 40% de chance** por Fomorian abatido — a recompensa mais consistente do evento |
 | Não contar com o Elytron | O exploit de empilhar **Thumper** no núcleo morreu na **Hotfix 17.7.1 (2015-10-15)**, junto com todas as habilidades de Archwing perto do núcleo |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Balor Fomorian
+
 
 - **"Vou usar habilidade de Archwing no núcleo."** **Todas** ficam desativadas a menos de 350 m (1.400 m de Archwing) do núcleo, desde a Hotfix 17.7.1.
 - **"Thumper do Elytron multiplica o dano."** Funcionava **antes** da Hotfix 17.7.1. Hoje não.
@@ -139,9 +144,9 @@ Drops de missão:
 - **"Dá para ignorar o Zeplen."** Não: só destruindo o Zeplen se sai da rede de energia, e preso nela você come o laser de cerco.
 - **"O Imperator Vandal cai em qualquer Archwing."** Só neste evento, e exige **MR 5**.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Balor Fomorian
+
 
 - [[mecanicas/eventos/_Eventos _Indice.md|Eventos]] — o Balor Fomorian é o espelho Grineer do [[mecanicas/eventos/razorback_armada.md\|Razorback Armada]] Corpus; os dois dependem do menu de Invasion.
 - [[mecanicas/eventos/razorback_armada.md|Razorback Armada]] — o evento equivalente do lado Corpus.
@@ -157,6 +162,3 @@ Drops de missão:
 - [[recursos/raridades/especial/endo.md|Endo]] — 400 com 40% de chance, o drop mais frequente.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Balor_Fomorian — classificação como a classe mais forte de Fomorian, aparição em Fomorian Sabotage como chefe de Archwing, arsenal e fraqueza (canhão de cerco impreciso que precisa carregar), escolta de Dargyn, Dreg, Ogma e o Zeplen exclusivo com a rede de energia, estratégia completa (cobertura, aviso no HUD, dois Shield Generators, Fomorian Disruptor, janela de 30 s, multiplicador de +0,25x por nó com teto de 5,0x, fuga de 1.400 m em 30 s e a regra de um sobrevivente bastar), desativação de habilidades de Archwing a 350 m desde a Hotfix 17.7.1, tabela de drops com chances (consultado em 2026-10-04)

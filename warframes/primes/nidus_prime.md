@@ -1,29 +1,37 @@
 ---
 title: Nidus Prime
+aliases: [Nidus Prime]
 tipo: warframe
-status: nao-obtido
+resumo: Nidus Prime — 1.
+status: stub
+rag: false
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Nidus Prime
 
-> [!info] 
+> [!info]
 
-## 🏗️ Como Obter
+## 🏗️ Como Construir — Nidus Prime
 
 
-## 🔮 Habilidades
+## 🔮 Habilidades — Nidus Prime
+
 1. **Passiva:** 
 2. **Habilidade 1:** 
 3. **Habilidade 2:** 
 4. **Habilidade 3:** 
-5. **Habilidade 4:** 
+5. **Habilidade 4:**
 
-## 📊 Stats Base
+## 📊 Stats Base — Nidus Prime
+
 - **Vida:**
 - **Escudos:**
 - **Armadura:**
 - **Energia:**
 - **Velocidade:**
 
-## ⚙️ Progressão e Conexões
-- **Mascote/Arma Assinatura:** 
+## 🔗 Relacionados — Nidus Prime
+
+- **Mascote/Arma Assinatura:**

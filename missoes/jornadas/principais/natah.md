@@ -1,9 +1,14 @@
 ---
 title: Natah
+aliases: [Natah]
 tipo: missao
 subtipo: jornada
+resumo: "Natah — A quest que revela que a Lotus é Sentient: drones estranhos em Urano levam o Tenno a um destroço da Antiga Guerra — e a um segredo que ela escondeu desde o início."
+status: completo
+rag: true
 tags: [missao, jornada, principal]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Natah_(Quest"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > A quest que revela que a Lotus é Sentient: drones estranhos em Urano levam o Tenno a um destroço da Antiga Guerra — e a um segredo que ela escondeu desde o início.
 
----
 
-## 📖 Narrativa e Pré-requisitos
+## 📖 Narrativa e Pré-requisitos — Natah
+
 
 | Item | Detalhe |
 |---|---|
@@ -33,25 +38,25 @@ agente: opus
 >
 > A causa imediata de tudo isso: foi **[[lore/chefes/tyl_regor.md|Tyl Regor]]**, escavando o oceano de Urano em busca de cura para a Cloning Decay Syndrome dos [[lore/faccoes/grineer.md|Grineer]], quem **desenterrou e reacendeu os restos de Hunhow**. O Tenno e [[lore/personagens/teshin.md|Teshin]] partem para **selar a tumba outra vez** — e, enquanto isso, Hunhow fala diretamente com a Lotus, decepcionado com a traição dela.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Natah
+
 
 | Recompensa | Nota |
 |---|---|
 | **Exilus Warframe Adapter** | Destrava o slot Exilus de uma Warframe |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Natah
+
 
 - Esta é a primeira das **três quests de revelação** do jogo (Natah → The Second Dream → The Sacrifice). Jogue-as em ordem e sem spoiler: a estrutura narrativa depende disso.
 - Depois dela, o diálogo da Lotus em todas as missões muda de significado — vale notar.
 - O destroço da Antiga Guerra em Urano e a tumba de Hunhow continuam acessíveis como cenário depois.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Natah
+
 
 - **[[lore/personagens/lotus.md|Lotus]] / Natah** — a revelação central.
 - **[[lore/personagens/hunhow.md|Hunhow]]** — o pai dela, desenterrado aqui.
@@ -61,6 +66,3 @@ agente: opus
 - **[[lore/cronologia/era_do_despertar.md|A Era do Despertar]]** — a era em que isso acontece.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Natah_(Quest) (consultado em 2026-10-04)

@@ -1,8 +1,13 @@
 ---
 title: Facções — Índice
+aliases: [Facções — Índice, Faccoes — Indice, Faccoes  Indice]
 tipo: index
+resumo: "Oito facções documentadas: três que você enfrenta todo dia (Grineer, Corpus, Infested), três que explicam a história (Orokin, Sentient, Tenno) e duas de nicho (Dax, The Murmur)."
+status: completo
+rag: true
 tags: [index, lore, faccao]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Factions", "https://wiki.warframe.com/w/Damage_2.0/Overview_Table"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Oito facções documentadas: três que você enfrenta todo dia (Grineer, Corpus, Infested), três que explicam a história (Orokin, Sentient, Tenno) e duas de nicho (Dax, The Murmur).
 
----
 
-## A pergunta que todo mundo faz primeiro: qual elemento eu uso?
+## A pergunta que todo mundo faz primeiro: qual elemento eu uso? — Facções — Índice
+
 
 | Facção | Saúde | Armadura / defesa | Combinação recomendada |
 |---|---|---|---|
@@ -29,9 +34,9 @@ agente: opus
 
 Detalhe completo por tipo de dano em cada arquivo e em [[mecanicas/dano_e_status.md|Dano e Status]].
 
----
 
-## Mapa de conflito
+## Mapa de conflito — Facções — Índice
+
 
 | Facção | O que é, em uma linha | Criada por | Inimigo principal |
 |---|---|---|---|
@@ -44,9 +49,9 @@ Detalhe completo por tipo de dano em cada arquivo e em [[mecanicas/dano_e_status
 | [[lore/faccoes/dax.md\|Dax]] | Elite militar Orokin, incapaz de desobedecer | Orokin | Extintos; Anarchs contra os Sentients |
 | [[lore/faccoes/murmur.md\|The Murmur]] | Construtos de Void feitos pelo Man in the Wall | The Indifference | O legado de Albrecht Entrati |
 
----
 
-## A linha causal, em cinco passos
+## A linha causal, em cinco passos — Facções — Índice
+
 
 1. Os **Orokin** querem colonizar Tau e lançam a nave **Zariman** → nascem os **Tenno**.
 2. Tau exige terraformação → criam os **Sentients**, que ganham consciência e voltam para a guerra.
@@ -56,9 +61,9 @@ Detalhe completo por tipo de dano em cada arquivo e em [[mecanicas/dano_e_status
 
 Detalhe cronológico em [[lore/cronologia/cronologia.md|Cronologia]].
 
----
 
-## Facções reais que ainda não têm arquivo
+## Facções reais que ainda não têm arquivo — Facções — Índice
+
 
 > [!warning] Pendência para o humano
 > As facções abaixo existem no jogo e **não têm arquivo neste vault**. Pela convenção 2 do [[_MODELOS/_CONVENCOES.md|_CONVENCOES]], nenhum agente pode criar arquivos — alguém precisa criá-los antes de serem preenchidos.
@@ -74,7 +79,3 @@ Detalhe cronológico em [[lore/cronologia/cronologia.md|Cronologia]].
 | Amalgam | Gas City de Júpiter — cobertos em `corpus.md` e `sentient.md` |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Factions (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Overview_Table (consultado em 2026-10-04)

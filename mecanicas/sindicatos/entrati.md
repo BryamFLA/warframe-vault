@@ -1,8 +1,13 @@
 ---
 title: Entrati
+aliases: [Entrati]
 tipo: mecanica
+resumo: "Entrati — Família Orokin parcialmente Infestada que vive no Necralisk, em Deimos; sindicato neutro cujo Standing não é ganho direto — você recebe Tokens de cada membro da família e os troca com a Grandmother."
+status: completo
+rag: true
 tags: [mecanica, sindicato, entrati, deimos, necralisk, tokens, neutro]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Entrati", "https://wiki.warframe.com/w/Helminth"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Família Orokin parcialmente Infestada que vive no Necralisk, em Deimos; **sindicato neutro** cujo Standing **não é ganho direto** — você recebe **Tokens** de cada membro da família e os troca com a Grandmother.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Entrati
+
 
 Os **Entrati** (ou Casa Entrati) são uma **família Orokin** reclusa que habita o **Necralisk**, um enclave de pesquisa do Void na lua agora Infestada de **Deimos**. Na Era Orokin foram renomados por serem **os primeiros a criar tecnologias que domavam o poder do Void**. Hoje, os únicos sobreviventes são um **único lar disfuncional** no Cambion Drift. Todos são **parcialmente Infestados** — a hive mind tomou os nomes individuais deles, mas eles conservam as personalidades e as brigas internas.
 
@@ -25,9 +30,9 @@ Para acessar o sindicato por completo é preciso concluir **[[missoes/jornadas/p
 > [!important] Aqui não se ganha Standing direto
 > Diferente do [[mecanicas/sindicatos/ostron.md\|Ostron]] e do [[mecanicas/sindicatos/solaris_united.md\|Solaris United]], os Entrati dão **Entrati Family Tokens** por tarefa, não Standing. **Os Tokens são trocados com a Grandmother por Standing.** É uma camada extra de conversão — e é onde está o truque de eficiência do sindicato.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Entrati
+
 
 ```
 Como ganhar cada Token:
@@ -69,9 +74,9 @@ do Cambion Drift. 8 trocas disponíveis por vez, ciclando a cada 8 horas.
 - Sendo neutro, não há demoção nem Standing negativo.
 - O **Rank 5 não cobra Credits** — só itens e Tokens. É o único sindicato de open world assim.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Entrati
+
 
 ### Ranks, sacrifícios e benefícios
 
@@ -105,9 +110,9 @@ do Cambion Drift. 8 trocas disponíveis por vez, ciclando a cada 8 horas.
 | **Otak** | Equipamento de mineração do Cambion Drift |
 | **Grandmother** | Conversão de Token, "Mend the Family", cosméticos e decorações |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Entrati
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -121,9 +126,9 @@ do Cambion Drift. 8 trocas disponíveis por vez, ciclando a cada 8 horas.
 | Economizar Credits | Diferente do Ostron, do Solaris United e da Vox Solaris, os ranks dos Entrati **não cobram Credits** |
 | Necramech | As peças e as armas de Necramech saem com o **Father**; os Necramechs em si vêm dos **Isolation Vaults** e da [[mecanicas/sindicatos/necraloid.md\|Necraloid]] |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Entrati
+
 
 - **"Faço tarefa e ganho Standing."** Não. Você ganha **Token**. O Standing só vem ao entregar Token à **Grandmother**.
 - **"Token é Token, tanto faz entregar."** Faz muita diferença: converter para **Grandmother Token** rende **+50%** (razão 2:3).
@@ -134,9 +139,9 @@ do Cambion Drift. 8 trocas disponíveis por vez, ciclando a cada 8 horas.
 - **"Vulpaphyla sem gilding dá Mastery."** Não. Como Kitgun, Zaw, Amp e MOA, precisa gildar.
 - **"Mend the Family tem estoque fixo."** São **8 trocas**, ciclando a cada **8 horas**.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Entrati
+
 
 - [[mecanicas/helminth.md|Helminth]] — o Helminth Segment (Rank 3) e o Invigoration Segment (Rank 5) saem do Son, e ambos exigem MR 8.
 - [[mecanicas/sindicatos/necraloid.md|Necraloid]] — o sindicato irmão em Deimos, do Loid, ligado aos Necramechs.
@@ -154,7 +159,3 @@ do Cambion Drift. 8 trocas disponíveis por vez, ciclando a cada 8 horas.
 - [[mecanicas/eventos/plague_star.md|Plague Star]] — o evento de Infestação, de tema vizinho.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Entrati — história da família, papel do Heart e das palavras Requiem, requisito de Heart of Deimos, sistema de Entrati Family Tokens (qual membro dá qual Token e por qual tarefa), valores exatos de Standing por Token, razão 2:3 da conversão pela Grandmother, "Mend the Family" com 8 trocas ciclando a cada 8 h, tabela completa de ranks com sacrifício e benefício (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Helminth — custo e rank exigido do Helminth Segment (15.000, Rank 3) e do Invigoration Segment (30.000, Rank 5), ambos com o Son (consultado em 2026-10-04)

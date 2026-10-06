@@ -1,9 +1,14 @@
 ---
 title: Void Cascade
+aliases: [Void Cascade]
 tipo: missao
 subtipo: tipo
+resumo: "Void Cascade — Modo endless do locais/open-worlds/zariman.md|Zariman Ten Zero: purgar Exolizers possuídos pelo Void usando o Operator/Drifter, defendê-los dos Thrax Centurions que tentam repossuí-los, e manter o medidor de Cascade longe do topo."
+status: completo
+rag: true
 tags: [missao, tipo, endless, zariman]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Void_Cascade", "https://wiki.warframe.com/w/Module:Missions/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Modo endless do [[locais/open-worlds/zariman.md|Zariman Ten Zero]]: purgar Exolizers possuídos pelo Void usando o **Operator/Drifter**, defendê-los dos **Thrax Centurions** que tentam repossuí-los, e manter o medidor de **Cascade** longe do topo.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Void Cascade
+
 
 | Item | Detalhe |
 |---|---|
@@ -27,9 +32,9 @@ agente: opus
 | Equipamento obrigatório | **Amp de Void** no Operator/Drifter — sem Amp não há como purgar |
 | Nós no jogo | **1** — Tuvul Commons, Zariman |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Void Cascade
+
 
 1. Periodicamente nasce um **Exolizer possuído pelo Void**, contaminado por várias fendas.
 2. O Exolizer contaminado tem uma **barreira de 20 metros de raio** que **força Transference na entrada** — o mesmo efeito de um campo de Orphix. Dentro dela você joga obrigatoriamente como Operator/Drifter.
@@ -49,9 +54,9 @@ agente: opus
 
 **Rotações de recompensa:** recompensa a cada **4 Exolizers purgados expirados**, na ordem **AABC**.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Void Cascade
+
 
 | Planeta | Nó | Facção | Nível | Tileset |
 |---|---|---|---|---|
@@ -59,9 +64,9 @@ agente: opus
 
 **Melhor nó para farmar:** **Tuvul Commons** é o único. É também um dos poucos nós com **Omnia Void Fissure** em vez de fissura normal — ver [[missoes/tipos/void_fissure.md|Void Fissure]].
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Void Cascade
+
 
 | Recompensa | Rotação | Chance | Nota |
 |---|---|---|---|
@@ -75,9 +80,9 @@ agente: opus
 > [!warning] Tabela parcial
 > Só estão aqui as entradas confirmadas nesta sessão. Pela seção 8 das convenções **não completo a drop table de memória** — a tabela integral está em https://wiki.warframe.com/w/Void_Cascade/Rewards.
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Void Cascade
+
 
 - **Amp de Void é obrigatório, não opcional.** São **7.500 de dano de Void** por Manifestation; um Amp fraco faz a run inteira depender dos seus companheiros. Vale subir o Amp em [[mecanicas/sindicatos/vox_solaris.md|Vox Solaris]] / [[mecanicas/sindicatos/the_quills.md|The Quills]] antes de farmar o modo.
 - **Não deixe mais de um Exolizer possuído no campo.** O medidor de Cascade enche **em função de quantos estão possuídos** — dois ao mesmo tempo é o que mata a run.
@@ -87,7 +92,3 @@ agente: opus
 - **Thrax Legatus são a prioridade de abate**, não os Centurions — eles existem só para te impedir de chegar ao Exolizer.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Void_Cascade — barreira de 20 m, 7.500 de dano de Void, Thrax Centurion/Legatus, Exolizer purgado por 90 s, 4 por rotação, condição de falha do Cascade, condição das Bounties do Quinn, rotação AABC e recompensas (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Missions/data — nó Tuvul Commons, Zariman, nível 50–55, pré-requisito (consultado em 2026-10-06)

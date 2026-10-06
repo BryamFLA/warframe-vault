@@ -1,10 +1,15 @@
 ---
-title: "Voidplume Drift (não existe no jogo)"
+title: Voidplume Drift (não existe no jogo)
+aliases: [Voidplume Drift (não existe no jogo), Voidplume Drift (nao existe no jogo), voidplume drift]
 tipo: recurso
+resumo: "Não existe Voidplume Drift."
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+status: parcial
+rag: true
 tags: [recurso, open_world, inexistente]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Zariman_Ten_Zero", "https://wiki.warframe.com/w/Module:Resources/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -18,9 +23,9 @@ agente: opus
 >
 > Pela **seção 2 das convenções** (nunca criar, renomear ou apagar arquivos), o arquivo fica como está, documentando a ausência em vez de inventar um recurso.
 
----
 
-## ✅ Os itens reais mais próximos
+## ✅ Os itens reais mais próximos — Voidplume Drift (não existe no jogo)
+
 
 | Item real | No vault |
 |---|---|
@@ -31,14 +36,3 @@ agente: opus
 | **Voidplume Pinion** | `recursos/open_worlds/zariman/voidplume_pinion.md` |
 
 ---
-
-## 💡 Pendência para o humano
-
-- **Decisão sua:** este arquivo pode ser **apagado** ou **renomeado** para um item que exista de fato. Eu não faço nenhuma das duas coisas pela seção 2 das convenções.
-- **Itens reais sem arquivo no vault:** **Voidplume Vane**.
-
----
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Zariman_Ten_Zero — confirmação dos itens que de fato existem nesse conjunto (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha de todos os recursos do jogo; nenhuma entrada com este nome (consultado em 2026-10-06)

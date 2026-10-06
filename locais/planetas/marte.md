@@ -1,11 +1,14 @@
 ---
 title: Marte
+aliases: [Marte, Mars]
 tipo: local
-status: nao-visitado
 faccao: Grineer/Corpus
-tags:
-  - local
-atualizado: 2026-04-17
+resumo: Marte — Planeta árido com territórios disputados.
+status: stub
+rag: false
+tags: [local]
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Marte
@@ -13,24 +16,25 @@ atualizado: 2026-04-17
 > [!info] Visão Geral
 > Planeta árido com territórios disputados
 
-## Facção Principal
+## 🏴 Facção — Marte
+
 - Grineer/Corpus
 - Inimigos: Lancers, Crewmen, Hyenas
 
-## Missões Disponíveis
+## 🗺️ Missões — Marte
+
 - Exterminate, Defense, Spy, Mobile Defense
 
-## Chefe
-- [[lech_kril|Lech Kril & Vor (War)]] — recompensa: [[excalibur|Excalibur]] partes
+## 👑 Chefe — Marte
 
-## Recursos Notáveis
+- [[lore/chefes/lech_kril.md|Lech Kril & Vor (War)]] — recompensa: [[warframes/regular/excalibur.md|Excalibur]] partes
+
+## 💎 Recursos — Marte
+
 - Morphics
 - Gallium
 - Rubedo
 
-## Minha Progressão
-- [ ] Planeta desbloqueado
-- [ ] Chefe derrotado
+## 🔗 Relacionados — Marte
 
-## Conexões
-- Chefe: [[lech_kril|Lech Kril]]
+- Chefe: [[lore/chefes/lech_kril.md|Lech Kril]]

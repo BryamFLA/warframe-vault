@@ -1,10 +1,15 @@
 ---
 title: Norg Brain
+aliases: [Norg Brain]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+resumo: "Norg Brain — Recurso do tipo fish part, cuja melhor fonte confirmada é Narmer Thumper."
+status: completo
+rag: true
 tags: [recurso, open_world, fish_part]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Norg_Brain", "https://wiki.warframe.com/w/Module:Resources/data", "https://wiki.warframe.com/w/Module:DropTables/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “An Ostron delicacy.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Norg Brain
+
 
 | Item | Valor |
 |---|---|
@@ -32,9 +37,9 @@ agente: opus
 > [!note] Nota do jogo
 > Source: Cut from Norg fish via Fisher Hai-Luk in Cetus (Earth). Catch Norg in the Plains of Eidolon lake at Night using Norg Bait. Also drops from Thumpers in the Plains of Eidolon.
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Norg Brain
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -56,9 +61,9 @@ agente: opus
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Norg Brain
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este recurso:
 
@@ -73,8 +78,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este recurso
 > Total de **5** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Norg_Brain — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)

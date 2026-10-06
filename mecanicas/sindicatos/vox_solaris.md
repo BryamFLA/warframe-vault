@@ -1,8 +1,13 @@
 ---
 title: Vox Solaris
+aliases: [Vox Solaris]
 tipo: mecanica
+resumo: "Vox Solaris — A camada secreta do Solaris United, conhecida só pela Eudico e pelos Quills: organiza os Heists contra os Orbs e vende, pela Little Duck, os Amps de tier alto, os arcanes Magus/Virtuos restantes e os blueprints de Baruuk e Hildryn — pagos e."
+status: completo
+rag: true
 tags: [mecanica, sindicato, vox-solaris, toroid, amp, arcanes, heist, neutro]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Vox_Solaris_(Syndicate"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -15,9 +20,9 @@ agente: opus
 > [!warning] Spoiler — Vox Solaris e The War Within
 > Exige concluir a quest **Vox Solaris**, a quest **The War Within**, e ter falado com o **Onkko** pelo menos uma vez (para abrir [[mecanicas/sindicatos/the_quills.md\|The Quills]]).
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Vox Solaris
+
 
 A Vox Solaris é uma **operação secreta** conhecida apenas pelos líderes do [[mecanicas/sindicatos/solaris_united.md\|Solaris United]], com associação conhecida aos [[mecanicas/sindicatos/the_quills.md\|Quills]]. Eles **coordenam a resistência anti-Corpus** por trás do SU público, e especificamente organizam os **Heists Tenno** contra o gigantesco **[[lore/chefes/profit_taker.md\|Profit-Taker Orb]]** e os **[[lore/chefes/exploiter_orb.md\|Exploiter Orbs]]** que vagam pelo Orb Vallis.
 
@@ -27,9 +32,9 @@ A vendedora é a **[[lore/personagens/little_duck.md\|Little Duck]]**, e ela **s
 
 Mecanicamente é um **sindicato neutro**: o Standing vem de **entregar Toroids** à Little Duck, e de entregar **Amps construídos no rank máximo**, gildados ou não.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Vox Solaris
+
 
 ```
 Standing por entrega à Little Duck:
@@ -63,9 +68,9 @@ Onde cada Toroid comum cai:
 - A Little Duck **não fala com o Warframe** — só Operator ou Drifter.
 - Sendo neutro, não há demoção nem Standing negativo.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Vox Solaris
+
 
 ### Ranks, sacrifícios e benefícios
 
@@ -118,9 +123,9 @@ Onde cada Toroid comum cai:
 | 1–5 | Vox Solaris Sigil (Operative, Agent, Hand, Instrument, Shadow) | 5.000 / 10.000 / 15.000 / 20.000 / 30.000 |
 | **5** | Praghasa Throne Room Scene | 130.000 |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Vox Solaris
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -135,9 +140,9 @@ Onde cada Toroid comum cai:
 | Planejar os Credits | O Rank 5 custa **1.000.000 de Credits** — o sacrifício mais caro de qualquer sindicato do jogo |
 | Encadear a progressão | Solaris United até **Old Mate** → Eudico libera os **Heists** → Profit-Taker dropa o **Crisma Toroid** → Rank 5 da Vox Solaris |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Vox Solaris
+
 
 - **"A Little Duck fala comigo de Warframe."** Não. **Só Operator ou Drifter**.
 - **"Vox Solaris é o mesmo que Solaris United."** São dois sindicatos com Standings **separados**. O SU é a face pública; a Vox Solaris é a camada secreta, com Little Duck em vez de Eudico.
@@ -148,9 +153,9 @@ Onde cada Toroid comum cai:
 - **"Posso chegar ao Rank 5 sem o Profit-Taker."** O **Crisma Toroid** do sacrifício é drop dele, e ele exige **Rank 5 no Solaris United**.
 - **"Subir Vox Solaris derruba algum sindicato."** É **neutro**.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Vox Solaris
+
 
 - [[mecanicas/sindicatos/solaris_united.md|Solaris United]] — a face pública; o Rank 5 dele libera os Heists que dão o Crisma Toroid.
 - [[mecanicas/sindicatos/the_quills.md|The Quills]] — os Amps de tier 1 a 4, o **gilding de Amp** e os outros arcanes Magus/Virtuos. Falar com o Onkko é pré-requisito daqui.
@@ -167,6 +172,3 @@ Onde cada Toroid comum cai:
 - [[missoes/jornadas/principais/the_war_within.md|The War Within]] — pré-requisito.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Vox_Solaris_(Syndicate) — requisitos de acesso (quest Vox Solaris, The War Within, ter falado com o Onkko), papel na organização dos Heists, Little Duck só interagir com Operator/Drifter, valores exatos de Standing por tipo de Toroid e por Narmer Isoplast, onde os Toroids caem, tabela completa de ranks com sacrifício e benefício, lista completa de ofertas por rank (Amps, arcanes, Baruuk, Hildryn, Systems, cosméticos) (consultado em 2026-10-04)

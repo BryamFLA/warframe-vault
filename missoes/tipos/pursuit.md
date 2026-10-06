@@ -1,9 +1,14 @@
 ---
 title: Pursuit
+aliases: [Pursuit]
 tipo: missao
 subtipo: tipo
+resumo: "Pursuit — Missão de Archwing com um único nó no jogo: perseguir um Grineer Courier em fuga, derrubar seus 4 geradores de escudo, desabilitar a nave e defendê-la por 60 segundos enquanto a Lotus extrai a caixa-preta."
+status: completo
+rag: true
 tags: [missao, tipo, archwing]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Pursuit", "https://wiki.warframe.com/w/Module:Missions/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Missão de **Archwing** com um único nó no jogo: perseguir um Grineer Courier em fuga, derrubar seus 4 geradores de escudo, desabilitar a nave e defendê-la por 60 segundos enquanto a Lotus extrai a caixa-preta.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Pursuit
+
 
 | Item | Detalhe |
 |---|---|
@@ -26,9 +31,9 @@ agente: opus
 | Pré-requisito | **[[missoes/jornadas/principais/the_archwing.md\|The Archwing]]** concluída |
 | Nós no jogo | **1** — Pandora, [[locais/planetas/saturno.md\|Saturno]] |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Pursuit
+
 
 1. Ao começar, um **Grineer Courier** aparece e o squad tem que dar caça.
 2. **Primeiro, desabilite a sala de motores**: concentre fogo no **escapamento central da popa**. A esteira de exaustão revela que há **dois motores** (superior e inferior), mas **o ponto fraco central é o mais consistente de acertar**.
@@ -41,9 +46,9 @@ agente: opus
 
 **Rotações de recompensa:** **não é endless.** Recompensa única na conclusão. Destruir componentes do Courier dá **afinidade** extra ao autor do abate, escalando com o nível do inimigo.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Pursuit
+
 
 | Planeta | Nó | Facção | Nível | Tileset |
 |---|---|---|---|---|
@@ -51,9 +56,9 @@ agente: opus
 
 **Melhor nó para farmar:** **Pandora** é o único. É o nó que o jogo usa como fonte de **[[recursos/raridades/especial/endo.md|Endo]] x400** e dos mods de ataque de Archwing — não há alternativa.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Pursuit
+
 
 | Recompensa | Chance | Nota |
 |---|---|---|
@@ -66,9 +71,9 @@ agente: opus
 > [!warning] Tabela parcial
 > Só estão aqui as entradas confirmadas na consulta desta sessão. Pela seção 8 das convenções, **não completo a tabela de memória**. A tabela integral está em https://wiki.warframe.com/w/Pursuit/Rewards.
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Pursuit
+
 
 - **Mire no escapamento central, não nos dois motores laterais.** A wiki é explícita: o ponto fraco central é mais consistente de acertar durante a perseguição.
 - **Conte os reparos.** Três auto-reparos dos motores e o Courier escapa. Se o segundo reparo acontecer e você ainda tiver 3 geradores de pé, pare de perseguir o casco e espere a desaceleração para focar os geradores.
@@ -76,7 +81,3 @@ agente: opus
 - **As minas de calor são abatíveis.** Não tente desviar em espaço aberto; atirar nelas é mais rápido e mantém você na cauda do Courier.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Pursuit — mecânica da perseguição, 4 geradores em 8 posições, 3 reparos, defesa de 60 s, recompensas (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Missions/data — nó Pandora, Saturno, nível 21–23, facção e tileset (consultado em 2026-10-06)

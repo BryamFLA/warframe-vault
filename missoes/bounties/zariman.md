@@ -1,9 +1,14 @@
 ---
 title: Bounties do Chrysalith (Zariman Ten Zero)
+aliases: [Bounties do Chrysalith (Zariman Ten Zero), zariman]
 tipo: missao
 subtipo: bounty
+resumo: "As bounties do Quinn no locais/open-worlds/zariman.md|Chrysalith não têm estágios: são missões normais do Zariman com um objetivo de bounty obrigatório por cima, e a recompensa sai uma vez só, ao fim."
+status: completo
+rag: true
 tags: [missao, bounty, zariman]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Bounty"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > As bounties do **Quinn** no [[locais/open-worlds/zariman.md|Chrysalith]] **não têm estágios**: são missões normais do Zariman com **um objetivo de bounty obrigatório** por cima, e a recompensa sai **uma vez só**, ao fim.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Bounties do Chrysalith (Zariman Ten Zero)
+
 
 | Item | Detalhe |
 |---|---|
@@ -31,9 +36,9 @@ agente: opus
 > [!danger] A diferença estrutural que importa
 > Ao contrário das bounties de [[missoes/bounties/eidolon.md|Cetus]], [[missoes/bounties/orbe_vallis.md|Fortuna]] e [[missoes/bounties/cambion_drift.md|Necralisk]], aqui **não há estágios e não há objetivo bônus**. A tabela de drop é **sorteada uma única vez**. E **a extração não abre** até que **o objetivo normal da missão E o objetivo da bounty** estejam cumpridos.
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Bounties do Chrysalith (Zariman Ten Zero)
+
 
 1. As bounties são pegas com o **Quinn**, dentro do **Chrysalith**.
 2. Os tipos de missão são os **padrões do Zariman**: [[missoes/tipos/exterminate.md|Exterminate]], [[missoes/tipos/mobile_defense.md|Mobile Defense]], [[missoes/tipos/void_cascade.md|Void Cascade]], [[missoes/tipos/void_flood.md|Void Flood]] e [[missoes/tipos/void_armageddon.md|Void Armageddon]].
@@ -84,9 +89,9 @@ Os objetivos variam por tier e são sempre **obrigatórios** — falhar não dá
 
 **Rotações de recompensa:** **nenhuma.** Um pool fixo por tier, sorteado uma vez por missão.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Bounties do Chrysalith (Zariman Ten Zero)
+
 
 | Local | Quem dá | Como iniciar |
 |---|---|---|
@@ -94,9 +99,9 @@ Os objetivos variam por tier e são sempre **obrigatórios** — falhar não dá
 
 **Melhor nó para farmar:** **Tier 5 (110–115)** para **5x Voidplume Quill** por missão e o melhor pool — e na **variante Steel Path** isso vira **8 Quills** (150% de 5, arredondado para cima) **+ 1 Steel Essence**. Para **Voidplume Pinion** especificamente, qualquer bounty de **tier 3 a 5** que role **WAKE AND BANISH**.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Bounties do Chrysalith (Zariman Ten Zero)
+
 
 | Recompensa | Origem | Nota |
 |---|---|---|
@@ -110,9 +115,9 @@ Os objetivos variam por tier e são sempre **obrigatórios** — falhar não dá
 > [!warning] Tabela parcial
 > Cada tier tem um pool fixo próprio. Pela seção 8 das convenções **não invento porcentagem** — tabela integral em https://wiki.warframe.com/w/Chrysalith/Rewards.
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Bounties do Chrysalith (Zariman Ten Zero)
+
 
 - **Cumpra os dois objetivos ANTES de catar Voidplume.** Falhar a missão ou o objetivo da bounty **apaga tudo que você coletou**, Voidplumes inclusive. É o erro que mais custa tempo no Zariman.
 - **A extração não abre pela metade.** Se parece que a missão travou, falta um dos dois objetivos — confira o HUD do objetivo da bounty, não só o da missão.
@@ -122,6 +127,3 @@ Os objetivos variam por tier e são sempre **obrigatórios** — falhar não dá
 - **A variante Steel Path vale os Acolytes.** 150% de Voidplume + 1 Steel Essence por missão é o melhor retorno do Zariman, e o custo é só os Acolytes aparecerem.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Bounty — seção Chrysalith: pré-requisito Angels of the Zariman, ausência de estágios e de objetivo bônus, tipos de missão, extração travada pelos dois objetivos, aviso sobre Voidplume, tabela dos 5 tiers com nível e Quills, ausência de rotação A/B/C no Zariman, variante Steel Path (150% Voidplume, 1 Steel Essence, Acolytes), bounty WAKE AND BANISH e o drop garantido de Voidplume Pinion (consultado em 2026-10-06)

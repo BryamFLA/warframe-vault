@@ -1,10 +1,15 @@
 ---
 title: Exilus Warframe Adapter
+aliases: [Exilus Warframe Adapter, warframe exilus adapter]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: planeta
+resumo: Exilus Warframe Adapter — Recurso do tipo item.
+status: completo
+rag: true
 tags: [recurso, planeta, item]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Exilus_Warframe_Adapter", "https://wiki.warframe.com/w/Module:Resources/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -19,9 +24,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “Fuses with a Warframe to unlock the Exilus Mod Slot.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Exilus Warframe Adapter
+
 
 | Item | Valor |
 |---|---|
@@ -32,9 +37,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **⚠️ NÃO VERIFICADO** |
 | Introduzido no Update | **17** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Exilus Warframe Adapter
+
 
 **Da seção de aquisição da wiki:** Renewable edit | edit] Can be purchased from the Market for 20 Platinum 20 under Equipment → Components. A blueprint can be purchased from Cephalon Simaris after completion of the Natah Quest for 50,000 Standing 50,000. A blueprint can be purchased from Teshin as a Rank 5 Conclave offering for 75,000 Standing 75,000. A blueprint can be obtained from some Invasions. A blueprint can appear as a reward in either Tier 3 or Tier 4 of The Circuit on The Steel Path at a 4.43% chance. A fully built Adapter can be obtained from Sorties or Archon Hunts at a 2.5% chance. A fully built Adapter can sometimes be purchased from Acrithis's shop for 20 Pathos Clamps. Fully built Adapters can sometimes be obtained from Nightwave ranking rewards, or 1999 Calendar rewards. Fully built Adapters are also sometimes given out as Twitch drops on Devstreams. A Fully built Adapter can be obtained from Void Surplus
 
@@ -52,16 +57,12 @@ agente: opus
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Exilus Warframe Adapter
+
 
 | Item | Quantidade |
 |---|---|
 | ⚠️ NÃO VERIFICADO | Nenhuma receita do `Module:Resources/data` lista este item como componente e a página da wiki não traz Item Checklist parseável. Ele pode ser usado em **trocas de sindicato** ou **consumido direto** — usos que não estão nesses dados. Confira em https://wiki.warframe.com/w/Exilus_Warframe_Adapter |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Exilus_Warframe_Adapter — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)

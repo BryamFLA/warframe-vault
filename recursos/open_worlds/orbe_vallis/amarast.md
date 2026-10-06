@@ -1,10 +1,15 @@
 ---
 title: Amarast
+aliases: [Amarast]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+resumo: Amarast — Recurso do tipo gem.
+status: completo
+rag: true
 tags: [recurso, open_world, gem]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Star_Amarast", "https://wiki.warframe.com/w/Module:Resources/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “Polished and cut to perfection.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Amarast
+
 
 | Item | Valor |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 > [!note] Nota do jogo
 > Blueprint sold by Smokefinger in Fortuna on Venus.
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Amarast
+
 
 **Da seção de aquisição da wiki:** The reusable blueprint can be purchased from Smokefinger for 4,000 Standing 4,000, requiring the rank of Rapscallion with Solaris United.
 
@@ -53,9 +58,9 @@ agente: opus
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Amarast
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este recurso:
 
@@ -80,7 +85,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este recurso
 > Total de **15** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Star_Amarast — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)

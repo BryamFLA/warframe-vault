@@ -1,10 +1,15 @@
 ---
 title: Zariman Ten Zero
+aliases: [Zariman Ten Zero, zariman]
 tipo: local
 subtipo: open-world
 faccao: neutro
+resumo: "Zariman Ten Zero — A nave-colônia perdida no Void que criou os Tenno, de volta ao Origin System."
+status: completo
+rag: true
 tags: [local, zariman, void, holdfasts]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Zariman_Ten_Zero", "https://wiki.warframe.com/w/Module:Missions/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -14,9 +19,9 @@ agente: opus
 > [!info] Resumo
 > A nave-colônia perdida no Void que criou os Tenno, de volta ao Origin System. **Não é uma landscape aberta** como Plains ou Orb Vallis: é um **tileset de 5 nós** com hub no **[[mecanicas/sindicatos/the_holdfasts.md|Chrysalith]]**. A facção invasora **sorteia a cada 150 minutos** entre Kuva [[lore/faccoes/grineer.md|Grineer]] e Juno [[lore/faccoes/corpus.md|Corpus]]. Exige **[[missoes/jornadas/principais/angels_of_the_zariman.md|Angels of the Zariman]]**.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Zariman Ten Zero
+
 
 | Item | Valor |
 |---|---|
@@ -30,9 +35,9 @@ agente: opus
 | Tileset | **Zariman** |
 | Sindicato local | **[[mecanicas/sindicatos/the_holdfasts.md\|The Holdfasts]]** — reputação paga em **Voidplumes** |
 
----
 
-## 🗺️ Conteúdo Especial
+## 🗺️ Conteúdo Especial — Zariman Ten Zero
+
 
 | Item | Detalhe |
 |---|---|
@@ -81,9 +86,9 @@ Além dos Kuva Grineer e Juno Corpus que se alternam, o Zariman tem entidades de
 
 **Dormant Angels**, **Lohk Surge**, **Lost Spirits**, **Locked Storage Rooms**, **Secret Areas**, **Log Tablets**, **Lunaro Arena** e a **Melica's Lab Room** — uma sala antes selada, com **chance aleatória de aparecer** nas missões, com uma máquina central grande cercada de alcovas onde o Cephalon Melica fazia experimentos. ⚠️ **NÃO VERIFICADO:** os detalhes de cada uma dessas features não foram consultados nesta sessão.
 
----
 
-## 💎 Recursos Nativos
+## 💎 Recursos — Zariman Ten Zero
+
 
 | Recurso | Raridade | Melhor nó |
 |---|---|---|
@@ -95,9 +100,9 @@ Além dos Kuva Grineer e Juno Corpus que se alternam, o Zariman tem entidades de
 | **Entropic Kuva** | Especial | Dropado pelos **Entropic Eximus**; trocado com o Cephalon Melica |
 | **[[recursos/open_worlds/zariman/mawfish_bones.md\|Mawfish Bones]]** e fillets | Pesca | Pesca no Zariman |
 
----
 
-## 🎯 Nós Notáveis
+## 🗺️ Missões — Zariman Ten Zero
+
 
 | Nó | Tipo de missão | Nível | Por que importa |
 |---|---|---|---|
@@ -111,16 +116,12 @@ Além dos Kuva Grineer e Juno Corpus que se alternam, o Zariman tem entidades de
 
 **Melhor nó para farmar:** **Halako Perimeter** (Exterminate) quando o objetivo é **Voidplume** — é o nó mais curto, e os 8 Voidplumes escondidos estão em qualquer missão independente do tipo. Para **Voidplume Pinion**, uma **[[missoes/bounties/zariman.md|Bounty]] de tier 3–5 que role WAKE AND BANISH**, porque ela marca o Dormant Void Angel com ícone global e o Pinion é drop garantido.
 
----
 
-## 📖 Lore
+## 📖 História — Zariman Ten Zero
+
 
 O **Zariman Ten Zero** era uma nave-colônia que desapareceu num **salto de Void** malfeito, levando a tripulação e as crianças a bordo. O Void não as matou — transformou-as. As crianças sobreviventes, cuidadas por **[[lore/personagens/margulis.md|Margulis]]** depois do resgate, viriam a ser os **Tenno**, e o acidente é a origem literal do poder de Transference.
 
 A nave reapareceu do **Void fold** no Origin System depois de **[[missoes/jornadas/principais/the_new_war.md|The New War]]**, e tropas **Kuva Grineer** e **Juno Corpus** desceram sobre o derelict disputando seus recursos. Mas o que ficou a bordo não é humano nem é inimigo comum: os **Thrax** e os **Void Angels** são o que sobrou da tripulação e dos colonos, manifestados pelo Void. Os **[[mecanicas/sindicatos/the_holdfasts.md|Holdfasts]]** — liderados pelo **Quinn** no Chrysalith — são os que voltaram para cuidar deles.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Zariman_Ten_Zero — Switching Invaders (re-sorteio a cada 150 min, sem alternância garantida, como identificar a facção), inimigos únicos (Thrax Centurion com Hespar e Overguard, Thrax Legatus com Aeolak e cópias espectrais, Void Angel, Entropic Eximus com bolha vermelha, DR contra não-melee, imunidade a habilidade e drop de Entropic Kuva), Voidplumes (11 por missão, 8 escondidos dos tipos Down/Vane/Crest valendo 500/1.000/2.000, 2 de Melica Cache e 1 do Dormant Angel), Melica Caches (Zarium Accolade, marcação por Loot Radar, 1 Quill de 2.500, até 2 por missão, uma troca cada), Melica's Lab Room, lista de features do tileset (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Missions/data — os 7 nós do Zariman com tipo, facção, nível, tileset e pré-requisito; recursos de região do Zariman Ten Zero (consultado em 2026-10-06)

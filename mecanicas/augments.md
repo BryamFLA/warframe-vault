@@ -1,8 +1,13 @@
 ---
 title: Augments
+aliases: [Augments]
 tipo: mecanica
+resumo: "Augments — Mods exclusivos que alteram uma habilidade específica de um Warframe específico, vendidos por 25.000 Standing no Rank 5 de cada sindicato — e cada Warframe é favorecido por exatamente dois sindicatos."
+status: completo
+rag: true
 tags: [mecanica, augment, sindicato, mods, warframe]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Warframe_Augment_Mods", "https://wiki.warframe.com/w/Syndicate"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Mods exclusivos que alteram **uma habilidade específica** de **um Warframe específico**, vendidos por **25.000 Standing** no Rank 5 de cada sindicato — e cada Warframe é favorecido por **exatamente dois** sindicatos.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Augments
+
 
 Um Warframe Augment Mod modifica **uma única habilidade** de **um único Warframe**, e só pode ser equipado nesse Warframe. Alguns alteram a utilidade da habilidade, outros mudam o comportamento dela por completo.
 
@@ -24,9 +29,9 @@ O [[mecanicas/sindicatos/conclave.md\|Conclave]] é a exceção: vende **qualque
 
 **Augments são tradeáveis** livremente depois de comprados, independentemente da afiliação de sindicato — é a saída para pegar um augment de um sindicato inimigo do seu.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Augments
+
 
 ```
 Custo de 1 Warframe Augment Mod = 25.000 Standing
@@ -58,9 +63,9 @@ Conversão de Affinity em Standing (com Pledge ativo) = 15%
 - Alguns augments **não funcionam bem** fora do frame original quando dependem de outras habilidades dele.
 - Subir de rank **consome todo o Standing acumulado** e exige um **sacrifício** (Credits e recursos) pedido pelo sindicato. A cada promoção você escolhe **um presente**.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Augments
+
 
 ### Grupos de sindicatos não-hostis (e o que cada escolha tranca)
 
@@ -187,9 +192,9 @@ Estes são os augments que continuam valendo quando a habilidade é infundida em
 | −1 | −22.000 | 0 |
 | −2 | **−44.000** | 0 |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Augments
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -204,9 +209,9 @@ Estes são os augments que continuam valendo quando a habilidade é infundida em
 | Sair de Standing negativo | O piso é **−44.000** (Rank −2). Para sair, acumule Standing positivo e pague **um** sacrifício por tier (desde o Update 16 não são mais vários) |
 | Evitar Death Squad | Standing negativo faz o sindicato mandar **Eximus Squad** (3–5 Eximus no Rank −1) ou **Eximus Platoon** (5–8 no Rank −2). Matá-los **não** muda Standing nem desencoraja o sindicato |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Augments
+
 
 - **"Augment funciona em qualquer frame."** Só no Warframe dono daquela habilidade — e nas versões Prime e Umbra dele.
 - **"Posso equipar dois augments da mesma habilidade."** Não. Um por habilidade. O Decoy do Loki aceita **um** entre Damage Decoy, Deceptive Bond e Savior Decoy.
@@ -219,9 +224,9 @@ Estes são os augments que continuam valendo quando a habilidade é infundida em
 - **"Medallion aparece em qualquer missão de sindicato."** 8 por missão, **exceto** Defense e Interception (0 a 2, dependendo do tileset). Grineer Sealab e Grineer Galleon são exceções: 8 sempre.
 - **"Dá para achar Medallion de sindicato que eu odeio."** Só com **Standing favorável** com o sindicato que ofereceu o alerta.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Augments
+
 
 - [[mecanicas/sindicatos/_Sindicatos _Indice.md|Sindicatos]] — a estrutura de relações, ranks e Standing que define o acesso a augments.
 - [[mecanicas/helminth.md|Helminth]] — habilidade subsumida mantém o augment dela e perde os da habilidade substituída.
@@ -236,7 +241,3 @@ Estes são os augments que continuam valendo quando a habilidade é infundida em
 - [[mods/warframe/_Mods Warframe _Indice.md|Mods de Warframe]] — onde os augments ficam no vault.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Warframe_Augment_Mods — definição, custo de 25.000 Standing no Rank 5, regra de dois sindicatos por Warframe, tradeabilidade, uma augment por habilidade, funcionamento em Prime e Umbra, interação com habilidade subsumida pelo Helminth, os 3 grupos de sindicatos não-hostis e o que cada escolha tranca (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Syndicate — tabela completa de Warframe → augments → sindicatos que vendem, tabela de ranks e teto de Standing, conversão de 15% da Affinity via Pledge, teto diário de 16.000 + 500 por MR, Syndicate Alerts e Medallions fora do teto diário, Death Squads por rank de desfavor (consultado em 2026-10-04)

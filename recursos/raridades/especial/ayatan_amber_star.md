@@ -1,10 +1,15 @@
 ---
 title: Ayatan Amber Star
+aliases: [Ayatan Amber Star]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: planeta
+resumo: "Ayatan Amber Star — Recurso, cuja melhor fonte confirmada é Necralisk Bounty Lvl 25-30 Stage 1 (rot."
+status: completo
+rag: true
 tags: [recurso, planeta]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Ayatan_Star", "https://wiki.warframe.com/w/Module:Resources/data", "https://wiki.warframe.com/w/Module:DropTables/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “Place these stars into Ayatan Sculptures to power their movement. May also be a source of Endo.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Ayatan Amber Star
+
 
 | Item | Valor |
 |---|---|
@@ -29,9 +34,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **Não** |
 | Introduzido no Update | **Update: The Silver Grove** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Ayatan Amber Star
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -69,17 +74,12 @@ agente: opus
 > [!warning] Booster não funciona neste recurso
 > Os dados da wiki marcam este item como **não afetado** por Resource Booster nem por Resource Drop Chance Booster. Boosters e frames de loot **não aceleram** o farm dele.
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Ayatan Amber Star
+
 
 | Item | Quantidade |
 |---|---|
 | ⚠️ NÃO VERIFICADO | Nenhuma receita do `Module:Resources/data` lista este item como componente e a página da wiki não traz Item Checklist parseável. Ele pode ser usado em **trocas de sindicato** ou **consumido direto** — usos que não estão nesses dados. Confira em https://wiki.warframe.com/w/Ayatan_Star |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Ayatan_Star — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)

@@ -1,9 +1,14 @@
 ---
 title: Father (Petros Vorten)
+aliases: [Father (Petros Vorten), father entrati]
 tipo: lore
 subtipo: personagem
+resumo: "Father (Petros Vorten) — Petros Vorten: ex-artilheiro de Railjack na Antiga Guerra, inventor dos Necramechs, casou-se com Euleria acreditando que podia ajudá-la a superar o pai desaparecido — e apanhou calado quando ela o atacou."
+status: completo
+rag: true
 tags: [lore, personagem, orokin, entrati]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Father"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Petros Vorten: ex-artilheiro de Railjack na Antiga Guerra, **inventor dos Necramechs**, casou-se com Euleria acreditando que podia ajudá-la a superar o pai desaparecido — e apanhou calado quando ela o atacou.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Father (Petros Vorten)
+
 
 | Item | Valor |
 |---|---|
@@ -27,9 +32,9 @@ agente: opus
 | Família | Mãe [[lore/personagens/grandmother_entrati.md\|Grandmother]], esposa [[lore/personagens/mother_entrati.md\|Euleria]], filhos [[lore/personagens/son_entrati.md\|Son]] e [[lore/personagens/daughter_entrati.md\|Daughter]] |
 | Criação | **Necramechs** |
 
----
 
-## 📖 História
+## 📖 História — Father (Petros Vorten)
+
 
 Petros Vorten serviu em **combate de linha de frente na [[lore/cronologia/antiga_guerra.md|Antiga Guerra]] como artilheiro de Railjack**, com uma tripulação de três — **Barroc, Kailen e Mutaru**. Ele conta como foi perturbador, enquanto remendavam rupturas na **Delta Proxima**, ver um **Murex [[lore/faccoes/sentient.md|Sentient]]** pela primeira vez.
 
@@ -50,9 +55,9 @@ Com o Heart falhando, a família precisou **re-fasear Deimos de volta à órbita
 
 Com o Heart restaurado, fica no Necralisk **decidido a fazer as coisas do jeito dele** e provar à família do que é capaz: arma o Tenno para as expedições ao Cambion Drift, exigindo um fluxo constante de recursos Infested para construir armas, e **colabora com Loid em segredo** para fornecer **peças de Necramech**.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Father (Petros Vorten)
+
 
 - **[[lore/personagens/mother_entrati.md|Mother]] (Euleria)** — esposa. Ele a amava e aceitou passivamente a violência dela; fugiu quando a infestação deu brecha.
 - **[[lore/personagens/grandmother_entrati.md|Grandmother]]** — a mãe dele. Ela considerava os exercícios marciais dele "tentativas fúteis de manter ordem".
@@ -64,9 +69,9 @@ Com o Heart restaurado, fica no Necralisk **decidido a fazer as coisas do jeito 
 - **[[mecanicas/sindicatos/necraloid.md|Necraloid]]** — o sindicato ligado aos Necramechs que ele criou.
 - **[[lore/faccoes/orokin.md|Orokin]]** — aposentaram os Necramechs dele cedo em favor das Warframes.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Father (Petros Vorten)
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -77,6 +82,3 @@ Com o Heart restaurado, fica no Necralisk **decidido a fazer as coisas do jeito 
 | [[locais/open-worlds/deimos.md\|Cambion Drift]] | Onde vivia, assistindo aos Necramechs renegados |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Father (consultado em 2026-10-04)

@@ -1,10 +1,15 @@
 ---
 title: Bracoid
+aliases: [Bracoid]
 tipo: recurso
 raridade: raro
 origem: open-world
+resumo: "Bracoid was a rare resource that can be found in any Proxima, primarily in Veil Proxima missions."
+status: completo
+rag: true
 tags: [recurso, open_world]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Bracoid"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -19,9 +24,9 @@ agente: opus
 > [!warning] Este item não está no `Module:Resources/data`
 > Ao contrário da maioria dos recursos do vault, este não tem entrada no módulo de dados de recursos da wiki — então **não há ficha estruturada** de raridade, quantidade por drop ou compatibilidade com booster para copiar. O que está abaixo vem do **texto da própria página** e do **`Module:DropTables/data`**. Os campos sem fonte ficam marcados.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Bracoid
+
 
 | Item | Valor |
 |---|---|
@@ -30,9 +35,9 @@ agente: opus
 | Quantidade por drop | ⚠️ NÃO VERIFICADO |
 | Afetado por boosters | ⚠️ NÃO VERIFICADO |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Bracoid
+
 
 Este item **não aparece em nenhuma tabela do `Module:DropTables/data`**. O que a página diz sobre como obtê-lo está no resumo e na seção acima.
 
@@ -50,15 +55,12 @@ Este item **não aparece em nenhuma tabela do `Module:DropTables/data`**. O que 
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Bracoid
+
 
 | Item | Quantidade |
 |---|---|
 | ⚠️ NÃO VERIFICADO | A página da wiki não traz um **Item Checklist** parseável e o item não está no `Module:Resources/data`. Confira em https://wiki.warframe.com/w/Bracoid |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Bracoid — descrição, forma de obtenção e Item Checklist (consultado em 2026-10-06)

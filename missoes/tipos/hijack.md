@@ -1,9 +1,14 @@
 ---
 title: Hijack
+aliases: [Hijack]
 tipo: missao
 subtipo: tipo
+resumo: "Hijack — Escoltar um objetivo que se move drenando o SEU escudo: sem escudo por perto, ele para; parado tempo demais, volta atrás; e perde 10 de vida por segundo sozinho."
+status: completo
+rag: true
 tags: [missao, tipo]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Hijack"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Escoltar um objetivo que se move drenando o SEU escudo: sem escudo por perto, ele para; parado tempo demais, volta atrás; e perde 10 de vida por segundo sozinho.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Hijack
+
 
 | Item | Detalhe |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Duração típica | **6 a 10 minutos** |
 | Tipo | **Finito** |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Hijack
+
 
 1. Encontre a sala que guarda o objetivo: um **Fomorian Power Core** em missões [[lore/faccoes/grineer.md|Grineer]] ou um **Cargo Rover** em missões [[lore/faccoes/corpus.md|Corpus]].
 2. **Ative um console** para liberar o objetivo, que então **percorre um caminho predefinido** até a extração.
@@ -41,9 +46,9 @@ agente: opus
 > [!important] Escudo é combustível
 > Warframes **sem escudo** — como [[warframes/regular/inaros.md|Inaros]] e [[warframes/regular/nidus.md|Nidus]] — **não movem o objetivo**. É o único tipo de missão do jogo em que **ter escudo alto é requisito funcional**, não defensivo. [[warframes/regular/hildryn.md|Hildryn]], com escudo enorme e regeneração própria, é a resposta direta.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Hijack
+
 
 | Onde | Detalhe |
 |---|---|
@@ -54,27 +59,27 @@ agente: opus
 
 **Melhor nó para farmar:** Hijack é raro no Star Chart e aparece mais como **etapa de Sortie** ou **tarefa de Junção** do que como farm.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Hijack
+
 
 | Recompensa | Rotação / Chance | Nota |
 |---|---|---|
 | Recompensa única de fim de missão | — | Finito |
 | Relic aberta | — | Em Void Fissure |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Hijack
+
 
 - **Leve escudo, não vida.** [[warframes/regular/hildryn.md|Hildryn]] é a escolha óbvia; [[warframes/regular/harrow.md|Harrow]] e [[warframes/regular/mag.md|Mag]] também sustentam bem. **Evite [[warframes/regular/inaros.md|Inaros]] e [[warframes/regular/nidus.md|Nidus]]** — sem escudo, eles não empurram o objetivo.
 - **Divida funções em squad**: um ou dois jogadores ficam colados no objetivo doando escudo, o resto limpa o caminho à frente.
 - **Não deixe parar.** Parado tempo demais, ele **anda para trás** — e cada metro perdido custa vida, porque a drenagem de 10/s não para.
 - Mods e Arcanes de **recarga rápida de escudo** (Fast Deflection, Arcane Aegis) valem mais aqui que dano.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Hijack
+
 
 - **[[missoes/tipos/mobile_defense.md|Mobile Defense]]** — o outro tipo de escolta de objetivo.
 - **[[missoes/tipos/excavation.md|Excavation]]** — a outra missão em que carregar algo limita sua arma.
@@ -82,6 +87,3 @@ agente: opus
 - **[[mecanicas/eventos/balor_fomorian.md|Balor Fomorian]]** — o Fomorian Power Core do objetivo Grineer é da mesma linha.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Hijack (consultado em 2026-10-04)

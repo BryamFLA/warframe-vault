@@ -1,11 +1,16 @@
 ---
 title: Empowered Blades
+aliases: [Empowered Blades, Lâminas Empowered, Laminas Empowered]
 tipo: mod
 categoria: warframe
-polaridade: Naramon
 raridade: raro
+polaridade: Naramon
+resumo: "Empowered Blades — O squad recebe +60% Chance de Status e Dano de Status em Heavy Attack, mas perde 90 Escudo por acerto."
+status: completo
+rag: true
 tags: [mod, warframe]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Empowered_Blades", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Mods/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -17,9 +22,9 @@ agente: opus
 >
 > *Texto exato no jogo (inglês):* `Squad receives +60% Status Chance and Status Damage on Heavy Attacks, but lose 90 Shields per hit.`
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Empowered Blades
+
 
 | Item | Valor |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 | Transmutável | **Não** |
 | Introduzido no Update | **The Silver Grove** |
 
----
 
-## 📈 Efeito por Rank
+## 📈 Efeito por Rank — Empowered Blades
+
 
 <!-- Valores copiados da seção Stats da página do mod na wiki. Nenhum valor interpolado. -->
 
@@ -51,9 +56,9 @@ agente: opus
 > [!note] A drenagem sobe 1 por rank
 > Regra do jogo, visível na própria tabela: a drenagem no rank R é **-2 + R**.
 
----
 
-## 🏗️ Onde Obter
+## 🌍 Onde Conseguir — Empowered Blades
+
 
 | Fonte | Tipo | Chance do mod na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -63,9 +68,9 @@ agente: opus
 
 **Faixa de preço em platina:** ⚠️ **estimativa não fornecida.** Pela seção 8 das convenções, preço de platina é mercado flutuante e não é registrado aqui. Consulte warframe.market no momento da compra.
 
----
 
-## 🛠️ Uso
+## 🛠️ Como Usar — Empowered Blades
+
 
 **Vale a pena?** **Depende da build.** Mod **Rare** — a raridade mais disputada por slot. Vale conferir a tabela de drop acima antes de farmar, porque a chance costuma ser baixa.
 
@@ -79,8 +84,3 @@ O efeito concreto no rank máximo é **O squad recebe +60% Chance de Status e Da
 Nenhum mod é registrado como **mutuamente exclusivo** com este nos dados da wiki. A concorrência é pelo **slot** e pela **capacidade**, não por bloqueio do jogo.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Empowered_Blades — efeito por rank, polaridade, drenagem, raridade e incompatibilidades (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Mods/data — ficha do mod: tipo, classe, comercializável, transmutável, update de introdução (consultado em 2026-10-06)

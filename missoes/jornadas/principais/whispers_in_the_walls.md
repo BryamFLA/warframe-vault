@@ -1,9 +1,14 @@
 ---
 title: Whispers in the Walls
+aliases: [Whispers in the Walls]
 tipo: missao
 subtipo: jornada
+resumo: "Whispers in the Walls — A descida aos laboratórios subterrâneos de Albrecht Entrati: com a Indifference inquieta depois dos portais de Ballas, Loid acorda a Kalymos Sequence e chama o Tenno."
+status: completo
+rag: true
 tags: [missao, jornada, principal]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Whispers_in_the_Walls"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > A descida aos laboratórios subterrâneos de Albrecht Entrati: com a Indifference inquieta depois dos portais de Ballas, Loid acorda a Kalymos Sequence e chama o Tenno.
 
----
 
-## 📖 Narrativa e Pré-requisitos
+## 📖 Narrativa e Pré-requisitos — Whispers in the Walls
+
 
 | Item | Detalhe |
 |---|---|
@@ -35,9 +40,9 @@ agente: opus
 >
 > No começo da quest, Albrecht aparece interagindo com **um pager e um computador dos anos 1990** antes de **entrar num caixão com a kavat Kalymos**, sussurrando as últimas palavras a Loid — que então **destrói o caixão**. Depois, Loid descobre que o Albrecht de 1999 deixou **uma transmissão presa no buffer de transference** do Tenno: ele **foi a 1999 para desviar a atenção da Indifference do assistente dele**, e instrui o Tenno a construir o **Jahu Gargoyle** para completar a Sequência.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Whispers in the Walls
+
 
 | Recompensa | Nota |
 |---|---|
@@ -49,18 +54,18 @@ agente: opus
 | **Qorvex** e armas da região | Via Cavia |
 | **The Lotus Eaters** | O prólogo de [[missoes/jornadas/principais/1999.md\|The Hex]] |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Whispers in the Walls
+
 
 - A **Netracell** é uma das duas fontes semanais de **Archon Shards** (a outra são as Archon Hunts) — e é a mais confiável. Faça as 5 por semana.
 - O **Deep Archimedea** impõe **modificadores obrigatórios** (Warframe, arma e condições sorteadas). A recompensa é alta, mas exige um arsenal largo, não uma build só.
 - A matriz do [[lore/faccoes/murmur.md|Murmur]] é específica: **Radiation +75%** contra Indifferent Facade, e **Slash e Viral têm −50%**. Builds Corrosive/Viral padrão **não funcionam** aqui.
 - Os **Whispers** não morrem de dano: são **banidos de volta ao grimório** que os gerou. Destrua o livro, não persiga a cópia.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Whispers in the Walls
+
 
 - **[[lore/personagens/albrecht_entrati.md|Albrecht Entrati]]** — o centro da quest.
 - **[[lore/personagens/loid.md|Loid]]** — quem convoca o Tenno e acorda o Sleeper.
@@ -71,6 +76,3 @@ agente: opus
 - **[[missoes/jornadas/principais/1999.md|1999 / The Hex]]** — a continuação.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Whispers_in_the_Walls (consultado em 2026-10-04)

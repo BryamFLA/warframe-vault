@@ -1,10 +1,15 @@
 ---
 title: Plastids
+aliases: [Plastids]
 tipo: recurso
 raridade: incomum
 origem: planeta
+resumo: "Plastids — Recurso incomum, farmado em Phobos, Saturn, Uranus, Pluto, and Eris, 15 a 25 por drop."
+status: completo
+rag: true
 tags: [recurso, planeta]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Plastids", "https://wiki.warframe.com/w/Module:Resources/data", "https://wiki.warframe.com/w/Module:DropTables/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “A disgusting nanite-infested tissue mass.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Plastids
+
 
 | Item | Valor |
 |---|---|
@@ -31,9 +36,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **Sim** |
 | Introduzido no Update | **Vanilla** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Plastids
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -72,9 +77,9 @@ No vault: [[locais/planetas/phobos.md|Phobos]], [[locais/planetas/saturno.md|Sat
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Plastids
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este recurso:
 
@@ -114,8 +119,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este recurso
 > Total de **119** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Plastids — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)

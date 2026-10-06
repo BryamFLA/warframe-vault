@@ -1,11 +1,14 @@
 ---
 title: Netuno
+aliases: [Netuno, Neptune, neptuno]
 tipo: local
-status: nao-visitado
 faccao: Corpus
-tags:
-  - local
-atualizado: 2026-04-17
+resumo: Netuno — Profundezas oceânicas com refinarias Corpus.
+status: stub
+rag: false
+tags: [local]
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Netuno
@@ -13,24 +16,25 @@ atualizado: 2026-04-17
 > [!info] Visão Geral
 > Profundezas oceânicas com refinarias Corpus
 
-## Facção Principal
+## 🏴 Facção — Netuno
+
 - Corpus
 - Inimigos: Crewmen, MOAs, Hyenas
 
-## Missões Disponíveis
+## 🗺️ Missões — Netuno
+
 - Exterminate, Capture, Spy, Hijack
 
-## Chefe
-- [[hyena_pack|Hyena Pack (Psamathe)]] — recompensa: [[loki|Loki]] partes
+## 👑 Chefe — Netuno
 
-## Recursos Notáveis
+- [[lore/chefes/hyena_pack.md|Hyena Pack (Psamathe)]] — recompensa: [[warframes/regular/loki.md|Loki]] partes
+
+## 💎 Recursos — Netuno
+
 - Nano Spores
 - Ferrite
 - Control Module
 
-## Minha Progressão
-- [ ] Planeta desbloqueado
-- [ ] Chefe derrotado
+## 🔗 Relacionados — Netuno
 
-## Conexões
-- Chefe: [[hyena_pack|Hyena Pack]]
+- Chefe: [[lore/chefes/hyena_pack.md|Hyena Pack]]

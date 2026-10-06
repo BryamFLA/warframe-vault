@@ -1,19 +1,15 @@
 ---
 title: Mods — Índice
+aliases: [Mods — Índice, Mods — Indice, Mods  Indice]
 tipo: index
 categoria: mod
-tags:
-  - index
-  - mod
-atualizado: 2026-04-23
-indices-relacionados:
-  - _Mods Warframe _Indice
-  - _Mods Armas _Indice
-  - _Mods Companheiros _Indice
-  - _Mods Especiais _Indice
-  - _Warframes _Indice
-  - _Armas _Indice
-  - _Companheiros _Indice
+resumo: Mods são o sistema central de progressão e customização do Warframe.
+status: completo
+rag: true
+tags: [index, mod]
+atualizado: 2026-10-07
+agente: opus
+indices-relacionados: [_Mods Warframe _Indice, _Mods Armas _Indice, _Mods Companheiros _Indice, _Mods Especiais _Indice, _Warframes _Indice, _Armas _Indice, _Companheiros _Indice]
 ---
 
 # Mods — Índice
@@ -21,17 +17,17 @@ indices-relacionados:
 > [!quote]
 > *"Mods não são apenas upgrades. São a linguagem com que você reescreve um Warframe."*
 
----
 
-## Visão Geral
+## 📊 Visão Geral — Mods — Índice
+
 
 Mods são o **sistema central de progressão e customização** do Warframe. Cada mod é um cartão equipável que modifica atributos de Warframes, armas ou companheiros — aumentando dano, defesa, velocidade de habilidades, alcance e dezenas de outros parâmetros. Sem mods, um Warframe é apenas uma casca; com o conjunto certo, o mesmo frame pode ter desempenhos radicalmente diferentes dependendo do conteúdo.
 
 Mods são obtidos de diversas fontes: drops de inimigos, recompensas de missão, sindicatos, Nightwave e vendedores especiais. Cada mod tem um **custo de capacidade** que consome o pool de mod capacity do equipamento — e pode ser rankiado com **Endo** e **Créditos** para aumentar seus efeitos (e custo) simultaneamente.
 
----
 
-## Como Adquirir
+## Como Adquirir — Mods — Índice
+
 
 | Fonte | Mods Disponíveis |
 |---|---|
@@ -48,9 +44,9 @@ Mods são obtidos de diversas fontes: drops de inimigos, recompensas de missão,
 | **Sorties / Nightwave** | Rivens — mods com atributos aleatórios |
 | **Transmutation** | Combinar 4 mods para chance de gerar mod raro |
 
----
 
-## Raridades
+## Raridades — Mods — Índice
+
 
 | Raridade | Borda | Descrição |
 |---|---|---|
@@ -64,9 +60,9 @@ Mods são obtidos de diversas fontes: drops de inimigos, recompensas de missão,
 | **Syndicate** | Cor do sindicato | Exclusivos de sindicatos — proc especial adicional |
 | **Riven** | Multicolor | Atributos aleatórios para arma específica |
 
----
 
-## Sistema de Capacidade
+## Sistema de Capacidade — Mods — Índice
+
 
 Cada equipamento tem um pool de **Mod Capacity** que limita quantos mods podem ser equipados simultaneamente.
 
@@ -95,20 +91,20 @@ Cada equipamento tem um pool de **Mod Capacity** que limita quantos mods podem s
 > [!tip] Forma é o caminho mais impactante
 > Cada Forma adiciona uma polaridade — um slot com polaridade compatível corta o custo pela metade, liberando pontos para mais mods. Frames e armas de end-game costumam ter 5–8 Formas instaladas.
 
----
 
-## Sub-Índices
+## Sub-Índices — Mods — Índice
+
 
 | Sub-Índice | Conteúdo Exclusivo |
 |---|---|
-| [[_Mods Warframe _Indice\|Mods de Warframe]] | Defesa, habilidades (4 pilares), aura, exilus, augments, set Umbral |
-| [[_Mods Armas _Indice\|Mods de Armas]] | Primárias, secundárias, brancas, stances, archwing; combinações elementais |
-| [[_Mods Companheiros _Indice\|Mods de Companheiros]] | Sentinels, kavats, kubrows, MOAs, hounds; precept mods |
-| [[_Mods Especiais _Indice\|Mods Especiais]] | Primed, Umbral, Corrupted (Orokin Vault), Syndicate, Rivens, Amalgam |
+| [[mods/warframe/_Mods Warframe _Indice.md\|Mods de Warframe]] | Defesa, habilidades (4 pilares), aura, exilus, augments, set Umbral |
+| [[mods/armas/_Mods Armas _Indice.md\|Mods de Armas]] | Primárias, secundárias, brancas, stances, archwing; combinações elementais |
+| [[mods/companheiros/_Mods Companheiros _Indice.md\|Mods de Companheiros]] | Sentinels, kavats, kubrows, MOAs, hounds; precept mods |
+| [[mods/especiais/_Mods Especiais _Indice.md\|Mods Especiais]] | Primed, Umbral, Corrupted (Orokin Vault), Syndicate, Rivens, Amalgam |
 
----
 
-## Curiosidades
+## 💡 Curiosidades — Mods — Índice
+
 
 - Vitality existe desde o Open Beta de 2013 e permanece útil em praticamente qualquer build de sobrevivência.
 - Blind Rage tem o maior bônus de Strength do jogo, mas penaliza tanto a Eficiência que exige compensação com Fleeting Expertise.
@@ -121,14 +117,14 @@ Cada equipamento tem um pool de **Mod Capacity** que limita quantos mods podem s
 - Narrow Minded + Overextended juntos criam o "zero waste" de alcance-duração — base de builds de Nidus, Revenant e frames que não dependem de Range.
 - A Transmutation é o método menos eficiente — usada principalmente para desfazer duplicatas indesejadas. A chance de obter algo útil é baixa.
 
----
 
-## Referências Cruzadas
+## 🔗 Relacionados — Mods — Índice
+
 
 | Índice | Relação |
 |---|---|
-| [[_Warframes _Indice\|Warframes]] | Frames que equipam os mods de warframe |
-| [[_Armas _Indice\|Armas]] | Armas que equipam os mods de arma |
-| [[_Companheiros _Indice\|Companheiros]] | Companheiros que equipam mods de companheiro |
-| [[_Mecanicas _Indice\|Mecânicas]] | Sistemas de combate que os mods influenciam |
-| [[_Sindicatos _Indice\|Sindicatos]] | Fonte de mods Syndicate |
+| [[warframes/_Warframes _Indice.md\|Warframes]] | Frames que equipam os mods de warframe |
+| [[armas/_Armas _Indice.md\|Armas]] | Armas que equipam os mods de arma |
+| [[companheiros/_Companheiros _Indice.md\|Companheiros]] | Companheiros que equipam mods de companheiro |
+| [[mecanicas/_Mecanicas _Indice.md\|Mecânicas]] | Sistemas de combate que os mods influenciam |
+| [[mecanicas/sindicatos/_Sindicatos _Indice.md\|Sindicatos]] | Fonte de mods Syndicate |

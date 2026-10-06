@@ -1,10 +1,15 @@
 ---
 title: Orokin Reactor
+aliases: [Orokin Reactor]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: planeta
+resumo: Orokin Reactor — Recurso do tipo item.
+status: completo
+rag: true
 tags: [recurso, planeta, item]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Orokin_Reactor", "https://wiki.warframe.com/w/Module:Resources/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “Reactor used to super-charge Warframes. Doubles the available Mod Capacity on a Warframe, Archwing, and Companions.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Orokin Reactor
+
 
 | Item | Valor |
 |---|---|
@@ -29,9 +34,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **⚠️ NÃO VERIFICADO** |
 | Introduzido no Update | **Vanilla** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Orokin Reactor
+
 
 **Da seção de aquisição da wiki:** Completed edit | edit] Purchased from the Market for 20 Platinum 20 Nightwave Offerings for 75x Cred. Rewarded at certain ranks from Nightwave: Rank 10 from Intermission I. Rank 11 from Series 2: The Emissary. Rank 10 from Intermission II. Rank 11 from Series 3: The Glassmaker. Rank 7 from Intermission III. Blueprint edit | edit] From Sorties. From Gift Of The Lotus alerts. From Invasion battle pay (rarely). From some Tactical Alert rewards. From Daily Tribute. From Archon Hunts. Sometimes purchasable from Acrithis's shop for 20 Pathos Clamps. Sometimes from the 1999 Calendar. Completing Infernum 21 of the Descendia. Obtained as a potential reward from the Void Surplus offering for sale by Baro Ki'Teer.
 
@@ -49,16 +54,12 @@ agente: opus
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Orokin Reactor
+
 
 | Item | Quantidade |
 |---|---|
 | ⚠️ NÃO VERIFICADO | Nenhuma receita do `Module:Resources/data` lista este item como componente e a página da wiki não traz Item Checklist parseável. Ele pode ser usado em **trocas de sindicato** ou **consumido direto** — usos que não estão nesses dados. Confira em https://wiki.warframe.com/w/Orokin_Reactor |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Orokin_Reactor — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)

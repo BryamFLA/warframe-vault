@@ -1,18 +1,23 @@
 ---
 title: Locais — Índice
+aliases: [Locais — Índice, Locais — Indice, Locais  Indice]
 tipo: index
-tags:
-  - index
-  - local
-atualizado: 2026-04-19
+resumo: "Locais — Índice — O Sistema Origem é o nome dado ao Sistema Solar no universo de Warframe — o palco de todas as guerras, descobertas e tragédias que compõem a narrativa do jogo."
+status: completo
+rag: true
+tags: [index, local]
+atualizado: 2026-10-07
+agente: opus
 ---
+
+# Locais — Índice
 
 > [!quote]
 > *"O Sistema Origem é vasto. E cada canto dele ainda sangra."*
 
----
 
-## O Sistema Origem
+## O Sistema Origem — Locais — Índice
+
 
 O Sistema Origem é o nome dado ao Sistema Solar no universo de Warframe — o palco de todas as guerras, descobertas e tragédias que compõem a narrativa do jogo. Cada planeta e região tem história própria: cicatrizes do Império Orokin, territórios disputados por Grineer e Corpus, anomalias do Void e ruínas que guardam segredos de civilizações extintas. Navegar o mapa estelar é tanto progressão mecânica quanto exploração de um universo com milhares de anos de história acumulada.
 
@@ -20,52 +25,52 @@ A estrutura do mapa estelar é linear na progressão inicial — planetas são d
 
 Os Open Worlds são regiões especiais que expandem um planeta com um mapa aberto e persistente — distinto do tile set procedural das missões normais. Cada Open World tem seu próprio ecossistema, sindicato, mecânicas exclusivas e narrativa interna. São o conteúdo mais rico em termos de profundidade de sistema dentro de um único local.
 
----
 
-## Mapa Estelar
+## Mapa Estelar — Locais — Índice
+
 
 ### Planetas Principais
 
 | Planeta | Facção | Boss | Nível (Normal) | Recursos Nativos |
 |---|---|---|---|---|
-| [[locais/planetas/mercurio\|Mercúrio]] | Grineer | Captain Vor | 1–15 | Ferrite, Polymer Bundle |
-| [[locais/planetas/venus\|Vênus]] | Corpus | Jackal | 3–15 | Alloy Plate, Circuits, Polymer Bundle |
-| [[locais/planetas/terra\|Terra]] | Grineer | Vay Hek | 8–22 | Ferrite, Rubedo, Neurodes |
-| [[locais/planetas/marte\|Marte]] | Grineer / Corpus | Lech Kril | 10–25 | Salvage, Gallium, Morphics |
-| [[locais/planetas/phobos\|Phobos]] | Corpus | Lech Kril + Vor | 15–25 | Alloy Plate, Rubedo, Morphics |
-| [[locais/planetas/ceres\|Ceres]] | Grineer | Sargas Ruk | 18–28 | Alloy Plate, Circuits, Orokin Cell |
-| [[locais/planetas/jupiter\|Júpiter]] | Corpus | Alad V | 20–30 | Alloy Plate, Salvage, Hexenon |
-| [[locais/planetas/europa\|Europa]] | Corpus | Raptors | 25–35 | Rubedo, Control Module, Morphics |
-| [[locais/planetas/saturno\|Saturno]] | Grineer | General Sargas Ruk | 28–38 | Alloy Plate, Plastids, Orokin Cell |
-| [[locais/planetas/urano\|Urano]] | Grineer | Tyl Regor | 30–40 | Polymer Bundle, Plastids, Tellurium |
-| [[locais/planetas/neptuno\|Netuno]] | Corpus | Hyena Pack | 33–43 | Ferrite, Nano Spores, Neural Sensors |
-| [[locais/planetas/plutao\|Plutão]] | Corpus | Ambulas | 35–45 | Alloy Plate, Nano Spores, Argon Crystal |
-| [[locais/planetas/sedna\|Sedna]] | Grineer | Kela de Thaym | 37–47 | Alloy Plate, Nano Spores, Orokin Cell |
-| [[locais/planetas/eris\|Eris]] | Infested | Infested Alad V / Phorid | 38–48 | Nano Spores, Neurodes, Mutagen Sample |
+| [[locais/planetas/mercurio.md\|Mercúrio]] | Grineer | Captain Vor | 1–15 | Ferrite, Polymer Bundle |
+| [[locais/planetas/venus.md\|Vênus]] | Corpus | Jackal | 3–15 | Alloy Plate, Circuits, Polymer Bundle |
+| [[locais/planetas/terra.md\|Terra]] | Grineer | Vay Hek | 8–22 | Ferrite, Rubedo, Neurodes |
+| [[locais/planetas/marte.md\|Marte]] | Grineer / Corpus | Lech Kril | 10–25 | Salvage, Gallium, Morphics |
+| [[locais/planetas/phobos.md\|Phobos]] | Corpus | Lech Kril + Vor | 15–25 | Alloy Plate, Rubedo, Morphics |
+| [[locais/planetas/ceres.md\|Ceres]] | Grineer | Sargas Ruk | 18–28 | Alloy Plate, Circuits, Orokin Cell |
+| [[locais/planetas/jupiter.md\|Júpiter]] | Corpus | Alad V | 20–30 | Alloy Plate, Salvage, Hexenon |
+| [[locais/planetas/europa.md\|Europa]] | Corpus | Raptors | 25–35 | Rubedo, Control Module, Morphics |
+| [[locais/planetas/saturno.md\|Saturno]] | Grineer | General Sargas Ruk | 28–38 | Alloy Plate, Plastids, Orokin Cell |
+| [[locais/planetas/urano.md\|Urano]] | Grineer | Tyl Regor | 30–40 | Polymer Bundle, Plastids, Tellurium |
+| [[locais/planetas/neptuno.md\|Netuno]] | Corpus | Hyena Pack | 33–43 | Ferrite, Nano Spores, Neural Sensors |
+| [[locais/planetas/plutao.md\|Plutão]] | Corpus | Ambulas | 35–45 | Alloy Plate, Nano Spores, Argon Crystal |
+| [[locais/planetas/sedna.md\|Sedna]] | Grineer | Kela de Thaym | 37–47 | Alloy Plate, Nano Spores, Orokin Cell |
+| [[locais/planetas/eris.md\|Eris]] | Infested | Infested Alad V / Phorid | 38–48 | Nano Spores, Neurodes, Mutagen Sample |
 
 ### Áreas Especiais
 
 | Local | Facção | Nível (Normal) | Acesso | Destaque |
 |---|---|---|---|---|
-| [[locais/planetas/void\|Void]] | Orokin | 25–40 | Junction de Phobos | Void Relics, Corrupted Vor, tileset Orokin |
-| [[locais/planetas/lua\|Lua]] | Orokin / Sentient | 25–35 | The Second Dream (quest) | Spy avançado, tileset único, lore denso |
-| [[locais/planetas/deimos\|Deimos]] | Infested / Entrati | 25–40 | Heart of Deimos (quest) | Família Entrati, Iso Vaults, Cambion Drift |
-| [[locais/planetas/zariman\|Zariman Ten Zero]] | Void / Grineer antigo | 40–60 | Angels of the Zariman (quest) | Void Angels, The Holdfasts, Voidplumes |
-| [[locais/planetas/kuva_fortress\|Fortaleza Kuva]] | Grineer | 25–35 | The War Within (quest) | Kuva Siphon, Kuva Flood, Kuva farm |
+| [[locais/planetas/void.md\|Void]] | Orokin | 25–40 | Junction de Phobos | Void Relics, Corrupted Vor, tileset Orokin |
+| [[locais/planetas/lua.md\|Lua]] | Orokin / Sentient | 25–35 | The Second Dream (quest) | Spy avançado, tileset único, lore denso |
+| [[locais/planetas/deimos.md\|Deimos]] | Infested / Entrati | 25–40 | Heart of Deimos (quest) | Família Entrati, Iso Vaults, Cambion Drift |
+| [[locais/planetas/zariman.md\|Zariman Ten Zero]] | Void / Grineer antigo | 40–60 | Angels of the Zariman (quest) | Void Angels, The Holdfasts, Voidplumes |
+| [[locais/planetas/kuva_fortress.md\|Fortaleza Kuva]] | Grineer | 25–35 | The War Within (quest) | Kuva Siphon, Kuva Flood, Kuva farm |
 
----
 
-## Open Worlds
+## Open Worlds — Locais — Índice
+
 
 Regiões de mapa aberto com ecossistemas, sindicatos e mecânicas exclusivas. Cada uma expande um planeta existente com camadas de conteúdo que vão muito além das missões convencionais.
 
 | Open World | Planeta Base | Sindicato | Lançamento | Warframe Exclusivo |
 |---|---|---|---|---|
-| [[locais/open-worlds/cetus\|Planícies de Eidolon]] | Terra | Ostron (Cetus) | Out 2017 | Gara |
-| [[locais/open-worlds/fortuna\|Orbe Vallis]] | Vênus | Solaris United (Fortuna) | Nov 2018 | Baruuk |
-| [[locais/open-worlds/deimos\|Câmbion Drift]] | Deimos | Entrati (Necralisk) | Ago 2020 | Xaku, Lavos |
-| [[locais/open-worlds/zariman\|Zariman Ten Zero]] | — (nave perdida) | The Holdfasts (Chrysalith) | Abr 2022 | Gyre |
-| [[locais/open-worlds/duviri\|Duviri]] | — (dimensão do Void) | Kaithe (Drifter's Camp) | Abr 2023 | Kullervo |
+| [[locais/open-worlds/cetus.md\|Planícies de Eidolon]] | Terra | Ostron (Cetus) | Out 2017 | Gara |
+| [[locais/open-worlds/fortuna.md\|Orbe Vallis]] | Vênus | Solaris United (Fortuna) | Nov 2018 | Baruuk |
+| [[locais/open-worlds/deimos.md\|Câmbion Drift]] | Deimos | Entrati (Necralisk) | Ago 2020 | Xaku, Lavos |
+| [[locais/open-worlds/zariman.md\|Zariman Ten Zero]] | — (nave perdida) | The Holdfasts (Chrysalith) | Abr 2022 | Gyre |
+| [[locais/open-worlds/duviri.md\|Duviri]] | — (dimensão do Void) | Kaithe (Drifter's Camp) | Abr 2023 | Kullervo |
 
 ### Planícies de Eidolon
 *Terra · Ostron · Caça de Eidolons à noite, pesca, mineração*
@@ -92,9 +97,9 @@ Uma nave escolar Grineer que ficou presa no Void por décadas — os sobrevivent
 
 Uma dimensão do Void governada pela psique fragmentada de Dominus Thrax — um reino de impossibilidades visuais e regras que mudam a cada run. O Duviri introduziu o primeiro modo roguelike do jogo: cada Testemunho começa com Warframe e armas aleatórias definidas pelo Decret ativo. The Circuit é o modo de farm de Incarnon Adapters, com rotação semanal de armas disponíveis.
 
----
 
-## Curiosidades
+## 💡 Curiosidades — Locais — Índice
+
 
 - Mercúrio é tecnicamente o planeta mais próximo do Sol no Sistema Origem, mas não é o primeiro desbloqueado — o jogo começa na Terra e Mercúrio é uma divergência lateral, refletindo a ordem de desenvolvimento do jogo.
 - A Lua ficou inacessível por anos de jogo até The Second Dream em 2015 — o tileset foi construído especificamente para a revelação narrativa da quest, e voltar à Lua após completá-la tem um peso completamente diferente.

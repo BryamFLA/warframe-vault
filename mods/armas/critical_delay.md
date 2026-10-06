@@ -1,11 +1,16 @@
 ---
 title: Critical Delay
+aliases: [Critical Delay]
 tipo: mod
 categoria: arma
-polaridade: Naramon
 raridade: raro
+polaridade: Naramon
+resumo: "Critical Delay — +200% Chance de Crítico · -20% Cadência de Tiro (x2 para Bows) Texto exato no jogo (inglês): +200% Critical Chance / -20% Fire Rate (x2 for Bows)."
+status: completo
+rag: true
 tags: [mod, arma]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Critical_Delay", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Mods/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -17,9 +22,9 @@ agente: opus
 >
 > *Texto exato no jogo (inglês):* `+200% Critical Chance / -20% Fire Rate (x2 for Bows)`
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Critical Delay
+
 
 | Item | Valor |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 | Transmutável | **Não** |
 | Introduzido no Update | **10.3** |
 
----
 
-## 📈 Efeito por Rank
+## 📈 Efeito por Rank — Critical Delay
+
 
 <!-- Valores copiados da seção Stats da página do mod na wiki. Nenhum valor interpolado. -->
 
@@ -51,9 +56,9 @@ agente: opus
 > [!note] A drenagem sobe 1 por rank
 > Regra do jogo, visível na própria tabela: a drenagem no rank R é **4 + R**.
 
----
 
-## 🏗️ Onde Obter
+## 🌍 Onde Conseguir — Critical Delay
+
 
 | Fonte | Tipo | Chance do mod na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -63,9 +68,9 @@ agente: opus
 
 **Faixa de preço em platina:** ⚠️ **estimativa não fornecida.** Pela seção 8 das convenções, preço de platina é mercado flutuante e não é registrado aqui. Consulte warframe.market no momento da compra.
 
----
 
-## 🛠️ Uso
+## 🛠️ Como Usar — Critical Delay
+
 
 **Vale a pena?** **Depende da build.** Mod **Rare** — a raridade mais disputada por slot. Vale conferir a tabela de drop acima antes de farmar, porque a chance costuma ser baixa.
 
@@ -82,8 +87,3 @@ Os mods abaixo são **mutuamente exclusivos** com este — o jogo não deixa equ
 - **Flawed Point Strike**
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Critical_Delay — efeito por rank, polaridade, drenagem, raridade e incompatibilidades (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Mods/data — ficha do mod: tipo, classe, comercializável, transmutável, update de introdução (consultado em 2026-10-06)

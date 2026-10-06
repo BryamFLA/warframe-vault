@@ -1,9 +1,14 @@
 ---
 title: Nightmare Mode
+aliases: [Nightmare Mode, nightmare]
 tipo: missao
 subtipo: tipo
+resumo: "Nightmare Mode — Um nó aleatório por planeta com fundo escarlate: inimigos muito mais fortes, Ciphers proibidos, Specters hostis — e mods que só caem aqui."
+status: completo
+rag: true
 tags: [missao, tipo]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Nightmare_Mode"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Um nó aleatório por planeta com fundo escarlate: inimigos muito mais fortes, Ciphers proibidos, Specters hostis — e mods que só caem aqui.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Nightmare Mode
+
 
 | Item | Detalhe |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Ciclo | **Troca a cada 8 horas** após a missão ser completada |
 | Repetição | A missão **só pode ser completada uma vez**; repetir **não dá mais Nightmare Mods** |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Nightmare Mode
+
 
 1. O nó de Nightmare é tratado como **missão separada** da normal.
 2. **Todos os inimigos têm níveis, dano e spawns significativamente aumentados** em relação ao padrão.
@@ -53,9 +58,9 @@ Em Nightmare, os endless **viram finitos**, mas com **condições de vitória ma
 > [!info] Variação de Mobile Defense
 > Em **[[missoes/tipos/mobile_defense.md|Mobile Defense]] Nightmare**, o número de terminais às vezes **cai de 3 para 2**, mantendo o tempo total: cada terminal restante passa a exigir **90–120 segundos** em vez de 60–80.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Nightmare Mode
+
 
 | Onde | Detalhe |
 |---|---|
@@ -65,9 +70,9 @@ Em Nightmare, os endless **viram finitos**, mas com **condições de vitória ma
 
 **Melhor nó para farmar:** Nightmare é farmado por **Nightmare Mods** — mods de duplo efeito que **só caem aqui**. Como cada nó só paga uma vez por ciclo, o farm é **rodar vários planetas**, não repetir um nó.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Nightmare Mode
+
 
 | Recompensa | Rotação / Chance | Nota |
 |---|---|---|
@@ -77,18 +82,18 @@ Em Nightmare, os endless **viram finitos**, mas com **condições de vitória ma
 > [!info] Níveis usados no cálculo
 > Em **Nightmare Survival** e **Void Fissure Survival**, as recompensas do modo Survival são calculadas com **os níveis originais do nó**, não com os níveis elevados.
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Nightmare Mode
+
 
 - **Leve Ciphers... não: eles não funcionam.** Use **Auto Breach** (Parazon), **Security Override** (MOA) ou **Perspicacity** subsumida — falhar hack aplica Electricity.
 - **Não invoque Specters.** Eles viram hostis. A única exceção são os Shockwave MOAs de MOA Cabinet Spawner.
 - Os modificadores podem **desabilitar escudo ou vida**: leve um frame que funcione sem a defesa que for cortada ([[warframes/regular/inaros.md|Inaros]] sem escudo, [[warframes/regular/hildryn.md|Hildryn]] sem vida relevante).
 - **Cada nó paga Nightmare Mod uma vez por ciclo de 8 h.** Para farmar mods, rode **um nó por planeta**, não o mesmo repetidamente.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Nightmare Mode
+
 
 - **[[missoes/tipos/sortie.md|Sortie]]** — o conteúdo diário com modificadores.
 - **[[missoes/tipos/arbitration.md|Arbitration]]** e **[[mecanicas/steel_path.md|Steel Path]]** — as outras camadas de dificuldade.
@@ -96,6 +101,3 @@ Em Nightmare, os endless **viram finitos**, mas com **condições de vitória ma
 - **[[mecanicas/forma_e_polaridades.md|Mods]]** — onde os Nightmare Mods entram.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Nightmare_Mode (consultado em 2026-10-04)

@@ -1,9 +1,14 @@
 ---
 title: Exterminate
+aliases: [Exterminate]
 tipo: missao
 subtipo: tipo
+resumo: Exterminate — Matar um número determinado de inimigos e extrair.
+status: completo
+rag: true
 tags: [missao, tipo]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Exterminate"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Matar um número determinado de inimigos e extrair. O tipo mais simples do jogo — e por isso o melhor para testar build, subir afinidade e abrir fissuras.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Exterminate
+
 
 | Item | Detalhe |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Squad recomendado | Qualquer; solo é perfeitamente viável |
 | Tipo | **Finito** (não endless) |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Exterminate
+
 
 1. A missão começa com um contador de abates necessários.
 2. **Mate inimigos** até o contador zerar. Inimigos de qualquer tipo contam.
@@ -40,9 +45,9 @@ agente: opus
 > [!important] Capture pode virar Exterminate
 > Missões de **[[missoes/tipos/capture.md|Capture]]** às vezes **se transformam em Exterminate** depois de capturar o alvo, com a Lotus dizendo *"Change of plans, ignore your original objective, leave nothing alive"*. Esses Exterminates têm **contagem de abates bem menor** que o normal.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Exterminate
+
 
 | Onde | Detalhe |
 |---|---|
@@ -53,9 +58,9 @@ agente: opus
 
 **Melhor nó para farmar:** como é finito e curto, Exterminate é o tipo preferido para **abrir Relics em Void Fissure** e para **subir afinidade de arma** — a escolha do nó depende da facção que você quer farmar, não do tipo.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Exterminate
+
 
 | Recompensa | Rotação / Chance | Nota |
 |---|---|---|
@@ -63,18 +68,18 @@ agente: opus
 | Drops dos inimigos | — | O ganho real vem dos drops e dos recursos do planeta |
 | Relic aberta | — | Em Void Fissure, abre 1 Relic por run |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Exterminate
+
 
 - É o **melhor tipo para testar build**: curto, previsível e sem objetivo a defender.
 - Para **abrir Relics rápido**, Exterminate em Void Fissure é imbatível — leve algo que mata rápido em área, como [[warframes/regular/saryn.md|Saryn]] ou [[warframes/regular/mesa.md|Mesa]].
 - Para **subir afinidade de arma**, o abate com a arma que você quer ranquear é o que conta. Leve [[warframes/regular/nekros.md|Nekros]] se quiser loot junto.
 - Em [[mecanicas/steel_path.md|Steel Path]], a densidade de inimigos sobe — o que torna Exterminate SP uma boa fonte de **Steel Essence** com [[warframes/regular/nekros.md|Nekros]] + Despoil.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Exterminate
+
 
 - **[[missoes/tipos/skirmish.md|Skirmish]]** — a variante de Railjack.
 - **[[missoes/tipos/capture.md|Capture]]** — pode se converter em Exterminate.
@@ -83,6 +88,3 @@ agente: opus
 - **[[mecanicas/steel_path.md|Steel Path]]** — a camada de dificuldade.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Exterminate (consultado em 2026-10-04)

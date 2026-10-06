@@ -1,9 +1,14 @@
 ---
 title: Void — acesso (sem Junção)
+aliases: [Void — acesso (sem Junção), Void — acesso (sem Juncao), void junction]
 tipo: missao
 subtipo: juncao
+resumo: "O Void não tem Junção: todos os caminhos que levam a ele são livres, bastando ter os nós das duas pontas desbloqueados."
+status: completo
+rag: true
 tags: [missao, juncao]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Junction", "https://wiki.warframe.com/w/Star_Chart"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -24,9 +29,9 @@ agente: opus
 >
 > Este arquivo existe no vault com nome de Junção, mas **não há Junção correspondente no jogo**. O conteúdo abaixo documenta **como o destino é realmente desbloqueado**.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Void — acesso (sem Junção)
+
 
 | Item | Detalhe |
 |---|---|
@@ -35,9 +40,9 @@ agente: opus
 | Guardião de Junção | **Não existe** |
 | Mastery de Junção | **Não se aplica** |
 
----
 
-## 🔓 Como o acesso realmente acontece
+## 🔓 Como o acesso realmente acontece — Void — acesso (sem Junção)
+
 
 O **[[locais/planetas/void.md|Void]]** é um caso especial do Star Chart:
 
@@ -55,18 +60,18 @@ O que destrava o Void na prática é **progredir pelo Star Chart até alcançar 
 > [!important] Argon Crystal decai
 > O **Argon Crystal**, recurso exclusivo do Void, é o único recurso do jogo que **decai com o tempo** depois de coletado. Colha quando for usar, não para estocar.
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Void — acesso (sem Junção)
+
 
 - Se você está procurando as Junções de verdade, elas são **13**: Vênus, Mercúrio, Marte, Phobos, Ceres, Júpiter, Europa, Saturno, Urano, Netuno, Plutão, Eris e Sedna. Cada uma dá **1.000 de Mastery**.
 - Junções podem ser usadas como **atalho** entre corpos celestes na navegação do Star Chart.
 - As tarefas de Junção **só impedem de lutar contra o Specter**, não de entrar na Junção. E **Specters podem ser escaneados** mesmo quando você não pode atacá-los.
 - Specters de Junção dão aproximadamente **2.000 de afinidade** ao morrer.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Void — acesso (sem Junção)
+
 
 - **[[locais/planetas/void.md|Void]]** — o destino.
 - **[[lore/chefes/corrupted_vor.md|Corrupted Vor]]** — o field boss do Void.
@@ -75,7 +80,3 @@ O que destrava o Void na prática é **progredir pelo Star Chart até alcançar 
 - **[[lore/cronologia/ecos_do_vazio.md|Ecos do Vazio]]** — o que o Void é, narrativamente.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Junction (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Star_Chart (consultado em 2026-10-04)

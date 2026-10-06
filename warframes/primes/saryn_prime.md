@@ -1,29 +1,37 @@
 ---
 title: Saryn Prime
+aliases: [Saryn Prime]
 tipo: warframe
-status: nao-obtido
+resumo: Saryn Prime — 1.
+status: stub
+rag: false
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Saryn Prime
 
-> [!info] 
+> [!info]
 
-## 🏗️ Como Obter
+## 🏗️ Como Construir — Saryn Prime
 
 
-## 🔮 Habilidades
+## 🔮 Habilidades — Saryn Prime
+
 1. **Passiva:** 
 2. **Habilidade 1:** 
 3. **Habilidade 2:** 
 4. **Habilidade 3:** 
-5. **Habilidade 4:** 
+5. **Habilidade 4:**
 
-## 📊 Stats Base
+## 📊 Stats Base — Saryn Prime
+
 - **Vida:**
 - **Escudos:**
 - **Armadura:**
 - **Energia:**
 - **Velocidade:**
 
-## ⚙️ Progressão e Conexões
-- **Mascote/Arma Assinatura:** 
+## 🔗 Relacionados — Saryn Prime
+
+- **Mascote/Arma Assinatura:**

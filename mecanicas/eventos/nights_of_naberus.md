@@ -1,8 +1,13 @@
 ---
 title: Nights of Naberus
+aliases: [Nights of Naberus]
 tipo: mecanica
+resumo: "Nights of Naberus — Evento anual de tema Halloween em que a Daughter, em Deimos, celebra Naberus — antigo festival Orokin da morte — vendendo Naberus Treats pagos em Mother Tokens."
+status: completo
+rag: true
 tags: [mecanica, evento, naberus, halloween, deimos, mother-token]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Nights_of_Naberus"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Evento anual de tema Halloween em que a Daughter, em Deimos, celebra **Naberus** — antigo festival Orokin da morte — vendendo **Naberus Treats** pagos em **Mother Tokens**.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Nights of Naberus
+
 
 > *"Silêncio! Você sente? Está quase chegando! O antigo festival da morte e da travessura, Naberus! E você tem um convite especial. Nós vamos te receber muito bem."* — [[lore/personagens/daughter_entrati.md\|Daughter]]
 
@@ -25,9 +30,9 @@ A moeda é **Mother Token** — o mesmo Token que a **Mother** dá por Bounties 
 > [!important] Mother Token é a moeda mais abundante do Deimos
 > O Mother Token vale só **100 Standing** se entregue à Grandmother — o menor de todos. É exatamente por isso que ele é a moeda ideal para um evento cosmético: 2 ou 3 runs de Bounty Tier 5 da Mother já rendem Tokens em volume.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Nights of Naberus
+
 
 ```
 Moeda: Mother Token (ganho em Bounties da Mother no Cambion Drift)
@@ -50,9 +55,9 @@ Faixa de preço: 5 Tokens (Sigil, Emblem) a 200 Tokens (Nyctalus Ephemera)
 - Itens que **também aparecem em Nightwave Offerings** não entram no total de 2.930 — dá para pegá-los por **Cred** em vez de Token. Ver [[mecanicas/nightwave.md\|Nightwave]].
 - O **Whispering Naberus Mobile** e os **Wild Hunt Totems** são **decorações de Orbiter** que, depois de colocadas, podem ser **interagidas para "Ouvir"** um **Naberus Folktale narrado pela Grandmother**. São conteúdo de lore, não só cosmético.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Nights of Naberus
+
 
 ### Armas e blueprints (os itens funcionais do evento)
 
@@ -112,9 +117,9 @@ Faixa de preço: 5 Tokens (Sigil, Emblem) a 200 Tokens (Nyctalus Ephemera)
 | **Glyphs**: Stinkeye · Rotting · Grapeskull · Lua Nights · Dagath Grins · Dagath Accuser · Daughter Naberus · [[warframes/regular/harrow.md\|Harrow]] Conjuring · [[warframes/regular/xaku.md\|Xaku]] Spellcast · Nora Night Catrina · Follie Coulrophobia · Voruna Prime Massacre | **20 cada** |
 | **Glyphs "In Action"**: Revenant · Oraxia | **25 cada** |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Nights of Naberus
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -126,9 +131,9 @@ Faixa de preço: 5 Tokens (Sigil, Emblem) a 200 Tokens (Nyctalus Ephemera)
 | Planejar o total | Comprar **tudo** que é exclusivo custa **2.930 Mother Tokens** |
 | Começar barato | Sigils e Emblems custam **5 Tokens**; Glyphs, **20** |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Nights of Naberus
+
 
 - **"O Naberus tem moeda própria."** Não. A moeda é **Mother Token**, o mesmo dos Entrati.
 - **"Vou trocar meus Tokens por Standing e comprar depois."** Mother Token vale **100 Standing** (o menor de todos) e **o Standing não compra Naberus Treats**. Guarde os Tokens.
@@ -137,9 +142,9 @@ Faixa de preço: 5 Tokens (Sigil, Emblem) a 200 Tokens (Nyctalus Ephemera)
 - **"As decorações são só enfeite."** Whispering Naberus Mobile e Wild Hunt Totem **narram lore** pela Grandmother.
 - **"É um evento de Cetus."** É de **Deimos**, com a Daughter no Necralisk.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Nights of Naberus
+
 
 - [[mecanicas/sindicatos/entrati.md|Entrati]] — a fonte dos Mother Tokens e a razão de o evento usar essa moeda.
 - [[mecanicas/eventos/_Eventos _Indice.md|Eventos]] — o calendário anual; o Naberus é o evento de outubro, e o [[mecanicas/eventos/tennobaum.md|Tennobaum]] o de dezembro.
@@ -155,6 +160,3 @@ Faixa de preço: 5 Tokens (Sigil, Emblem) a 200 Tokens (Nyctalus Ephemera)
 - [[cosmeticos/skins.md|Skins]], [[cosmeticos/efemeras.md|Efêmeras]], [[cosmeticos/syandanas.md|Syandanas]], [[cosmeticos/decoracoes.md|Decorações]], [[cosmeticos/brasoes_emblemas.md|Brasões e Emblemas]], [[cosmeticos/sugatras.md|Sugatras]], [[cosmeticos/capacetes.md|Capacetes]] — as categorias cobertas pela loja.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Nights_of_Naberus — natureza anual do evento, papel da Daughter, uso de Mother Token como moeda, lista completa dos Naberus Treats com preço em Mother Token, total de 2.930 Tokens para comprar tudo que é exclusivo, nota sobre itens em negrito também saírem em Nightwave Offerings, função dos Whispering Naberus Mobile e Wild Hunt Totems como narradores de Naberus Folktales pela Grandmother (consultado em 2026-10-04)

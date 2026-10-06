@@ -1,9 +1,14 @@
 ---
 title: Bounties de Cetus (Plains of Eidolon)
+aliases: [Bounties de Cetus (Plains of Eidolon), eidolon]
 tipo: missao
 subtipo: bounty
+resumo: "Bounties de Cetus (Plains of Eidolon) — Missões multi-estágio dadas pelo Konzu em locais/open-worlds/cetus.md|Cetus ou por Radio Consoles espalhados pelas Plains: 3 a 5 objetivos sorteados, recompensa ao fim de cada estágio e reputação mecanicas/sindicatos/ostron.md|Ostron."
+status: completo
+rag: true
 tags: [missao, bounty, open-world]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Bounty", "https://wiki.warframe.com/w/Plains_of_Eidolon/Rewards"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Missões multi-estágio dadas pelo **Konzu** em [[locais/open-worlds/cetus.md|Cetus]] ou por **Radio Consoles** espalhados pelas Plains: 3 a 5 objetivos sorteados, recompensa ao fim de **cada estágio** e reputação [[mecanicas/sindicatos/ostron.md|Ostron]].
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Bounties de Cetus (Plains of Eidolon)
+
 
 | Item | Detalhe |
 |---|---|
@@ -27,9 +32,9 @@ agente: opus
 | Refresh | **A cada 2 horas e 30 minutos** — um ciclo completo de dia/noite nas Plains |
 | Facção | [[lore/faccoes/grineer.md\|Grineer]] (Tusk); **Narmer** nas bounties de nível 50–70 |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Bounties de Cetus (Plains of Eidolon)
+
 
 1. O **Bounty Board** gera periodicamente uma lista. Antes de confirmar, você vê **nível esperado do inimigo**, **reputação** e a **lista de recompensas possíveis**.
 2. Selecionada, um marcador aparece **no portão da cidade** indicando o primeiro objetivo.
@@ -99,9 +104,9 @@ Variante que aparece periodicamente como **evento rotativo** nas Plains, com os 
 
 **Rotações de recompensa:** pools **A → B → C** rotacionando a cada **150 minutos**, iguais para todas as bounties do jogo ao mesmo tempo.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Bounties de Cetus (Plains of Eidolon)
+
 
 | Local | Quem dá | Acesso |
 |---|---|---|
@@ -110,9 +115,9 @@ Variante que aparece periodicamente como **evento rotativo** nas Plains, com os 
 
 **Melhor nó para farmar:** **Tier 5 (nível 40–60)** é o melhor custo-benefício de reputação Ostron e de tabela de recompensa entre as bounties normais. Para **Grokdrul** e mods de Ghoul, espere o **Ghoul Purge**. Para **Arcanes de Eidolon**, a caça de Eidolon noturna — não a bounty dela, que não dá item.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Bounties de Cetus (Plains of Eidolon)
+
 
 | Recompensa | Rotação | Nota |
 |---|---|---|
@@ -124,9 +129,9 @@ Variante que aparece periodicamente como **evento rotativo** nas Plains, com os 
 > [!warning] Tabela parcial
 > Cada tier tem drop table própria **por estágio** (`CetusBounty1-1`, `CetusBounty1-2`, `CetusBounty1-F`, e assim por diante). Pela seção 8 das convenções **não invento porcentagem** — a tabela integral está em https://wiki.warframe.com/w/Plains_of_Eidolon/Rewards.
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Bounties de Cetus (Plains of Eidolon)
+
 
 - **Cumpra todos os objetivos bônus.** O prêmio não é só reputação: no estágio final você recebe **uma recompensa extra** sorteada da tabela do último estágio, que é a única que dá **Rare**. É o maior ganho por esforço da atividade.
 - **Leve um Scanner para Cache Recovery.** Os caches são **escaneáveis** e emitem som a **~30 m** — Codex ou Synthesis Scanner transforma um estágio apertado de 2:40 numa formalidade.
@@ -136,7 +141,3 @@ Variante que aparece periodicamente como **evento rotativo** nas Plains, com os 
 - **Bounty de Eidolon não dá item** — se seu objetivo é farmar Arcane, apenas vá caçar à noite. A bounty só serve para achar squad.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Bounty — mecânica geral, pools A/B/C e ciclo de 150 min, tabela de raridade por estágio, bônus por estágio, tiers e travas de MR de Cetus, tipos de missão de Cetus com todos os números, Ghoul Purge, Eidolon Hunt (reputação, ausência de recompensa, falha ao amanhecer), Narmer Bounties (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Plains_of_Eidolon/Rewards — tiers de nível por bounty e estrutura das drop tables por estágio (consultado em 2026-10-06)

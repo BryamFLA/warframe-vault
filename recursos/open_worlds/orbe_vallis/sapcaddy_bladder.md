@@ -1,10 +1,15 @@
 ---
 title: Sapcaddy Venedo Case
+aliases: [Sapcaddy Venedo Case, sapcaddy bladder]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+resumo: "Sapcaddy Venedo Case — Recurso do tipo fish part, 1 por drop."
+status: completo
+rag: true
 tags: [recurso, open_world, fish_part]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Sapcaddy_Venedo_Case", "https://wiki.warframe.com/w/Module:Resources/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -19,9 +24,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “A strong, metallic case that is resistant to fluctuations in environmental temperature.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Sapcaddy Venedo Case
+
 
 | Item | Valor |
 |---|---|
@@ -36,9 +41,9 @@ agente: opus
 > [!note] Nota do jogo
 > Source: Dismantled from Sapcaddy servofish via The Business in Fortuna (Venus). Catch Sapcaddy in the Orb Vallis lake during Cold weather. Also drops from resource containers across the Orb Vallis.
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Sapcaddy Venedo Case
+
 
 **Da seção de aquisição da wiki:** Venedo Case is acquired by dismantling Sapcaddies caught through Fishing. Go to The Business in Fortuna, select the desired amount of Sapcaddy available, and select the "Dismantle" option to extract the components. Each Sapcaddy yields one Venedo Case. This resource also drops from containers in Orb Vallis.
 
@@ -56,9 +61,9 @@ agente: opus
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Sapcaddy Venedo Case
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este recurso:
 
@@ -73,7 +78,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este recurso
 > Total de **5** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Sapcaddy_Venedo_Case — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)

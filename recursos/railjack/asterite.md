@@ -1,10 +1,15 @@
 ---
 title: Asterite
+aliases: [Asterite]
 tipo: recurso
 raridade: incomum
 origem: railjack
+resumo: "Asterite — Recurso incomum, farmado em Railjack Missions, 15 a 30 por drop."
+status: completo
+rag: true
 tags: [recurso, railjack]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Asterite", "https://wiki.warframe.com/w/Module:Resources/data", "https://wiki.warframe.com/w/Module:DropTables/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “Formed over billions of years, these crystals are most often found embedded in space rock.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Asterite
+
 
 | Item | Valor |
 |---|---|
@@ -31,9 +36,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **Sim** |
 | Introduzido no Update | **27** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Asterite
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -63,9 +68,9 @@ agente: opus
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Asterite
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este recurso:
 
@@ -79,8 +84,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este recurso
 > Total de **4** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Asterite — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)

@@ -1,9 +1,14 @@
 ---
 title: Void Armageddon
+aliases: [Void Armageddon]
 tipo: missao
 subtipo: tipo
+resumo: "Void Armageddon — Modo endless do locais/open-worlds/zariman.md|Zariman Ten Zero: defender dois Exodampers e a Eternal Relic por 3 ondas, construindo torretas com Argozene, e então matar um Ravenous Void Angel para fechar a rodada."
+status: completo
+rag: true
 tags: [missao, tipo, endless, zariman]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Void_Armageddon", "https://wiki.warframe.com/w/Module:Missions/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Modo endless do [[locais/open-worlds/zariman.md|Zariman Ten Zero]]: defender dois **Exodampers** e a **Eternal Relic** por 3 ondas, construindo torretas com **Argozene**, e então matar um **Ravenous Void Angel** para fechar a rodada.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Void Armageddon
+
 
 | Item | Detalhe |
 |---|---|
@@ -27,9 +32,9 @@ agente: opus
 | Equipamento obrigatório | **Amp de Void** no Operator/Drifter — a forma etérea do Void Angel só é atingível assim |
 | Nós no jogo | **1** — Oro Works, Zariman |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Void Armageddon
+
 
 1. O squad enfrenta ondas de inimigos que miram **um de dois Exodampers**, colocados em locais separados do mapa, **alternando entre eles**.
 2. **Inimigos nascem perto de um Exodamper por vez.** Atacam aquele Exodamper se ele ainda estiver de pé; caso contrário, **passam por ele e vão atacar a [[#A Eternal Relic|Eternal Relic]]**, o objetivo principal.
@@ -84,9 +89,9 @@ Valem **para o resto da rodada** e afetam **todos os Grineer e Corpus**. **Não 
 
 **Rotações de recompensa:** recompensa a cada **3 ondas bem-sucedidas + o Ravenous Void Angel derrotado**, na ordem **AABC**.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Void Armageddon
+
 
 | Planeta | Nó | Facção | Nível | Tileset |
 |---|---|---|---|---|
@@ -94,9 +99,9 @@ Valem **para o resto da rodada** e afetam **todos os Grineer e Corpus**. **Não 
 
 **Melhor nó para farmar:** **Oro Works** é o único. Ao contrário de **[[missoes/tipos/void_cascade.md|Void Cascade]]** e **[[missoes/tipos/void_flood.md|Void Flood]]**, este nó **não** tem Omnia Void Fissure.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Void Armageddon
+
 
 | Recompensa | Rotação | Chance | Nota |
 |---|---|---|---|
@@ -110,9 +115,9 @@ Valem **para o resto da rodada** e afetam **todos os Grineer e Corpus**. **Não 
 > [!info] Mesma tabela dos três modos do Zariman
 > Void Armageddon, Void Cascade e Void Flood compartilham a estrutura de recompensa por rotação. Tabela integral em https://wiki.warframe.com/w/Void_Armageddon/Rewards.
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Void Armageddon
+
 
 - **Argozene é compartilhado — combine quem constrói.** O teto é **500 para o squad inteiro**. Quatro pessoas construindo torreta ao mesmo tempo esvaziam o pote e ninguém cobre o segundo Exodamper.
 - **Construa com as teclas de habilidade.** A wiki aponta que isso é mais rápido que o modo normal de construção — relevante porque as torretas duram só **2 minutos**.
@@ -123,7 +128,3 @@ Valem **para o resto da rodada** e afetam **todos os Grineer e Corpus**. **Não 
 - **Amp de Void é obrigatório** para a forma Etérea, e **Void Sling** é obrigatório para tirar as esferas de proteção dela.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Void_Armageddon — estrutura da rodada, ondas de 1 min 05 s, cota de ~30 inimigos +10 por squadmate, Argozene (50 por ~10 s, teto 500 compartilhado), os 4 Armaments com custo e dano, duração de 2 min, vida da Eternal Relic e dos Exodampers, Relic Desiccation de 30 s, Shield Exodamper, fases do Ravenous Void Angel, rotação AABC e recompensas (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Missions/data — nó Oro Works, Zariman, nível 50–55, pré-requisito (consultado em 2026-10-06)

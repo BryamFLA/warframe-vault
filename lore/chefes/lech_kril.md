@@ -1,9 +1,14 @@
 ---
 title: Lieutenant Lech Kril
+aliases: [Lieutenant Lech Kril, lech kril]
 tipo: lore
 subtipo: chefe
+resumo: "Lieutenant Lech Kril — Herói de guerra reverenciado entre os Grineer, com armadura impenetrável e um martelo que troca de elemento entre as fases — frio na primeira, fogo na segunda."
+status: completo
+rag: true
 tags: [lore, chefe, grineer]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Lieutenant_Lech_Kril", "https://wiki.warframe.com/w/Damage_2.0/Grineer_Tab"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Herói de guerra reverenciado entre os Grineer, com armadura impenetrável e um martelo que troca de elemento entre as fases — **frio na primeira, fogo na segunda**. Matá-lo pode transformá-lo em mártir.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Lieutenant Lech Kril
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Ativo |
 | Arma assinada | **Brokk** (martelo) + **cryo-bag**, e o rifle [[armas/primarias/gorgon.md\|Gorgon]] |
 
----
 
-## 📖 História
+## 📖 História — Lieutenant Lech Kril
+
 
 Lech Kril é um **herói de guerra reverenciado** dentro do império Grineer, estacionado em **War, Marte**, e empunha um martelo e uma **cryo-bag** que usa com efeito letal.
 
@@ -35,9 +40,9 @@ A reputação dele cria um problema político para a [[lore/personagens/lotus.md
 
 Em Ceres, ele luta **em dupla com [[lore/chefes/captain_vor.md|Captain Vor]]** — a única parceria de chefes do Star Chart, e o encontro que fecha o arco de Vor como chefe comum.
 
----
 
-## ⚔️ Combate
+## ⚔️ Combate — Lieutenant Lech Kril
+
 
 | Item | Detalhe |
 |---|---|
@@ -78,9 +83,9 @@ Em Ceres, ele luta **em dupla com [[lore/chefes/captain_vor.md|Captain Vor]]** �
 
 **Frames recomendados:** [[warframes/regular/mesa.md|Mesa]] (Peacemaker acerta o coolant pack na janela curta), [[warframes/regular/rhino.md|Rhino]] (Iron Skin absorve martelo e ondas), [[warframes/regular/trinity.md|Trinity]] ou [[warframes/regular/oberon.md|Oberon]] contra Heat contínuo na Fase 2, [[warframes/regular/nekros.md|Nekros]] para o farm de Orokin Cell.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Lieutenant Lech Kril
+
 
 - **[[lore/chefes/captain_vor.md|Captain Vor]]** — parceiro de luta em Exta, Ceres.
 - **[[lore/faccoes/grineer.md|Grineer]]** — herói de guerra reverenciado; matá-lo tem custo político.
@@ -88,9 +93,9 @@ Em Ceres, ele luta **em dupla com [[lore/chefes/captain_vor.md|Captain Vor]]** �
 - **[[lore/chefes/sargas_ruk.md|Sargas Ruk]]** e **[[lore/chefes/vay_hek.md|Vay Hek]]** — os outros chefes de alto escalão Grineer.
 - **[[lore/chefes/kela_de_thaym.md|Kela De Thaym]]** — ele aparece no contexto do Rathuum dela.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Lieutenant Lech Kril
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -101,7 +106,3 @@ Em Ceres, ele luta **em dupla com [[lore/chefes/captain_vor.md|Captain Vor]]** �
 | [[mecanicas/steel_path.md\|Steel Path]] | Versões de dificuldade elevada dos nós |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Lieutenant_Lech_Kril (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Grineer_Tab (consultado em 2026-10-04)

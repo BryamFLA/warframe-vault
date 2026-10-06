@@ -1,20 +1,25 @@
 ---
 title: Anexos
+aliases: [Anexos]
 tipo: cosmetico
-tags:
-  - cosmetico
-  - anexo
-  - armadura
-atualizado: 2026-04-19
+resumo: Anexos são peças de armadura decorativas fixadas em partes específicas do Warframe.
+status: parcial
+rag: true
+tags: [cosmetico, anexo, armadura]
+atualizado: 2026-10-07
+agente: opus
 ---
 
-## O que são Anexos?
+# Anexos
+
+## O que são Anexos? — Anexos
+
 
 Anexos são peças de armadura decorativas fixadas em partes específicas do Warframe. Não alteram stats — apenas aparência.
 
----
 
-## Slots de Anexo
+## Slots de Anexo — Anexos
+
 
 | Slot | Localização |
 |---|---|
@@ -25,9 +30,9 @@ Anexos são peças de armadura decorativas fixadas em partes específicas do War
 | **Perna direita** | Greave direita |
 | **Braço** | Gauntlet (punho/antebraço) |
 
----
 
-## Tipos de Anexo
+## Tipos de Anexo — Anexos
+
 
 | Tipo | Característica |
 |---|---|
@@ -36,18 +41,18 @@ Anexos são peças de armadura decorativas fixadas em partes específicas do War
 | **Tennogen** | Peças individuais criadas pela comunidade |
 | **Sindicato** | Itens de standing de alguns sindicatos |
 
----
 
-## Aquisição
+## 🌍 Onde Conseguir — Anexos
+
 
 - **Mercado** (Platinum) — armor sets e peças individuais
 - **Prime Access / Prime Vault** — Prime Accessories sempre incluem peças de armadura
 - **Tennogen** (Steam) — peças individuais votadas pela comunidade
 - **Nightwave** — periodicamente como recompensa de rank
 
----
 
-## Observações
+## 📝 Observações — Anexos
+
 
 - Cada slot aceita apenas uma peça por vez
 - É possível misturar peças de sets diferentes para criar looks únicos

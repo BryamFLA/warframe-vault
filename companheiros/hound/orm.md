@@ -1,9 +1,16 @@
 ---
 title: Orm Hound
-tipo: hound
-tags:
-  - companheiro
-  - hound
-status: nao-obtido
-atualizado: 2026-04-19
+aliases: [Orm Hound, orm]
+tipo: companheiro
+subtipo: hound
+resumo: Orm Hound — conteúdo ainda não preenchido no vault.
+status: stub
+rag: false
+tags: [companheiro, hound]
+atualizado: 2026-10-07
+agente: opus
 ---
+
+# Orm Hound
+
+

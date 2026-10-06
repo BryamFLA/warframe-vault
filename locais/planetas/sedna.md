@@ -1,11 +1,14 @@
 ---
 title: Sedna
+aliases: [Sedna]
 tipo: local
-status: nao-visitado
 faccao: Grineer
-tags:
-  - local
-atualizado: 2026-04-17
+resumo: Sedna — Planeta distante com arenas Grineer (Rathuum).
+status: stub
+rag: false
+tags: [local]
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Sedna
@@ -13,24 +16,25 @@ atualizado: 2026-04-17
 > [!info] Visão Geral
 > Planeta distante com arenas Grineer (Rathuum)
 
-## Facção Principal
+## 🏴 Facção — Sedna
+
 - Grineer
 - Inimigos: Lancers, Bombards, Executioners (Rathuum)
 
-## Missões Disponíveis
+## 🗺️ Missões — Sedna
+
 - Exterminate, Defense, Survival, Rathuum (Arena)
 
-## Chefe
-- [[kela_de_thaym|Kela de Thaym (Merrow)]] — recompensa: [[saryn|Saryn]] partes
+## 👑 Chefe — Sedna
 
-## Recursos Notáveis
+- [[lore/chefes/kela_de_thaym.md|Kela de Thaym (Merrow)]] — recompensa: [[warframes/regular/saryn.md|Saryn]] partes
+
+## 💎 Recursos — Sedna
+
 - Nano Spores
 - Plastids
 - Rubedo
 
-## Minha Progressão
-- [ ] Planeta desbloqueado
-- [ ] Chefe derrotado
+## 🔗 Relacionados — Sedna
 
-## Conexões
-- Chefe: [[kela_de_thaym|Kela de Thaym]]
+- Chefe: [[lore/chefes/kela_de_thaym.md|Kela de Thaym]]

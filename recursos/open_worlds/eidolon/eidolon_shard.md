@@ -1,10 +1,15 @@
 ---
 title: Eidolon Shard
+aliases: [Eidolon Shard, Fragmento Eidolon]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+resumo: "Eidolon Shard — Recurso, 1 por drop."
+status: completo
+rag: true
 tags: [recurso, open_world]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Eidolon_Shard", "https://wiki.warframe.com/w/Module:Resources/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “Shard gained from the Sentients roaming the Plains of Eidolon on Earth at night.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Eidolon Shard
+
 
 | Item | Valor |
 |---|---|
@@ -30,9 +35,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **Não** |
 | Introduzido no Update | **22** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Eidolon Shard
+
 
 **Da seção de aquisição da wiki:** The Eidolon Teralyst, Gantulyst, and Hydrolyst will drop one, three, and five Eidolon Shards respectively regardless of whether they are killed or captured.
 
@@ -53,16 +58,12 @@ agente: opus
 > [!warning] Booster não funciona neste recurso
 > Os dados da wiki marcam este item como **não afetado** por Resource Booster nem por Resource Drop Chance Booster. Boosters e frames de loot **não aceleram** o farm dele.
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Eidolon Shard
+
 
 | Item | Quantidade |
 |---|---|
 | ⚠️ NÃO VERIFICADO | Nenhuma receita do `Module:Resources/data` lista este item como componente e a página da wiki não traz Item Checklist parseável. Ele pode ser usado em **trocas de sindicato** ou **consumido direto** — usos que não estão nesses dados. Confira em https://wiki.warframe.com/w/Eidolon_Shard |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Eidolon_Shard — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)

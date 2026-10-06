@@ -1,9 +1,14 @@
 ---
 title: Archon Boreal
+aliases: [Archon Boreal]
 tipo: lore
 subtipo: chefe
+resumo: "Archon Boreal — Boreal, a Coruja: em Tau se achava superior a todos os Sentients menos a Pazuul, e virar Archon foi humilhação — hoje odeia Sentients e Tenno em igual medida, e se tranca numa pirâmide azul que só abre atirando nos orbes vermelhos dos canto."
+status: completo
+rag: true
 tags: [lore, chefe, sentient, narmer, archon]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Archon_Boreal", "https://wiki.warframe.com/w/Damage_2.0/Overview_Table"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Boreal, a Coruja: em Tau se achava superior a todos os Sentients menos a Pazuul, e virar Archon foi humilhação — hoje odeia Sentients e Tenno em igual medida, e se tranca numa pirâmide azul que só abre atirando nos orbes vermelhos dos cantos.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Archon Boreal
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Ativo, por rancor. Serve a Pazuul porque ele fornece alvos fáceis |
 | Dublagem | — |
 
----
 
-## 📖 História
+## 📖 História — Archon Boreal
+
 
 Boreal, a Coruja, foi originalmente um **Sentient Beast** — criado por **Praghasa** e [[lore/personagens/hunhow.md|Hunhow]] para ser pacificador de **Tau**. Em Tau ele era solitário e **se considerava acima dos outros Sentients**, reconhecendo como igual apenas o Ram, **Pazuul**.
 
@@ -35,9 +40,9 @@ Depois de lutar e morrer na [[lore/cronologia/antiga_guerra.md|Antiga Guerra]], 
 
 A consequência política é direta: ele é **indiferente ao sofrimento de Erra** sob a máscara de Pazuul, porque foi Erra quem o transformou em Archon. Boreal serve apenas ao Ram — e serve porque o Ram lhe fornece **alvos fáceis para o seu rancor**.
 
----
 
-## ⚔️ Combate
+## ⚔️ Combate — Archon Boreal
+
 
 | Item | Detalhe |
 |---|---|
@@ -87,9 +92,9 @@ Como quase todo o dano dele é **Electricity**, resistência e Overguard valem m
 
 **Frames recomendados:** [[warframes/regular/dante.md|Dante]] (Overguard é a melhor resposta a Electricity contínua e knockback), [[warframes/regular/rhino.md|Rhino]] (Iron Skin + Roar), [[warframes/regular/inaros.md|Inaros]] (não depende de escudo), [[warframes/regular/octavia.md|Octavia]] (Amp), [[warframes/regular/harrow.md|Harrow]] (Covenant contra os campos elétricos), [[warframes/regular/mesa.md|Mesa]] (Peacemaker resolve os orbes vermelhos da pirâmide e os cilindros dos Aerolysts).
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Archon Boreal
+
 
 - **Pazuul** — o Ram, o único que Boreal reconhecia como igual em Tau, e a quem serve agora por conveniência.
 - **[[lore/personagens/erra.md|Erra]]** — quem o transformou em Archon; Boreal é indiferente ao sofrimento dele por isso.
@@ -97,9 +102,9 @@ Como quase todo o dano dele é **Electricity**, resistência e Overguard valem m
 - **[[lore/chefes/archon_amar.md|Archon Amar]]** e **[[lore/chefes/archon_nira.md|Archon Nira]]** — os outros dois Beasts revividos.
 - **[[lore/faccoes/sentient.md|Sentient]]** e **[[lore/faccoes/tenno.md|Tenno]]** — ele culpa os dois igualmente pelo que se tornou.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Archon Boreal
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -108,7 +113,3 @@ Como quase todo o dano dele é **Electricity**, resistência e Overguard valem m
 | [[mecanicas/helminth.md\|Helminth]] | Destino dos Shards arrancados |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Archon_Boreal (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Overview_Table (consultado em 2026-10-04)

@@ -1,10 +1,15 @@
 ---
 title: Ruk's Claw
+aliases: [Ruk's Claw, ruks claw]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+resumo: "Recurso do tipo plant, farmado em Obtained by gathering Ruk's Claw plants that grow on Mars, 1 por drop."
+status: completo
+rag: true
 tags: [recurso, open_world, plant]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Ruk%27s_Claw", "https://wiki.warframe.com/w/Module:Resources/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “This plant was introduced to arid regions across the Origin System, for its ability to collect moisture in harsh environments.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Ruk's Claw
+
 
 | Item | Valor |
 |---|---|
@@ -31,9 +36,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **Sim** |
 | Introduzido no Update | **Update: The Silver Grove** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Ruk's Claw
+
 
 **Locais que o próprio jogo lista:** Obtained by gathering Ruk's Claw plants that grow on Mars
 
@@ -53,16 +58,12 @@ No vault: [[locais/planetas/marte.md|Mars]].
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Ruk's Claw
+
 
 | Item | Quantidade |
 |---|---|
 | ⚠️ NÃO VERIFICADO | Nenhuma receita do `Module:Resources/data` lista este item como componente e a página da wiki não traz Item Checklist parseável. Ele pode ser usado em **trocas de sindicato** ou **consumido direto** — usos que não estão nesses dados. Confira em https://wiki.warframe.com/w/Ruk%27s_Claw |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Ruk%27s_Claw — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)

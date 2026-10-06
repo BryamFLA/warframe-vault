@@ -1,10 +1,15 @@
 ---
 title: Ferros
+aliases: [Ferros]
 tipo: recurso
 raridade: incomum
 origem: open-world
+resumo: "Ferros — Recurso incomum do tipo ore, farmado em Plains of Eidolon (Earth) from Red Mining Veins and Thumpers, 5 a 10 por drop."
+status: completo
+rag: true
 tags: [recurso, open_world, ore]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Ferros", "https://wiki.warframe.com/w/Module:Resources/data", "https://wiki.warframe.com/w/Module:DropTables/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “A resilient metal that is hardened by impurities within.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Ferros
+
 
 | Item | Valor |
 |---|---|
@@ -31,9 +36,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **Sim** |
 | Introduzido no Update | **22** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Ferros
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -59,9 +64,9 @@ No vault: [[locais/planetas/terra.md|Earth]], [[locais/open-worlds/cetus.md|Plai
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Ferros
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este recurso:
 
@@ -75,8 +80,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este recurso
 > Total de **4** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Ferros — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)

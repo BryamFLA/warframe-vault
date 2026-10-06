@@ -1,10 +1,15 @@
 ---
 title: Brilliant Eidolon Shard
+aliases: [Brilliant Eidolon Shard]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+resumo: "Brilliant Eidolon Shard — Recurso, 1 por drop."
+status: completo
+rag: true
 tags: [recurso, open_world]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Brilliant_Eidolon_Shard", "https://wiki.warframe.com/w/Module:Resources/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “Rare shard gained from capturing the Sentients roaming the Plains of Eidolon on Earth at night. Use it to gain Focus or to unbind Way-bound focus nodes.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Brilliant Eidolon Shard
+
 
 | Item | Valor |
 |---|---|
@@ -30,9 +35,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **Não** |
 | Introduzido no Update | **22.12** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Brilliant Eidolon Shard
+
 
 **Da seção de aquisição da wiki:** Eidolon Teralysts and Eidolon Gantulysts will drop one Brilliant Eidolon Shard when captured at its final stage with a charged Eidolon Lure. Eidolon Gantulyst requires a Brilliant Eidolon Shard to summon that will be returned when captured. Eidolon Hydrolysts will drop two Brilliant Eidolon Shards when captured at its final stage with a charged Eidolon Lure. Eidolon Hydrolyst requires a Brilliant Eidolon Shard to summon that will be returned when captured.
 
@@ -53,16 +58,12 @@ agente: opus
 > [!warning] Booster não funciona neste recurso
 > Os dados da wiki marcam este item como **não afetado** por Resource Booster nem por Resource Drop Chance Booster. Boosters e frames de loot **não aceleram** o farm dele.
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Brilliant Eidolon Shard
+
 
 | Item | Quantidade |
 |---|---|
 | ⚠️ NÃO VERIFICADO | Nenhuma receita do `Module:Resources/data` lista este item como componente e a página da wiki não traz Item Checklist parseável. Ele pode ser usado em **trocas de sindicato** ou **consumido direto** — usos que não estão nesses dados. Confira em https://wiki.warframe.com/w/Brilliant_Eidolon_Shard |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Brilliant_Eidolon_Shard — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)

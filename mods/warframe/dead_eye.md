@@ -1,11 +1,16 @@
 ---
 title: Dead Eye
+aliases: [Dead Eye]
 tipo: mod
 categoria: warframe
-polaridade: Madurai
 raridade: incomum
+polaridade: Madurai
+resumo: "Dead Eye — O squad recebe +52.5% Sniper Rifle Dano Texto exato no jogo (inglês): Squad receives +52.5% Sniper Rifle Damage."
+status: completo
+rag: true
 tags: [mod, warframe]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Dead_Eye", "https://wiki.warframe.com/w/Module:Mods/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -17,9 +22,9 @@ agente: opus
 >
 > *Texto exato no jogo (inglês):* `Squad receives +52.5% Sniper Rifle Damage`
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Dead Eye
+
 
 | Item | Valor |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 | Transmutável | **Não** |
 | Introduzido no Update | **12** |
 
----
 
-## 📈 Efeito por Rank
+## 📈 Efeito por Rank — Dead Eye
+
 
 <!-- Valores copiados da seção Stats da página do mod na wiki. Nenhum valor interpolado. -->
 
@@ -51,9 +56,9 @@ agente: opus
 > [!note] A drenagem sobe 1 por rank
 > Regra do jogo, visível na própria tabela: a drenagem no rank R é **-2 + R**.
 
----
 
-## 🏗️ Onde Obter
+## 🌍 Onde Conseguir — Dead Eye
+
 
 | Fonte | Detalhe |
 |---|---|
@@ -63,9 +68,9 @@ agente: opus
 
 **Faixa de preço em platina:** ⚠️ **estimativa não fornecida.** Pela seção 8 das convenções, preço de platina é mercado flutuante e não é registrado aqui. Consulte warframe.market no momento da compra.
 
----
 
-## 🛠️ Uso
+## 🛠️ Como Usar — Dead Eye
+
 
 **Vale a pena?** **Geralmente sim.** Mod **Uncommon** — fácil de conseguir e normalmente parte do núcleo de uma build.
 
@@ -79,7 +84,3 @@ O efeito concreto no rank máximo é **O squad recebe +52.5% Sniper Rifle Dano**
 Nenhum mod é registrado como **mutuamente exclusivo** com este nos dados da wiki. A concorrência é pelo **slot** e pela **capacidade**, não por bloqueio do jogo.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Dead_Eye — efeito por rank, polaridade, drenagem, raridade e incompatibilidades (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Mods/data — ficha do mod: tipo, classe, comercializável, transmutável, update de introdução (consultado em 2026-10-06)

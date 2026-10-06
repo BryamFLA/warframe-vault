@@ -1,10 +1,15 @@
 ---
 title: Hespazym Alloy
+aliases: [Hespazym Alloy, Liga Hespazym]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+resumo: Hespazym Alloy is a refined alloy resource requiring Hesperon ore obtainable from Orb Vallis.
+status: completo
+rag: true
 tags: [recurso, open_world]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Hespazym_Alloy"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -19,9 +24,9 @@ agente: opus
 > [!warning] Este item não está no `Module:Resources/data`
 > Ao contrário da maioria dos recursos do vault, este não tem entrada no módulo de dados de recursos da wiki — então **não há ficha estruturada** de raridade, quantidade por drop ou compatibilidade com booster para copiar. O que está abaixo vem do **texto da própria página** e do **`Module:DropTables/data`**. Os campos sem fonte ficam marcados.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Hespazym Alloy
+
 
 | Item | Valor |
 |---|---|
@@ -30,9 +35,9 @@ agente: opus
 | Quantidade por drop | ⚠️ NÃO VERIFICADO |
 | Afetado por boosters | ⚠️ NÃO VERIFICADO |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Hespazym Alloy
+
 
 **Da seção de aquisição da página:** The reusable blueprint can be purchased from Smokefinger for 4,000 Standing 4,000, requiring the Rank 2: Rapscallion with Solaris United.
 
@@ -50,9 +55,9 @@ agente: opus
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Hespazym Alloy
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este item:
 
@@ -92,6 +97,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este item:
 > Total de **33** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Hespazym_Alloy — descrição, forma de obtenção e Item Checklist (consultado em 2026-10-06)

@@ -1,10 +1,15 @@
 ---
 title: Noctrul
+aliases: [Noctrul]
 tipo: recurso
 raridade: comum
 origem: railjack
+resumo: "Noctrul — Recurso comum do tipo gem, farmado em Orb Vallis (Venus) from Blue Mining Veins and Resource Containers, 3 a 6 por drop."
+status: completo
+rag: true
 tags: [recurso, railjack, gem]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Noctrul", "https://wiki.warframe.com/w/Module:Resources/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “A black gemstone, with iridescent blue impurities.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Noctrul
+
 
 | Item | Valor |
 |---|---|
@@ -31,9 +36,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **Sim** |
 | Introduzido no Update | **24** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Noctrul
+
 
 **Locais que o próprio jogo lista:** Orb Vallis (Venus) from Blue Mining Veins and Resource Containers
 
@@ -53,9 +58,9 @@ No vault: [[locais/planetas/venus.md|Venus]], [[locais/open-worlds/fortuna.md|Or
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Noctrul
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este recurso:
 
@@ -67,7 +72,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este recurso
 > Total de **2** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Noctrul — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)

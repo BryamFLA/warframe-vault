@@ -1,8 +1,13 @@
 ---
 title: Operator e Focus
+aliases: [Operator e Focus]
 tipo: mecanica
+resumo: "Operator e Focus — Focus 3.0 é a árvore de poderes do Tenno dentro do Warframe: cinco escolas (Madurai, Vazarin, Naramon, Unairu, Zenurik), cada uma com 10 Ways, duas delas desvinculáveis (Way-Bound) para valer em qualquer escola."
+status: completo
+rag: true
 tags: [mecanica, operator, focus, tenno, void, escolas, waybound]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Focus", "https://wiki.warframe.com/w/Focus/Zenurik"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -15,9 +20,9 @@ agente: opus
 > [!warning] Spoiler — The Second Dream, The War Within, The Old Peace
 > Tudo abaixo depende de saber o que o Operator é. Não leia sem ter feito **The Second Dream**.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Operator e Focus
+
 
 Focus destranca em três degraus. **The Second Dream** libera a **Transcendence**: uma projeção invulnerável do Operator com um Void Beam, dura **10 s**, e o medidor recarrega sozinho em **3 minutos** — e com ela as **duas Passive Ways** de cada escola. **The War Within** substitui a Transcendence pela **Transference**, que coloca o Operator fisicamente em campo com habilidades, Amp e Arcanes próprios, e faz as passivas de Focus valerem **desde o início da missão**, mesmo sem nunca usar Transference. Para revelar o resto das Ways é preciso ter feito **The War Within + Saya's Vigil** e falar com [[mecanicas/sindicatos/the_quills.md\|The Quills]] em Cetus. Depois de **The Old Peace** abre-se a camada do **Tauron Strike**.
 
@@ -28,9 +33,9 @@ As Ways se dividem em três tipos. **Active Ways** (ícone circular) alteram os 
 > [!danger] Focus gasto não volta
 > Destrancar uma Way é gasto único e confirmado. Depois de confirmar, **o Focus não é reembolsado nem recuperado**. Antes de confirmar ainda é possível reverter para o último estado salvo.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Operator e Focus
+
 
 ```
 Teto diário de Focus = 250.000 + (5.000 x Mastery Rank)
@@ -80,9 +85,9 @@ Desvincular um Way-Bound = levar ao último rank + 750.000 Focus + 1 Brilliant E
 - Para desvincular, a Way-Bound precisa estar **no último rank** antes de pagar os 750.000.
 - Bônus de dano de Operator do **Vengeance** tem teto de **+1000%**.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Operator e Focus
+
 
 ### Taxa de conversão de Affinity em Focus
 
@@ -128,9 +133,9 @@ Depois, quanto disso vira Focus, por tipo de Lens:
 
 > Thrax Centurion e Thrax Legatus também aparecem em Conjunction Survival, Duviri e The Circuit — não só no Zariman.
 
----
 
-## 🌳 As cinco escolas, Way por Way
+## 🌳 As cinco escolas, Way por Way — Operator e Focus
+
 
 Formato do custo: `rank 1 / 2 / 3 / 4` em Focus Points.
 
@@ -239,9 +244,9 @@ Após **The Old Peace**, comprando o **Tektolyst Artifact** da escola com a Mari
 | Maxar os 5 nós de uma escola | 5.005.000 Focus + 2/3/5/6 dos recursos por tier (varia por escola) |
 | Maxar os nós de Tauron Strike das 5 escolas | 114 Lyroic Bridge, 162 Ren Hypercore, 89 Ascaris Prime (os totais de destrancar + maxar somam 864 / 912 / 839) |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Operator e Focus
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -260,9 +265,9 @@ Após **The Old Peace**, comprando o **Tektolyst Artifact** da escola com a Mari
 
 **Frames que interagem:** [[warframes/regular/inaros.md|Inaros]], [[warframes/regular/nokko.md|Nokko]] e [[warframes/regular/sevagoth.md|Sevagoth]] têm auto-revive e **não podem usar Last Gasp**. [[warframes/regular/hildryn.md|Hildryn]] e [[warframes/regular/lavos.md|Lavos]] não usam energia, então Wellspring e Energy Pulse não fazem nada neles. [[warframes/regular/saryn.md|Saryn]] (Spores) e [[warframes/regular/garuda.md|Garuda]] (Seeking Talons) enchem o medidor de Last Gasp com DoT.
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Operator e Focus
+
 
 - **"Focus gasto pode ser realocado."** Não existe respec. Focus confirmado numa Way **nunca** volta.
 - **"Way-Bound funciona em qualquer escola desde o começo."** Não. Precisa estar no **último rank** e custar **750.000 Focus + 1 Brilliant Eidolon Shard** para ser desvinculada. Só então passa a valer em qualquer escola.
@@ -276,9 +281,9 @@ Após **The Old Peace**, comprando o **Tektolyst Artifact** da escola com a Mari
 - **"Zenurik ainda dá stun elétrico."** Não desde o Focus 3.0 (Update 31.5, 2022-04-27). Zenurik perdeu o efeito de Electricity, o Void Mode que puxava inimigos e o bônus de eficiência de Heavy Attack.
 - **"Transcendence e Transference são a mesma coisa."** Transcendence (pós-The Second Dream) é uma projeção invulnerável de 10 s com recarga de 3 min. Transference (pós-The War Within) põe o Operator de verdade em campo, sem limite de tempo.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Operator e Focus
+
 
 - [[mecanicas/steel_path.md|The Steel Path]] — Unairu (Magnetic Flare + Caustic Strike) é a resposta sem custo de slot ao escudo de 250%.
 - [[mecanicas/helminth.md|Helminth]] — a alternativa a Unairu é subsumir Pillage ou Tharros Strike, que custa um slot de habilidade do frame.
@@ -296,7 +301,3 @@ Após **The Old Peace**, comprando o **Tektolyst Artifact** da escola com a Mari
 - [[recursos/open_worlds/eidolon/brilliant_eidolon_shard.md|Brilliant Eidolon Shard]] — 25.000 de Focus cada, e o item exigido para desvincular cada Way-Bound.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Focus — Transcendence e Transference, requisitos de desbloqueio, tipos de Way, regras de Way-Bound, teto diário, tabela de conversão por Lens e por fonte de abate, Convergence Orbs, Eidolon Shards, inimigos do Void, custos por posição na árvore e totais, camada de Tauron Strike (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Focus/Zenurik · /Madurai · /Unairu · /Vazarin · /Naramon — efeito e custo exatos de cada Way por rank, incluindo os nós de Tauron Strike (consultado em 2026-10-04)

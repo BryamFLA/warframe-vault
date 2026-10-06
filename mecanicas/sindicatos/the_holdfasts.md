@@ -1,8 +1,13 @@
 ---
 title: The Holdfasts
+aliases: [The Holdfasts]
 tipo: mecanica
+resumo: "The Holdfasts — Os quatro últimos \"sobreviventes\" da tripulação adulta do Zariman Ten Zero, ressuscitados pelo Void e operando no Chrysalith; sindicato neutro cuja moeda são Voidplumes e que vende os Arcanes do Zariman e as armas Incarnon de lá."
+status: completo
+rag: true
 tags: [mecanica, sindicato, the-holdfasts, zariman, voidplume, chrysalith, neutro]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/The_Holdfasts", "https://wiki.warframe.com/w/Voidplume"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -15,9 +20,9 @@ agente: opus
 > [!warning] Spoiler — Angels of the Zariman
 > Todo o conteúdo abaixo depende de concluir **Angels of the Zariman**.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — The Holdfasts
+
 
 Os **Holdfasts** são os **quatro últimos "sobreviventes"** da tripulação **adulta** do [[locais/open-worlds/zariman.md\|Zariman Ten Zero]], operando dentro do **Chrysalith**. Trazidos de volta à vida pelos poderes misteriosos do Void, eles **resistiram à conversão em Void Angels**.
 
@@ -25,9 +30,9 @@ Estritamente falando **não são mais humanos**: são **manifestações do Void*
 
 Mecanicamente é um **sindicato neutro**: o Standing vem de **coletar Voidplumes** e entregá-los à **Archimedean Yonta**.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — The Holdfasts
+
 
 ```
 Standing por entrega à Archimedean Yonta:
@@ -75,9 +80,9 @@ Archimedean Yonta oferece Voidplumes em troca de recursos do Zariman.
 - Sendo neutro, não há demoção nem Standing negativo.
 - Os blueprints das armas Incarnon do Zariman exigem **Mastery Rank 14** e são **tradeáveis**.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — The Holdfasts
+
 
 ### Ranks, sacrifícios e benefícios
 
@@ -113,9 +118,9 @@ Cada rank dá acesso aos itens daquele tier **mais um item grátis** à escolha.
 | **Quill** | 2.500 | Conclusão de Bounty do Quinn (1–5) · **Zarium Accolade** entregue a Cephalon Melica Cache · **Ravenous Void Angel** (Void Armageddon) |
 | **Pinion** | **5.000** | **Void Angel dormente** abatido, em qualquer missão do Zariman |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — The Holdfasts
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -128,9 +133,9 @@ Cada rank dá acesso aos itens daquele tier **mais um item grátis** à escolha.
 | Standing dobrado no Steel Path | Bounties do Zariman no [[mecanicas/steel_path.md\|Steel Path]] dão **+50% de Voidplumes** e 1 Steel Essence |
 | Farmar Focus junto | Thrax Centurion e Legatus dão **2.500 de Focus para todo o squad**; Ravenous Void Angel dá **7.500**; Void Angel dormente dá **15.000**. Ver [[mecanicas/operator_e_focus.md\|Operator e Focus]] |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — The Holdfasts
+
 
 - **"Void Angel do Void Armageddon dropa Pinion."** Não. O **Ravenous** Void Angel (Void Armageddon) dropa **Quill** (2.500). É o **dormente** que dropa **Pinion** (5.000).
 - **"Todo Voidplume vale igual."** 500 / 1.000 / 2.000 / 2.500 / **5.000** — uma diferença de **10x** entre Down e Pinion.
@@ -140,9 +145,9 @@ Cada rank dá acesso aos itens daquele tier **mais um item grátis** à escolha.
 - **"Os medalhões são 8 em qualquer tipo de missão."** São 8 nas missões do Zariman; o que varia é a **distribuição** por tipo de Voidplume.
 - **"Arma do Zariman não é tradeável."** Os **blueprints são** tradeáveis (taxa Common), mas exigem **MR 14** de quem recebe.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — The Holdfasts
+
 
 - [[mecanicas/incarnon.md|Incarnon]] — Laetum, Phenmor e Felarx são compradas aqui, e o Cavalero é quem instala os Incarnon Genesis do Circuit.
 - [[mecanicas/operator_e_focus.md|Operator e Focus]] — Thrax e Void Angels do Zariman são as fontes de Focus que **não** dependem de Focus Lens.
@@ -159,7 +164,3 @@ Cada rank dá acesso aos itens daquele tier **mais um item grátis** à escolha.
 - [[recursos/open_worlds/zariman/voidplume_pinion.md|Voidplume Pinion]], [[recursos/open_worlds/zariman/voidplume_quill.md|Quill]], [[recursos/open_worlds/zariman/voidplume_crest.md|Crest]], [[recursos/open_worlds/zariman/voidplume_down.md|Down]] — a moeda do sindicato.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/The_Holdfasts — natureza dos Holdfasts (Conceptual Embodiment, resistência à conversão em Void Angel), requisito de Angels of the Zariman, valores exatos de Standing por tipo de Voidplume e por Universal Medallion, tabela completa de ranks com sacrifício e benefício, ciclo de 8 h das trocas da Yonta (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Voidplume — distribuição garantida dos 8 Voidplumes por missão, chance por tier de Bounty, Zarium Accolade e Cephalon Melica Cache, drops garantidos de Ravenous Void Angel (Quill) e de Void Angel dormente (Pinion) (consultado em 2026-10-04)

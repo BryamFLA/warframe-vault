@@ -1,9 +1,14 @@
 ---
 title: Orokin
+aliases: [Orokin]
 tipo: lore
 subtipo: faccao
+resumo: "Orokin — Aristocracia imortal que governou todo o Sistema de Origem, criou Grineer, Sentients, Cephalons e Warframes — e foi exterminada pelos próprios Tenno na noite da festa da vitória."
+status: completo
+rag: true
 tags: [lore, faccao, orokin]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Orokin", "https://wiki.warframe.com/w/Damage_2.0/Corrupted_Tab", "https://wiki.warframe.com/w/Damage_2.0/Overview_Table"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Aristocracia imortal que governou todo o Sistema de Origem, criou Grineer, Sentients, Cephalons e Warframes — e foi exterminada pelos próprios Tenno na noite da festa da vitória.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Orokin
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Extintos como poder. Sobreviventes conhecidos: [[lore/personagens/ballas.md\|Ballas]] (morto em The New War), a família [[mecanicas/sindicatos/entrati.md\|Entrati]], as Twin Queens Grineer e Nihil |
 | Dublagem | Elenco variado (facção) |
 
----
 
-## 📖 História
+## 📖 História — Orokin
+
 
 A origem exata dos Orokin é desconhecida; a teoria é que surgiram **depois das Radiation Wars**. Vieram ao poder sobre Terra, Vênus, Mercúrio, Marte e suas luas e expandiram-se por todo o sistema ao longo de quatro eras — **Lith, Meso, Neo e Axi**, os mesmos nomes das Relics. Sua tecnologia superava qualquer coisa moderna (as Solar Rails ainda funcionam hoje), mas a sociedade era brutalmente estratificada: só o topo era considerado "Orokin de verdade". Ao fim da era, a capital era a lua da Terra, hoje [[locais/planetas/lua.md|Lua]].
 
@@ -35,9 +40,9 @@ Problemas como superpopulação os levaram a querer colonizar o sistema **Tau**.
 
 Sem resposta contra a adaptação Sentient, os Orokin recorreram aos Tenno. Pervertendo a pesquisa de Margulis e juntando-a ao Warframe Project de Ballas, criaram as **Warframes** — humanos infestados com a cepa Helminth, transformados em armaduras vivas pilotadas por Transference. A guerra virou. Mas Ballas, amargurado porque Margulis preferia os Tenno, entregou a Hunhow o ponto fraco deles: o **Reservoir** em Lua. Hunhow enviou a filha **Natah** como espiã. Na festa da vitória, sob ordem de Natah, os Tenno massacraram os Orokin em todo o sistema — e o Império desabou, deixando o vácuo que Grineer e Corpus disputam até hoje.
 
----
 
-## 🏛️ Estrutura e Unidades
+## 🏛️ Estrutura e Unidades — Orokin
+
 
 ### Hierarquia
 
@@ -101,9 +106,9 @@ Os inimigos "Orokin" jogáveis são os **Corrupted**: Grineer, Corpus e proxies 
 | Radiation | — | — | — | **+75%** | −25% | — | +25% | −75% |
 | Viral | **+75%** | **+50%** | — | — | — | — | — | — |
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Orokin
+
 
 - **[[lore/faccoes/tenno.md|Tenno]]** — criação e executores. Os Orokin encobriram o desastre do Zariman, executaram Margulis e armaram as crianças que depois os aniquilaram.
 - **[[lore/faccoes/sentient.md|Sentient]]** — criação que se voltou contra eles. Feitos como terraformadores de Tau, com uma fraqueza intencional ao Void.
@@ -115,9 +120,9 @@ Os inimigos "Orokin" jogáveis são os **Corrupted**: Grineer, Corpus e proxies 
 - **[[lore/personagens/margulis.md|Margulis]]** — Archimedean que criou a Transference e morreu por proteger os Tenno.
 - **[[mecanicas/sindicatos/entrati.md|Entrati]]** — família Orokin sobrevivente em Deimos, parcialmente Infested.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Orokin
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -132,8 +137,3 @@ Os inimigos "Orokin" jogáveis são os **Corrupted**: Grineer, Corpus e proxies 
 | Relics (Lith, Meso, Neo, Axi) | Nomeadas pelas quatro eras de expansão Orokin |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Orokin (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Corrupted_Tab (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Overview_Table (consultado em 2026-10-04)

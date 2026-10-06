@@ -1,9 +1,14 @@
 ---
 title: Loid
+aliases: [Loid]
 tipo: lore
 subtipo: personagem
+resumo: "O Cephalon Necraloid que Albrecht criou para servir a família — carrega dentro de si os restos de Otak, outro Cephalon que ele tentou salvar e acabou danificando para sempre."
+status: completo
+rag: true
 tags: [lore, personagem, cephalon, entrati]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Loid"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O Cephalon Necraloid que Albrecht criou para servir a família — carrega dentro de si os restos de **Otak**, outro Cephalon que ele tentou salvar e acabou danificando para sempre.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Loid
+
 
 | Item | Valor |
 |---|---|
@@ -26,9 +31,9 @@ agente: opus
 | Criado por | [[lore/personagens/albrecht_entrati.md\|Albrecht Entrati]] |
 | Forma | Ao contrário da maioria dos Cephalons, **tem corpo**: está instalado numa carcaça flutuante parecida com um Sentinel |
 
----
 
-## 📖 História
+## 📖 História — Loid
+
 
 Loid é um **Necraloid**: um Cephalon Orokin criado por **[[lore/personagens/albrecht_entrati.md|Albrecht Entrati]]** para servir a família. A diferença dele em relação aos outros Cephalons é física — a maioria são construtos digitais sem forma, e **Loid está instalado numa carcaça flutuante semelhante a um Sentinel**.
 
@@ -41,9 +46,9 @@ Algum tempo depois da infestação de Deimos, Loid tentou socorrer **Otak**, out
 
 Depois que Loid e a **[[mecanicas/sindicatos/cavia.md|Cavia]]** se instalaram nos laboratórios, o Necraloid passou a **dividir o tempo** entre as funções no Necralisk e a ajuda no Sanctum Anatomica, **rodando o Deep Archimedea** — um conjunto de experimentos voláteis com parâmetros estritos. O fracasso desses experimentos **arriscaria a família Entrati descobrir a existência dos laboratórios**, e por isso Loid encarregou o próprio eu Necraloid de garantir que tudo corresse bem.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Loid
+
 
 - **[[lore/personagens/albrecht_entrati.md|Albrecht Entrati]]** — o criador. Foi Loid quem cuidou dele depois da viagem ao Void, e foi Loid quem ele mandou destruir o caixão.
 - **Otak** — o outro Cephalon dos Entrati, cuja personalidade Loid tentou salvar e deixou irreparavelmente danificada; hoje habita a mesma carcaça.
@@ -56,9 +61,9 @@ Depois que Loid e a **[[mecanicas/sindicatos/cavia.md|Cavia]]** se instalaram no
 - **[[lore/personagens/nora_night.md|Nora Night]]** — discutiu com ela o desaparecimento de Otak.
 - **[[lore/personagens/ordis.md|Ordis]]** e **[[lore/personagens/cephalon_cy.md|Cephalon Cy]]** — os outros Cephalons de destaque, para comparação.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Loid
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -69,6 +74,3 @@ Depois que Loid e a **[[mecanicas/sindicatos/cavia.md|Cavia]]** se instalaram no
 | Netracell e Deep Archimedea | Atividades semanais que ele administra |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Loid (consultado em 2026-10-04)

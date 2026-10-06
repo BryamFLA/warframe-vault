@@ -1,9 +1,14 @@
 ---
 title: 04. A Era do Despertar
+aliases: [04. A Era do Despertar, era do despertar]
 tipo: lore
 subtipo: cronologia
+resumo: "04. A Era do Despertar — Milênios depois do Colapso, um Grineer rebaixado abre a cryopod errada: o Tenno acorda num Sistema dividido entre clones e corporações — e descobre, em três quests, que não é a Warframe."
+status: completo
+rag: true
 tags: [lore, cronologia, tenno, grineer, corpus]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Quests", "https://wiki.warframe.com/w/Captain_Vor", "https://wiki.warframe.com/w/Tyl_Regor"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Milênios depois do Colapso, um Grineer rebaixado abre a cryopod errada: o Tenno acorda num Sistema dividido entre clones e corporações — e descobre, em três quests, que não é a Warframe.
 
----
 
-## 🕰️ Linha do Tempo
+## 🕰️ Linha do Tempo — 04. A Era do Despertar
+
 
 | Evento | Quest | O que aconteceu |
 |---|---|---|
@@ -31,9 +36,9 @@ agente: opus
 | Granum retorna | [[missoes/jornadas/principais/the_deadlock_protocol.md\|The Deadlock Protocol]] | **Parvos Granum** sai do bolsão de Void e retoma o [[lore/faccoes/corpus.md\|Corpus]] |
 | Deimos reaparece | [[missoes/jornadas/principais/heart_of_deimos.md\|Heart of Deimos]] | O **Heart** falha; a família [[mecanicas/sindicatos/entrati.md\|Entrati]] re-faseia Deimos para a órbita de Marte |
 
----
 
-## 📖 História
+## 📖 História — 04. A Era do Despertar
+
 
 O estado do Sistema quando o Tenno acorda é o resultado direto do [[lore/cronologia/o_colapso.md|Colapso]]: **duas facções herdeiras que não entendem o que herdaram**. Os [[lore/faccoes/grineer.md|Grineer]], clones geneticamente degradados, controlam Terra, Marte, Ceres, Saturno, Sedna e Urano sob as **Twin Queens** — e estão morrendo da própria clonagem. O [[lore/faccoes/corpus.md|Corpus]] controla Vênus, Júpiter, Europa, Netuno e Plutão, mas **sem liderança central**: a Board se trai internamente, e o Tenno é constantemente forçado a escolher um lado para que nenhum membro acumule poder demais. E, nos Dark Sectors, a [[lore/faccoes/infested.md|Infestação]] solta desde o Colapso produz surtos periódicos.
 
@@ -41,9 +46,9 @@ O arco dramático desta era é de **revelação em três camadas**. Em [[missoes
 
 E há um padrão incômodo nos antagonistas desta era: **[[lore/personagens/vor.md|Vor]], [[lore/chefes/alad_v.md|Alad V]] e [[lore/chefes/tyl_regor.md|Tyl Regor]] fazem a mesma coisa** — dissecam Tenno e Warframes para entender a fonte do poder do Void. Os três representam facções diferentes, e os três tratam você como material de pesquisa. É Tyl Regor, aliás, cavando em Urano por uma cura genética, quem **desenterra Hunhow** e destrava toda a cadeia que leva à Nova Guerra.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — 04. A Era do Despertar
+
 
 - **[[lore/cronologia/o_colapso.md|O Colapso]]** — a era anterior, que criou o mundo em que o Tenno acorda.
 - **[[lore/cronologia/a_nova_guerra.md|A Nova Guerra]]** — a era seguinte, destravada pelo despertar de Hunhow.
@@ -52,9 +57,9 @@ E há um padrão incômodo nos antagonistas desta era: **[[lore/personagens/vor.
 - **[[lore/personagens/teshin.md|Teshin]]** — o mentor alternativo, que te prepara à força via [[mecanicas/sindicatos/conclave.md|Conclave]].
 - **[[lore/faccoes/tenno.md|Tenno]]** — a ficha do que você é, revelado nesta era.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — 04. A Era do Despertar
+
 
 | Quest / Conteúdo | O que mostra desta era |
 |---|---|
@@ -68,8 +73,3 @@ E há um padrão incômodo nos antagonistas desta era: **[[lore/personagens/vor.
 | Star Chart / Junctions | A estrutura de progressão desta era |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Quests (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Captain_Vor (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Tyl_Regor (consultado em 2026-10-04)

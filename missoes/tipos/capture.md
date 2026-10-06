@@ -1,9 +1,14 @@
 ---
 title: Capture
+aliases: [Capture]
 tipo: missao
 subtipo: tipo
+resumo: "Capture — Localizar um alvo que corre mais rápido que a maioria das Warframes, derrubá-lo e capturá-lo antes que ele chegue ao ponto de fuga — ou morra sangrando."
+status: completo
+rag: true
 tags: [missao, tipo]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Capture"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Localizar um alvo que corre mais rápido que a maioria das Warframes, derrubá-lo e capturá-lo antes que ele chegue ao ponto de fuga — ou morra sangrando.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Capture
+
 
 | Item | Detalhe |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Squad recomendado | Qualquer; mobilidade importa mais que dano |
 | Tipo | **Finito** |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Capture
+
 
 1. **Localize o Capture Target** (Grineer Target, Corpus Target ou Nullifier Target). Ele normalmente nasce numa sala exclusiva do tipo Capture, mas pode nascer numa sala genérica.
 2. **Assim que ele te vê, começa a fugir** em direção a uma nave ou abrigo. **Se chegar lá, a missão falha.**
@@ -43,9 +48,9 @@ agente: opus
 > [!important] Pode virar Exterminate
 > Missões de Capture **às vezes se convertem em [[missoes/tipos/exterminate.md|Exterminate]]** depois da captura, com a Lotus dizendo *"Change of plans, ignore your original objective, leave nothing alive"*. A contagem de abates desses Exterminates é **bem menor** que o normal.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Capture
+
 
 | Onde | Detalhe |
 |---|---|
@@ -56,27 +61,27 @@ agente: opus
 
 **Melhor nó para farmar:** Capture é **o tipo mais rápido de Void Fissure** — é a escolha padrão de quem quer abrir muitas Relics por hora.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Capture
+
 
 | Recompensa | Rotação / Chance | Nota |
 |---|---|---|
 | Recompensa única de fim de missão | — | Finito: paga uma vez |
 | Relic aberta | — | 1 Relic por run, e a run é curtíssima |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Capture
+
 
 - **Mobilidade vence dano.** O alvo corre mais que você: [[warframes/regular/volt.md|Volt]] (Speed), [[warframes/regular/gauss.md|Gauss]], [[warframes/regular/titania.md|Titania]] (Razorwing) e [[warframes/regular/wukong.md|Wukong]] (Cloud Walker) chegam antes.
 - Habilidades que **travam ou puxam** ignoram parte do problema: a **Rip Line** e ganchos funcionam onde dano puro não alcança.
 - **Capture + Void Fissure é a melhor relação Relic/hora do jogo.** Se o objetivo é abrir Relics em volume, é aqui.
 - Em squad, **avise quando derrubar**: o relógio de 30s + 1min de bleedout é curto, e quem está longe não sabe que precisa correr.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Capture
+
 
 - **[[missoes/tipos/exterminate.md|Exterminate]]** — o tipo em que Capture pode se converter.
 - **[[missoes/tipos/void_fissure.md|Void Fissure]]** — o uso principal de Capture hoje.
@@ -84,6 +89,3 @@ agente: opus
 - **[[mecanicas/parkour.md|Parkour]]** — a mobilidade que decide a missão.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Capture (consultado em 2026-10-04)

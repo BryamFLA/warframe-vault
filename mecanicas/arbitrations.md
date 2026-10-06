@@ -1,8 +1,13 @@
 ---
 title: Arbitrations
+aliases: [Arbitrations]
 tipo: mecanica
+resumo: "Arbitrations — Variante \"elite\" de Alert hospedada pelos Arbiters of Hexis: só missões endless a partir do nível 60–80, sem bleedout e sem auto-revive, com Shield Drones que tornam inimigos invulneráveis, pagando em Vitus Essence."
+status: completo
+rag: true
 tags: [mecanica, arbitration, endgame, vitus-essence, arbiters-of-hexis]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Arbitrations"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Variante "elite" de Alert hospedada pelos Arbiters of Hexis: só missões endless a partir do nível 60–80, **sem bleedout e sem auto-revive**, com Shield Drones que tornam inimigos invulneráveis, pagando em Vitus Essence.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Arbitrations
+
 
 Arbitrations (Update 23.10, 2018-10-12) destravam quando você **tem acesso a Plutão** e completa a tarefa da **Eris Junction "Equip a Focus Lens"**. Depois disso aparecem na janela de Operation. Existe **uma única Arbitration ativa por vez** no Star Chart, trocando de nó **a cada hora**.
 
@@ -22,9 +27,9 @@ A seleção só pega nós de missão **endless**: Alchemy, Defection, Defense, D
 
 A regra que define o modo é a morte: **não existe bleedout**. Zerar a vida mata na hora, e **você não pode se reviver**. Para voltar, um aliado precisa levar **5 Resurgence Tokens** até a Revive Tower que nasce no local da sua morte — e carregar token aplica o debuff **Resurgence Burden**, que reduz vida e escudo máximos e drena energia continuamente.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Arbitrations
+
 
 ```
 Nível inicial do inimigo = 60-80
@@ -65,9 +70,9 @@ Credits de conclusão = 50.000
 - **Sair da missão não dá recompensa nenhuma. Falhar a missão mantém** o que já foi ganho no fim de cada rotação — mas não os recursos e Credits dropados por inimigos.
 - O bônus de alerta vale até para **Warframe e arma que você não possui**, e se estende a **todas as variantes** (Prime, Syndicate etc.).
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Arbitrations
+
 
 ### O que funciona e o que não funciona (sem bleedout)
 
@@ -160,9 +165,9 @@ Fica na sala dos [[mecanicas/sindicatos/arbiters_of_hexis.md\|Arbiters of Hexis]
 | **50** | Ayatan Zambuka Sculpture |
 | **75** | Illumina Judicium |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Arbitrations
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -181,9 +186,9 @@ Fica na sala dos [[mecanicas/sindicatos/arbiters_of_hexis.md\|Arbiters of Hexis]
 
 **Frames que interagem:** [[warframes/regular/inaros.md|Inaros]] (Negation Armor funciona, a passiva Undying **não**), [[warframes/regular/oberon.md|Oberon]] (Phoenix Renewal), [[warframes/regular/khora.md|Khora]] (Venari Bodyguard), [[warframes/regular/protea.md|Protea]] (Temporal Anchor), [[warframes/regular/nidus.md|Nidus]] (Adaptive Mutation), [[warframes/regular/wukong.md|Wukong]] (Five Levels of Immortality), [[warframes/regular/loki.md|Loki]] (Savior Decoy), [[warframes/regular/trinity.md|Trinity]] (Well of Life), [[warframes/regular/sevagoth.md|Sevagoth]] e [[warframes/regular/nokko.md|Nokko]] (passivas de auto-revive **desativadas**).
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Arbitrations
+
 
 - **"É igual ao Steel Path."** São dois eixos diferentes. Arbitration exige o **Star Chart normal** (acesso a Plutão + Eris Junction), não o Steel Path, e o que a torna difícil é a **morte instantânea** e os Drones, não um multiplicador de vida.
 - **"Meu Inaros é imortal aqui."** A passiva Undying **não funciona**. Negation Armor funciona. Mesma lógica em Sevagoth e Nokko.
@@ -197,9 +202,9 @@ Fica na sala dos [[mecanicas/sindicatos/arbiters_of_hexis.md\|Arbiters of Hexis]
 - **"Preciso de reputação com os Arbiters para comprar."** Não. A loja de Arbitration Honors ignora sua reputação com o sindicato.
 - **"Excavation rende igual."** Cada escavação leva **180 s** em vez de 100, e são **2 escavações** por recompensa.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Arbitrations
+
 
 - [[mecanicas/steel_path.md|The Steel Path]] — o outro pilar de dificuldade; exige o Star Chart completo, não Plutão + Eris Junction.
 - [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]] — quem hospeda o modo e onde fica a loja de Vitus Essence.
@@ -215,6 +220,3 @@ Fica na sala dos [[mecanicas/sindicatos/arbiters_of_hexis.md\|Arbiters of Hexis]
 - [[locais/planetas/eris.md|Eris]] e [[locais/planetas/plutao.md|Plutão]] — os dois requisitos de desbloqueio.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Arbitrations — desbloqueio, lista de missões elegíveis, faixa de nível, regras de morte e Resurgence Token, lista de passivas e habilidades que funcionam ou não, modificadores por tipo de missão, estatísticas dos Shield Drones, bônus de alerta, rotação e tabela de recompensas, loja de Arbitration Honors (consultado em 2026-10-04)

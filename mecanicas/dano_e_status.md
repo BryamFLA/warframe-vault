@@ -1,8 +1,13 @@
 ---
 title: Dano e Status
+aliases: [Dano e Status]
 tipo: mecanica
+resumo: Sistema que decide quanto dano cada tipo causa contra cada facção e que efeito de status cada tipo aplica.
+status: completo
+rag: true
 tags: [mecanica, dano, status, elementos, armadura, vocabulario]
-atualizado: 2026-09-09
+fontes: ["https://wiki.warframe.com/w/Damage", "https://wiki.warframe.com/w/Damage_Type_Modifier", "https://wiki.warframe.com/w/Damage/Calculation", "https://wiki.warframe.com/w/Damage/Grineer", "https://wiki.warframe.com/w/Damage/Corpus", "https://wiki.warframe.com/w/Damage/Infested", "https://wiki.warframe.com/w/Damage/Techrot", "https://wiki.warframe.com/w/Status_Effect"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 > Desde a **Update 36.0 (18/06/2024)** o jogo usa **Damage 3.0**: os modificadores deixaram de ser "por tipo de saúde/armadura" (Ferrite, Alloy, Cloned Flesh, Proto Shield...) e passaram a ser **por facção**, com apenas dois valores possíveis — **Vulnerável `+` = ×1,5** e **Resistente `-` = ×0,5**.
 > Guias, vídeos e planilhas de antes de junho de 2024 (e boa parte da internet) ainda citam a tabela Damage 2.0 com valores como "Corrosivo +75% contra Ferrite". **Isso não vale mais.** A tabela antiga está preservada mais abaixo apenas como referência histórica.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Dano e Status
+
 
 Todo dano no jogo é um **pacote de tipos**, não um número único. Uma Braton com Serration e Stormbringer não dispara "500 de dano": dispara uma parcela de Impact, uma de Puncture, uma de Slash e uma de Electricity, e **cada parcela é calculada separadamente** contra o alvo. Por isso um mod que só adiciona elemento pode valer mais que um que adiciona dano bruto, e por isso o mesmo build tem desempenho diferente contra Grineer e contra Corpus.
 
@@ -26,9 +31,9 @@ Cada parcela passa por três filtros independentes: o **modificador de facção*
 
 Separado do dano, cada tipo tem um **efeito de status** (proc) com chance própria de disparar. O status é frequentemente mais importante que o dano: Viral e Corrosivo multiplicam o dano de *tudo* que vem depois, e Slash e Toxin causam dano que ignora armadura e escudo respectivamente. Buildar status é buildar dano.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Dano e Status
+
 
 ### Cadeia de cálculo (Damage 3.0)
 
@@ -102,9 +107,9 @@ Vida efetiva (fórmula Tenno):
 > [!warning] Empilhamento de resistências é multiplicativo
 > Modificadores não se somam. Quatro resistências de 25% resultam em `0,75 × 0,75 × 0,75 × 0,75 = 31,5%` do dano passando (68,5% de redução), não 100% de redução. Desde a U36.0 o cálculo opera sobre o "dano restante", um modificador por vez.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Dano e Status
+
 
 ### Modificadores por FACÇÃO — Damage 3.0 (tabela ATUAL)
 
@@ -236,9 +241,9 @@ Qual tipo procou = Dano daquele tipo / Dano total do tiro
 | Viral | — | — | +75% | +50% | −50% | — | — | — | −25% | — | — | — |
 | True / Void | — | — | — | — | — | — | — | — | — | — | — | — |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Dano e Status
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -259,9 +264,9 @@ Qual tipo procou = Dano daquele tipo / Dano total do tiro
 **Frames que interagem:**
 [[warframes/regular/saryn.md|Saryn]] (espalha Viral e Corrosivo por contágio) · [[warframes/regular/nidus.md|Nidus]] · [[warframes/regular/mag.md|Mag]] (foca escudo Corpus) · [[warframes/regular/oberon.md|Oberon]] (remove armadura) · [[warframes/regular/nezha.md|Nezha]] · [[warframes/regular/citrine.md|Citrine]] (status e crítico) · [[warframes/regular/qorvex.md|Qorvex]]
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Dano e Status
+
 
 1. **Usar a tabela Damage 2.0.** O erro mais comum hoje. "Corrosivo dá +75% contra Ferrite" e "Radiation dá +75% contra Alloy" **eram** verdade até junho de 2024. Hoje o modificador é por facção e vale sempre ×1,5. Se uma fonte cita porcentagens variadas por tipo de armadura, ela é de antes da U36.0.
 
@@ -283,9 +288,9 @@ Qual tipo procou = Dano daquele tipo / Dano total do tiro
 
 10. **Assumir que o multiplicador de armadura de inimigo por nível é conhecido.** A armadura é limitada entre 200 e 2.700, mas o multiplicador exato por nível **não foi verificado** aqui — não invente esse número.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Dano e Status
+
 
 - [[mecanicas/critico.md|Crítico]] — o crítico multiplica o dano **antes** do modificador de facção e da armadura; crítico e status são os dois eixos de escala de dano do jogo.
 - [[mecanicas/combo_counter.md|Combo Counter]] — em melee, o multiplicador de combo (até 12×) escala dano, e via Blood Rush/Weeping Wounds escala crítico e status também.
@@ -296,15 +301,3 @@ Qual tipo procou = Dano daquele tipo / Dano total do tiro
 - [[mecanicas/augments.md|Augments]] — vários augments alteram tipo de dano ou aplicação de status de habilidades.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Damage — tipos físicos, elementos primários e combinados, regras de combinação e hierarquia (consultado em 2026-09-09)
-- https://wiki.warframe.com/w/Damage_Type_Modifier — tabela por facção, valores ×1,5 / ×0,5, aplicação multiplicativa sobre dano restante (consultado em 2026-09-09)
-- https://wiki.warframe.com/w/Damage/Calculation — cadeia de cálculo, quantização, fórmula de tiro médio e soma final (consultado em 2026-09-09)
-- https://wiki.warframe.com/w/Damage/Grineer — vulnerabilidades Grineer (consultado em 2026-09-09)
-- https://wiki.warframe.com/w/Damage/Corpus — vulnerabilidades Corpus (consultado em 2026-09-09)
-- https://wiki.warframe.com/w/Damage/Infested — vulnerabilidades Infested (consultado em 2026-09-09)
-- https://wiki.warframe.com/w/Damage/Techrot — vulnerabilidades Techrot (consultado em 2026-09-09)
-- https://wiki.warframe.com/w/Status_Effect — efeitos, durações, stacks máximos, fórmula de procs com multishot (consultado em 2026-09-09)
-- https://wiki.warframe.com/w/Armor — fórmulas de redução por armadura (Tenno e inimigo) e vida efetiva (consultado em 2026-09-09)
-- https://wiki.warframe.com/w/Damage_2.0 — tabela histórica pré-U36.0, marcada como obsoleta pela própria wiki (consultado em 2026-09-09)

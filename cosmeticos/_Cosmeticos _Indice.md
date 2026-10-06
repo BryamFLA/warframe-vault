@@ -1,18 +1,23 @@
 ---
 title: Cosméticos - Índice
+aliases: [Cosméticos - Índice, Cosmeticos - Indice, Cosmeticos  Indice]
 tipo: index
-tags:
-  - index
-  - cosmetico
-atualizado: 2026-04-19
+resumo: Cosméticos - Índice — Warframe tem um dos sistemas de customização visual mais abrangentes entre jogos live-service.
+status: completo
+rag: true
+tags: [index, cosmetico]
+atualizado: 2026-10-07
+agente: opus
 ---
+
+# Cosméticos - Índice
 
 > [!quote]
 > *"A aparência do Tenno é sua assinatura no Sistema Solar."*
 
----
 
-## O Sistema de Estilização
+## O Sistema de Estilização — Cosméticos - Índice
+
 
 Warframe tem um dos sistemas de customização visual mais abrangentes entre jogos live-service. Cada Warframe, arma e companheiro tem múltiplas camadas de personalização independentes — todas 100% estéticas, sem impacto em gameplay.
 
@@ -30,9 +35,9 @@ O jogo divide os cosméticos em **camadas de customização**:
 | **Arma melee** | Sugatra (ornamento do punho) |
 | **Ambiente** | Decorações do Orbiter e Dojo |
 
----
 
-## Fontes de Cosméticos
+## Fontes de Cosméticos — Cosméticos - Índice
+
 
 | Fonte | Tipo de Item |
 |---|---|
@@ -48,26 +53,26 @@ O jogo divide os cosméticos em **camadas de customização**:
 | **Sindicatos** | Sigils de afiliação, algumas paletas |
 | **Conservação (Open Worlds)** | Troféus de bestas para o Orbiter |
 
----
 
-## Arquivos de Referência
+## Arquivos de Referência — Cosméticos - Índice
+
 
 | Cosmético | Arquivo | Descrição |
 |---|---|---|
-| [[skins\|Skins]] | skins.md | Warframe skins, weapon skins — Tennogen, Deluxe, Prime |
-| [[capacetes\|Capacetes]] | capacetes.md | Helmets alternativos por frame |
-| [[syandanas\|Syandanas]] | syandanas.md | Capas e ornamentos dorsais |
-| [[anexos\|Anexos]] | nexos.md | Armor pieces — ombro, peito, braço, perna |
-| [[efemeras\|Efemeras]] | efemeras.md | Efeitos visuais passivos no frame |
-| [[paletas\|Paletas de Cores]] | paletas.md | Conjuntos de cores para customização |
-| [[animacoes\|Animações e Emotes]] | nimacoes.md | Idle animations e gestos sociais |
-| [[brasoes_emblemas\|Brasões e Emblemas]] | rasoes_emblemas.md | Sigils e badges de identidade |
-| [[sugatras\|Sugatras]] | sugatras.md | Ornamentos pendurados em armas brancas |
-| [[decoracoes\|Decorações do Orbiter]] | decoracoes.md | Itens para o Orbiter e Dojo |
+| [[cosmeticos/skins.md\|Skins]] | skins.md | Warframe skins, weapon skins — Tennogen, Deluxe, Prime |
+| [[cosmeticos/capacetes.md\|Capacetes]] | capacetes.md | Helmets alternativos por frame |
+| [[cosmeticos/syandanas.md\|Syandanas]] | syandanas.md | Capas e ornamentos dorsais |
+| [[cosmeticos/anexos.md\|Anexos]] | nexos.md | Armor pieces — ombro, peito, braço, perna |
+| [[cosmeticos/efemeras.md\|Efemeras]] | efemeras.md | Efeitos visuais passivos no frame |
+| [[cosmeticos/paletas.md\|Paletas de Cores]] | paletas.md | Conjuntos de cores para customização |
+| [[cosmeticos/animacoes.md\|Animações e Emotes]] | nimacoes.md | Idle animations e gestos sociais |
+| [[cosmeticos/brasoes_emblemas.md\|Brasões e Emblemas]] | rasoes_emblemas.md | Sigils e badges de identidade |
+| [[cosmeticos/sugatras.md\|Sugatras]] | sugatras.md | Ornamentos pendurados em armas brancas |
+| [[cosmeticos/decoracoes.md\|Decorações do Orbiter]] | decoracoes.md | Itens para o Orbiter e Dojo |
 
----
 
-## Tennogen
+## Tennogen — Cosméticos - Índice
+
 
 Tennogen é o programa de criação comunitária da Digital Extremes. Jogadores enviam designs via Steam Workshop — os aprovados são vendidos na Steam com divisão de royalties entre o criador e a DE.
 
@@ -76,9 +81,9 @@ Tennogen é o programa de criação comunitária da Digital Extremes. Jogadores 
 - Não pode ser comprado com Platinum no PC — exige compra separada em dinheiro real
 - Qualidade altamente variável — os mais populares têm votação massiva da comunidade
 
----
 
-## Prime Access e Prime Vault
+## Prime Access e Prime Vault — Cosméticos - Índice
+
 
 Cada Prime Access inclui um pacote cosmético completo:
 - Skin/visual Prime do frame (via acesso antecipado)
@@ -89,9 +94,9 @@ Cada Prime Access inclui um pacote cosmético completo:
 
 Prime Vault retorna frames Prime antigos com seus pacotes cosméticos originais.
 
----
 
-## Curiosidades
+## 💡 Curiosidades — Cosméticos - Índice
+
 
 - Warframe foi pioneiro em Tennogen — um dos primeiros jogos a formalizar royalties para criadores de conteúdo cosmético.
 - O sistema de cores tem mais de 30 paletas disponíveis — incluindo tons que não existem na paleta padrão.

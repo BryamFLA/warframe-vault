@@ -1,9 +1,14 @@
 ---
 title: Spy
+aliases: [Spy]
 tipo: missao
 subtipo: tipo
+resumo: Spy — Invadir três Data Vaults e hackear os consoles sem acionar o alarme — porque o alarme inicia um cronômetro de 20 a 50 segundos até os dados serem apagados.
+status: completo
+rag: true
 tags: [missao, tipo]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Spy"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Invadir três Data Vaults e hackear os consoles sem acionar o alarme — porque o alarme inicia um cronômetro de 20 a 50 segundos até os dados serem apagados.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Spy
+
 
 | Item | Detalhe |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Squad recomendado | Solo ou duo é **melhor** que squad cheio — menos risco de alguém acionar alarme |
 | Tipo | **Finito** |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Spy
+
 
 1. Localize os **Data Vaults**: salas especiais com **segurança pesada e mecanismos de defesa avançados** protegendo os terminais de acesso.
 2. Cada missão tem **três Data Vaults**, e **todos os três precisam ser invadidos e tentados** antes de a extração ficar disponível.
@@ -40,9 +45,9 @@ agente: opus
 > [!info] Caminhos alternativos
 > Como nos Prison Complexes de [[missoes/tipos/rescue.md|Rescue]], os Data Vaults frequentemente têm **caminhos e túneis alternativos** que permitem **burlar as defesas furtivamente**. Algumas variantes — especialmente nos tilesets **Grineer Sealab** e **Grineer Forest** — têm ainda **métodos alternativos de alcançar os vaults ativando elementos do mapa**, como **vents de alta pressão** ou **alagamento**.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Spy
+
 
 | Variação | Mínimo de vaults exigido |
 |---|---|
@@ -56,9 +61,9 @@ agente: opus
 
 **Melhor nó para farmar:** os nós de Spy em **[[locais/planetas/lua.md|Lua]]** têm desafios próprios e mods exclusivos; para mods de Spy em geral, qualquer nó serve, e a escolha depende da facção.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Spy
+
 
 | Recompensa | Rotação / Chance | Nota |
 |---|---|---|
@@ -66,18 +71,18 @@ agente: opus
 | Mods de vault | — | Alguns mods só aparecem em Spy |
 | Relic aberta | — | Em [[missoes/tipos/void_fissure.md\|Void Fissure]] |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Spy
+
 
 - **Furtividade resolve tudo.** [[warframes/regular/loki.md|Loki]], [[warframes/regular/ivara.md|Ivara]] (Prowl + Navigator) e [[warframes/regular/wukong.md|Wukong]] (Cloud Walker) atravessam os vaults sem acionar nada.
 - **Leve Ciphers** em tudo que não seja Sortie. Para Sortie, use **Auto Breach** (Parazon) ou **Perspicacity** subsumida — resolve o hack sem jogar o minigame.
 - **Solo é mais seguro que squad**: em grupo, basta um jogador tropeçar num laser para iniciar o cronômetro dos três.
 - Se o alarme disparar, **ignore os reforços e corra para o console** — o cronômetro é de 20 a 50 segundos, e matar inimigos não o pausa.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Spy
+
 
 - **[[missoes/tipos/rescue.md|Rescue]]** — o outro tipo em que furtividade decide.
 - **[[mecanicas/stealth_e_finishers.md|Stealth e Finishers]]** — como não ser detectado.
@@ -86,6 +91,3 @@ agente: opus
 - **[[locais/planetas/lua.md|Lua]]** — os Spy mais difíceis e os mods exclusivos.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Spy (consultado em 2026-10-04)

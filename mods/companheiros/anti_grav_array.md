@@ -1,11 +1,16 @@
 ---
 title: Anti-Grav Array
+aliases: [Anti-Grav Array, anti grav array]
 tipo: mod
 categoria: companheiro
-polaridade: Penjaga
 raridade: raro
+polaridade: Penjaga
+resumo: "Anti-Grav Array — Increase height of owner's jumps by +40%."
+status: completo
+rag: true
 tags: [mod, companheiro]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Anti-Grav_Array", "https://wiki.warframe.com/w/Module:Mods/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -17,9 +22,9 @@ agente: opus
 >
 > *Mantido em inglês:* a descrição tem texto corrido que uma tradução automática deturparia. O texto acima é o do jogo, literal.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Anti-Grav Array
+
 
 | Item | Valor |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 | Transmutável | **Não** |
 | Introduzido no Update | **25** |
 
----
 
-## 📈 Efeito por Rank
+## 📈 Efeito por Rank — Anti-Grav Array
+
 
 <!-- Valores copiados da seção Stats da página do mod na wiki. Nenhum valor interpolado. -->
 
@@ -49,9 +54,9 @@ agente: opus
 > [!note] A drenagem sobe 1 por rank
 > Regra do jogo, visível na própria tabela: a drenagem no rank R é **4 + R**.
 
----
 
-## 🏗️ Onde Obter
+## 🌍 Onde Conseguir — Anti-Grav Array
+
 
 | Fonte | Detalhe |
 |---|---|
@@ -64,9 +69,9 @@ agente: opus
 
 **Faixa de preço em platina:** ⚠️ **estimativa não fornecida.** Pela seção 8 das convenções, preço de platina é mercado flutuante e não é registrado aqui. Consulte warframe.market no momento da compra.
 
----
 
-## 🛠️ Uso
+## 🛠️ Como Usar — Anti-Grav Array
+
 
 **Vale a pena?** **Depende da build.** Mod **Rare** — a raridade mais disputada por slot. Vale conferir a tabela de drop acima antes de farmar, porque a chance costuma ser baixa.
 
@@ -80,7 +85,3 @@ O efeito concreto no rank máximo é **Increase height of owner's jumps by +40%.
 Nenhum mod é registrado como **mutuamente exclusivo** com este nos dados da wiki. A concorrência é pelo **slot** e pela **capacidade**, não por bloqueio do jogo.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Anti-Grav_Array — efeito por rank, polaridade, drenagem, raridade e incompatibilidades (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Mods/data — ficha do mod: tipo, classe, comercializável, transmutável, update de introdução (consultado em 2026-10-06)

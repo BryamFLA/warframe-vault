@@ -1,11 +1,16 @@
 ---
 title: Synth Fiber
+aliases: [Synth Fiber]
 tipo: mod
 categoria: companheiro
-polaridade: Madurai
 raridade: raro
+polaridade: Madurai
+resumo: "Synth Fiber — Vida Orbs aumentam Armadura por Companions em 100% por 12s."
+status: completo
+rag: true
 tags: [mod, companheiro]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Synth_Fiber", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Mods/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -17,9 +22,9 @@ agente: opus
 >
 > *Texto exato no jogo (inglês):* `Health Orbs increase Armor for Companions by 100% for 12s.`
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Synth Fiber
+
 
 | Item | Valor |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 | Transmutável | **Não** |
 | Introduzido no Update | **24** |
 
----
 
-## 📈 Efeito por Rank
+## 📈 Efeito por Rank — Synth Fiber
+
 
 <!-- Valores copiados da seção Stats da página do mod na wiki. Nenhum valor interpolado. -->
 
@@ -49,9 +54,9 @@ agente: opus
 > [!note] A drenagem sobe 1 por rank
 > Regra do jogo, visível na própria tabela: a drenagem no rank R é **4 + R**.
 
----
 
-## 🏗️ Onde Obter
+## 🌍 Onde Conseguir — Synth Fiber
+
 
 | Fonte | Tipo | Chance do mod na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -64,9 +69,9 @@ agente: opus
 
 **Faixa de preço em platina:** ⚠️ **estimativa não fornecida.** Pela seção 8 das convenções, preço de platina é mercado flutuante e não é registrado aqui. Consulte warframe.market no momento da compra.
 
----
 
-## 🛠️ Uso
+## 🛠️ Como Usar — Synth Fiber
+
 
 **Vale a pena?** **Depende da build.** Mod **Rare** — a raridade mais disputada por slot. Vale conferir a tabela de drop acima antes de farmar, porque a chance costuma ser baixa.
 
@@ -80,8 +85,3 @@ O efeito concreto no rank máximo é **Vida Orbs aumentam Armadura por Companion
 Nenhum mod é registrado como **mutuamente exclusivo** com este nos dados da wiki. A concorrência é pelo **slot** e pela **capacidade**, não por bloqueio do jogo.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Synth_Fiber — efeito por rank, polaridade, drenagem, raridade e incompatibilidades (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Mods/data — ficha do mod: tipo, classe, comercializável, transmutável, update de introdução (consultado em 2026-10-06)

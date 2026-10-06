@@ -1,10 +1,13 @@
 ---
 title: Companheiros - Índice
+aliases: [Companheiros - Índice, Companheiros - Indice, Companheiros  Indice]
 tipo: index
-tags:
-  - index
-  - companheiro
-atualizado: 2026-04-19
+resumo: Companheiros - Índice — nao-obtido · incubado · maximizado · vendido.
+status: completo
+rag: true
+tags: [index, companheiro]
+atualizado: 2026-10-07
+agente: opus
 total-companheiros: 45
 total-sentinels: 16
 total-kubrows: 6
@@ -13,12 +16,14 @@ total-moas: 6
 total-hounds: 7
 ---
 
+# Companheiros - Índice
+
 > [!quote]
 > *"Um Tenno nunca luta verdadeiramente sozinho."*
 
----
 
-## O que são Companheiros?
+## O que são Companheiros? — Companheiros - Índice
+
 
 Companheiros são criaturas e unidades que acompanham o Tenno em missões. Cada tipo tem comportamentos, habilidades e slots de mod distintos. Apenas um companheiro pode ser equipado por vez.
 
@@ -27,9 +32,9 @@ Todos os companheiros têm:
 - **Sistema de mods próprio** à Companion mods e mods de arma de companheiro
 - **Afeto:** substituiu a morte permanente (antes da rework de 2023) à companheiros não morrem mais de forma permanente
 
----
 
-## Tipos de Companheiro
+## Tipos de Companheiro — Companheiros - Índice
+
 
 | Tipo           | Origem                               | Características                                                                          |
 | -------------- | ------------------------------------ | ----------------------------------------------------------------------------------------- |
@@ -41,17 +46,17 @@ Todos os companheiros têm:
 | **Vulpaphyla** | Deimos (Entrati)                     | Raposas infestadas; ressuscitam automaticamente se morrerem                               |
 | **Predasite**  | Deimos (Entrati)                     | Felinos infestados; habilidades de debuff e controle                                      |
 
----
 
-## Mastery
+## Mastery — Companheiros - Índice
+
 
 Companheiros contribuem com **Affinity de Mastery** ao atingir Rank 30:
 - Sentinels, Kubrows, Kavats, MOAs, Hounds: **3.000 pontos** cada
 - Versões Prime de Sentinels: **6.000 pontos** (contam separado da versão base)
 
----
 
-## Lista Completa
+## 📋 Lista Completa — Companheiros - Índice
+
 
 > [!info] Status
 > `nao-obtido` · `incubado` · `maximizado` · `vendido`
@@ -60,54 +65,51 @@ Companheiros contribuem com **Affinity de Mastery** ao atingir Rank 30:
 
 | Companheiro | Status |
 |---|---|
-| [[carrier\|Carrier]] | nao-obtido |
-| [[carrier_prime\|Carrier Prime]] | nao-obtido |
-| [[dethcube\|Dethcube]] | nao-obtido |
-| [[dethcube_prime\|Dethcube Prime]] | nao-obtido |
-| [[diriga\|Diriga]] | nao-obtido |
-| [[djinn\|Djinn]] | nao-obtido |
-| [[helios\|Helios]] | nao-obtido |
-| [[helios_prime\|Helios Prime]] | nao-obtido |
-| [[nautilus\|Nautilus]] | nao-obtido |
-| [[nautilus_prime\|Nautilus Prime]] | nao-obtido |
-| [[oxylus\|Oxylus]] | nao-obtido |
-| [[shade\|Shade]] | nao-obtido |
-| [[shade_prime\|Shade Prime]] | nao-obtido |
-| [[taxon\|Taxon]] | nao-obtido |
-| [[wyrm\|Wyrm]] | nao-obtido |
-| [[wyrm_prime\|Wyrm Prime]] | nao-obtido |
+| [[companheiros/sentinel/carrier.md\|Carrier]] | nao-obtido |
+| [[companheiros/sentinel/carrier_prime.md\|Carrier Prime]] | nao-obtido |
+| [[companheiros/sentinel/dethcube.md\|Dethcube]] | nao-obtido |
+| [[companheiros/sentinel/dethcube_prime.md\|Dethcube Prime]] | nao-obtido |
+| [[companheiros/sentinel/diriga.md\|Diriga]] | nao-obtido |
+| [[companheiros/sentinel/djinn.md\|Djinn]] | nao-obtido |
+| [[companheiros/sentinel/helios.md\|Helios]] | nao-obtido |
+| [[companheiros/sentinel/helios_prime.md\|Helios Prime]] | nao-obtido |
+| [[companheiros/sentinel/nautilus.md\|Nautilus]] | nao-obtido |
+| [[companheiros/sentinel/nautilus_prime.md\|Nautilus Prime]] | nao-obtido |
+| [[companheiros/sentinel/oxylus.md\|Oxylus]] | nao-obtido |
+| [[companheiros/sentinel/shade.md\|Shade]] | nao-obtido |
+| [[companheiros/sentinel/shade_prime.md\|Shade Prime]] | nao-obtido |
+| [[companheiros/sentinel/taxon.md\|Taxon]] | nao-obtido |
+| [[companheiros/sentinel/wyrm.md\|Wyrm]] | nao-obtido |
+| [[companheiros/sentinel/wyrm_prime.md\|Wyrm Prime]] | nao-obtido |
 
----
 
 ### Kubrows (6)
 
 | Companheiro | Status |
 |---|---|
-| [[chesa\|Chesa Kubrow]] | nao-obtido |
-| [[helminth_charger\|Helminth Charger]] | nao-obtido |
-| [[huras\|Huras Kubrow]] | nao-obtido |
-| [[raksa\|Raksa Kubrow]] | nao-obtido |
-| [[sahasa\|Sahasa Kubrow]] | nao-obtido |
-| [[sunika\|Sunika Kubrow]] | nao-obtido |
+| [[companheiros/kubrow/chesa.md\|Chesa Kubrow]] | nao-obtido |
+| [[companheiros/kubrow/helminth_charger.md\|Helminth Charger]] | nao-obtido |
+| [[companheiros/kubrow/huras.md\|Huras Kubrow]] | nao-obtido |
+| [[companheiros/kubrow/raksa.md\|Raksa Kubrow]] | nao-obtido |
+| [[companheiros/kubrow/sahasa.md\|Sahasa Kubrow]] | nao-obtido |
+| [[companheiros/kubrow/sunika.md\|Sunika Kubrow]] | nao-obtido |
 
----
 
 ### Kavats, Vulpaphylas e Predasites (10)
 
 | Companheiro | Status |
 |---|---|
-| [[adarza\|Adarza Kavat]] | nao-obtido |
-| [[crescent_vulpaphyla\|Crescent Vulpaphyla]] | nao-obtido |
-| [[hyena_predasite\|Hyena Predasite]] | nao-obtido |
-| [[medjay_predasite\|Medjay Predasite]] | nao-obtido |
-| [[panzer_vulpaphyla\|Panzer Vulpaphyla]] | nao-obtido |
-| [[pharaoh_vulpaphyla\|Pharaoh Vulpaphyla]] | nao-obtido |
-| [[smeeta\|Smeeta Kavat]] | nao-obtido |
-| [[vasca\|Vasca Kavat]] | nao-obtido |
-| [[venari\|Venari]] | nao-obtido |
-| [[vizier_predasite\|Vizier Predasite]] | nao-obtido |
+| [[companheiros/kavat/adarza.md\|Adarza Kavat]] | nao-obtido |
+| [[companheiros/kavat/crescent_vulpaphyla.md\|Crescent Vulpaphyla]] | nao-obtido |
+| [[companheiros/kavat/hyena_predasite.md\|Hyena Predasite]] | nao-obtido |
+| [[companheiros/kavat/medjay_predasite.md\|Medjay Predasite]] | nao-obtido |
+| [[companheiros/kavat/panzer_vulpaphyla.md\|Panzer Vulpaphyla]] | nao-obtido |
+| [[companheiros/kavat/pharaoh_vulpaphyla.md\|Pharaoh Vulpaphyla]] | nao-obtido |
+| [[companheiros/kavat/smeeta.md\|Smeeta Kavat]] | nao-obtido |
+| [[companheiros/kavat/vasca.md\|Vasca Kavat]] | nao-obtido |
+| [[companheiros/kavat/venari.md\|Venari]] | nao-obtido |
+| [[companheiros/kavat/vizier_predasite.md\|Vizier Predasite]] | nao-obtido |
 
----
 
 ### MOAs — Modulares (6)
 
@@ -115,14 +117,13 @@ Companheiros contribuem com **Affinity de Mastery** ao atingir Rank 30:
 
 | Companheiro | Status |
 |---|---|
-| [[balla\|Balla MOA]] | nao-obtido |
-| [[drex\|Drex MOA]] | nao-obtido |
-| [[lambeo\|Lambeo MOA]] | nao-obtido |
-| [[oloro\|Oloro MOA]] | nao-obtido |
-| [[para\|Para MOA]] | nao-obtido |
-| [[stratus\|Stratus MOA]] | nao-obtido |
+| [[companheiros/moa/balla.md\|Balla MOA]] | nao-obtido |
+| [[companheiros/moa/drex.md\|Drex MOA]] | nao-obtido |
+| [[companheiros/moa/lambeo.md\|Lambeo MOA]] | nao-obtido |
+| [[companheiros/moa/oloro.md\|Oloro MOA]] | nao-obtido |
+| [[companheiros/moa/para.md\|Para MOA]] | nao-obtido |
+| [[companheiros/moa/stratus.md\|Stratus MOA]] | nao-obtido |
 
----
 
 ### Hounds — Irmãs de Parvos (7)
 
@@ -130,42 +131,42 @@ Companheiros contribuem com **Affinity de Mastery** ao atingir Rank 30:
 
 | Companheiro | Status |
 |---|---|
-| [[bhaira\|Bhaira Hound]] | nao-obtido |
-| [[dorma\|Dorma Hound]] | nao-obtido |
-| [[hec\|Hec Hound]] | nao-obtido |
-| [[lega\|Lega Hound]] | nao-obtido |
-| [[orm\|Orm Hound]] | nao-obtido |
-| [[tauga\|Tauga Hound]] | nao-obtido |
-| [[voca\|Voca Hound]] | nao-obtido |
+| [[companheiros/hound/bhaira.md\|Bhaira Hound]] | nao-obtido |
+| [[companheiros/hound/dorma.md\|Dorma Hound]] | nao-obtido |
+| [[companheiros/hound/hec.md\|Hec Hound]] | nao-obtido |
+| [[companheiros/hound/lega.md\|Lega Hound]] | nao-obtido |
+| [[companheiros/hound/orm.md\|Orm Hound]] | nao-obtido |
+| [[companheiros/hound/tauga.md\|Tauga Hound]] | nao-obtido |
+| [[companheiros/hound/voca.md\|Voca Hound]] | nao-obtido |
 
----
 
-## Por Função
+## Por Função — Companheiros - Índice
+
 
 ### Utilidade e Farm
-[[smeeta|Smeeta Kavat]] · [[carrier|Carrier]] · [[carrier_prime|Carrier Prime]] · [[sahasa|Sahasa Kubrow]] · [[chesa|Chesa Kubrow]] · [[oxylus|Oxylus]] · [[taxon|Taxon]]
+[[companheiros/kavat/smeeta.md|Smeeta Kavat]] · [[companheiros/sentinel/carrier.md|Carrier]] · [[companheiros/sentinel/carrier_prime.md|Carrier Prime]] · [[companheiros/kubrow/sahasa.md|Sahasa Kubrow]] · [[companheiros/kubrow/chesa.md|Chesa Kubrow]] · [[companheiros/sentinel/oxylus.md|Oxylus]] · [[companheiros/sentinel/taxon.md|Taxon]]
 
 ### Buffs e Dano
-[[adarza|Adarza Kavat]] · [[panzer_vulpaphyla|Panzer Vulpaphyla]] · [[helios|Helios]] · [[helios_prime|Helios Prime]] · [[dethcube|Dethcube]] · [[dethcube_prime|Dethcube Prime]]
+[[companheiros/kavat/adarza.md|Adarza Kavat]] · [[companheiros/kavat/panzer_vulpaphyla.md|Panzer Vulpaphyla]] · [[companheiros/sentinel/helios.md|Helios]] · [[companheiros/sentinel/helios_prime.md|Helios Prime]] · [[companheiros/sentinel/dethcube.md|Dethcube]] · [[companheiros/sentinel/dethcube_prime.md|Dethcube Prime]]
 
 ### Defesa e Sobrevivência
-[[raksa|Raksa Kubrow]] · [[huras|Huras Kubrow]] · [[djinn|Djinn]] · [[nautilus|Nautilus]] · [[nautilus_prime|Nautilus Prime]] · [[vasca|Vasca Kavat]]
+[[companheiros/kubrow/raksa.md|Raksa Kubrow]] · [[companheiros/kubrow/huras.md|Huras Kubrow]] · [[companheiros/sentinel/djinn.md|Djinn]] · [[companheiros/sentinel/nautilus.md|Nautilus]] · [[companheiros/sentinel/nautilus_prime.md|Nautilus Prime]] · [[companheiros/kavat/vasca.md|Vasca Kavat]]
 
 ### Furtividade
-[[huras|Huras Kubrow]] · [[shade|Shade]] · [[shade_prime|Shade Prime]]
+[[companheiros/kubrow/huras.md|Huras Kubrow]] · [[companheiros/sentinel/shade.md|Shade]] · [[companheiros/sentinel/shade_prime.md|Shade Prime]]
 
 ### Combate Agressivo
-[[sunika|Sunika Kubrow]] · [[venari|Venari]] · [[wyrm|Wyrm]] · [[wyrm_prime|Wyrm Prime]]
+[[companheiros/kubrow/sunika.md|Sunika Kubrow]] · [[companheiros/kavat/venari.md|Venari]] · [[companheiros/sentinel/wyrm.md|Wyrm]] · [[companheiros/sentinel/wyrm_prime.md|Wyrm Prime]]
 
 ### Modulares (Fortuna / Parvos)
-[[lambeo|Lambeo MOA]] · [[oloro|Oloro MOA]] · [[para|Para MOA]] · [[stratus|Stratus MOA]] · [[balla|Balla MOA]] · [[drex|Drex MOA]] · [[bhaira|Bhaira Hound]] · [[lega|Lega Hound]] · [[orm|Orm Hound]]
+[[companheiros/moa/lambeo.md|Lambeo MOA]] · [[companheiros/moa/oloro.md|Oloro MOA]] · [[companheiros/moa/para.md|Para MOA]] · [[companheiros/moa/stratus.md|Stratus MOA]] · [[companheiros/moa/balla.md|Balla MOA]] · [[companheiros/moa/drex.md|Drex MOA]] · [[companheiros/hound/bhaira.md|Bhaira Hound]] · [[companheiros/hound/lega.md|Lega Hound]] · [[companheiros/hound/orm.md|Orm Hound]]
 
 ### Deimos (Infestados)
-[[panzer_vulpaphyla|Panzer Vulpaphyla]] · [[crescent_vulpaphyla|Crescent Vulpaphyla]] · [[pharaoh_vulpaphyla|Pharaoh Vulpaphyla]] · [[medjay_predasite|Medjay Predasite]] · [[vizier_predasite|Vizier Predasite]] · [[hyena_predasite|Hyena Predasite]]
+[[companheiros/kavat/panzer_vulpaphyla.md|Panzer Vulpaphyla]] · [[companheiros/kavat/crescent_vulpaphyla.md|Crescent Vulpaphyla]] · [[companheiros/kavat/pharaoh_vulpaphyla.md|Pharaoh Vulpaphyla]] · [[companheiros/kavat/medjay_predasite.md|Medjay Predasite]] · [[companheiros/kavat/vizier_predasite.md|Vizier Predasite]] · [[companheiros/kavat/hyena_predasite.md|Hyena Predasite]]
 
----
 
-## Curiosidades
+## 💡 Curiosidades — Companheiros - Índice
+
 
 - Carrier Prime foi por anos o sentinel padrão do end-game por carregar munição automaticamente — só perdeu relevância com o sistema de Infinite Ammo de alguns frames.
 - Smeeta Kavat tem uma habilidade chamada Charm que pode dobrar drops, créditos e affinity — central em qualquer sessão de farm intenso.

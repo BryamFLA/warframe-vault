@@ -1,8 +1,13 @@
 ---
 title: Lore — Índice
+aliases: [Lore — Índice, Lore — Indice, Lore  Indice]
 tipo: index
+resumo: "Lore — Índice — Quatro pastas: facções (quem existe e qual elemento usar), cronologia (o que aconteceu e em que ordem), personagens (quem causou) e chefes (como derrotar)."
+status: completo
+rag: true
 tags: [index, lore]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Lore"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Quatro pastas: **facções** (quem existe e qual elemento usar), **cronologia** (o que aconteceu e em que ordem), **personagens** (quem causou) e **chefes** (como derrotar).
 
----
 
-## Por onde começar
+## Por onde começar — Lore — Índice
+
 
 | Se você quer... | Vá para |
 |---|---|
@@ -23,9 +28,9 @@ agente: opus
 | Saber **quem é quem** | [[lore/personagens/_Personagens _Indice.md\|Personagens — Índice]] |
 | **Derrotar um chefe** | [[lore/chefes/_Chefes _Indice.md\|Chefes — Índice]] |
 
----
 
-## As quatro pastas
+## As quatro pastas — Lore — Índice
+
 
 | Pasta | Arquivos | O que tem |
 |---|---|---|
@@ -34,9 +39,9 @@ agente: opus
 | **[[lore/personagens/_Personagens _Indice.md\|lore/personagens/]]** | 26 | O núcleo narrativo, a família Entrati, os Cephalons e os vendedores |
 | **[[lore/chefes/_Chefes _Indice.md\|lore/chefes/]]** | 29 | Cada chefe com fases, imunidades, drops e frames recomendados |
 
----
 
-## A cadeia causal, em uma tabela
+## A cadeia causal, em uma tabela — Lore — Índice
+
 
 Toda a lore de Warframe é uma sequência de **soluções que viraram problemas**:
 
@@ -49,9 +54,9 @@ Toda a lore de Warframe é uma sequência de **soluções que viraram problemas*
 | Dividir os restos do Império | **[[lore/faccoes/grineer.md\|Grineer]]** e **[[lore/faccoes/corpus.md\|Corpus]]** em guerra permanente |
 | Atravessar a parede do Void (Albrecht) | **[[lore/faccoes/murmur.md\|The Murmur]]** e The Indifference |
 
----
 
-## 🔗 Relacionados em outras pastas
+## 🔗 Relacionados em outras pastas — Lore — Índice
+
 
 - **[[mecanicas/dano_e_status.md|Dano e Status]]** — a matriz completa de dano por tipo de saúde e armadura.
 - **[[mecanicas/sindicatos/_Sindicatos _Indice.md|Sindicatos]]** — as facções do ponto de vista de Standing e recompensa.
@@ -59,6 +64,3 @@ Toda a lore de Warframe é uma sequência de **soluções que viraram problemas*
 - **[[mecanicas/_Mecanicas _Indice.md|Mecânicas]]** — os sistemas do jogo.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Lore (consultado em 2026-10-04)

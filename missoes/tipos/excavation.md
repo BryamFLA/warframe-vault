@@ -1,9 +1,14 @@
 ---
 title: Excavation
+aliases: [Excavation]
 tipo: missao
 subtipo: tipo
+resumo: "Excavation — Escavar sítios marcados pela Lotus com Excavators que precisam de Power Cells: 100 segundos por extrator, com recompensa por extrator defendido — e Cryotic por segundo ativo."
+status: completo
+rag: true
 tags: [missao, tipo]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Excavation"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Escavar sítios marcados pela Lotus com Excavators que precisam de Power Cells: 100 segundos por extrator, com recompensa por extrator defendido — e Cryotic por segundo ativo.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Excavation
+
 
 | Item | Detalhe |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Duração típica | Variável; recompensa **por extrator**, não por tempo |
 | Tipo | **Endless** — e com recompensas **mais frequentes** que Survival |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Excavation
+
 
 1. A Lotus marca **sítios de escavação** no minimapa **a cada 60 segundos**, com **até 4 sítios potenciais** disponíveis. **Sítios não nascem perto de uma área recém-escavada**, o que obriga a **realocação constante**.
 2. Ao chegar a **20 metros** de um sítio, um **Excavator** desce e começa a escavar. Ele precisa de **100 segundos** e deve ser **protegido do fogo inimigo** durante toda a operação para render recompensa.
@@ -45,9 +50,9 @@ agente: opus
 
 **Até três Excavators podem estar ativos ao mesmo tempo**, limitados apenas pela capacidade do squad de defendê-los. Enquanto Survival paga **a cada 5 minutos**, Excavation paga **por extrator** — e, rodando vários em paralelo e levando bem menos de 5 minutos cada, **rende recompensas mais frequentes e geralmente mais numerosas**.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Excavation
+
 
 ### Quando a extração abre
 
@@ -60,9 +65,9 @@ agente: opus
 
 **Melhor nó para farmar:** Excavation é **a fonte de Cryotic do jogo** — e Cryotic é exigido em várias receitas. Para recompensa por hora, a vantagem é rodar **três extratores em paralelo**.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Excavation
+
 
 | Recompensa | Rotação / Chance | Nota |
 |---|---|---|
@@ -71,18 +76,18 @@ agente: opus
 | Relic aberta | Por extrator | Em Void Fissure |
 | Recompensas de [[missoes/tipos/arbitration.md\|Arbitration]] | Por rotação | Substituem as normais |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Excavation
+
 
 - **Rode três extratores em paralelo** se o squad aguentar: é o que torna Excavation mais rentável que [[missoes/tipos/survival.md|Survival]] por hora.
 - **Power Carriers são o gargalo**, não os inimigos comuns. Marque-os e mate-os primeiro — sem células, o extrator morre de energia, não de dano.
 - **Proteja com negação de área**: [[warframes/regular/frost.md|Frost]] (Snow Globe), [[warframes/regular/limbo.md|Limbo]] (Cataclysm) e [[warframes/regular/gara.md|Gara]] mantêm três extratores vivos simultaneamente.
 - Lembre que **carregar célula bloqueia a primária** — quem carrega precisa de secundária ou corpo a corpo decente.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Excavation
+
 
 - **[[missoes/tipos/survival.md|Survival]]** — o endless comparável, com recompensa por tempo.
 - **[[missoes/tipos/mobile_defense.md|Mobile Defense]]** — mesma mecânica de carregar objeto limitando a arma.
@@ -90,6 +95,3 @@ agente: opus
 - **[[missoes/jornadas/principais/the_archwing.md|The Archwing]]** — a quest que usa Excavation para juntar recursos.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Excavation (consultado em 2026-10-04)

@@ -1,9 +1,14 @@
 ---
 title: Phorid
+aliases: [Phorid]
 tipo: lore
 subtipo: chefe
+resumo: "Phorid — O chefe Infested que não tem endereço fixo: só aparece quando um surto de Infestação toma o nó de Assassination de um planeta — e usa Psychic Bolts, a habilidade da Nyx que ele dropa."
+status: completo
+rag: true
 tags: [lore, chefe, infested]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Phorid", "https://wiki.warframe.com/w/Damage_2.0/Infested_Tab"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O chefe Infested que não tem endereço fixo: só aparece quando um surto de Infestação toma o nó de Assassination de um planeta — e usa Psychic Bolts, a habilidade da Nyx que ele dropa.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Phorid
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Recorrente. Aparece e desaparece conforme os surtos de Infestação |
 | Dublagem | Sem fala articulada (taunts guturais) |
 
----
 
-## 📖 História
+## 📖 História — Phorid
+
 
 Phorid não tem biografia — e isso é a característica dele. É um **exemplar super-mutado** do hivemind [[lore/faccoes/infested.md|Infested]], não um indivíduo com projeto próprio. Ele não ocupa um planeta: **materializa-se onde a Infestação vence**. Quando um surto de Infestação (Infestation Outbreak) toma o nó de Assassination de qualquer planeta, é Phorid que assume aquele nó no lugar do chefe original.
 
@@ -35,9 +40,9 @@ Isso faz dele a expressão mais direta de como a facção funciona. Os [[lore/fa
 
 O detalhe curioso é mecânico e narrativo ao mesmo tempo: Phorid usa **Psychic Bolts**, a mesma habilidade de [[warframes/regular/nyx.md|Nyx]] — a Warframe cujos componentes ele dropa. A Warframe é feita da cepa Helminth da própria Infestação, e a habilidade reaparece numa criatura que o hivemind montou sozinho.
 
----
 
-## ⚔️ Combate
+## ⚔️ Combate — Phorid
+
 
 | Item | Detalhe |
 |---|---|
@@ -63,9 +68,9 @@ O detalhe que muda a luta: **fique perto dele para não disparar o Spine-Strike*
 
 **Frames recomendados:** [[warframes/regular/saryn.md|Saryn]] ou [[warframes/regular/mesa.md|Mesa]] para dano sustentado que vence a regeneração, [[warframes/regular/rhino.md|Rhino]] ou [[warframes/regular/inaros.md|Inaros]] para lutar colado sem morrer, [[warframes/regular/nekros.md|Nekros]] para o farm dos recursos raros do planeta, [[warframes/regular/trinity.md|Trinity]] contra o Toxin do Spine-Strike.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Phorid
+
 
 - **[[lore/faccoes/infested.md|Infested]]** — exemplar super-mutado do hivemind, sem agenda individual.
 - **[[warframes/regular/nyx.md|Nyx]]** — dropa os componentes dela e usa Psychic Bolts, a habilidade dela.
@@ -73,9 +78,9 @@ O detalhe que muda a luta: **fique perto dele para não disparar o Spine-Strike*
 - **[[lore/chefes/jordas_golem.md|Jordas Golem]]** e **[[lore/chefes/hemocyte.md|Hemocyte]]** — os outros chefes Infested, estes com localização fixa.
 - **[[lore/faccoes/orokin.md|Orokin]]** — origem remota: foram eles que rearmaram o Technocyte do qual Phorid é produto.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Phorid
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -84,7 +89,3 @@ O detalhe que muda a luta: **fique perto dele para não disparar o Spine-Strike*
 | [[missoes/tipos/infested_salvage.md\|Conteúdo Infested]] | Faz parte do ecossistema de surtos |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Phorid (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Infested_Tab (consultado em 2026-10-04)

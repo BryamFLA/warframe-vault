@@ -1,8 +1,13 @@
 ---
 title: The Steel Path
+aliases: [The Steel Path, steel path]
 tipo: mecanica
+resumo: "The Steel Path — Modificador de dificuldade do Sistema de Origem hospedado por Teshin: inimigos +100 de nível e 250% de vida/escudo, em troca de +100% de drop de recurso e mod, Steel Essence e a loja Steel Path Honors."
+status: completo
+rag: true
 tags: [mecanica, dificuldade, endgame, steel-path]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/The_Steel_Path"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Modificador de dificuldade do Sistema de Origem hospedado por Teshin: inimigos +100 de nível e 250% de vida/escudo, em troca de +100% de drop de recurso e mod, Steel Essence e a loja Steel Path Honors.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — The Steel Path
+
 
 The Steel Path (abreviado **SP**) é um **segundo Star Chart** sobreposto ao normal, introduzido no Update 28.1 (2020-07-08). Não é um modo de missão: é um botão de alternância no canto direito da tela de Navegação que troca a versão de todos os nós. Os nós do SP começam **trancados de novo a partir de E Prime, na Terra** — você reconquista o Sistema de Origem do zero, e cada nó concluído dá Mastery Points próprios, separados dos da rota normal (total de 27.569 pontos no SP).
 
@@ -22,9 +27,9 @@ Para destrancar, é preciso ter completado **todos os nós acessíveis antes de 
 
 O SP **só afeta** missões normais, Dark Sectors, Junctions, Mission Locators e Duviri. **Não** se aplica a Nightmare Mode, missões de sindicato nem Invasions. Nas Landscapes (Plains of Eidolon, Orb Vallis, Cambion Drift) ele adiciona uma **6ª tier de Bounty**, que exige **Mastery Rank 10**. Zariman Ten Zero, Albrecht's Laboratories e Höllvania ganham variante SP de todas as bounties disponíveis.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — The Steel Path
+
 
 ```
 Nível do inimigo (SP) = nível normal + 100
@@ -56,9 +61,9 @@ Chance de drop de mod     = +100% (aditivo, exceto Railjack)
 - Team Bonus Consumables (as "blessings" de squad) têm cooldown de **1 minuto** no SP.
 - Taxa de spawn em missões endless é escalada como **squad cheio**, mesmo jogando solo.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — The Steel Path
+
 
 ### Steel Essence — de onde vem
 
@@ -143,9 +148,9 @@ Todo Acolyte dropa **1 Arcane aleatório** desta lista, além dos 2 Steel Essenc
 
 Eximus no SP também têm chance aumentada de dropar **Riven Slivers** (10 Slivers = 1 Riven Mod completo via Palladino).
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — The Steel Path
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -163,9 +168,9 @@ Eximus no SP também têm chance aumentada de dropar **Riven Slivers** (10 Slive
 
 **Frames que interagem:** [[warframes/regular/nyx.md|Nyx]] (Psychic Bolts remove defesa), [[warframes/regular/xaku.md|Xaku]] (The Lost), [[warframes/regular/caliban.md|Caliban]] (Fusion Strike), [[warframes/regular/styanax.md|Styanax]] (Tharros Strike, subsumível), [[warframes/regular/hildryn.md|Hildryn]] (Pillage, subsumível), [[warframes/regular/harrow.md|Harrow]] (Condemn trava Acolyte), [[warframes/regular/khora.md|Khora]] (Ensnare trava Acolyte), [[warframes/regular/nekros.md|Nekros]] (Desecrate para loot).
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — The Steel Path
+
 
 - **"Steel Path multiplica a armadura."** Não. Só vida e escudo ×2,5. A armadura sobe apenas pelo +100 de nível, pela curva padrão. Por isso Corrosivo e remoção de armadura continuam valendo exatamente o mesmo que no modo normal — o que realmente muda o jogo é o **escudo** de 250%, que ignora Slash e procs de sangramento.
 - **"Preciso ter 100% do Star Chart."** Não. Mutalist Alad V, Jordas Golem (Eris) e Brutus (Urano) ficam de fora dos requisitos.
@@ -176,9 +181,9 @@ Eximus no SP também têm chance aumentada de dropar **Riven Slivers** (10 Slive
 - **"SP vale em missão de sindicato / Nightmare / Invasion."** Não vale em nenhum dos três.
 - **"Railjack no SP é igual."** Não: +50 de nível em vez de +100, **sem** o bônus de drop de mod, e Eximus substituem Acolytes como fonte de Essence (Hotfix 43.0.6 removeu Essence das tabelas de Eximus e passou a dar 2 fixos por conclusão de missão).
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — The Steel Path
+
 
 - [[mecanicas/arbitrations.md|Arbitrations]] — o outro pilar de dificuldade elevada; exige Star Chart normal completo, não o SP.
 - [[mecanicas/incarnon.md|Incarnon]] — os adaptadores Genesis vêm quase só da trilha do Circuit no SP.
@@ -192,7 +197,3 @@ Eximus no SP também têm chance aumentada de dropar **Riven Slivers** (10 Slive
 - [[lore/personagens/teshin.md|Teshin]] — quem hospeda o modo e vende na loja.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/The_Steel_Path — modificadores, requisitos de desbloqueio, regras, Incursions, loja de Teshin, lista de recompensas, rotação semanal (consultado em 2026-10-04)
-- Patch notes citados na própria página: Update 28.1 (2020-07-08, introdução), Update 43.0 (2026-06-17, Steel Path Railjack), Hotfix 43.0.6 (2026-06-30, mudança no Steel Essence de Railjack), Update 39.1 (2025-08-26, abates de Summon/Companion contam para Acolyte)

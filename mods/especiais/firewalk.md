@@ -1,11 +1,16 @@
 ---
 title: Firewalker
+aliases: [Firewalker, firewalk]
 tipo: mod
 categoria: especial
-polaridade: Madurai
 raridade: raro
+polaridade: Madurai
+resumo: "Firewalker — +24.2% de Bullet Jump · +24.2% Duração de Aim Glide/Wall Latch · +275% Heat em Bullet Jump Texto exato no jogo (inglês): +24.2% to Bullet Jump / +24.2% Aim Glide/Wall Latch Duration / +275% <DT_FIRE_COLOR>Heat on Bullet Jump."
+status: completo
+rag: true
 tags: [mod, especial]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Firewalker", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Mods/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -20,9 +25,9 @@ agente: opus
 >
 > *Texto exato no jogo (inglês):* `+24.2% to Bullet Jump / +24.2% Aim Glide/Wall Latch Duration / +275% <DT_FIRE_COLOR>Heat on Bullet Jump`
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Firewalker
+
 
 | Item | Valor |
 |---|---|
@@ -36,9 +41,9 @@ agente: opus
 | Transmutável | **Sim** |
 | Introduzido no Update | **17** |
 
----
 
-## 📈 Efeito por Rank
+## 📈 Efeito por Rank — Firewalker
+
 
 <!-- Valores copiados da seção Stats da página do mod na wiki. Nenhum valor interpolado. -->
 
@@ -59,9 +64,9 @@ agente: opus
 > [!note] A drenagem sobe 1 por rank
 > Regra do jogo, visível na própria tabela: a drenagem no rank R é **2 + R**.
 
----
 
-## 🏗️ Onde Obter
+## 🌍 Onde Conseguir — Firewalker
+
 
 | Fonte | Tipo | Chance do mod na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -75,9 +80,9 @@ agente: opus
 
 **Faixa de preço em platina:** ⚠️ **estimativa não fornecida.** Pela seção 8 das convenções, preço de platina é mercado flutuante e não é registrado aqui. Consulte warframe.market no momento da compra.
 
----
 
-## 🛠️ Uso
+## 🛠️ Como Usar — Firewalker
+
 
 **Vale a pena?** **Depende da build.** Mod **Rare** — a raridade mais disputada por slot. Vale conferir a tabela de drop acima antes de farmar, porque a chance costuma ser baixa.
 
@@ -100,8 +105,3 @@ Os mods abaixo são **mutuamente exclusivos** com este — o jogo não deixa equ
 - **Toxic Flight**
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Firewalker — efeito por rank, polaridade, drenagem, raridade e incompatibilidades (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Mods/data — ficha do mod: tipo, classe, comercializável, transmutável, update de introdução (consultado em 2026-10-06)

@@ -1,8 +1,13 @@
 ---
-title: Operation: Plague Star
+title: "Operation: Plague Star"
+aliases: ["Operation: Plague Star", plague star]
 tipo: mecanica
+resumo: "Operation: Plague Star — Evento recorrente nas Plains of Eidolon: roubar a Thrax Toxin dos Grineer e envenenar o \"boil\" Infestado caído perto de Cetus, pago em Standing da mecanicas/sindicatos/operational_supply.md\\|Operational Supply."
+status: completo
+rag: true
 tags: [mecanica, evento, plague-star, infestado, cetus, hemocyte]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Operation:_Plague_Star"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Evento recorrente nas Plains of Eidolon: roubar a Thrax Toxin dos Grineer e envenenar o "boil" Infestado caído perto de Cetus, pago em Standing da [[mecanicas/sindicatos/operational_supply.md\|Operational Supply]].
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Operation: Plague Star
+
 
 Introduzido no Update 22.3 (2017-11-15), o Plague Star é um dos **poucos eventos recorrentes** do Warframe: o "boil" Infestado **volta a crescer** e os Tenno são chamados de novo para erradicá-lo.
 
@@ -27,9 +32,9 @@ A Bounty tem **quatro fases**:
 3. **Escortar um Grineer Drone** caído, que leva a toxina até o boil — como numa missão de Drone Hijack, defendendo contra Grineer **e** Infestados.
 4. **Segurar a horda** enquanto a toxina envenena o boil, acompanhando uma barra de progresso até 100%.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Operation: Plague Star
+
 
 ```
 Standing base da Operational Supply por tier:
@@ -62,9 +67,9 @@ dele ou voando perto. NÃO afeta inimigos — eles andam em cima sem problema.
 - A Infestação spawna nas Plains **durante todo o evento**, mesmo que você não esteja fazendo a Bounty, e **ataca Tenno, Grineer e até os Eidolons** à noite.
 - A composição Infestada do evento é fixa: **Chargers, Runners, Leapers, Volatile Runners, Ancient Disruptors, Tar Mutalist MOAs e Mutalist Ospreys carregando Crawlers normais**. Há também **Infested Spawn Pods** espalhados pelas Plains ou caindo do céu.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Operation: Plague Star
+
 
 ### Tiers e requisitos
 
@@ -98,9 +103,9 @@ A loja da Nakak é a **única** fonte destes itens. Lista completa em [[mecanica
 | **[[armas/primarias/snipetron.md\|Snipetron]] BP** · **[[armas/brancas/ether_daggers.md\|Ether Daggers]] BP** | 1 | 3.000 + 5.000 cada | Armas antigas fora de circulação |
 | **Eidolon Phylaxis (x5) BP** | 1 | 2.000 + 4.000 | O que permite rodar as tiers 2 e 3 |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Operation: Plague Star
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -113,9 +118,9 @@ A loja da Nakak é a **única** fonte destes itens. Lista completa em [[mecanica
 | Lidar com os Hemocytes | Nas tiers 2 e 3 vêm **4**, cada um 10 níveis acima do anterior. Ver [[lore/chefes/hemocyte.md\|Hemocyte]] |
 | Farmar enquanto não faz a Bounty | A Infestação spawna nas Plains **o tempo todo** durante o evento, e ataca Grineer e até Eidolons à noite |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Operation: Plague Star
+
 
 - **"O boil mata os inimigos também."** **Não.** Os 200 Toxin/s só afetam Tenno. Inimigos andam em cima sem problema.
 - **"Caiu pelo boil, vou resgatar."** O dano derruba o resgatador também. **Use Revive.**
@@ -126,9 +131,9 @@ A loja da Nakak é a **única** fonte destes itens. Lista completa em [[mecanica
 - **"É um evento único."** É **recorrente**: o boil volta a crescer e o evento retorna.
 - **"Hemocyte aparece na Tier 1."** Só nas tiers **2 e 3**, 4 deles, um a cada 25% de progresso.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Operation: Plague Star
+
 
 - [[mecanicas/sindicatos/operational_supply.md|Operational Supply]] — o sindicato exclusivo do evento, com a lista completa de ofertas.
 - [[mecanicas/eventos/_Eventos _Indice.md|Eventos]] — a visão geral dos eventos recorrentes.
@@ -144,6 +149,3 @@ A loja da Nakak é a **única** fonte destes itens. Lista completa em [[mecanica
 - [[lore/faccoes/infested.md|Infested]] — a facção do boil.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Operation:_Plague_Star — natureza recorrente do evento e data de introdução (Update 22.3, 2017-11-15), sinopse, as quatro fases da Bounty em detalhe, requisitos de cada tier, número e níveis exatos dos Hemocytes por tier, Standing base e bônus de Drone por tier, dano de 200 Toxin/s do boil e o fato de não afetar inimigos, composição Infestada do evento, origem dos blueprints de Eidolon Phylaxis e Infested Catalyst, lista completa das ofertas da Operational Supply (consultado em 2026-10-04)

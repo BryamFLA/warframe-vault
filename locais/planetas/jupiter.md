@@ -1,11 +1,14 @@
 ---
 title: Júpiter
+aliases: [Júpiter, Jupiter]
 tipo: local
-status: nao-visitado
 faccao: Corpus
-tags:
-  - local
-atualizado: 2026-04-17
+resumo: Júpiter — Gigante gasoso com instalações flutuantes Corpus.
+status: stub
+rag: false
+tags: [local]
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Júpiter
@@ -13,25 +16,26 @@ atualizado: 2026-04-17
 > [!info] Visão Geral
 > Gigante gasoso com instalações flutuantes Corpus
 
-## Facção Principal
+## 🏴 Facção — Júpiter
+
 - Corpus
 - Inimigos: Crewmen, MOAs, Amalgams
 
-## Missões Disponíveis
+## 🗺️ Missões — Júpiter
+
 - Exterminate, Spy, Capture, Junction
 
-## Chefe
-- [[alad_v|Alad V (Themisto)]] — recompensa: [[nyx|Nyx]] partes
+## 👑 Chefe — Júpiter
 
-## Recursos Notáveis
+- [[lore/chefes/alad_v.md|Alad V (Themisto)]] — recompensa: [[warframes/regular/nyx.md|Nyx]] partes
+
+## 💎 Recursos — Júpiter
+
 - Circuits
 - Oxium
 - Salvage
 
-## Minha Progressão
-- [ ] Planeta desbloqueado
-- [ ] Chefe derrotado
+## 🔗 Relacionados — Júpiter
 
-## Conexões
-- Chefe: [[alad_v|Alad V]]
-- Boss especial: [[ropalolyst|Ropalolyst]] — recompensa: [[wisp|Wisp]]
+- Chefe: [[lore/chefes/alad_v.md|Alad V]]
+- Boss especial: [[lore/chefes/ropalolyst.md|Ropalolyst]] — recompensa: [[warframes/regular/wisp.md|Wisp]]

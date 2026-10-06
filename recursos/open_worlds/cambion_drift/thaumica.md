@@ -1,10 +1,15 @@
 ---
 title: Thaumica
+aliases: [Thaumica]
 tipo: recurso
 raridade: raro
 origem: open-world
+resumo: "Thaumica — Recurso raro do tipo ore, farmado em Cambion Drift (Deimos) from Yellow Mining Lesions, Requiem Obelisks, and Spitia Infested Cysts., 3 a 6 por drop."
+status: completo
+rag: true
 tags: [recurso, open_world, ore]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Thaumica", "https://wiki.warframe.com/w/Module:Resources/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “Can be molded by the Infestation but remains resistant to it.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Thaumica
+
 
 | Item | Valor |
 |---|---|
@@ -31,9 +36,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **Sim** |
 | Introduzido no Update | **29** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Thaumica
+
 
 **Locais que o próprio jogo lista:** Cambion Drift (Deimos) from Yellow Mining Lesions, Requiem Obelisks, and Spitia Infested Cysts.
 
@@ -53,9 +58,9 @@ No vault: [[locais/planetas/deimos.md|Deimos]], [[locais/open-worlds/deimos.md|C
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Thaumica
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este recurso:
 
@@ -67,7 +72,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este recurso
 > Total de **2** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Thaumica — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)

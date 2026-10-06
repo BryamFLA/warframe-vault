@@ -1,9 +1,14 @@
 ---
 title: Bounties do Necralisk (Cambion Drift)
+aliases: [Bounties do Necralisk (Cambion Drift), cambion drift]
 tipo: missao
 subtipo: bounty
+resumo: "Bounties do Necralisk (Cambion Drift) — Missões multi-estágio dadas pela Mother no locais/open-worlds/deimos.md|Necralisk ou no locais/planetas/deimos.md|Cambion Drift."
+status: completo
+rag: true
 tags: [missao, bounty, open-world]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Bounty", "https://wiki.warframe.com/w/Cambion_Drift", "https://wiki.warframe.com/w/Cambion_Drift/Rewards"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Missões multi-estágio dadas pela **Mother** no [[locais/open-worlds/deimos.md|Necralisk]] ou no [[locais/planetas/deimos.md|Cambion Drift]]. Pagam **Mother Tokens** e incluem o **Isolation Vault** (com Necramechs guardiões) e as **Arcana Bounties**.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Bounties do Necralisk (Cambion Drift)
+
 
 | Item | Detalhe |
 |---|---|
@@ -31,9 +36,9 @@ agente: opus
 > [!tip] A Mother sai do Necralisk
 > Ela aparece em **vários pontos fora do Necralisk** e continua dando bounties — você não precisa voltar à cidade entre as runs.
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Bounties do Necralisk (Cambion Drift)
+
 
 1. **Cada estágio concluído dá uma recompensa aleatória do pool + Mother Tokens.**
 2. **Cada estágio tem objetivo bônus opcional** que dá **Mother Tokens extras**. Cumprir **todos** rende **uma recompensa adicional no estágio final**, sorteada da tabela do último estágio.
@@ -92,9 +97,9 @@ Desbloqueadas **depois de concluir a bounty inicial de Isolation Vault**, dadas 
 
 **Rotações de recompensa:** pools **A → B → C** a cada **150 minutos**, sincronizadas com todas as bounties do jogo. **Nas bounties endless (tier 3)**, nível e Tokens sobem **a cada ciclo de 3 estágios**.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Bounties do Necralisk (Cambion Drift)
+
 
 | Local | Quem dá | O que dá |
 |---|---|---|
@@ -103,9 +108,9 @@ Desbloqueadas **depois de concluir a bounty inicial de Isolation Vault**, dadas 
 
 **Melhor nó para farmar:** **Tier 5 (40–60)** para a tabela de recompensa; **tier 3 (25–30, endless)** quando o objetivo é **Mother Token em volume**, porque os Tokens sobem a cada ciclo. Para os recursos do cofre e os Arcanes de Deimos, **Isolation Vault** → **Arcana Bounties**.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Bounties do Necralisk (Cambion Drift)
+
 
 | Recompensa | Rotação | Nota |
 |---|---|---|
@@ -117,9 +122,9 @@ Desbloqueadas **depois de concluir a bounty inicial de Isolation Vault**, dadas 
 > [!warning] Tabela parcial
 > As drop tables são separadas por tier e estágio, e **Isolation Vault** e **Arcana** têm tabelas próprias. Pela seção 8 das convenções **não invento porcentagem** — tabelas integrais em https://wiki.warframe.com/w/Cambion_Drift/Rewards e https://wiki.warframe.com/w/Isolation_Vault.
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Bounties do Necralisk (Cambion Drift)
+
 
 - **Cuidado com squad cheio aqui.** Ao contrário de Cetus e Fortuna, várias cotas do Drift **escalam por jogador**: Assassinate pede **15 + 10 por companheiro**, Extract Samples pede **15 + 5 por companheiro**. Em squad de 4, é mais que o dobro de trabalho — vale solo ou dupla em vários tiers.
 - **Em Cache Recovery, atravesse a esfera do tumor a pé.** Ela **anula tiro, mas não o corpo**. Entrar e usar melee é a forma rápida de cumprir o bônus dos 40 segundos restantes.
@@ -130,8 +135,3 @@ Desbloqueadas **depois de concluir a bounty inicial de Isolation Vault**, dadas 
 - **Bounty endless (tier 3) é a melhor fonte de Mother Token.** Nível e Tokens sobem a cada ciclo de 3 estágios, então ficar vale mais que reiniciar.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Bounty — mecânica geral, pools A/B/C e ciclo de 150 min, raridade por estágio, bônus por estágio (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Cambion_Drift — pré-requisito Heart of Deimos, Mother Tokens, Mother fora do Necralisk, todos os tipos de bounty do Drift com números e bônus, bounties endless, Isolation Vault e Arcana Bounties (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Cambion_Drift/Rewards — tiers de nível por bounty, incluindo o tier 3 endless e o tier Steel Path 100–100 (consultado em 2026-10-06)

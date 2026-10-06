@@ -1,9 +1,14 @@
 ---
 title: Vor
+aliases: [Vor]
 tipo: lore
 subtipo: personagem
+resumo: "Vor — O personagem por trás do chefe: ex-Admiral rebaixado por capturar Tenno em vez de destruí-los, único Grineer que domina tecnologia Orokin — e que a Janus Key remontou depois da morte."
+status: completo
+rag: true
 tags: [lore, personagem, grineer, orokin]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Captain_Vor", "https://wiki.warframe.com/w/Corrupted_Vor"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O personagem por trás do chefe: ex-Admiral rebaixado por capturar Tenno em vez de destruí-los, único Grineer que domina tecnologia Orokin — e que a Janus Key remontou depois da morte.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Vor
+
 
 | Item | Valor |
 |---|---|
@@ -26,9 +31,9 @@ agente: opus
 | Dublagem | Kol Crosbie (aka [DE]Skree) |
 | Ficha de combate | Ver [[lore/chefes/captain_vor.md\|Captain Vor]] e [[lore/chefes/corrupted_vor.md\|Corrupted Vor]] |
 
----
 
-## 📖 História
+## 📖 História — Vor
+
 
 Antes do início do jogo, Vor tinha a patente de **Admiral** e recebeu das **Twin Queens** a ordem de **encontrar e destruir as cryopods de Warframe** escondidas pelo Sistema antes que despertassem. Ele desobedeceu: em vez de destruir, passou a **capturar os [[lore/faccoes/tenno.md|Tenno]] dentro delas**, na esperança de usar aquele poder para refazer o exército Grineer com **clones mais saudáveis**. A falha em cumprir a ordem fez as Rainhas **perderem a fé nele**, e Vor foi **rebaixado a Captain**.
 
@@ -44,9 +49,9 @@ Como a maioria dos Grineer, **despreza os Tenno** e provoca dizendo que vai leva
 > [!info] Por que ele importa mais do que parece
 > Vor é o **primeiro antagonista** que qualquer jogador encontra, e a função narrativa dele é dupla: ele **te acorda** (a cryopod que ele abriu é a sua) e **estabelece o tema central do jogo** — tecnologia Orokin que ninguém mais entende, poder do Void que corrompe quem toca, e facções brigando por restos de um império morto.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Vor
+
 
 - **[[lore/chefes/captain_vor.md|Captain Vor]]** — a ficha de combate dele como chefe de Mercúrio e Ceres.
 - **[[lore/chefes/corrupted_vor.md|Corrupted Vor]]** — o que ele virou depois de morrer, remontado pela Janus Key.
@@ -58,9 +63,9 @@ Como a maioria dos Grineer, **despreza os Tenno** e provoca dizendo que vai leva
 - **[[lore/personagens/lotus.md|Lotus]]** — o "falso profeta" que ele acusa depois de corrompido.
 - **[[armas/secundarias/seer.md|Seer]]** e **[[armas/brancas/cronus.md|Cronus]]** — as armas assinadas dele; a Cronus é o drop garantido da primeira luta.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Vor
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -72,7 +77,3 @@ Como a maioria dos Grineer, **despreza os Tenno** e provoca dizendo que vai leva
 | [[missoes/jornadas/principais/the_duviri_paradox.md\|Duviri]] | Aparição |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Captain_Vor (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Corrupted_Vor (consultado em 2026-10-04)

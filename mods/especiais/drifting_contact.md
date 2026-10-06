@@ -1,11 +1,16 @@
 ---
 title: Drifting Contact
+aliases: [Drifting Contact]
 tipo: mod
 categoria: especial
-polaridade: Vazarin
 raridade: raro
+polaridade: Vazarin
+resumo: "Drifting Contact — +10s Duração de Combo · +40% Chance de Status Texto exato no jogo (inglês): +10s Combo Duration / +40% Status Chance."
+status: completo
+rag: true
 tags: [mod, especial]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Drifting_Contact", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Mods/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -17,9 +22,9 @@ agente: opus
 >
 > *Texto exato no jogo (inglês):* `+10s Combo Duration / +40% Status Chance`
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Drifting Contact
+
 
 | Item | Valor |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 | Transmutável | **Não** |
 | Introduzido no Update | **Recurring Nightmares** |
 
----
 
-## 📈 Efeito por Rank
+## 📈 Efeito por Rank — Drifting Contact
+
 
 <!-- Valores copiados da seção Stats da página do mod na wiki. Nenhum valor interpolado. -->
 
@@ -49,9 +54,9 @@ agente: opus
 > [!note] A drenagem sobe 1 por rank
 > Regra do jogo, visível na própria tabela: a drenagem no rank R é **2 + R**.
 
----
 
-## 🏗️ Onde Obter
+## 🌍 Onde Conseguir — Drifting Contact
+
 
 | Fonte | Tipo | Chance do mod na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -61,9 +66,9 @@ agente: opus
 
 **Faixa de preço em platina:** ⚠️ **estimativa não fornecida.** Pela seção 8 das convenções, preço de platina é mercado flutuante e não é registrado aqui. Consulte warframe.market no momento da compra.
 
----
 
-## 🛠️ Uso
+## 🛠️ Como Usar — Drifting Contact
+
 
 **Vale a pena?** **Depende da build.** Mod **Rare** — a raridade mais disputada por slot. Vale conferir a tabela de drop acima antes de farmar, porque a chance costuma ser baixa.
 
@@ -77,8 +82,3 @@ O efeito concreto no rank máximo é **+10s Duração de Combo · +40% Chance de
 Nenhum mod é registrado como **mutuamente exclusivo** com este nos dados da wiki. A concorrência é pelo **slot** e pela **capacidade**, não por bloqueio do jogo.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Drifting_Contact — efeito por rank, polaridade, drenagem, raridade e incompatibilidades (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Mods/data — ficha do mod: tipo, classe, comercializável, transmutável, update de introdução (consultado em 2026-10-06)

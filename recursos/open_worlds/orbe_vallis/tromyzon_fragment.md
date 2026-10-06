@@ -1,10 +1,15 @@
 ---
 title: Tromyzon Entroplasma
+aliases: [Tromyzon Entroplasma, tromyzon fragment]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+resumo: "Tromyzon Entroplasma — Recurso do tipo fish part, cuja melhor fonte confirmada é Exploiter Orb, 1 por drop."
+status: completo
+rag: true
 tags: [recurso, open_world, fish_part]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Tromyzon_Entroplasma", "https://wiki.warframe.com/w/Module:Resources/data", "https://wiki.warframe.com/w/Module:DropTables/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -19,9 +24,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “A solvent that reconstitutes waste product from the Weeping Towers into degenerated matter.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Tromyzon Entroplasma
+
 
 | Item | Valor |
 |---|---|
@@ -36,9 +41,9 @@ agente: opus
 > [!note] Nota do jogo
 > Source: Dismantled from Tromyzon servofish via The Business in Fortuna (Venus). Catch Tromyzon in Orb Vallis Pond Hotspots during Cold weather. Also drops from the Exploiter Orb in the Orb Vallis.
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Tromyzon Entroplasma
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -58,9 +63,9 @@ agente: opus
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Tromyzon Entroplasma
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este recurso:
 
@@ -85,8 +90,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este recurso
 > Total de **15** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Tromyzon_Entroplasma — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)

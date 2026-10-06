@@ -1,9 +1,14 @@
 ---
 title: Chimera Prologue
+aliases: [Chimera Prologue]
 tipo: missao
 subtipo: jornada
+resumo: "Chimera Prologue — A quest curta em que Ballas reaparece virado Sentient: o primeiro ato do Prelude to War, e o momento em que ele entrega ao Tenno a ideia da Paracesis — a \"Sentient slayer\"."
+status: completo
+rag: true
 tags: [missao, jornada, principal]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Chimera_Prologue"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > A quest curta em que Ballas reaparece virado Sentient: o primeiro ato do Prelude to War, e o momento em que ele entrega ao Tenno a ideia da Paracesis — a "Sentient slayer".
 
----
 
-## 📖 Narrativa e Pré-requisitos
+## 📖 Narrativa e Pré-requisitos — Chimera Prologue
+
 
 | Item | Detalhe |
 |---|---|
@@ -37,26 +42,26 @@ agente: opus
 >
 > A quest também **prenuncia o plano de Natah de criar os Amalgams**, que é o que acontece em The Jovian Concord, na Gas City de Júpiter.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Chimera Prologue
+
 
 | Recompensa | Nota |
 |---|---|
 | **[[armas/brancas/paracesis.md\|Paracesis]]** blueprint | A espada anti-Sentient |
 | **[[lore/chefes/ropalolyst.md\|Ropalolyst]]** desbloqueado | O chefe Sentient de Júpiter |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Chimera Prologue
+
 
 - A **Paracesis** precisa chegar ao **rank 40** (5 Formas) para ganhar a capacidade de **remover adaptação Sentient**. Abaixo disso ela é só uma nikana grande. Vale o investimento: é uma das cinco ferramentas do jogo com esse efeito.
 - Ela também tem **bônus de dano contra Sentients** por desenho, o que a torna a escolha padrão para [[lore/chefes/eidolon_teralyst.md|Eidolons]], [[lore/chefes/ropalolyst.md|Ropalolyst]] e [[lore/chefes/archon_amar.md|Archons]].
 - Ironia narrativa a notar: **a arma que mata Sentients foi entregue por um Sentient** — e é com ela que Ballas depois **apunhala a Lotus** em [[missoes/jornadas/principais/the_new_war.md|The New War]].
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Chimera Prologue
+
 
 - **[[lore/personagens/ballas.md|Ballas]]** — o estado dele depois de The Sacrifice.
 - **[[armas/brancas/paracesis.md|Paracesis]]** — a arma entregue aqui.
@@ -66,6 +71,3 @@ agente: opus
 - **[[lore/faccoes/corpus.md|Amalgams]]** — prenunciados nesta quest.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Chimera_Prologue (consultado em 2026-10-04)

@@ -1,10 +1,15 @@
 ---
 title: Fieldron Sample
+aliases: [Fieldron Sample]
 tipo: recurso
 raridade: comum
 origem: planeta
+resumo: "Um componente de pesquisa Corpus comum, necessário em massa para a produção de Fieldrons no laboratório do Dojo."
+status: parcial
+rag: true
 tags: [recurso]
-atualizado: 2026-09-09
+fontes: ["https://wiki.warframe.com/w/Fieldron_Sample"]
+atualizado: 2026-10-07
 verificado: false
 agente: gemini
 ---
@@ -14,9 +19,9 @@ agente: gemini
 > [!info] Resumo
 > Um componente de pesquisa Corpus comum, necessário em massa para a produção de Fieldrons no laboratório do Dojo.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Fieldron Sample
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: gemini
 | Aparece a partir de | [[locais/planetas/venus.md|Venus]] |
 | Afetado por boosters | Sim |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Fieldron Sample
+
 
 | Local | Missão / Método | Rendimento | Nota |
 |---|---|---|---|
@@ -40,9 +45,9 @@ agente: gemini
 
 **Mods e frames que ajudam:** Nekros (Desecrate) e Hydroid (Pilfering Swarm) aceleram enormemente o acúmulo de amostras de facção.
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Fieldron Sample
+
 
 | Item | Quantidade |
 |---|---|
@@ -51,6 +56,3 @@ agente: gemini
 | [[armas/primarias/opticor.md|Opticor]] | 50 |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Fieldron_Sample — drop e uso (consultado em 2026-09-09)

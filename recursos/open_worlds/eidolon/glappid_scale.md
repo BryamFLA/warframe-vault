@@ -1,10 +1,15 @@
 ---
-title: "Glappid Scale (não existe no jogo)"
+title: Glappid Scale (não existe no jogo)
+aliases: [Glappid Scale (não existe no jogo), Glappid Scale (nao existe no jogo), glappid scale]
 tipo: recurso
+resumo: "Não existe nenhum item chamado “Glappid Scale” em Warframe."
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+status: parcial
+rag: true
 tags: [recurso, open_world, pesca, inexistente]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Glappid", "https://wiki.warframe.com/w/Module:Resources/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -20,9 +25,9 @@ agente: opus
 >
 > Pela **seção 2 das convenções** (nunca criar, renomear ou apagar arquivos), o arquivo fica como está, documentando a ausência em vez de inventar um recurso.
 
----
 
-## 🐟 O peixe Glappid — ficha real
+## 🐟 O peixe Glappid — ficha real — Glappid Scale (não existe no jogo)
+
 
 | Item | Valor |
 |---|---|
@@ -34,9 +39,9 @@ agente: opus
 | Lanças que pegam | **Peram** |
 | Pontuação máxima | **44 kg** |
 
----
 
-## ✅ As partes que o Glappid realmente rende
+## ✅ As partes que o Glappid realmente rende — Glappid Scale (não existe no jogo)
+
 
 | Parte real | No vault |
 |---|---|
@@ -48,14 +53,3 @@ agente: opus
 > São **4** partes. Nenhuma delas se chama “Glappid Scale”.
 
 ---
-
-## 💡 Pendência para o humano
-
-- **Decisão sua:** este arquivo pode ser **apagado** ou **renomeado** para uma das partes reais da tabela acima. Eu não faço nenhuma das duas coisas pela seção 2 das convenções.
-- **Partes reais sem arquivo no vault:** **Fish Meat**, **Fish Scales**, **Fish Oil**, **Seram Beetle Shell**.
-
----
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Glappid — infobox do peixe: raridade, planeta, tileset, bioma, ciclo, lanças, pontuação e a lista `other_drops` com as partes reais (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — nenhuma entrada chamada “Glappid Scale” (consultado em 2026-10-06)

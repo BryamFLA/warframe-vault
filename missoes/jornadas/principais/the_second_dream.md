@@ -1,9 +1,14 @@
 ---
 title: The Second Dream
+aliases: [The Second Dream]
 tipo: missao
 subtipo: jornada
+resumo: The Second Dream — A quest que revela que você não é a Warframe.
+status: completo
+rag: true
 tags: [missao, jornada, principal]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/The_Second_Dream"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > A quest que revela que você não é a Warframe. Hunhow se alia ao Stalker para destruir o Reservoir em Lua — e, ao chegar lá, o Tenno encontra a si mesmo.
 
----
 
-## 📖 Narrativa e Pré-requisitos
+## 📖 Narrativa e Pré-requisitos — The Second Dream
+
 
 | Item | Detalhe |
 |---|---|
@@ -35,9 +40,9 @@ Para impedi-los, a Lotus faz uma **trégua com [[lore/chefes/alad_v.md|Alad V]]*
 >
 > Hunhow descobre isso ao mesmo tempo que o jogador, e é ele quem identifica a figura como o **verdadeiro Tenno** que pilota as Warframes.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — The Second Dream
+
 
 | Recompensa | Nota |
 |---|---|
@@ -48,18 +53,18 @@ Para impedi-los, a Lotus faz uma **trégua com [[lore/chefes/alad_v.md|Alad V]]*
 | **Scar Sigil** | Cosmético |
 | Quest **[[missoes/jornadas/principais/rising_tide.md\|Rising Tide]]** | Desbloqueia o Railjack |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — The Second Dream
+
 
 - Depois desta quest, **o Operator é uma ferramenta de combate real**, não só narrativa: o **Void Beam** é a única coisa que derruba escudo de [[lore/chefes/eidolon_teralyst.md|Eidolon]] e **remove adaptação Sentient**.
 - Comece a investir em **[[mecanicas/operator_e_focus.md|Focus]]** imediatamente. **Zenurik** (energia) é a escolha mais útil no começo; **Madurai** é dano de Amp; **Unairu** remove armadura e escudo.
 - Lua tem nós com desafios de **Spy** próprios e é fonte de mods exclusivos.
 - Não pesquise o fim desta quest antes de jogá-la. É o ponto de virada do jogo.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — The Second Dream
+
 
 - **[[lore/faccoes/tenno.md|Tenno]]** — o que você realmente é, revelado aqui.
 - **[[mecanicas/operator_e_focus.md|Operator e Focus]]** — o sistema que a quest destrava.
@@ -69,6 +74,3 @@ Para impedi-los, a Lotus faz uma **trégua com [[lore/chefes/alad_v.md|Alad V]]*
 - **[[missoes/jornadas/principais/the_war_within.md|The War Within]]** — a continuação.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/The_Second_Dream (consultado em 2026-10-04)

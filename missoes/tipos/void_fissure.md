@@ -1,9 +1,14 @@
 ---
 title: Void Fissure
+aliases: [Void Fissure]
 tipo: missao
 subtipo: tipo
+resumo: "Void Fissure — Não é um tipo de missão próprio: é um modificador aplicado a um nó existente."
+status: completo
+rag: true
 tags: [missao, tipo, relic]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Void_Fissure"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Não é um tipo de missão próprio: é um **modificador** aplicado a um nó existente. Fendas do Void abrem ao longo do caminho, convertem inimigos em **Corrupted** e dropam **Reactant** — juntar **10** abre a **Void Relic** que você equipou.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Void Fissure
+
 
 | Item | Detalhe |
 |---|---|
@@ -26,9 +31,9 @@ agente: opus
 | Squad recomendado | **Squad cheio** — cada jogador abre a própria relíquia e **todos escolhem entre as 4 recompensas**, o que quadruplica a chance de sair a peça desejada |
 | Pré-requisito | O **nó precisa estar desbloqueado** no Star Chart — **exceto no [[mecanicas/steel_path.md\|Steel Path]]**, onde isso não se aplica |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Void Fissure
+
 
 1. **Tiers de fenda**, uma por tier de relíquia:
 
@@ -82,9 +87,9 @@ agente: opus
 > [!tip] Relíquia refinada sem gastar Void Traces
 > Refinar uma relíquia manualmente custa **25 (Exceptional), 50 (Flawless) ou 100 (Radiant) Void Traces**. Uma fissura endless entrega essas mesmas relíquias **já refinadas, de graça**, como bônus de rotação. Em Omnia e Requiem, a relíquia bônus é **Lith, Meso, Neo ou Axi aleatória**, não do tier da própria fenda.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Void Fissure
+
 
 Void Fissures aparecem **no painel de Void Fissures** do Star Chart, sempre associadas a **nós normais** rotativos. **Não existe nó fixo de Void Fissure** — os nós mudam a cada poucas horas.
 
@@ -95,9 +100,9 @@ Void Fissures aparecem **no painel de Void Fissures** do Star Chart, sempre asso
 - **Relíquia Axi em volume:** endless Axi, porque as peças Prime mais caras concentram-se nesse tier.
 - **Steel Path:** a fenda **não exige o nó desbloqueado**, o que é o atalho para fissuras de tier alto numa conta nova.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Void Fissure
+
 
 | Recompensa | Origem | Nota |
 |---|---|---|
@@ -107,9 +112,9 @@ Void Fissures aparecem **no painel de Void Fissures** do Star Chart, sempre asso
 | **Recompensa normal do nó** | O tipo de missão de base | A fenda **não substitui** a tabela normal do nó |
 | **Boosters 1,25x a 2x** e relíquias **Exceptional / Flawless / Radiant** | Bônus de rotação em fissura **endless** | Ver tabela de intervalos acima |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Void Fissure
+
 
 - **Jogue em squad cheio sempre.** Cada jogador abre a própria relíquia e **todos escolhem entre as 4 recompensas** — é literalmente 4x a chance de a peça que você quer aparecer, sem custo nenhum.
 - **Fissura endless entrega relíquia refinada de graça.** Em vez de gastar **100 Void Traces** num Radiant, chegue ao intervalo certo de uma Defense ou Survival de fissura.
@@ -119,6 +124,3 @@ Void Fissures aparecem **no painel de Void Fissures** do Star Chart, sempre asso
 - **No [[mecanicas/steel_path.md|Steel Path]] a fenda ignora o desbloqueio do nó.** É a forma mais rápida de acessar fissuras Axi numa conta que ainda não limpou o Star Chart.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Void_Fissure — tiers de fenda, Omnia e Requiem, 10 Reactant, 6–30 Void Traces, conversão de Corrupted, buffs de equipamento corrompido (2x Força/Alcance, 100% eficiência de munição e +25% de dano), escolha de recompensa e +5 Traces, exclusões por tipo de missão, nós de Omnia em Lua/Zariman/Albrecht's, Void Storms e Void Sinks, bônus de rotação endless com boosters e relíquias refinadas (consultado em 2026-10-06)

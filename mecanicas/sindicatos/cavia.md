@@ -1,8 +1,13 @@
 ---
 title: Cavia
+aliases: [Cavia]
 tipo: mecanica
+resumo: "Cavia — Os três animais que o Albrecht Entrati mandou para o Void e que voltaram com inteligência humana; sindicato neutro do Sanctum Anatomica cuja moeda são Voca, e que destrava Netracells e Deep Archimedea."
+status: completo
+rag: true
 tags: [mecanica, sindicato, cavia, sanctum-anatomica, voca, albrecht, neutro]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Cavia", "https://wiki.warframe.com/w/Helminth"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -15,9 +20,9 @@ agente: opus
 > [!warning] Spoiler — Whispers in the Walls
 > Todo o conteúdo abaixo depende de concluir **Whispers in the Walls**.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Cavia
+
 
 A **Cavia** são **três espécimes animais sobreviventes** de um experimento do cientista Orokin **[[lore/personagens/albrecht_entrati.md\|Albrecht Entrati]]**, que os enviou ao Void e a quem eles hoje chamam de **"Papa"**. Junto com o assistente dele, o **[[lore/personagens/loid.md\|Loid]]**, eles guardam os **Albrecht's Laboratories** e continuam a pesquisa dele. Moram no **Sanctum Anatomica**, o laboratório principal do Albrecht, escondido **sob o Necralisk** em Deimos.
 
@@ -27,9 +32,9 @@ Ganharam **inteligência humana** no contato com o Void, mas só falavam **Voidt
 
 Mecanicamente é um **sindicato neutro**: o Standing vem de **bounties com o Fibonacci** e de **entregar Voca ao Loid**.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Cavia
+
 
 ```
 Standing por entrega ao Loid:
@@ -77,9 +82,9 @@ Deep Archimedea (as 3 missões) = 15.000 Standing
 - **Deep Archimedea só destrava no Rank 5 (Illuminate).**
 - Sendo neutro, não há demoção nem Standing negativo.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Cavia
+
 
 ### Ranks, sacrifícios e benefícios
 
@@ -110,9 +115,9 @@ Deep Archimedea (as 3 missões) = 15.000 Standing
 | **Bellow** | 1.000 | 2 garantidos por missão + 25% dos 5 restantes · Bounty Tier 3 e 4 |
 | **Echo** | 2.000 | **1 garantido por missão** · Bounty Tier 5 · drop de **Gruzzling** (exceto Armatus) |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Cavia
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -125,9 +130,9 @@ Deep Archimedea (as 3 missões) = 15.000 Standing
 | Pegar as Incarnon do Albrecht | Onos e Ruvox saem de **Armatus, Deimos** (rotação) ou comprando do **Loid** com **Vessel Capillaries**. Ver [[mecanicas/incarnon.md\|Incarnon]] |
 | Pintar os bichos | Customização de cor dos animais da Cavia só no **Rank 5** |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Cavia
+
 
 - **"Todo Voca vale igual."** 500 / 1.000 / **2.000** para Shrill / Bellow / Echo.
 - **"Voca só vem de medalhão no mapa."** Também vem de **Bounty do Fibonacci** (por tier), de **Gruzzling** e das trocas por recurso do **Loid**.
@@ -138,9 +143,9 @@ Deep Archimedea (as 3 missões) = 15.000 Standing
 - **"O Coalescent Segment vem do Son."** Não. O **Son** vende o Helminth Segment e o Invigoration Segment (Entrati). O **Coalescent Segment** vem do **Bird 3**, no **Rank 2 da Cavia**.
 - **"São 3 Cavia desde o começo."** Eram mais animais no experimento; **três sobreviveram** com inteligência.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Cavia
+
 
 - [[mecanicas/helminth.md|Helminth]] — o **Helminth Coalescent Segment** (Rank 2, Bird 3, 30.000 Standing) é o que libera Coalescent Fusion e Ascent Fusion de Archon Shards.
 - [[mecanicas/sindicatos/entrati.md|Entrati]] — o sindicato da família, um nível acima no Necralisk; vende os outros dois Segments do Helminth.
@@ -157,7 +162,3 @@ Deep Archimedea (as 3 missões) = 15.000 Standing
 - [[recursos/raridades/comum/rubedo.md|Rubedo]] — 1.100 no sacrifício do Rank 1.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Cavia — origem dos Cavia e do experimento do Albrecht, requisito de Whispers in the Walls, todas as fontes de Standing com valores exatos por tipo de Voca, distribuição garantida dos 8 Voca por missão, chances por tier de Bounty, exceção do Gruzzling em Armatus, 5.000 por Netracell e 15.000 por Deep Archimedea, ciclo de 8 h das trocas do Loid, tabela completa de ranks com sacrifício e benefício, destrave de Deep Archimedea no Rank 5 (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Helminth — custo e rank do Helminth Coalescent Segment com o Bird 3 (30.000 Standing, Rank 2 Researcher) (consultado em 2026-10-04)

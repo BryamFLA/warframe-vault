@@ -1,10 +1,15 @@
 ---
 title: Kuva Fortress
+aliases: [Kuva Fortress, Fortaleza Kuva]
 tipo: local
 subtipo: planeta
 faccao: grineer
+resumo: "Kuva Fortress — Fortaleza-asteroide móvel da Worm Queen lore/faccoes/grineer.md|Grineer, com 8 nós de nível 28–40."
+status: completo
+rag: true
 tags: [local, planeta, grineer]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Kuva_Fortress", "https://wiki.warframe.com/w/Module:Missions/data", "https://wiki.warframe.com/w/Survival"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -14,9 +19,9 @@ agente: opus
 > [!info] Resumo
 > Fortaleza-asteroide móvel da **Worm Queen** [[lore/faccoes/grineer.md|Grineer]], com 8 nós de nível 28–40. É a fonte de **[[recursos/raridades/raro/kuva.md|Kuva]]** do jogo e o único lugar com a missão **[[missoes/tipos/assault.md|Assault]]**. Exige **[[missoes/jornadas/principais/the_war_within.md|The War Within]]**.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Kuva Fortress
+
 
 | Item | Valor |
 |---|---|
@@ -34,9 +39,9 @@ agente: opus
 >
 > Isso tem consequência prática direta: **os planetas ao redor da Kuva Fortress conforme ela viaja passam a ter missões de Kuva Siphon.** Se você quer farmar Kuva, olhe onde a Fortaleza está agora — os nós de Siphon ficam na vizinhança dela, não nela.
 
----
 
-## 💎 Recursos Nativos
+## 💎 Recursos — Kuva Fortress
+
 
 | Recurso | Raridade | Melhor nó |
 |---|---|---|
@@ -46,9 +51,9 @@ agente: opus
 | **[[recursos/raridades/raro/neural_sensors.md\|Neural Sensors]]** | Raro | **Taveuni** (Survival) — é o único recurso raro da região e o motivo principal de farmar aqui em vez de Júpiter |
 | **[[recursos/raridades/raro/kuva.md\|Kuva]]** | Raro / especial | **Taveuni** — ver a mecânica única abaixo |
 
----
 
-## 🎯 Nós Notáveis
+## 🗺️ Missões — Kuva Fortress
+
 
 | Nó | Tipo de missão | Nível | Por que importa |
 |---|---|---|---|
@@ -70,26 +75,21 @@ O preço: **a torre devolve apenas 10% de suporte de vida em vez dos 30% normais
 > [!tip] Taveuni não é a melhor fonte de Kuva
 > Apesar de ser a mecânica mais chamativa, o farm padrão de Kuva no jogo são as **missões de Kuva Siphon** nos planetas **ao redor** da Fortaleza (que mudam a cada 50 horas), não Taveuni. Taveuni vale quando você já está lá farmando Neural Sensors.
 
----
 
-## 🧟 Inimigos
+## 🧟 Inimigos — Kuva Fortress
+
 
 Tropas **Kuva Grineer** — a guarda pessoal da Worm Queen, mais fortes que os Grineer regulares do Star Chart. Como todo Grineer, usam armadura **Ferrite** e **Alloy**, o que faz de **Corrosivo** (Elétrico + Tóxico) e **Radiation** as combinações elementais de referência contra eles.
 
 > [!note] Archwing na Fortaleza
 > **Inimigos de Archwing atacam nos tiles de céu aberto.** Mas **não há nenhuma missão dedicada de Archwing no planeta**, e **apesar de o Archwing ser exigido em todas as missões**, os tiles com elementos de Archwing são **raros**.
 
----
 
-## 📖 Lore
+## 📖 História — Kuva Fortress
+
 
 A Kuva Fortress é a sede da **Worm Queen**, a rainha Grineer sobrevivente, e o cofre do **[[recursos/raridades/raro/kuva.md|Kuva]]** — o fluido do Void extraído da **Torre de Kuva** que as Queens usam para se manter vivas através de transferência de consciência. Chegar a ela é o clímax de **[[missoes/jornadas/principais/the_war_within.md|The War Within]]**, quando o Tenno é capturado, torturado e descobre o próprio poder de Void — e usa o Kuva da Queen contra ela.
 
 Depois da jornada, a Fortaleza fica aberta como região normal do Star Chart. O **[[missoes/tipos/assassination_railjack.md|Kuva Lich]]** — o sistema de nêmesis Grineer — nasce do Kuva da Fortaleza, mas o confronto final acontece em **Saturn Proxima**, não aqui.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Kuva_Fortress — movimento pelo Star Chart com ciclo de 50 horas, relação com os nós de Kuva Siphon nos planetas vizinhos, mecânica única de Taveuni, inimigos de Archwing em tiles abertos sem missão dedicada (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Missions/data — os 8 nós com tipo, facção, faixa de nível, tileset e pré-requisitos; recursos de região da Kuva Fortress (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Survival — números do Kuva Survival de Taveuni: Kuva Catalyst, Harvester de 4.000 de vida, timer de 1 min, 200 Kuva, torre devolvendo 10% em vez de 30% (consultado em 2026-10-06)

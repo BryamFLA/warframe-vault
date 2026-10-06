@@ -1,11 +1,16 @@
 ---
 title: Seeking Force
+aliases: [Seeking Force]
 tipo: mod
 categoria: arma
-polaridade: Naramon
 raridade: raro
+polaridade: Naramon
+resumo: Seeking Force — +2.1 Punch Through.
+status: completo
+rag: true
 tags: [mod, arma]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Seeking_Force", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Mods/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -15,9 +20,9 @@ agente: opus
 > [!info] Efeito no rank máximo
 > **+2.1 Punch Through**
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Seeking Force
+
 
 | Item | Valor |
 |---|---|
@@ -31,9 +36,9 @@ agente: opus
 | Transmutável | **Sim** |
 | Introduzido no Update | **lançamento do jogo (Update 0)** |
 
----
 
-## 📈 Efeito por Rank
+## 📈 Efeito por Rank — Seeking Force
+
 
 <!-- Valores copiados da seção Stats da página do mod na wiki. Nenhum valor interpolado. -->
 
@@ -49,9 +54,9 @@ agente: opus
 > [!note] A drenagem sobe 1 por rank
 > Regra do jogo, visível na própria tabela: a drenagem no rank R é **6 + R**.
 
----
 
-## 🏗️ Onde Obter
+## 🌍 Onde Conseguir — Seeking Force
+
 
 | Fonte | Tipo | Chance do mod na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -66,9 +71,9 @@ agente: opus
 
 **Faixa de preço em platina:** ⚠️ **estimativa não fornecida.** Pela seção 8 das convenções, preço de platina é mercado flutuante e não é registrado aqui. Consulte warframe.market no momento da compra.
 
----
 
-## 🛠️ Uso
+## 🛠️ Como Usar — Seeking Force
+
 
 **Vale a pena?** **Depende da build.** Mod **Rare** — a raridade mais disputada por slot. Vale conferir a tabela de drop acima antes de farmar, porque a chance costuma ser baixa.
 
@@ -84,8 +89,3 @@ Os mods abaixo são **mutuamente exclusivos** com este — o jogo não deixa equ
 - **Flawed Seeking Force**
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Seeking_Force — efeito por rank, polaridade, drenagem, raridade e incompatibilidades (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Mods/data — ficha do mod: tipo, classe, comercializável, transmutável, update de introdução (consultado em 2026-10-06)

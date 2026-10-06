@@ -1,8 +1,13 @@
 ---
 title: Necraloid
+aliases: [Necraloid]
 tipo: mecanica
+resumo: "Necraloid — Máquinas Entrati operadas por Cephalons, representadas pelo Loid numa porta dos fundos do Necralisk; sindicato neutro de apenas 3 ranks, cuja moeda são Orokin Matrices e cujo catálogo é inteiramente Necramech."
+status: completo
+rag: true
 tags: [mecanica, sindicato, necraloid, loid, necramech, deimos, neutro]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Necraloid"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -15,9 +20,9 @@ agente: opus
 > [!warning] Spoiler — Heart of Deimos e The War Within
 > Exige concluir **Heart of Deimos** e **The War Within**. A porta dos fundos no extremo norte do Necralisk **só abre para o Operator** — até você concluir **Whispers in the Walls**, que libera o acesso sem trocar para o Operator.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Necraloid
+
 
 Os **Necraloids** são **máquinas Entrati operadas por Cephalons**, servindo como servos leais à família. Habitam chassis arcaicos mas confiáveis, com medalhões em relevo, que permitem interagir com o mundo físico. **O único Necraloid conhecido é o [[lore/personagens/loid.md\|Loid]]**, que continua prestando serviço aos Entrati.
 
@@ -28,9 +33,9 @@ Subir de rank com os Entrati **e** com a Necraloid também revela **lore narrada
 > [!important] Só 3 ranks
 > A Necraloid é o sindicato mais curto do jogo: **Rank 0 a Rank 3**, com nomes de nível de autorização (Clearance). Não existe Rank 4 nem 5.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Necraloid
+
 
 ```
 Standing por entrega ao Loid:
@@ -57,9 +62,9 @@ De onde vêm as Matrices:
 - Sendo neutro, não há demoção nem Standing negativo.
 - Nenhum rank cobra **Credits**.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Necraloid
+
 
 ### Ranks, sacrifícios e benefícios
 
@@ -80,9 +85,9 @@ De onde vêm as Matrices:
 | **Armas de Archgun / Necramech** | [[armas/archwing/morgha.md\|Morgha]] · [[armas/archwing/cortege.md\|Cortege]] |
 | **Mods de Necramech** | Necramech Vitality · Necramech Refuel · Necramech Intensify · Necramech Pressure Point · Necramech Efficiency · Necramech Drift · Necramech Friction · Necramech Flow |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Necraloid
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -94,9 +99,9 @@ De onde vêm as Matrices:
 | Levar Necramech ao rank 40 | Necramech passa do rank 30 com **Forma**, 2 ranks por polarização, até o rank 40 — **8.000 de Mastery** no total. Ver [[mecanicas/forma_e_polaridades.md\|Forma e Polaridades]] |
 | Desbloquear a lore do Albrecht | Subir **Entrati e Necraloid** revela os fragmentos narrados pelo **Albrecht Entrati** |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Necraloid
+
 
 - **"A Necraloid tem 5 ranks."** Tem **3**: Clearance Agnesis, Modus e Odima.
 - **"Dá para subir a Necraloid sem os Entrati."** Não. Cada rank cobra **20 Father Tokens**, que só vêm do Father.
@@ -107,9 +112,9 @@ De onde vêm as Matrices:
 - **"Subir Necraloid derruba algum sindicato."** É **neutro**.
 - **"Os ranks custam Credits."** Nenhum rank da Necraloid cobra Credits — cobram Matrices, Void Traces, blueprint de barrel e Father Tokens.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Necraloid
+
 
 - [[mecanicas/sindicatos/entrati.md|Entrati]] — fornece os **20 Father Tokens** de cada rank; o Loid colabora com o Father em segredo.
 - [[mecanicas/sindicatos/cavia.md|Cavia]] — o terceiro sindicato de Deimos; o Loid também trabalha com eles no Sanctum Anatomica.
@@ -125,6 +130,3 @@ De onde vêm as Matrices:
 - [[armas/archwing/morgha.md|Morgha]] e [[armas/archwing/cortege.md|Cortege]] — as duas armas de Necramech do Rank 3.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Necraloid — requisitos de acesso (Heart of Deimos, The War Within, porta só para o Operator, conveniência após Whispers in the Walls), valores exatos de Standing por Orokin Matrix, origem das Matrices, tabela completa dos 3 ranks com sacrifício e item grátis, catálogo de Necramech e mods, lore do Loid e do Otak (consultado em 2026-10-04)

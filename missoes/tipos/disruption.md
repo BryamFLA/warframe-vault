@@ -1,9 +1,14 @@
 ---
 title: Disruption
+aliases: [Disruption]
 tipo: missao
 subtipo: tipo
+resumo: Disruption — Ativar quatro Conduits com chaves dropadas por unidades pesadas e impedir que o Demolyst chegue a eles em 2 minutos — cada Conduit aplica um buff ou debuff que dura a rodada.
+status: completo
+rag: true
 tags: [missao, tipo]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Disruption"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Ativar quatro Conduits com chaves dropadas por unidades pesadas e impedir que o Demolyst chegue a eles em 2 minutos — cada Conduit aplica um buff ou debuff que dura a rodada.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Disruption
+
 
 | Item | Detalhe |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Squad recomendado | Squad cheio — um Conduit por jogador |
 | Tipo | **Endless** — recompensa por rodada |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Disruption
+
 
 1. No início há **um único terminal**. **Hackeá-lo começa o objetivo**, e ondas infinitas de inimigos começam a nascer.
 2. Em cada rodada, **quatro Conduits** aparecem pelo mapa, nas cores **amarelo, branco, azul e ciano**. Eles exigem **chaves**, dropadas por **unidades pesadas (frequentemente Eximus)** e por unidades especiais de certos nós: **Amalgams** em Ganymede (Júpiter) e **Gruzzlings** em Armatus (Deimos).
@@ -54,9 +59,9 @@ agente: opus
 
 Às vezes aparecem **Conduit Failsafes** pelo mapa, que podem ser usados **num Conduit ativo** para **anular os efeitos de todos os Conduits pelo resto da rodada**. São **de uso único**, e **existe apenas um por missão**.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Disruption
+
 
 | Onde | Detalhe |
 |---|---|
@@ -67,9 +72,9 @@ agente: opus
 
 **Melhor nó para farmar:** Disruption é um dos melhores tipos para **farm por rodada** porque o ciclo é curto e as 4 recompensas vêm juntas.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Disruption
+
 
 | Recompensa | Rotação / Chance | Nota |
 |---|---|---|
@@ -79,18 +84,18 @@ agente: opus
 > [!warning] ⚠️ Confirmar na wiki
 > As tabelas de recompensa variam por nó (Ganymede e Armatus têm as suas). Confira a drop table do nó antes do farm.
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Disruption
+
 
 - **Mate as unidades pesadas primeiro**: elas dropam as chaves. Sem chave, não há rodada.
 - **O apito do Demo é a sua melhor informação** — e o marcador fica preciso em linha de visão. Intercepte longe do Conduit, não em cima dele.
 - **Guarde o Conduit Failsafe** para a rodada em que os debuffs forem insuportáveis. É um por missão.
 - **Divida os Conduits** em squad: um jogador por cor acelera a rodada e reduz o risco de perder o de buff.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Disruption
+
 
 - **[[missoes/tipos/interception.md|Interception]]** — o outro endless de controlar pontos.
 - **[[missoes/tipos/defense.md|Defense]]** — o endless de proteger objetivo fixo.
@@ -98,6 +103,3 @@ agente: opus
 - **[[lore/faccoes/corpus.md|Amalgams]]** — as unidades que dropam chave em Ganymede.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Disruption (consultado em 2026-10-04)

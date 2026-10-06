@@ -1,30 +1,34 @@
 ---
 title: Brasões e Emblemas
+aliases: [Brasões e Emblemas, Brasoes e Emblemas, brasoes emblemas]
 tipo: cosmetico
-tags:
-  - cosmetico
-  - brasao
-  - emblema
-  - sigil
-atualizado: 2026-04-19
+resumo: "Brasões e Emblemas — ver corpo do arquivo."
+status: parcial
+rag: true
+tags: [cosmetico, brasao, emblema, sigil]
+atualizado: 2026-10-07
+agente: opus
 ---
 
-## O que são Brasões e Emblemas?
+# Brasões e Emblemas
+
+## O que são Brasões e Emblemas? — Brasões e Emblemas
+
 
 **Sigils (Brasões)** são marcas decorativas aplicadas no peito ou nas costas do Warframe. **Emblemas** são pequenos badges menores aplicados no ombro.
 
----
 
-## Tipos
+## Tipos — Brasões e Emblemas
+
 
 | Tipo | Localização | Descrição |
 |---|---|---|
 | **Sigil** | Peito / Costas | Marca grande, personalizável em posição e tamanho |
 | **Emblema** | Ombro esquerdo / direito | Badge menor, geralmente de clã ou evento |
 
----
 
-## Sigils de Sindicato
+## Sigils de Sindicato — Brasões e Emblemas
+
 
 Cada sindicato tem um sigil próprio que demonstra afiliação:
 
@@ -39,9 +43,9 @@ Cada sindicato tem um sigil próprio que demonstra afiliação:
 
 > Sigils de sindicato ganham XP ao serem usados em missões — não é obrigatório mas acelera o standing visual.
 
----
 
-## Aquisição
+## 🌍 Onde Conseguir — Brasões e Emblemas
+
 
 | Fonte | Tipo |
 |---|---|
@@ -52,9 +56,9 @@ Cada sindicato tem um sigil próprio que demonstra afiliação:
 | **Nightwave** | Sigils como recompensas de rank |
 | **Conquistas** | Alguns sigils desbloqueiam por milestones (MR máximo, etc.) |
 
----
 
-## Observações
+## 📝 Observações — Brasões e Emblemas
+
 
 - Emblemas de clã são criados pelo Warlord ou líderes e aplicados a todos os membros
 - Sigils podem ser redimensionados e reposicionados livremente na tela de customização

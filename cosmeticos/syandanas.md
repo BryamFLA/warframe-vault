@@ -1,19 +1,25 @@
 ---
 title: Syandanas
+aliases: [Syandanas]
 tipo: cosmetico
-tags:
-  - cosmetico
-  - syandana
-atualizado: 2026-04-19
+resumo: "Syandanas são capas, véus e ornamentos dorsais equipados no Warframe."
+status: parcial
+rag: true
+tags: [cosmetico, syandana]
+atualizado: 2026-10-07
+agente: opus
 ---
 
-## O que são Syandanas?
+# Syandanas
+
+## O que são Syandanas? — Syandanas
+
 
 Syandanas são capas, véus e ornamentos dorsais equipados no Warframe. Vão desde capas simples até estruturas elaboradas com físicas e efeitos de partícula.
 
----
 
-## Categorias Visuais
+## Categorias Visuais — Syandanas
+
 
 | Estilo | Exemplos |
 |---|---|
@@ -24,9 +30,9 @@ Syandanas são capas, véus e ornamentos dorsais equipados no Warframe. Vão des
 | **Tennogen** | Criadas pela comunidade |
 | **Sindicato** | Algumas syandanas são recompensas de standing de sindicatos |
 
----
 
-## Aquisição
+## 🌍 Onde Conseguir — Syandanas
+
 
 - **Mercado** (Platinum) — maioria das syandanas
 - **Prime Access / Prime Vault** — sempre incluem uma syandana Prime exclusiva
@@ -34,9 +40,9 @@ Syandanas são capas, véus e ornamentos dorsais equipados no Warframe. Vão des
 - **Nightwave** — rotação periódica como recompensa
 - **Eventos e Login Rewards** — ocasionalmente
 
----
 
-## Observações
+## 📝 Observações — Syandanas
+
 
 - Syandanas têm física simulada — reagem ao movimento e parkour do frame
 - Algumas são exclusivas de pacotes e nunca voltam ao mercado individualmente

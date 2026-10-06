@@ -1,18 +1,16 @@
 ---
 title: Armas Brancas — Índice
+aliases: [Armas Brancas — Índice, Armas Brancas — Indice, Armas  Brancas  Indice]
 tipo: index
 categoria: arma-branca
-tags:
-  - index
-  - arma
-  - branca
-  - melee
-atualizado: 2026-04-23
+resumo: Armas brancas (melee) são o slot de combate corpo-a-corpo do Tenno.
+status: completo
+rag: true
+tags: [index, arma, branca, melee]
+atualizado: 2026-10-07
+agente: opus
 total-brancas: 135
-indices-relacionados:
-  - _Armas _Indice
-  - _Mods Armas _Indice
-  - _Mods _Indice
+indices-relacionados: [_Armas _Indice, _Mods Armas _Indice, _Mods _Indice]
 ---
 
 # Armas Brancas — Índice
@@ -20,17 +18,17 @@ indices-relacionados:
 > [!quote]
 > *"O verdadeiro poder do Tenno não está na arma — está nas mãos que a empunham."*
 
----
 
-## Visão Geral
+## 📊 Visão Geral — Armas Brancas — Índice
+
 
 Armas brancas (melee) são o slot de combate corpo-a-corpo do Tenno. São as armas com mecânicas mais profundas do jogo — **stances** que substituem completamente os ataques básicos, um **combo counter** que amplifica o dano progressivamente e **heavy attacks** devastadores que consomem o contador acumulado.
 
 **Slot:** Melee · **Mods:** 8 slots + slot de Stance (exclusivo) + Exilus (com adaptador)
 
----
 
-## Sistema de Stances
+## Sistema de Stances — Armas Brancas — Índice
+
 
 Stances são **mods exclusivos de armas brancas** que substituem completamente os ataques normais por sequências de combos específicos da arma. São o sistema mais importante para entender o melee.
 
@@ -66,9 +64,9 @@ Stances são **mods exclusivos de armas brancas** que substituem completamente o
 | Espingarda Melee (Gunblade) | Bullet Dance · High Noon |
 | Leques (Warfan) | Slicing Feathers |
 
----
 
-## Combo Counter
+## Combo Counter — Armas Brancas — Índice
+
 
 O **Combo Counter** é um multiplicador que aumenta a cada golpe acertado e diminui após um período sem ataques (padrão: 5 segundos).
 
@@ -89,9 +87,9 @@ O **Combo Counter** é um multiplicador que aumenta a cada golpe acertado e dimi
 | **Berserker Fury** | Aumenta attack speed após acerto crítico |
 | **Killing Blow** | Aumenta dano de heavy attack |
 
----
 
-## Heavy Attacks
+## Heavy Attacks — Armas Brancas — Índice
+
 
 Heavy attacks (botão de ataque segurado) **consomem todo o combo counter** para desferir um golpe de alto dano multiplicado:
 
@@ -102,9 +100,9 @@ Heavy attacks (botão de ataque segurado) **consomem todo o combo counter** para
 > [!warning] Perda total do Combo
 > Heavy attacks **zeram o combo counter imediatamente**. Builds que usam Blood Rush geralmente evitam heavy attacks para manter o multiplicador alto.
 
----
 
-## Ataques Especiais
+## Ataques Especiais — Armas Brancas — Índice
+
 
 | Tipo | Gatilho | Efeito |
 |---|---|---|
@@ -113,9 +111,9 @@ Heavy attacks (botão de ataque segurado) **consomem todo o combo counter** para
 | **Ground Finisher** | Inimigo no chão | Dano alto com animação específica |
 | **Wall Attack** | Corrida em parede + ataque | Ataque durante parkour vertical |
 
----
 
-## Zaws — Armas Brancas Modulares
+## Zaws — Armas Brancas Modulares — Armas Brancas — Índice
+
 
 Zaws são brancas modulares montadas em **Cetus** (Planície de Eidolon) pelo NPC **Hok**. Três componentes:
 
@@ -128,155 +126,155 @@ Zaws são brancas modulares montadas em **Cetus** (Planície de Eidolon) pelo NP
 > [!tip]
 > Zaws também precisam ser gildados (rank 30 + Ostron Standing) para receber o nome permanente e contribuir com Mastery.
 
----
 
-## Lista Completa (135)
+## Lista Completa (135) — Armas Brancas — Índice
+
 
 | Arma | Tipo | Fonte |
 |---|---|---|
-| [[ack_and_brunt\|Ack e Brunt]] | Espada e Escudo | Pesquisa de Clã (Grineer) |
-| [[anku\|Anku]] | Foice | Pesquisa de Clã (Grineer) |
-| [[arca_titron\|Arca Titron]] | Martelo | Pesquisa de Clã (Corpus) |
-| [[arum_spinosa\|Arum Spinosa]] | Lâmina e Chicote | Pesquisa de Clã (Entrati) |
-| [[atterax\|Atterax]] | Chicote | Mercado (blueprint) |
-| [[bo\|Bo]] | Cajado | Mercado (blueprint) |
-| [[bo_prime\|Bo Prime]] | Cajado | Relíquias (Prime) |
-| [[boltace\|Boltace]] | Espadas Duplas | Pesquisa de Clã (Corpus) |
-| [[broken_sword\|Broken Sword]] | Espada | Drop (Stalker) |
-| [[broken_war\|Broken War]] | Espada | Drop (Stalker — partes de War) |
-| [[ceramic_dagger\|Ceramic Dagger]] | Adaga | Mercado (blueprint) |
-| [[cobra_and_crane\|Cobra e Crane]] | Espada e Escudo | Pesquisa de Clã (Grineer) |
-| [[cronus\|Cronus]] | Espada | Drop (Ambulas, Pluto) |
-| [[dakra_prime\|Dakra Prime]] | Espada | Relíquias (Prime) |
-| [[dark_dagger\|Dark Dagger]] | Adaga | Mercado (blueprint) |
-| [[dark_split_sword\|Dark Split-Sword]] | Espada Pesada / Dupla | Mercado (blueprint) |
-| [[dark_sword\|Dark Sword]] | Espada | Mercado (blueprint) |
-| [[destreza\|Destreza]] | Espadim | Mercado (blueprint) |
-| [[destreza_prime\|Destreza Prime]] | Espadim | Relíquias (Prime) |
-| [[dragon_nikana\|Dragon Nikana]] | Nikana | Mercado (blueprint + componentes Clã) |
-| [[dual_cleavers\|Dual Cleavers]] | Espadas Duplas | Mercado (blueprint) |
-| [[dual_ether\|Dual Ether]] | Espadas Duplas | Mercado (blueprint) |
-| [[dual_heat_swords\|Dual Heat Swords]] | Espadas Duplas | Mercado (blueprint) |
-| [[dual_ichor\|Dual Ichor]] | Espadas Duplas | Mercado (blueprint) |
-| [[dual_kamas\|Dual Kamas]] | Espadas Duplas | Mercado (blueprint) |
-| [[dual_kamas_prime\|Dual Kamas Prime]] | Espadas Duplas | Relíquias (Prime) |
-| [[dual_skana\|Dual Skana]] | Espadas Duplas | Mercado (blueprint) |
-| [[dual_zoren\|Dual Zoren]] | Espadas Duplas | Mercado (blueprint) |
-| [[ether_daggers\|Ether Daggers]] | Adagas Duplas | Mercado (blueprint) |
-| [[ether_reaper\|Ether Reaper]] | Foice | Mercado (blueprint) |
-| [[ether_sword\|Ether Sword]] | Espada | Mercado (blueprint) |
-| [[fang\|Fang]] | Espadas Duplas | Mercado (blueprint) |
-| [[fang_prime\|Fang Prime]] | Espadas Duplas | Relíquias (Prime) |
-| [[fragor\|Fragor]] | Martelo | Mercado (blueprint) |
-| [[fragor_prime\|Fragor Prime]] | Martelo | Relíquias (Prime) |
-| [[furax\|Furax]] | Garras | Mercado (blueprint) |
-| [[furax_wraith\|Furax Wraith]] | Garras | Nightwave / Evento |
-| [[galatine\|Galatine]] | Espada Pesada | Mercado (blueprint) |
-| [[galatine_prime\|Galatine Prime]] | Espada Pesada | Relíquias (Prime) |
-| [[galvacord\|Galvacord]] | Chicote | Pesquisa de Clã (Grineer) |
-| [[glaive\|Glaive]] | Glaive | Mercado (blueprint) |
-| [[glaive_prime\|Glaive Prime]] | Glaive | Relíquias (Prime) |
-| [[gram\|Gram]] | Espada Pesada | Mercado (blueprint) |
-| [[gram_prime\|Gram Prime]] | Espada Pesada | Relíquias (Prime) |
-| [[guandao\|Guandao]] | Lança | Mercado (blueprint) |
-| [[guandao_prime\|Guandao Prime]] | Lança | Relíquias (Prime) |
-| [[halikar\|Halikar]] | Glaive | Mercado (blueprint) |
-| [[halikar_wraith\|Halikar Wraith]] | Glaive | Nightwave / Evento |
-| [[hate\|Hate]] | Foice | Drop (Stalker) |
-| [[heat_sword\|Heat Sword]] | Espada | Mercado (blueprint) |
-| [[hirudo\|Hirudo]] | Garras | Pesquisa de Clã (Grineer) |
-| [[innodem\|Innodem]] | Espada | Pesquisa de Clã (Entrati) |
-| [[jat_kittag\|Jat Kittag]] | Martelo | Mercado (blueprint) |
-| [[jat_kusar\|Jat Kusar]] | Cajado | Pesquisa de Clã (Corpus) |
-| [[jaw_sword\|Jaw Sword]] | Espada | Mercado (blueprint) |
-| [[karyst\|Karyst]] | Adaga | Mercado (blueprint) |
-| [[karyst_prime\|Karyst Prime]] | Adaga | Relíquias (Prime) |
-| [[kesheg\|Kesheg]] | Lança | Pesquisa de Clã (Grineer) |
-| [[kestrel\|Kestrel]] | Glaive | Mercado (blueprint) |
-| [[krohkur\|Krohkur]] | Espada | Mercado (blueprint) |
-| [[kronen\|Kronen]] | Tonfa | Pesquisa de Clã (Corpus) |
-| [[kronen_prime\|Kronen Prime]] | Tonfa | Relíquias (Prime) |
-| [[kuva_shildeg\|Kuva Shildeg]] | Martelo | Kuva Lich |
-| [[lacera\|Lacera]] | Lâmina e Chicote | Pesquisa de Clã (Corpus) |
-| [[lecta\|Lecta]] | Chicote | Mercado (blueprint) |
-| [[lesion\|Lesion]] | Lança | Pesquisa de Clã (Entrati) |
-| [[machete\|Machete]] | Facão | Mercado (blueprint) |
-| [[machete_wraith\|Machete Wraith]] | Facão | Nightwave / Evento |
-| [[magistar\|Magistar]] | Martelo | Pesquisa de Clã (Grineer) |
-| [[magistar_wraith\|Magistar Wraith]] | Martelo | Nightwave / Evento |
-| [[mios\|Mios]] | Lâmina e Chicote | Pesquisa de Clã (Entrati) |
-| [[mire\|Mire]] | Espada | Drop (Ambulas, Pluto) |
-| [[nami_duo\|Nami Duo]] | Espadas Duplas | Pesquisa de Clã (Corpus) |
-| [[nami_solo\|Nami Solo]] | Espada | Pesquisa de Clã (Corpus) |
-| [[nikana\|Nikana]] | Nikana | Mercado (blueprint) |
-| [[nikana_prime\|Nikana Prime]] | Nikana | Relíquias (Prime) |
-| [[ninkondi\|Ninkondi]] | Nunchaku | Pesquisa de Clã (Corpus) |
-| [[ninkondi_prime\|Ninkondi Prime]] | Nunchaku | Relíquias (Prime) |
-| [[ohma\|Ohma]] | Tonfa | Pesquisa de Clã (Corpus) |
-| [[okina\|Okina]] | Espadas Duplas | Pesquisa de Clã (Corpus) |
-| [[okina_prime\|Okina Prime]] | Espadas Duplas | Relíquias (Prime) |
-| [[orthos\|Orthos]] | Lança | Mercado (blueprint) |
-| [[orthos_prime\|Orthos Prime]] | Lança | Relíquias (Prime) |
-| [[orvius\|Orvius]] | Glaive | Quest (Chains of Harrow) |
-| [[pangolin_prime\|Pangolin Prime]] | Espada | Relíquias (Prime) |
-| [[pangolin_sword\|Pangolin Sword]] | Espada | Mercado (blueprint) |
-| [[paracesis\|Paracesis]] | Espada Pesada | Quest (The Sacrifice) |
-| [[pennant\|Pennant]] | Espada Pesada | Pesquisa de Clã (Entrati) |
-| [[plasma_sword\|Plasma Sword]] | Espada | Mercado (blueprint) |
-| [[praedos\|Praedos]] | Tonfa | Pesquisa de Clã (Entrati) |
-| [[prisma_dual_cleavers\|Prisma Dual Cleavers]] | Espadas Duplas | Baro Ki'Teer |
-| [[prisma_skana\|Prisma Skana]] | Espada | Baro Ki'Teer |
-| [[prova\|Prova]] | Lança | Pesquisa de Clã (Corpus) |
-| [[prova_vandal\|Prova Vandal]] | Lança | Nightwave / Evento |
-| [[pulmonars\|Pulmonars]] | Leques | Pesquisa de Clã (Entrati) |
-| [[rakta_dark_dagger\|Rakta Dark Dagger]] | Adaga | Sindicato (Red Veil) |
-| [[reaper_prime\|Reaper Prime]] | Foice | Relíquias (Prime) |
-| [[redeemer\|Redeemer]] | Espingarda Melee | Pesquisa de Clã (Tenno) |
-| [[redeemer_prime\|Redeemer Prime]] | Espingarda Melee | Relíquias (Prime) |
-| [[ripkas\|Ripkas]] | Garras | Pesquisa de Clã (Grineer) |
-| [[sarpa\|Sarpa]] | Espingarda Melee | Pesquisa de Clã (Tenno) |
-| [[scoliac\|Scoliac]] | Chicote | Pesquisa de Clã (Grineer) |
-| [[secura_lecta\|Secura Lecta]] | Chicote | Sindicato (Perrin Sequence) |
-| [[shaku\|Shaku]] | Cajado | Pesquisa de Clã (Corpus) |
-| [[sheev\|Sheev]] | Adaga | Pesquisa de Clã (Grineer) |
-| [[sigma_and_octantis\|Sigma e Octantis]] | Espada e Escudo | Evento (Aniversário DE) |
-| [[silva_and_aegis\|Silva e Aegis]] | Espada e Escudo | Mercado (blueprint) |
-| [[silva_and_aegis_prime\|Silva e Aegis Prime]] | Espada e Escudo | Relíquias (Prime) |
-| [[skana\|Skana]] | Espada | Starter / Mercado |
-| [[skana_prime\|Skana Prime]] | Espada | Relíquias (Prime) |
-| [[skiajati\|Skiajati]] | Nikana | Quest (The Sacrifice) |
-| [[stiletto_prime\|Stiletto Prime]] | Adaga | Relíquias (Prime) |
-| [[stropha\|Stropha]] | Espingarda Melee | Pesquisa de Clã (Tenno) |
-| [[sydon\|Sydon]] | Lança | Pesquisa de Clã (Grineer) |
-| [[tatsu\|Tatsu]] | Espada Pesada | Pesquisa de Clã (Entrati) |
-| [[tatsu_prime\|Tatsu Prime]] | Espada Pesada | Relíquias (Prime) |
-| [[tekko\|Tekko]] | Garras | Mercado (blueprint) |
-| [[tekko_prime\|Tekko Prime]] | Garras | Relíquias (Prime) |
-| [[telos_boltace\|Telos Boltace]] | Espadas Duplas | Sindicato (Arbiters of Hexis) |
-| [[tenet_exec\|Tenet Exec]] | Espada Pesada | Irmãs de Parvos |
-| [[tenet_grigori\|Tenet Grigori]] | Foice | Irmãs de Parvos |
-| [[tenet_livia\|Tenet Livia]] | Espadim | Irmãs de Parvos |
-| [[tipedo\|Tipedo]] | Lança | Mercado (blueprint) |
-| [[tipedo_prime\|Tipedo Prime]] | Lança | Relíquias (Prime) |
-| [[tonbo\|Tonbo]] | Lança | Pesquisa de Clã (Grineer) |
-| [[twin_basolk\|Twin Basolk]] | Adagas Duplas | Pesquisa de Clã (Grineer) |
-| [[vastilok\|Vastilok]] | Espingarda Melee | Pesquisa de Clã (Tenno) |
-| [[vaykor_sydon\|Vaykor Sydon]] | Lança | Sindicato (Steel Meridian) |
-| [[venka\|Venka]] | Garras | Pesquisa de Clã (Grineer) |
-| [[venka_prime\|Venka Prime]] | Garras | Relíquias (Prime) |
-| [[vitrica\|Vitrica]] | Espada Pesada | Pesquisa de Clã (Entrati) |
-| [[volnus\|Volnus]] | Martelo | Pesquisa de Clã (Corpus) |
-| [[volnus_prime\|Volnus Prime]] | Martelo | Relíquias (Prime) |
-| [[war\|War]] | Espada Pesada | Drop (Stalker) |
-| [[xoris\|Xoris]] | Glaive | Quest (The Deadlock Protocol) |
+| [[armas/brancas/ack_and_brunt.md\|Ack e Brunt]] | Espada e Escudo | Pesquisa de Clã (Grineer) |
+| [[armas/brancas/anku.md\|Anku]] | Foice | Pesquisa de Clã (Grineer) |
+| [[armas/brancas/arca_titron.md\|Arca Titron]] | Martelo | Pesquisa de Clã (Corpus) |
+| [[armas/brancas/arum_spinosa.md\|Arum Spinosa]] | Lâmina e Chicote | Pesquisa de Clã (Entrati) |
+| [[armas/brancas/atterax.md\|Atterax]] | Chicote | Mercado (blueprint) |
+| [[armas/brancas/bo.md\|Bo]] | Cajado | Mercado (blueprint) |
+| [[armas/brancas/bo_prime.md\|Bo Prime]] | Cajado | Relíquias (Prime) |
+| [[armas/brancas/boltace.md\|Boltace]] | Espadas Duplas | Pesquisa de Clã (Corpus) |
+| [[armas/brancas/broken_sword.md\|Broken Sword]] | Espada | Drop (Stalker) |
+| [[armas/brancas/broken_war.md\|Broken War]] | Espada | Drop (Stalker — partes de War) |
+| [[armas/brancas/ceramic_dagger.md\|Ceramic Dagger]] | Adaga | Mercado (blueprint) |
+| [[armas/brancas/cobra_and_crane.md\|Cobra e Crane]] | Espada e Escudo | Pesquisa de Clã (Grineer) |
+| [[armas/brancas/cronus.md\|Cronus]] | Espada | Drop (Ambulas, Pluto) |
+| [[armas/brancas/dakra_prime.md\|Dakra Prime]] | Espada | Relíquias (Prime) |
+| [[armas/brancas/dark_dagger.md\|Dark Dagger]] | Adaga | Mercado (blueprint) |
+| [[armas/brancas/dark_split_sword.md\|Dark Split-Sword]] | Espada Pesada / Dupla | Mercado (blueprint) |
+| [[armas/brancas/dark_sword.md\|Dark Sword]] | Espada | Mercado (blueprint) |
+| [[armas/brancas/destreza.md\|Destreza]] | Espadim | Mercado (blueprint) |
+| [[armas/brancas/destreza_prime.md\|Destreza Prime]] | Espadim | Relíquias (Prime) |
+| [[armas/brancas/dragon_nikana.md\|Dragon Nikana]] | Nikana | Mercado (blueprint + componentes Clã) |
+| [[armas/brancas/dual_cleavers.md\|Dual Cleavers]] | Espadas Duplas | Mercado (blueprint) |
+| [[armas/brancas/dual_ether.md\|Dual Ether]] | Espadas Duplas | Mercado (blueprint) |
+| [[armas/brancas/dual_heat_swords.md\|Dual Heat Swords]] | Espadas Duplas | Mercado (blueprint) |
+| [[armas/brancas/dual_ichor.md\|Dual Ichor]] | Espadas Duplas | Mercado (blueprint) |
+| [[armas/brancas/dual_kamas.md\|Dual Kamas]] | Espadas Duplas | Mercado (blueprint) |
+| [[armas/brancas/dual_kamas_prime.md\|Dual Kamas Prime]] | Espadas Duplas | Relíquias (Prime) |
+| [[armas/brancas/dual_skana.md\|Dual Skana]] | Espadas Duplas | Mercado (blueprint) |
+| [[armas/brancas/dual_zoren.md\|Dual Zoren]] | Espadas Duplas | Mercado (blueprint) |
+| [[armas/brancas/ether_daggers.md\|Ether Daggers]] | Adagas Duplas | Mercado (blueprint) |
+| [[armas/brancas/ether_reaper.md\|Ether Reaper]] | Foice | Mercado (blueprint) |
+| [[armas/brancas/ether_sword.md\|Ether Sword]] | Espada | Mercado (blueprint) |
+| [[armas/brancas/fang.md\|Fang]] | Espadas Duplas | Mercado (blueprint) |
+| [[armas/brancas/fang_prime.md\|Fang Prime]] | Espadas Duplas | Relíquias (Prime) |
+| [[armas/brancas/fragor.md\|Fragor]] | Martelo | Mercado (blueprint) |
+| [[armas/brancas/fragor_prime.md\|Fragor Prime]] | Martelo | Relíquias (Prime) |
+| [[armas/brancas/furax.md\|Furax]] | Garras | Mercado (blueprint) |
+| [[armas/brancas/furax_wraith.md\|Furax Wraith]] | Garras | Nightwave / Evento |
+| [[armas/brancas/galatine.md\|Galatine]] | Espada Pesada | Mercado (blueprint) |
+| [[armas/brancas/galatine_prime.md\|Galatine Prime]] | Espada Pesada | Relíquias (Prime) |
+| [[armas/brancas/galvacord.md\|Galvacord]] | Chicote | Pesquisa de Clã (Grineer) |
+| [[armas/brancas/glaive.md\|Glaive]] | Glaive | Mercado (blueprint) |
+| [[armas/brancas/glaive_prime.md\|Glaive Prime]] | Glaive | Relíquias (Prime) |
+| [[armas/brancas/gram.md\|Gram]] | Espada Pesada | Mercado (blueprint) |
+| [[armas/brancas/gram_prime.md\|Gram Prime]] | Espada Pesada | Relíquias (Prime) |
+| [[armas/brancas/guandao.md\|Guandao]] | Lança | Mercado (blueprint) |
+| [[armas/brancas/guandao_prime.md\|Guandao Prime]] | Lança | Relíquias (Prime) |
+| [[armas/brancas/halikar.md\|Halikar]] | Glaive | Mercado (blueprint) |
+| [[armas/brancas/halikar_wraith.md\|Halikar Wraith]] | Glaive | Nightwave / Evento |
+| [[armas/brancas/hate.md\|Hate]] | Foice | Drop (Stalker) |
+| [[armas/brancas/heat_sword.md\|Heat Sword]] | Espada | Mercado (blueprint) |
+| [[armas/brancas/hirudo.md\|Hirudo]] | Garras | Pesquisa de Clã (Grineer) |
+| [[armas/brancas/innodem.md\|Innodem]] | Espada | Pesquisa de Clã (Entrati) |
+| [[armas/brancas/jat_kittag.md\|Jat Kittag]] | Martelo | Mercado (blueprint) |
+| [[armas/brancas/jat_kusar.md\|Jat Kusar]] | Cajado | Pesquisa de Clã (Corpus) |
+| [[armas/brancas/jaw_sword.md\|Jaw Sword]] | Espada | Mercado (blueprint) |
+| [[armas/brancas/karyst.md\|Karyst]] | Adaga | Mercado (blueprint) |
+| [[armas/brancas/karyst_prime.md\|Karyst Prime]] | Adaga | Relíquias (Prime) |
+| [[armas/brancas/kesheg.md\|Kesheg]] | Lança | Pesquisa de Clã (Grineer) |
+| [[armas/brancas/kestrel.md\|Kestrel]] | Glaive | Mercado (blueprint) |
+| [[armas/brancas/krohkur.md\|Krohkur]] | Espada | Mercado (blueprint) |
+| [[armas/brancas/kronen.md\|Kronen]] | Tonfa | Pesquisa de Clã (Corpus) |
+| [[armas/brancas/kronen_prime.md\|Kronen Prime]] | Tonfa | Relíquias (Prime) |
+| [[armas/brancas/kuva_shildeg.md\|Kuva Shildeg]] | Martelo | Kuva Lich |
+| [[armas/brancas/lacera.md\|Lacera]] | Lâmina e Chicote | Pesquisa de Clã (Corpus) |
+| [[armas/brancas/lecta.md\|Lecta]] | Chicote | Mercado (blueprint) |
+| [[armas/brancas/lesion.md\|Lesion]] | Lança | Pesquisa de Clã (Entrati) |
+| [[armas/brancas/machete.md\|Machete]] | Facão | Mercado (blueprint) |
+| [[armas/brancas/machete_wraith.md\|Machete Wraith]] | Facão | Nightwave / Evento |
+| [[armas/brancas/magistar.md\|Magistar]] | Martelo | Pesquisa de Clã (Grineer) |
+| [[armas/brancas/magistar_wraith.md\|Magistar Wraith]] | Martelo | Nightwave / Evento |
+| [[armas/brancas/mios.md\|Mios]] | Lâmina e Chicote | Pesquisa de Clã (Entrati) |
+| [[armas/brancas/mire.md\|Mire]] | Espada | Drop (Ambulas, Pluto) |
+| [[armas/brancas/nami_duo.md\|Nami Duo]] | Espadas Duplas | Pesquisa de Clã (Corpus) |
+| [[armas/brancas/nami_solo.md\|Nami Solo]] | Espada | Pesquisa de Clã (Corpus) |
+| [[armas/brancas/nikana.md\|Nikana]] | Nikana | Mercado (blueprint) |
+| [[armas/brancas/nikana_prime.md\|Nikana Prime]] | Nikana | Relíquias (Prime) |
+| [[armas/brancas/ninkondi.md\|Ninkondi]] | Nunchaku | Pesquisa de Clã (Corpus) |
+| [[armas/brancas/ninkondi_prime.md\|Ninkondi Prime]] | Nunchaku | Relíquias (Prime) |
+| [[armas/brancas/ohma.md\|Ohma]] | Tonfa | Pesquisa de Clã (Corpus) |
+| [[armas/brancas/okina.md\|Okina]] | Espadas Duplas | Pesquisa de Clã (Corpus) |
+| [[armas/brancas/okina_prime.md\|Okina Prime]] | Espadas Duplas | Relíquias (Prime) |
+| [[armas/brancas/orthos.md\|Orthos]] | Lança | Mercado (blueprint) |
+| [[armas/brancas/orthos_prime.md\|Orthos Prime]] | Lança | Relíquias (Prime) |
+| [[armas/brancas/orvius.md\|Orvius]] | Glaive | Quest (Chains of Harrow) |
+| [[armas/brancas/pangolin_prime.md\|Pangolin Prime]] | Espada | Relíquias (Prime) |
+| [[armas/brancas/pangolin_sword.md\|Pangolin Sword]] | Espada | Mercado (blueprint) |
+| [[armas/brancas/paracesis.md\|Paracesis]] | Espada Pesada | Quest (The Sacrifice) |
+| [[armas/brancas/pennant.md\|Pennant]] | Espada Pesada | Pesquisa de Clã (Entrati) |
+| [[armas/brancas/plasma_sword.md\|Plasma Sword]] | Espada | Mercado (blueprint) |
+| [[armas/brancas/praedos.md\|Praedos]] | Tonfa | Pesquisa de Clã (Entrati) |
+| [[armas/brancas/prisma_dual_cleavers.md\|Prisma Dual Cleavers]] | Espadas Duplas | Baro Ki'Teer |
+| [[armas/brancas/prisma_skana.md\|Prisma Skana]] | Espada | Baro Ki'Teer |
+| [[armas/brancas/prova.md\|Prova]] | Lança | Pesquisa de Clã (Corpus) |
+| [[armas/brancas/prova_vandal.md\|Prova Vandal]] | Lança | Nightwave / Evento |
+| [[armas/brancas/pulmonars.md\|Pulmonars]] | Leques | Pesquisa de Clã (Entrati) |
+| [[armas/brancas/rakta_dark_dagger.md\|Rakta Dark Dagger]] | Adaga | Sindicato (Red Veil) |
+| [[armas/brancas/reaper_prime.md\|Reaper Prime]] | Foice | Relíquias (Prime) |
+| [[armas/brancas/redeemer.md\|Redeemer]] | Espingarda Melee | Pesquisa de Clã (Tenno) |
+| [[armas/brancas/redeemer_prime.md\|Redeemer Prime]] | Espingarda Melee | Relíquias (Prime) |
+| [[armas/brancas/ripkas.md\|Ripkas]] | Garras | Pesquisa de Clã (Grineer) |
+| [[armas/brancas/sarpa.md\|Sarpa]] | Espingarda Melee | Pesquisa de Clã (Tenno) |
+| [[armas/brancas/scoliac.md\|Scoliac]] | Chicote | Pesquisa de Clã (Grineer) |
+| [[armas/brancas/secura_lecta.md\|Secura Lecta]] | Chicote | Sindicato (Perrin Sequence) |
+| [[armas/brancas/shaku.md\|Shaku]] | Cajado | Pesquisa de Clã (Corpus) |
+| [[armas/brancas/sheev.md\|Sheev]] | Adaga | Pesquisa de Clã (Grineer) |
+| [[armas/brancas/sigma_and_octantis.md\|Sigma e Octantis]] | Espada e Escudo | Evento (Aniversário DE) |
+| [[armas/brancas/silva_and_aegis.md\|Silva e Aegis]] | Espada e Escudo | Mercado (blueprint) |
+| [[armas/brancas/silva_and_aegis_prime.md\|Silva e Aegis Prime]] | Espada e Escudo | Relíquias (Prime) |
+| [[armas/brancas/skana.md\|Skana]] | Espada | Starter / Mercado |
+| [[armas/brancas/skana_prime.md\|Skana Prime]] | Espada | Relíquias (Prime) |
+| [[armas/brancas/skiajati.md\|Skiajati]] | Nikana | Quest (The Sacrifice) |
+| [[armas/brancas/stiletto_prime.md\|Stiletto Prime]] | Adaga | Relíquias (Prime) |
+| [[armas/brancas/stropha.md\|Stropha]] | Espingarda Melee | Pesquisa de Clã (Tenno) |
+| [[armas/brancas/sydon.md\|Sydon]] | Lança | Pesquisa de Clã (Grineer) |
+| [[armas/brancas/tatsu.md\|Tatsu]] | Espada Pesada | Pesquisa de Clã (Entrati) |
+| [[armas/brancas/tatsu_prime.md\|Tatsu Prime]] | Espada Pesada | Relíquias (Prime) |
+| [[armas/brancas/tekko.md\|Tekko]] | Garras | Mercado (blueprint) |
+| [[armas/brancas/tekko_prime.md\|Tekko Prime]] | Garras | Relíquias (Prime) |
+| [[armas/brancas/telos_boltace.md\|Telos Boltace]] | Espadas Duplas | Sindicato (Arbiters of Hexis) |
+| [[armas/brancas/tenet_exec.md\|Tenet Exec]] | Espada Pesada | Irmãs de Parvos |
+| [[armas/brancas/tenet_grigori.md\|Tenet Grigori]] | Foice | Irmãs de Parvos |
+| [[armas/brancas/tenet_livia.md\|Tenet Livia]] | Espadim | Irmãs de Parvos |
+| [[armas/brancas/tipedo.md\|Tipedo]] | Lança | Mercado (blueprint) |
+| [[armas/brancas/tipedo_prime.md\|Tipedo Prime]] | Lança | Relíquias (Prime) |
+| [[armas/brancas/tonbo.md\|Tonbo]] | Lança | Pesquisa de Clã (Grineer) |
+| [[armas/brancas/twin_basolk.md\|Twin Basolk]] | Adagas Duplas | Pesquisa de Clã (Grineer) |
+| [[armas/brancas/vastilok.md\|Vastilok]] | Espingarda Melee | Pesquisa de Clã (Tenno) |
+| [[armas/brancas/vaykor_sydon.md\|Vaykor Sydon]] | Lança | Sindicato (Steel Meridian) |
+| [[armas/brancas/venka.md\|Venka]] | Garras | Pesquisa de Clã (Grineer) |
+| [[armas/brancas/venka_prime.md\|Venka Prime]] | Garras | Relíquias (Prime) |
+| [[armas/brancas/vitrica.md\|Vitrica]] | Espada Pesada | Pesquisa de Clã (Entrati) |
+| [[armas/brancas/volnus.md\|Volnus]] | Martelo | Pesquisa de Clã (Corpus) |
+| [[armas/brancas/volnus_prime.md\|Volnus Prime]] | Martelo | Relíquias (Prime) |
+| [[armas/brancas/war.md\|War]] | Espada Pesada | Drop (Stalker) |
+| [[armas/brancas/xoris.md\|Xoris]] | Glaive | Quest (The Deadlock Protocol) |
 
----
 
-## Referências Cruzadas
+## 🔗 Relacionados — Armas Brancas — Índice
+
 
 | Índice | Relação |
 |---|---|
-| [[_Armas _Indice\|Armas]] | Índice geral — todas as categorias de arma |
-| [[_Mods _Indice\|Mods]] | Stances são mods — encontrados no índice de mods |
-| [[_Mods Armas _Indice\|Mods de Armas]] | Mods de melee (Blood Rush, Weeping Wounds etc.) |
-| [[_Locais _Indice\|Locais]] | Planetas onde inimigos dropam stances e brancas |
+| [[armas/_Armas _Indice.md\|Armas]] | Índice geral — todas as categorias de arma |
+| [[mods/_Mods _Indice.md\|Mods]] | Stances são mods — encontrados no índice de mods |
+| [[mods/armas/_Mods Armas _Indice.md\|Mods de Armas]] | Mods de melee (Blood Rush, Weeping Wounds etc.) |
+| [[locais/_Locais _Indice.md\|Locais]] | Planetas onde inimigos dropam stances e brancas |

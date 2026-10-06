@@ -1,18 +1,16 @@
 ---
 title: Armas Primárias — Índice
+aliases: [Armas Primárias — Índice, Armas Primarias — Indice, Armas  Primarias  Indice]
 tipo: index
 categoria: arma-primaria
-tags:
-  - index
-  - arma
-  - primaria
-atualizado: 2026-04-23
+resumo: Armas primárias ocupam o slot principal do Tenno e são a primeira linha de combate à distância.
+status: completo
+rag: true
+tags: [index, arma, primaria]
+atualizado: 2026-10-07
+agente: opus
 total-primarias: 129
-indices-relacionados:
-  - _Armas _Indice
-  - _Mods Armas _Indice
-  - _Recursos _Indice
-  - _Locais _Indice
+indices-relacionados: [_Armas _Indice, _Mods Armas _Indice, _Recursos _Indice, _Locais _Indice]
 ---
 
 # Armas Primárias — Índice
@@ -20,17 +18,17 @@ indices-relacionados:
 > [!quote]
 > *"A escolha da primária define o alcance do Tenno antes do inimigo chegar ao corpo-a-corpo."*
 
----
 
-## Visão Geral
+## 📊 Visão Geral — Armas Primárias — Índice
+
 
 Armas primárias ocupam o slot principal do Tenno e são a primeira linha de combate à distância. São as armas com maior variedade de mecânicas do jogo — de rifles automáticos a arcos de carga, lança-chamas, snipers e lançadores de projéteis explosivos.
 
 **Slot:** Primário · **Mods:** 8 slots + Exilus (com adaptador) + Arcane (com adaptador)
 
----
 
-## Modos de Disparo
+## Modos de Disparo — Armas Primárias — Índice
+
 
 | Modo | Descrição | Exemplos |
 |---|---|---|
@@ -46,9 +44,9 @@ Armas primárias ocupam o slot principal do Tenno e são a primeira linha de com
 > [!note] Beam weapons e Status
 > Armas de feixe (beam) aplicam status a cada tick de dano por segundo, não por projétil. A status chance é calculada de forma diferente — 100% de status em beam significa proc garantido a cada tick.
 
----
 
-## Tipos de Munição
+## Tipos de Munição — Armas Primárias — Índice
+
 
 | Tipo | Armas que Usam | Observações |
 |---|---|---|
@@ -58,9 +56,9 @@ Armas primárias ocupam o slot principal do Tenno e são a primeira linha de com
 | **Arco** | Arcos (Paris, Cernos, Daikyu, Nataruk) | Projéteis físicos, alguns recuperáveis |
 | **Especial** | Varia por arma (Lançadores, Rifles Especiais) | Depende da arma específica |
 
----
 
-## Mecânicas Especiais
+## Mecânicas Especiais — Armas Primárias — Índice
+
 
 **Punch-Through:** Projétil atravessa inimigos e/ou objetos. Inato em algumas armas (Boltor, Ferrox). Adicionável via mods: Shred, Metal Auger, Terminal Velocity.
 
@@ -72,149 +70,149 @@ Armas primárias ocupam o slot principal do Tenno e são a primeira linha de com
 
 **Rifles com Múltiplos Modos:** Algumas armas alternam modo de disparo — Tiberon alterna Auto/Burst/Semi, Stradavar alterna Auto/Semi, Fulmin alterna automático elétrico/disparo único.
 
----
 
-## Lista Completa (129)
+## Lista Completa (129) — Armas Primárias — Índice
+
 
 | Arma | Tipo | Fonte |
 |---|---|---|
-| [[acceltra\|Acceltra]] | Rifle de Assalto | Drop (Demolyst Manic, Steel Path) |
-| [[acceltra_prime\|Acceltra Prime]] | Rifle de Assalto | Relíquias (Prime) |
-| [[ambassador\|Ambassador]] | Rifle de Assalto | Drop (Amalgam, Jupiter) |
-| [[amprex\|Amprex]] | Rifle de Assalto | Pesquisa de Clã (Corpus) |
-| [[arca_plasmor\|Arca Plasmor]] | Espingarda | Pesquisa de Clã (Corpus) |
-| [[astilla\|Astilla]] | Espingarda | Pesquisa de Clã (Corpus) |
-| [[astilla_prime\|Astilla Prime]] | Espingarda | Relíquias (Prime) |
-| [[attica\|Attica]] | Arco | Mercado (blueprint) |
-| [[battacor\|Battacor]] | Rifle de Assalto | Pesquisa de Clã (Corpus) |
-| [[baza\|Baza]] | Rifle de Assalto | Mercado (blueprint) |
-| [[baza_prime\|Baza Prime]] | Rifle de Assalto | Relíquias (Prime) |
-| [[boltor\|Boltor]] | Rifle de Assalto | Mercado (blueprint) |
-| [[boltor_prime\|Boltor Prime]] | Rifle de Assalto | Relíquias (Prime) |
-| [[braton\|Braton]] | Rifle de Assalto | Mercado (blueprint) |
-| [[braton_prime\|Braton Prime]] | Rifle de Assalto | Relíquias (Prime) |
-| [[braton_vandal\|Braton Vandal]] | Rifle de Assalto | Evento / Drop (Acolytes) |
-| [[buzlok\|Buzlok]] | Rifle de Assalto | Mercado (blueprint) |
-| [[cedo\|Cedo]] | Espingarda | Pesquisa de Clã (Entrati) |
-| [[cernos\|Cernos]] | Arco | Mercado (blueprint) |
-| [[cernos_prime\|Cernos Prime]] | Arco | Relíquias (Prime) |
-| [[convectrix\|Convectrix]] | Espingarda | Pesquisa de Clã (Corpus) |
-| [[corinth\|Corinth]] | Espingarda | Mercado (blueprint) |
-| [[corinth_prime\|Corinth Prime]] | Espingarda | Relíquias (Prime) |
-| [[daikyu\|Daikyu]] | Arco | Mercado (blueprint) |
-| [[dera\|Dera]] | Rifle de Assalto | Mercado (blueprint) |
-| [[dera_vandal\|Dera Vandal]] | Rifle de Assalto | Nightwave / Evento |
-| [[dex_sybaris\|Dex Sybaris]] | Rifle Semi-Auto | Evento (Aniversário DE) |
-| [[drakgoon\|Drakgoon]] | Espingarda | Mercado (blueprint) |
-| [[exergis\|Exergis]] | Espingarda | Pesquisa de Clã (Corpus) |
-| [[felarx\|Felarx]] | Incarnon | Incarnon (Duviri) |
-| [[ferrox\|Ferrox]] | Rifle Especial | Mercado (blueprint) |
-| [[flux_rifle\|Flux Rifle]] | Rifle de Assalto | Pesquisa de Clã (Corpus) |
-| [[fulmin\|Fulmin]] | Rifle Especial | Drop (Amalgam, Jupiter) |
-| [[fulmin_prime\|Fulmin Prime]] | Rifle Especial | Relíquias (Prime) |
-| [[glaxion\|Glaxion]] | Rifle de Assalto | Pesquisa de Clã (Corpus) |
-| [[glaxion_vandal\|Glaxion Vandal]] | Rifle de Assalto | Nightwave / Evento |
-| [[gorgon\|Gorgon]] | Rifle de Assalto | Mercado (blueprint) |
-| [[gorgon_wraith\|Gorgon Wraith]] | Rifle de Assalto | Nightwave / Evento |
-| [[grakata\|Grakata]] | Rifle de Assalto | Mercado (blueprint) |
-| [[harpak\|Harpak]] | Rifle Especial | Mercado (blueprint) |
-| [[hek\|Hek]] | Espingarda | Mercado (blueprint) |
-| [[hind\|Hind]] | Rifle de Assalto | Mercado (blueprint) |
-| [[ignis\|Ignis]] | Lança-Chamas | Pesquisa de Clã (Grineer) |
-| [[ignis_wraith\|Ignis Wraith]] | Lança-Chamas | Pesquisa de Clã (blueprint tradável) / Evento |
-| [[javlok\|Javlok]] | Lançador | Mercado (blueprint) |
-| [[karak\|Karak]] | Rifle de Assalto | Mercado (blueprint) |
-| [[karak_wraith\|Karak Wraith]] | Rifle de Assalto | Evento / Drop (Acolytes) |
-| [[kohm\|Kohm]] | Espingarda | Mercado (blueprint) |
-| [[komorex\|Komorex]] | Sniper | Pesquisa de Clã (Corpus) |
-| [[kuva_bramma\|Kuva Bramma]] | Lançador | Kuva Lich |
-| [[kuva_chakkhurr\|Kuva Chakkhurr]] | Sniper | Kuva Lich |
-| [[kuva_hek\|Kuva Hek]] | Espingarda | Kuva Lich |
-| [[kuva_ogris\|Kuva Ogris]] | Lançador | Kuva Lich |
-| [[kuva_quartakk\|Kuva Quartakk]] | Rifle de Assalto | Kuva Lich |
-| [[kuva_tonkor\|Kuva Tonkor]] | Lançador | Kuva Lich |
-| [[kuva_zarr\|Kuva Zarr]] | Lançador | Kuva Lich |
-| [[lanka\|Lanka]] | Sniper | Mercado (blueprint) |
-| [[latron\|Latron]] | Rifle Semi-Auto | Mercado (blueprint) |
-| [[latron_prime\|Latron Prime]] | Rifle Semi-Auto | Relíquias (Prime) |
-| [[latron_wraith\|Latron Wraith]] | Rifle Semi-Auto | Nightwave / Evento |
-| [[lenz\|Lenz]] | Arco | Mercado (blueprint) |
-| [[miter\|Miter]] | Lançador | Mercado (blueprint) |
-| [[mk1_braton\|MK1-Braton]] | Rifle de Assalto | Starter / Mercado |
-| [[mutalist_quanta\|Mutalist Quanta]] | Lançador | Drop (Invasões Infested, Eris) |
-| [[nataruk\|Nataruk]] | Arco | Nakak, Cetus (pós The New War) |
-| [[ogris\|Ogris]] | Lançador | Mercado (blueprint) |
-| [[opticor\|Opticor]] | Sniper | Pesquisa de Clã (Corpus) |
-| [[opticor_vandal\|Opticor Vandal]] | Sniper | Nightwave / Evento |
-| [[panthera\|Panthera]] | Rifle de Assalto | Pesquisa de Clã (Corpus) |
-| [[panthera_prime\|Panthera Prime]] | Rifle de Assalto | Relíquias (Prime) |
-| [[paracyst\|Paracyst]] | Rifle Especial | Mercado (blueprint) |
-| [[paris\|Paris]] | Arco | Mercado (blueprint) |
-| [[paris_prime\|Paris Prime]] | Arco | Relíquias (Prime) |
-| [[penta\|Penta]] | Lançador | Mercado (blueprint) |
-| [[phantasma\|Phantasma]] | Espingarda | Pesquisa de Clã (Entrati) |
-| [[phantasma_prime\|Phantasma Prime]] | Espingarda | Relíquias (Prime) |
-| [[phenmor\|Phenmor]] | Incarnon | Incarnon (Duviri) |
-| [[prisma_grakata\|Prisma Grakata]] | Rifle de Assalto | Baro Ki'Teer / Nightwave |
-| [[proboscis_cernos\|Proboscis Cernos]] | Arco | Pesquisa de Clã (Entrati) |
-| [[quanta\|Quanta]] | Lançador | Pesquisa de Clã (Corpus) |
-| [[quanta_vandal\|Quanta Vandal]] | Lançador | Nightwave / Evento |
-| [[rakta_cernos\|Rakta Cernos]] | Arco | Sindicato (Red Veil) |
-| [[rubico\|Rubico]] | Sniper | Mercado (blueprint) |
-| [[rubico_prime\|Rubico Prime]] | Sniper | Relíquias (Prime) |
-| [[sancti_tigris\|Sancti Tigris]] | Espingarda | Sindicato (New Loka) |
-| [[scourge\|Scourge]] | Lançador | Pesquisa de Clã (Entrati) |
-| [[scourge_prime\|Scourge Prime]] | Lançador | Relíquias (Prime) |
-| [[secura_penta\|Secura Penta]] | Lançador | Sindicato (Perrin Sequence) |
-| [[shedu\|Shedu]] | Rifle Especial | Drop (Sentients, Murex — Empyrean) |
-| [[simulor\|Simulor]] | Lançador | Pesquisa de Clã (Corpus) |
-| [[snipetron\|Snipetron]] | Sniper | Baro Ki'Teer |
-| [[snipetron_vandal\|Snipetron Vandal]] | Sniper | Evento |
-| [[sobek\|Sobek]] | Espingarda | Mercado (blueprint) |
-| [[soma\|Soma]] | Rifle de Assalto | Mercado (blueprint) |
-| [[soma_prime\|Soma Prime]] | Rifle de Assalto | Relíquias (Prime) |
-| [[sporothrix\|Sporothrix]] | Arco | Pesquisa de Clã (Entrati) |
-| [[stahlta\|Stahlta]] | Rifle de Assalto | Pesquisa de Clã (Entrati) |
-| [[stradavar\|Stradavar]] | Rifle de Assalto | Mercado (blueprint) |
-| [[stradavar_prime\|Stradavar Prime]] | Rifle de Assalto | Relíquias (Prime) |
-| [[strun\|Strun]] | Espingarda | Mercado (blueprint) |
-| [[strun_wraith\|Strun Wraith]] | Espingarda | Nightwave / Evento |
-| [[supra\|Supra]] | Rifle de Assalto | Pesquisa de Clã (Corpus) |
-| [[supra_vandal\|Supra Vandal]] | Rifle de Assalto | Nightwave / Evento |
-| [[sybaris\|Sybaris]] | Rifle Semi-Auto | Mercado (blueprint) |
-| [[sybaris_prime\|Sybaris Prime]] | Rifle Semi-Auto | Relíquias (Prime) |
-| [[synoid_simulor\|Synoid Simulor]] | Lançador | Sindicato (Cephalon Suda) |
-| [[telos_boltor\|Telos Boltor]] | Rifle de Assalto | Sindicato (Arbiters of Hexis) |
-| [[tenet_arca_plasmor\|Tenet Arca Plasmor]] | Espingarda | Irmãs de Parvos |
-| [[tenet_envoy\|Tenet Envoy]] | Lançador | Irmãs de Parvos |
-| [[tenet_ferrox\|Tenet Ferrox]] | Rifle Especial | Irmãs de Parvos |
-| [[tenet_flux_rifle\|Tenet Flux Rifle]] | Rifle de Assalto | Irmãs de Parvos |
-| [[tenora\|Tenora]] | Rifle de Assalto | Mercado (blueprint) |
-| [[tenora_prime\|Tenora Prime]] | Rifle de Assalto | Relíquias (Prime) |
-| [[tiberon\|Tiberon]] | Rifle de Assalto | Mercado (blueprint) |
-| [[tiberon_prime\|Tiberon Prime]] | Rifle de Assalto | Relíquias (Prime) |
-| [[tigris\|Tigris]] | Espingarda | Mercado (blueprint) |
-| [[tigris_prime\|Tigris Prime]] | Espingarda | Relíquias (Prime) |
-| [[tonkor\|Tonkor]] | Lançador | Mercado (blueprint) |
-| [[trumna\|Trumna]] | Lançador | Pesquisa de Clã (Entrati) |
-| [[vaykor_hek\|Vaykor Hek]] | Espingarda | Sindicato (Steel Meridian) |
-| [[vectis\|Vectis]] | Sniper | Mercado (blueprint) |
-| [[vectis_prime\|Vectis Prime]] | Sniper | Relíquias (Prime) |
-| [[veldt\|Veldt]] | Rifle de Assalto | Mercado (blueprint) |
-| [[vermisplicer\|Vermisplicer]] | Espingarda | Pesquisa de Clã (Entrati) |
-| [[vulkar\|Vulkar]] | Sniper | Mercado (blueprint) |
-| [[vulkar_wraith\|Vulkar Wraith]] | Sniper | Nightwave / Evento |
-| [[zarr\|Zarr]] | Lançador | Mercado (blueprint) |
-| [[zhuge\|Zhuge]] | Arco | Mercado (blueprint) |
-| [[zhuge_prime\|Zhuge Prime]] | Arco | Relíquias (Prime) |
+| [[armas/primarias/acceltra.md\|Acceltra]] | Rifle de Assalto | Drop (Demolyst Manic, Steel Path) |
+| [[armas/primarias/acceltra_prime.md\|Acceltra Prime]] | Rifle de Assalto | Relíquias (Prime) |
+| [[armas/primarias/ambassador.md\|Ambassador]] | Rifle de Assalto | Drop (Amalgam, Jupiter) |
+| [[armas/primarias/amprex.md\|Amprex]] | Rifle de Assalto | Pesquisa de Clã (Corpus) |
+| [[armas/primarias/arca_plasmor.md\|Arca Plasmor]] | Espingarda | Pesquisa de Clã (Corpus) |
+| [[armas/primarias/astilla.md\|Astilla]] | Espingarda | Pesquisa de Clã (Corpus) |
+| [[armas/primarias/astilla_prime.md\|Astilla Prime]] | Espingarda | Relíquias (Prime) |
+| [[armas/primarias/attica.md\|Attica]] | Arco | Mercado (blueprint) |
+| [[armas/primarias/battacor.md\|Battacor]] | Rifle de Assalto | Pesquisa de Clã (Corpus) |
+| [[armas/primarias/baza.md\|Baza]] | Rifle de Assalto | Mercado (blueprint) |
+| [[armas/primarias/baza_prime.md\|Baza Prime]] | Rifle de Assalto | Relíquias (Prime) |
+| [[armas/primarias/boltor.md\|Boltor]] | Rifle de Assalto | Mercado (blueprint) |
+| [[armas/primarias/boltor_prime.md\|Boltor Prime]] | Rifle de Assalto | Relíquias (Prime) |
+| [[armas/primarias/braton.md\|Braton]] | Rifle de Assalto | Mercado (blueprint) |
+| [[armas/primarias/braton_prime.md\|Braton Prime]] | Rifle de Assalto | Relíquias (Prime) |
+| [[armas/primarias/braton_vandal.md\|Braton Vandal]] | Rifle de Assalto | Evento / Drop (Acolytes) |
+| [[armas/primarias/buzlok.md\|Buzlok]] | Rifle de Assalto | Mercado (blueprint) |
+| [[armas/primarias/cedo.md\|Cedo]] | Espingarda | Pesquisa de Clã (Entrati) |
+| [[armas/primarias/cernos.md\|Cernos]] | Arco | Mercado (blueprint) |
+| [[armas/primarias/cernos_prime.md\|Cernos Prime]] | Arco | Relíquias (Prime) |
+| [[armas/primarias/convectrix.md\|Convectrix]] | Espingarda | Pesquisa de Clã (Corpus) |
+| [[armas/primarias/corinth.md\|Corinth]] | Espingarda | Mercado (blueprint) |
+| [[armas/primarias/corinth_prime.md\|Corinth Prime]] | Espingarda | Relíquias (Prime) |
+| [[armas/primarias/daikyu.md\|Daikyu]] | Arco | Mercado (blueprint) |
+| [[armas/primarias/dera.md\|Dera]] | Rifle de Assalto | Mercado (blueprint) |
+| [[armas/primarias/dera_vandal.md\|Dera Vandal]] | Rifle de Assalto | Nightwave / Evento |
+| [[armas/primarias/dex_sybaris.md\|Dex Sybaris]] | Rifle Semi-Auto | Evento (Aniversário DE) |
+| [[armas/primarias/drakgoon.md\|Drakgoon]] | Espingarda | Mercado (blueprint) |
+| [[armas/primarias/exergis.md\|Exergis]] | Espingarda | Pesquisa de Clã (Corpus) |
+| [[armas/primarias/felarx.md\|Felarx]] | Incarnon | Incarnon (Duviri) |
+| [[armas/primarias/ferrox.md\|Ferrox]] | Rifle Especial | Mercado (blueprint) |
+| [[armas/primarias/flux_rifle.md\|Flux Rifle]] | Rifle de Assalto | Pesquisa de Clã (Corpus) |
+| [[armas/primarias/fulmin.md\|Fulmin]] | Rifle Especial | Drop (Amalgam, Jupiter) |
+| [[armas/primarias/fulmin_prime.md\|Fulmin Prime]] | Rifle Especial | Relíquias (Prime) |
+| [[armas/primarias/glaxion.md\|Glaxion]] | Rifle de Assalto | Pesquisa de Clã (Corpus) |
+| [[armas/primarias/glaxion_vandal.md\|Glaxion Vandal]] | Rifle de Assalto | Nightwave / Evento |
+| [[armas/primarias/gorgon.md\|Gorgon]] | Rifle de Assalto | Mercado (blueprint) |
+| [[armas/primarias/gorgon_wraith.md\|Gorgon Wraith]] | Rifle de Assalto | Nightwave / Evento |
+| [[armas/primarias/grakata.md\|Grakata]] | Rifle de Assalto | Mercado (blueprint) |
+| [[armas/primarias/harpak.md\|Harpak]] | Rifle Especial | Mercado (blueprint) |
+| [[armas/primarias/hek.md\|Hek]] | Espingarda | Mercado (blueprint) |
+| [[armas/primarias/hind.md\|Hind]] | Rifle de Assalto | Mercado (blueprint) |
+| [[armas/primarias/ignis.md\|Ignis]] | Lança-Chamas | Pesquisa de Clã (Grineer) |
+| [[armas/primarias/ignis_wraith.md\|Ignis Wraith]] | Lança-Chamas | Pesquisa de Clã (blueprint tradável) / Evento |
+| [[armas/primarias/javlok.md\|Javlok]] | Lançador | Mercado (blueprint) |
+| [[armas/primarias/karak.md\|Karak]] | Rifle de Assalto | Mercado (blueprint) |
+| [[armas/primarias/karak_wraith.md\|Karak Wraith]] | Rifle de Assalto | Evento / Drop (Acolytes) |
+| [[armas/primarias/kohm.md\|Kohm]] | Espingarda | Mercado (blueprint) |
+| [[armas/primarias/komorex.md\|Komorex]] | Sniper | Pesquisa de Clã (Corpus) |
+| [[armas/primarias/kuva_bramma.md\|Kuva Bramma]] | Lançador | Kuva Lich |
+| [[armas/primarias/kuva_chakkhurr.md\|Kuva Chakkhurr]] | Sniper | Kuva Lich |
+| [[armas/primarias/kuva_hek.md\|Kuva Hek]] | Espingarda | Kuva Lich |
+| [[armas/primarias/kuva_ogris.md\|Kuva Ogris]] | Lançador | Kuva Lich |
+| [[armas/primarias/kuva_quartakk.md\|Kuva Quartakk]] | Rifle de Assalto | Kuva Lich |
+| [[armas/primarias/kuva_tonkor.md\|Kuva Tonkor]] | Lançador | Kuva Lich |
+| [[armas/primarias/kuva_zarr.md\|Kuva Zarr]] | Lançador | Kuva Lich |
+| [[armas/primarias/lanka.md\|Lanka]] | Sniper | Mercado (blueprint) |
+| [[armas/primarias/latron.md\|Latron]] | Rifle Semi-Auto | Mercado (blueprint) |
+| [[armas/primarias/latron_prime.md\|Latron Prime]] | Rifle Semi-Auto | Relíquias (Prime) |
+| [[armas/primarias/latron_wraith.md\|Latron Wraith]] | Rifle Semi-Auto | Nightwave / Evento |
+| [[armas/primarias/lenz.md\|Lenz]] | Arco | Mercado (blueprint) |
+| [[armas/primarias/miter.md\|Miter]] | Lançador | Mercado (blueprint) |
+| [[armas/primarias/mk1_braton.md\|MK1-Braton]] | Rifle de Assalto | Starter / Mercado |
+| [[armas/primarias/mutalist_quanta.md\|Mutalist Quanta]] | Lançador | Drop (Invasões Infested, Eris) |
+| [[armas/primarias/nataruk.md\|Nataruk]] | Arco | Nakak, Cetus (pós The New War) |
+| [[armas/primarias/ogris.md\|Ogris]] | Lançador | Mercado (blueprint) |
+| [[armas/primarias/opticor.md\|Opticor]] | Sniper | Pesquisa de Clã (Corpus) |
+| [[armas/primarias/opticor_vandal.md\|Opticor Vandal]] | Sniper | Nightwave / Evento |
+| [[armas/primarias/panthera.md\|Panthera]] | Rifle de Assalto | Pesquisa de Clã (Corpus) |
+| [[armas/primarias/panthera_prime.md\|Panthera Prime]] | Rifle de Assalto | Relíquias (Prime) |
+| [[armas/primarias/paracyst.md\|Paracyst]] | Rifle Especial | Mercado (blueprint) |
+| [[armas/primarias/paris.md\|Paris]] | Arco | Mercado (blueprint) |
+| [[armas/primarias/paris_prime.md\|Paris Prime]] | Arco | Relíquias (Prime) |
+| [[armas/primarias/penta.md\|Penta]] | Lançador | Mercado (blueprint) |
+| [[armas/primarias/phantasma.md\|Phantasma]] | Espingarda | Pesquisa de Clã (Entrati) |
+| [[armas/primarias/phantasma_prime.md\|Phantasma Prime]] | Espingarda | Relíquias (Prime) |
+| [[armas/primarias/phenmor.md\|Phenmor]] | Incarnon | Incarnon (Duviri) |
+| [[armas/primarias/prisma_grakata.md\|Prisma Grakata]] | Rifle de Assalto | Baro Ki'Teer / Nightwave |
+| [[armas/primarias/proboscis_cernos.md\|Proboscis Cernos]] | Arco | Pesquisa de Clã (Entrati) |
+| [[armas/primarias/quanta.md\|Quanta]] | Lançador | Pesquisa de Clã (Corpus) |
+| [[armas/primarias/quanta_vandal.md\|Quanta Vandal]] | Lançador | Nightwave / Evento |
+| [[armas/primarias/rakta_cernos.md\|Rakta Cernos]] | Arco | Sindicato (Red Veil) |
+| [[armas/primarias/rubico.md\|Rubico]] | Sniper | Mercado (blueprint) |
+| [[armas/primarias/rubico_prime.md\|Rubico Prime]] | Sniper | Relíquias (Prime) |
+| [[armas/primarias/sancti_tigris.md\|Sancti Tigris]] | Espingarda | Sindicato (New Loka) |
+| [[armas/primarias/scourge.md\|Scourge]] | Lançador | Pesquisa de Clã (Entrati) |
+| [[armas/primarias/scourge_prime.md\|Scourge Prime]] | Lançador | Relíquias (Prime) |
+| [[armas/primarias/secura_penta.md\|Secura Penta]] | Lançador | Sindicato (Perrin Sequence) |
+| [[armas/primarias/shedu.md\|Shedu]] | Rifle Especial | Drop (Sentients, Murex — Empyrean) |
+| [[armas/primarias/simulor.md\|Simulor]] | Lançador | Pesquisa de Clã (Corpus) |
+| [[armas/primarias/snipetron.md\|Snipetron]] | Sniper | Baro Ki'Teer |
+| [[armas/primarias/snipetron_vandal.md\|Snipetron Vandal]] | Sniper | Evento |
+| [[armas/primarias/sobek.md\|Sobek]] | Espingarda | Mercado (blueprint) |
+| [[armas/primarias/soma.md\|Soma]] | Rifle de Assalto | Mercado (blueprint) |
+| [[armas/primarias/soma_prime.md\|Soma Prime]] | Rifle de Assalto | Relíquias (Prime) |
+| [[armas/primarias/sporothrix.md\|Sporothrix]] | Arco | Pesquisa de Clã (Entrati) |
+| [[armas/primarias/stahlta.md\|Stahlta]] | Rifle de Assalto | Pesquisa de Clã (Entrati) |
+| [[armas/primarias/stradavar.md\|Stradavar]] | Rifle de Assalto | Mercado (blueprint) |
+| [[armas/primarias/stradavar_prime.md\|Stradavar Prime]] | Rifle de Assalto | Relíquias (Prime) |
+| [[armas/primarias/strun.md\|Strun]] | Espingarda | Mercado (blueprint) |
+| [[armas/primarias/strun_wraith.md\|Strun Wraith]] | Espingarda | Nightwave / Evento |
+| [[armas/primarias/supra.md\|Supra]] | Rifle de Assalto | Pesquisa de Clã (Corpus) |
+| [[armas/primarias/supra_vandal.md\|Supra Vandal]] | Rifle de Assalto | Nightwave / Evento |
+| [[armas/primarias/sybaris.md\|Sybaris]] | Rifle Semi-Auto | Mercado (blueprint) |
+| [[armas/primarias/sybaris_prime.md\|Sybaris Prime]] | Rifle Semi-Auto | Relíquias (Prime) |
+| [[armas/primarias/synoid_simulor.md\|Synoid Simulor]] | Lançador | Sindicato (Cephalon Suda) |
+| [[armas/primarias/telos_boltor.md\|Telos Boltor]] | Rifle de Assalto | Sindicato (Arbiters of Hexis) |
+| [[armas/primarias/tenet_arca_plasmor.md\|Tenet Arca Plasmor]] | Espingarda | Irmãs de Parvos |
+| [[armas/primarias/tenet_envoy.md\|Tenet Envoy]] | Lançador | Irmãs de Parvos |
+| [[armas/primarias/tenet_ferrox.md\|Tenet Ferrox]] | Rifle Especial | Irmãs de Parvos |
+| [[armas/primarias/tenet_flux_rifle.md\|Tenet Flux Rifle]] | Rifle de Assalto | Irmãs de Parvos |
+| [[armas/primarias/tenora.md\|Tenora]] | Rifle de Assalto | Mercado (blueprint) |
+| [[armas/primarias/tenora_prime.md\|Tenora Prime]] | Rifle de Assalto | Relíquias (Prime) |
+| [[armas/primarias/tiberon.md\|Tiberon]] | Rifle de Assalto | Mercado (blueprint) |
+| [[armas/primarias/tiberon_prime.md\|Tiberon Prime]] | Rifle de Assalto | Relíquias (Prime) |
+| [[armas/primarias/tigris.md\|Tigris]] | Espingarda | Mercado (blueprint) |
+| [[armas/primarias/tigris_prime.md\|Tigris Prime]] | Espingarda | Relíquias (Prime) |
+| [[armas/primarias/tonkor.md\|Tonkor]] | Lançador | Mercado (blueprint) |
+| [[armas/primarias/trumna.md\|Trumna]] | Lançador | Pesquisa de Clã (Entrati) |
+| [[armas/primarias/vaykor_hek.md\|Vaykor Hek]] | Espingarda | Sindicato (Steel Meridian) |
+| [[armas/primarias/vectis.md\|Vectis]] | Sniper | Mercado (blueprint) |
+| [[armas/primarias/vectis_prime.md\|Vectis Prime]] | Sniper | Relíquias (Prime) |
+| [[armas/primarias/veldt.md\|Veldt]] | Rifle de Assalto | Mercado (blueprint) |
+| [[armas/primarias/vermisplicer.md\|Vermisplicer]] | Espingarda | Pesquisa de Clã (Entrati) |
+| [[armas/primarias/vulkar.md\|Vulkar]] | Sniper | Mercado (blueprint) |
+| [[armas/primarias/vulkar_wraith.md\|Vulkar Wraith]] | Sniper | Nightwave / Evento |
+| [[armas/primarias/zarr.md\|Zarr]] | Lançador | Mercado (blueprint) |
+| [[armas/primarias/zhuge.md\|Zhuge]] | Arco | Mercado (blueprint) |
+| [[armas/primarias/zhuge_prime.md\|Zhuge Prime]] | Arco | Relíquias (Prime) |
 
----
 
-## Referências Cruzadas
+## 🔗 Relacionados — Armas Primárias — Índice
+
 
 | Índice | Relação |
 |---|---|
-| [[_Armas _Indice\|Armas]] | Índice geral — todas as categorias de arma |
-| [[_Mods Armas _Indice\|Mods de Armas]] | Mods de rifle, espingarda, sniper e arco |
-| [[_Recursos _Indice\|Recursos]] | Materiais para crafting de primárias |
-| [[_Locais _Indice\|Locais]] | Planetas onde drops de primárias ocorrem |
+| [[armas/_Armas _Indice.md\|Armas]] | Índice geral — todas as categorias de arma |
+| [[mods/armas/_Mods Armas _Indice.md\|Mods de Armas]] | Mods de rifle, espingarda, sniper e arco |
+| [[recursos/_Recursos _Indice.md\|Recursos]] | Materiais para crafting de primárias |
+| [[locais/_Locais _Indice.md\|Locais]] | Planetas onde drops de primárias ocorrem |

@@ -1,9 +1,14 @@
 ---
 title: Corrupted Vor
+aliases: [Corrupted Vor]
 tipo: lore
 subtipo: chefe
+resumo: "Corrupted Vor — Captain Vor remontado pela própria Janus Key depois de morrer: agora guardião fanático do Void, com um único ponto vulnerável — a massa de luz girando entre o abdômen e o quadril."
+status: completo
+rag: true
 tags: [lore, chefe, orokin, corrupted, void]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Corrupted_Vor", "https://wiki.warframe.com/w/Damage_2.0/Corrupted_Tab"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Captain Vor remontado pela própria Janus Key depois de morrer: agora guardião fanático do Void, com um único ponto vulnerável — a massa de luz girando entre o abdômen e o quadril.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Corrupted Vor
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Ativo. Guardião do ramo de Sedna do Void |
 | Dublagem | Kol Crosbie (aka [DE]Skree) |
 
----
 
-## 📖 História
+## 📖 História — Corrupted Vor
+
 
 Depois de um tempo indeterminado morto, Vor foi **revivido pela própria Janus Key** que carregava: a chave religou o corpo partido dele por meio de uma **massa de energia girando**, e o resultado é o Corrupted Vor. No estado mental atual, ele lidera os outros defensores Corrupted do Void contra qualquer intruso.
 
@@ -35,9 +40,9 @@ A mudança não é só física. Ele demonstra **reverência religiosa pelo Void*
 
 No trailer **The Rebirth**, o recém-revivido Vor é visto marchando por tropas Grineer para demonstrar o poder da Janus Key — possivelmente conduzindo os próprios soldados para dentro do Void e corrompendo-os no processo. Ele acabou se tornando o guardião do ramo de Sedna do Void, voltando a confrontar periodicamente qualquer Tenno que entre no território dele.
 
----
 
-## ⚔️ Combate
+## ⚔️ Combate — Corrupted Vor
+
 
 | Item | Detalhe |
 |---|---|
@@ -64,9 +69,9 @@ Ataques dele:
 
 **Frames recomendados:** [[warframes/regular/mesa.md|Mesa]] (Peacemaker resolve o problema de mira no ponto fraco móvel), [[warframes/regular/nyx.md|Nyx]] ou [[warframes/regular/khora.md|Khora]] (travar o alvo ajuda mais que dano), [[warframes/regular/rhino.md|Rhino]] (Iron Skin contra o laser e as minas), [[warframes/regular/limbo.md|Limbo]] (Cataclysm para lidar com os Corrupted que spawnam sem parar), [[warframes/regular/trinity.md|Trinity]] em squad de nível alto.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Corrupted Vor
+
 
 - **[[lore/chefes/captain_vor.md|Captain Vor]]** — ele mesmo, antes de morrer e ser remontado pela Janus Key.
 - **[[lore/faccoes/orokin.md|Orokin]] / Neural Sentry** — o mecanismo que corrompe tudo que entra no Void; possível causa da nova fé dele.
@@ -75,9 +80,9 @@ Ataques dele:
 - **[[lore/faccoes/grineer.md|Grineer]]** — ele possivelmente levou os próprios soldados ao Void e os corrompeu.
 - **[[lore/personagens/vor.md|Vor (personagem)]]** — a ficha de personagem, com falas e papel narrativo.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Corrupted Vor
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -87,7 +92,3 @@ Ataques dele:
 | [[missoes/jornadas/principais/the_duviri_paradox.md\|Duviri]] | Aparição no contexto de Duviri |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Corrupted_Vor (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Corrupted_Tab (consultado em 2026-10-04)

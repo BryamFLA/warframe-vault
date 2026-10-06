@@ -1,29 +1,37 @@
 ---
 title: Nokko
+aliases: [Nokko]
 tipo: warframe
-status: nao-obtido
+resumo: Nokko — 1.
+status: stub
+rag: false
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Nokko
 
-> [!info] 
+> [!info]
 
-## 🏗️ Como Obter
+## 🏗️ Como Construir — Nokko
 
 
-## 🔮 Habilidades
+## 🔮 Habilidades — Nokko
+
 1. **Passiva:** 
 2. **Habilidade 1:** 
 3. **Habilidade 2:** 
 4. **Habilidade 3:** 
-5. **Habilidade 4:** 
+5. **Habilidade 4:**
 
-## 📊 Stats Base
+## 📊 Stats Base — Nokko
+
 - **Vida:**
 - **Escudos:**
 - **Armadura:**
 - **Energia:**
 - **Velocidade:**
 
-## ⚙️ Progressão e Conexões
-- **Mascote/Arma Assinatura:** 
+## 🔗 Relacionados — Nokko
+
+- **Mascote/Arma Assinatura:**

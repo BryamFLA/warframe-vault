@@ -1,10 +1,15 @@
 ---
 title: Cambion Drift (Deimos)
+aliases: [Cambion Drift (Deimos), deimos]
 tipo: local
 subtipo: open-world
 faccao: infested
+resumo: "Cambion Drift (Deimos) — Landscape lore/faccoes/infested.md|Infested de Deimos, com hub no Necralisk (casa da mecanicas/sindicatos/entrati.md|House Entrati)."
+status: completo
+rag: true
 tags: [local, open-world, infested, deimos]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Cambion_Drift", "https://wiki.warframe.com/w/Module:Missions/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -14,9 +19,9 @@ agente: opus
 > [!info] Resumo
 > Landscape [[lore/faccoes/infested.md|Infested]] de Deimos, com hub no **Necralisk** (casa da [[mecanicas/sindicatos/entrati.md|House Entrati]]). Mapa **estático** na superfície, com cavernas **procedurais** que descem até ruínas Entrati. Ciclo **Fass / Vome** em vez de dia e noite. Exige **[[missoes/jornadas/principais/heart_of_deimos.md|Heart of Deimos]]**.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Cambion Drift (Deimos)
+
 
 | Item | Valor |
 |---|---|
@@ -37,9 +42,9 @@ agente: opus
 - **Entrar no Drift — do Necralisk ou direto do Star Chart — cria uma instância nova**, com geração procedural aplicada a **locais de spawn de recurso, veios minerais e rotas de caverna**.
 - **O progresso é salvo** ao: voltar ao Necralisk pelo airlock (encerra a missão e salva tudo); voltar à Orbiter pelo menu; **completar Bounties** (salva automaticamente); e pescar, minerar ou usar consumível (salva aquele conteúdo específico).
 
----
 
-## 🗺️ Conteúdo Especial
+## 🗺️ Conteúdo Especial — Cambion Drift (Deimos)
+
 
 | Item | Detalhe |
 |---|---|
@@ -89,9 +94,9 @@ Obeliscos espalhados pela superfície, cada um com um símbolo **Requiem**. A wi
 > [!important] Habilidade que agrupa inimigo multiplica o obelisco
 > Como a condição é o inimigo estar **afetado pelo efeito** e morrer pelo Operator/Necramech, qualquer Warframe que **junte inimigos** acelera muito o processo. Vale trazer um frame de agrupamento mesmo que você vá matar de Operator.
 
----
 
-## 💎 Recursos Nativos
+## 💎 Recursos — Cambion Drift (Deimos)
+
 
 | Recurso | Raridade | Melhor nó |
 |---|---|---|
@@ -102,9 +107,9 @@ Obeliscos espalhados pela superfície, cada um com um símbolo **Requiem**. A wi
 | Recursos de mineração e pesca do Drift (Pustulite, Thaumica, Trabeculum, Namalon, Bile, Ganglion, Pheromones, e os fillets de peixe) | Variado | **Requiem Obelisks** na superfície, mais eficientes que minerar ou pescar — exceto para os mais raros |
 | **Mother / Father / Daughter / Son / Otak / Grandmother Tokens** | Moeda de sindicato | **Bounties** e troca de recurso com os Entrati |
 
----
 
-## 🎯 Nós Notáveis
+## 🗺️ Missões — Cambion Drift (Deimos)
+
 
 | Nó | Tipo de missão | Facção | Nível | Por que importa |
 |---|---|---|---|---|
@@ -121,16 +126,12 @@ Obeliscos espalhados pela superfície, cada um com um símbolo **Requiem**. A wi
 | **Testudo** | Netracells | The Murmur | **220–240** | **O nó de nível mais alto de Deimos** — conteúdo de endgame |
 | **Munio** | Mirror Defense | The Murmur | 55–60 | Exige Whispers in the Walls |
 
----
 
-## 📖 Lore
+## 📖 História — Cambion Drift (Deimos)
+
 
 O **Necralisk** é a casa da **House Entrati**, uma família de [[lore/faccoes/orokin.md|Orokin]] **parcialmente Infestados**, ao norte do nó **Dirus** em Deimos. É a ruína de uma **residência Orokin opulenta** — muito menor que uma Orokin Tower — escondida dentro de um grande crescimento Infested no **nordeste do Cambion Drift**.
 
 A família sobreviveu à queda Orokin por ter se infestado deliberadamente, e cada membro guarda uma parte do legado de **[[lore/personagens/albrecht_entrati.md|Albrecht Entrati]]**, o patriarca que abriu as primeiras portas para o Void. Os **Isolation Vaults** nas cavernas guardam o que ele deixou lá embaixo, e **Albrecht's Laboratories** — aberta por **[[missoes/jornadas/principais/whispers_in_the_walls.md|Whispers in the Walls]]** — é a continuação direta dessa linha, agora com **[[lore/faccoes/murmur.md|The Murmur]]** como oposição.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Cambion_Drift — natureza estática da superfície com cavernas procedurais, os dois nós de acesso, limite de 50 jogadores no Necralisk, condições de salvamento de progresso, ciclo Fass/Vome com durações, resíduos, comportamento dos Necramechs e lista de peixes por ciclo, mineração em laranja/azul e troca com Otak, Requiem Obelisks (ativação por Void, 90 s, cooldown de 12 s, condições de drop, spawns, desgaste), Velocipods como K-Drive, Blinkpads (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Missions/data — os 18 nós de Deimos com tipo, facção, nível, tileset, bosses e pré-requisitos; recursos de região de Deimos (consultado em 2026-10-06)

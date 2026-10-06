@@ -1,9 +1,14 @@
 ---
 title: Void Flood
+aliases: [Void Flood]
 tipo: missao
 subtipo: tipo
+resumo: "Void Flood — Modo endless do locais/open-worlds/zariman.md|Zariman Ten Zero: coletar Vitoplast com um drone e depositá-lo nas Void Ruptures para selá-las, matando os Thrax que aparecem e mantendo o medidor de Corruption controlado."
+status: completo
+rag: true
 tags: [missao, tipo, endless, zariman]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Void_Flood", "https://wiki.warframe.com/w/Module:Missions/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Modo endless do [[locais/open-worlds/zariman.md|Zariman Ten Zero]]: coletar **Vitoplast** com um drone e depositá-lo nas **Void Ruptures** para selá-las, matando os **Thrax** que aparecem e mantendo o medidor de **Corruption** controlado.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Void Flood
+
 
 | Item | Detalhe |
 |---|---|
@@ -27,9 +32,9 @@ agente: opus
 | Equipamento obrigatório | **Amp de Void** no Operator/Drifter — a forma espectral do Thrax só morre com dano de Void |
 | Nós no jogo | **1** — Everview Arc, Zariman |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Void Flood
+
 
 1. Cada jogador recebe automaticamente um **drone** que coleta o **Vitoplast** espalhado pela área ou dropado por inimigos, e que deve ser **depositado numa Void Rupture**.
 2. Existem **dois tipos de Vitoplast**:
@@ -59,9 +64,9 @@ agente: opus
 
 **Rotações de recompensa:** recompensa a cada **3 Void Ruptures seladas + o abate dos Thrax**, na ordem **AABC**.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Void Flood
+
 
 | Planeta | Nó | Facção | Nível | Tileset |
 |---|---|---|---|---|
@@ -69,9 +74,9 @@ agente: opus
 
 **Melhor nó para farmar:** **Everview Arc** é o único. É também um dos nós com **Omnia Void Fissure** em vez de fissura normal — ver [[missoes/tipos/void_fissure.md|Void Fissure]].
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Void Flood
+
 
 | Recompensa | Rotação | Chance | Nota |
 |---|---|---|---|
@@ -85,9 +90,9 @@ agente: opus
 > [!info] A tabela de rotação é a mesma dos três modos do Zariman
 > **Void Flood**, **[[missoes/tipos/void_cascade.md|Void Cascade]]** e **[[missoes/tipos/void_armageddon.md|Void Armageddon]]** compartilham a mesma estrutura de recompensa por rotação. Tabela integral em https://wiki.warframe.com/w/Void_Flood/Rewards.
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Void Flood
+
 
 - **Não traga [[warframes/regular/limbo.md|Limbo]] nem [[warframes/regular/wukong.md|Wukong]].** O Rift Plane e o Cloud Walker **impedem** a coleta de Vitoplast — os dois frames inviabilizam o objetivo principal.
 - **Vacuum e Fetch não funcionam aqui.** Vitoplast tem que ser coletado passando por cima; mod de aspiração é tempo perdido.
@@ -97,7 +102,3 @@ agente: opus
 - **Globules se movem.** Com **Chaotic Vitoplast** ativo, priorize **Droplets** de inimigo: perseguir um Globule acelerado custa mais tempo que vale.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Void_Flood — drone, Droplets e Globules, incompatibilidade com Vacuum/Fetch/Rift/Cloud Walker, Thrax espectral, Skittergirl, medidor de Corruption em 40/70/100%, redução de 35%, janela de 2 min 30 s, tabela de Void Contamination Effects, rotação AABC e recompensas (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Missions/data — nó Everview Arc, Zariman, nível 50–55, pré-requisito (consultado em 2026-10-06)

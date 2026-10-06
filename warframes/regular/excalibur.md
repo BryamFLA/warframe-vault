@@ -1,12 +1,14 @@
 ---
 title: Excalibur
+aliases: [Excalibur]
 tipo: warframe
-status: nao-obtido
-polaridade: []
 categoria: melee
-tags:
-  - warframe
-atualizado: 2026-09-09
+resumo: "Excalibur — Combatente melee com espada exaltada, cegueira e Slash Dash invulnerável; acessível no início e dependente de uma espada bem modificada no conteúdo avançado."
+status: completo
+rag: true
+tags: [warframe]
+fontes: ["https://wiki.warframe.com/w/Excalibur", "https://wiki.warframe.com/w/Excalibur/Abilities", "https://wiki.warframe.com/w/Excalibur/Prime", "https://wiki.warframe.com/w/Excalibur/Cosmetics", "https://wiki.warframe.com/w/Warframe_Augment_Mods", "https://wiki.warframe.com/w/Helminth", "https://wiki.warframe.com/w/The_Circuit", "https://wiki.warframe.com/w/Vitality"]
+atualizado: 2026-10-07
 verificado: false
 agente: gpt
 ---
@@ -16,9 +18,9 @@ agente: gpt
 > [!info] Resumo em uma linha
 > Combatente melee com espada exaltada, cegueira e Slash Dash invulnerável; acessível no início e dependente de uma espada bem modificada no conteúdo avançado.
 
----
 
-## 📊 Estatísticas Base
+## 📊 Stats Base — Excalibur
+
 
 Valores sem mods. Os bônus das habilidades abaixo usam o rank máximo da habilidade, salvo indicação contrária.
 
@@ -39,9 +41,9 @@ Valores sem mods. Os bônus das habilidades abaixo usam o rank máximo da habili
 
 **Versão Prime:** [[warframes/primes/excalibur_prime.md|Excalibur Prime]] — Excalibur Prime existe, mas é exclusivo de Founders, sem farm por relíquias. Tem 315 de armadura e 225 de energia no rank 30, contra 240 e 150 do regular; vida e escudo permanecem 370. Excalibur Umbra é outra variante, distinta do Prime.
 
----
 
-## 🔮 Habilidades
+## 🔮 Habilidades — Excalibur
+
 
 Custos-base de energia, antes de Eficiência. A passiva não consome energia; Eficiência reduz os custos de ativação de todas as habilidades.
 
@@ -72,9 +74,9 @@ Custos-base de energia, antes de Eficiência. A passiva não consome energia; Ef
 
 Os sindicatos principais vendem seus augments no rank máximo de reputação por 25.000 de Standing cada. Augments de Conclave seguem oferta própria; não presumir o mesmo vendedor/preço. Nomes sem wikilink não possuem alvo próprio confirmado no índice do vault.
 
----
 
-## 🏗️ Aquisição e Fundição
+## 🏗️ Como Construir — Excalibur
+
 
 **Fonte principal do blueprint:** Escolha inicial em Awakening ou blueprint principal no Mercado por 35.000 créditos. Os três blueprints de componentes vêm de Lieutenant Lech Kril, em War, Marte.
 
@@ -108,9 +110,9 @@ As peças são fabricadas separadamente e depois consumidas pela montagem final.
 - O Circuito (Duviri): Disponível na rotação de recompensas do Circuito normal: selecionar Excalibur e avançar a trilha entrega neurovisor, chassi, sistemas e blueprint principal. Não confundir com a seleção aleatória de equipamentos emprestados.
 - Relíquias (só para Prime): não fornecem peças do Excalibur regular. A versão Prime possui aquisição separada.
 
----
 
-## 🛠️ Builds
+## 🛠️ Build — Excalibur
+
 
 Sugestões editoriais baseadas nas mecânicas verificadas; não são builds medidas em jogo. A geral usa mods de sobrevivência e Equilibrium em ranks intermediários para conter o custo. As contas de Forma pressupõem Warframe rank 30 com Reator Orokin, aura no rank indicado e os mods exatamente nos ranks das tabelas.
 
@@ -172,9 +174,9 @@ Mantenha Toxin e Cold antes de Heat na ordem de combinação para formar Viral +
 
 **Forma da espada:** ⚠️ NAO VERIFICADO: quantidade exata, pois não foi auditada a polarização inicial da Exalted Blade e sua capacidade nesta sessão. Priorize compatibilidade nos slots de Molten Impact e dos mods Madurai mais caros. A contagem de Forma do Warframe não inclui a espada.
 
----
 
-## 🧬 Helminth
+## 🧬 Helminth — Excalibur
+
 
 | Item | Valor |
 |---|---|
@@ -184,9 +186,9 @@ Mantenha Toxin e Cold antes de Heat na ordem de combinação para formar Viral +
 
 [[mecanicas/helminth.md|Helminth]] permite substituir uma habilidade da configuração. A subsunção sacrifica o Warframe regular; não sacrifica a variante Prime. As recomendações acima são alternativas às builds com kit original, e não trocas já realizadas no inventário do jogador.
 
----
 
-## 🔗 Sinergias e Uso
+## 🔗 Sinergias e Uso — Excalibur
+
 
 **Funciona bem em:** [[missoes/tipos/exterminate.md|Exterminate]] e [[missoes/tipos/survival.md|Survival]]: a espada atravessa grupos com ondas e Radial Blind cria oportunidades de ataque. No Steel Path, o controle e os mods da espada precisam acompanhar o dano inimigo.
 
@@ -196,21 +198,21 @@ Mantenha Toxin e Cold antes de Heat na ordem de combinação para formar Viral +
 
 **Armas que combinam:** Skana ou Nikana Prime aproveitam Swordsmanship; a passiva melhora dano e velocidade dessas categorias. A principal arma da configuração proposta é a própria Exalted Blade, cujo equipamento de mods é independente da melee comum.
 
----
 
-## 📖 Lore e Códice
+## 📖 História — Excalibur
+
 
 O Códice do regular apresenta um espadachim. O arquivo Orokin do Prime narra a adoção dos Tenno contra os Sentients, que voltavam a tecnologia Orokin contra seus criadores; encerra identificando Excalibur como o primeiro.
 
----
 
-## 💡 Curiosidades
+## 💡 Curiosidades — Excalibur
+
 
 - O nome remete à espada de Rei Arthur. A aparência Proto-Armor faz referência ao traje de Hayden Tenno em Dark Sector.
 
----
 
-## 🎨 Fashion Frame
+## 🎨 Fashion Frame — Excalibur
+
 
 | Item | Opções |
 |---|---|
@@ -220,48 +222,3 @@ O Códice do regular apresenta um espadachim. O arquivo Orokin do Prime narra a 
 | Paletas que combinam | Sugestão estética: cinza, branco e vermelho. Com Chromatic Blade, a cor emissiva primária altera o elemento; confirme o ícone elemental antes de sair do Arsenal. |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Excalibur — stats rank 0/30, polaridades, aquisição, receitas e contexto (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Excalibur/Abilities — passiva, custos e efeitos das habilidades, detalhamento e augments (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Excalibur/Prime — comparação com a versão Prime (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Excalibur/Cosmetics — nomes e categorias das opções cosméticas (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Warframe_Augment_Mods — sindicatos dos augments; categoria Conclave quando indicada (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Helminth — habilidade transferível e restrições; Roar transferido (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/The_Circuit — rota alternativa e distinção entre recompensa e equipamento emprestado (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Vitality — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Steel_Fiber — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Intensify — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Continuity — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Stretch — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Streamline — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Flow — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Equilibrium — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Chromatic_Blade — efeito e notas específicas (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Furious_Javelin — efeito e notas específicas (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Transient_Fortitude — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Primed_Continuity — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Rolling_Guard — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Steel_Charge — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Mobilize — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Orokin_Cell — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Alloy_Plate — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Neural_Sensors — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Polymer_Bundle — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Rubedo — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Morphics — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Ferrite — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Control_Module — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Salvage — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Plastids — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Arcane_Energize — efeito e recarga (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Molt_Augmented — efeito e limite de acúmulos (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Pressure_Point — efeito e notas específicas (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Fury — efeito e notas específicas (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/True_Steel — efeito e notas específicas (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Organ_Shatter — efeito e notas específicas (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Virulent_Scourge — efeito e notas específicas (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Vicious_Frost — efeito e notas específicas (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Molten_Impact — efeito e notas específicas (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Life_Strike — efeito e notas específicas (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Exalted_Blade_(Weapon) — características da arma e divergência de alcance (consultado em 2026-09-09).

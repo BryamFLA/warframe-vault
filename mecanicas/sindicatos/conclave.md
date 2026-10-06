@@ -1,8 +1,13 @@
 ---
 title: Conclave
+aliases: [Conclave]
 tipo: mecanica
+resumo: "O sistema PvP do Warframe, liderado pelo Teshin Dax no Conclave Hall de cada Relay; sindicato neutro onde o Standing vem de jogar partidas e cumprir desafios — e onde dano, energia, crítico e status funcionam por regras completamente difere."
+status: completo
+rag: true
 tags: [mecanica, sindicato, conclave, pvp, teshin, lunaro, neutro]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Conclave", "https://wiki.warframe.com/w/Orokin_Ducats"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > O sistema PvP do Warframe, liderado pelo Teshin Dax no Conclave Hall de cada Relay; **sindicato neutro** onde o Standing vem de jogar partidas e cumprir desafios — e onde dano, energia, crítico e status funcionam por **regras completamente diferentes** do PvE.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Conclave
+
 
 O Conclave (Update 10.0, 2013-09-13) é um **sindicato neutro** liderado pelo **Conclave Master, [[lore/personagens/teshin.md\|Teshin Dax]]**, que fica no **Conclave Hall** de cada Relay. Ele gerencia o PvP e paga em recompensas.
 
@@ -27,9 +32,9 @@ Standing aqui **não** vem de Affinity: vem de **participar e terminar partidas,
 > [!danger] Punição por abandono
 > Abandonar **5 partidas cedo** ativa uma penalidade de demoção que **bloqueia todo ganho de Conclave Standing por uma semana**.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Conclave
+
 
 ```
 Standing de Challenge é BÔNUS: não conta no teto diário
@@ -83,9 +88,9 @@ Wall latch no Conclave: 6 s
 - **Bônus de Signature Weapon não se aplicam** (o Knell não ganha bala extra com o Harrow, por exemplo).
 - Em modo de time, **nenhum time vê ou ouve o chat nem os waypoints do outro**.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Conclave
+
 
 ### Ranks, sacrifícios e benefícios
 
@@ -177,9 +182,9 @@ Até 8 por dia, 2 por modo. Recompensa de **500 / 1.500 / 3.000** (ou **1.000 / 
 | **Interception!** | Interceptar X passes do oponente (Lunaro) |
 | **Snatch and Grab** | Roubar a bola X vezes (Lunaro) |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Conclave
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -196,9 +201,9 @@ Até 8 por dia, 2 por modo. Recompensa de **500 / 1.500 / 3.000** (ou **1.000 / 
 | Pegar o Exilus Adapter BP | **Rank 5 (Typhoon)** — custa 100 Ducats e 500.000 Credits de sacrifício |
 | Jogar sem PvP de verdade | **Lunaro** não usa armas: é um esporte de equipe com Arcatas, 20 pontos ou 6 minutos |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Conclave
+
 
 - **"Minha build de PvE funciona no Conclave."** Não. **Crítico e status não existem** como no PvE; viram **Headshot Multiplier**. E o mod set de Conclave é separado.
 - **"Escudo reduz dano como no PvE."** No Conclave **escudo não tem redução innata**, e os Warframes usam os tipos de defesa **pré-Update 27.2**.
@@ -211,9 +216,9 @@ Até 8 por dia, 2 por modo. Recompensa de **500 / 1.500 / 3.000** (ou **1.000 / 
 - **"Conclave é só matar gente."** Tem **Lunaro** (esporte sem armas), **Cephalon Capture** (CTF) e **Faceoff** (corrida de objetivos em PvE compartilhado).
 - **"Subir Conclave derruba algum sindicato."** É **neutro**.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Conclave
+
 
 - [[mecanicas/augments.md|Augments]] — o Conclave vende **qualquer** augment permitido em PvP, independentemente do Warframe; alguns funcionam em PvE.
 - [[mecanicas/parkour.md|Parkour]] — **Mobility** é um stat **exclusivo do Conclave** (multiplicador de Bullet Jump, slide e atrito), e o Wall Latch dura 6 s aqui.
@@ -229,7 +234,3 @@ Até 8 por dia, 2 por modo. Recompensa de **500 / 1.500 / 3.000** (ou **1.000 / 
 - [[cosmeticos/syandanas.md|Syandanas]] — a **Celestia Syandana** do Conclave decai **por dia**, não por missão, diferente de todas as outras.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Conclave — liderança do Teshin, tabela completa de ranks com sacrifício e benefício, os 5 modos de jogo com condições de vitória e variantes, Standing do Faceoff por objetivo e por Path, features especiais (Impair, revelação no minimapa, chat separado, efeitos de sindicato e Signature desativados), mecânica de dano do Conclave (Headshot Multiplier, tipos de defesa pré-27.2, tabela de eficácia por tipo), custo fixo de 100 de energia para ultimate canalizada, curva de regeneração passiva de energia, Recruit Conditioning, aquisição de Standing (Challenges fora do teto, reset 19:15 GMT, Weekly Missions e recompensa, bônus de 10%, punição de 5 abandonos), lista completa de Daily Challenges (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Orokin_Ducats — os 100 Ducats do sacrifício final do Conclave (consultado em 2026-10-04)

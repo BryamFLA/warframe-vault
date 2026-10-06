@@ -1,9 +1,16 @@
 ---
 title: Tauga Hound
-tipo: hound
-tags:
-  - companheiro
-  - hound
-status: nao-obtido
-atualizado: 2026-04-19
+aliases: [Tauga Hound, tauga]
+tipo: companheiro
+subtipo: hound
+resumo: Tauga Hound — conteúdo ainda não preenchido no vault.
+status: stub
+rag: false
+tags: [companheiro, hound]
+atualizado: 2026-10-07
+agente: opus
 ---
+
+# Tauga Hound
+
+

@@ -1,10 +1,15 @@
 ---
 title: Azurite
+aliases: [Azurite]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+resumo: "Azurite — Recurso do tipo gem, cuja melhor fonte confirmada é Narmer Thumper."
+status: completo
+rag: true
 tags: [recurso, open_world, gem]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Tear_Azurite", "https://wiki.warframe.com/w/Module:Resources/data", "https://wiki.warframe.com/w/Module:DropTables/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “Polished and cut to perfection.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Azurite
+
 
 | Item | Valor |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 > [!note] Nota do jogo
 > Blueprint sold by Old Man Suumbaat in Cetus on Earth.
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Azurite
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -57,9 +62,9 @@ agente: opus
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Azurite
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este recurso:
 
@@ -80,8 +85,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este recurso
 > Total de **11** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Tear_Azurite — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)

@@ -1,10 +1,15 @@
 ---
 title: Sporulate Sac
+aliases: [Sporulate Sac]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+resumo: "Sporulate Sac — Recurso do tipo fish part, 1 por drop."
+status: completo
+rag: true
 tags: [recurso, open_world, fish_part]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Sporulate_Sac", "https://wiki.warframe.com/w/Module:Resources/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “These pressurized repositories of Infested spores require careful extraction or explosive rupture and local contamination may occur.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Sporulate Sac
+
 
 | Item | Valor |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 > [!note] Nota do jogo
 > Source: Cut from Glutinox fish via Daughter in the Necralisk (Deimos). Catch Glutinox on the Cambion Drift surface during Vome.  Also drops from Requiem Obelisks and Infested Cysts in the Cambion Drift.
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Sporulate Sac
+
 
 **Da seção de aquisição da wiki:** Sporulate Sacs can be obtained by filleting Glutinox (from the Cambion Drift) at Daughter in the Necralisk. Each Glutinox will give 1 Sporulate Sac regardless of size. Sporulate Sacs can also be bought from Daughter from the "Daily Special" in exchange for Platinum. Note that the "Daily Special" wares are rotating, and Sporulate Sacs may not be there. Sporulate Sacs can also be randomly obtained from Requiem Obelisks Sporulate Sacs can be housed within common Rolizor Infested and rare Spitia Infested Cysts scattered around on the Cambion Drift.
 
@@ -53,9 +58,9 @@ agente: opus
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Sporulate Sac
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este recurso:
 
@@ -71,7 +76,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este recurso
 > Total de **6** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Sporulate_Sac — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)

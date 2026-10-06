@@ -1,8 +1,13 @@
 ---
 title: New Loka
+aliases: [New Loka]
 tipo: mecanica
+resumo: New Loka — Adoradores da forma humana e da Terra pré-corrupção; para eles o conflito só termina com a restauração de uma humanidade pura e o repovoamento do planeta.
+status: completo
+rag: true
 tags: [mecanica, sindicato, new-loka, terra, pureza]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Syndicate", "https://wiki.warframe.com/w/Warframe_Augment_Mods"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Adoradores da forma humana e da Terra pré-corrupção; para eles o conflito só termina com a restauração de uma humanidade pura e o repovoamento do planeta.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — New Loka
+
 
 Para a New Loka, o conflito só pode terminar pela **restauração de uma humanidade pura** e pelo **repovoamento da Terra**. São **adoradores da forma humana** e da Terra como ela era **antes da corrupção**.
 
@@ -28,7 +33,8 @@ Mecanicamente, New Loka é um **sindicato de facção**: o console de sindicatos
 | ⚠️ **Oposto** | Steel Meridian | **−50% Rep** |
 | ⛔ **Inimigo** | Cephalon Suda | **−100% Rep** |
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — New Loka
+
 
 ```
 Conversão de Affinity em Standing (com Pledge ativo no terminal da Orbiter) = 15%
@@ -75,9 +81,9 @@ Syndicate Medallions por missão de alerta = 8
 - Assassinos (Stalker e companhia) **não** spawnam em missão de sindicato.
 - Missão de sindicato **ignora** a lista normal de spawn do tileset — dá para encontrar Hellion em Grineer Asteroid e Anti MOA fora da Gas City.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — New Loka
+
 
 ### Identidade de equipamento
 
@@ -144,9 +150,9 @@ O Death Squad deste sindicato é sempre do mesmo tipo: **Ancient Healer — Vola
 
 **Matar o Death Squad não muda o Standing** nem desencoraja o sindicato. Outros Tenno podem ajudar sem sofrer penalidade. E, diferente de Assassins, **não existe Death Mark nem aviso no inbox** — o único indicador é o próprio Standing negativo.
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — New Loka
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -158,9 +164,9 @@ O Death Squad deste sindicato é sempre do mesmo tipo: **Ancient Healer — Vola
 | Escolher o presente de promoção | Arma exclusiva **não pode** ser o presente grátis — escolha mod ou cosmético e compre a arma com Standing |
 | Efeito de sindicato na arma | Equipe um **Weapon Augment** desta lista. A arma passa a acumular Syndicate Points pela Affinity dela e dispara Purity (Corrosive radial + +25% de Vida base + 25% de Vida) quando a barra enche |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — New Loka
+
 
 - **"Posso subir todos os sindicatos."** Não ao mesmo tempo. Subir New Loka **derruba** Steel Meridian (−50%) e Cephalon Suda (−100%).
 - **"Standing sobra depois da promoção."** **Todo** o Standing é consumido ao subir de rank, mais um sacrifício em Credits e recursos.
@@ -172,9 +178,9 @@ O Death Squad deste sindicato é sempre do mesmo tipo: **Ancient Healer — Vola
 - **"Caí 3 ranks, preciso de 3 sacrifícios."** Desde o Update 16, é **um sacrifício por tier** ao se mover entre eles.
 - **"Posso escolher outro presente ao reconquistar o rank."** Não. Reobter rank após rebaixamento **não** libera outra escolha.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — New Loka
+
 
 - [[mecanicas/sindicatos/_Sindicatos _Indice.md|Sindicatos]] — a visão geral das 18 facções e suas relações.
 - [[mecanicas/augments.md|Augments]] — a tabela completa de Warframe → augment → sindicato, e os grupos que não brigam entre si.
@@ -188,7 +194,3 @@ O Death Squad deste sindicato é sempre do mesmo tipo: **Ancient Healer — Vola
 - [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]] — inimigo: −100% de Rep.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Syndicate — descrição e relações do sindicato, tabela de ranks e Standing, conversão de 15% da Affinity, teto diário, ofertas por rank (Specter, Relic Pack, Team Bonus Consumable, Weapon Augments, Warframe Augments), tabela de efeito de sindicato por facção (dano, restauração e buff), armas exclusivas, Syandanas, partes de Archweapon, Death Squads, Syndicate Alerts e Medallions (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Warframe_Augment_Mods — lista de Warframes favorecidos e regras de aquisição (consultado em 2026-10-04)

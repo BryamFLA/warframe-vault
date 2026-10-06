@@ -1,9 +1,14 @@
 ---
 title: Corpus
+aliases: [Corpus]
 tipo: lore
 subtipo: faccao
+resumo: "Corpus — Confederação de corporações fundada por Parvos Granum que adora o Lucro, domina Vênus, Júpiter, Europa, Netuno e Plutão, e compensa a tropa fraca com escudos, proxies robóticos e tecnologia roubada de Orokin e Sentients."
+status: completo
+rag: true
 tags: [lore, faccao, corpus]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Corpus", "https://wiki.warframe.com/w/Damage_2.0/Corpus_Tab", "https://wiki.warframe.com/w/Damage_2.0/Overview_Table"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Confederação de corporações fundada por Parvos Granum que adora o Lucro, domina Vênus, Júpiter, Europa, Netuno e Plutão, e compensa a tropa fraca com escudos, proxies robóticos e tecnologia roubada de Orokin e Sentients.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Corpus
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Ativos e fragmentados. Granum retomou o controle, mas a Board segue em guerra interna (Nef Anyo, Frohd Bek, Alad V) |
 | Dublagem | Elenco variado (facção, não personagem único) |
 
----
 
-## 📖 História
+## 📖 História — Corpus
+
 
 O Corpus nasceu de **Parvos Granum**, filho de camponeses que serviam aos [[lore/faccoes/orokin.md|Orokin]]. Revoltado com a distância entre senhores e trabalhadores, ele defendeu que qualquer pessoa, independente de classe, tinha direito de perseguir o próprio "Desejo". Depois de roubar dos Orokin e conseguir um empréstimo, Granum passou a emprestar parte da fortuna a outros, espalhando com cada transação a doutrina contra a complacência e a ociosidade. Fundou a cidade de Corposium e a Corpus Board of Directors. No começo os Orokin aceitaram o Corpus — durante a [[lore/cronologia/antiga_guerra.md|Antiga Guerra]] chegaram a dar a Granum uma Warframe como guarda-costas — mas depois passaram a condenar o grupo como "culto mercante".
 
@@ -35,9 +40,9 @@ Granum provocou a ruptura: quando os Orokin enviaram um esquadrão de Warframes 
 
 Sem liderança central, o Corpus se afastou do que Granum pregava: os membros mais influentes passaram a viver do trabalho alheio e a valorizar **Lucro** em vez de Desejo. Crewmen são condicionados desde o nascimento a adorar dinheiro e a figura mítica de Granum; os capacetes apagam sua individualidade e modulam a voz, tornando-os quase indistinguíveis dos próprios proxies. Após o Colapso, o Corpus disputa o Sistema de Origem com os [[lore/faccoes/grineer.md|Grineer]] — e vende armas a eles ao mesmo tempo.
 
----
 
-## 🏛️ Estrutura e Unidades
+## 🏛️ Estrutura e Unidades — Corpus
+
 
 ### Divisões (por local e função)
 
@@ -100,9 +105,9 @@ Sem liderança central, o Corpus se afastou do que Granum pregava: os membros ma
 > [!important] Toxin atravessa escudo
 > Dano Toxin (e o status Poison) ignora Shield e Proto Shield e atinge a saúde direto. É por isso que builds de Toxin/Viral são o padrão anti-Corpus, enquanto Magnetic só vale quando o objetivo é derrubar o escudo rápido. Ver [[mecanicas/dano_e_status.md|Dano e Status]].
 
----
 
-## ⚔️ Chefes Corpus
+## ⚔️ Chefes Corpus — Corpus
+
 
 | Chefe | Onde | Recompensa principal |
 |---|---|---|
@@ -121,9 +126,9 @@ Sem liderança central, o Corpus se afastou do que Granum pregava: os membros ma
 > [!info] Orbs têm escudo Sentient
 > O Profit-Taker Orb usa **adaptação Sentient** nos escudos, posta em sobrecarga por satélites, e carapaça de nave Corpus — por isso a luta exige derrubar as pernas e usar dano de Archwing. O Exploiter Orb **não** tem adaptação Sentient, mas a carapaça também é imune a tiro: a fraqueza dele é superaquecimento.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Corpus
+
 
 - **[[lore/faccoes/orokin.md|Orokin]]** — antigos senhores. Granum era servo Orokin; depois o Império condenou o Corpus como culto mercante. As altas patentes Corpus hoje alegam ter sangue Orokin.
 - **[[lore/faccoes/grineer.md|Grineer]]** — rival militar permanente em Invasions, e ao mesmo tempo cliente: o Corpus vende armamento aos Grineer.
@@ -133,9 +138,9 @@ Sem liderança central, o Corpus se afastou do que Granum pregava: os membros ma
 - **[[mecanicas/sindicatos/perrin_sequence.md|Perrin Sequence]]** — dissidência pacifista liderada por Ergo Glast, ex-Corpus, criador do processador Animo que Frohd Bek transformou em arma.
 - **[[mecanicas/sindicatos/solaris_united.md|Solaris United]]** — os Solaris de Fortuna são trabalhadores endividados do Corpus sob Nef Anyo; Eudico lidera a resistência.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Corpus
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -150,8 +155,3 @@ Sem liderança central, o Corpus se afastou do que Granum pregava: os membros ma
 | Index e Granum Void | Atividades econômicas de alto risco (crédito e Protea) |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Corpus (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Corpus_Tab (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Overview_Table (consultado em 2026-10-04)

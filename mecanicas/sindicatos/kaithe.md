@@ -1,8 +1,13 @@
 ---
 title: Kaithe
+aliases: [Kaithe]
 tipo: mecanica
+resumo: "Kaithe — Montaria de Duviri do Drifter: criatura equina com asas etéreas que voa, corre a 7 m/s (14 m/s em dash) e tem quatro habilidades próprias destravadas pelos Riding Intrinsics."
+status: completo
+rag: true
 tags: [mecanica, kaithe, duviri, drifter, montaria, intrinsics]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Kaithe"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -15,9 +20,9 @@ agente: opus
 > [!warning] Nota de estrutura do vault
 > Este arquivo está dentro de `mecanicas/sindicatos/`, mas o **Kaithe não é um sindicato** — é a montaria de Duviri. O arquivo foi preenchido com o conteúdo correto do que ele nomeia. Os sindicatos que ainda **não têm arquivo** no vault são **Ventkids**, **Kahl's Garrison**, **The Hex** e **Nightcap**. Ver `_MODELOS/_STATUS_opus.md`.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Kaithe
+
 
 > *"O Kaithe de Duviri. Uma memória vestida num sonho de aço. Mais rápido que flechas, mais leal que o coração de um soldado firme. Corra reto, nobre Kaithe!"* — Bombastine
 
@@ -27,9 +32,9 @@ O Kaithe é obtido na quest **[[missoes/jornadas/principais/the_duviri_paradox.m
 
 Montado, o Drifter usa **controles de movimento equinos**, empunha o **Sirocco** e acessa **quatro habilidades especiais**. Todos os stats do Kaithe — vida, escudo, armadura, energia — são **herdados do montador**, e o Kaithe **não é modável** nem tem variantes customizáveis de stat (só cosméticas).
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Kaithe
+
 
 ```
 Velocidade        =  7 m/s
@@ -66,9 +71,9 @@ Overpowering Abilities: +150% de dano do Drifter por 3 s ao montar
 - Invocar ou desmontar **parado** é animação de corpo inteiro que trava tudo; **em movimento**, o movimento continua.
 - **Todas as peças do Kaithe são puramente cosméticas** e compradas com **Platinum**.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Kaithe
+
 
 ### As quatro habilidades
 
@@ -140,9 +145,9 @@ Todas as peças são **puramente cosméticas** e compradas com **Platinum**. A c
 | Aethon Kaithe Collection | Aethon Tail, Chamfron e Saddle | 160 pl |
 | Aumen Kaithe Collection | Aumen Tail, Chamfron e Saddle | 155 pl |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Kaithe
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -159,9 +164,9 @@ Todas as peças são **puramente cosméticas** e compradas com **Platinum**. A c
 | Marcar os Enigma de Duviri | Comprar **Enigma Sense** da **Acrithis** — upgrade permanente do Guiding Hand |
 | Dar nome ao Kaithe | **Riding Rank 8 (Unique Identity)** |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Kaithe
+
 
 - **"O Kaithe é um sindicato."** Não é. É a **montaria de Duviri**. (O arquivo está na pasta de sindicatos por decisão de estrutura do vault, não por ser um.)
 - **"Dá para modar o Kaithe."** **Não é modável.** Vida, escudo, armadura e energia são **herdados do montador**, e todas as peças são **cosméticas**.
@@ -172,9 +177,9 @@ Todas as peças são **puramente cosméticas** e compradas com **Platinum**. A c
 - **"Comprar o Pedigree não dá a cauda."** **Dá.** Todo Pedigree vem com o Tail correspondente.
 - **"Steadfast Dismount pode ser spammado."** Cooldown de **150 segundos**.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Kaithe
+
 
 - [[mecanicas/parkour.md|Parkour]] — o Kaithe substitui o parkour como locomoção em Duviri; 7 m/s contra ~1,0 de Sprint Speed de Warframe.
 - [[mecanicas/operator_e_focus.md|Operator e Focus]] — o Drifter é a contraparte do Operator, e usa o Sirocco montado.
@@ -192,6 +197,3 @@ Todas as peças são **puramente cosméticas** e compradas com **Platinum**. A c
 - [[recursos/open_worlds/duviri/pathos_clamp.md|Pathos Clamp]] e [[recursos/open_worlds/duviri/cavaleros_burden.md|Cavalero's Burden]] — recursos da região.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Kaithe — natureza e lore do Kaithe, aquisição em The Duviri Paradox, velocidade de 7 e 14 m/s, stats herdados do montador e ausência de modding, as quatro habilidades com valores exatos (150 de dano do Hoof Stomp, 150 de Overguard e 150 s de cooldown do Steadfast Dismount), tabela completa dos 10 Riding Intrinsics, sinergias de Combat Intrinsics Rank 5, 6 e 10, upgrade Enigma Sense da Acrithis, lista completa de componentes cosméticos (Pedigree, Chamfron, Tail, Saddle, Coronet) com preços em Platinum e os bundles (consultado em 2026-10-04)

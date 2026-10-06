@@ -1,10 +1,15 @@
 ---
 title: Kuva
+aliases: [Kuva]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: planeta
+resumo: "Recurso, farmado em Kuva Siphon Missions and Taveuni (Kuva Fortress)."
+status: completo
+rag: true
 tags: [recurso, planeta]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Kuva_%28Resource%29", "https://wiki.warframe.com/w/Module:Resources/data", "https://wiki.warframe.com/w/Module:DropTables/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “A mysterious red fluid coveted by the Grineer Queens. It can be obtained in Kuva Missions, and is used to Cycle Rivens or build rare blueprints.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Kuva
+
 
 | Item | Valor |
 |---|---|
@@ -30,9 +35,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **Não** |
 | Introduzido no Update | **19** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Kuva
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -74,9 +79,9 @@ No vault: [[locais/planetas/kuva_fortress.md|Kuva Fortress]].
 > [!warning] Booster não funciona neste recurso
 > Os dados da wiki marcam este item como **não afetado** por Resource Booster nem por Resource Drop Chance Booster. Boosters e frames de loot **não aceleram** o farm dele.
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Kuva
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este recurso:
 
@@ -91,8 +96,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este recurso
 > Total de **5** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Kuva_%28Resource%29 — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)

@@ -1,8 +1,13 @@
 ---
 title: Incarnon
+aliases: [Incarnon]
 tipo: mecanica
+resumo: "Incarnon — Sistema de evolução de armas que as toca com o Void: desafios liberam Evolutions, e o Alt Fire ativa a Incarnon Form — um modo com munição, dano e comportamento próprios."
+status: completo
+rag: true
 tags: [mecanica, incarnon, genesis, armas, evolucao, circuit]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Incarnon"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Sistema de evolução de armas que as toca com o Void: desafios liberam Evolutions, e o Alt Fire ativa a **Incarnon Form** — um modo com munição, dano e comportamento próprios.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Incarnon
+
 
 Existem dois tipos. As **Incarnon naturais** nasceram assim: as armas do [[locais/open-worlds/zariman.md\|Zariman]] eram parafernália cerimonial alterada pelo acidente do Void, e as do Sanctum Anatomica são experimentos do Albrecht Entrati. As outras precisam de um **Incarnon Genesis** instalado — um adaptador vindo do [[mecanicas/steel_path.md\|Steel Path]] Circuit, instalado pelo **Cavalero** no Chrysalith do Zariman.
 
@@ -27,9 +32,9 @@ Como se ativa a Incarnon Form depende da classe. **Primária e secundária:** en
 >
 > **Exceção:** armas **Akimbo** e **Dual** não são consideradas a mesma arma e **não** recebem o Genesis da versão simples.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Incarnon
+
 
 ```
 Duração da Incarnon Form (melee) = 180 s
@@ -69,9 +74,9 @@ Compra direta no Incarnon Market do Cavalero = 120 Platinum (1x por semana, incl
 - O Cavalero **não adapta arma que você não tem**: é preciso possuir o Genesis **e** a arma.
 - MR mínimo para os blueprints das armas do Zariman: **Mastery Rank 14**. Esses blueprints **são tradeáveis**.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Incarnon
+
 
 ### Como conseguir cada tipo
 
@@ -158,9 +163,9 @@ Toda melee Incarnon Genesis dá bônus de mobilidade ao entrar em Incarnon Mode 
 | Thalys | 4: Vaulting Leap | **Sempre ativo** | Altura do pulo | **+100%** |
 | [[armas/secundarias/laetum.md\|Laetum]] | 2: Raptor's Chase | Mirando (ADS) | Movement Speed | **+50%** |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Incarnon
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -179,9 +184,9 @@ Toda melee Incarnon Genesis dá bônus de mobilidade ao entrar em Incarnon Mode 
 
 **Frames que interagem:** [[warframes/regular/harrow.md|Harrow]] e qualquer frame que dê chance crítica aceleram o enchimento do medidor por weakpoint; frames que ajudam a manter Combo favorecem as melee Incarnon.
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Incarnon
+
 
 - **"Preciso fazer os desafios em uma só missão."** Não. O progresso é **mantido entre runs**, como Riven e Nightwave. A exceção são os desafios que dizem explicitamente "numa missão" (ativar a Form 6 vezes).
 - **"Preciso de um Genesis por variante."** Não. Um Genesis serve para **todas** as variantes daquela arma, e os desafios liberados na base valem para todas.
@@ -194,9 +199,9 @@ Toda melee Incarnon Genesis dá bônus de mobilidade ao entrar em Incarnon Mode 
 - **"Qualquer arma pode receber Genesis."** Só as da rotação. A lista das 45 armas é fixa e está na tabela acima.
 - **"Torid carrega por weakpoint."** Torid e Angstrum Genesis carregam por **acerto direto**, não por weakpoint.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Incarnon
+
 
 - [[mecanicas/steel_path.md|The Steel Path]] — o Circuit no SP é a fonte dos Genesis, e dá 25 Steel Essence na tier 9.
 - [[mecanicas/combo_counter.md|Combo Counter]] — as melee Incarnon exigem 6x de Combo (5x Innodem) e Tennokai mantém o multiplicador.
@@ -214,6 +219,3 @@ Toda melee Incarnon Genesis dá bônus de mobilidade ao entrar em Incarnon Mode 
 - [[missoes/jornadas/principais/angels_of_the_zariman.md|Angels of the Zariman]], [[missoes/jornadas/principais/the_duviri_paradox.md|The Duviri Paradox]], [[missoes/jornadas/principais/whispers_in_the_walls.md|Whispers in the Walls]], [[missoes/jornadas/principais/the_deadlock_protocol.md|The Deadlock Protocol]] — as quatro quests que abrem cada ramo do sistema.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Incarnon — definição dos dois tipos, rotas de aquisição, rotação de 9 semanas com as 45 armas Genesis, trilha completa de recompensa do Circuit do Steel Path, mecânica de ativação por classe, duração da Form de melee, desafios de Evolution das naturais e das Genesis, tabela de bônus de movimento, regras de variante e de Akimbo, custo de 120 pl no Incarnon Market (consultado em 2026-10-04)

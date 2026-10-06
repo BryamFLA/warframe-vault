@@ -1,11 +1,16 @@
 ---
 title: Medi-Ray
+aliases: [Medi-Ray, medi ray]
 tipo: mod
 categoria: companheiro
-polaridade: Penjaga
 raridade: incomum
+polaridade: Penjaga
+resumo: "Medi-Ray — Sentinel will occasionally heal its owner, restoring 12% Health over 4s."
+status: completo
+rag: true
 tags: [mod, companheiro, augment]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Medi-Ray", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Mods/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -17,9 +22,9 @@ agente: opus
 >
 > *Mantido em inglês:* a descrição tem texto corrido que uma tradução automática deturparia. O texto acima é o do jogo, literal.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Medi-Ray
+
 
 | Item | Valor |
 |---|---|
@@ -34,9 +39,9 @@ agente: opus
 | Transmutável | **Não** |
 | Introduzido no Update | **18.10** |
 
----
 
-## 📈 Efeito por Rank
+## 📈 Efeito por Rank — Medi-Ray
+
 
 <!-- Valores copiados da seção Stats da página do mod na wiki. Nenhum valor interpolado. -->
 
@@ -52,9 +57,9 @@ agente: opus
 > [!note] A drenagem sobe 1 por rank
 > Regra do jogo, visível na própria tabela: a drenagem no rank R é **0 + R**.
 
----
 
-## 🏗️ Onde Obter
+## 🌍 Onde Conseguir — Medi-Ray
+
 
 | Fonte | Tipo | Chance do mod na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -64,9 +69,9 @@ agente: opus
 
 **Faixa de preço em platina:** ⚠️ **estimativa não fornecida.** Pela seção 8 das convenções, preço de platina é mercado flutuante e não é registrado aqui. Consulte warframe.market no momento da compra.
 
----
 
-## 🛠️ Uso
+## 🛠️ Como Usar — Medi-Ray
+
 
 **Vale a pena?** **Geralmente sim.** Mod **Uncommon** — fácil de conseguir e normalmente parte do núcleo de uma build.
 
@@ -82,8 +87,3 @@ Sendo um **augment**, ele ocupa um slot normal de mod e **só existe se você ti
 Nenhum mod é registrado como **mutuamente exclusivo** com este nos dados da wiki. A concorrência é pelo **slot** e pela **capacidade**, não por bloqueio do jogo.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Medi-Ray — efeito por rank, polaridade, drenagem, raridade e incompatibilidades (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Mods/data — ficha do mod: tipo, classe, comercializável, transmutável, update de introdução (consultado em 2026-10-06)

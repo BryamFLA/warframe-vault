@@ -1,9 +1,14 @@
 ---
 title: Hyena Pack
+aliases: [Hyena Pack]
 tipo: lore
 subtipo: chefe
+resumo: "Hyena Pack — Quatro proxies Corpus que lutam como matilha: cada um resiste a 75% de um tipo de dano, projeta uma aura que fortalece os outros, e juntos cobrem Cold, Heat, físico e Electricity — não existe um elemento que resolva os quatro."
+status: completo
+rag: true
 tags: [lore, chefe, corpus]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Hyena_Pack", "https://wiki.warframe.com/w/Damage_2.0/Corpus_Tab"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Quatro proxies Corpus que lutam como matilha: cada um resiste a 75% de um tipo de dano, projeta uma aura que fortalece os outros, e juntos cobrem Cold, Heat, físico e Electricity — não existe um elemento que resolva os quatro.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Hyena Pack
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Ativos. Um conjunto diferente de proxies Hyena existe no Orb Vallis |
 | Dublagem | Sem fala (proxies) |
 
----
 
-## 📖 História
+## 📖 História — Hyena Pack
+
 
 Os Hyena são **proxies robóticos** — a linha de "security proxies" automatizados que o [[lore/faccoes/corpus.md|Corpus]] usa para compensar a fragilidade da infantaria. A matilha de Netuno é composta por **quatro variantes únicas e letais** do modelo Hyena, e a diferença entre elas não é cosmética: **cada uma cobre um nicho elemental e dá buff às outras**.
 
@@ -35,9 +40,9 @@ Todas são armadas com **plasma repeater**, movem-se muito rápido e **podem se 
 
 Além da matilha de Netuno, Hyenas aparecem nas missões do [[mecanicas/eventos/razorback_armada.md|Razorback Armada]], e um conjunto **completamente diferente** de proxies Hyena existe no **Orb Vallis**, em [[locais/planetas/venus.md|Vênus]].
 
----
 
-## ⚔️ Combate
+## ⚔️ Combate — Hyena Pack
+
 
 | Item | Detalhe |
 |---|---|
@@ -67,9 +72,9 @@ A ordem que funciona: **TH** (acaba com o dreno de energia e o Magnetic), depois
 
 **Frames recomendados:** [[warframes/regular/mag.md|Mag]] (Magnetize e Polarize destroem escudo de proxy, e o escudo é a camada onde as resistências de 75% **não** valem), [[warframes/regular/volt.md|Volt]] (Electricity é +50% em Robotic — só evite focar o TH com ela), [[warframes/regular/nova.md|Nova]] (Molecular Prime neutraliza a mobilidade da matilha), [[warframes/regular/rhino.md|Rhino]] ou [[warframes/regular/hildryn.md|Hildryn]] (Hildryn não depende de energia, imune ao dreno do TH), [[warframes/regular/nekros.md|Nekros]] para o farm de Orokin Cell / Control Module.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Hyena Pack
+
 
 - **[[lore/chefes/jackal.md|Jackal]]** — o outro proxy-chefe Corpus, de desenho oposto: um grande com escudo invulnerável em vez de quatro pequenos.
 - **[[warframes/regular/loki.md|Loki]]** — a Warframe cujos componentes eles dropam.
@@ -78,9 +83,9 @@ A ordem que funciona: **TH** (acaba com o dreno de energia e o Magnetic), depois
 - **[[locais/open-worlds/fortuna.md|Orb Vallis]]** — um conjunto completamente diferente de proxies Hyena existe lá.
 - **[[lore/chefes/raptors.md|Raptors]]** — outro grupo-chefe Corpus de múltiplos proxies, em Europa.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Hyena Pack
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -89,7 +94,3 @@ A ordem que funciona: **TH** (acaba com o dreno de energia e o Magnetic), depois
 | [[locais/open-worlds/fortuna.md\|Orb Vallis]] | Variantes Terra diferentes, como inimigos comuns |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Hyena_Pack (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Corpus_Tab (consultado em 2026-10-04)

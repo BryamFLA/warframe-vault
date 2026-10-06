@@ -1,9 +1,14 @@
 ---
 title: 05. A Nova Guerra
+aliases: [05. A Nova Guerra, a nova guerra]
 tipo: lore
 subtipo: cronologia
+resumo: "05. A Nova Guerra — Ballas usou os Sentients para tomar o Sistema inteiro com véus de lavagem cerebral, baniu os Tenno para o Void — e perdeu porque pretendia sacrificar os próprios aliados."
+status: completo
+rag: true
 tags: [lore, cronologia, sentient, narmer]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/The_New_War", "https://wiki.warframe.com/w/Ballas", "https://wiki.warframe.com/w/Erra_(Character"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Ballas usou os Sentients para tomar o Sistema inteiro com véus de lavagem cerebral, baniu os Tenno para o Void — e perdeu porque pretendia sacrificar os próprios aliados.
 
----
 
-## 🕰️ Linha do Tempo
+## 🕰️ Linha do Tempo — 05. A Nova Guerra
+
 
 | Evento | Quest | O que aconteceu |
 |---|---|---|
@@ -37,9 +42,9 @@ agente: opus
 | A escolha | — | A Lotus fica em conflito entre **ela mesma, Natah e [[lore/personagens/margulis.md\|Margulis]]** — e o jogador escolhe que identidade ela assume |
 | Narmer sobrevive | [[missoes/jornadas/principais/veilbreaker.md\|Veilbreaker]] | O corpo de Erra é reanimado como **Pazuul**, que revive os Archons e continua a subjugação. **Kahl-175** lidera a resistência Grineer |
 
----
 
-## 📖 História
+## 📖 História — 05. A Nova Guerra
+
 
 A Nova Guerra não é uma guerra de exterminação, é uma **guerra de narrativa**. A arma central do Narmer não é o Archon: é a **Veil**, que lava o cérebro das massas e **torce a verdade em favor de Ballas** — pintando-o como vítima inocente dos Tenno. Essa é a razão de a facção funcionar: ela não precisa matar a população do Sistema de Origem, só precisa que ela **acredite**.
 
@@ -49,9 +54,9 @@ O detalhe estrutural mais interessante é o **Eternalism**. Com os Tenno banidos
 
 E a guerra não terminou com a morte de Ballas: o corpo de Erra foi **weaponizado em Pazuul**, os Archons foram revividos, e **leais seguem dispostos a ocupar o vácuo** do líder martirizado. Narmer é hoje conteúdo permanente, não um evento encerrado.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — 05. A Nova Guerra
+
 
 - **[[lore/cronologia/era_do_despertar.md|A Era do Despertar]]** — a era anterior; o despertar de Hunhow por Tyl Regor é o que destrava esta.
 - **[[lore/cronologia/ecos_do_vazio.md|Ecos do Vazio]]** — o que vem depois, e o que o Eternalism abriu.
@@ -62,9 +67,9 @@ E a guerra não terminou com a morte de Ballas: o corpo de Erra foi **weaponizad
 - **[[lore/faccoes/sentient.md|Sentient]]** — a facção e a matriz de dano **Narmer** (fraca a Slash e Toxin, resistente a Magnetic).
 - **[[lore/chefes/archon_amar.md|Archons]]** — os três chefes semanais que sobraram desta guerra.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — 05. A Nova Guerra
+
 
 | Quest / Conteúdo | O que mostra desta era |
 |---|---|
@@ -77,8 +82,3 @@ E a guerra não terminou com a morte de Ballas: o corpo de Erra foi **weaponizad
 | Operation: Scarlet Spear | Condrix e Orphix; prelúdio da invasão |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/The_New_War (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Ballas (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Erra_(Character) (consultado em 2026-10-04)

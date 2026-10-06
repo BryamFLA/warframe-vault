@@ -1,10 +1,15 @@
 ---
 title: Detonite Ampule
+aliases: [Detonite Ampule]
 tipo: recurso
 raridade: comum
 origem: planeta
+resumo: "Detonite Ampule — Um componente químico comum da facção Grineer, utilizado principalmente para fabricar Detonite Injectors no Dojo."
+status: parcial
+rag: true
 tags: [recurso]
-atualizado: 2026-09-09
+fontes: ["https://wiki.warframe.com/w/Detonite_Ampule"]
+atualizado: 2026-10-07
 verificado: false
 agente: gemini
 ---
@@ -14,9 +19,9 @@ agente: gemini
 > [!info] Resumo
 > Um componente químico comum da facção Grineer, utilizado principalmente para fabricar Detonite Injectors no Dojo.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Detonite Ampule
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: gemini
 | Aparece a partir de | [[locais/planetas/mercurio.md|Mercurio]] |
 | Afetado por boosters | Sim |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Detonite Ampule
+
 
 | Local | Missão / Método | Rendimento | Nota |
 |---|---|---|---|
@@ -40,9 +45,9 @@ agente: gemini
 
 **Mods e frames que ajudam:** Nekros (Desecrate), Khora (Pilfering Strangledome), Hydroid (Pilfering Swarm).
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Detonite Ampule
+
 
 | Item | Quantidade |
 |---|---|
@@ -51,6 +56,3 @@ agente: gemini
 | [[armas/secundarias/kraken.md|Kraken]] | 60 |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Detonite_Ampule — drop e uso (consultado em 2026-09-09)

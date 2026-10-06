@@ -1,9 +1,16 @@
 ---
 title: Paris Prime
-tipo: primaria
-tags:
-  - arma
-  - primaria
-status: nao-obtida
-atualizado: 2026-04-19
+aliases: [Paris Prime]
+tipo: arma
+subtipo: primaria
+resumo: Paris Prime — conteúdo ainda não preenchido no vault.
+status: stub
+rag: false
+tags: [arma, primaria]
+atualizado: 2026-10-07
+agente: opus
 ---
+
+# Paris Prime
+
+

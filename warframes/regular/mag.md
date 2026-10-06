@@ -1,12 +1,14 @@
 ---
 title: Mag
+aliases: [Mag]
 tipo: warframe
-status: nao-obtido
-polaridade: []
 categoria: controle
-tags:
-  - warframe
-atualizado: 2026-09-09
+resumo: "Controladora magnética que agrupa inimigos e projéteis com Magnetize, recupera escudos e remove armadura permanentemente com Fracturing Crush."
+status: completo
+rag: true
+tags: [warframe]
+fontes: ["https://wiki.warframe.com/w/Mag", "https://wiki.warframe.com/w/Mag/Abilities", "https://wiki.warframe.com/w/Mag/Prime", "https://wiki.warframe.com/w/Mag/Cosmetics", "https://wiki.warframe.com/w/Warframe_Augment_Mods", "https://wiki.warframe.com/w/Helminth", "https://wiki.warframe.com/w/The_Circuit", "https://wiki.warframe.com/w/Vitality"]
+atualizado: 2026-10-07
 verificado: false
 agente: gpt
 ---
@@ -16,9 +18,9 @@ agente: gpt
 > [!info] Resumo em uma linha
 > Controladora magnética que agrupa inimigos e projéteis com Magnetize, recupera escudos e remove armadura permanentemente com Fracturing Crush.
 
----
 
-## 📊 Estatísticas Base
+## 📊 Stats Base — Mag
+
 
 Valores sem mods. Os bônus das habilidades abaixo usam o rank máximo da habilidade, salvo indicação contrária.
 
@@ -39,9 +41,9 @@ Valores sem mods. Os bônus das habilidades abaixo usam o rank máximo da habili
 
 **Versão Prime:** [[warframes/primes/mag_prime.md|Mag Prime]] — Mag Prime tem 370 de vida, 555 de escudo, 135 de armadura e 265 de energia no rank 30; a regular tem 280, 555, 105 e 190. Conserva o conjunto de habilidades, com polarização adicional.
 
----
 
-## 🔮 Habilidades
+## 🔮 Habilidades — Mag
+
 
 Custos-base de energia, antes de Eficiência. A passiva não consome energia; Eficiência reduz os custos de ativação de todas as habilidades.
 
@@ -71,9 +73,9 @@ Custos-base de energia, antes de Eficiência. A passiva não consome energia; Ef
 
 Os sindicatos principais vendem seus augments no rank máximo de reputação por 25.000 de Standing cada. Augments de Conclave seguem oferta própria; não presumir o mesmo vendedor/preço. Nomes sem wikilink não possuem alvo próprio confirmado no índice do vault.
 
----
 
-## 🏗️ Aquisição e Fundição
+## 🏗️ Como Construir — Mag
+
 
 **Fonte principal do blueprint:** Escolha inicial em Awakening ou blueprint principal no Mercado por 25.000 créditos. Os blueprints dos três componentes vêm de The Sergeant, em Iliad, Phobos.
 
@@ -107,9 +109,9 @@ As peças são fabricadas separadamente e depois consumidas pela montagem final.
 - O Circuito (Duviri): Na rotação correspondente do Circuito normal, selecionar Mag permite obter neurovisor, chassi, sistemas e blueprint principal ao avançar a trilha.
 - Relíquias (só para Prime): não fornecem peças do Mag regular. A versão Prime possui aquisição separada.
 
----
 
-## 🛠️ Builds
+## 🛠️ Build — Mag
+
 
 Sugestões editoriais baseadas nas mecânicas verificadas; não são builds medidas em jogo. A geral usa mods de sobrevivência e Equilibrium em ranks intermediários para conter o custo. As contas de Forma pressupõem Warframe rank 30 com Reator Orokin, aura no rank indicado e os mods exatamente nos ranks das tabelas.
 
@@ -154,9 +156,9 @@ Intensify e Augur Secrets fornecem 154% Força, superando os 134% necessários p
 **Prioridade de Forma:** Geral: 0 Forma com Reator e Steel Charge; use Stretch e Flow nos Naramon. Avançada: 0 Forma com Reator, Steel Charge e Mobilize; Stretch e Flow nos Naramon. Cálculo: 68 de 78 pontos usados na avançada. A aura favorece capacidade e dano da melee de apoio, não aumenta Magnetize diretamente.
 
 
----
 
-## 🧬 Helminth
+## 🧬 Helminth — Mag
+
 
 | Item | Valor |
 |---|---|
@@ -166,9 +168,9 @@ Intensify e Augur Secrets fornecem 154% Força, superando os 134% necessários p
 
 [[mecanicas/helminth.md|Helminth]] permite substituir uma habilidade da configuração. A subsunção sacrifica o Warframe regular; não sacrifica a variante Prime. As recomendações acima são alternativas às builds com kit original, e não trocas já realizadas no inventário do jogador.
 
----
 
-## 🔗 Sinergias e Uso
+## 🔗 Sinergias e Uso — Mag
+
 
 **Funciona bem em:** [[missoes/tipos/defense.md|Defense]], [[missoes/tipos/survival.md|Survival]] e [[missoes/tipos/interception.md|Interception]]: agrupa entradas, concentra disparos em Magnetize e combina remoção de armadura com restauração de escudos.
 
@@ -178,21 +180,21 @@ Intensify e Augur Secrets fornecem 154% Força, superando os 134% necessários p
 
 **Armas que combinam:** Armas de projétil como Nataruk e Lanka são opções para alimentar Magnetize; teste a trajetória e mire considerando o centro da bolha. O dano absorvido não recebe bônus crítico e dano de explosão de arma não é absorvido.
 
----
 
-## 📖 Lore e Códice
+## 📖 História — Mag
+
 
 O Códice descreve manipulação de campos magnéticos para controlar inimigos e remover defesas. O relato do Prime mostra um soldado Orokin confrontado com a presença de um Tenno numa nave a caminho da guerra.
 
----
 
-## 💡 Curiosidades
+## 💡 Curiosidades — Mag
+
 
 - Mag foi a primeira Warframe feminina a receber uma variante Prime. A cor de energia controla o efeito visual do capacete.
 
----
 
-## 🎨 Fashion Frame
+## 🎨 Fashion Frame — Mag
+
 
 | Item | Opções |
 |---|---|
@@ -202,38 +204,3 @@ O Códice descreve manipulação de campos magnéticos para controlar inimigos e
 | Paletas que combinam | Sugestão estética: branco, azul e cobre; energia discreta ajuda a ler inimigos dentro das bolhas. |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Mag — stats rank 0/30, polaridades, aquisição, receitas e contexto (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Mag/Abilities — passiva, custos e efeitos das habilidades, detalhamento e augments (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Mag/Prime — comparação com a versão Prime (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Mag/Cosmetics — nomes e categorias das opções cosméticas (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Warframe_Augment_Mods — sindicatos dos augments; categoria Conclave quando indicada (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Helminth — habilidade transferível e restrições; Roar transferido (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/The_Circuit — rota alternativa e distinção entre recompensa e equipamento emprestado (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Vitality — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Redirection — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Intensify — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Continuity — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Stretch — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Streamline — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Flow — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Equilibrium — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Fracturing_Crush — efeito e notas específicas (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Augur_Secrets — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Augur_Reach — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Rolling_Guard — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Steel_Charge — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Mobilize — efeito, rank, drenagem e polaridade do mod (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Orokin_Cell — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Alloy_Plate — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Neural_Sensors — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Polymer_Bundle — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Rubedo — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Morphics — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Ferrite — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Control_Module — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Salvage — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Plastids — origem e raridade do recurso (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Arcane_Energize — efeito e recarga (consultado em 2026-09-08; redação em 2026-09-09).
-- https://wiki.warframe.com/w/Molt_Augmented — efeito e limite de acúmulos (consultado em 2026-09-08; redação em 2026-09-09).

@@ -1,11 +1,14 @@
 ---
 title: Europa
+aliases: [Europa]
 tipo: local
-status: nao-visitado
 faccao: Corpus
-tags:
-  - local
-atualizado: 2026-04-17
+resumo: Europa — Lua gelada com bases subaquáticas.
+status: stub
+rag: false
+tags: [local]
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Europa
@@ -13,24 +16,25 @@ atualizado: 2026-04-17
 > [!info] Visão Geral
 > Lua gelada com bases subaquáticas
 
-## Facção Principal
+## 🏴 Facção — Europa
+
 - Corpus
 - Inimigos: Crewmen, MOAs, Ospreys
 
-## Missões Disponíveis
+## 🗺️ Missões — Europa
+
 - Defense, Survival, Mobile Defense, Exterminate
 
-## Chefe
-- [[raptors|Raptors (Naamah)]] — recompensa: Nova partes
+## 👑 Chefe — Europa
 
-## Recursos Notáveis
+- [[lore/chefes/raptors.md|Raptors (Naamah)]] — recompensa: Nova partes
+
+## 💎 Recursos — Europa
+
 - Ferrite
 - Salvage
 - Control Module
 
-## Minha Progressão
-- [ ] Planeta desbloqueado
-- [ ] Chefe derrotado
+## 🔗 Relacionados — Europa
 
-## Conexões
-- Chefe: [[raptors|Raptors]]
+- Chefe: [[lore/chefes/raptors.md|Raptors]]

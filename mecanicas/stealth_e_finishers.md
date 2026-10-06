@@ -1,8 +1,13 @@
 ---
 title: Stealth e Finishers
+aliases: [Stealth e Finishers]
 tipo: mecanica
+resumo: "Stealth e Finishers — Inimigo que não te viu morre por um multiplicador que chega a 128x o dano da arma, e dá até +500% de Affinity; Finisher converte todo o dano em Finisher Damage, que ignora armadura e escudo."
+status: completo
+rag: true
 tags: [mecanica, stealth, finisher, mercy, parazon, dano-finisher]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Finisher", "https://wiki.warframe.com/w/Stealth"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Inimigo que não te viu morre por um multiplicador que chega a **128x** o dano da arma, e dá até **+500% de Affinity**; Finisher converte **todo** o dano em Finisher Damage, que ignora armadura e escudo.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Stealth e Finishers
+
 
 Inimigos só veem num **cone frontal curto**, limitado pelo cenário, e são ruins em notar ameaça a distância ou **acima da cabeça**. **Agachar** esconde bem a silhueta. **Invisibilidade** permite passar pela visão deles sem suspeita — mas **ruído alto ainda os alerta de todas as direções**, inclusive contra um Tenno invisível.
 
@@ -22,9 +27,9 @@ O alerta tem três estados, visíveis pela cor do minimapa: **branco** (não ale
 
 Finishers são ataques de melee com animação própria e dano altíssimo. **Todo o dano é convertido em Finisher Damage**, e o jogador fica **invulnerável durante a animação**. Existem quatro famílias: **Stealth Attack** (inimigo desprevenido, pelas costas), **Ground Finisher** (inimigo no chão), **Front/Back/Universal Finisher** (inimigo vulnerabilizado por habilidade ou ataque), e **Mercy** (pelo Parazon, em inimigo marcado).
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Stealth e Finishers
+
 
 ```
 Stealth Damage Bonus = 1 + 0,20 x rank da arma
@@ -79,9 +84,9 @@ Velocidade da animação de finisher:
 - O bônus de Affinity **reseta** se você matar um inimigo alertado ou for atacado por um. **Companion, Sentinel e Operator não resetam.**
 - Turret, Security Camera, Sensor Bar, container e Sensor Regulator são **objetos**: não resetam o combo, mas também **não contam** como stealth kill.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Stealth e Finishers
+
 
 ### Multiplicadores de Stealth Attack por tipo de melee
 
@@ -204,9 +209,9 @@ Velocidade da animação de finisher:
 
 > Finishing Touch e Covert Lethality somam **aditivamente** entre si. Vulnerabilidade a Finisher Damage (Savage Silence) é **multiplicativa** por cima.
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Stealth e Finishers
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -228,9 +233,9 @@ Velocidade da animação de finisher:
 
 **Frames que interagem:** [[warframes/regular/loki.md|Loki]] e [[warframes/regular/ivara.md|Ivara]] (invisibilidade, a base do stealth), [[warframes/regular/ash.md|Ash]] (Teleport executa Finisher ou Mercy com +125% a +200% de dano, e devolve 50% da energia se matar), [[warframes/regular/excalibur.md|Excalibur]] (Radial Blind + augment Radiant Finish), [[warframes/regular/banshee.md|Banshee]] (Sonic Boom derruba e remove 70% da armadura; Silence + **Savage Silence** dá vulnerabilidade multiplicativa a Finisher), [[warframes/regular/inaros.md|Inaros]] (Desiccation permite múltiplos finishers no mesmo alvo), [[warframes/regular/garuda.md|Garuda]] (sobrescreve Front/Back com garras e **quebra** os procs forçados de Rumblejack e Rapier), [[warframes/regular/valkyr.md|Valkyr]] (Talons: 54x em Ground Finisher, mas só 4x em Stealth).
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Stealth e Finishers
+
 
 - **"Invisível é invisível."** Ruído alto alerta inimigos **de todas as direções**, mesmo contra um Tenno invisível. Invisibilidade esconde da **visão**, não do som.
 - **"Alerta vermelho é o que bloqueia stealth attack."** O **âmbar** (alerta menor) já bloqueia.
@@ -246,9 +251,9 @@ Velocidade da animação de finisher:
 - **"Velocidade de ataque da arma acelera o finisher."** A velocidade **base** não afeta. Só mods e arcanes de velocidade, e o teto é **33%** com +50% de velocidade.
 - **"Finisher não é invulnerável."** É. O jogador fica **invulnerável durante toda a animação** — por isso finisher é também uma ferramenta defensiva.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Stealth e Finishers
+
 
 - [[mecanicas/dano_e_status.md|Dano e Status]] — Finisher Damage é um tipo próprio que ignora armadura e escudo; Rapier força Slash e Rumblejack força Electricity nos finishers.
 - [[mecanicas/critico.md|Crítico]] — Stealth Finisher **pode** criticar, e o multiplicador crítico entra **somado** ao Stealth Damage Bonus na fórmula.
@@ -264,7 +269,3 @@ Velocidade da animação de finisher:
 - [[missoes/tipos/sanctuary_onslaught.md|Sanctuary Onslaught]] — o bônus de +500% de Affinity é o que torna stealth competitivo para rankear equipamento.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Finisher — tipos de finisher, invulnerabilidade durante a animação, teto de 33% de velocidade, tabelas completas de multiplicador de Ground / Stealth / Back / Front / Universal por tipo de melee, fórmula de Stealth Damage Bonus e de Stealth Finisher Damage, regra de meio bônus dos mods elementais, Mercy (vida residual + 1, janela de 10 s, bloqueio por escudo), fontes de aumento de dano de Finisher (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Stealth — estados de alerta e cores do minimapa, tempo de ~1,5 s do console de alarme, comportamento hive-mind de Infested e Corrupted, câmeras e turrets não alertarem, elegibilidade de inimigos, bônus de Affinity de +100% cumulativo até +500% com janela de 30 s, raio de alerta de 50 m, lista de armas silenciosas e mods de silenciamento (consultado em 2026-10-04)

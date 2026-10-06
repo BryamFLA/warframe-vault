@@ -1,10 +1,15 @@
 ---
 title: Mutagen Sample
+aliases: [Mutagen Sample, Amostra Mutagen]
 tipo: recurso
 raridade: incomum
 origem: planeta
+resumo: "Mutagen Sample — Uma amostra rara e muito desejada da Infestação, essencial para pesquisas biológicas no Dojo, em especial a arma Hema."
+status: parcial
+rag: true
 tags: [recurso]
-atualizado: 2026-09-09
+fontes: ["https://wiki.warframe.com/w/Mutagen_Sample"]
+atualizado: 2026-10-07
 verificado: false
 agente: gemini
 ---
@@ -14,9 +19,9 @@ agente: gemini
 > [!info] Resumo
 > Uma amostra rara e muito desejada da Infestação, essencial para pesquisas biológicas no Dojo, em especial a arma Hema.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Mutagen Sample
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: gemini
 | Aparece a partir de | [[locais/planetas/deimos.md|Deimos]] |
 | Afetado por boosters | Sim |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Mutagen Sample
+
 
 | Local | Missão / Método | Rendimento | Nota |
 |---|---|---|---|
@@ -40,9 +45,9 @@ agente: gemini
 
 **Mods e frames que ajudam:** Nekros equipado com armas puramente Cortantes (Desecrate duplo), Khora, Speed Nova, Resource Booster e Resource Drop Chance Booster.
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Mutagen Sample
+
 
 | Item | Quantidade |
 |---|---|
@@ -51,6 +56,3 @@ agente: gemini
 | Construção da Blueprint Mutagen Mass | 10 |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Mutagen_Sample — drop e uso (consultado em 2026-09-09)

@@ -1,9 +1,14 @@
 ---
 title: Defense (Railjack)
+aliases: [Defense (Railjack), defense railjack]
 tipo: missao
 subtipo: tipo
+resumo: "Defense (Railjack) — Nó Empyrean lore/faccoes/corpus.md|Corpus em duas fases: limpar os objetivos espaciais com o Railjack, abordar a nave capital e defender um objetivo em ondas lá dentro, como num Defense normal."
+status: completo
+rag: true
 tags: [missao, tipo, railjack, empyrean]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Empyrean", "https://wiki.warframe.com/w/Defense", "https://wiki.warframe.com/w/Module:Missions/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Nó Empyrean [[lore/faccoes/corpus.md|Corpus]] em duas fases: limpar os objetivos espaciais com o Railjack, abordar a nave capital e defender um objetivo em ondas lá dentro, como num Defense normal.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Defense (Railjack)
+
 
 | Item | Detalhe |
 |---|---|
@@ -29,9 +34,9 @@ agente: opus
 > [!info] Por que existe um arquivo separado do Defense normal
 > A fase em solo **se comporta identicamente a um Defense comum** — mesma estrutura de ondas, mesma recompensa a cada **5 ondas** com escolha entre extrair ou continuar, e falha se o objetivo for destruído. O que muda é tudo o que vem **antes**: a fase Railjack, os requisitos de Intrinsics, a faixa de nível e a tabela de recompensas, que é a da Proxima e não a do planeta. Ver **[[missoes/tipos/defense.md|Defense]]** para os 18 mapas e as variantes do modo base.
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Defense (Railjack)
+
 
 1. **Fase espacial.** O squad cumpre os objetivos Empyrean iniciais: limpar **Points of Interest** e abater um número pequeno de **Crewships**.
 2. **Abordagem.** Todos entram na nave capital Corpus via Archwing. Quando **metade do squad** entra, dispara um **contador de 30 segundos** — ao fim dele, os demais são **teleportados à força** para dentro.
@@ -42,9 +47,9 @@ agente: opus
 
 **Rotações de recompensa:** **endless** — recompensa **a cada 5 ondas**, rotação **AABC** (ondas 5 e 10 = A, 15 = B, 20 = C, e assim em diante).
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Defense (Railjack)
+
 
 | Planeta | Nó | Nível | Fighters | Pré-requisito |
 |---|---|---|---|---|
@@ -57,9 +62,9 @@ São as regiões Empyrean de **[[locais/planetas/venus.md|Vênus]]**, **[[locais
 
 **Melhor nó para farmar:** **Arc Silver** (Veil Proxima) — nível 51–55 é a faixa mais alta do tipo e entrega a tier mais alta de componente de Railjack. **Falling Glory** (Venus Proxima) para aprender o fluxo das duas fases.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Defense (Railjack)
+
 
 | Recompensa | Rotação | Nota |
 |---|---|---|
@@ -70,9 +75,9 @@ São as regiões Empyrean de **[[locais/planetas/venus.md|Vênus]]**, **[[locais
 > [!warning] Tabela exata por nó não replicada aqui
 > Cada nó tem um **DropTableAlias** próprio (`VenusProximaDefense`, `NeptuneProximaDefense`, `PlutoProximaDefense`, `VeilProximaDefense`), com itens e chances diferentes. Pela seção 8 das convenções, **não invento porcentagem** — consulte https://wiki.warframe.com/w/Empyrean para a tabela do nó que você vai farmar.
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Defense (Railjack)
+
 
 - **A fase espacial é curta — não a trate como Skirmish.** A cota de Crewships é pequena; limpe o Point of Interest e aborde logo, porque o grosso do tempo e da recompensa está na fase de Defense.
 - **Combine o squad antes de abordar.** Quando metade entra, os outros têm 30 segundos antes do teleporte forçado. Entrar junto evita alguém chegar sozinho num objetivo já cercado.
@@ -81,8 +86,3 @@ São as regiões Empyrean de **[[locais/planetas/venus.md|Vênus]]**, **[[locais
 - **Não use o Omni esperando voltar ao Railjack.** Ele está bloqueado até a extração interna; se precisar de munição ou vida, ache os drops de dentro da nave.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Empyrean — fase de abordagem, contador de 30 s, invulnerabilidade do Railjack, modos Corpus (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Defense — ciclo de 5 ondas, rotação AABC, condição de falha (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Missions/data — nós, níveis, fighters, pré-requisitos e DropTableAlias por nó (consultado em 2026-10-06)

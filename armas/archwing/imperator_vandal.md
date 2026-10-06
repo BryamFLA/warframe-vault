@@ -1,9 +1,16 @@
 ---
 title: Imperator Vandal
-tipo: archwing
-tags:
-  - arma
-  - archwing
-status: nao-obtida
-atualizado: 2026-04-19
+aliases: [Imperator Vandal]
+tipo: arma
+subtipo: archwing
+resumo: Imperator Vandal — conteúdo ainda não preenchido no vault.
+status: stub
+rag: false
+tags: [arma, archwing]
+atualizado: 2026-10-07
+agente: opus
 ---
+
+# Imperator Vandal
+
+

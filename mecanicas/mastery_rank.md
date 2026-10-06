@@ -1,8 +1,13 @@
 ---
 title: Mastery Rank
+aliases: [Mastery Rank]
 tipo: mecanica
+resumo: "Mastery Rank — Medida de quanto do conteúdo do jogo você já experimentou: sobe com Affinity gasta em equipamentos novos, nós do Star Chart, Junctions e Intrinsics, e é a tranca de praticamente todo conteúdo e limite do jogo."
+status: completo
+rag: true
 tags: [mecanica, mastery-rank, progressao, mr]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Mastery_Rank"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Medida de quanto do conteúdo do jogo você já experimentou: sobe com Affinity gasta em equipamentos novos, nós do Star Chart, Junctions e Intrinsics, e é a tranca de praticamente todo conteúdo e limite do jogo.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Mastery Rank
+
 
 Mastery Rank (abreviado **MR**) não mede poder — mede **variedade**. Cada equipamento novo levado do rank 0 ao 30 dá Mastery Points **uma única vez por variante**. Vender e recomprar um item já maxado não dá nada de novo; vender um item no rank 12, recomprar e levar ao 30 dá só os ranks que faltavam. Variantes contam como itens diferentes: Braton, Mk1-Braton, Braton Vandal e Braton Prime são 4 armas distintas, 12.000 Mastery no total.
 
@@ -22,9 +27,9 @@ Para subir de rank é preciso **passar um teste**, sempre em solo. Após passar,
 
 Mastery Rank **não pode ser aumentado antes de concluir [[missoes/jornadas/principais/vors_prize.md\|Vor's Prize]]**. Depois do MR 30 ("True Master"), os ranks continuam como **Legendary Rank (LR)**, cada um exigindo 147.500 pontos fixos.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Mastery Rank
+
 
 ```
 Mastery por rank de equipamento:
@@ -62,9 +67,9 @@ Cada rank de Intrinsic (Railjack ou Drifter)  = 1.500 pts
 - XP excedente **não é perdido** ao bater o requisito de um rank: já entra na barra do rank seguinte, mas só aparece depois de passar no teste.
 - O Mastery do Steel Path é **separado** do Mastery do Star Chart normal (27.569 pontos próprios).
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Mastery Rank
+
 
 ### Ranks, XP e testes
 
@@ -178,9 +183,9 @@ Empilha com Affinity Booster, Credit Booster e Resource Drop Chance Booster. Ble
 
 > **Hydroid, Gara, Garuda, Revenant, Inaros e Titania podem ser obtidos pelo The Circuit**, que ignora essas travas de MR.
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Mastery Rank
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -198,9 +203,9 @@ Empilha com Affinity Booster, Credit Booster e Resource Drop Chance Booster. Ble
 
 **Frames que interagem:** qualquer Warframe de invisibilidade resolve o Stealth Test e o Survival Test sem risco — [[warframes/regular/loki.md|Loki]], [[warframes/regular/ivara.md|Ivara]], [[warframes/regular/octavia.md|Octavia]].
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Mastery Rank
+
 
 - **"MR mede poder."** Não. Mede quanto conteúdo diferente você levou ao rank 30. Um MR 8 com build boa mata mais que um MR 25 com build ruim.
 - **"Vou revender a arma e ganhar Mastery de novo."** Nunca. Cada variante dá seus pontos **uma vez na vida da conta**.
@@ -212,9 +217,9 @@ Empilha com Affinity Booster, Credit Booster e Resource Drop Chance Booster. Ble
 - **"Tenho MR 30, posso usar frame rank 0 em Sortie."** Só se o frame tiver sido **polarizado pelo menos uma vez**.
 - **"O cooldown é de 24 h."** É de **23 horas** após uma aprovação — propositalmente menos que um dia, para não empurrar o horário para frente a cada dia.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Mastery Rank
+
 
 - [[mecanicas/trading.md|Trading]] — libera no MR 2, e o número de trades por dia é literalmente o seu MR.
 - [[mecanicas/helminth.md|Helminth]] — o Helminth Segment exige MR 8 e Rank 3 com os Entrati.
@@ -230,6 +235,3 @@ Empilha com Affinity Booster, Credit Booster e Resource Drop Chance Booster. Ble
 - [[missoes/jornadas/principais/vors_prize.md|Vor's Prize]] — até concluí-la, o MR não sobe.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Mastery_Rank — pontos por tipo de equipamento, tabela completa de ranks/XP/testes, limites que escalam por rank, desbloqueios por rank, True Master's Font, travas indiretas de Warframe, bundles que furam trava (consultado em 2026-10-04)

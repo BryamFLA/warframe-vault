@@ -1,9 +1,14 @@
 ---
 title: Profit-Taker Orb
+aliases: [Profit-Taker Orb, Orbe Profit-Taker, profit taker]
 tipo: lore
 subtipo: chefe
+resumo: "Profit-Taker Orb — A Orb Mother do Enrichment Labs: o escudo dela usa adaptação Sentient posta em sobrecarga por satélites, então cada fase exige o tipo de dano certo — e a carapaça é de nave Corpus, o que obriga Archgun."
+status: completo
+rag: true
 tags: [lore, chefe, corpus, raknoid]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Profit-Taker_Orb", "https://wiki.warframe.com/w/Damage_2.0/Corpus_Tab"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > A Orb Mother do Enrichment Labs: o escudo dela usa **adaptação Sentient** posta em sobrecarga por satélites, então cada fase exige **o tipo de dano certo** — e a carapaça é de nave Corpus, o que obriga Archgun.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Profit-Taker Orb
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Ativa, no topo dos **Enrichment Labs** |
 | Requisito | Rank **Old Mate** no [[mecanicas/sindicatos/solaris_united.md\|Solaris United]]; o heist é dado por [[lore/personagens/little_duck.md\|Little Duck]] ([[mecanicas/sindicatos/vox_solaris.md\|Vox Solaris]]) |
 
----
 
-## 📖 História
+## 📖 História — Profit-Taker Orb
+
 
 O Profit-Taker Orb é uma **criatura Raknoid gigante** encontrada no topo dos **Enrichment Labs**, no Orb Vallis, atuando como um dos chefes do landscape. É a irmã mais perigosa do [[lore/chefes/exploiter_orb.md|Exploiter Orb]] — e a diferença entre as duas é decisiva.
 
@@ -35,9 +40,9 @@ O Orb **incorpora tecnologia [[lore/faccoes/sentient.md|Sentient]] nos escudos**
 
 Isso é consequência direta do que o Corpus faz com restos Sentient: no Orb Vallis existe um **Conculyst praticamente intacto** numa célula de contenção, cercado de fragmentos de dispositivos Sentient, com uma câmara de testes ao lado. Os avanços dessas pesquisas resultaram **nessa plataforma de combate gigantesca cujos escudos têm a mesma capacidade de adaptação a dano dos Sentients**.
 
----
 
-## ⚔️ Combate
+## ⚔️ Combate — Profit-Taker Orb
+
 
 | Item | Detalhe |
 |---|---|
@@ -75,9 +80,9 @@ Durante a luta, a ordem é sempre: **escudo (tipo certo) → pernas → corpo �
 
 **Frames recomendados:** [[warframes/regular/mesa.md|Mesa]] ou [[warframes/regular/chroma.md|Chroma]] (dano bruto para as janelas curtas de corpo), [[warframes/regular/rhino.md|Rhino]] (Roar aumenta o dano de Archgun do squad), [[warframes/regular/trinity.md|Trinity]] (energia e sobrevivência durante as fases longas), [[warframes/regular/limbo.md|Limbo]] (Cataclysm para fazer os Pylons em paz), [[warframes/regular/volt.md|Volt]] (Electric Shield amplifica dano).
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Profit-Taker Orb
+
 
 - **[[lore/chefes/exploiter_orb.md|Exploiter Orb]]** — a outra Orb Mother. **A Exploiter NÃO tem adaptação Sentient, e a explosão dela não destrói o loot.**
 - **[[lore/faccoes/sentient.md|Sentient]]** — a tecnologia de adaptação a dano no escudo dela vem de fragmentos Sentient saqueados.
@@ -86,9 +91,9 @@ Durante a luta, a ordem é sempre: **escudo (tipo certo) → pernas → corpo �
 - **Nef Anyo** — o magnata Corpus por trás dos projetos Raknoid.
 - **[[lore/faccoes/corpus.md|Corpus]]** — a carapaça dela é literalmente de nave Corpus.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Profit-Taker Orb
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -98,7 +103,3 @@ Durante a luta, a ordem é sempre: **escudo (tipo certo) → pernas → corpo �
 | Archgun Deployer | A luta é a razão principal para destravar e modar Archguns em solo |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Profit-Taker_Orb (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Corpus_Tab (consultado em 2026-10-04)

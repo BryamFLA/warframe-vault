@@ -1,9 +1,14 @@
 ---
 title: Survival
+aliases: [Survival]
 tipo: missao
 subtipo: tipo
+resumo: "Survival — Hackear o terminal e sobreviver enquanto o suporte de vida decai 1% a cada 1,5 segundo — com recompensa a cada 5 minutos e cápsulas da Lotus a cada 90 segundos."
+status: completo
+rag: true
 tags: [missao, tipo]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Survival"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Hackear o terminal e sobreviver enquanto o suporte de vida decai 1% a cada 1,5 segundo — com recompensa a cada 5 minutos e cápsulas da Lotus a cada 90 segundos.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Survival
+
 
 | Item | Detalhe |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Duração típica | 5 min (1 recompensa) a quanto você quiser |
 | Tipo | **Endless** — recompensa a cada 5 minutos |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Survival
+
 
 1. No início há **um único terminal**. **Hackeá-lo começa o objetivo**, alertando uma onda infinita de inimigos enquanto o suporte de vida **decai de 100% para 0% à taxa de 1% a cada 1,5 segundo**.
 2. **Cada abate tem chance de dropar módulos pessoais de suporte**, que restauram **5%** (até 100%). Também saem de **Storage Containers e lockers** depois do alarme.
@@ -47,9 +52,9 @@ Pelo mapa aparecem **Security Bypasses**, com marcador de objetivo quando estão
 - **Não existem** em "Help Clem", Survivals de Duviri, Hell-Scrubs nem Sanctum Survivals.
 - Inserindo todos, o ganho é de **+60 s de progresso por Bypass**, chegando a **150 s de progresso a cada 90 s reais** — a missão acelera por um fator de **150/90 = 5/3, cerca de 66%**.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Survival
+
 
 | Variante | O que muda |
 |---|---|
@@ -64,9 +69,9 @@ Pelo mapa aparecem **Security Bypasses**, com marcador de objetivo quando estão
 
 **Melhor nó para farmar:** Survival é o tipo-padrão para farm de recurso longo. Para **Kuva**, Taveuni (Kuva Fortress). Para **Steel Essence**, qualquer Survival de [[mecanicas/steel_path.md|Steel Path]] com [[warframes/regular/nekros.md|Nekros]].
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Survival
+
 
 | Recompensa | Rotação / Chance | Nota |
 |---|---|---|
@@ -75,18 +80,18 @@ Pelo mapa aparecem **Security Bypasses**, com marcador de objetivo quando estão
 | **200 Kuva** por Harvester | Por torre defendida | Só em Kuva Survival |
 | Recompensas de Arbitration | Por rotação | Substituem as normais |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Survival
+
 
 - **O suporte de vida é o recurso real, não a sua vida.** Frames que matam muito e rápido ([[warframes/regular/saryn.md|Saryn]], [[warframes/regular/mesa.md|Mesa]]) geram mais módulos de 5% e sustentam runs longas.
 - **[[warframes/regular/nekros.md|Nekros]] com Desecrate** aumenta os drops de módulo **e** o loot — é o frame padrão de Survival longa.
 - **Procure Security Bypasses**: inserir todos acelera a missão ~66% e **dobra o Reactant** em Void Fissure.
 - Em **Kuva Survival**, não transforme todas as cápsulas em Harvester: cada uma devolve só **10%** de suporte. Alterne.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Survival
+
 
 - **[[missoes/tipos/defense.md|Defense]]** — o outro endless clássico.
 - **[[missoes/tipos/excavation.md|Excavation]]** — endless com recompensa por extrator, geralmente mais frequente.
@@ -95,6 +100,3 @@ Pelo mapa aparecem **Security Bypasses**, com marcador de objetivo quando estão
 - **[[missoes/tipos/void_fissure.md|Void Fissure]]** — Reactant dobrado com Bypass.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Survival (consultado em 2026-10-04)

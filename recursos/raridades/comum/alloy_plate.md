@@ -1,10 +1,15 @@
 ---
 title: Alloy Plate
+aliases: [Alloy Plate]
 tipo: recurso
 raridade: comum
 origem: planeta
+resumo: "Alloy Plate — Um recurso comum frequentemente usado na forja de armas, Warframes e upgrades de nave, encontrado em missões iniciais e intermediárias."
+status: parcial
+rag: true
 tags: [recurso]
-atualizado: 2026-09-09
+fontes: ["https://wiki.warframe.com/w/Alloy_Plate"]
+atualizado: 2026-10-07
 verificado: false
 agente: gemini
 ---
@@ -14,9 +19,9 @@ agente: gemini
 > [!info] Resumo
 > Um recurso comum frequentemente usado na forja de armas, Warframes e upgrades de nave, encontrado em missões iniciais e intermediárias.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Alloy Plate
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: gemini
 | Aparece a partir de | [[locais/planetas/venus.md|Venus]] |
 | Afetado por boosters | Sim |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Alloy Plate
+
 
 | Local | Missão / Método | Rendimento | Nota |
 |---|---|---|---|
@@ -40,9 +45,9 @@ agente: gemini
 
 **Mods e frames que ajudam:** Nekros (Desecrate), Khora (Pilfering Strangledome), mods de Vacuum/Fetch, Resource Drop Chance Booster e Resource Booster.
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Alloy Plate
+
 
 | Item | Quantidade |
 |---|---|
@@ -51,6 +56,3 @@ agente: gemini
 | [[armas/primarias/strun.md|Strun]] | 1.200 |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Alloy_Plate — drop e uso (consultado em 2026-09-09)

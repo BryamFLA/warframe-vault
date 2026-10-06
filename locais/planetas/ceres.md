@@ -1,11 +1,14 @@
 ---
 title: Ceres
+aliases: [Ceres]
 tipo: local
-status: nao-visitado
 faccao: Grineer
-tags:
-  - local
-atualizado: 2026-04-17
+resumo: Ceres — Cinturão de asteroides com bases Grineer pesadas.
+status: stub
+rag: false
+tags: [local]
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Ceres
@@ -13,24 +16,25 @@ atualizado: 2026-04-17
 > [!info] Visão Geral
 > Cinturão de asteroides com bases Grineer pesadas
 
-## Facção Principal
+## 🏴 Facção — Ceres
+
 - Grineer
 - Inimigos: Lancers, Napalms, Bombards
 
-## Missões Disponíveis
+## 🗺️ Missões — Ceres
+
 - Exterminate, Defense, Survival, Sabotage
 
-## Chefe
-- [[lech_kril|Lech Kril (Exta)]] — recompensa: [[frost|Frost]] partes
+## 👑 Chefe — Ceres
 
-## Recursos Notáveis
+- [[lore/chefes/lech_kril.md|Lech Kril (Exta)]] — recompensa: [[warframes/regular/frost.md|Frost]] partes
+
+## 💎 Recursos — Ceres
+
 - Alloy Plate
 - Ferrite
 - Orokin Cell
 
-## Minha Progressão
-- [ ] Planeta desbloqueado
-- [ ] Chefe derrotado
+## 🔗 Relacionados — Ceres
 
-## Conexões
-- Chefe: [[lech_kril|Lech Kril]]
+- Chefe: [[lore/chefes/lech_kril.md|Lech Kril]]

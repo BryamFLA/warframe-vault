@@ -1,9 +1,14 @@
 ---
 title: Baro Ki'Teer
+aliases: [Baro Ki'Teer, baro kiteer]
 tipo: lore
 subtipo: personagem
+resumo: "Baro Ki'Teer — O \"Void Trader\": mercador presunçoso que entra no próprio Void para achar tesouros raros, despreza Tenno sem equipamento Prime — e foi ele quem entregou os dados para construir o Archwing."
+status: completo
+rag: true
 tags: [lore, personagem, comerciante, void]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Baro_Ki%27Teer"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O "Void Trader": mercador presunçoso que entra no próprio Void para achar tesouros raros, despreza Tenno sem equipamento Prime — e foi ele quem entregou os dados para construir o Archwing.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Baro Ki'Teer
+
 
 | Item | Valor |
 |---|---|
@@ -26,9 +31,9 @@ agente: opus
 | Moeda | **Orokin Ducats** + Créditos |
 | Mecânica | Ver [[mecanicas/baro_ki_teer.md\|Baro Ki'Teer (mecânica)]] para ciclo de visita, Ducats e como converter Prime parts |
 
----
 
-## 📖 História
+## 📖 História — Baro Ki'Teer
+
 
 Pouco se sabe sobre Baro Ki'Teer além da **atitude presunçosa**, ao ponto de **desprezar Tenno que não tenham equipamento Prime**. Apesar disso, ele já demonstrou disposição em ajudar os [[lore/faccoes/tenno.md|Tenno]] — **por um preço**: foi ele quem forneceu os dados para construir os **Archwings**.
 
@@ -40,9 +45,9 @@ Numa série de negócios depois do evento, **Darvo revelou a identidade de Baro 
 
 **Operation: Gate Crash:** a mensagem de abertura revela que Baro deu aos Tenno um **datamass com informação sobre uma tecnologia antiga — o Archwing**, peça central do plano para derrotar as Balor Fomorians de [[lore/chefes/vay_hek.md|Vay Hek]]. Se ele teve participação maior na operação, o texto não diz.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Baro Ki'Teer
+
 
 - **Darvo** — o outro mercador do jogo, que expôs a identidade dele por despeito.
 - **[[lore/faccoes/tenno.md|Tenno]]** — clientes que ele despreza e de quem depende.
@@ -51,9 +56,9 @@ Numa série de negócios depois do evento, **Darvo revelou a identidade de Baro 
 - **[[missoes/jornadas/principais/the_archwing.md|The Archwing]]** — a tecnologia que ele forneceu.
 - **[[missoes/jornadas/principais/sands_of_inaros.md|Sands of Inaros]]** — quest em que ele aparece.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Baro Ki'Teer
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -64,6 +69,3 @@ Numa série de negócios depois do evento, **Darvo revelou a identidade de Baro 
 | [[mecanicas/eventos/balor_fomorian.md\|Balor Fomorian]] | Contexto: a tecnologia dele é a resposta |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Baro_Ki%27Teer (consultado em 2026-10-04)

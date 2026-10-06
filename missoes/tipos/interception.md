@@ -1,9 +1,14 @@
 ---
 title: Interception
+aliases: [Interception]
 tipo: missao
 subtipo: tipo
+resumo: "Interception — Controlar quatro torres de comunicação (A, B, C, D) e chegar a 100 Capture Points antes do inimigo — pontos entram proporcionalmente ao número de torres sob seu controle."
+status: completo
+rag: true
 tags: [missao, tipo]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Interception"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Controlar quatro torres de comunicação (A, B, C, D) e chegar a 100 Capture Points antes do inimigo — pontos entram proporcionalmente ao número de torres sob seu controle.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Interception
+
 
 | Item | Detalhe |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Squad recomendado | **Squad cheio é ideal — uma torre por jogador** |
 | Tipo | **Endless** — recompensa por rodada |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Interception
+
 
 1. O mapa tem **quatro torres de comunicação** como pontos de captura, marcadas **A, B, C e D**. **Todas começam sob controle inimigo.**
 2. **Capture** ficando dentro do raio de captura da torre até ela virar para o controle Tenno. **Se houver inimigos dentro do raio, o ponto entra em "Conflict"** e não pode ser capturado até **todos os inimigos nele morrerem**.
@@ -41,9 +46,9 @@ agente: opus
 > [!important] Extração é por rodada
 > No fim de cada rodada, **cada jogador escolhe individualmente** sair com a recompensa mostrada ou continuar. A missão é considerada completa quando o jogador **aceita a recompensa e sai**.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Interception
+
 
 | Onde | Detalhe |
 |---|---|
@@ -55,9 +60,9 @@ agente: opus
 
 **Melhor nó para farmar:** Interception é historicamente o tipo preferido para **farmar afinidade de Warframe** (a afinidade de objetivo é alta) e para certos mods de facção.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Interception
+
 
 | Recompensa | Rotação / Chance | Nota |
 |---|---|---|
@@ -67,18 +72,18 @@ agente: opus
 > [!warning] ⚠️ Confirmar na wiki
 > A rotação exata **varia por nó**. Confira a drop table do nó antes de um farm longo.
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Interception
+
 
 - **Divida as torres.** Em squad cheio, **um jogador por torre** é a formação correta. Juntar todos numa torre perde pontos nas outras três.
 - **O alarme é informação**: quando toca, um inimigo está num console. **Mate-o** em vez de tentar recapturar depois.
 - Frames que **negam área ou travam inimigos** mantêm uma torre sozinhos: [[warframes/regular/limbo.md|Limbo]], [[warframes/regular/khora.md|Khora]], [[warframes/regular/vauban.md|Vauban]]-like e [[warframes/regular/nova.md|Nova]] (Molecular Prime desacelera a chegada).
 - **"Conflict" só sai matando** — habilidades que empurram não liberam o ponto.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Interception
+
 
 - **[[missoes/tipos/defense.md|Defense]]** — o outro endless de proteger posição.
 - **[[missoes/tipos/excavation.md|Excavation]]** — o endless de proteger múltiplos pontos móveis.
@@ -86,6 +91,3 @@ agente: opus
 - **[[missoes/tipos/pursuit.md|Pursuit]]** e **[[missoes/tipos/rush.md|Rush]]** — os outros tipos de Archwing.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Interception (consultado em 2026-10-04)

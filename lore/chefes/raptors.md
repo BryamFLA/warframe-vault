@@ -1,9 +1,14 @@
 ---
 title: The Raptors
+aliases: [The Raptors, raptors]
 tipo: lore
 subtipo: chefe
+resumo: "The Raptors — Três Ospreys modificados de Europa que respawnam para sempre: não se vence matando — vence-se pegando a Power Cell que cada um dropa e jogando nos três Gravity Conveyors antes de ela explodir em 10 segundos."
+status: completo
+rag: true
 tags: [lore, chefe, corpus]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Raptors", "https://wiki.warframe.com/w/Damage_2.0/Corpus_Tab"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Três Ospreys modificados de Europa que respawnam para sempre: não se vence matando — vence-se pegando a **Power Cell** que cada um dropa e **jogando nos três Gravity Conveyors** antes de ela explodir em 10 segundos.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — The Raptors
+
 
 | Item | Valor |
 |---|---|
@@ -25,17 +30,17 @@ agente: opus
 | Status atual na história | Ativos, com **fábrica subterrânea de produção em massa** |
 | Variantes | **NS**, **MT** e **RV** — aparecem em sequência |
 
----
 
-## 📖 História
+## 📖 História — The Raptors
+
 
 Os Raptors são os chefes Corpus de [[locais/planetas/europa.md|Europa]], com **uma fábrica subterrânea trabalhando para produzi-los em massa**. Essencialmente, são **Ospreys modificados** com **poder e defesas aumentados**, e aparecem em **três tipos diferentes, cada um com armamento único**.
 
 A existência deles é um retrato do método Corpus: em vez de um único proxy-chefe caro, **uma linha de produção que entrega unidades indefinidamente**. É por isso que a luta não é contra os Raptors — é contra **a fábrica**.
 
----
 
-## ⚔️ Combate
+## ⚔️ Combate — The Raptors
+
 
 | Item | Detalhe |
 |---|---|
@@ -74,9 +79,9 @@ A variante **MT** é a mais incômoda: os **Nemes RT** vêm em grupos de seis e 
 
 **Frames recomendados:** [[warframes/regular/volt.md|Volt]] (Electricity +50% em Robotic, e Speed para carregar a célula), [[warframes/regular/gauss.md|Gauss]] ou [[warframes/regular/titania.md|Titania]] pela velocidade de levar a célula ao conveyor, [[warframes/regular/mag.md|Mag]] (Magnetize arrasa escudo de proxy e junta os Nemes RT), [[warframes/regular/mesa.md|Mesa]] para acertar alvos voadores sem depender de mira, [[warframes/regular/rhino.md|Rhino]] contra o knockdown do Energy Mortar.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — The Raptors
+
 
 - **[[warframes/regular/nova.md|Nova]]** — a Warframe cujo componente eles dropam.
 - **[[lore/chefes/hyena_pack.md|Hyena Pack]]** — o outro grupo-chefe Corpus de múltiplos proxies, em Netuno.
@@ -84,9 +89,9 @@ A variante **MT** é a mais incômoda: os **Nemes RT** vêm em grupos de seis e 
 - **[[lore/faccoes/corpus.md|Corpus]]** — a linha de Ospreys e proxies da facção.
 - **[[mecanicas/eventos/razorback_armada.md|Razorback Armada]]** — evento em que proxies Corpus de várias linhas aparecem.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — The Raptors
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -95,7 +100,3 @@ A variante **MT** é a mais incômoda: os **Nemes RT** vêm em grupos de seis e 
 | [[locais/planetas/europa.md\|Europa]] | A fábrica subterrânea que a luta destrói |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Raptors (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Corpus_Tab (consultado em 2026-10-04)

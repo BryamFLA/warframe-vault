@@ -1,9 +1,14 @@
 ---
 title: Vor's Prize
+aliases: [Vor's Prize, vors prize]
 tipo: missao
 subtipo: jornada
+resumo: "Vor's Prize — A segunda quest do jogo e o tutorial de verdade: você acorda da criostase com Captain Vor atrás de você e monta o Orbiter peça por peça."
+status: completo
+rag: true
 tags: [missao, jornada, principal]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Vor%27s_Prize"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > A segunda quest do jogo e o tutorial de verdade: você acorda da criostase com Captain Vor atrás de você e monta o Orbiter peça por peça.
 
----
 
-## 📖 Narrativa e Pré-requisitos
+## 📖 Narrativa e Pré-requisitos — Vor's Prize
+
 
 | Item | Detalhe |
 |---|---|
@@ -30,9 +35,9 @@ agente: opus
 
 Essa quest existe para ensinar os sistemas básicos: Foundry, mods, missões de tipos diferentes e a navegação pelo Star Chart. É também onde se estabelece o tema central do jogo — **tecnologia [[lore/faccoes/orokin.md|Orokin]] que ninguém mais entende**, com Vor usando a **Janus Key** e a pistola [[armas/secundarias/seer.md|Seer]], um híbrido Orokin/Grineer de construção própria.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Vor's Prize
+
 
 | Recompensa | Nota |
 |---|---|
@@ -41,18 +46,18 @@ Essa quest existe para ensinar os sistemas básicos: Foundry, mods, missões de 
 | **25.000 Créditos** | — |
 | Cronus blueprint (100%) | Do próprio Vor, ao derrotá-lo — ver [[lore/chefes/captain_vor.md\|Captain Vor]] |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Vor's Prize
+
 
 - **Mire na cabeça do Vor:** ele tem multiplicador de **2,0x** na cabeça, o que vale mais que qualquer upgrade de dano em nível 10.
 - **Quando a Sphere Shield subir, pare de atirar nele** e limpe os reforços Grineer — é a única forma de derrubar o escudo.
 - Nos corredores de laser do covil dele, o dano é **Electricity**; atravesse com rolamento.
 - Esta quest é **repetível** pelo Codex, útil se você quiser rever a sequência inicial.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Vor's Prize
+
 
 - **[[lore/chefes/captain_vor.md|Captain Vor]]** — o antagonista e a ficha de combate dele.
 - **[[lore/personagens/vor.md|Vor (personagem)]]** — quem ele é e por que foi rebaixado.
@@ -61,6 +66,3 @@ Essa quest existe para ensinar os sistemas básicos: Foundry, mods, missões de 
 - **[[mecanicas/forja.md|Forja]]** e **[[mecanicas/forma_e_polaridades.md|Mods]]** — os sistemas que ela ensina.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Vor%27s_Prize (consultado em 2026-10-04)

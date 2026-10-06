@@ -1,11 +1,16 @@
 ---
-title: "Archgun Riven Mod"
+title: Archgun Riven Mod
+aliases: [Archgun Riven Mod, riven archgun]
 tipo: mod
 categoria: especial
-polaridade: Madurai, Naramon ou Vazarin (sorteada)
 raridade: riven
+polaridade: "Madurai, Naramon ou Vazarin (sorteada)"
+resumo: "Mod único por instância: cada Riven de Archgun tem atributos sorteados, é designado a uma única arma (e suas variantes) e não tem tabela de efeito por rank fixa."
+status: completo
+rag: true
 tags: [mod, especial, riven]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Riven_Mods"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -18,9 +23,9 @@ agente: opus
 > [!danger] Este arquivo não pode ter tabela de ranks
 > Ao contrário de todo outro mod do vault, **um Riven não tem valores fixos**. Duas cópias do mesmo Riven de Archgun para a mesma arma têm números diferentes. Por isso **não existe** tabela `Rank / Efeito / Drenagem` aqui — e inventar uma violaria as seções 1 e 8 das convenções. O que está documentado abaixo são as **regras do sistema**, que são fixas e verificáveis.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Archgun Riven Mod
+
 
 | Item | Valor |
 |---|---|
@@ -36,9 +41,9 @@ agente: opus
 | Comercializável | **Sim** |
 | Slots de Riven | **15** iniciais; compráveis de **3 em 3 por 60 Platinum** no Mercado, até **180**; custo total dos 165 adicionais: **3.300 Platinum**. **MR 30 dá 30 slots extras**, totalizando **210** |
 
----
 
-## 🔒 Estados: ???, Velado e Desvelado
+## 🔒 Estados: ???, Velado e Desvelado — Archgun Riven Mod
+
 
 | Estado | O que acontece |
 |---|---|
@@ -49,9 +54,9 @@ agente: opus
 > [!note] Restrição de classe no estado velado
 > Rivens de Archgun velados só podem ser equipados em Arch-guns.
 
----
 
-## 🎲 Disposition — o que define a força dos atributos
+## 🎲 Disposition — o que define a força dos atributos — Archgun Riven Mod
+
 
 **Disposition** é um multiplicador de atributos dado pelo sistema, que agrega a **popularidade de uso da arma** entre jogadores de Mastery Rank alto e rankings internos da "força" da arma. Ele controla **a faixa de valores possíveis** dos atributos.
 
@@ -75,9 +80,9 @@ Regras que importam na prática:
 > [!warning] Por isso a convenção proíbe registrar disposition no vault
 > A seção 8 das convenções lista **Riven disposition** entre os dados que não podem ser inventados, exatamente porque ela **muda a cada poucos meses**. Consulte o Arsenal no jogo ou https://wiki.warframe.com/w/Riven_Mods#Weapon_Disposition_List para o valor vigente.
 
----
 
-## 🔄 Cycling (rerolar)
+## 🔄 Cycling (rerolar) — Archgun Riven Mod
+
 
 Rerolar é a função **Cycle**, no segmento de Mods da Orbiter, e custa **[[recursos/raridades/raro/kuva.md|Kuva]]** — obtido em objetivos de **Kuva Siphon** nos planetas próximos à **[[locais/planetas/kuva_fortress.md|Kuva Fortress]]** (que se move pelo Star Chart num ciclo de 50 horas) ou como recompensa incomum de **Bounties**.
 
@@ -101,9 +106,9 @@ Depois de rerolar, **as duas versões são mostradas** — a antiga e a nova —
 
 > O custo **começa em 900 Kuva** e sobe a cada cycle do mesmo mod, **travando em 3.500 Kuva**. O número de cycles já feitos aparece como uma **seta anti-horária no canto inferior direito** do mod.
 
----
 
-## 🏗️ Onde Obter
+## 🌍 Onde Conseguir — Archgun Riven Mod
+
 
 | Fonte | Detalhe |
 |---|---|
@@ -133,9 +138,9 @@ Depois de rerolar, **as duas versões são mostradas** — a antiga e a nova —
 
 **Faixa de preço em platina:** ⚠️ **não registrada.** Riven é o item de preço mais volátil do jogo — depende da arma, da disposition vigente e da rolagem específica. Pela seção 8 das convenções, não há estimativa aqui. Consulte **riven.market** ou warframe.market no momento da negociação.
 
----
 
-## 🛠️ Uso
+## 🛠️ Como Usar — Archgun Riven Mod
+
 
 **Vale a pena?** **Só com rolagem boa.** Um Riven de Archgun ocupa um slot normal de mod e **só supera o mod comum daquele slot se a rolagem bater com a build**. Três coisas decidem:
 
@@ -150,6 +155,3 @@ Depois de rerolar, **as duas versões são mostradas** — a antiga e a nova —
 Ver também **[[recursos/raridades/especial/riven_mod.md|Riven Mod (recurso)]]**.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Riven_Mods — propriedades (2–3 bônus, negativo, polaridades possíveis, MR 8–16, conflito entre Rivens, custo igual a Rare, slots e preços em Platinum), estados ???/Velado/Desvelado com as restrições de classe, Disposition (faixa 0,5–1,55, as 5 categorias, variantes, armas modulares, mudança a cada 3 meses), Cycling (o que muda e o que não, tabela de custo de 900 a 3.500 Kuva) e Acquisition (The War Within, Palladino, chances de Sortie por tipo, Steel Path, Acrithis, Archon Hunt, Nightwave, calendário de 1999) (consultado em 2026-10-06)

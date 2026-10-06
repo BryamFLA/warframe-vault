@@ -1,8 +1,13 @@
 ---
 title: Clã e Dojo
+aliases: [Clã e Dojo, Cla e Dojo]
 tipo: mecanica
+resumo: "O clã é a estrutura social do jogo e o Dojo é a base dele: salas de Research que replicam equipamento por Credits, Trading Post com taxa configurável, Dry Dock para Railjack — tudo pago em recursos multiplicados pelo Clan Tier."
+status: completo
+rag: true
 tags: [mecanica, cla, dojo, pesquisa, clan-vault, tier]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Clan_Dojo", "https://wiki.warframe.com/w/Clan"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > O clã é a estrutura social do jogo e o Dojo é a base dele: salas de Research que replicam equipamento por Credits, Trading Post com taxa configurável, Dry Dock para Railjack — tudo pago em recursos multiplicados pelo **Clan Tier**.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Clã e Dojo
+
 
 Para entrar no Dojo é preciso construir uma **Clan Key** — o blueprint vem automaticamente ao entrar num clã. Depois disso, o Dojo aparece no Star Chart como se fosse um planeta, com um nó com o nome do clã e a opção de visitar clãs em destaque.
 
@@ -25,9 +30,9 @@ Toda construção passa por duas fases: **Funding** (qualquer membro doa recurso
 > [!danger] O multiplicador de tier é a decisão mais importante do clã
 > O **Clan Tier** define o cap de membros **e multiplica todo custo** de pesquisa, sala e decoração: **x1, x3, x10, x30, x100**. Um clã **Moon** paga **100x** o que um **Ghost** paga pela mesma pesquisa. Clã grande sem gente ativa é a armadilha clássica.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Clã e Dojo
+
 
 ```
 Clan Key: 1.500 Credits + 1 Morphics(?) + 500 + 500 de recursos
@@ -80,9 +85,9 @@ Bônus de recurso para o Clan Vault, jogando com gente do clã:
 - Um **Treasurer** é **forçado** a doar do Vault primeiro: não há opção na UI para priorizar o inventário pessoal (só se o Vault ficar sem o recurso).
 - **Articulas, Displays e itens únicos não podem ir para o Vault**: Ambulas Noggle, Stalker Noggle, Shadow Debt Noggles, Kuria Statuette, Sacred Vessel, Oro Ornament, Rell's Donda, Prominence Wisp Totem, Thousand-Year Fish Statuette.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Clã e Dojo
+
 
 ### Clan Tier
 
@@ -186,9 +191,9 @@ Clan Affinity vem de: construir pela **primeira vez** Oracle, Bio Lab, Chem Lab,
 
 **Total de Clan Affinity disponível (Update 39.0, 2025-06-25):** 729.000 em 211 itens — ou **712.000 em 210** descontando exclusivos. Distribuição: Weapons 288.000 (90 itens) · Rooms 160.000 (14) · Gear 74.000 (25) · Warframes 52.000 (6) · Pigments 40.000 (40) · Archwings 22.500 (3) · Orbiter Segments 18.000 (3) · Solar Rail Construction 17.000 (1, **impossível desde o Update 16.0**) · Archguns 14.000 (4) · Resources 9.000 (4) · Visitors 8.000 (8) · Backdrops 6.000 (6) · Companions 6.000 (2) · Archmelees 5.000 (1) · Superchargers 5.000 (1) · K-Drive Scrawls 4.500 (3).
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Clã e Dojo
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -205,9 +210,9 @@ Clan Affinity vem de: construir pela **primeira vez** Oracle, Bio Lab, Chem Lab,
 | Tradear Lich / Sister / Coda | Exige a sala **Crimson Branches** |
 | Não perder doação | Doação ao Vault é **permanente**. Confira antes |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Clã e Dojo
+
 
 - **"Clã maior é melhor."** É o contrário em termos de custo: **Moon paga 100x** o que Ghost paga pela mesma pesquisa. Tier grande só vale com muita gente **ativa** financiando.
 - **"Capacity e Energy são a mesma coisa."** São dois pools independentes. Capacity vem das **Clan Halls**; Energy vem dos **Reactors**. Faltar um dos dois bloqueia a sala.
@@ -222,9 +227,9 @@ Clan Affinity vem de: construir pela **primeira vez** Oracle, Bio Lab, Chem Lab,
 - **"Dá para usar o Arsenal em qualquer Dojo."** Só com **Observatory** construído.
 - **"Solar Rail ainda dá Clan Affinity."** A construção de Solar Rail **só foi possível até o Update 16.0 (2015-03-19)** — os 17.000 de Affinity dela são inalcançáveis hoje.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Clã e Dojo
+
 
 - [[mecanicas/trading.md|Trading]] — o Trading Post e a taxa de hub de 0% a 100% definida pelo Treasurer; o Dojo é um dos dois locais de trade do jogo.
 - [[mecanicas/forja.md|Forja]] — o Landing Craft Segment sai do Tenno Lab por 15.000 Credits; a Clan Key é um item de forja (12 h).
@@ -238,7 +243,3 @@ Clan Affinity vem de: construir pela **primeira vez** Oracle, Bio Lab, Chem Lab,
 - [[recursos/_Recursos _Indice.md|Recursos]] — tudo que o Clan Vault armazena.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Clan_Dojo — Clan Key e custo, pools de Capacity, Energy e Decoration Capacity, teto de 128 salas, Clan Vault e bônus de recurso por squad de clã, lista de itens que não podem ser doados, amenidades pré-supridas e construídas, fases de Funding e Construction, regras de pré-requisito e destruição (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Clan — tabela de Clan Tier com cap de membros, Barracks exigida e multiplicador de custo, regras de downsize e moratória de 60 dias, hierarquia de 8 posições com descrição de cada privilégio e a atribuição padrão, Clan Rank com tabela de Affinity e o total disponível por categoria (consultado em 2026-10-04)

@@ -1,19 +1,25 @@
 ---
 title: Skins
+aliases: [Skins]
 tipo: cosmetico
-tags:
-  - cosmetico
-  - skin
-atualizado: 2026-04-19
+resumo: "Skins substituem completamente a aparência visual de um Warframe ou arma, mantendo os stats e habilidades intactos."
+status: parcial
+rag: true
+tags: [cosmetico, skin]
+atualizado: 2026-10-07
+agente: opus
 ---
 
-## O que são Skins?
+# Skins
+
+## O que são Skins? — Skins
+
 
 Skins substituem completamente a aparência visual de um Warframe ou arma, mantendo os stats e habilidades intactos. São puramente estéticos.
 
----
 
-## Tipos de Skin
+## Tipos de Skin — Skins
+
 
 | Tipo | Descrição |
 |---|---|
@@ -24,9 +30,9 @@ Skins substituem completamente a aparência visual de um Warframe ou arma, mante
 | **Umbra Tennogen** | Skins compatíveis com Excalibur Umbra (limitadas) |
 | **Weapon Skins** | Substituem o visual de armas específicas ou categorias inteiras |
 
----
 
-## Fontes de Aquisição
+## 🌍 Onde Conseguir — Skins
+
 
 - **Mercado** (Platinum) — Deluxe Bundles, weapon skins oficiais
 - **Steam** (dinheiro real) — Tennogen exclusivo de PC
@@ -34,9 +40,9 @@ Skins substituem completamente a aparência visual de um Warframe ou arma, mante
 - **Nightwave** — ocasionalmente oferecidas como recompensas de rank
 - **Eventos** — skins exclusivas por tempo limitado
 
----
 
-## Observações
+## 📝 Observações — Skins
+
 
 - Tennogen **não está disponível** em consoles via Steam — consoles têm seleção reduzida via Platinum
 - Skins de Warframe não substituem o capacete — precisam do capacete default ou de um capacete compatível

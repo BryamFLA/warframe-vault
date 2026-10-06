@@ -1,10 +1,15 @@
 ---
 title: Salvage
+aliases: [Salvage]
 tipo: recurso
 raridade: comum
 origem: planeta
+resumo: "Salvage — Um recurso de criação comum altamente abundante, exigido em quantidades massivas para construir a maior parte dos itens básicos e Warframes do jogo."
+status: parcial
+rag: true
 tags: [recurso]
-atualizado: 2026-09-09
+fontes: ["https://wiki.warframe.com/w/Salvage"]
+atualizado: 2026-10-07
 verificado: false
 agente: gemini
 ---
@@ -14,9 +19,9 @@ agente: gemini
 > [!info] Resumo
 > Um recurso de criação comum altamente abundante, exigido em quantidades massivas para construir a maior parte dos itens básicos e Warframes do jogo.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Salvage
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: gemini
 | Aparece a partir de | [[locais/planetas/marte.md|Marte]] |
 | Afetado por boosters | Sim |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Salvage
+
 
 | Local | Missão / Método | Rendimento | Nota |
 |---|---|---|---|
@@ -40,9 +45,9 @@ agente: gemini
 
 **Mods e frames que ajudam:** Nekros (Desecrate), Khora (Pilfering Strangledome), Speed Nova para acelerar defesas, mods de Vacuum.
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Salvage
+
 
 | Item | Quantidade |
 |---|---|
@@ -51,6 +56,3 @@ agente: gemini
 | Maioria dos componentes de Warframe | 500 - 1.000 |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Salvage — drop e uso (consultado em 2026-09-09)

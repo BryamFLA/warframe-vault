@@ -1,9 +1,14 @@
 ---
 title: Lotus
+aliases: [Lotus]
 tipo: lore
 subtipo: personagem
+resumo: "Lotus — Natah, a Sentient enviada para exterminar os Tenno, que ficou estéril na travessia, escolheu ser mãe deles em vez disso, traiu o próprio pai e tomou o nome da flor preferida de Margulis."
+status: completo
+rag: true
 tags: [lore, personagem, sentient, tenno]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Lotus"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Natah, a Sentient enviada para exterminar os Tenno, que ficou estéril na travessia, escolheu ser mãe deles em vez disso, traiu o próprio pai e tomou o nome da flor preferida de Margulis.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Lotus
+
 
 | Item | Valor |
 |---|---|
@@ -26,9 +31,9 @@ agente: opus
 | Nome original | **Natah** — Lotus é o nome da flor preferida de [[lore/personagens/margulis.md\|Margulis]] |
 | Família | Pai **Hunhow**, irmão **[[lore/personagens/erra.md\|Erra]]** |
 
----
 
-## 📖 História
+## 📖 História — Lotus
+
 
 > [!warning] Spoiler — Natah / The Second Dream
 
@@ -59,9 +64,9 @@ Em [[missoes/jornadas/principais/the_second_dream.md|The Second Dream]], Hunhow 
 > [!warning] Spoiler — The Lotus Eaters
 > Depois de [[missoes/jornadas/principais/whispers_in_the_walls.md|Whispers in the Walls]], a Lotus aparece **em pessoa** no Sanctum Anatomica. Ao se aproximar, o Tenno descobre que ela está **lutando contra a influência do Man in the Wall** — e ela instrui o Drifter a **encontrar Albrecht Entrati em 1999**. Loid usa esse vínculo estabelecido para viabilizar a viagem no tempo.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Lotus
+
 
 - **[[lore/personagens/hunhow.md|Hunhow]]** — o pai Sentient que ela traiu, e que no fim se alia ao Drifter para salvá-la de ser fantoche de Ballas.
 - **[[lore/personagens/erra.md|Erra]]** — o irmão, que tentou trazê-la "de volta ao rebanho" e no fim se sacrificou para salvá-la.
@@ -74,9 +79,9 @@ Em [[missoes/jornadas/principais/the_second_dream.md|The Second Dream]], Hunhow 
 - **[[lore/chefes/stalker.md|Stalker]]** — serviu a Hunhow contra ela e os Tenno.
 - **The Man in the Wall** — a influência que ela esconde estar combatendo.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Lotus
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -90,6 +95,3 @@ Em [[missoes/jornadas/principais/the_second_dream.md|The Second Dream]], Hunhow 
 | Todas as missões | A voz que guia espionagem, sabotagem, defesa, extermínio, interceptação e resgate |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Lotus (consultado em 2026-10-04)

@@ -1,9 +1,14 @@
 ---
 title: The Glast Gambit
+aliases: [The Glast Gambit]
 tipo: missao
 subtipo: jornada
+resumo: "The Glast Gambit — A quest do Nidus: Ergo Glast conta a história da Mycona Colony, que prospera colhendo matéria Infested — e Nef Anyo quer tomar o lugar."
+status: completo
+rag: true
 tags: [missao, jornada, secundaria]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/The_Glast_Gambit"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > A quest do Nidus: Ergo Glast conta a história da Mycona Colony, que prospera colhendo matéria Infested — e Nef Anyo quer tomar o lugar.
 
----
 
-## 📖 Narrativa e Pré-requisitos
+## 📖 Narrativa e Pré-requisitos — The Glast Gambit
+
 
 | Item | Detalhe |
 |---|---|
@@ -32,25 +37,25 @@ O [[lore/faccoes/corpus.md|Corpus]] de Nef Anyo cobra a colônia por meio de **T
 
 Essa é a quest que explica por que a Perrin Sequence existe: Glast é um **ex-Corpus** que saiu da facção por discordar do método, e que também criou o processador **Animo** — depois weaponizado por **Frohd Bek** no [[lore/chefes/ambulas.md|Ambulas]].
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — The Glast Gambit
+
 
 | Recompensa | Nota |
 |---|---|
 | **[[warframes/regular/nidus.md\|Nidus]]** blueprint | A Warframe Infested |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — The Glast Gambit
+
 
 - **The Index** tem três níveis de aposta, cada um com alvo de pontos e retorno diferentes. É também **uma das melhores fontes de créditos do jogo** fora de Profit-Taker.
 - No Index, você **carrega os pontos até o depósito**: morrer com pontos na mão **devolve-os ao inimigo**. Sobrevivência vale mais que dano.
 - **[[warframes/regular/nidus.md|Nidus]]** não depende de escudo nem de energia convencional: ele usa **Mutation Stacks**, que crescem conforme você mata. Isso o torna imune ao problema de dreno de energia — útil contra o Hyena **TH** e os Ancients Disruptors.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — The Glast Gambit
+
 
 - **[[warframes/regular/nidus.md|Nidus]]** — a Warframe recompensada.
 - **[[mecanicas/sindicatos/perrin_sequence.md|Perrin Sequence]]** — o sindicato de Ergo Glast.
@@ -59,6 +64,3 @@ Essa é a quest que explica por que a Perrin Sequence existe: Glast é um **ex-C
 - **[[lore/faccoes/corpus.md|Corpus]]** — Nef Anyo e a estrutura de apostas.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/The_Glast_Gambit (consultado em 2026-10-04)

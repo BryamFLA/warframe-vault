@@ -1,10 +1,15 @@
 ---
 title: Pyrol
+aliases: [Pyrol]
 tipo: recurso
 raridade: comum
 origem: open-world
+resumo: "Pyrol — Recurso comum do tipo ore, farmado em Plains of Eidolon (Earth) from Red Mining Veins and Thumpers, 5 a 10 por drop."
+status: completo
+rag: true
 tags: [recurso, open_world, ore]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Pyrol", "https://wiki.warframe.com/w/Module:Resources/data", "https://wiki.warframe.com/w/Module:DropTables/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “A tarnished, brittle metal.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Pyrol
+
 
 | Item | Valor |
 |---|---|
@@ -31,9 +36,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **Sim** |
 | Introduzido no Update | **22** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Pyrol
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -59,17 +64,12 @@ No vault: [[locais/planetas/terra.md|Earth]], [[locais/open-worlds/cetus.md|Plai
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Pyrol
+
 
 | Item | Quantidade |
 |---|---|
 | **Bapholite** | 20 |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Pyrol — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)

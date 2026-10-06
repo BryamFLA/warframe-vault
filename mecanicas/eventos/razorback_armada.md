@@ -1,8 +1,13 @@
 ---
 title: Razorback Armada
+aliases: [Razorback Armada]
 tipo: mecanica
+resumo: Evento recorrente em que o Corpus ataca um Relay com o Razorback — um Jackal gigante do Nef Anyo.
+status: completo
+rag: true
 tags: [mecanica, evento, razorback, corpus, relay, nef-anyo]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Razorback"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Evento recorrente em que o Corpus ataca um Relay com o **Razorback** — um Jackal gigante do Nef Anyo. Entrar exige um **Razorback Cipher**, e matá-lo exige **hackear Bursas** e virá-los contra ele.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Razorback Armada
+
 
 O **Razorback** é um chefe Corpus introduzido no Tactical Alert "Divine Will", na Hotfix 18.4.10 (2016-02-11). É uma criação do **Nef Anyo** — essencialmente um **[[lore/chefes/jackal.md\|Jackal]] muito maior** que o Nef se vangloria de ser "impermeável ao mal". A ironia é que ele é **vulnerável às criações anteriores do próprio Nef: os Bursas**.
 
@@ -22,9 +27,9 @@ O **Razorback** é um chefe Corpus introduzido no Tactical Alert "Divine Will", 
 
 O evento aparece como um **nó ao lado de um Relay ativo**, depois que o **status de construção no menu de Invasion é concluído apoiando o Corpus**. Concluir a missão **3 vezes por edição do evento** dá **200.000 Credits** e um **[[recursos/raridades/especial/orokin_catalyst.md\|Orokin Catalyst]] pronto**.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Razorback Armada
+
 
 ```
 Entrada: exige 1 Razorback Cipher POR JOGADOR
@@ -66,9 +71,9 @@ Recompensa por 3 conclusões no evento: 200.000 Credits + 1 Orokin Catalyst pron
 - Um Bursa hackeado **não pode** ser usado para duas fases de vulnerabilidade: ele morre em 10 s, e há **alguns segundos de atraso** entre as fases em que nenhum Bursa consegue atordoar o Razorback. Manter vários Bursas vivos é inútil.
 - Drop de **Orokin Cell** dos Hyenas começa em **100%** e **diminui progressivamente** quanto mais Hyenas você spawna — correção da Hotfix 25.8.1 (2019-10-09) contra o exploit de farm infinito.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Razorback Armada
+
 
 ### A luta, passo a passo
 
@@ -130,9 +135,9 @@ Desde o Update 32.0 (2022-09-07) todas as plataformas compartilham World State e
 | 2026-09-21 | Orcus (Plutão) |
 | 2026-09-28 | Kronia (Saturno) |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Razorback Armada
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -146,9 +151,9 @@ Desde o Update 32.0 (2022-09-07) todas as plataformas compartilham World State e
 | Farmar Orokin Cell | Hyenas começam com **100% de drop** de Orokin Cell, mas a chance **cai progressivamente** quanto mais você spawna |
 | Elemento certo | Os ataques do Razorback são todos **Elétricos**. Ele é Corpus com armadura 100 (17,32% de redução) e **2.000 de escudo**: Magnetic para o escudo, Toxin ignorando o escudo. Ver [[mecanicas/dano_e_status.md\|Dano e Status]] |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Razorback Armada
+
 
 - **"Só quem usa o terminal gasta o Cipher."** **Todos** no squad consomem um Cipher quando ele é usado.
 - **"Perspicacity economiza o Cipher."** Funciona no terminal da porta, mas **ainda consome o Cipher**. E nos terminais de Bursa o efeito é **reduzido**.
@@ -159,9 +164,9 @@ Desde o Update 32.0 (2022-09-07) todas as plataformas compartilham World State e
 - **"O evento aparece sozinho."** Só depois de o **status de construção no menu de Invasion** ser concluído **apoiando o Corpus**.
 - **"Cryptographic ALU é farmável sempre."** Só **durante** o Razorback Armada.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Razorback Armada
+
 
 - [[mecanicas/eventos/_Eventos _Indice.md|Eventos]] — a visão geral; o Razorback Armada é o espelho Corpus do [[mecanicas/eventos/balor_fomorian.md\|Balor Fomorian]] Grineer.
 - [[mecanicas/eventos/balor_fomorian.md|Balor Fomorian]] — o evento equivalente do lado Grineer, também ligado ao menu de Invasion.
@@ -178,6 +183,3 @@ Desde o Update 32.0 (2022-09-07) todas as plataformas compartilham World State e
 - [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]] — o drop dos Hyenas, com chance decrescente.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Razorback — origem no Tactical Alert Divine Will (Hotfix 18.4.10), relação com o Jackal e a vulnerabilidade aos Bursas, mecânica e custo do Razorback Cipher (reutilizável, 1 min, todos consomem), stats completos do Razorback, lista de ataques, estratégia dos 4 ciclos com 25% de vida por Bursa e os 10 s de vida do Bursa hackeado, tabela completa de recompensas com chances, notas sobre Orokin Cell dos Hyenas e a correção da Hotfix 25.8.1, histórico de datas e Relays das edições (consultado em 2026-10-04)

@@ -1,9 +1,14 @@
 ---
 title: Archon Hunt
+aliases: [Archon Hunt]
 tipo: missao
 subtipo: tipo
+resumo: "A caçada semanal aos três Archons: três missões em sequência contra o Narmer, com um Archon nível 150 no fim e um Archon Shard como prêmio."
+status: completo
+rag: true
 tags: [missao, tipo]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Archon_Hunt"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > A caçada semanal aos três Archons: três missões em sequência contra o Narmer, com um Archon nível 150 no fim e um Archon Shard como prêmio.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Archon Hunt
+
 
 | Item | Detalhe |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Nível do Archon | **150** |
 | Repetição | **Só pode ser repetida depois de completar as três missões** — e **não rende mais recompensas específicas de Archon Hunt** |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Archon Hunt
+
 
 1. A Archon Hunt é composta de **três missões em sequência**, todas contra o **Narmer**.
 2. A terceira traz o **Archon** da semana: **[[lore/chefes/archon_amar.md|Amar]]**, **[[lore/chefes/archon_nira.md|Nira]]** ou **[[lore/chefes/archon_boreal.md|Boreal]]**, em rotação.
@@ -53,9 +58,9 @@ agente: opus
 | Vida baixa | O Archon invoca reforços para se escudar; matá-los remove a invulnerabilidade |
 | Último recurso | Barreira própria de cada Archon — ver a ficha de cada um |
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Archon Hunt
+
 
 | Onde | Detalhe |
 |---|---|
@@ -65,9 +70,9 @@ agente: opus
 
 **Melhor nó para farmar:** não há escolha de nó — a Hunt é fixa na semana. O que se escolhe é **qual Archon**, e isso depende da rotação.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Archon Hunt
+
 
 | Recompensa | Rotação / Chance | Nota |
 |---|---|---|
@@ -77,18 +82,18 @@ agente: opus
 > [!important] Os Shards são a progressão de endgame
 > Os **Archon Shards** são instalados no [[mecanicas/helminth.md|Helminth]] e dão bônus permanentes à Warframe. É a razão de a Archon Hunt existir.
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Archon Hunt
+
 
 - **Sua build de Corrosive não funciona.** A armadura é **irremovível** e a saúde é **Narmer**: leve **Slash e Toxin**, e **não leve Magnetic**.
 - **Damage Attenuation pune burst.** Dano constante e dividido rende mais que um tiro gigante — e o teto de **4 status** limita builds de empilhamento.
 - **Habilidades de Warframe são quase todas ignoradas.** Escolha frames por **sobrevivência e buff de arma**: [[warframes/regular/rhino.md|Rhino]] (Roar), [[warframes/regular/octavia.md|Octavia]] (Amp), [[warframes/regular/dante.md|Dante]] (Overguard).
 - Cada Archon tem um truque próprio: **Target Radar** contra os clones do [[lore/chefes/archon_amar.md|Amar]], **atacar por trás** no escudo frontal da [[lore/chefes/archon_nira.md|Nira]], **entrar no orbe** do [[lore/chefes/archon_boreal.md|Boreal]].
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Archon Hunt
+
 
 - **[[lore/chefes/archon_amar.md|Archon Amar]]**, **[[lore/chefes/archon_nira.md|Archon Nira]]**, **[[lore/chefes/archon_boreal.md|Archon Boreal]]** — as fichas de combate.
 - **[[missoes/jornadas/principais/veilbreaker.md|Veilbreaker]]** — o pré-requisito.
@@ -97,6 +102,3 @@ agente: opus
 - **[[missoes/tipos/sortie.md|Sortie]]** — o equivalente diário.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Archon_Hunt (consultado em 2026-10-04)

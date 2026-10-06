@@ -1,8 +1,13 @@
 ---
 title: Baro Ki'Teer
+aliases: [Baro Ki'Teer, baro ki teer]
 tipo: mecanica
+resumo: "Baro Ki'Teer — O Void Trader: aparece em um Relay a cada 2 semanas por 48 horas vendendo Primed Mods, armas Prisma/Wraith/Vandal e cosméticos exclusivos, pagos em Orokin Ducats + Credits."
+status: completo
+rag: true
 tags: [mecanica, baro, void-trader, ducats, loja, relay]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Baro_Ki%27Teer", "https://wiki.warframe.com/w/Orokin_Ducats"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > O Void Trader: aparece em um Relay **a cada 2 semanas por 48 horas** vendendo Primed Mods, armas Prisma/Wraith/Vandal e cosméticos exclusivos, pagos em **Orokin Ducats + Credits**.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Baro Ki'Teer
+
 
 Baro Ki'Teer (primeira aparição no Update 15.6, 2014-12-11; dublado por Paul C Nodine) é um mercador obcecado pelo exótico e pelo luxo Orokin. Ele aparece na área do **Concourse** dos Relays, mas **não** fica sempre: surge **a cada duas semanas** e fica disponível por **até 48 horas** antes de desaparecer.
 
@@ -31,9 +36,9 @@ O estoque **muda a cada visita** e é imprevisível. O que é recorrente: **Prim
 | **Inbox** | Quando ele chega, você recebe mensagem dizendo o Relay e o planeta |
 | **Chat** | Digitar `when baro` nos canais **Region** ou **Relay** responde o status a qualquer momento |
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Baro Ki'Teer
+
 
 ```
 Ciclo de aparição = a cada 2 semanas (14 dias)
@@ -70,9 +75,9 @@ Void Surplus: 2,00% de chance de conter 1.000 Ducats
 - **Varzia**, durante o **Prime Resurgence**, vende Ducats por **Aya** (1 Aya = 5 Ducats).
 - Ducats também servem para o **sacrifício final do Conclave**, para comprar uma decoração de Orbiter em **Iron Wake**, e para **construir a Paracesis**.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Baro Ki'Teer
+
 
 ### Categorias recorrentes no estoque
 
@@ -104,9 +109,9 @@ Void Surplus: 2,00% de chance de conter 1.000 Ducats
 | Incomum, mas antes era mais rara (compensação de vault) | **65** |
 | Raro (ouro) | **100** |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Baro Ki'Teer
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -123,9 +128,9 @@ Void Surplus: 2,00% de chance de conter 1.000 Ducats
 
 **Mods que interagem:** todos os **Primed Mods** vêm daqui — Primed Cryo Rounds, Primed Ravage, Primed Convulsion, Primed Chilling Grasp, Primed Dual Rounds, Primed Deadly Efficiency, Primed Slip Magazine, Primed Ammo Stock, Primed Pistol Ammo Mutation, Primed Morphic Transformer, Primed Steady Hands, Primed Stabilizer, Primed Smite/Cleanse/Expel por facção, e os Primed de Archgun. Os Primed Mods de **Daily Tribute** são outros e **não** são tradeáveis.
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Baro Ki'Teer
+
 
 - **"Baro aceita Platinum."** Nunca. Só **Ducats + Credits**. É a loja premium que não exige dinheiro real.
 - **"Ducats podem ser tradeados."** Não. Só as **peças Prime** que geram Ducats são tradeáveis.
@@ -137,9 +142,9 @@ Void Surplus: 2,00% de chance de conter 1.000 Ducats
 - **"Prisma Veritux exige MR."** É a exceção entre armas de Archwing: **não tem trava de Mastery Rank** e é comprada pronta.
 - **"O estoque é fixo."** Rotaciona a cada visita. O único item garantido em toda visita é o **Void Surplus**.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Baro Ki'Teer
+
 
 - [[mecanicas/trading.md|Trading]] — peças Prime podem ser tradeadas em vez de viradas em Ducats; Sentinels, armas de Sentinel e armas de Archwing **de Baro** são as únicas dessas categorias que são tradeáveis.
 - [[mecanicas/platinum.md|Platinum]] — Baro é a rota alternativa, sem dinheiro real, para itens exclusivos.
@@ -157,7 +162,3 @@ Void Surplus: 2,00% de chance de conter 1.000 Ducats
 - [[lore/personagens/baro_kiteer.md|Baro Ki'Teer (lore)]] — quem ele é na história.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Baro_Ki%27Teer — ciclo de 2 semanas e janela de 48 h, onde fica no Relay, como rastrear a chegada (kiosk, Star Chart, inbox, `when baro`), estoques reais de visitas recentes com preços em Ducats e Credits (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Orokin_Ducats — como obter Ducats, valores por raridade (15/45/100 e as exceções 25/65), Void Surplus com 2% de chance de 1.000 Ducats, venda pela Varzia por Aya, usos fora do Baro (Conclave, Iron Wake, Paracesis), regra de blueprint valer o mesmo que a peça (consultado em 2026-10-04)

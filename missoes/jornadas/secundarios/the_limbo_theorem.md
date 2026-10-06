@@ -1,9 +1,14 @@
 ---
 title: The Limbo Theorem
+aliases: [The Limbo Theorem]
 tipo: missao
 subtipo: jornada
+resumo: "The Limbo Theorem — A quest de puzzle do Limbo: Ordis fica confuso com um teorema incompleto, e o Tenno precisa montar as três Theorem Keys para desenterrar a Warframe que vive entre dois planos."
+status: completo
+rag: true
 tags: [missao, jornada, secundaria]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/The_Limbo_Theorem"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > A quest de puzzle do Limbo: Ordis fica confuso com um teorema incompleto, e o Tenno precisa montar as três Theorem Keys para desenterrar a Warframe que vive entre dois planos.
 
----
 
-## 📖 Narrativa e Pré-requisitos
+## 📖 Narrativa e Pré-requisitos — The Limbo Theorem
+
 
 | Item | Detalhe |
 |---|---|
@@ -30,9 +35,9 @@ agente: opus
 
 O teorema deixado por **[[warframes/regular/limbo.md|Limbo]]** é a formalização matemática do **Rift** — o plano paralelo em que ele existe. A quest é, estruturalmente, uma caça a peças: construir a chave, ir ao nó, repetir três vezes.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — The Limbo Theorem
+
 
 | Recompensa | Nota |
 |---|---|
@@ -40,18 +45,18 @@ O teorema deixado por **[[warframes/regular/limbo.md|Limbo]]** é a formalizaç�
 | Limbo **Systems** | — |
 | Limbo **Chassis** | — |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — The Limbo Theorem
+
 
 - **[[warframes/regular/limbo.md|Limbo]]** é um dos frames mais úteis em conteúdo de objetivo: o **Cataclysm** torna o squad imune a quase todo ataque de área, e é a resposta padrão a [[lore/chefes/ambulas.md|Ambulas]] (proteger o hackeado), [[lore/chefes/kela_de_thaym.md|Kela]] (Orbital Strikes) e [[lore/chefes/eidolon_teralyst.md|Eidolons]] (Magnetic).
 - Cuidado com o Rift em squad: **descaste o Cataclysm quando o escudo do Eidolon cair**, ou você atrapalha as armas do time.
 - O **Rift Haven** permite dar Banish individual em aliados e em Eidolon Lures para curá-los com semi-invulnerabilidade.
 - Ele é mal-visto em squads aleatórios por quem não entende a mecânica — vale aprender antes de usar em público.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — The Limbo Theorem
+
 
 - **[[warframes/regular/limbo.md|Limbo]]** — a Warframe recompensada.
 - **[[lore/personagens/ordis.md|Ordis]]** — narra a quest.
@@ -59,6 +64,3 @@ O teorema deixado por **[[warframes/regular/limbo.md|Limbo]]** é a formalizaç�
 - **[[locais/planetas/europa.md|Europa]]** — a Junction que destrava a quest.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/The_Limbo_Theorem (consultado em 2026-10-04)

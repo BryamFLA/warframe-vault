@@ -1,9 +1,14 @@
 ---
 title: Albrecht Entrati
+aliases: [Albrecht Entrati]
 tipo: lore
 subtipo: personagem
+resumo: "Albrecht Entrati — O Orokin que atravessou a parede entre os mundos primeiro, encontrou a si mesmo do outro lado, e passou o resto da existência tentando consertar o que soltou no mundo."
+status: completo
+rag: true
 tags: [lore, personagem, orokin, entrati, void]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Albrecht_Entrati", "https://wiki.warframe.com/w/Requiem_Words"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O Orokin que atravessou a parede entre os mundos primeiro, encontrou **a si mesmo** do outro lado, e passou o resto da existência tentando consertar o que soltou no mundo.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Albrecht Entrati
+
 
 | Item | Valor |
 |---|---|
@@ -26,9 +31,9 @@ agente: opus
 | Família | Esposa **Gerivaine** (falecida), filha **Euleria** (hoje [[lore/personagens/mother_entrati.md\|Mother]]), kavat **Kalymos** |
 | Obras | *Beyond The Wall of Lohk*; *The Palimpsest of Spacetime* (com Euleria); as **Requiem Words**; os **Cosmic Clocks**; o **Heart** |
 
----
 
-## 📖 História
+## 📖 História — Albrecht Entrati
+
 
 Albrecht nasceu na Era Orokin, **antes** de o Império olhar para fora do Sistema de Origem. Passou um tempo considerável tentando provar a utilidade do **Void**, que ele teorizava ser a chave para a civilização alcançar as estrelas. Os outros Orokin perderam o interesse e trataram a pesquisa como beco sem saída — e, frustrado, Albrecht **se voluntariou às pressas** para atravessar a "parede entre os mundos", usando um **Seriglass Bell** como vaso protetor.
 
@@ -56,9 +61,9 @@ As anotações dele terminam com determinação de reparar o que quebrou, "custe
 >
 > Depois, Loid descobre que o Albrecht de 1999 deixou uma **transmissão presa no buffer de transference** do Tenno: ele explica que **foi a 1999 para desviar a atenção da Indifference do assistente dele**, pede confiança, e instrui o Tenno a construir o blueprint do **Jahu Gargoyle** achado na memória do computador, para completar a **Kalymos Sequence**.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Albrecht Entrati
+
 
 - **[[lore/personagens/mother_entrati.md|Mother]] (Euleria)** — a filha. Foi ela quem abriu a Wall of Lohk e quem a fechou, cortando os dedos da entidade. Escreveu *Tales of Duviri* com base nas histórias dele.
 - **[[lore/personagens/loid.md|Loid]]** — o Necraloid que Albrecht criou para servir a família, e o humano original que ele mandou dormir como "the Sleeper".
@@ -72,9 +77,9 @@ As anotações dele terminam com determinação de reparar o que quebrou, "custe
 - **[[locais/open-worlds/zariman.md|Zariman Ten Zero]]** — usou uma Reliquary Drive Entrati movida por **uma duplicata de um dos dedos**.
 - **[[lore/personagens/ballas.md|Ballas]]** — os trabalhos anatômicos dele entraram no projeto das Vessels.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Albrecht Entrati
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -87,7 +92,3 @@ As anotações dele terminam com determinação de reparar o que quebrou, "custe
 | [[mecanicas/sindicatos/cavia.md\|Sanctum Anatomica]] | Onde a Cavia, criação dele, vive |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Albrecht_Entrati (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Requiem_Words (consultado em 2026-10-04)

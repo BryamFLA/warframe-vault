@@ -1,9 +1,14 @@
 ---
 title: Erra
+aliases: [Erra]
 tipo: missao
 subtipo: jornada
+resumo: "Erra — O segundo ato do Prelude to War: a bordo de um Murex no Veil Proxima, o Operator assiste a uma reunião entre Ballas, Natah, o irmão dela Erra e o exército Sentient."
+status: completo
+rag: true
 tags: [missao, jornada, principal]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Erra_(Quest"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > O segundo ato do Prelude to War: a bordo de um Murex no Veil Proxima, o Operator assiste a uma reunião entre Ballas, Natah, o irmão dela Erra e o exército Sentient.
 
----
 
-## 📖 Narrativa e Pré-requisitos
+## 📖 Narrativa e Pré-requisitos — Erra
+
 
 | Item | Detalhe |
 |---|---|
@@ -33,25 +38,25 @@ agente: opus
 >
 > No presente, Erra e Natah se reencontram, com ele **segurando [[lore/personagens/ballas.md|Ballas]] numa coleira**. Ele conta a ela como o Sistema mudou desde que ela foi "desfiada". Natah acusa Ballas de **ter criado os Tenno**. E Erra pede à irmã que **cante para o povo dela, para trazê-los de volta para casa** — e ela canta.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Erra
+
 
 | Recompensa | Nota |
 |---|---|
 | **[[armas/primarias/shedu.md\|Shedu]]** blueprint | Arma primária Sentient; o **pulso ao esgotar a munição remove adaptação Sentient** |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Erra
+
 
 - O **[[armas/primarias/shedu.md|Shedu]]** é a segunda arma anti-Sentient do jogo: o pulso dele, disparado **ao esgotar a munição**, **remove adaptação**. Isso significa que ele e a Paracesis cobrem a mesma função por caminhos diferentes.
 - A quest precisa de **Railjack funcional** — se você ainda não fez [[missoes/jornadas/principais/rising_tide.md|Rising Tide]], ela fica travada.
 - O Murex desta quest é o mesmo tipo de nave que depois aparece **sobre Cetus** em [[missoes/jornadas/principais/the_new_war.md|The New War]] e **sobre Deimos** em [[missoes/jornadas/principais/veilbreaker.md|Veilbreaker]].
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Erra
+
 
 - **[[lore/personagens/erra.md|Erra]]** — o personagem e o arco completo dele.
 - **[[lore/personagens/lotus.md|Lotus]] / Natah** — a reunião com a família dela.
@@ -61,6 +66,3 @@ agente: opus
 - **[[lore/faccoes/sentient.md|Sentient]]** — a facção que se mobiliza aqui.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Erra_(Quest) (consultado em 2026-10-04)

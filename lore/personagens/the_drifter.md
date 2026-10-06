@@ -1,9 +1,14 @@
 ---
 title: The Drifter
+aliases: [The Drifter]
 tipo: lore
 subtipo: personagem
+resumo: "The Drifter — \"Você é o eu que foi resgatado dessa merda."
+status: completo
+rag: true
 tags: [lore, personagem, tenno, duviri]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Drifter"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > "Você é o eu que foi resgatado dessa merda. E eu sou o você que não foi." — a versão do Operator que nunca foi salva do Zariman, presa num loop em Duviri que ela mesma criou sem saber.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — The Drifter
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Jogável. Alterna com o Operator por **Eternalism** |
 | Natureza | **A mesma pessoa que o Operator**, de uma linha onde **não foi resgatada** e **não recebeu Transference nem Warframes** |
 
----
 
-## 📖 História
+## 📖 História — The Drifter
+
 
 > [!warning] Spoiler — The Duviri Paradox
 
@@ -48,9 +53,9 @@ Livre das correntes de Duviri, o Drifter pode finalmente partir para o Sistema d
 >
 > Ao restaurar a Lotus, ela **não o reconhece e vira hostil**. Ele foge o suficiente para o **Eternalism** alcançá-lo, o que lhe concede poderes de Void **ao mesmo tempo que restaura o Operator** — e a Lotus vai embora. O Operator então vai à Zariman Ten Zero e encontra o Drifter, que explica ser **de uma linha temporal onde não foi resgatado** e não recebeu os poderes de Transference nem as Warframes. O paradoxo, porém, **permite que apenas um dos dois siga adiante** para encerrar a ameaça da New War.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — The Drifter
+
 
 - **O Operator / [[lore/faccoes/tenno.md|Tenno]]** — a mesma pessoa, de outra linha temporal. O **Eternalism** é o que permite os dois existirem.
 - **[[lore/personagens/teshin.md|Teshin]]** — mentor em Duviri, morto por Thrax e ressuscitado pelo Drifter.
@@ -63,9 +68,9 @@ Livre das correntes de Duviri, o Drifter pode finalmente partir para o Sistema d
 - **Mathila** — personagem de Duviri que curou Teshin.
 - **[[lore/personagens/cavalero.md|Cavalero]]** e os cortesãos — o elenco de Duviri que o Drifter criou sem saber.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — The Drifter
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -76,6 +81,3 @@ Livre das correntes de Duviri, o Drifter pode finalmente partir para o Sistema d
 | [[missoes/jornadas/principais/whispers_in_the_walls.md\|Whispers in the Walls]] | Participação |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Drifter (consultado em 2026-10-04)

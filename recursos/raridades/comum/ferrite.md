@@ -1,10 +1,15 @@
 ---
 title: Ferrite
+aliases: [Ferrite]
 tipo: recurso
 raridade: comum
 origem: planeta
+resumo: "Ferrite — Um recurso metálico extremamente comum e essencial, usado em quase todas as construções básicas e consumíveis do jogo."
+status: parcial
+rag: true
 tags: [recurso]
-atualizado: 2026-09-09
+fontes: ["https://wiki.warframe.com/w/Ferrite"]
+atualizado: 2026-10-07
 verificado: false
 agente: gemini
 ---
@@ -14,9 +19,9 @@ agente: gemini
 > [!info] Resumo
 > Um recurso metálico extremamente comum e essencial, usado em quase todas as construções básicas e consumíveis do jogo.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Ferrite
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: gemini
 | Aparece a partir de | [[locais/planetas/mercurio.md|Mercurio]] |
 | Afetado por boosters | Sim |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Ferrite
+
 
 | Local | Missão / Método | Rendimento | Nota |
 |---|---|---|---|
@@ -40,9 +45,9 @@ agente: gemini
 
 **Mods e frames que ajudam:** Nekros, Khora, Xaku (para quebrar caixas em área), Carrier/Smeeta Kavat, Resource Booster.
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Ferrite
+
 
 | Item | Quantidade |
 |---|---|
@@ -51,6 +56,3 @@ agente: gemini
 | [[armas/primarias/braton.md|Braton]] | 1.000 |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Ferrite — drop e uso (consultado em 2026-09-09)

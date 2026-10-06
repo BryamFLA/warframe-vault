@@ -1,8 +1,13 @@
 ---
 title: Red Veil
+aliases: [Red Veil]
 tipo: mecanica
+resumo: "Red Veil — Veem corrupção em tudo e se consideram obrigados por honra a curar o sistema com uma purga grande e violenta — nenhum custo é grande demais, nenhum sangue é precioso demais."
+status: completo
+rag: true
 tags: [mecanica, sindicato, red-veil, purga, fanatismo]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Syndicate", "https://wiki.warframe.com/w/Warframe_Augment_Mods"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Veem corrupção em tudo e se consideram obrigados por honra a curar o sistema com uma purga grande e violenta — nenhum custo é grande demais, nenhum sangue é precioso demais.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Red Veil
+
 
 O Red Veil vê **corrupção por todos os lados**. Eles se consideram **ligados por honra** a curar o Sistema de Origem através de uma **purga grande e violenta**. A frase que os define: *nenhum custo é grande demais, nenhum sangue é precioso demais*.
 
@@ -28,7 +33,8 @@ Mecanicamente, Red Veil é um **sindicato de facção**: o console de sindicatos
 | ⚠️ **Oposto** | Cephalon Suda | **−50% Rep** |
 | ⛔ **Inimigo** | Arbiters of Hexis | **−100% Rep** |
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Red Veil
+
 
 ```
 Conversão de Affinity em Standing (com Pledge ativo no terminal da Orbiter) = 15%
@@ -75,9 +81,9 @@ Syndicate Medallions por missão de alerta = 8
 - Assassinos (Stalker e companhia) **não** spawnam em missão de sindicato.
 - Missão de sindicato **ignora** a lista normal de spawn do tileset — dá para encontrar Hellion em Grineer Asteroid e Anti MOA fora da Gas City.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Red Veil
+
 
 ### Identidade de equipamento
 
@@ -144,9 +150,9 @@ O Death Squad deste sindicato é sempre do mesmo tipo: **Charger — Venomous Ex
 
 **Matar o Death Squad não muda o Standing** nem desencoraja o sindicato. Outros Tenno podem ajudar sem sofrer penalidade. E, diferente de Assassins, **não existe Death Mark nem aviso no inbox** — o único indicador é o próprio Standing negativo.
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Red Veil
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -158,9 +164,9 @@ O Death Squad deste sindicato é sempre do mesmo tipo: **Charger — Venomous Ex
 | Escolher o presente de promoção | Arma exclusiva **não pode** ser o presente grátis — escolha mod ou cosmético e compre a arma com Standing |
 | Efeito de sindicato na arma | Equipe um **Weapon Augment** desta lista. A arma passa a acumular Syndicate Points pela Affinity dela e dispara Blight (Viral radial + +10% de Velocidade de Movimento base + 25% de Energia) quando a barra enche |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Red Veil
+
 
 - **"Posso subir todos os sindicatos."** Não ao mesmo tempo. Subir Red Veil **derruba** Cephalon Suda (−50%) e Arbiters of Hexis (−100%).
 - **"Standing sobra depois da promoção."** **Todo** o Standing é consumido ao subir de rank, mais um sacrifício em Credits e recursos.
@@ -172,9 +178,9 @@ O Death Squad deste sindicato é sempre do mesmo tipo: **Charger — Venomous Ex
 - **"Caí 3 ranks, preciso de 3 sacrifícios."** Desde o Update 16, é **um sacrifício por tier** ao se mover entre eles.
 - **"Posso escolher outro presente ao reconquistar o rank."** Não. Reobter rank após rebaixamento **não** libera outra escolha.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Red Veil
+
 
 - [[mecanicas/sindicatos/_Sindicatos _Indice.md|Sindicatos]] — a visão geral das 18 facções e suas relações.
 - [[mecanicas/augments.md|Augments]] — a tabela completa de Warframe → augment → sindicato, e os grupos que não brigam entre si.
@@ -188,7 +194,3 @@ O Death Squad deste sindicato é sempre do mesmo tipo: **Charger — Venomous Ex
 - [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]] — inimigo: −100% de Rep.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Syndicate — descrição e relações do sindicato, tabela de ranks e Standing, conversão de 15% da Affinity, teto diário, ofertas por rank (Specter, Relic Pack, Team Bonus Consumable, Weapon Augments, Warframe Augments), tabela de efeito de sindicato por facção (dano, restauração e buff), armas exclusivas, Syandanas, partes de Archweapon, Death Squads, Syndicate Alerts e Medallions (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Warframe_Augment_Mods — lista de Warframes favorecidos e regras de aquisição (consultado em 2026-10-04)

@@ -1,11 +1,16 @@
 ---
 title: Astral Autopsy
+aliases: [Astral Autopsy]
 tipo: mod
 categoria: arma
-polaridade: Vazarin
 raridade: raro
+polaridade: Vazarin
+resumo: Astral Autopsy — Fatal strikes against an enemy also perform a Codex Scan.
+status: completo
+rag: true
 tags: [mod, arma]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Astral_Autopsy", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Mods/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -17,9 +22,9 @@ agente: opus
 >
 > *Mantido em inglês:* a descrição tem texto corrido que uma tradução automática deturparia. O texto acima é o do jogo, literal.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Astral Autopsy
+
 
 | Item | Valor |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 | Transmutável | **Não** |
 | Introduzido no Update | **19.8** |
 
----
 
-## 📈 Efeito por Rank
+## 📈 Efeito por Rank — Astral Autopsy
+
 
 | Rank | Efeito | Drenagem |
 |---|---|---|
@@ -44,9 +49,9 @@ agente: opus
 > [!warning] Tabela de ranks não publicada na seção Stats
 > A página da wiki deste mod não traz uma tabela `Rank / Effect / Cost` parseável. O efeito de rank máximo acima **é** verificado (vem dos dados da wiki), mas **os valores intermediários não foram confirmados** e, pela seção 8 das convenções, não são inventados aqui. Confira em https://wiki.warframe.com/w/Astral_Autopsy.
 
----
 
-## 🏗️ Onde Obter
+## 🌍 Onde Conseguir — Astral Autopsy
+
 
 | Fonte | Tipo | Chance do mod na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -57,9 +62,9 @@ agente: opus
 
 **Faixa de preço em platina:** ⚠️ **estimativa não fornecida.** Pela seção 8 das convenções, preço de platina é mercado flutuante e não é registrado aqui. Consulte warframe.market no momento da compra.
 
----
 
-## 🛠️ Uso
+## 🛠️ Como Usar — Astral Autopsy
+
 
 **Vale a pena?** **Depende da build.** Mod **Rare** — a raridade mais disputada por slot. Vale conferir a tabela de drop acima antes de farmar, porque a chance costuma ser baixa.
 
@@ -73,8 +78,3 @@ O efeito concreto no rank máximo é **Fatal strikes against an enemy also perfo
 Nenhum mod é registrado como **mutuamente exclusivo** com este nos dados da wiki. A concorrência é pelo **slot** e pela **capacidade**, não por bloqueio do jogo.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Astral_Autopsy — efeito por rank, polaridade, drenagem, raridade e incompatibilidades (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Mods/data — ficha do mod: tipo, classe, comercializável, transmutável, update de introdução (consultado em 2026-10-06)

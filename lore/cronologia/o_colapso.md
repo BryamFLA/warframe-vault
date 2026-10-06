@@ -1,9 +1,14 @@
 ---
 title: 03. O Colapso
+aliases: [03. O Colapso, o colapso]
 tipo: lore
 subtipo: cronologia
+resumo: "03. O Colapso — Na festa da vitória, as Warframes se viraram contra os anfitriões: os Tenno massacraram a liderança Orokin em todo o Sistema, e o Império que criou tudo desabou em poucas horas."
+status: completo
+rag: true
 tags: [lore, cronologia, orokin, tenno]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Orokin", "https://wiki.warframe.com/w/Lotus", "https://wiki.warframe.com/w/Tenno"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Na festa da vitória, as Warframes se viraram contra os anfitriões: os Tenno massacraram a liderança Orokin em todo o Sistema, e o Império que criou tudo desabou em poucas horas.
 
----
 
-## 🕰️ Linha do Tempo
+## 🕰️ Linha do Tempo — 03. O Colapso
+
 
 | Evento | O que aconteceu |
 |---|---|
@@ -29,9 +34,9 @@ agente: opus
 | Deimos abandonada | Sem Dax nem Tenno para defender, Deimos declina; as Isolation Vaults são abandonadas quando a **Grey Strain** avança |
 | Fragmentação | Os escravos clonados se organizam → **[[lore/faccoes/grineer.md\|Grineer]]**. Os mercadores perdem a liderança e passam a valorizar Lucro → **[[lore/faccoes/corpus.md\|Corpus]]**. A Infestação fica **sem supervisão** em naves e laboratórios |
 
----
 
-## 📖 História
+## 📖 História — 03. O Colapso
+
 
 O motivo do massacre é pessoal, não político: **os Tenno nunca perdoaram a execução de [[lore/personagens/margulis.md|Margulis]]**, que consideravam mãe adotiva. A vitória contra os Sentients **devia** ter encerrado os problemas do Império — e foi exatamente o momento em que ele morreu. O detalhe que torna a cena irreversível é que os Orokin **reuniram os Tenno para homenageá-los**: colocaram as armas que criaram no mesmo lugar, ao mesmo tempo, com a guarda baixa.
 
@@ -39,9 +44,9 @@ Natah tinha duas ordens: **destruir o Império e exterminar os Tenno**. Ela cump
 
 A consequência de longo prazo é o mapa do jogo. Sem autoridade central, cada peça do Império seguiu a inércia: os **Grineer** congregaram-se para tomar território e tecnologia; o **Corpus** perdeu Granum (traído e exilado no Void antes) e degenerou da busca pelo "Desejo" para a adoração do **Lucro**; e a **Infestação** — que era um programa de armas supervisionado — ficou solta em naves e instalações de pesquisa, com surtos recorrentes pelos séculos seguintes. **O Sistema de Origem que você explora é um campo de ruínas disputado por herdeiros que não entendem o que herdaram.**
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — 03. O Colapso
+
 
 - **[[lore/cronologia/antiga_guerra.md|A Antiga Guerra]]** — a era anterior; a vitória nela é o que cria a oportunidade do massacre.
 - **[[lore/cronologia/era_do_despertar.md|A Era do Despertar]]** — milênios depois, quando os Tenno acordam no mundo que o Colapso deixou.
@@ -52,9 +57,9 @@ A consequência de longo prazo é o mapa do jogo. Sem autoridade central, cada p
 - **[[lore/chefes/kullervo.md|Kullervo]]** — a "Night of the Naga Drums" é a sexta acusação dele: segunda contagem de Traição.
 - **[[lore/personagens/ordis.md|Ordis]]** — com os Tenno em criosono, ficou livre para restaurar as próprias memórias.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — 03. O Colapso
+
 
 | Quest / Conteúdo | O que mostra desta era |
 |---|---|
@@ -66,8 +71,3 @@ A consequência de longo prazo é o mapa do jogo. Sem autoridade central, cada p
 | [[locais/planetas/void.md\|Void]] / Orokin Derelict | As ruínas e os Corrupted deixados para trás |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Orokin (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Lotus (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Tenno (consultado em 2026-10-04)

@@ -1,9 +1,14 @@
 ---
 title: Volatile
+aliases: [Volatile]
 tipo: missao
 subtipo: tipo
+resumo: "Volatile — Missão Railjack lore/faccoes/corpus.md|Corpus em duas fases: limpar o espaço, abordar a nave capital e recalibrar o reator mantendo o medidor de calor dentro da faixa — depois destruir os Reactor Weakpoints com a Forward Artillery."
+status: completo
+rag: true
 tags: [missao, tipo, railjack, empyrean]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Volatile", "https://wiki.warframe.com/w/Empyrean", "https://wiki.warframe.com/w/Module:Missions/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Missão Railjack [[lore/faccoes/corpus.md|Corpus]] em duas fases: limpar o espaço, abordar a nave capital e recalibrar o reator mantendo o medidor de calor dentro da faixa — depois destruir os Reactor Weakpoints com a Forward Artillery.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Volatile
+
 
 | Item | Detalhe |
 |---|---|
@@ -26,9 +31,9 @@ agente: opus
 | Pré-requisito | **[[missoes/jornadas/principais/rising_tide.md\|Rising Tide]]** para pilotar; **Intrinsics Rank 3/5/7** nos nós mais altos |
 | Facção | **Corpus** |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Volatile
+
 
 1. **Fase espacial.** Objetivos Empyrean normais: limpar Points of Interest e abater um número pequeno de Crewships.
 2. **Credenciais (opcional e muito útil).** Durante essa fase, dá para pegar **Corpus Credentials** de um **Crewship Pilot**. Com elas, os **Corpus Engineers não nascem** no começo da recalibração — é o que separa uma fase de reator tranquila de uma caótica.
@@ -42,9 +47,9 @@ agente: opus
 
 **Rotações de recompensa:** **não é endless.** Recompensa única na conclusão.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Volatile
+
 
 | Planeta | Nó | Nível | Fighters | Pré-requisito |
 |---|---|---|---|---|
@@ -57,9 +62,9 @@ As Proximas Corpus são as regiões Empyrean de **[[locais/planetas/venus.md|Vê
 
 **Melhor nó para farmar:** **Numina** (Veil Proxima) — faixa de nível mais alta, logo a tier mais alta de componente de Railjack. **Beacon Shield Ring** (Venus Proxima) é o mais acessível para aprender a mecânica do reator sem risco real.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Volatile
+
 
 | Recompensa | Chance | Nota |
 |---|---|---|
@@ -70,9 +75,9 @@ As Proximas Corpus são as regiões Empyrean de **[[locais/planetas/venus.md|Vê
 > [!warning] Chances só da tabela de Venus Proxima
 > As porcentagens acima são da tabela **VenusProximaVolatile**. Cada Proxima tem tabela própria com itens de tier diferente. Não replico as outras aqui para não arriscar número errado — consulte https://wiki.warframe.com/w/Volatile.
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Volatile
+
 
 - **Pegue as Corpus Credentials.** Elas vêm de um **Crewship Pilot** na fase espacial e impedem o spawn inicial dos Engineers. É o único item da missão que muda a dificuldade de verdade.
 - **Não ventile por reflexo.** A faixa aceita **encolhe** conforme a recalibração avança; atirar em todo Distressed Pipe que aparece derruba o calor abaixo do mínimo e atrasa o progresso.
@@ -81,8 +86,3 @@ As Proximas Corpus são as regiões Empyrean de **[[locais/planetas/venus.md|Vê
 - **Depois da extração interna, alguém tem que estar na Forward Artillery.** A fase dos Reactor Weakpoints trava a missão se o squad voltar ao Railjack e ninguém assumir a artilharia.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Volatile — mecânica do reator, Corpus Credentials, Reactor Weakpoints, tabela de recompensas (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Empyrean — fase de abordagem, contador de 30 s, invulnerabilidade do Railjack (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Missions/data — nós, níveis e pré-requisitos (consultado em 2026-10-06)

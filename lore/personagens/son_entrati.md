@@ -1,9 +1,14 @@
 ---
 title: Son
+aliases: [Son, son entrati]
 tipo: lore
 subtipo: personagem
+resumo: "Son — O filho que achava que a família preferia a irmã, vestiu criaturas Infested como se fossem os pais, quebrou o protocolo de contenção e infestou a própria família — e é o único que aceita por completo a própria natureza Infested."
+status: completo
+rag: true
 tags: [lore, personagem, orokin, entrati]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Son"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O filho que achava que a família preferia a irmã, vestiu criaturas Infested como se fossem os pais, quebrou o protocolo de contenção e **infestou a própria família** — e é o único que aceita por completo a própria natureza Infested.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Son
+
 
 | Item | Valor |
 |---|---|
@@ -26,9 +31,9 @@ agente: opus
 | Família | Pais [[lore/personagens/mother_entrati.md\|Mother]] e [[lore/personagens/father_entrati.md\|Father]], irmã [[lore/personagens/daughter_entrati.md\|Daughter]], avó [[lore/personagens/grandmother_entrati.md\|Grandmother]] |
 | Detalhe | Antes do Colapso **estaria casado**; às vezes lamenta não ter ficado com a noiva antes de os Tenno caçarem os Orokin restantes |
 
----
 
-## 📖 História
+## 📖 História — Son
+
 
 Son pertence à família **[[mecanicas/sindicatos/entrati.md|Entrati]]**, respeitada desde a Era Orokin por ter criado as primeiras tecnologias que aproveitavam o Void. Antes do [[lore/cronologia/o_colapso.md|Colapso]], ele **teria se casado** — e às vezes diz que gostaria de ter ficado com a noiva antes de os [[lore/faccoes/tenno.md|Tenno]] caçarem os [[lore/faccoes/orokin.md|Orokin]] restantes.
 
@@ -45,9 +50,9 @@ Ao contrário do resto da família, **Son aceita integralmente a própria nature
 > [!warning] Spoiler — Rank 3 (Associate) com os Entrati
 > Numa cutscene, **Mother admite que trabalhava bem sozinho** e **revela que estava preocupada com ele** depois da contaminação: queria apenas protegê-lo da Infestação. Son reconhece o gesto, e ela **alivia ligeiramente** as restrições dele.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Son
+
 
 - **[[lore/personagens/daughter_entrati.md|Daughter]]** — a irmã de quem ele tinha inveja, cujos peixes roubou e substituiu por cinzas.
 - **[[lore/personagens/mother_entrati.md|Mother]]** — coleirou-o e baniu-o dos arquivos; depois revela que era proteção.
@@ -57,9 +62,9 @@ Ao contrário do resto da família, **Son aceita integralmente a própria nature
 - **[[lore/faccoes/infested.md|Infested]]** — ele é o único Entrati que **aceita** a própria condição Infested.
 - **[[companheiros/kavat/pharaoh_vulpaphyla.md|Vulpaphyla]]** e **[[companheiros/kavat/medjay_predasite.md|Predasite]]** — a fauna Infested de Deimos que ele estuda e cujos companheiros ele fornece.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Son
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -70,6 +75,3 @@ Ao contrário do resto da família, **Son aceita integralmente a própria nature
 | [[mecanicas/sindicatos/entrati.md\|Entrati]] | Rank 3 alivia as restrições da coleira |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Son (consultado em 2026-10-04)

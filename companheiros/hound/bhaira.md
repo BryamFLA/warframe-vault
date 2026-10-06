@@ -1,9 +1,16 @@
 ---
 title: Bhaira Hound
-tipo: hound
-tags:
-  - companheiro
-  - hound
-status: nao-obtido
-atualizado: 2026-04-19
+aliases: [Bhaira Hound, bhaira]
+tipo: companheiro
+subtipo: hound
+resumo: Bhaira Hound — conteúdo ainda não preenchido no vault.
+status: stub
+rag: false
+tags: [companheiro, hound]
+atualizado: 2026-10-07
+agente: opus
 ---
+
+# Bhaira Hound
+
+

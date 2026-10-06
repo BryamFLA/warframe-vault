@@ -1,8 +1,13 @@
 ---
 title: The Quills
+aliases: [The Quills]
 tipo: mecanica
+resumo: "The Quills — Ordem monástica secreta leal à Unum, escondida numa caverna de Cetus; sindicato neutro cujo Standing vem de Sentient Cores — e a fonte de peças de Amp, dos arcanes Magus e Virtuos, e das Ways de Focus além das passivas."
+status: completo
+rag: true
 tags: [mecanica, sindicato, the-quills, amp, operator, arcanes, cetus, neutro]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/The_Quills", "https://wiki.warframe.com/w/Focus"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -15,9 +20,9 @@ agente: opus
 > [!warning] Spoiler — The War Within
 > Os Quills só podem ser acessados depois de concluir **The War Within**, e a porta do esconderijo deles **só abre para o Operator**.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — The Quills
+
 
 Os Quills são uma **ordem monástica misteriosa** que serve a **Unum**, um ser que habita a **Torre Orokin de Cetus**, nas Plains of Eidolon. Têm laços estreitos com os **Ostron** (que também veneram a Unum) e aparentam saber segredos sobre os Tenno. Dizem que conseguem **adivinhar o futuro** — o que, somado à capacidade de coleta de informação, permite que eliminem ameaças a Cetus **antes** de elas acontecerem.
 
@@ -29,9 +34,9 @@ Mecanicamente são um **sindicato neutro**: Standing aqui **não afeta** nenhum 
 
 **Os Quills também são o que libera o resto da árvore de Focus.** Depois de The War Within e Saya's Vigil, falar com eles revela as Active Ways e as Way-Bounds de todas as escolas. Ver [[mecanicas/operator_e_focus.md\|Operator e Focus]].
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — The Quills
+
 
 ```
 Standing por entrega ao Onkko:
@@ -62,9 +67,9 @@ Fontes de Sentient Core:
 - **Cetus Wisp comprável** (2.000 Standing cada) só no **Rank 5 (Architect)** — é a forma de furar o farm noturno de Wisp nas Plains.
 - Sendo neutro, não há demoção nem Standing negativo.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — The Quills
+
 
 ### Ranks, sacrifícios e benefícios
 
@@ -118,9 +123,9 @@ Um Amp tem três peças: **Prism** (o tiro principal), **Scaffold** (o alt-fire)
 | 5 | Agkani Stone · Hood Display (Black, Teal, Grey) | 25.000 cada |
 | 5 | Onkko's Command Post Scene | 100.000 |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — The Quills
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -136,9 +141,9 @@ Um Amp tem três peças: **Prism** (o tiro principal), **Scaffold** (o alt-fire)
 | Destravar o Revenant | **Rank 2** libera a quest **Mask of the Revenant** |
 | Abrir o resto da árvore de Focus | Concluir **The War Within + Saya's Vigil** e falar com eles. Sem isso, só as 2 Passive Ways de cada escola existem |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — The Quills
+
 
 - **"Entro nos Quills sem fazer The War Within."** Não. A quest é obrigatória, e a porta **só abre para o Operator**.
 - **"Os Quills vendem todos os Amps."** Vendem os tiers **1 a 4**. Os tiers superiores (5, 6, 7) são da **Vox Solaris** em Fortuna.
@@ -149,9 +154,9 @@ Um Amp tem três peças: **Prism** (o tiro principal), **Scaffold** (o alt-fire)
 - **"Cetus Wisp só farmando à noite."** No Rank 5 dá para **comprar** por 2.000 Standing cada.
 - **"Mask of the Revenant é uma quest de Star Chart."** Destrava no **Rank 2 dos Quills**.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — The Quills
+
 
 - [[mecanicas/operator_e_focus.md|Operator e Focus]] — os Quills são quem **revela** as Active Ways e Way-Bounds; os arcanes Magus e Virtuos somam em cima dos bônus de Way.
 - [[mecanicas/sindicatos/vox_solaris.md|Vox Solaris]] — vende os Amps de tier superior e mais arcanes de Operator; é a continuação natural dos Quills.
@@ -170,7 +175,3 @@ Um Amp tem três peças: **Prism** (o tiro principal), **Scaffold** (o alt-fire)
 - [[recursos/open_worlds/eidolon/intact_sentient_core.md|Intact Sentient Core]], [[recursos/open_worlds/eidolon/exceptional_sentient_core.md|Exceptional]], [[recursos/open_worlds/eidolon/flawless_sentient_core.md|Flawless]], [[recursos/open_worlds/eidolon/eidolon_shard.md|Eidolon Shard]], [[recursos/open_worlds/eidolon/cetus_wisp.md|Cetus Wisp]] — a moeda real do sindicato.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/The_Quills — requisito de The War Within e porta que só abre para o Operator, localização em Cetus, valores exatos de Standing por tipo de Sentient Core e por Narmer Isoplast, fontes de Sentient Core (Eidolons, Lua, Veil Proxima), tabela completa de ranks com sacrifício e benefício, lista completa de ofertas por rank (peças de Amp, arcanes Magus e Virtuos, armaduras Ceno e Vahd, Cetus Wisp no Rank 5) (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Focus — o papel dos Quills em revelar as Ways além das passivas (consultado em 2026-10-04)

@@ -1,9 +1,14 @@
 ---
 title: The Sacrifice
+aliases: [The Sacrifice]
 tipo: missao
 subtipo: jornada
+resumo: "The Sacrifice — A quest que revela o que as Warframes são: com a Lotus levada por Ballas, o Tenno encontra Excalibur Umbra — uma Warframe com consciência e com memórias que não deveriam existir."
+status: completo
+rag: true
 tags: [missao, jornada, principal]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/The_Sacrifice"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > A quest que revela o que as Warframes são: com a Lotus levada por Ballas, o Tenno encontra Excalibur Umbra — uma Warframe com consciência e com memórias que não deveriam existir.
 
----
 
-## 📖 Narrativa e Pré-requisitos
+## 📖 Narrativa e Pré-requisitos — The Sacrifice
+
 
 | Item | Detalhe |
 |---|---|
@@ -37,26 +42,26 @@ Detectando traços originários de [[locais/planetas/lua.md|Lua]] na arma, e rec
 >
 > Depois de o Operator retirar a dor de Umbra, os dois confrontam Ballas. Na arrogância, ele **não percebe que já não tem controle absoluto sobre Umbra** — e leva uma estocada aparentemente fatal. *"Now I know... what she sees in you."* A Lotus, agora em forma de **Natah**, chega e **o resgata**.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — The Sacrifice
+
 
 | Recompensa | Nota |
 |---|---|
 | **[[warframes/umbra/excalibur_umbra.md\|Excalibur Umbra]]** | A Warframe completa, não blueprint |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — The Sacrifice
+
 
 - **Umbra age sozinho** quando você entra em modo Operator — único no jogo. Isso o torna excelente em lutas que exigem Operator, como [[lore/chefes/eidolon_teralyst.md|Eidolons]] e [[lore/chefes/void_angel.md|Void Angels]].
 - O **Radial Howl** do Umbra é uma das **cinco** ferramentas do jogo que **removem adaptação Sentient** (junto com Void Beam, Paracesis rank 40, Shedu e Xata's Whisper).
 - Umbra usa os **Umbra Mods**, que dão bônus maiores e penalidade se não forem usados em Warframes Umbra — e é a razão pela qual eles existem.
 - Solo-only: prepare build antes.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — The Sacrifice
+
 
 - **[[warframes/umbra/excalibur_umbra.md|Excalibur Umbra]]** — a Warframe e a história dele.
 - **[[lore/personagens/ballas.md|Ballas]]** — a traição dele é revelada aqui.
@@ -66,6 +71,3 @@ Detectando traços originários de [[locais/planetas/lua.md|Lua]] na arma, e rec
 - **[[missoes/jornadas/principais/chimera_prologue.md|Chimera Prologue]]** — o que acontece com Ballas depois.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/The_Sacrifice (consultado em 2026-10-04)

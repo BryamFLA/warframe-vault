@@ -1,9 +1,14 @@
 ---
 title: Once Awake
+aliases: [Once Awake]
 tipo: missao
 subtipo: jornada
+resumo: "Once Awake — A quest que apresenta os Infested: Dr."
+status: completo
+rag: true
 tags: [missao, jornada, principal]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Once_Awake"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > A quest que apresenta os Infested: Dr. Tengus experimentava uma bio-arma em Mercúrio, e o que escapou da quarentena era uma cepa do Technocyte sobrevivente da Antiga Guerra.
 
----
 
-## 📖 Narrativa e Pré-requisitos
+## 📖 Narrativa e Pré-requisitos — Once Awake
+
 
 | Item | Detalhe |
 |---|---|
@@ -32,26 +37,26 @@ Depois de uma falha num laboratório de testes, os [[lore/faccoes/infested.md|In
 
 Dr. Tengus é o mesmo nome que aparece na história de [[lore/chefes/vay_hek.md|Vay Hek]]: foi ele quem recondicionou o **Grustrag Three** por ordem do Councilor.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Once Awake
+
 
 | Recompensa | Nota |
 |---|---|
 | **Molten Impact** | Mod de Heat para corpo a corpo |
 | **[[armas/brancas/heat_sword.md\|Heat Sword]]** blueprint | Espada de Heat |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Once Awake
+
 
 - A Infestação tem **penalidade a Radiation e Viral**; aqui o que funciona é **Heat** e **Gas** — convenientemente, a quest entrega um mod de Heat.
 - Os **Ancients** (Disruptor, Healer, Toxic) são a ameaça real da facção, não os Chargers. O **Ancient Disruptor drena energia e reduz dano de habilidade**: mate-os primeiro.
 - Os modos Spy e Defense apresentados aqui são pilares do jogo todo — vale aprender os cofres de Spy agora.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Once Awake
+
 
 - **[[lore/faccoes/infested.md|Infested]]** — a facção apresentada aqui, com a matriz de dano completa.
 - **[[lore/chefes/vay_hek.md|Vay Hek]]** — Dr. Tengus trabalha para ele.
@@ -60,6 +65,3 @@ Dr. Tengus é o mesmo nome que aparece na história de [[lore/chefes/vay_hek.md|
 - **[[lore/faccoes/grineer.md|Grineer]]** — a facção que estava brincando com a bio-arma.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Once_Awake (consultado em 2026-10-04)

@@ -1,11 +1,16 @@
 ---
 title: Primed Regen
+aliases: [Primed Regen]
 tipo: mod
 categoria: companheiro
-polaridade: Penjaga
 raridade: lendario
+polaridade: Penjaga
+resumo: Primed Regen — Sentinel recovery time reduced by 35s.
+status: completo
+rag: true
 tags: [mod, companheiro]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Primed_Regen", "https://wiki.warframe.com/w/Module:Mods/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -17,9 +22,9 @@ agente: opus
 >
 > *Mantido em inglês:* a descrição tem texto corrido que uma tradução automática deturparia. O texto acima é o do jogo, literal.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Primed Regen
+
 
 | Item | Valor |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 | Transmutável | **Não** |
 | Introduzido no Update | **19.6** |
 
----
 
-## 📈 Efeito por Rank
+## 📈 Efeito por Rank — Primed Regen
+
 
 <!-- Valores copiados da seção Stats da página do mod na wiki. Nenhum valor interpolado. -->
 
@@ -56,9 +61,9 @@ agente: opus
 > [!note] A drenagem sobe 1 por rank
 > Regra do jogo, visível na própria tabela: a drenagem no rank R é **4 + R**.
 
----
 
-## 🏗️ Onde Obter
+## 🌍 Onde Conseguir — Primed Regen
+
 
 | Fonte | Detalhe |
 |---|---|
@@ -71,9 +76,9 @@ agente: opus
 
 **Faixa de preço em platina:** ⚠️ **estimativa não fornecida.** Pela seção 8 das convenções, preço de platina é mercado flutuante e não é registrado aqui. Consulte warframe.market no momento da compra.
 
----
 
-## 🛠️ Uso
+## 🛠️ Como Usar — Primed Regen
+
 
 **Vale a pena?** **Sim, se você tiver.** Mod **Legendary** — a variante Primed/Legendary de um mod base, vendida pelo **Baro Ki'Teer** por Ducats e Créditos. Supera o mod base em valor, mas **drena mais**, então exige capacidade (Orokin Reactor/Catalyst e Forma) para caber na build.
 
@@ -89,7 +94,3 @@ Os mods abaixo são **mutuamente exclusivos** com este — o jogo não deixa equ
 - [[mods/companheiros/regen.md|Regen]]
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Primed_Regen — efeito por rank, polaridade, drenagem, raridade e incompatibilidades (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Mods/data — ficha do mod: tipo, classe, comercializável, transmutável, update de introdução (consultado em 2026-10-06)

@@ -1,9 +1,14 @@
 ---
 title: Nora Night
+aliases: [Nora Night]
 tipo: lore
 subtipo: personagem
+resumo: "Nora Night — A voz da rádio pirata do Sistema de Origem: chama os Tenno de \"Dreamers\", não tem linha de rádio para não ser rastreada, e transmitiu os feitos do Drifter quando o Narmer tinha tomado tudo."
+status: completo
+rag: true
 tags: [lore, personagem, nightwave]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Nora_Night"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > A voz da rádio pirata do Sistema de Origem: chama os Tenno de "Dreamers", não tem linha de rádio para não ser rastreada, e transmitiu os feitos do Drifter quando o Narmer tinha tomado tudo.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Nora Night
+
 
 | Item | Valor |
 |---|---|
@@ -26,9 +31,9 @@ agente: opus
 | Nave | A ***Nightwave*** — é com ela que, pelo texto, Nora se desloca pelo Sistema |
 | Apelido para os Tenno | **"Dreamers"** |
 
----
 
-## 📖 História
+## 📖 História — Nora Night
+
 
 Pouco se sabe sobre a história ou o passado de Nora, mas, como **anfitriã do [[mecanicas/nightwave.md|Nightwave]]**, ela tem acesso a histórias e acontecimentos de todo o Sistema de Origem. O texto implica que ela **viaja na própria nave, a *Nightwave***, o que explicaria o conhecimento de primeira mão sobre os eventos.
 
@@ -41,9 +46,9 @@ Nora também **demonstra conhecimento sobre os [[lore/faccoes/orokin.md|Orokin]]
 > [!warning] Spoiler — The New War
 > Nora conseguiu **evadir o Narmer por um tempo**, transmitindo mensagens de resistência e esperança aos poucos que continuavam livres. Eventualmente **soube de um agente solitário** que assediava e resistia ao Narmer como os Tenno outrora fariam. Batizando esse indivíduo de **"the Drifter"**, Nora **transmitiu os sucessos dele** ao resto do Sistema de Origem — como a **destruição das fábricas de Veil** e a **derrota dos Archons**.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Nora Night
+
 
 - **[[lore/faccoes/tenno.md|Tenno]]** — os "Dreamers" cuja causa ela apoia e cujos feitos ela narra.
 - **[[lore/personagens/the_drifter.md|Drifter]]** — foi **Nora quem deu esse nome a ele**, e quem divulgou os feitos dele sob o Narmer.
@@ -53,9 +58,9 @@ Nora também **demonstra conhecimento sobre os [[lore/faccoes/orokin.md|Orokin]]
 - **[[lore/faccoes/sentient.md|Narmer]]** — o regime que ela desafiou transmitindo em segredo.
 - **[[lore/chefes/zealoid_prelate.md|Arlo e os Zealots]]** — tema da Series 2, **The Emissary**.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Nora Night
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -66,6 +71,3 @@ Nora também **demonstra conhecimento sobre os [[lore/faccoes/orokin.md|Orokin]]
 | [[missoes/jornadas/principais/the_new_war.md\|The New War]] | Transmite sob o Narmer; nomeia o Drifter |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Nora_Night (consultado em 2026-10-04)

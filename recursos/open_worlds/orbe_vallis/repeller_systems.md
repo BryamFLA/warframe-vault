@@ -1,10 +1,15 @@
 ---
 title: Repeller Systems
+aliases: [Repeller Systems]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+resumo: "Repeller Systems — Recurso, farmado em Obtained by completing Heists on the Orb Vallis (Venus), 1 por drop."
+status: completo
+rag: true
 tags: [recurso, open_world]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Repeller_Systems", "https://wiki.warframe.com/w/Module:Resources/data", "https://wiki.warframe.com/w/Module:DropTables/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “Anti-gravity system that allows massively heavy objects to be manipulated by a single user.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Repeller Systems
+
 
 | Item | Valor |
 |---|---|
@@ -31,9 +36,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **⚠️ NÃO VERIFICADO** |
 | Introduzido no Update | **24.2** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Repeller Systems
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -60,9 +65,9 @@ No vault: [[locais/planetas/venus.md|Venus]], [[locais/open-worlds/fortuna.md|Or
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Repeller Systems
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este recurso:
 
@@ -77,8 +82,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este recurso
 > Total de **5** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Repeller_Systems — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)

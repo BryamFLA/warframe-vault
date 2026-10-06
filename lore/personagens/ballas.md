@@ -1,9 +1,14 @@
 ---
 title: Ballas
+aliases: [Ballas]
 tipo: lore
 subtipo: personagem
+resumo: "Ballas — Executor Orokin, criador das Warframes, traidor do próprio Império e fundador do Narmer: amava Margulis de verdade — e odiava os Tenno por terem levado esse amor dele."
+status: completo
+rag: true
 tags: [lore, personagem, orokin, narmer]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Ballas"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Executor Orokin, criador das Warframes, traidor do próprio Império e fundador do Narmer: amava Margulis de verdade — e odiava os Tenno por terem levado esse amor dele.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Ballas
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | **Morto** em [[missoes/jornadas/principais/the_new_war.md\|The New War]]. Narmer sobrevive sob Pazuul |
 | Criações | **Warframes** (Frames of War), a cepa **Helminth** como arma, a [[armas/brancas/paracesis.md\|Paracesis]], o império **Narmer** e as **Narmer Veils** |
 
----
 
-## 📖 História
+## 📖 História — Ballas
+
 
 Ballas é um homem de **narcisismo extremo, egomania e megalomania**, que deseja controlar os outros e curvá-los à subserviência. **Manipulador mestre e mentiroso natural**, ele tece atos e histórias enganosas para fazer todo mundo ao redor jogar o jogo dele. Ainda assim, **Roathe afirma que Ballas amava Margulis de verdade** e jamais abusou da posição para forçá-la ao lado dele. Mas esse amor também era obsessão — e dele nasceu o **ódio intenso pelos [[lore/faccoes/tenno.md|Tenno]], por terem tomado o amor de Margulis**.
 
@@ -53,9 +58,9 @@ Em [[missoes/jornadas/principais/chimera_prologue.md|Chimera Prologue]] ele reap
 >
 > No confronto final, Ballas rouba o último Archon shard e **ordena à mãe que mate o próprio filho**. Depois de uma longa batalha, ele apunhala a Lotus com a Paracesis — até o Operator **saltar sobre ele e forçar uma Narmer Veil nele**, enganando-o para que **beije "Margulis"**. A Lotus retoma o poder e acaba com ele. A morte dele desestabiliza o Narmer, mas **leais seguem dispostos a ocupar o vácuo** do líder martirizado.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Ballas
+
 
 - **[[lore/personagens/margulis.md|Margulis]]** — o amor genuíno e a obsessão dele. Ele participou da execução dela e, no fim, morreu beijando uma ilusão dela.
 - **[[lore/personagens/lotus.md|Lotus]] / Natah** — manipulou-a, roubou o poder dela, e foi morto por ela.
@@ -69,9 +74,9 @@ Em [[missoes/jornadas/principais/chimera_prologue.md|Chimera Prologue]] ele reap
 - **[[lore/personagens/albrecht_entrati.md|Albrecht Entrati]]** — os trabalhos anatômicos de Ballas entraram no projeto das Vessels.
 - **[[lore/faccoes/orokin.md|Orokin]]** — um dos Seven; traiu o Império que servia.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Ballas
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -84,6 +89,3 @@ Em [[missoes/jornadas/principais/chimera_prologue.md|Chimera Prologue]] ele reap
 | [[missoes/jornadas/principais/veilbreaker.md\|Veilbreaker]] | Consequência: o Narmer sem ele, sob Pazuul |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Ballas (consultado em 2026-10-04)

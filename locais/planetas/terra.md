@@ -1,11 +1,14 @@
 ---
 title: Terra
+aliases: [Terra, Earth]
 tipo: local
-status: nao-visitado
 faccao: Grineer
-tags:
-  - local
-atualizado: 2026-04-17
+resumo: "Terra — Planeta natal dos humanos, agora dominado pelo Grineer."
+status: stub
+rag: false
+tags: [local]
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Terra
@@ -13,25 +16,31 @@ atualizado: 2026-04-17
 > [!info] Visão Geral
 > Planeta natal dos humanos, agora dominado pelo Grineer
 
-## Facção Principal
+## 🏴 Facção — Terra — Terra
+
+
 - Grineer
 - Inimigos: Lancers, Scorpions, Ballistas
 
-## Missões Disponíveis
+## 🗺️ Missões — Terra — Terra
+
+
 - Exterminate, Rescue, Spy, Sabotage
 
-## Chefe
-- [[vay_hek|Vay Hek (Oro)]] — recompensa: [[hydroid|Hydroid]] partes
+## 👑 Chefe — Terra
 
-## Recursos Notáveis
+
+- [[lore/chefes/vay_hek.md|Vay Hek (Oro)]] — recompensa: [[warframes/regular/hydroid.md|Hydroid]] partes
+
+## 💎 Recursos — Terra — Terra
+
+
 - Neurodes
 - Ferrite
 - Rubedo
 
-## Minha Progressão
-- [ ] Planeta desbloqueado
-- [ ] Chefe derrotado
+## 🔗 Relacionados — Terra
 
-## Conexões
-- Chefe: [[vay_hek|Vay Hek]]
-- Open World: [[locais/open-worlds/cetus|Planícies de Eidolon (Cetus)]]
+
+- Chefe: [[lore/chefes/vay_hek.md|Vay Hek]]
+- Open World: [[locais/open-worlds/cetus.md|Planícies de Eidolon (Cetus)]]

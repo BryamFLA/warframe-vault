@@ -1,9 +1,14 @@
 ---
 title: Rescue
+aliases: [Rescue]
 tipo: missao
 subtipo: tipo
+resumo: "Rescue — Libertar um refém de um bloco de celas patrulhado por Wardens — sem alertá-los, porque o alarme inicia um cronômetro de execução."
+status: completo
+rag: true
 tags: [missao, tipo]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Rescue"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Libertar um refém de um bloco de celas patrulhado por Wardens — sem alertá-los, porque o alarme inicia um cronômetro de execução.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Rescue
+
 
 | Item | Detalhe |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Squad recomendado | Qualquer; **furtividade** vale mais que dano |
 | Tipo | **Finito** |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Rescue
+
 
 ### Grineer e Corpus
 
@@ -51,9 +56,9 @@ O Prison Complex é **um tile grande**. Dentro dele fica o bloco de celas, com *
 > [!important] Existem caminhos alternativos
 > O complexo tem **passagens escondidas, túneis e passarelas elevadas** que permitem **se esconder dos inimigos em patrulha** — mas exigem **[[mecanicas/parkour.md|parkour]]** para alcançar. O bloco de celas **pode ser acessado por esses caminhos**, dispensando o hack do portão frontal.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Rescue
+
 
 | Onde | Detalhe |
 |---|---|
@@ -64,9 +69,9 @@ O Prison Complex é **um tile grande**. Dentro dele fica o bloco de celas, com *
 
 **Melhor nó para farmar:** Rescue não é um tipo de farm; é um tipo de **tarefa**. Aparece em Junções e em requisitos de quest — por exemplo, a primeira missão de [[missoes/jornadas/secundarios/a_man_of_few_words.md|A Man of Few Words]] é um Rescue em Stephano, Urano.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Rescue
+
 
 | Recompensa | Rotação / Chance | Nota |
 |---|---|---|
@@ -74,18 +79,18 @@ O Prison Complex é **um tile grande**. Dentro dele fica o bloco de celas, com *
 | **Mods de Warden / Vault** | — | Alguns mods aparecem com mais frequência aqui |
 | Relic aberta | — | Em Void Fissure |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Rescue
+
 
 - **Furtividade é a build correta.** [[warframes/regular/loki.md|Loki]], [[warframes/regular/ivara.md|Ivara]] e [[warframes/regular/wukong.md|Wukong]] (Cloud Walker) atravessam a sala sem acionar nada. Sem alarme, **não existe cronômetro**.
 - Se o alarme disparar, **o relógio é o inimigo**, não os reforços: vá direto hackear celas em vez de limpar a sala.
 - **Leve Ciphers.** Hackear sob pressão com reforços chegando é onde a maioria das missões falha.
 - Nas versões **Infested**, **não corra**: os lasers são a armadilha real, e acioná-los liga os orbes drenadores em todo o nível.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Rescue
+
 
 - **[[missoes/tipos/capture.md|Capture]]** — o espelho deste tipo.
 - **[[missoes/tipos/spy.md|Spy]]** — o outro tipo em que furtividade decide.
@@ -94,6 +99,3 @@ O Prison Complex é **um tile grande**. Dentro dele fica o bloco de celas, com *
 - **[[missoes/tipos/sabotage.md|Hive Sabotage]]** — os mesmos orbes pulsantes aparecem lá.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Rescue (consultado em 2026-10-04)

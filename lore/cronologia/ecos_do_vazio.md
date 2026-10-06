@@ -1,9 +1,14 @@
 ---
 title: 06. Ecos do Vazio
+aliases: [06. Ecos do Vazio, ecos do vazio]
 tipo: lore
 subtipo: cronologia
+resumo: "06. Ecos do Vazio — Não é uma era, é o que sempre esteve embaixo de todas elas: o Man in the Wall, que Albrecht encontrou primeiro e que desde então cobra a dívida — em Duviri, nos laboratórios sob Deimos e em Höllvania, 1999."
+status: completo
+rag: true
 tags: [lore, cronologia, void, murmur, duviri]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Albrecht_Entrati", "https://wiki.warframe.com/w/The_Murmur", "https://wiki.warframe.com/w/Duviri"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Não é uma era, é o que sempre esteve embaixo de todas elas: o Man in the Wall, que Albrecht encontrou primeiro e que desde então cobra a dívida — em Duviri, nos laboratórios sob Deimos e em Höllvania, 1999.
 
----
 
-## 🕰️ Linha do Tempo
+## 🕰️ Linha do Tempo — 06. Ecos do Vazio
+
 
 > [!warning] Spoiler — Whispers in the Walls / The Duviri Paradox / 1999
 > Esta "era" não é sequencial. O Void não respeita ordem temporal, e por isso os eventos abaixo **se cruzam** com todas as outras eras.
@@ -36,9 +41,9 @@ agente: opus
 | A Kalymos Sequence | [[missoes/jornadas/principais/whispers_in_the_walls.md\|Whispers in the Walls]] | Loid acorda **"the Sleeper"** — o Loid humano original — e o Tenno constrói o **Jahu Gargoyle** para completar a Sequência |
 | The Lotus Eaters | Depois | A [[lore/personagens/lotus.md\|Lotus]] aparece em pessoa no Sanctum, **lutando contra a influência do Man in the Wall**, e manda o Drifter a 1999 |
 
----
 
-## 📖 História
+## 📖 História — 06. Ecos do Vazio
+
 
 O fio desta era é uma ideia simples e desconfortável: **o Void não é um lugar, é alguém**. Quando Albrecht atravessou a parede, não encontrou um espaço vazio — encontrou **uma versão de si mesmo com uma dimensão a mais**, que sabia um apelido de infância não dito em séculos. Tudo o que o Império construiu depois, dos Railjacks ao Zariman aos próprios Tenno, veio de **dedos arrancados dessa coisa**. A tecnologia de Void do universo de Warframe é literalmente feita de **pedaços de uma entidade que foi mutilada ao ser contida**.
 
@@ -49,9 +54,9 @@ E a resposta de Albrecht a tudo isso foi tentar **consertar com mais da mesma co
 > [!important] Eternalism, em uma linha
 > Se duas versões de um evento são igualmente verdadeiras, **ambas existem**. É o que permite o Operator e o Drifter coexistirem, Duviri ser real, os filhos do Stalker estarem travados em combate, e o Tenno **escorregar para a mente de Arthur em 1999**. Deixou de ser lore de fundo e virou a gramática do jogo.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — 06. Ecos do Vazio
+
 
 - **[[lore/cronologia/a_nova_guerra.md|A Nova Guerra]]** — a era anterior; a fuga de Ballas é o que reabre a porta.
 - **[[lore/cronologia/era_orokin.md|A Era Orokin]]** — onde isso tudo começa, com a travessia de Albrecht.
@@ -63,9 +68,9 @@ E a resposta de Albrecht a tudo isso foi tentar **consertar com mais da mesma co
 - **[[mecanicas/sindicatos/cavia.md|Cavia]]** — os animais que voltaram do Void falando.
 - **[[locais/planetas/void.md|Void]]** — o local, com os inimigos Corrupted.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — 06. Ecos do Vazio
+
 
 | Quest / Conteúdo | O que mostra desta era |
 |---|---|
@@ -78,8 +83,3 @@ E a resposta de Albrecht a tudo isso foi tentar **consertar com mais da mesma co
 | The Lotus Eaters | A Lotus resistindo à influência |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Albrecht_Entrati (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/The_Murmur (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Duviri (consultado em 2026-10-04)

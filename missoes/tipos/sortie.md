@@ -1,9 +1,14 @@
 ---
 title: Sortie
+aliases: [Sortie]
 tipo: missao
 subtipo: tipo
+resumo: "Sortie — As três missões diárias de dificuldade elevada, tematicamente ligadas a um chefe — e com modificadores que mudam as regras de cada etapa."
+status: completo
+rag: true
 tags: [missao, tipo]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Sortie"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > As três missões diárias de dificuldade elevada, tematicamente ligadas a um chefe — e com modificadores que mudam as regras de cada etapa.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Sortie
+
 
 | Item | Detalhe |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Rotação | **Diária** |
 | Repetição | **Só pode ser repetida depois de completar as três** — e **não rende mais recompensas específicas de Sortie** |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Sortie
+
 
 1. Cada conjunto diário de Sorties é **tematicamente ligado a um chefe existente**, e **esse chefe determina a facção presente nas três missões**.
 2. As três missões têm **níveis crescentes** e cada uma carrega um ou mais **modificadores** (condições especiais).
@@ -39,9 +44,9 @@ agente: opus
 > [!info] Excavation Sortie exige 500 Cryotic
 > Em **[[missoes/tipos/excavation.md|Excavation]] Sortie**, a extração só abre com **500 unidades de Cryotic** — contra 100 no modo normal.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Sortie
+
 
 | Onde | Detalhe |
 |---|---|
@@ -51,9 +56,9 @@ agente: opus
 
 **Melhor nó para farmar:** não há escolha — é o conjunto do dia. O que varia é **se o tema favorece a sua build**: facção Grineer pede Corrosive/Radiation, Corpus pede Toxin/Magnetic, Infested pede Heat/Gas. Ver [[lore/faccoes/_Faccoes _Indice.md|Facções — Índice]].
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Sortie
+
 
 | Recompensa | Rotação / Chance | Nota |
 |---|---|---|
@@ -63,18 +68,18 @@ agente: opus
 > [!warning] ⚠️ Confirmar na wiki
 > A tabela de recompensas de Sortie muda com atualizações, e **chances de drop não devem ser inventadas**. Confira a drop table atual — ver convenção 8 do [[_MODELOS/_CONVENCOES.md|_CONVENCOES]].
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Sortie
+
 
 - **Leia os modificadores antes de montar a build.** Um Sortie com restrição de arma ou com hazard elemental pode inviabilizar a build padrão.
 - **A facção é conhecida de antemão** (vem do chefe-tema), então o elemento certo é escolhível: Corrosive/Heat para Grineer, Toxin/Viral para Corpus, Gas/Heat para Infested.
 - **Leve Perspicacity ou Auto Breach** se houver Spy no conjunto — sem Cipher, o minigame em nível alto com reforços é onde runs falham.
 - Sortie é a **fonte principal de Riven Mods**. Se o objetivo é Riven, fazer o conjunto diário é obrigatório.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Sortie
+
 
 - **[[missoes/tipos/arbitration.md|Arbitration]]** — a outra camada de dificuldade elevada.
 - **[[mecanicas/steel_path.md|Steel Path]]** — a dificuldade permanente do Star Chart.
@@ -83,6 +88,3 @@ agente: opus
 - **[[lore/chefes/_Chefes _Indice.md|Chefes — Índice]]** — o chefe-tema define a facção do dia.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Sortie (consultado em 2026-10-04)

@@ -1,10 +1,15 @@
 ---
 title: Crisma Toroid
+aliases: [Crisma Toroid]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+resumo: "Crisma Toroid — Recurso, cuja melhor fonte confirmada é Profit-Taker Orb, 1 por drop."
+status: completo
+rag: true
 tags: [recurso, open_world]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Crisma_Toroid", "https://wiki.warframe.com/w/Module:Resources/data", "https://wiki.warframe.com/w/Module:DropTables/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “A device of undetermined function and origin. Prized by Vox Solaris and the Quills.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Crisma Toroid
+
 
 | Item | Valor |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 > [!note] Nota do jogo
 > Earn Crisma Toroids by defeating the Profit-Taker Orb on the Orb Vallis (Venus).
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Crisma Toroid
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -55,9 +60,9 @@ agente: opus
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Crisma Toroid
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este recurso:
 
@@ -69,8 +74,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este recurso
 > Total de **2** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Crisma_Toroid — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)

@@ -1,10 +1,15 @@
 ---
 title: Neural Sensors
+aliases: [Neural Sensors, Sensores Neural]
 tipo: recurso
 raridade: raro
 origem: planeta
+resumo: "Neural Sensors — Recurso raro, farmado em Jupiter, 1 a 2 por drop."
+status: completo
+rag: true
 tags: [recurso, planeta]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Neural_Sensors", "https://wiki.warframe.com/w/Module:Resources/data", "https://wiki.warframe.com/w/Module:DropTables/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “Implanted neural-link for controlling augmentations. Grineer design.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Neural Sensors
+
 
 | Item | Valor |
 |---|---|
@@ -31,9 +36,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **Sim** |
 | Introduzido no Update | **Vanilla** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Neural Sensors
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -72,17 +77,12 @@ No vault: [[locais/planetas/jupiter.md|Jupiter]].
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Neural Sensors
+
 
 | Item | Quantidade |
 |---|---|
 | [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] | 100 |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Neural_Sensors — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)

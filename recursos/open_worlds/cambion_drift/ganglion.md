@@ -1,10 +1,15 @@
 ---
 title: Ganglion
+aliases: [Ganglion]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+resumo: "Ganglion — Recurso, farmado em Cambion Drift on Deimos."
+status: completo
+rag: true
 tags: [recurso, open_world]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Ganglion", "https://wiki.warframe.com/w/Module:Resources/data", "https://wiki.warframe.com/w/Module:DropTables/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “A fallen clump of entangled nerve fibers, redundant organs, and thin sensory membranes.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Ganglion
+
 
 | Item | Valor |
 |---|---|
@@ -30,9 +35,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **Sim** |
 | Introduzido no Update | **29** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Ganglion
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -58,9 +63,9 @@ No vault: [[locais/planetas/deimos.md|Deimos]], [[locais/open-worlds/deimos.md|C
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Ganglion
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este recurso:
 
@@ -94,8 +99,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este recurso
 > Total de **24** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Ganglion — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)

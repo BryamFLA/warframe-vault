@@ -1,8 +1,13 @@
 ---
 title: Forma e Polaridades
+aliases: [Forma e Polaridades]
 tipo: mecanica
+resumo: "Forma e Polaridades — Polaridade é o símbolo em cada slot de mod; casar a polaridade do mod com a do slot corta a drenagem pela metade, e a Forma é o item que troca a polaridade de um slot — ao custo de zerar o rank do equipamento."
+status: completo
+rag: true
 tags: [mecanica, forma, polaridade, mods, capacidade, vocabulario]
-atualizado: 2026-09-09
+fontes: ["https://wiki.warframe.com/w/Polarity", "https://wiki.warframe.com/w/Forma", "https://wiki.warframe.com/w/The_Steel_Path"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Polaridade é o símbolo em cada slot de mod; casar a polaridade do mod com a do slot corta a drenagem pela metade, e a **Forma** é o item que troca a polaridade de um slot — ao custo de zerar o rank do equipamento.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Forma e Polaridades
+
 
 Todo equipamento tem uma **capacidade de mod** limitada e cada mod tem uma **drenagem** (custo). Sem polaridade, você raramente consegue equipar oito mods bons. Cada slot exibe um **símbolo de polaridade** (V, D, barra, Y, U...), e cada mod também tem um. Quando os dois batem, **a drenagem do mod cai 50%**, arredondando para cima. Quando não batem, **sobe 25%**. Slot sem polaridade cobra o valor cheio, sem penalidade.
 
@@ -22,9 +27,9 @@ Os slots de **Aura** (Warframe) e **Stance** (arma branca) funcionam ao contrár
 
 A **Forma** é o consumível que muda a polaridade de um slot para a que você escolher. Ela só pode ser aplicada em equipamento no **rank máximo** e, ao ser usada, **reseta a afinidade do item para não-ranqueado** — você precisa subir os 30 ranks de novo. Isso é intencional: é o eixo de progressão de longo prazo do jogo, e cada re-ranqueamento também rende [[mecanicas/mastery_rank.md|mastery]] apenas na primeira vez.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Forma e Polaridades
+
 
 ```
 Slot NORMAL:
@@ -75,9 +80,9 @@ Slot de AURA ou STANCE (dá capacidade, não gasta):
 > ```
 > Confira em https://wiki.warframe.com/w/Forma antes de usar.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Forma e Polaridades
+
 
 ### As polaridades
 
@@ -131,9 +136,9 @@ Slot de AURA ou STANCE (dá capacidade, não gasta):
 | 5 | Polarizar os slots dos mods de maior drenagem | 50% de 16 economiza mais que 50% de 4 |
 | 6 | Aplicar Umbral Forma só se for usar mods Umbral | Umbral Forma é caro (150 Steel Essence) |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Forma e Polaridades
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -152,9 +157,9 @@ Slot de AURA ou STANCE (dá capacidade, não gasta):
 **Auras (slot que dobra o bônus quando casado):**
 [[mods/warframe/energy_siphon.md|Energy Siphon]] · [[mods/warframe/corrosive_projection.md|Corrosive Projection]] · [[mods/warframe/steel_charge.md|Steel Charge]] · [[mods/warframe/rejuvenation.md|Rejuvenation]] · [[mods/warframe/physique.md|Physique]] · [[mods/warframe/dead_eye.md|Dead Eye]] · [[mods/warframe/growing_power.md|Growing Power]]
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Forma e Polaridades
+
 
 1. **Polarizar antes de aplicar Orokin Reactor/Catalyst.** O Reactor/Catalyst **dobra a capacidade** e não reseta o rank. Muitos builds fecham só com ele — polarizar antes é gastar Forma à toa.
 
@@ -176,9 +181,9 @@ Slot de AURA ou STANCE (dá capacidade, não gasta):
 
 10. **Citar o custo de forja a partir deste arquivo.** Está marcado ⚠️ NÃO VERIFICADO. Abra a página da wiki.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Forma e Polaridades
+
 
 - [[mecanicas/mastery_rank.md|Mastery Rank]] — subir itens ao rank 30 é o que gera mastery; polarizar zera o rank mas não devolve pontos.
 - [[mecanicas/forja.md|Forja]] — onde o blueprint de Forma é construído (tempo de forja e rush em platina).
@@ -190,8 +195,3 @@ Slot de AURA ou STANCE (dá capacidade, não gasta):
 - [[mecanicas/nightwave.md|Nightwave]] — fonte recorrente de blueprint de Forma e de Umbral Forma em algumas temporadas.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Polarity — lista de polaridades e seus usos, regra de −50% para polaridade casada com arredondamento para cima, +25% para polaridade diferente, e regra especial de aura/stance (×2 casada, −20% diferente) (consultado em 2026-09-09)
-- https://wiki.warframe.com/w/Forma — função da Forma (Polarização), requisito de rank máximo, reset de afinidade, fontes de blueprint (relíquias 1×/2×, Daily Tribute, Nightwave, contêineres), custo em Nakak (3.000 standing + 5.000 créditos) e no Mercado (20 platina) (consultado em 2026-09-09)
-- https://wiki.warframe.com/w/The_Steel_Path — Umbra Forma por 150 Steel Essence na loja de Teshin (consultado em 2026-09-09)

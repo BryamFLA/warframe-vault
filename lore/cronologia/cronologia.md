@@ -1,9 +1,14 @@
 ---
 title: Cronologia do Universo Warframe
+aliases: [Cronologia do Universo Warframe, cronologia]
 tipo: lore
 subtipo: cronologia
+resumo: "Cronologia do Universo Warframe — Cinco eras: o Império Orokin que criou tudo, a Antiga Guerra que o quebrou, o Colapso que dividiu o Sistema, o Despertar dos Tenno, e a Nova Guerra — mais os Ecos do Vazio, que não são uma era e sim o que sempre esteve lá."
+status: completo
+rag: true
 tags: [lore, cronologia]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Quests", "https://wiki.warframe.com/w/Lore"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -15,9 +20,9 @@ agente: opus
 
 > [!warning] Spoilers de todas as quests principais
 
----
 
-## 🕰️ Linha do Tempo — visão geral
+## 🕰️ Linha do Tempo — Cronologia do Universo Warframe
+
 
 | Era | Quando | O que define |
 |---|---|---|
@@ -28,9 +33,9 @@ agente: opus
 | [[lore/cronologia/a_nova_guerra.md\|5. A Nova Guerra]] | Presente | Ballas funda o Narmer; os Tenno são banidos; o Drifter atravessa |
 | [[lore/cronologia/ecos_do_vazio.md\|6. Ecos do Vazio]] | Fora da linha do tempo | The Indifference, o Murmur, Duviri, 1999 — o que o Void sempre foi |
 
----
 
-## 🕰️ A cadeia causal, em cinco passos
+## 🕰️ A cadeia causal, em cinco passos — Cronologia do Universo Warframe
+
 
 A história de Warframe é uma cadeia de **soluções que viraram problemas**:
 
@@ -42,9 +47,9 @@ A história de Warframe é uma cadeia de **soluções que viraram problemas**:
 | 4 | Com Transference (obra de **[[lore/personagens/margulis.md\|Margulis]]**, bastardizada por **[[lore/personagens/ballas.md\|Ballas]]**), os Tenno pilotam as Warframes e **vencem a guerra** | Na festa da vitória, os Tenno **massacram os Orokin** em vingança pela execução de Margulis |
 | 5 | No vácuo, os escravos clonados viram **[[lore/faccoes/grineer.md\|Grineer]]**, os mercadores viram **[[lore/faccoes/corpus.md\|Corpus]]** | Os Sentients voltam duas vezes: como Hunhow desenterrado, e como **Narmer** |
 
----
 
-## 🕰️ Linha do Tempo das Quests
+## 🕰️ Linha do Tempo das Quests — Cronologia do Universo Warframe
+
 
 A ordem narrativa (não necessariamente a de lançamento). ⭐ marca as quests que mudam a compreensão de tudo o que veio antes.
 
@@ -77,16 +82,12 @@ A ordem narrativa (não necessariamente a de lançamento). ⭐ marca as quests q
 | 25 | [[missoes/jornadas/principais/whispers_in_the_walls.md\|Whispers in the Walls]] ⭐ | [[lore/personagens/albrecht_entrati.md\|Albrecht]], a Kalymos Sequence, [[lore/faccoes/murmur.md\|The Murmur]] |
 | 26 | [[missoes/jornadas/principais/1999.md\|1999]] | Höllvania, o Techrot, os Protoframes |
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Cronologia do Universo Warframe
+
 
 - **[[lore/faccoes/_Faccoes _Indice.md|Facções]]** — quem existe e por quê, com a mesma cadeia causal vista pelo lado das facções.
 - **[[lore/personagens/_Personagens _Indice.md|Personagens]]** — o núcleo narrativo em ordem de leitura.
 - **[[lore/chefes/_Chefes _Indice.md|Chefes]]** — os antagonistas de cada era.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Quests (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Lore (consultado em 2026-10-04)

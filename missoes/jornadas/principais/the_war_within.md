@@ -1,9 +1,14 @@
 ---
 title: The War Within
+aliases: [The War Within]
 tipo: missao
 subtipo: jornada
+resumo: "The War Within — A quest em que você perde a Warframe e precisa sobreviver como Operator: rastreando Teshin até a Kuva Fortress, o Tenno recupera memórias suprimidas e os poderes originais do Void."
+status: completo
+rag: true
 tags: [missao, jornada, principal]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/The_War_Within"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > A quest em que você perde a Warframe e precisa sobreviver como Operator: rastreando Teshin até a Kuva Fortress, o Tenno recupera memórias suprimidas e os poderes originais do Void.
 
----
 
-## 📖 Narrativa e Pré-requisitos
+## 📖 Narrativa e Pré-requisitos — The War Within
+
 
 | Item | Detalhe |
 |---|---|
@@ -35,9 +40,9 @@ agente: opus
 >
 > Com a ajuda mental dele, o Operator escapa, contra-ataca e **liberta Teshin**. O jogador pode ordenar que Teshin fique parado e dar o golpe final (ou deixar a Elder Queen escapar), ou **mandar Teshin abatê-la**. No fim, Teshin aconselha sobre o **Kuva** do cetro: "um elixir de poder ou um óleo que enlouquece".
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — The War Within
+
 
 | Recompensa | Nota |
 |---|---|
@@ -46,18 +51,18 @@ agente: opus
 | Acesso à **[[locais/planetas/kuva_fortress.md\|Kuva Fortress]]** | Novo território |
 | **Alignment** definido | Escolhas de diálogo, permanentes |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — The War Within
+
 
 - Esta quest é o pré-requisito dos **Kuva Liches**: depois dela, matar 10 inimigos em menos de 1 minuto numa missão Grineer de **nível 20+** faz um **Kuva Larvling** aparecer.
 - Boa parte dela é **jogada como Operator**, sem Warframe. Se você não investiu em Amp e [[mecanicas/operator_e_focus.md|Focus]], vai sentir — vale subir Focus antes.
 - O **Alignment** é permanente e **não pode ser mudado nem repetindo a quest**. Escolha os diálogos com intenção.
 - Os poderes reacendidos aqui são os que tornam viável a caça a [[lore/chefes/eidolon_teralyst.md|Eidolons]] e a luta contra [[lore/faccoes/sentient.md|Sentients]].
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — The War Within
+
 
 - **[[lore/personagens/teshin.md|Teshin]]** — o papel central dele, e a revelação sobre os Dax.
 - **[[locais/planetas/kuva_fortress.md|Kuva Fortress]]** — a fortaleza das Twin Queens.
@@ -67,6 +72,3 @@ agente: opus
 - **[[missoes/jornadas/principais/the_sacrifice.md|The Sacrifice]]** — a terceira revelação da trilogia.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/The_War_Within (consultado em 2026-10-04)

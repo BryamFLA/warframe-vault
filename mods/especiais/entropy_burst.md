@@ -1,11 +1,16 @@
 ---
 title: Entropy Burst
+aliases: [Entropy Burst]
 tipo: mod
 categoria: especial
-polaridade: Madurai
 raridade: raro
+polaridade: Madurai
+resumo: "+20 Final Chance de Status · +1 'Entropy' Texto exato no jogo (inglês): +20 Final Status Chance / +1 'Entropy'."
+status: completo
+rag: true
 tags: [mod, especial, augment]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Entropy_Burst", "https://wiki.warframe.com/w/Module:Mods/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -17,9 +22,9 @@ agente: opus
 >
 > *Texto exato no jogo (inglês):* `+20 Final Status Chance / +1 'Entropy'`
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Entropy Burst
+
 
 | Item | Valor |
 |---|---|
@@ -34,9 +39,9 @@ agente: opus
 | Transmutável | **Não** |
 | Introduzido no Update | **15** |
 
----
 
-## 📈 Efeito por Rank
+## 📈 Efeito por Rank — Entropy Burst
+
 
 <!-- Valores copiados da seção Stats da página do mod na wiki. Nenhum valor interpolado. -->
 
@@ -50,9 +55,9 @@ agente: opus
 > [!note] A drenagem sobe 1 por rank
 > Regra do jogo, visível na própria tabela: a drenagem no rank R é **4 + R**.
 
----
 
-## 🏗️ Onde Obter
+## 🌍 Onde Conseguir — Entropy Burst
+
 
 | Fonte | Detalhe |
 |---|---|
@@ -62,9 +67,9 @@ agente: opus
 
 **Faixa de preço em platina:** ⚠️ **estimativa não fornecida.** Pela seção 8 das convenções, preço de platina é mercado flutuante e não é registrado aqui. Consulte warframe.market no momento da compra.
 
----
 
-## 🛠️ Uso
+## 🛠️ Como Usar — Entropy Burst
+
 
 **Vale a pena?** **Depende da build.** Mod **Rare** — a raridade mais disputada por slot. Vale conferir a tabela de drop acima antes de farmar, porque a chance costuma ser baixa.
 
@@ -80,7 +85,3 @@ Sendo um **augment**, ele ocupa um slot normal de mod e **só existe se você ti
 Nenhum mod é registrado como **mutuamente exclusivo** com este nos dados da wiki. A concorrência é pelo **slot** e pela **capacidade**, não por bloqueio do jogo.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Entropy_Burst — efeito por rank, polaridade, drenagem, raridade e incompatibilidades (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Mods/data — ficha do mod: tipo, classe, comercializável, transmutável, update de introdução (consultado em 2026-10-06)

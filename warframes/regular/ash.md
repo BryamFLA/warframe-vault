@@ -1,29 +1,33 @@
 ---
 title: Ash
+aliases: [Ash]
 tipo: warframe
-archetype: [furtividade, assassino, dps]
+resumo: "Desenvolvido durante o lore/faccoes/orokin.md|Império Orokin, Ash foi concebido como uma solução para missões que exigiam letalidade silenciosa e infiltração."
+status: completo
+rag: true
 tags: [warframe, sangramento]
-estado:
-  forjado: false
-  rank_max: false
-  polarizacoes: 0
-  reator_instalado: false
-  subsuncao_helminte_cedida: false
-sindicato_augment: ['[[lore/faccoes/sindicatos/veu_vermelho.md|Véu Vermelho]]', '[[lore/faccoes/sindicatos/arbitros_de_hexis.md|Árbitros de Hexis]]']
-atualizado: 2026-04-17
+atualizado: 2026-10-07
+agente: opus
+archetype: [furtividade, assassino, dps]
+sindicato_augment: ["[[lore/faccoes/sindicatos/veu_vermelho.md|Véu Vermelho]]", "[[lore/faccoes/sindicatos/arbitros_de_hexis.md|Árbitros de Hexis]]"]
 ---
+
+# Ash
 
 > *"A lenda diz que um predador letal ataca a partir das sombras. Ash não tem como alvo os olhos, mas sim as defesas de seus oponentes. Ele é conhecido como o patrono das lâminas imperturbáveis."* — **Códice, Warframe.com**
 
-## 📖 História e Códice
+## 📖 História e Códice — Ash
 
-Desenvolvido durante o [[lore/faccoes/orokin.md|Império Orokin]], Ash foi concebido como uma solução para missões que exigiam letalidade silenciosa e infiltração. Sua tecnologia modular e métodos de combate derivam da escola de assassinos conhecida como *Scoria*. Ao contrário de modelos criados para a linha de frente da Antiga Guerra contra os [[lore/faccoes/sentient|Sentient]], Ash especializou-se na eliminação de alvos de alto valor e na neutralização de traidores em ambientes restritos, executando táticas de extermínio sem detecção prévia.
 
-## 🎮 Visão Geral e Gameplay
+Desenvolvido durante o [[lore/faccoes/orokin.md|Império Orokin]], Ash foi concebido como uma solução para missões que exigiam letalidade silenciosa e infiltração. Sua tecnologia modular e métodos de combate derivam da escola de assassinos conhecida como *Scoria*. Ao contrário de modelos criados para a linha de frente da Antiga Guerra contra os Sentient, Ash especializou-se na eliminação de alvos de alto valor e na neutralização de traidores em ambientes restritos, executando táticas de extermínio sem detecção prévia.
+
+## 🎮 Visão Geral e Gameplay — Ash
+
 
 Ash é um Warframe focado em mobilidade, invisibilidade e dano direto focado. Sua eficácia principal reside na capacidade de infligir "Dano Verdadeiro" através da constante aplicação de status de Sangramento (Cortante/Slash). Essa mecânica permite que ele escale facilmente em curvas de dificuldade altas (como o [[sistemas/caminho_de_aco.md|Caminho de Aço]]), onde a armadura inimiga mitiga quase todo o dano padrão. O estilo de jogo recomendado é o reposicionamento contínuo, a manutenção cautelosa da habilidade de invisibilidade (Smoke Screen) e foco em eliminações chave utilizando suas habilidades letais em vez de assumir postura de defesa em área fixa.
 
-## 💡 Curiosidades (Trivia)
+## 💡 Curiosidades (Trivia) — Ash
+
 
 Durante a fase de desenvolvimento alfa na Digital Extremes, Ash recebeu o nome inicial de "Ninja", o que justifica os elementos de design estético de sua armadura padrão, inspirados no folclore de armaduras lamelares e besouros.
 
@@ -31,7 +35,8 @@ No seu lançamento em 2013, o estilo anatômico do chassi foi considerado uma co
 
 As quatro habilidades de Ash causam estritamente dano físico (frequentemente tipo Cortante), o que o torna uma exceção entre warframes de longo alcance que normalmente dependem de efeitos elementais para dano base.
 
-## 🔮 Habilidades
+## 🔮 Habilidades — Ash
+
 
 * **Passiva (Hemorragia):** Efeitos de status Cortante (*Slash*) infligidos de qualquer fonte originada por Ash recebem **25% de Dano Adicional** e um **incremento de 50% em sua duração base**.
 
@@ -43,7 +48,8 @@ As quatro habilidades de Ash causam estritamente dano físico (frequentemente ti
 
 * **4. Blade Storm (Drenagem Mirada):** Entra em um modo visual rastejante para aplicar marcas adversárias. Ao recativular a habilidade, clones invulneráveis do Ash avançarão pelas paredes para despachar alvos marcados em dano cortante concentrado.
 
-## 🏗️ Aquisição e Fundição
+## 🏗️ Como Construir — Ash
+
 
 Os diagramas de Ash são listados exclusivamente nas tabelas de drops do modo **[[missoes/railjack.md|Railjack]] (Facção [[lore/faccoes/corpus.md|Corpus]])**, limitados às Rotações C de missões de longa duração, como as de Defesa e [[missoes/sobrevivencia.md|Sobrevivência]] em proximidades específicas. 
 
@@ -61,7 +67,8 @@ Os diagramas de Ash são listados exclusivamente nas tabelas de drops do modo **
 
 * **O Circuito ([[locais/duviri.md|Duviri]]):** Há semanas rotativas regulares do "Paradoxo de [[locais/duviri.md|Duviri]]" normal, nas quais todas as partes de diagramas do Ash podem ser coletadas completando etapas da jornada.
 
-## 📊 Estatísticas Matemáticas e Sobrevivência (Rank 0 -> 30)
+## 📊 Estatísticas Matemáticas e Sobrevivência (Rank 0 -> 30) — Ash
+
 
 | Atributo Oficial | Status Base (Rank 0) | Evolução Máxima (Rank 30) |
 |------------------|----------------------|---------------------------|
@@ -74,7 +81,8 @@ Os diagramas de Ash são listados exclusivamente nas tabelas de drops do modo **
 > **Polaridades Inatas Ocultas:** 2x Naramon (Traço -)
 > **Slot de Aura Inata:** Naramon (Traço -)
 
-## 🛠️ Guia Builds e Maximização
+## 🛠️ Build — Ash
+
 
 Os guias avançados centralizam no uso da mecânica do Warframe atrelada à invisibilidade defensiva enquanto priorizam melhorias ofensivas em Dano Verdadeiro. O end-game prescinde normalmente de mods massivos de resiliência e saúde crua. O viés ideal exige o aumento contínuo no status de Força (Strength) somado à estabilidade contínua entre as pausas automáticas das mecânicas ativas de execuções.
 
@@ -85,18 +93,20 @@ Os guias avançados centralizam no uso da mecânica do Warframe atrelada à invi
 | **[[mods/fatal_teleport.md\|Fatal Teleport]]**           | Mod de Ampliação   | Habilita animações passivas e automáticas de execuções (*Finishers*) na Habilidade 3 e concede base aditiva de +200% de dano.                                                             | Associações dos Sindicatos Nativos (*[[lore/faccoes/sindicatos/veu_vermelho.md\|Véu Vermelho]]* ou *[[lore/faccoes/sindicatos/arbitros_de_hexis.md\|Árbitros de Hexis]]*). |
 | **[[mods/rising_storm.md\|Rising Storm]]**               | Mod de Ampliação   | Permite aos clones invocados pela Habilidade 4 contribuírem ativamente com rebatidas no "Medidor de Combo Corpo A Corpo".                                                                 | Associações dos Sindicatos Nativos (*[[lore/faccoes/sindicatos/veu_vermelho.md\|Véu Vermelho]]* ou *[[lore/faccoes/sindicatos/arbitros_de_hexis.md\|Árbitros de Hexis]]*). |
 | **[[mods/transient_fortitude.md\|Transient Fortitude]]** | Mod Corrompido     | Intensifica significativamente a Força de Habilidade bruta com sacrifício tático associado na estatística da Duração de Habilidades.                                                      | Abordagens dentro dos *Cofres Estelares ([[locais/deimos.md\|Deimos]] Vaults)* e transações em platina.                                                                    |
-| **[[mods/arcane_trickery.md\|Arcane Trickery]]**         | Aprimoramento      | Garante que todas as execuções instintivas apliquem porcentagem limpa e passiva (15% chance por abate) de adicionar sobrecarga de **invisibilidade orgânica absoluta de 30s de duração**. | Conclusões primárias nos abates de bestas Eidolons em [[locais/cetus\|Cetus]] ou Trocas comerciais.                                                                        |
+| **[[mods/arcane_trickery.md\|Arcane Trickery]]**         | Aprimoramento      | Garante que todas as execuções instintivas apliquem porcentagem limpa e passiva (15% chance por abate) de adicionar sobrecarga de **invisibilidade orgânica absoluta de 30s de duração**. | Conclusões primárias nos abates de bestas Eidolons em Cetus ou Trocas comerciais.                                                                        |
 
-## 🧬 Subsunção e Acoplagem do Helminte
+## 🧬 Subsunção e Acoplagem do Helminte — Ash
 
-**Poder Cedido Base (Doação [[sistemas/helminte.md|Helminte]]):** **Shuriken**. Com a infecção e o descarte permanente de uma réplica do chassi na Enfermaria do Helminth da escotilha local, essa habilidade modular de atiradores perfurantes limpos está aberta para incorporação transversal de qualquer outro *warframe* na carga. 
 
-## 🔗 Terrenos de Atuação, Sinergia e Lâminas Reais
+**Poder Cedido Base (Doação [[sistemas/helminte.md|Helminte]]):** **Shuriken**. Com a infecção e o descarte permanente de uma réplica do chassi na Enfermaria do Helminth da escotilha local, essa habilidade modular de atiradores perfurantes limpos está aberta para incorporação transversal de qualquer outro *warframe* na carga.
+
+## 🔗 Terrenos de Atuação, Sinergia e Lâminas Reais — Ash
+
 
 #### 📍 Compatibilidade de Modalidades de Guerra:
 
 * **Incursões End-Game Solo (Aço, [[missoes/exterminio.md|Extermínios]], [[missoes/sobrevivencia.md|Sobrevivência]]):** Considerável força e sobrevivência inata devida à invisibilidade e capacidade de escalonar "Damage real", ultrapassando defesas ativas de inimigos ultra blindados ([[sistemas/caminho_de_aco.md|Caminho de Aço]]).
-* **Alvos Nativos Base (Assassinato/Hunt):** Utilidade crítica e cirúrgica limpa para destruir [[lich_de_kuva|Líches de Kuva]] ou [[chefes|Chefões]] robustos pela facilidade pura de penetrar o bloqueio da vida deles nativamente na fase orgânica de embate.
+* **Alvos Nativos Base (Assassinato/Hunt):** Utilidade crítica e cirúrgica limpa para destruir Líches de Kuva ou Chefões robustos pela facilidade pura de penetrar o bloqueio da vida deles nativamente na fase orgânica de embate.
 * **Contra-Indicação (Missões de Protetor Estático):** Fragilidade alta constatada para missões prolongadas focadas puramente na proteção de equipamentos desarmados abertos ao fogo cruzado, como Célio de Criogenia de [[missoes/defesa.md|Defesas]] ou Extratores ([[missoes/escavacao.md|Escavação]]), já que ele não abrange barreiras espaciais.
 
 #### 🤝 Sinergia em Time:
@@ -108,7 +118,8 @@ Os guias avançados centralizam no uso da mecânica do Warframe atrelada à invi
 
 O design do personagem invoca nativamente a associação canônica da classe original de ninjas aos atributos base em combates focados de Katanas, **[[armas/nikana.md|Nikanas]]** ou Lâminas Pequenas Brutais Furtivas. Usos extensivos com **[[armas/adagas.md|Adagas]]** modulares acopladas puramente na progressão de bônus diretos com a estampa mod de "[[mods/covert_lethality.md|Covert Lethality]]" garantem execuções completas e diretas de classe letal nos alvos atingidos. Além do alcance orgânico, snipers clássicas como a **[[armas/vectis_prime.md|Vectis Prime]]** cumprem com naturalidade as exigências visuais base como arsenal de tiro único seguro e furtivo na operação contínua coberta pelas próprias restrições densas estéticas e cinzas da bomba de fumaça primária dele (Smoke Screen).
 
-## 🎨 Apresentação e Estilização (Fashion Frame)
+## 🎨 Apresentação e Estilização (Fashion Frame) — Ash
+
 
 A estilização visual de Ash frequentemente acompanha temas centrados nos arquétipos de ninjas, operativos furtivos e assassinos cibernéticos, seguindo o rigor de sua anatomia base esguia e utilitária. 
 

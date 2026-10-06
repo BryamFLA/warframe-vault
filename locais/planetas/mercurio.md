@@ -1,11 +1,14 @@
 ---
 title: Mercúrio
+aliases: [Mercúrio, Mercurio, Mercury]
 tipo: local
-status: nao-visitado
 faccao: Grineer
-tags:
-  - local
-atualizado: 2026-04-17
+resumo: "Mercúrio — Primeiro planeta, tutorial do sistema solar."
+status: stub
+rag: false
+tags: [local]
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Mercúrio
@@ -13,24 +16,25 @@ atualizado: 2026-04-17
 > [!info] Visão Geral
 > Primeiro planeta, tutorial do sistema solar
 
-## Facção Principal
+## 🏴 Facção — Mercúrio
+
 - Grineer
 - Inimigos: Lancers, Troopers, Commanders
 
-## Missões Disponíveis
+## 🗺️ Missões — Mercúrio
+
 - Exterminate, Mobile Defense, Spy, Capture
 
-## Chefe
-- [[captain_vor|Captain Vor (Tolstoj)]] — recompensa: Morphics, créditos
+## 👑 Chefe — Mercúrio
 
-## Recursos Notáveis
+- [[lore/chefes/captain_vor.md|Captain Vor (Tolstoj)]] — recompensa: Morphics, créditos
+
+## 💎 Recursos — Mercúrio
+
 - Ferrite
 - Polymer Bundle
 - Morphics
 
-## Minha Progressão
-- [ ] Planeta desbloqueado
-- [ ] Chefe derrotado
+## 🔗 Relacionados — Mercúrio
 
-## Conexões
-- Chefe: [[captain_vor|Captain Vor]]
+- Chefe: [[lore/chefes/captain_vor.md|Captain Vor]]

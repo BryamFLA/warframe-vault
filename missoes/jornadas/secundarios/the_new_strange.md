@@ -1,9 +1,14 @@
 ---
 title: The New Strange
+aliases: [The New Strange]
 tipo: missao
 subtipo: jornada
+resumo: "The New Strange — Continuação de Stolen Dreams: o Tenno ajuda Cephalon Simaris a libertar os Sentinels dele dos Grineer — e encontra \"fragmentos de uma assinatura biológica\" nos logs da prisão."
+status: completo
+rag: true
 tags: [missao, jornada, secundaria]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/The_New_Strange"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Continuação de Stolen Dreams: o Tenno ajuda Cephalon Simaris a libertar os Sentinels dele dos Grineer — e encontra "fragmentos de uma assinatura biológica" nos logs da prisão.
 
----
 
-## 📖 Narrativa e Pré-requisitos
+## 📖 Narrativa e Pré-requisitos — The New Strange
+
 
 | Item | Detalhe |
 |---|---|
@@ -31,9 +36,9 @@ Depois de libertá-los, a [[lore/personagens/lotus.md|Lotus]] descobre **"fragme
 
 A trilha leva a **[[lore/chefes/alad_v.md|Alad V]]** e aos **Amalgams** — os híbridos Corpus/Grineer com tecnologia Tau que ele cria na Gas City de [[locais/planetas/jupiter.md|Júpiter]].
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — The New Strange
+
 
 | Recompensa | Nota |
 |---|---|
@@ -41,18 +46,18 @@ A trilha leva a **[[lore/chefes/alad_v.md|Alad V]]** e aos **Amalgams** — os h
 | Acesso a **Sanctuary Onslaught** | Modo de missão de Simaris |
 | **Tarefa diária de Synthesis** | Standing diário com Simaris |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — The New Strange
+
 
 - **[[warframes/regular/chroma.md|Chroma]]** é uma das maiores fontes de dano bruto do jogo via **Vex Armor**, e por isso aparece como primeira escolha nas lutas de [[lore/chefes/eidolon_teralyst.md|Eidolon]] — ele chega a **one-shotar Synovia**.
 - O **Elemental Ward** dele muda de efeito conforme a cor de energia: **Cold** dá escudo e armadura ao squad, o que é o que se usa em Eidolon.
 - **Sanctuary Onslaught** (e o Elite) é uma das melhores formas de subir afinidade rápido — útil para ranquear armas e Warframes.
 - A **tarefa diária de Synthesis** é Standing garantido com Simaris todo dia; o Standing dele compra o **Simulacrum** e mods úteis.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — The New Strange
+
 
 - **[[warframes/regular/chroma.md|Chroma]]** — a Warframe recompensada.
 - **[[lore/personagens/cephalon_simaris.md|Cephalon Simaris]]** — quem dá a quest.
@@ -61,6 +66,3 @@ A trilha leva a **[[lore/chefes/alad_v.md|Alad V]]** e aos **Amalgams** — os h
 - **[[missoes/jornadas/secundarios/stolen_dreams.md|Stolen Dreams]]** — o pré-requisito.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/The_New_Strange (consultado em 2026-10-04)

@@ -1,9 +1,14 @@
 ---
 title: The Archwing
+aliases: [The Archwing]
 tipo: missao
 subtipo: jornada
+resumo: "The Archwing — A quest que destrava combate espacial: com uma Balor Fomorian ameaçando o equilíbrio de poder, o Tenno precisa construir um Archwing com recursos de Orokin Sabotage e Excavation."
+status: completo
+rag: true
 tags: [missao, jornada, principal]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/The_Archwing"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > A quest que destrava combate espacial: com uma Balor Fomorian ameaçando o equilíbrio de poder, o Tenno precisa construir um Archwing com recursos de Orokin Sabotage e Excavation.
 
----
 
-## 📖 Narrativa e Pré-requisitos
+## 📖 Narrativa e Pré-requisitos — The Archwing
+
 
 | Item | Detalhe |
 |---|---|
@@ -30,9 +35,9 @@ agente: opus
 
 O detalhe narrativo relevante é quem entregou a tecnologia: foi **[[lore/personagens/baro_kiteer.md|Baro Ki'Teer]]** quem forneceu o datamass com informação sobre o Archwing — primeiro anonimamente, como "Mystery Associate" em Operation Cryotic Front (em troca de Cryotic, que ele usava para **preservar Martian Oasis Jellyfish**), e depois em Operation: Gate Crash.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — The Archwing
+
 
 | Recompensa | Nota |
 |---|---|
@@ -44,17 +49,17 @@ O detalhe narrativo relevante é quem entregou a tecnologia: foi **[[lore/person
 | Acesso a **Empyrean** | Railjack (junto com [[missoes/jornadas/principais/rising_tide.md\|Rising Tide]]) |
 | **Plexus** | O sistema de mods de Railjack |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — The Archwing
+
 
 - O Archwing é **pré-requisito permanente** para várias lutas: [[lore/chefes/jordas_golem.md|Jordas Golem]] é inteiramente em Archwing, e o [[lore/chefes/profit_taker.md|Profit-Taker Orb]] exige **Archgun em solo** via Archgun Deployer.
 - Contra o Jordas Golem especificamente, leve **Archgun com bom Slash ou Heat** — ele é da facção Infested.
 - A **Odonata** merece ser mantida mesmo depois: o **Disarray** dela é a única coisa no jogo que destrói os projéteis Ball Lightning do Jordas Golem.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — The Archwing
+
 
 - **[[mecanicas/eventos/balor_fomorian.md|Balor Fomorian]]** — o evento recorrente que a ameaça desta quest virou.
 - **[[lore/personagens/baro_kiteer.md|Baro Ki'Teer]]** — quem entregou a tecnologia do Archwing.
@@ -63,6 +68,3 @@ O detalhe narrativo relevante é quem entregou a tecnologia: foi **[[lore/person
 - **[[missoes/jornadas/principais/rising_tide.md|Rising Tide]]** — o Railjack, o próximo passo do combate espacial.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/The_Archwing (consultado em 2026-10-04)

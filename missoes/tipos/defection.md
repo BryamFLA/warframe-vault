@@ -1,9 +1,14 @@
 ---
 title: Defection
+aliases: [Defection]
 tipo: missao
 subtipo: tipo
+resumo: "Defection — Escoltar grupos de desertores Kavor até a baía de embarque, mantendo Med Boosters energizados — se 10 Kavor morrerem, a Lotus aborta a operação."
+status: completo
+rag: true
 tags: [missao, tipo]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Defection"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Escoltar grupos de desertores Kavor até a baía de embarque, mantendo Med Boosters energizados — se 10 Kavor morrerem, a Lotus aborta a operação.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Defection
+
 
 | Item | Detalhe |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Squad recomendado | Squad cheio; é um dos tipos mais exigentes em coordenação |
 | Tipo | **Endless** |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Defection
+
 
 1. O squad começa perto da **shuttle bay**, que os **Kavor defectors** precisam alcançar para escapar. A missão começa — e os timers dos eventos periódicos — quando **um jogador hackeia a porta de saída da baía**.
 2. Os Kavor nascem em **esquadrões de 4** (**3 em solo**) **30 segundos** depois do início, e **a cada 40 segundos** após o grupo anterior ser resgatado. Esse contador pode ser **zerado na hora** se um jogador ativar um **rush panel** (ícone laranja).
@@ -48,9 +53,9 @@ agente: opus
 >
 > **Se 10 Kavor morrerem**, a Lotus **aborta toda evacuação futura**: nenhum Kavor novo nasce, os que ainda estão vivos **não contam** se chegarem à shuttle, e o squad tem **5 minutos para extrair**.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Defection
+
 
 | Onde | Detalhe |
 |---|---|
@@ -60,27 +65,27 @@ agente: opus
 
 **Melhor nó para farmar:** Defection é impopular justamente por ser exigente, mas é uma das fontes de certos recursos e mods. O contexto narrativo é o extermínio dos **Kavor**, os Grineer pacifistas, liderado por [[lore/chefes/sargas_ruk.md|Sargas Ruk]].
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Defection
+
 
 | Recompensa | Rotação / Chance | Nota |
 |---|---|---|
 | Recompensa de rotação | Por esquadrões evacuados | Rotação conforme o nó |
 | Recompensas de [[missoes/tipos/arbitration.md\|Arbitration]] | Por rotação | Substituem as normais |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Defection
+
 
 - **Power Cells são o recurso crítico**, não dano. Designe um jogador para **caçar Mutalist Osprey Carriers** em tempo integral.
 - **Use os rush panels**: zerar o contador de 40 s acelera muito a run — e menos tempo no mapa significa menos dano de esporo nos Kavor.
 - **Frames de cura mantêm os Kavor vivos** onde o Booster não alcança: [[warframes/regular/trinity.md|Trinity]] (Blessing), [[warframes/regular/oberon.md|Oberon]] (Renewal) e [[warframes/regular/wisp.md|Wisp]] (Reservoirs) são as melhores escolhas.
 - **Conte os mortos.** Com 10 Kavor perdidos a missão acaba — se o contador estiver alto, extraia em vez de insistir.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Defection
+
 
 - **[[lore/chefes/sargas_ruk.md|Sargas Ruk]]** — lidera o extermínio dos Kavor.
 - **[[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]]** — o sindicato dos Grineer dissidentes.
@@ -89,6 +94,3 @@ agente: opus
 - **[[missoes/tipos/excavation.md|Excavation]]** — a outra missão movida a Power Cells.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Defection (consultado em 2026-10-04)

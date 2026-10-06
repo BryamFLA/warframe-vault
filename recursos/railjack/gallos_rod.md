@@ -1,10 +1,15 @@
 ---
 title: Gallos Rods
+aliases: [Gallos Rods, gallos rod]
 tipo: recurso
 raridade: incomum
 origem: railjack
+resumo: Gallos Rods are an uncommon resource that can be found in any Grineer Empyrean mission.
+status: completo
+rag: true
 tags: [recurso, railjack]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Gallos_Rods", "https://wiki.warframe.com/w/Module:DropTables/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -22,9 +27,9 @@ agente: opus
 > [!warning] Este item não está no `Module:Resources/data`
 > Ao contrário da maioria dos recursos do vault, este não tem entrada no módulo de dados de recursos da wiki — então **não há ficha estruturada** de raridade, quantidade por drop ou compatibilidade com booster para copiar. O que está abaixo vem do **texto da própria página** e do **`Module:DropTables/data`**. Os campos sem fonte ficam marcados.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Gallos Rods
+
 
 | Item | Valor |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 | Quantidade por drop | ⚠️ NÃO VERIFICADO |
 | Afetado por boosters | ⚠️ NÃO VERIFICADO |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Gallos Rods
+
 
 | Fonte | Tipo | Chance do recurso | Rolagens na tabela |
 |---|---|---|---|
@@ -72,9 +77,9 @@ agente: opus
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Gallos Rods
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este item:
 
@@ -86,7 +91,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este item:
 > Total de **2** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Gallos_Rods — descrição, forma de obtenção e Item Checklist (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)

@@ -1,11 +1,14 @@
 ---
 title: Lua
+aliases: [Lua]
 tipo: local
-status: nao-visitado
 faccao: Orokin/Sentient
-tags:
-  - local
-atualizado: 2026-04-17
+resumo: "Instalações Orokin na Lua, desbloqueada após The Second Dream."
+status: stub
+rag: false
+tags: [local]
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Lua
@@ -13,25 +16,31 @@ atualizado: 2026-04-17
 > [!info] Visão Geral
 > Instalações Orokin na Lua, desbloqueada após The Second Dream
 
-## Facção Principal
+## 🏴 Facção — Lua — Lua
+
+
 - Orokin/Sentient
 - Inimigos: Corrupted, Sentients
 
-## Missões Disponíveis
+## 🗺️ Missões — Lua — Lua
+
+
 - Exterminate, Spy, Rescue, Survival, Crossfire
 
-## Chefe
-- [[corrupted_vor|Vor Corrompido (Tycho)]] — recompensa: Mods Lua raros
+## 👑 Chefe — Lua
 
-## Recursos Notáveis
+
+- [[lore/chefes/corrupted_vor.md|Vor Corrompido (Tycho)]] — recompensa: Mods Lua raros
+
+## 💎 Recursos — Lua — Lua
+
+
 - Oxium
 - Neural Sensors
 - mods Lua
 
-## Minha Progressão
-- [ ] Planeta desbloqueado
-- [ ] Chefe derrotado
+## 🔗 Relacionados — Lua
 
-## Conexões
-- Chefe: [[corrupted_vor|Vor Corrompido]]
+
+- Chefe: [[lore/chefes/corrupted_vor.md|Vor Corrompido]]
 - Recursos: [[recursos/]]

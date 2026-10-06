@@ -1,9 +1,14 @@
 ---
 title: Ordis
+aliases: [Ordis]
 tipo: lore
 subtipo: personagem
+resumo: "Ordis — Era Ordan Karris, o \"Beast of the Bones\", mercenário que tentou estrangular Orokin com as próprias mãos — e foi punido com imortalidade digital."
+status: completo
+rag: true
 tags: [lore, personagem, cephalon]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Ordis"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Era **Ordan Karris**, o "Beast of the Bones", mercenário que tentou estrangular Orokin com as próprias mãos — e foi punido com imortalidade digital. Apagou as próprias memórias por amor ao Operator.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Ordis
+
 
 | Item | Valor |
 |---|---|
@@ -26,9 +31,9 @@ agente: opus
 | Nome original | **Ordan Karris**, autointitulado **"Beast of the Bones"** |
 | Condição | Dano residual: **memória parcialmente apagada**, incluindo o conhecimento da Antiga Guerra, e surtos momentâneos de raiva |
 
----
 
-## 📖 História
+## 📖 História — Ordis
+
 
 Ordis é um **Cephalon danificado** programado para assistir o [[lore/faccoes/tenno.md|Tenno]]. É em grande parte funcional, mas apresenta sintomas do dano residual que sofreu — dano que **apagou partes da memória dele, inclusive o conhecimento da [[lore/cronologia/antiga_guerra.md|Antiga Guerra]]**.
 
@@ -54,9 +59,9 @@ A fala e o comportamento dele são **ocasionalmente alterados por surtos moment�
 >
 > Ordis continua assistindo o Drifter, **chamando-o de "Operator" por força do hábito**. Quando a Lotus vira hostil por não reconhecê-lo, **Ordis sacrifica o próprio corpo para escudar o Drifter**. Depois ele se recupera: **reconstrói o corpo, tira o Orbiter da stasis, reúne os dois segmentos e reconstrói a [[armas/brancas/paracesis.md|Paracesis]]** para a batalha final contra Ballas.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Ordis
+
 
 - **[[lore/faccoes/tenno.md|Tenno]] / Operator** — o motivo pelo qual ele parou a autodestruição e apagou as próprias memórias.
 - **[[lore/personagens/ballas.md|Ballas]]** — quem o condenou à imortalidade digital com um vial de Kuva, como punição.
@@ -67,9 +72,9 @@ A fala e o comportamento dele são **ocasionalmente alterados por surtos moment�
 - **[[lore/personagens/loid.md|Loid]]** e **[[lore/personagens/cephalon_cy.md|Cephalon Cy]]** — os outros Cephalons de destaque; todos produtos do mesmo processo Orokin de "glassing".
 - **[[lore/personagens/cephalon_simaris.md|Cephalon Simaris]]** — outro Cephalon, este ainda a serviço do ideal Orokin de conhecimento.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Ordis
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -84,6 +89,3 @@ A fala e o comportamento dele são **ocasionalmente alterados por surtos moment�
 | [[missoes/jornadas/principais/the_new_war.md\|The New War]] | Esconde o Orbiter; sacrifica o corpo pelo Drifter |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Ordis (consultado em 2026-10-04)

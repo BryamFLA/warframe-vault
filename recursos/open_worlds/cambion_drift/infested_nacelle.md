@@ -1,10 +1,15 @@
 ---
-title: "Infested Nacelle (não existe no jogo)"
+title: Infested Nacelle (não existe no jogo)
+aliases: [Infested Nacelle (não existe no jogo), Infested Nacelle (nao existe no jogo), infested nacelle]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+resumo: Infested Nacelle (não existe no jogo) — conteúdo ainda não preenchido no vault.
+status: stub
+rag: false
 tags: [recurso, open_world, inexistente]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Railjack", "https://wiki.warframe.com/w/Module:Resources/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -19,13 +24,3 @@ agente: opus
 > Pela **seção 2 das convenções** (nunca criar, renomear ou apagar arquivos), o arquivo fica como está, documentando a ausência em vez de inventar um recurso.
 
 ---
-
-## 💡 Pendência para o humano
-
-- **Decisão sua:** este arquivo pode ser **apagado** ou **renomeado** para um item que exista de fato. Eu não faço nenhuma das duas coisas pela seção 2 das convenções.
-
----
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Railjack — confirmação dos itens que de fato existem nesse conjunto (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha de todos os recursos do jogo; nenhuma entrada com este nome (consultado em 2026-10-06)

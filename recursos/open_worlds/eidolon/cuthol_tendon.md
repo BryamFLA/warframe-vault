@@ -1,10 +1,15 @@
 ---
 title: Cuthol Tendrils
+aliases: [Cuthol Tendrils, cuthol tendon]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+resumo: "Cuthol Tendrils — Recurso do tipo fish part, cuja melhor fonte confirmada é Narmer Thumper."
+status: completo
+rag: true
 tags: [recurso, open_world, fish_part]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Cuthol_Tendrils", "https://wiki.warframe.com/w/Module:Resources/data", "https://wiki.warframe.com/w/Module:DropTables/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -19,9 +24,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “Ostrons extract the toxin and apply it to their weapons when hunting animals.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Cuthol Tendrils
+
 
 | Item | Valor |
 |---|---|
@@ -35,9 +40,9 @@ agente: opus
 > [!note] Nota do jogo
 > Source: Cut from Cuthol fish via Fisher Hai-Luk in Cetus (Earth). Catch Cuthol in Plains of Eidolon pond hotspots at Night. Also drops from Thumpers in the Plains of Eidolon.
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Cuthol Tendrils
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -59,9 +64,9 @@ agente: opus
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Cuthol Tendrils
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este recurso:
 
@@ -75,8 +80,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este recurso
 > Total de **4** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Cuthol_Tendrils — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)

@@ -1,29 +1,37 @@
 ---
 title: Oberon Prime
+aliases: [Oberon Prime]
 tipo: warframe
-status: nao-obtido
+resumo: Oberon Prime — 1.
+status: stub
+rag: false
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Oberon Prime
 
-> [!info] 
+> [!info]
 
-## 🏗️ Como Obter
+## 🏗️ Como Construir — Oberon Prime
 
 
-## 🔮 Habilidades
+## 🔮 Habilidades — Oberon Prime
+
 1. **Passiva:** 
 2. **Habilidade 1:** 
 3. **Habilidade 2:** 
 4. **Habilidade 3:** 
-5. **Habilidade 4:** 
+5. **Habilidade 4:**
 
-## 📊 Stats Base
+## 📊 Stats Base — Oberon Prime
+
 - **Vida:**
 - **Escudos:**
 - **Armadura:**
 - **Energia:**
 - **Velocidade:**
 
-## ⚙️ Progressão e Conexões
-- **Mascote/Arma Assinatura:** 
+## 🔗 Relacionados — Oberon Prime
+
+- **Mascote/Arma Assinatura:**

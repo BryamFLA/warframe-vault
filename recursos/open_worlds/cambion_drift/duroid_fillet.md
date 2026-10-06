@@ -1,10 +1,15 @@
 ---
-title: "Duroid Fillet (não existe no jogo)"
+title: Duroid Fillet (não existe no jogo)
+aliases: [Duroid Fillet (não existe no jogo), Duroid Fillet (nao existe no jogo), duroid fillet]
 tipo: recurso
+resumo: "Não existe nenhum item chamado “Duroid Fillet” em Warframe."
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+status: parcial
+rag: true
 tags: [recurso, open_world, pesca, inexistente]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Duroid", "https://wiki.warframe.com/w/Module:Resources/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -20,9 +25,9 @@ agente: opus
 >
 > Pela **seção 2 das convenções** (nunca criar, renomear ou apagar arquivos), o arquivo fica como está, documentando a ausência em vez de inventar um recurso.
 
----
 
-## 🐟 O peixe Duroid — ficha real
+## 🐟 O peixe Duroid — ficha real — Duroid Fillet (não existe no jogo)
+
 
 | Item | Valor |
 |---|---|
@@ -34,9 +39,9 @@ agente: opus
 | Lanças que pegam | **Spari/Ebisu** |
 | Pontuação máxima | **8 points** |
 
----
 
-## ✅ As partes que o Duroid realmente rende
+## ✅ As partes que o Duroid realmente rende — Duroid Fillet (não existe no jogo)
+
 
 | Parte real | No vault |
 |---|---|
@@ -47,14 +52,3 @@ agente: opus
 > São **3** partes. Nenhuma delas se chama “Duroid Fillet”.
 
 ---
-
-## 💡 Pendência para o humano
-
-- **Decisão sua:** este arquivo pode ser **apagado** ou **renomeado** para uma das partes reais da tabela acima. Eu não faço nenhuma das duas coisas pela seção 2 das convenções.
-- **Partes reais sem arquivo no vault:** **Benign Infested Tumor**, **Tubercular Gill System**, **Biotic Filter**.
-
----
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Duroid — infobox do peixe: raridade, planeta, tileset, bioma, ciclo, lanças, pontuação e a lista `other_drops` com as partes reais (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — nenhuma entrada chamada “Duroid Fillet” (consultado em 2026-10-06)

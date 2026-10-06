@@ -1,9 +1,16 @@
 ---
 title: Kronen Prime
-tipo: branca
-tags:
-  - arma
-  - branca
-status: nao-obtida
-atualizado: 2026-04-19
+aliases: [Kronen Prime]
+tipo: arma
+subtipo: branca
+resumo: Kronen Prime — conteúdo ainda não preenchido no vault.
+status: stub
+rag: false
+tags: [arma, branca]
+atualizado: 2026-10-07
+agente: opus
 ---
+
+# Kronen Prime
+
+

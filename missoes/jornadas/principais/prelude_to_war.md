@@ -1,9 +1,14 @@
 ---
 title: Prelude to War
+aliases: [Prelude to War]
 tipo: missao
 subtipo: jornada
+resumo: "Prelude to War — Não é uma quest única: é o arco narrativo que prepara a Nova Guerra, feito de mini-quests e cutscenes — Chimera Prologue, Erra e The Maker — intercalados com dois eventos."
+status: completo
+rag: true
 tags: [missao, jornada, principal]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Prelude_to_War"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Não é uma quest única: é o arco narrativo que prepara a Nova Guerra, feito de mini-quests e cutscenes — Chimera Prologue, Erra e The Maker — intercalados com dois eventos.
 
----
 
-## 📖 Narrativa e Pré-requisitos
+## 📖 Narrativa e Pré-requisitos — Prelude to War
+
 
 | Item | Detalhe |
 |---|---|
@@ -41,27 +46,27 @@ A cronologia completa do arco, na ordem:
 > [!warning] Spoiler — Prelude to War
 > O que o arco estabelece é a inversão: a Lotus, que até [[missoes/jornadas/principais/apostasy_prologue.md|Apostasy Prologue]] era a voz que te guiava, passa a **mobilizar a frota Sentient contra você** — manipulada por **[[lore/personagens/ballas.md|Ballas]]** e pelo irmão **[[lore/personagens/erra.md|Erra]]**. E Ballas, que parecia morto em [[missoes/jornadas/principais/the_sacrifice.md|The Sacrifice]], volta como **Amalgam Sentient**, lamentando a perda do corpo Orokin e maldizendo Natah por **ter roubado a morte perfeita dele**.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Prelude to War
+
 
 | Recompensa | Nota |
 |---|---|
 | — | O arco não dá recompensa própria |
 | Ver cada peça | [[missoes/jornadas/principais/chimera_prologue.md\|Chimera Prologue]] (Paracesis), [[missoes/jornadas/principais/erra.md\|Erra]] (Shedu) |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Prelude to War
+
 
 - A **Paracesis** de Chimera Prologue é funcional, não decorativa: no **rank 40** ela **remove adaptação Sentient**, o que a torna uma das cinco ferramentas do jogo capazes disso.
 - O **Shedu** de Erra também remove adaptação, **ao esgotar a munição** — um Archgun-like primário com mecânica própria.
 - **Operation: Scarlet Spear** e **Operation: Orphix Venom** foram eventos; o conteúdo deles virou permanente em outras formas (Orphix em missões próprias, Necramechs via [[mecanicas/sindicatos/necraloid.md|Necraloid]]).
 - Faça as peças **na ordem da tabela** — algumas cutscenes só fazem sentido assim.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Prelude to War
+
 
 - **[[missoes/jornadas/principais/chimera_prologue.md|Chimera Prologue]]** e **[[missoes/jornadas/principais/erra.md|Erra]]** — as duas mini-quests jogáveis do arco.
 - **[[missoes/jornadas/principais/the_new_war.md|The New War]]** — o que o arco prepara.
@@ -70,6 +75,3 @@ A cronologia completa do arco, na ordem:
 - **[[lore/cronologia/a_nova_guerra.md|A Nova Guerra]]** — a era que isso abre.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Prelude_to_War (consultado em 2026-10-04)

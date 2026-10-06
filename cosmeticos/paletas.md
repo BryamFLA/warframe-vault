@@ -1,20 +1,25 @@
 ---
 title: Paletas de Cores
+aliases: [Paletas de Cores, paletas]
 tipo: cosmetico
-tags:
-  - cosmetico
-  - paleta
-  - cor
-atualizado: 2026-04-19
+resumo: "Paletas são conjuntos de cores usados para customizar Warframes, armas, companheiros, veículos e decorações do Orbiter."
+status: parcial
+rag: true
+tags: [cosmetico, paleta, cor]
+atualizado: 2026-10-07
+agente: opus
 ---
 
-## O que são Paletas?
+# Paletas de Cores
+
+## O que são Paletas? — Paletas de Cores
+
 
 Paletas são conjuntos de cores usados para customizar Warframes, armas, companheiros, veículos e decorações do Orbiter. Cada paleta adiciona um conjunto de tons ao editor de cores.
 
----
 
-## Paletas Notáveis
+## Paletas Notáveis — Paletas de Cores
+
 
 | Paleta | Como Obter |
 |---|---|
@@ -26,9 +31,9 @@ Paletas são conjuntos de cores usados para customizar Warframes, armas, companh
 | **Twitch Drops** | Paletas distribuídas via drops de streams oficiais |
 | **Paleta Prime** | Incluída em alguns Prime Access |
 
----
 
-## Canais de Cor
+## Canais de Cor — Paletas de Cores
+
 
 Cada item tem múltiplos canais de cor independentes:
 
@@ -40,9 +45,9 @@ Cada item tem múltiplos canais de cor independentes:
 | **Quaternário** | Acentos e brilhos |
 | **Energia** | Cor dos efeitos de habilidade e energia |
 
----
 
-## Observações
+## 📝 Observações — Paletas de Cores
+
 
 - A paleta **Classic Saturated** é considerada essencial — cobre a maioria dos tons básicos com intensidade
 - Cor de Energia afeta partículas de habilidade, olhos do frame e alguns efeitos visuais

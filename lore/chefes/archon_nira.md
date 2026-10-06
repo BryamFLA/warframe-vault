@@ -1,9 +1,14 @@
 ---
 title: Archon Nira
+aliases: [Archon Nira]
 tipo: lore
 subtipo: chefe
+resumo: "Archon Nira — Nira, a Cobra: astuta e sádica, é quem mantém a consciência de Erra suprimida sob a máscara de Pazuul — e luta com chicote, olhar petrificante e um escudo frontal que só quebra se você atacar por trás."
+status: completo
+rag: true
 tags: [lore, chefe, sentient, narmer, archon]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Archon_Nira", "https://wiki.warframe.com/w/Damage_2.0/Overview_Table"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Nira, a Cobra: astuta e sádica, é quem mantém a consciência de Erra suprimida sob a máscara de Pazuul — e luta com chicote, olhar petrificante e um escudo frontal que só quebra se você atacar por trás.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Archon Nira
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Ativa. Será ela à frente do massacre na re-subjugação do Sistema |
 | Dublagem | — |
 
----
 
-## 📖 História
+## 📖 História — Archon Nira
+
 
 Nira, a Cobra, foi originalmente um **Sentient Beast** — classe criada por **Praghasa** e [[lore/personagens/hunhow.md|Hunhow]] para ser a guarda da paz de **Tau**. Depois de lutar e morrer na [[lore/cronologia/antiga_guerra.md|Antiga Guerra]], Nira e os outros Beasts foram ressuscitados por **[[lore/personagens/erra.md|Erra]]** durante a New War como **Archons**: abominações híbridas de Sentient e Warframe.
 
@@ -35,9 +40,9 @@ O papel dela no presente é o mais perturbador dos três. Ser astuta e sádica, 
 
 Quando o Narmer começar a re-subjugação do Sistema de Origem, **é Nira quem estará na linha de frente do massacre**.
 
----
 
-## ⚔️ Combate
+## ⚔️ Combate — Archon Nira
+
 
 | Item | Detalhe |
 |---|---|
@@ -89,9 +94,9 @@ No caso da Nira, os reforços de vida baixa são **Amalgams** — e o **Amalgam 
 
 **Frames recomendados:** [[warframes/regular/banshee.md|Banshee]] ou qualquer frame com **Silence subsumido** (desliga o Amalgam MOA), [[warframes/regular/dante.md|Dante]] (Overguard contra knockdown e petrificação), [[warframes/regular/rhino.md|Rhino]] (Roar), [[warframes/regular/octavia.md|Octavia]] (Amp), [[warframes/regular/inaros.md|Inaros]] ou [[warframes/regular/nidus.md|Nidus]] contra o Toxin.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Archon Nira
+
 
 - **[[lore/personagens/erra.md|Erra]]** — ressuscitou os Beasts como Archons, e hoje é ele quem está suprimido por ela sob a máscara de Pazuul.
 - **Pazuul** — o Archon que ocupou o corpo de Erra; Nira sussurra domínio e controle no ouvido dele.
@@ -100,9 +105,9 @@ No caso da Nira, os reforços de vida baixa são **Amalgams** — e o **Amalgam 
 - **[[lore/faccoes/corpus.md|Amalgams]]** — os reforços dela são híbridos Corpus/Sentient criados por Alad V.
 - **[[lore/faccoes/sentient.md|Sentient]]** — facção de origem.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Archon Nira
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -111,7 +116,3 @@ No caso da Nira, os reforços de vida baixa são **Amalgams** — e o **Amalgam 
 | [[mecanicas/helminth.md\|Helminth]] | Destino dos Shards arrancados |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Archon_Nira (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Overview_Table (consultado em 2026-10-04)

@@ -1,9 +1,14 @@
 ---
 title: Dax
+aliases: [Dax]
 tipo: lore
 subtipo: faccao
+resumo: "Dax — O corpo de elite do exército Orokin: soldados aumentados, armados com Nikana e mentalmente incapazes de desobedecer quem portasse Kuva — praticamente todos morreram na queda do Império."
+status: completo
+rag: true
 tags: [lore, faccao, dax, orokin]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Dax", "https://wiki.warframe.com/w/Damage_2.0/Overview_Table"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O corpo de elite do exército Orokin: soldados aumentados, armados com Nikana e **mentalmente incapazes de desobedecer** quem portasse Kuva — praticamente todos morreram na queda do Império.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Dax
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Praticamente extintos como corpo militar. Sobreviventes conhecidos: **Teshin** e **Varzia** |
 | Dublagem | Teshin tem voz própria; os demais são tropa |
 
----
 
-## 📖 História
+## 📖 História — Dax
+
 
 Os Dax eram um **núcleo pequeno do exército Orokin**, posicionado entre a infantaria comum e os [[lore/faccoes/tenno.md|Tenno]]. Recebiam augments implantados que levavam velocidade e força a níveis sobre-humanos, e eram usados exatamente por essa capacidade. O preço era a liberdade: foram feitos para **obedecer a quem portasse Kuva**, porque o Kuva marcava a elite Orokin. Uniformes eram idênticos; o que indicava patente era o **capacete mecânico**, que cobria quase todo o rosto e se alargava no topo, sobre peitoral e perneiras de bronze. Todos empunhavam a [[armas/brancas/nikana.md|Nikana]] ou variantes; alguns, como Teshin, carregavam também o disco [[armas/brancas/orvius.md|Orvius]]. O **Quellor** e o [[armas/brancas/pennant.md|Pennant]] eram equipamento padrão de tripulação de Railjack durante a Antiga Guerra.
 
@@ -35,9 +40,9 @@ Episódios conhecidos mostram o limite deles. Numa insurgência na antiga torre 
 
 Os Dax estavam presentes na queda do Império e **a maioria morreu durante ou depois dela — não eram páreo para os Tenno**. Dos dois sobreviventes conhecidos, Teshin fundou o [[mecanicas/sindicatos/conclave.md|Conclave]] para treinar e preservar a habilidade e a honra de combate dos Tenno, ideais que atritam com os da [[lore/personagens/lotus.md|Lotus]]; Varzia se aposentou e hoje vende equipamento Prime no Maroo's Bazaar.
 
----
 
-## 🏛️ Estrutura e Unidades
+## 🏛️ Estrutura e Unidades — Dax
+
 
 | Variante | Onde | O que é |
 |---|---|---|
@@ -57,9 +62,9 @@ Os Dax estavam presentes na queda do Império e **a maioria morreu durante ou de
 > [!warning] Dado incompleto
 > A matriz completa por tipo de saúde/armadura para Dax de Duviri e Anarchs não está publicada na tabela de facções da wiki no formato das outras facções. Só os sinais de facção (Anarchs: **+** Impact, **+** Electricity, **−** Radiation) estão verificados. Ver [[mecanicas/dano_e_status.md|Dano e Status]].
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Dax
+
 
 - **[[lore/faccoes/orokin.md|Orokin]]** — senhores. Os Dax eram a força de elite do Império, controlada por Kuva.
 - **[[lore/faccoes/tenno.md|Tenno]]** — superiores na hierarquia e seus executores na queda. Tyl Regor já chamou Teshin de "pseudo-Tenno".
@@ -69,9 +74,9 @@ Os Dax estavam presentes na queda do Império e **a maioria morreu durante ou de
 - **[[lore/faccoes/sentient.md|Sentient]]** — os Anarchs existem justamente por rejeitarem a paz com eles; Executor Nitokh os armou para sabotar o tratado.
 - **[[lore/faccoes/grineer.md|Grineer]]** — a tropa comum que os Dax comandavam acima; os Grineer também eram criação Orokin.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Dax
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -84,7 +89,3 @@ Os Dax estavam presentes na queda do Império e **a maioria morreu durante ou de
 | Synthesis (Corrupted Ancient, Guardsman) | Registros de Dax Menz e de um Dax anônimo |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Dax (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Overview_Table (consultado em 2026-10-04)

@@ -1,11 +1,14 @@
 ---
 title: Urano
+aliases: [Urano, Uranus]
 tipo: local
-status: nao-visitado
 faccao: Grineer
-tags:
-  - local
-atualizado: 2026-04-17
+resumo: Urano — Planeta inclinado com shipyards subaquáticos.
+status: stub
+rag: false
+tags: [local]
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Urano
@@ -13,25 +16,31 @@ atualizado: 2026-04-17
 > [!info] Visão Geral
 > Planeta inclinado com shipyards subaquáticos
 
-## Facção Principal
+## 🏴 Facção — Urano — Urano
+
+
 - Grineer
 - Inimigos: Lancers, Scorch, Hellions
 
-## Missões Disponíveis
+## 🗺️ Missões — Urano — Urano
+
+
 - Exterminate, Sabotage, Spy, Survival
 
-## Chefe
-- [[tyl_regor|Tyl Regor (Titania)]] — recompensa: [[equinox|Equinox]] partes
+## 👑 Chefe — Urano
 
-## Recursos Notáveis
+
+- [[lore/chefes/tyl_regor.md|Tyl Regor (Titania)]] — recompensa: [[warframes/regular/equinox.md|Equinox]] partes
+
+## 💎 Recursos — Urano — Urano
+
+
 - Alloy Plate
 - Plastids
 - Tellurium
 
-## Minha Progressão
-- [ ] Planeta desbloqueado
-- [ ] Chefe derrotado
+## 🔗 Relacionados — Urano
 
-## Conexões
-- Chefe: [[tyl_regor|Tyl Regor]]
+
+- Chefe: [[lore/chefes/tyl_regor.md|Tyl Regor]]
 - Recursos: [[recursos/]]

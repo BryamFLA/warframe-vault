@@ -1,9 +1,14 @@
 ---
 title: Dominus Thrax
+aliases: [Dominus Thrax]
 tipo: lore
 subtipo: personagem
+resumo: "Dominus Thrax — O rei-criança louco de Duviri, que trata todos como brinquedos de um conto de fadas violento e desfaz mortes rebobinando o tempo — e que foi inventado por uma menina num livro de histórias."
+status: completo
+rag: true
 tags: [lore, personagem, duviri]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Dominus_Thrax", "https://wiki.warframe.com/w/Duviri"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O rei-criança louco de Duviri, que trata todos como brinquedos de um conto de fadas violento e desfaz mortes rebobinando o tempo — e que foi inventado por uma menina num livro de histórias.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Dominus Thrax
+
 
 | Item | Valor |
 |---|---|
@@ -26,9 +31,9 @@ agente: opus
 | Origem | Personagem de ***Tales of Duviri***, livro escrito por [[lore/personagens/mother_entrati.md\|Euleria Entrati]] |
 | Poder | **Reversão de tempo** — desfaz mortes dentro da história que ele está contando |
 
----
 
-## 📖 História
+## 📖 História — Dominus Thrax
+
 
 Dominus Thrax é o **rei-criança** que governa [[locais/open-worlds/duviri.md|Duviri]] com punho de ferro. Ele **vê os outros habitantes como brinquedos e atores de um conto de fadas violento**, e usa a **habilidade de reverter o tempo** para desfazer mortes dentro da história que está tentando contar. Trata o **[[lore/personagens/the_drifter.md|Drifter]]** como brinquedo pessoal e como personagem a ser executado nos dramas dele — e **se sente insultado** pelas tentativas de deixar Duviri.
 
@@ -48,9 +53,9 @@ Pelos registros de áudio de **Acrithis**, Duviri hoje é **apenas uma casca do 
 > [!warning] Spoiler — Isleweaver (Operation: Eight Claw)
 > Depois dos eventos de **The Hex**, Dominus Thrax foi **deposto por Major Neci Rusalka**, que está **possuída por The Indifference**. Thrax é forçado a **recorrer ao [[lore/faccoes/tenno.md|Tenno]]** para derrotar a usurpadora.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Dominus Thrax
+
 
 - **[[lore/personagens/the_drifter.md|Drifter]]** — o "brinquedo" dele, que acabou sendo o verdadeiro dono de Duviri e lhe devolveu o trono.
 - **[[lore/personagens/mother_entrati.md|Euleria Entrati]]** — a autora que o inventou em *Tales of Duviri*.
@@ -61,9 +66,9 @@ Pelos registros de áudio de **Acrithis**, Duviri hoje é **apenas uma casca do 
 - **Major Neci Rusalka** — a usurpadora possuída pela Indifference que o depôs.
 - **The Indifference / Man in the Wall** — a força que consumiu as ilhas e hoje ocupa o trono por procuração.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Dominus Thrax
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -73,7 +78,3 @@ Pelos registros de áudio de **Acrithis**, Duviri hoje é **apenas uma casca do 
 | [[mecanicas/sindicatos/kaithe.md\|Duviri / Kaithe]] | Contexto do open world |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Dominus_Thrax (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Duviri (consultado em 2026-10-04)

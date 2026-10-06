@@ -1,29 +1,37 @@
 ---
 title: Mag Prime
+aliases: [Mag Prime]
 tipo: warframe
-status: nao-obtido
+resumo: Mag Prime — 1.
+status: stub
+rag: false
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Mag Prime
 
-> [!info] 
+> [!info]
 
-## 🏗️ Como Obter
+## 🏗️ Como Construir — Mag Prime
 
 
-## 🔮 Habilidades
+## 🔮 Habilidades — Mag Prime
+
 1. **Passiva:** 
 2. **Habilidade 1:** 
 3. **Habilidade 2:** 
 4. **Habilidade 3:** 
-5. **Habilidade 4:** 
+5. **Habilidade 4:**
 
-## 📊 Stats Base
+## 📊 Stats Base — Mag Prime
+
 - **Vida:**
 - **Escudos:**
 - **Armadura:**
 - **Energia:**
 - **Velocidade:**
 
-## ⚙️ Progressão e Conexões
-- **Mascote/Arma Assinatura:** 
+## 🔗 Relacionados — Mag Prime
+
+- **Mascote/Arma Assinatura:**

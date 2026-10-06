@@ -1,39 +1,44 @@
 ---
 title: Atlas
+aliases: [Atlas]
 tipo: warframe
-archetype: [Brawler, Controle de Área, Sobrevivência]
+resumo: "A descoberta de Atlas remonta à aniquilação de uma ameaça cataclísmica direcionada à locais/terra.md|Terra."
+status: completo
+rag: true
 tags: [warframe, terra, lutador, elementar]
-estado:
-  forjado: false
-  rank_max: false
-  polarizacoes: 0
-  reator_instalado: false
-  subsuncao_helminte_cedida: false
+atualizado: 2026-10-07
+agente: opus
+archetype: [Brawler, Controle de Área, Sobrevivência]
 sindicato_augment: [Cephalon Suda, Véu Vermelho]
-atualizado: 2026-04-18
 ---
+
+# Atlas
 
 > *"Este é Atlas, o lutador, o forte. Mover montanhas não é uma tarefa fácil, Tenno. Atlas resiste."* — **Códice, Warframe.com**
 
-## 📖 História e Códice
+## 📖 História e Códice — Atlas
+
 
 A descoberta de Atlas remonta à aniquilação de uma ameaça cataclísmica direcionada à [[locais/terra.md|Terra]]. Durante os tempos remotos do [[lore/faccoes/orokin.md|Império Orokin]], a seita paramilitar fanática conhecida como [[lore/faccoes/temple_telamon.md|Temple Telamon]] redirecionou a trajetória de um asteroide massivo para colidir com o planeta, em prol de suas profecias apocalípticas de renascimento. Como último recurso tático para interceptar a estrutura geológica, os [[lore/faccoes/orokin.md|Orokin]] empregaram Atlas. 
 
 Utilizando sua proficiência cinética e manipulação elementar terrena, Atlas interceptou o asteroide de forma solitária. Direcionando frequências de ressonância através de suas formações tectônicas, ele induziu a desintegração estrutural total do corpo celeste, neutralizando a insurgência Telamon definitivamente. Suas escórias estruturais foram posteriormente retidas no domínio de [[locais/eris.md|Eris]], caindo sob o controle biológico da [[lore/faccoes/infestados.md|Infestação]].
 
-## 🎮 Visão Geral e Gameplay
+## 🎮 Visão Geral e Gameplay — Atlas
+
 
 A arquitetura biomecânica de Atlas foi desenhada para atuar como mitigador contínuo de dano e força impositiva em engajamentos de área fechada (Brawler). A base sistêmica operacional atua otimizando instâncias de sobrevivência a partir da aglomeração retroalimentativa de blindagem rochosa ([[mecanicas/rubble.md|Rubble]]). Aplicando índices devastadores através da otimização corpo a corpo (mecânica modular de contágio de atrito e [[mecanicas/stat_sticks.md|Stat Sticks]]), o chassi subjuga zonas de impacto ao aplicar controle restritivo via fossilização progressiva dos oponentes em seu perímetro visual.
 
 Estes parâmetros atestam o chassi de Atlas como uma escolha primária no engajamento massivo de hordas blindadas em instâncias de durabilidade extrema, como incursões no [[sistemas/caminho_de_aco.md|Caminho de Aço]], consolidando-se como um baluarte ofensivo intransponível cuja eficiência escala passivamente com a aniquilação territorial contínua.
 
-## 💡 Curiosidades (Trivia)
+## 💡 Curiosidades (Trivia) — Atlas
+
 
 - Desenvolvido em ambientes de laboratório de *game design* da [[empresas/digital_extremes.md|Digital Extremes]] sob a alcunha referencial "Brawler", terminologia estruturante ainda rastreável nas nomenclaturas de pastas binárias do jogo.
 - A natureza progressiva da paralisação induzida reflete as origens conceituais do mito basilar da [[lore/referencias/medusa.md|Górgona Medusa]] da cosmologia grega. A passiva inamovível espelha [[lore/referencias/antaeus.md|Antaeus]], combatente legendário indestrutível enquanto mantivesse convergência direta com o substrato fixo da terra.
 - Consolida o escopo de primeiro Warframe do inventário original projetado desde o lançamento primário ostentando sinergia sistêmica canônica com um arsenal físico próprio listado: a arma [[armas/tekko.md|Tekko]].
 
-## 🔮 Habilidades
+## 🔮 Habilidades — Atlas
+
 
 * **Passiva (Imobilidade Tectônica):** Retém imunidade técnica absoluta a efeitos externos que promovam impactos de [[mecanicas/derrubada.md|Derrubada (Knockdown)]] ou paralisia gravitacional enquanto os sensores de nivelamento permanecerem contíguos a estratos rígidos da superfície.
 
@@ -45,7 +50,8 @@ Estes parâmetros atestam o chassi de Atlas como uma escolha primária no engaja
 
 * **4. Rumblers (100 Energia):** Mobiliza acúmulos aglomerados do cenário em dois construtos táticos automatizados e perigosos. Estas unidades agem capturando focos isolados de opositores, irradiando restrições motoras nos vetores alvejados. Ao concluírem suas operações geológicas, os construtos colapsam em acúmulos massivos de rochas protetoras consumíveis.
 
-## 🏗️ Aquisição e Fundição
+## 🏗️ Como Construir — Atlas
+
 
 #### Tabela de Fabricação Base
 
@@ -59,7 +65,8 @@ Estes parâmetros atestam o chassi de Atlas como uma escolha primária no engaja
 #### Vias Alternativas de Obtenção:
 A matriz de Diagrama do núcleo arquitetônico é restaurada após falhas vitais no diretório isolado de [[NPCs/cephalon_simaris.md|Cephalon Simaris]]. Aquisições integrativas modulares da arquitetura se fazem operacionais através do preenchimento semanal em fases na dinâmica de [[sistemas/o_circuito.md|O Circuito]] atrelados à paisagem abstrata originária de [[locais/duviri.md|Duviri]]. Operações secundárias de intercâmbio rápido permanecem liberadas via negociação de contrato baseada em [[recursos/platina.md|Platina]].
 
-## 📊 Estatísticas Matemáticas e Sobrevivência (Rank 0 -> 30)
+## 📊 Estatísticas Matemáticas e Sobrevivência (Rank 0 -> 30) — Atlas
+
 
 | Atributo Oficial | Status Base (Rank 0) | Evolução Máxima (Rank 30) |
 |------------------|----------------------|---------------------------|
@@ -72,7 +79,8 @@ A matriz de Diagrama do núcleo arquitetônico é restaurada após falhas vitais
 > **Polaridades Inatas Ocultas:** Traço D (Vazarin), Traço - (Naramon), Traço V (Madurai)
 > **Slot de Aura Inata:** Traço V (Madurai)
 
-## 🛠️ Guia Builds e Maximização
+## 🛠️ Build — Atlas
+
 
 Os guias avançados centralizam no uso da mecânica do Warframe atrelada à fossilização defensiva e acúmulo de blindagem ([[mecanicas/rubble.md|Rubble]]) enquanto priorizam multiplicadores brutos de corpo-a-corpo. O end-game prescinde do balanceamento passivo defensivo garantido, migrando para sobreposições rigorosas para intensificar o impacto brutal da habilidade fundamental. O viés ideal exige foco direcionado em [[mecanicas/forca_de_habilidade.md|Força de Habilidade]] combinada à sinergia do arsenal através do uso meticuloso de [[mecanicas/stat_sticks.md|Stat Sticks]] customizados.
 
@@ -85,11 +93,13 @@ Os guias avançados centralizam no uso da mecânica do Warframe atrelada à foss
 | **[[mods/blind_rage.md\|Blind Rage]]**                   | Mod Corrompido     | Intensifica drasticamente a [[mecanicas/forca_de_habilidade.md\|Força de Habilidade]] com elevado sacrifício sobre a [[mecanicas/eficiencia.md\|Eficiência]] geral operacional.                                                           | Abordagens dentro dos *Cofres Estelares ([[locais/deimos.md\|Deimos]] Vaults)* e transações comerciais puras com platina.                                                       |
 | **[[mods/arcane_avenger.md\|Arcane Avenger]]**           | Aprimoramento      | Garante que o recebimento contínuo de dano físico nativo incorra em acréscimos diretos e brutos massivos (+45%) na [[mecanicas/chance_critica.md\|Chance Crítica]] corporificante, maximizando agressões primárias.         | Capturas e Derrotas das bestas Eidolons ultra-resistentes na matriz aberta de [[locais/cetus.md\|Cetus]] ou em negociações p2p orgânicas entre contratantes.                    |
 
-## 🧬 Subsunção e Acoplagem do Helminte
+## 🧬 Subsunção e Acoplagem do Helminte — Atlas
+
 
 **Poder Cedido Base (Doação [[sistemas/helminte.md|Helminte]]):** **Petrify**. O algoritmo sistêmico de desestabilização biomolecular contida é permanentemente cimentado pela Helminte à extração modular livre, compartilhando sua vasta utilidade de controle impositivo de grupo maciço frontal e petrificação garantida para a infusão do painel modular tático em outros construtos e chasises adjacentes.
 
-## 🔗 Terrenos de Atuação, Sinergia e Golems Reais
+## 🔗 Terrenos de Atuação, Sinergia e Golems Reais — Atlas
+
 
 #### 📍 Compatibilidade de Modalidades de Guerra:
 
@@ -106,7 +116,8 @@ Os guias avançados centralizam no uso da mecânica do Warframe atrelada à foss
 
 Em observância estrutural dos primórdios operacionais originais do design focado em combate aproximado bruto, é possível atrelar o *status* da classe a partir do manejo imperativo orgânico de suas armas corpo-a-corpo focadas em furação (soqueiras perfurantes): **[[armas/tekko.md|Tekko]]** ou a variação superior letal natural de **[[armas/tekko_prime.md|Tekko Prime]]**. Esta escolha de infraestrutura resulta sistêmica organicativa base provendo de estampa acréscimos brutos de atributos puramente (+6% status adicional limpo base), maximizando a sinergia indissolúvel das lutas corpo-a-corpo sem interferência impura no meta game.
 
-## 🎨 Apresentação e Estilização (Fashion Frame)
+## 🎨 Apresentação e Estilização (Fashion Frame) — Atlas
+
 
 A estilização e apresentação estética de visual do lorde das pedras frequentemente espelha e amplifica representações calcárias base de lendas de geodos inertes intocados mantendo fiel às concepções originais brutas originárias estritamente orgânicas à armadura de um pugilista inabalável denso focado.
 

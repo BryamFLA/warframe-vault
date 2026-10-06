@@ -1,18 +1,23 @@
 ---
 title: Mecânicas — Índice
+aliases: [Mecânicas — Índice, Mecanicas — Indice, Mecanicas  Indice]
 tipo: index
-tags:
-  - index
-  - mecanica
-atualizado: 2026-04-19
+resumo: "Mecânicas são os sistemas transversais do Warframe — camadas de jogo que se aplicam a todo o conteúdo independentemente de planeta, missão ou Warframe escolhido."
+status: completo
+rag: true
+tags: [index, mecanica]
+atualizado: 2026-10-07
+agente: opus
 ---
+
+# Mecânicas — Índice
 
 > [!quote]
 > *"Warframe não é um jogo que você aprende em horas. É um jogo que você aprende em anos."*
 
----
 
-## O que são Mecânicas?
+## O que são Mecânicas? — Mecânicas — Índice
+
 
 Mecânicas são os sistemas transversais do Warframe — camadas de jogo que se aplicam a todo o conteúdo independentemente de planeta, missão ou Warframe escolhido. Enquanto recursos pertencem a planetas e mods pertencem a equipamentos, as mecânicas definem as regras fundamentais de como o jogo funciona: como o dano é calculado, como a progressão vertical se aprofunda, como a economia gira e como os sistemas sociais operam.
 
@@ -20,79 +25,79 @@ Compreender as mecânicas é o que separa um jogador intermediário de um vetera
 
 Mecânicas específicas de Open Worlds, Railjack, Archwing ou conteúdo end-game localizado estão documentadas dentro dos arquivos de seus respectivos contextos, evitando duplicação. Este índice cobre apenas os sistemas verdadeiramente transversais.
 
----
 
-## Combate
+## ⚔️ Combate — Mecânicas — Índice
+
 
 Sistemas que definem como o dano é calculado, aplicado e amplificado em qualquer situação de combate.
 
 | Mecânica | Descrição |
 |---|---|
-| [[mecanicas/dano_e_status\|Dano e Status]] | Tipos de dano físico e elemental, combinações, procs e interações com facções |
-| [[mecanicas/critico\|Crítico]] | Yellow crit, Orange crit, Red crit — como chance e multiplicador se relacionam |
-| [[mecanicas/combo_counter\|Combo Counter]] | Acumulação de combo em armas brancas e como escala mods como Blood Rush |
-| [[mecanicas/parkour\|Parkour]] | Bullet jump, wall latch, aim glide, double jump — o sistema de mobilidade |
-| [[mecanicas/stealth_e_finishers\|Stealth e Finishers]] | Multiplicadores de dano furtivo, finishers e interações com frames de invisibilidade |
-| [[mecanicas/augments\|Augments]] | Mods de habilidade exclusivos por Warframe — alteram ou expandem habilidades específicas |
+| [[mecanicas/dano_e_status.md\|Dano e Status]] | Tipos de dano físico e elemental, combinações, procs e interações com facções |
+| [[mecanicas/critico.md\|Crítico]] | Yellow crit, Orange crit, Red crit — como chance e multiplicador se relacionam |
+| [[mecanicas/combo_counter.md\|Combo Counter]] | Acumulação de combo em armas brancas e como escala mods como Blood Rush |
+| [[mecanicas/parkour.md\|Parkour]] | Bullet jump, wall latch, aim glide, double jump — o sistema de mobilidade |
+| [[mecanicas/stealth_e_finishers.md\|Stealth e Finishers]] | Multiplicadores de dano furtivo, finishers e interações com frames de invisibilidade |
+| [[mecanicas/augments.md\|Augments]] | Mods de habilidade exclusivos por Warframe — alteram ou expandem habilidades específicas |
 
----
 
-## Forja e Crafting
+## Forja e Crafting — Mecânicas — Índice
+
 
 | Mecânica | Descrição |
 |---|---|
-| [[mecanicas/forja\|Forja]] | Sistema de crafting — blueprints, timers, slots, rush com Platinum e gestão de produção |
+| [[mecanicas/forja.md\|Forja]] | Sistema de crafting — blueprints, timers, slots, rush com Platinum e gestão de produção |
 
----
 
-## Progressão
+## Progressão — Mecânicas — Índice
+
 
 Sistemas que controlam o avanço vertical do jogador — poder, flexibilidade e desbloqueios permanentes.
 
 | Mecânica | Descrição |
 |---|---|
-| [[mecanicas/mastery_rank\|Mastery Rank]] | Como o MR funciona, testes por rank, benefícios e itens bloqueados por nível |
-| [[mecanicas/forma_e_polaridades\|Forma e Polaridades]] | Polarização de slots, reset de rank, como planejar builds a longo prazo |
-| [[mecanicas/operator_e_focus\|Operator e Focus]] | As cinco escolas de Focus, Void Mode, Amps e progressão do Operator |
-| [[mecanicas/helminth\|Helminth]] | Subsumar habilidades entre Warframes — custo, restrições e sinergias |
-| [[mecanicas/incarnon\|Incarnon]] | Adapters Incarnon — como ativar, evoluir e quais armas suportam |
-| [[mecanicas/steel_path\|Steel Path]] | Modo de dificuldade +100 nível — desbloqueios, recompensas e Steel Essence |
-| [[mecanicas/arbitrations\|Arbitrations]] | Missões sem revive com drones de escudo — recompensas e como funciona a rotação |
-| [[mecanicas/nightwave\|Nightwave]] | Passe de temporada — desafios semanais, créditos e recompensas exclusivas |
+| [[mecanicas/mastery_rank.md\|Mastery Rank]] | Como o MR funciona, testes por rank, benefícios e itens bloqueados por nível |
+| [[mecanicas/forma_e_polaridades.md\|Forma e Polaridades]] | Polarização de slots, reset de rank, como planejar builds a longo prazo |
+| [[mecanicas/operator_e_focus.md\|Operator e Focus]] | As cinco escolas de Focus, Void Mode, Amps e progressão do Operator |
+| [[mecanicas/helminth.md\|Helminth]] | Subsumar habilidades entre Warframes — custo, restrições e sinergias |
+| [[mecanicas/incarnon.md\|Incarnon]] | Adapters Incarnon — como ativar, evoluir e quais armas suportam |
+| [[mecanicas/steel_path.md\|Steel Path]] | Modo de dificuldade +100 nível — desbloqueios, recompensas e Steel Essence |
+| [[mecanicas/arbitrations.md\|Arbitrations]] | Missões sem revive com drones de escudo — recompensas e como funciona a rotação |
+| [[mecanicas/nightwave.md\|Nightwave]] | Passe de temporada — desafios semanais, créditos e recompensas exclusivas |
 
----
 
-## Economia e Social
+## Economia e Social — Mecânicas — Índice
+
 
 Sistemas que governam a circulação de recursos, moedas e interações entre jogadores.
 
 | Mecânica | Descrição |
 |---|---|
-| [[mecanicas/platinum\|Platinum]] | A moeda premium — como obter sem pagar, conversão e o que vale comprar |
-| [[mecanicas/trading\|Trading]] | Sistema de trocas — limites por MR, Trade Tax, itens negociáveis e Trade Chat |
-| [[mecanicas/baro_ki_teer\|Baro Ki'Teer]] | O Void Trader — rotação quinzenal, histórico, Ducats e como se preparar |
-| [[mecanicas/cla_e_dojo\|Clã e Dojo]] | Criação e gestão de clã, pesquisa de Dojo, salas e decoração |
-| [[_Sindicatos _Indice\|Sindicatos]] | Os seis sindicatos principais + Open Worlds — reputação, recompensas e alianças |
+| [[mecanicas/platinum.md\|Platinum]] | A moeda premium — como obter sem pagar, conversão e o que vale comprar |
+| [[mecanicas/trading.md\|Trading]] | Sistema de trocas — limites por MR, Trade Tax, itens negociáveis e Trade Chat |
+| [[mecanicas/baro_ki_teer.md\|Baro Ki'Teer]] | O Void Trader — rotação quinzenal, histórico, Ducats e como se preparar |
+| [[mecanicas/cla_e_dojo.md\|Clã e Dojo]] | Criação e gestão de clã, pesquisa de Dojo, salas e decoração |
+| [[mecanicas/sindicatos/_Sindicatos _Indice.md\|Sindicatos]] | Os seis sindicatos principais + Open Worlds — reputação, recompensas e alianças |
 
----
 
-## Eventos
+## Eventos — Mecânicas — Índice
+
 
 Conteúdo de tempo limitado que retorna periodicamente com mecânicas próprias e recompensas exclusivas.
 
 | Evento | Tipo | Recompensa Principal |
 |---|---|---|
-| [[mecanicas/eventos/plague_star\|Plague Star]] | Operação sazonal — Eidolon | Helminth Charger, mods exclusivos |
-| [[mecanicas/eventos/thermia_fractures\|Thermia Fractures]] | Operação sazonal — Orbe Vallis | Diluted Thermia, Opticor Vandal |
-| [[mecanicas/eventos/razorback_armada\|Razorback Armada]] | Alerta de invasão Corpus | Brakk receiver, créditos |
-| [[mecanicas/eventos/balor_fomorian\|Balor Fomorian]] | Alerta de invasão Grineer | Imperator Vandal, créditos |
-| [[mecanicas/eventos/nights_of_naberus\|Nights of Naberus]] | Evento de Halloween | Cosméticos exclusivos da temporada |
-| [[mecanicas/eventos/anniversary\|Anniversary]] | Aniversário do jogo — março | Itens comemorativas, Dex weapons |
-| [[mecanicas/eventos/tennobaum\|Tennobaum]] | Evento de fim de ano | Cosméticos, bênçãos de comunidade |
+| [[mecanicas/eventos/plague_star.md\|Plague Star]] | Operação sazonal — Eidolon | Helminth Charger, mods exclusivos |
+| [[mecanicas/eventos/thermia_fractures.md\|Thermia Fractures]] | Operação sazonal — Orbe Vallis | Diluted Thermia, Opticor Vandal |
+| [[mecanicas/eventos/razorback_armada.md\|Razorback Armada]] | Alerta de invasão Corpus | Brakk receiver, créditos |
+| [[mecanicas/eventos/balor_fomorian.md\|Balor Fomorian]] | Alerta de invasão Grineer | Imperator Vandal, créditos |
+| [[mecanicas/eventos/nights_of_naberus.md\|Nights of Naberus]] | Evento de Halloween | Cosméticos exclusivos da temporada |
+| [[mecanicas/eventos/anniversary.md\|Anniversary]] | Aniversário do jogo — março | Itens comemorativas, Dex weapons |
+| [[mecanicas/eventos/tennobaum.md\|Tennobaum]] | Evento de fim de ano | Cosméticos, bênçãos de comunidade |
 
----
 
-## Curiosidades
+## 💡 Curiosidades — Mecânicas — Índice
+
 
 - O sistema de dano do Warframe passou por uma reformulação completa em 2013 (Damage 2.0) que introduziu os tipos elementais combinados — antes existiam apenas danos físicos básicos.
 - O Focus System foi adicionado em 2015 com The Second Dream e ficou praticamente sem atualização por anos antes de ser reformulado em 2021 com o sistema de Operator mais profundo.

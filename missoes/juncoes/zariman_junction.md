@@ -1,9 +1,14 @@
 ---
 title: Zariman — acesso (sem Junção)
+aliases: [Zariman — acesso (sem Junção), Zariman — acesso (sem Juncao), zariman junction]
 tipo: missao
 subtipo: juncao
+resumo: "O Zariman é único: apesar de ficar num ponto fixo, o Tenno chega lá sem precisar de uma Solar Rail Junction — porque, na linha do tempo de The New War, ele já tem Railjack."
+status: completo
+rag: true
 tags: [missao, juncao, zariman]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Zariman_Ten_Zero", "https://wiki.warframe.com/w/Junction", "https://wiki.warframe.com/w/Star_Chart"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > O Zariman é único: apesar de ficar num ponto fixo, **o Tenno chega lá sem precisar de uma Solar Rail Junction** — porque, na linha do tempo de The New War, ele já tem Railjack.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Zariman — acesso (sem Junção)
+
 
 | Item | Detalhe |
 |---|---|
@@ -28,9 +33,9 @@ agente: opus
 | Facção | **[[lore/faccoes/grineer.md\|Grineer]] ou [[lore/faccoes/corpus.md\|Corpus]]** — território contestado |
 | Recursos | Alloy Plate · Ferrite · **Voidgel Orb** · **Entrati Lanthorn** |
 
----
 
-## 🔓 Como o acesso realmente acontece
+## 🔓 Como o acesso realmente acontece — Zariman — acesso (sem Junção)
+
 
 > [!warning] O Zariman NÃO tem Solar Rail Junction
 > A wiki é explícita: o Zariman Ten-Zero é **único** no sentido de que, **apesar de estar num ponto fixo, o Tenno pode acessá-lo sem precisar de uma Solar Rail Junction** — porque, na linha do tempo de [[missoes/jornadas/principais/the_new_war.md|The New War]], os Tenno **já têm acesso a Railjacks**. A **Kuva Fortress**, em contraste, exige o caminho normal.
@@ -51,18 +56,18 @@ A razão de o Zariman estar acessível agora é narrativa: **por causa dos event
 | **[[mecanicas/incarnon.md\|Incarnon Market]]** | Via [[lore/personagens/cavalero.md\|Cavalero]], pago em **Voca** |
 | **Steel Path Holdfasts Bounties** | Variante de dificuldade elevada, selecionável ao falar com o Bounty Giver |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Zariman — acesso (sem Junção)
+
 
 - O **Voidgel Orb** e o **Entrati Lanthorn** são exclusivos daqui e entram em várias receitas de ponta — vale colher enquanto faz bounties.
 - Os **[[lore/chefes/void_angel.md|Void Angels]]** exigem o **Operator** no plano Ethereal: lá o **Amp** é o que causa dano, não a arma da Warframe. Invista em Amp e [[mecanicas/operator_e_focus.md|Focus]] antes de caçá-los.
 - A facção alterna entre Grineer e Corpus por nó. Isso significa **builds diferentes**: **Corrosive/Heat** contra Grineer, **Toxin/Viral** contra Corpus (Toxin ignora escudo). Ver [[lore/faccoes/_Faccoes _Indice.md|Facções — Índice]].
 - O **Steel Path** das bounties dos Holdfasts é selecionado **na UI ao falar com o Bounty Giver**, não no Star Chart.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Zariman — acesso (sem Junção)
+
 
 - **[[locais/open-worlds/zariman.md|Zariman]]** — o destino.
 - **[[missoes/jornadas/principais/angels_of_the_zariman.md|Angels of the Zariman]]** — o que desbloqueia.
@@ -73,8 +78,3 @@ A razão de o Zariman estar acessível agora é narrativa: **por causa dos event
 - **[[missoes/bounties/zariman.md|Bounties do Zariman]]** — as missões da região.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Zariman_Ten_Zero (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Junction (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Star_Chart (consultado em 2026-10-04)

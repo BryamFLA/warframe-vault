@@ -1,8 +1,13 @@
 ---
 title: Ostron
+aliases: [Ostron]
 tipo: mecanica
+resumo: "Ostron — Mercadores e sobreviventes que vivem em Cetus, em torno de uma torre Orokin; sindicato neutro cujo Standing vem de bounties, pesca, mineração, conservação e entrega de Zaws — e a única fonte de peças de Zaw e dos arcanes Exodia."
+status: completo
+rag: true
 tags: [mecanica, sindicato, ostron, cetus, zaw, pesca, mineracao, conservacao, neutro]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Ostron", "https://wiki.warframe.com/w/Syndicate"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Mercadores e sobreviventes que vivem em Cetus, em torno de uma torre Orokin; **sindicato neutro** cujo Standing vem de bounties, pesca, mineração, conservação e entrega de Zaws — e a única fonte de peças de **Zaw** e dos arcanes **Exodia**.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Ostron
+
 
 Os Ostron são uma **banda unida de mercadores, embromadores e sobreviventes** que chamam **[[locais/open-worlds/cetus.md\|Cetus]]** de casa. A cidade foi construída em volta de uma **torre Orokin** que ao mesmo tempo os protege e os alimenta.
 
@@ -22,9 +27,9 @@ Mecanicamente, Ostron é um **sindicato neutro**: ganhar Standing aqui **não af
 
 A estrutura é diferente dos sindicatos de facção: o Standing é ganho **fazendo tarefas para os membros individuais** de Cetus, e gasto **nos vendedores** deles, cada um com o seu catálogo.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Ostron
+
 
 ```
 Como ganhar Standing:
@@ -52,9 +57,9 @@ Rank 5 (Kin): Standing de 0 a 132.000 (o teto)
 - Cada rank dá **um item grátis** daquele rank, à escolha, nos vendedores.
 - **Gilding de Zaw só libera no Rank 3 (Trusted).**
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Ostron
+
 
 ### Ranks, sacrifícios e benefícios
 
@@ -131,9 +136,9 @@ Troféus (blueprint de decoração) por rank: Rank 1 — Mawfish, Khut-Khut, Yog
 | 2 | **Mergoo** (2.000) | Mergoo (200) |
 | 3 | **Vasca Kavat** (3.000) + **Vasca Curative** (500) | Vasca Kavat (200) |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Ostron
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -148,9 +153,9 @@ Troféus (blueprint de decoração) por rank: Rank 1 — Mawfish, Khut-Khut, Yog
 | Começar antes do MR 3 | Ostron e [[mecanicas/sindicatos/conclave.md\|Conclave]] são os **únicos** sindicatos acessíveis antes do Mastery Rank 3 |
 | Comprar no Koumei's Shrine | Higasa Serration e Amanata Pressure exigem **acesso ao Steel Path** |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Ostron
+
 
 - **"Preciso gildar o Zaw para vender ao Hok."** Não. Rank máximo basta — gildado ou não.
 - **"Mas o Zaw sem gilding dá Mastery."** Não dá. Gilding é obrigatório para Mastery, e só libera no **Rank 3**.
@@ -161,9 +166,9 @@ Troféus (blueprint de decoração) por rank: Rank 1 — Mawfish, Khut-Khut, Yog
 - **"O Nosam Cutter básico serve."** O Advanced (Rank 4) muda completamente o tempo de mineração.
 - **"Peguei o item grátis do rank, pego de novo ao reconquistar."** Cada rank dá **um** item grátis, uma vez.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Ostron
+
 
 - [[mecanicas/sindicatos/_Sindicatos _Indice.md|Sindicatos]] — Ostron é **neutro**: sem demoção, sem Standing negativo, teto diário próprio.
 - [[mecanicas/sindicatos/the_quills.md|The Quills]] — o representante deles fica em Cetus e depende de Standing próprio, não do Ostron.
@@ -179,7 +184,3 @@ Troféus (blueprint de decoração) por rank: Rank 1 — Mawfish, Khut-Khut, Yog
 - [[lore/chefes/eidolon_teralyst.md|Eidolon Teralyst]] — o conteúdo noturno das Plains, ligado aos Quills e não ao Ostron.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Ostron — fontes de Standing (bounties, pesca, conservação, gema, Zaw no rank máximo sem gilding, 800 por Shrine Defense), tabela completa de ranks com sacrifício e benefício, lista completa de ofertas por vendedor e por rank (Hok, Suumbaat, Hai-Luk, Teasonai), membros notáveis de Cetus, Koumei's Shrine (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Syndicate — classificação como sindicato neutro e acesso antes do MR 3 (consultado em 2026-10-04)

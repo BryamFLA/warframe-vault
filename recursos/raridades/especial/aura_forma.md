@@ -1,10 +1,15 @@
 ---
 title: Aura Forma
+aliases: [Aura Forma]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: planeta
+resumo: Aura Forma — Recurso do tipo item.
+status: completo
+rag: true
 tags: [recurso, planeta, item]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Aura_Forma", "https://wiki.warframe.com/w/Module:Resources/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “Modifies an Aura slot on a Warframe to be compatible with any Mod Polarity.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Aura Forma
+
 
 | Item | Valor |
 |---|---|
@@ -29,9 +34,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **⚠️ NÃO VERIFICADO** |
 | Introduzido no Update | **27.3** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Aura Forma
+
 
 **Da seção de aquisição da wiki:** Completed edit | edit] Sometimes available as a Prize in the 1999 Calendar Purchased from the Market: 1x for 80 Platinum 80 3x bundle for 150 Platinum 150 Obtained from Operation: Hostile Mergers Mission 3 Obtained from Nightwave: Intermission I as the Rank 14 reward (Expired) Nora's Mix Volume 5 as the Rank 26 reward (Expired) Blueprint edit | edit] Obtained as a potential reward from Arbitrations
 
@@ -49,16 +54,12 @@ agente: opus
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Aura Forma
+
 
 | Item | Quantidade |
 |---|---|
 | ⚠️ NÃO VERIFICADO | Nenhuma receita do `Module:Resources/data` lista este item como componente e a página da wiki não traz Item Checklist parseável. Ele pode ser usado em **trocas de sindicato** ou **consumido direto** — usos que não estão nesses dados. Confira em https://wiki.warframe.com/w/Aura_Forma |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Aura_Forma — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)

@@ -1,9 +1,14 @@
 ---
 title: The Jordas Precept
+aliases: [The Jordas Precept]
 tipo: missao
 subtipo: jornada
+resumo: "The Jordas Precept — Um Cephalon em pânico pede socorro: \"PRECEPT 44 CEPHALON STRANDED."
+status: completo
+rag: true
 tags: [missao, jornada, secundaria]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/The_Jordas_Precept"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Um Cephalon em pânico pede socorro: "PRECEPT 44 CEPHALON STRANDED. SHIP IMMOBILIZED. POWER FAILING. EXTINCTION EVENT." O que respondeu ao chamado era o que sobrou dele.
 
----
 
-## 📖 Narrativa e Pré-requisitos
+## 📖 Narrativa e Pré-requisitos — The Jordas Precept
+
 
 | Item | Detalhe |
 |---|---|
@@ -35,27 +40,27 @@ agente: opus
 >
 > O contraste com **[[lore/personagens/cephalon_cy.md|Cephalon Cy]]** é deliberado: Cy foi recuperado de dados corrompidos e reconstruído; **Jordas não teve essa sorte**.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — The Jordas Precept
+
 
 | Recompensa | Nota |
 |---|---|
 | **[[warframes/regular/atlas.md\|Atlas]]** blueprint | A Warframe de pedra |
 | **[[lore/chefes/jordas_golem.md\|Jordas Golem]]** Assassination | O nó repetível para farmar os componentes de Atlas |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — The Jordas Precept
+
 
 - A luta é **inteiramente em Archwing** e **só os motores das costas** do Golem recebem dano — leve **Archgun com bom Slash ou Heat**, que são os elementos fortes contra Infested.
 - O **Beam Cannon e o Ball Lightning dele atravessam paredes**, então cobertura não protege. A posição correta é **atrás e perto**.
 - O **Disarray da Odonata** é a **única coisa no jogo** que destrói os projéteis Ball Lightning dele.
 - Se não tem Archwing, faça [[missoes/jornadas/principais/the_archwing.md|The Archwing]] primeiro.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — The Jordas Precept
+
 
 - **[[lore/chefes/jordas_golem.md|Jordas Golem]]** — a ficha de combate completa.
 - **[[warframes/regular/atlas.md|Atlas]]** — a Warframe recompensada.
@@ -64,6 +69,3 @@ agente: opus
 - **[[missoes/jornadas/principais/the_archwing.md|The Archwing]]** — pré-requisito funcional.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/The_Jordas_Precept (consultado em 2026-10-04)

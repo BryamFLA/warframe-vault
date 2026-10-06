@@ -1,9 +1,14 @@
 ---
 title: Mother (Euleria Entrati)
+aliases: [Mother (Euleria Entrati), mother entrati]
 tipo: lore
 subtipo: personagem
+resumo: "Mother (Euleria Entrati) — Euleria Entrati: foi ela quem abriu a parede para o pai atravessar e quem a fechou cortando os dedos da entidade — e escreveu Tales of Duviri, o livro que décadas depois virou um reino inteiro dentro do Void."
+status: completo
+rag: true
 tags: [lore, personagem, orokin, entrati]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Mother", "https://wiki.warframe.com/w/Albrecht_Entrati"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > Euleria Entrati: foi ela quem abriu a parede para o pai atravessar e quem a fechou cortando os dedos da entidade — e escreveu *Tales of Duviri*, o livro que décadas depois virou um reino inteiro dentro do Void.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Mother (Euleria Entrati)
+
 
 | Item | Valor |
 |---|---|
@@ -27,9 +32,9 @@ agente: opus
 | Família | Pai [[lore/personagens/albrecht_entrati.md\|Albrecht]], mãe **Gerivaine** (falecida), marido [[lore/personagens/father_entrati.md\|Petros Vorten]], filhos [[lore/personagens/son_entrati.md\|Son]] e [[lore/personagens/daughter_entrati.md\|Daughter]] |
 | Obras | *The Palimpsest of Spacetime* (com Albrecht); ***Tales of Duviri*** |
 
----
 
-## 📖 História
+## 📖 História — Mother (Euleria Entrati)
+
 
 Euleria nasceu na família Orokin Entrati, filha de **Albrecht** e **Gerivaine**, com muitos irmãos, e **herdou os olhos da mãe**. Gerivaine morreu cedo, e Albrecht a criou sozinho e de forma inconsistente. Na infância dela, ele **inventava um elenco de personagens** e contava histórias para entretê-la — detalhe que importa mais tarde.
 
@@ -51,9 +56,9 @@ No presente, Mother notou que **o Heart estava se deteriorando**. O marido é o 
 > [!warning] Spoiler — Rank 3 (Associate) com os Entrati
 > Numa cutscene, Mother admite ao Son que ele trabalha bem sozinho e **revela que estava preocupada com ele** depois da contaminação: queria apenas protegê-lo da Infestação. Son reconhece o gesto, e ela **alivia ligeiramente** as restrições dele.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Mother (Euleria Entrati)
+
 
 - **[[lore/personagens/albrecht_entrati.md|Albrecht Entrati]]** — o pai. A obsessão de encontrá-lo organiza tudo o que ela faz; ela acredita ouvi-lo batendo atrás da Parede.
 - **[[lore/personagens/father_entrati.md|Father]] (Petros Vorten)** — marido. Casamento gravemente deteriorado; ela o agrediu com o estilhaço de seriglass.
@@ -66,9 +71,9 @@ No presente, Mother notou que **o Heart estava se deteriorando**. O marido é o 
 - **Quinn** — cortejou-a sem sucesso antes do casamento com Petros.
 - **[[warframes/regular/citrine.md|Citrine]]** — ligada à história da infestação de Deimos.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Mother (Euleria Entrati)
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -79,7 +84,3 @@ No presente, Mother notou que **o Heart estava se deteriorando**. O marido é o 
 | [[locais/open-worlds/zariman.md\|Angels of the Zariman]] | Deu aulas às crianças a bordo |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Mother (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Albrecht_Entrati (consultado em 2026-10-04)

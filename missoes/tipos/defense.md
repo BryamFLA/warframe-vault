@@ -1,9 +1,14 @@
 ---
 title: Defense
+aliases: [Defense, Defesa]
 tipo: missao
 subtipo: tipo
+resumo: "Defense — Proteger um objetivo (cryopod ou reator Orokin) por ondas sucessivas, com recompensa a cada 5 ondas e opção de sair ou continuar."
+status: completo
+rag: true
 tags: [missao, tipo]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Defense"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Proteger um objetivo (cryopod ou reator Orokin) por ondas sucessivas, com recompensa a cada 5 ondas e opção de sair ou continuar.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Defense
+
 
 | Item | Detalhe |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Squad recomendado | Squad cheio rende mais; solo é viável com frame de controle |
 | Tipo | **Endless** — recompensa a cada 5 ondas |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Defense
+
 
 1. Um **objetivo** (cryopod ou reator Orokin, conforme o tileset) aparece no centro do mapa.
 2. **Ondas de inimigos** chegam e tentam destruí-lo.
@@ -47,9 +52,9 @@ agente: opus
 | **Stage Defense** | Variante por estágios |
 | **[[missoes/tipos/defense_railjack.md\|Defense (Railjack)]]** | A versão Empyrean |
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Defense
+
 
 | Onde | Detalhe |
 |---|---|
@@ -61,9 +66,9 @@ agente: opus
 
 **Melhor nó para farmar:** Defense é o tipo preferido para **farm de afinidade** (inimigos vêm até você) e para **abrir várias Relics numa run** em Void Fissure.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Defense
+
 
 | Recompensa | Rotação / Chance | Nota |
 |---|---|---|
@@ -74,18 +79,18 @@ agente: opus
 > [!warning] ⚠️ Confirmar na wiki
 > A tabela exata de rotação (A/B/C) **varia por nó** e por tipo de conteúdo. Confira a drop table do nó específico antes de planejar um farm longo — ver convenção 8 do [[_MODELOS/_CONVENCOES.md|_CONVENCOES]].
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Defense
+
 
 - **Controle de multidão vale mais que dano.** [[warframes/regular/frost.md|Frost]] (Snow Globe), [[warframes/regular/gara.md|Gara]] (Mass Vitrify), [[warframes/regular/limbo.md|Limbo]] (Cataclysm) e [[warframes/regular/khora.md|Khora]] (Strangledome) tornam o objetivo praticamente intocável.
 - **Posicione-se entre os spawns e o objetivo**, não em cima dele: matar antes de chegar é melhor que tankar em cima.
 - Defense é o tipo **mais fácil de farmar afinidade**, porque os inimigos vêm até você — bom para ranquear armas novas.
 - Em [[missoes/tipos/arbitration.md|Arbitration]], **o objetivo também fica vulnerável a Eximus com Overguard**: leve algo que remova defesa, não só dano.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Defense
+
 
 - **[[missoes/tipos/mobile_defense.md|Mobile Defense]]** — a variante com objetivos múltiplos e móveis.
 - **[[missoes/tipos/interception.md|Interception]]** — o outro tipo endless de controle de ponto.
@@ -94,6 +99,3 @@ agente: opus
 - **[[missoes/tipos/void_fissure.md|Void Fissure]]** — onde Defense abre várias Relics por run.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Defense (consultado em 2026-10-04)

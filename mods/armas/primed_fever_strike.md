@@ -1,11 +1,16 @@
 ---
 title: Primed Fever Strike
+aliases: [Primed Fever Strike]
 tipo: mod
 categoria: arma
-polaridade: Naramon
 raridade: lendario
+polaridade: Naramon
+resumo: "Primed Fever Strike — +165% Toxin Texto exato no jogo (inglês): +165% <DT_POISON_COLOR>Toxin."
+status: completo
+rag: true
 tags: [mod, arma]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Primed_Fever_Strike", "https://wiki.warframe.com/w/Module:Mods/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -17,9 +22,9 @@ agente: opus
 >
 > *Texto exato no jogo (inglês):* `+165% <DT_POISON_COLOR>Toxin`
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Primed Fever Strike
+
 
 | Item | Valor |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 | Transmutável | **Não** |
 | Introduzido no Update | **22** |
 
----
 
-## 📈 Efeito por Rank
+## 📈 Efeito por Rank — Primed Fever Strike
+
 
 <!-- Valores copiados da seção Stats da página do mod na wiki. Nenhum valor interpolado. -->
 
@@ -56,9 +61,9 @@ agente: opus
 > [!note] A drenagem sobe 1 por rank
 > Regra do jogo, visível na própria tabela: a drenagem no rank R é **6 + R**.
 
----
 
-## 🏗️ Onde Obter
+## 🌍 Onde Conseguir — Primed Fever Strike
+
 
 | Fonte | Detalhe |
 |---|---|
@@ -71,9 +76,9 @@ agente: opus
 
 **Faixa de preço em platina:** ⚠️ **estimativa não fornecida.** Pela seção 8 das convenções, preço de platina é mercado flutuante e não é registrado aqui. Consulte warframe.market no momento da compra.
 
----
 
-## 🛠️ Uso
+## 🛠️ Como Usar — Primed Fever Strike
+
 
 **Vale a pena?** **Sim, se você tiver.** Mod **Legendary** — a variante Primed/Legendary de um mod base, vendida pelo **Baro Ki'Teer** por Ducats e Créditos. Supera o mod base em valor, mas **drena mais**, então exige capacidade (Orokin Reactor/Catalyst e Forma) para caber na build.
 
@@ -90,7 +95,3 @@ Os mods abaixo são **mutuamente exclusivos** com este — o jogo não deixa equ
 - **Flawed Fever Strike**
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Primed_Fever_Strike — efeito por rank, polaridade, drenagem, raridade e incompatibilidades (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Mods/data — ficha do mod: tipo, classe, comercializável, transmutável, update de introdução (consultado em 2026-10-06)

@@ -1,10 +1,15 @@
 ---
 title: Pustrels
+aliases: [Pustrels]
 tipo: recurso
 raridade: comum
 origem: railjack
+resumo: "Pustrels were a common Resource dropped by Eximus units found in the Infested Ship tileset, primarily on Eris."
+status: completo
+rag: true
 tags: [recurso, railjack]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Pustrels"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -19,9 +24,9 @@ agente: opus
 > [!warning] Este item não está no `Module:Resources/data`
 > Ao contrário da maioria dos recursos do vault, este não tem entrada no módulo de dados de recursos da wiki — então **não há ficha estruturada** de raridade, quantidade por drop ou compatibilidade com booster para copiar. O que está abaixo vem do **texto da própria página** e do **`Module:DropTables/data`**. Os campos sem fonte ficam marcados.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Pustrels
+
 
 | Item | Valor |
 |---|---|
@@ -30,9 +35,9 @@ agente: opus
 | Quantidade por drop | ⚠️ NÃO VERIFICADO |
 | Afetado por boosters | ⚠️ NÃO VERIFICADO |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Pustrels
+
 
 **Da seção de aquisição da página:** When running Empyrean missions to farm Pustrels, all Pustrels, Carbides, Cubic Diodes, and Copernics were stored in the Railjack's Resource Forge in order to manufacture consumable items. The Forge holds a default of 200 of each resource, after which additional gathering is automatically distributed to the squad, until the mission is completed. Pressing the "Refine" button from one of the Forge station will distribute the resources to the entire squad.
 
@@ -50,15 +55,12 @@ agente: opus
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Pustrels
+
 
 | Item | Quantidade |
 |---|---|
 | ⚠️ NÃO VERIFICADO | A página da wiki não traz um **Item Checklist** parseável e o item não está no `Module:Resources/data`. Confira em https://wiki.warframe.com/w/Pustrels |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Pustrels — descrição, forma de obtenção e Item Checklist (consultado em 2026-10-06)

@@ -1,16 +1,15 @@
 ---
 title: Mods de Warframe — Índice
+aliases: [Mods de Warframe — Índice, Mods de Warframe — Indice, Mods Warframe  Indice]
 tipo: index
 categoria: mod-warframe
-tags:
-  - index
-  - mod
-  - warframe
-atualizado: 2026-04-23
-indices-relacionados:
-  - _Mods _Indice
-  - _Warframes _Indice
-  - _Mods Especiais _Indice
+resumo: Mods de Warframe modificam as habilidades e atributos base do frame.
+status: completo
+rag: true
+tags: [index, mod, warframe]
+atualizado: 2026-10-07
+agente: opus
+indices-relacionados: [_Mods _Indice, _Warframes _Indice, _Mods Especiais _Indice]
 ---
 
 # Mods de Warframe — Índice
@@ -18,18 +17,18 @@ indices-relacionados:
 > [!quote]
 > *"Quatro pilares sustentam qualquer build: Força, Duração, Alcance e Eficiência."*
 
----
 
-## Visão Geral
+## 📊 Visão Geral — Mods de Warframe — Índice
+
 
 Mods de Warframe modificam as **habilidades e atributos base** do frame. Cada frame tem 8 slots normais + 1 slot de Aura + 1 slot Exilus. A Aura adiciona capacidade à capacidade total do frame.
 
 **Slots:** 8 normais + 1 Aura + 1 Exilus (requer Warframe Exilus Adapter)
 **Capacidade base:** 30 (rank 30) → 60 com Orokin Reactor
 
----
 
-## Os 4 Pilares de Build
+## Os 4 Pilares de Build — Mods de Warframe — Índice
+
 
 As habilidades de todo Warframe são afetadas por quatro stats, cada um controlado por uma família de mods:
 
@@ -43,97 +42,97 @@ As habilidades de todo Warframe são afetadas por quatro stats, cada um controla
 > [!note] Mods Corrupted e trade-offs
 > Mods Corrupted (Orokin Vault) empurram um pilar ao limite com penalidade em outro. Ex: Blind Rage dá +Strength enorme mas drena -Efficiency. A arte do build é balancear esses trade-offs.
 
----
 
-## Defesa e Sobrevivência
+## Defesa e Sobrevivência — Mods de Warframe — Índice
+
 
 | Mod | Raridade | Efeito | Fonte |
 |---|---|---|---|
-| [[vitality\|Vitality]] | Comum | +HP | Drop geral |
-| [[redirection\|Redirection]] | Comum | +Shield | Drop geral |
-| [[steel_fiber\|Steel Fiber]] | Incomum | +Armor | Drop geral |
-| [[primed_vigor\|Primed Vigor]] | Primed | +HP e +Shield combinados | Baro Ki'Teer |
-| [[umbral_vitality\|Umbral Vitality]] | Umbral | +HP muito elevado — set Umbral | Quest (The Sacrifice) |
-| [[adaptation\|Adaptation]] | Raro | Resistência ao tipo de dano recebido (acumula até 90%) | Arbitrations |
-| [[quick_thinking\|Quick Thinking]] | Raro | Usa Energia como buffer quando HP chega a zero | Drop geral |
-| [[rolling_guard\|Rolling Guard]] | Raro | Invencibilidade breve + remove status no dodge | Arbitrations |
-| [[grace\|Grace]] | Raro | Regenera HP ao sair de estado crítico | Drop geral |
-| [[augur_accord\|Augur Accord]] | Incomum | Gasto de Energia restaura Shields | Syndicatos |
+| [[mods/warframe/vitality.md\|Vitality]] | Comum | +HP | Drop geral |
+| [[mods/warframe/redirection.md\|Redirection]] | Comum | +Shield | Drop geral |
+| [[mods/warframe/steel_fiber.md\|Steel Fiber]] | Incomum | +Armor | Drop geral |
+| [[mods/warframe/primed_vigor.md\|Primed Vigor]] | Primed | +HP e +Shield combinados | Baro Ki'Teer |
+| [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] | Umbral | +HP muito elevado — set Umbral | Quest (The Sacrifice) |
+| [[mods/warframe/adaptation.md\|Adaptation]] | Raro | Resistência ao tipo de dano recebido (acumula até 90%) | Arbitrations |
+| [[mods/warframe/quick_thinking.md\|Quick Thinking]] | Raro | Usa Energia como buffer quando HP chega a zero | Drop geral |
+| [[mods/warframe/rolling_guard.md\|Rolling Guard]] | Raro | Invencibilidade breve + remove status no dodge | Arbitrations |
+| Grace | Raro | Regenera HP ao sair de estado crítico | Drop geral |
+| [[mods/warframe/augur_accord.md\|Augur Accord]] | Incomum | Gasto de Energia restaura Shields | Syndicatos |
 
----
 
-## Habilidades
+## 🔮 Habilidades — Mods de Warframe — Índice
+
 
 ### Strength
 
 | Mod | Raridade | Efeito | Fonte |
 |---|---|---|---|
-| [[intensify\|Intensify]] | Incomum | +Strength | Drop geral |
-| [[umbral_intensify\|Umbral Intensify]] | Umbral | +Strength muito elevado — set Umbral | Quest (The Sacrifice) |
-| [[transient_fortitude\|Transient Fortitude]] | Corrupted | +Strength alto / -Duration | Orokin Vault |
-| [[blind_rage\|Blind Rage]] | Corrupted | +Strength muito alto / -Efficiency | Orokin Vault |
-| [[energy_conversion\|Energy Conversion]] | Raro | +Strength temporário ao pegar orb de energia | Drop geral |
-| [[augur_secrets\|Augur Secrets]] | Incomum | Gasto de Energia +Strength temporário | Syndicatos |
-| [[power_drift\|Power Drift]] | Incomum | +Strength menor + knockdown resist | Junction |
+| [[mods/warframe/intensify.md\|Intensify]] | Incomum | +Strength | Drop geral |
+| [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] | Umbral | +Strength muito elevado — set Umbral | Quest (The Sacrifice) |
+| [[mods/warframe/transient_fortitude.md\|Transient Fortitude]] | Corrupted | +Strength alto / -Duration | Orokin Vault |
+| [[mods/warframe/blind_rage.md\|Blind Rage]] | Corrupted | +Strength muito alto / -Efficiency | Orokin Vault |
+| [[mods/warframe/energy_conversion.md\|Energy Conversion]] | Raro | +Strength temporário ao pegar orb de energia | Drop geral |
+| [[mods/warframe/augur_secrets.md\|Augur Secrets]] | Incomum | Gasto de Energia +Strength temporário | Syndicatos |
+| [[mods/warframe/power_drift.md\|Power Drift]] | Incomum | +Strength menor + knockdown resist | Junction |
 
 ### Duration
 
 | Mod | Raridade | Efeito | Fonte |
 |---|---|---|---|
-| [[continuity\|Continuity]] | Comum | +Duration | Drop geral |
-| [[constitution\|Constitution]] | Incomum | +Duration + -Knockdown Recovery | Drop geral |
-| [[primed_continuity\|Primed Continuity]] | Primed | +Duration muito elevado | Baro Ki'Teer |
-| [[narrow_minded\|Narrow Minded]] | Corrupted | +Duration muito alto / -Range | Orokin Vault |
-| [[augur_message\|Augur Message]] | Incomum | Gasto de Energia +Duration temporário | Syndicatos |
+| [[mods/warframe/continuity.md\|Continuity]] | Comum | +Duration | Drop geral |
+| [[mods/warframe/constitution.md\|Constitution]] | Incomum | +Duration + -Knockdown Recovery | Drop geral |
+| [[mods/warframe/primed_continuity.md\|Primed Continuity]] | Primed | +Duration muito elevado | Baro Ki'Teer |
+| [[mods/warframe/narrow_minded.md\|Narrow Minded]] | Corrupted | +Duration muito alto / -Range | Orokin Vault |
+| [[mods/warframe/augur_message.md\|Augur Message]] | Incomum | Gasto de Energia +Duration temporário | Syndicatos |
 
 ### Range
 
 | Mod | Raridade | Efeito | Fonte |
 |---|---|---|---|
-| [[stretch\|Stretch]] | Comum | +Range | Drop geral |
-| [[overextended\|Overextended]] | Corrupted | +Range muito alto / -Strength | Orokin Vault |
-| [[cunning_drift\|Cunning Drift]] | Incomum | +Range menor — slot Exilus | Drop geral |
+| [[mods/warframe/stretch.md\|Stretch]] | Comum | +Range | Drop geral |
+| [[mods/warframe/overextended.md\|Overextended]] | Corrupted | +Range muito alto / -Strength | Orokin Vault |
+| [[mods/warframe/cunning_drift.md\|Cunning Drift]] | Incomum | +Range menor — slot Exilus | Drop geral |
 
 ### Efficiency
 
 | Mod | Raridade | Efeito | Fonte |
 |---|---|---|---|
-| [[streamline\|Streamline]] | Incomum | -Custo de Energia | Drop geral |
-| [[fleeting_expertise\|Fleeting Expertise]] | Corrupted | +Efficiency muito alto / -Duration | Orokin Vault |
+| [[mods/warframe/streamline.md\|Streamline]] | Incomum | -Custo de Energia | Drop geral |
+| [[mods/warframe/fleeting_expertise.md\|Fleeting Expertise]] | Corrupted | +Efficiency muito alto / -Duration | Orokin Vault |
 
 ### Energia
 
 | Mod | Raridade | Efeito | Fonte |
 |---|---|---|---|
-| [[flow\|Flow]] | Incomum | +Max Energia | Drop geral |
-| [[primed_flow\|Primed Flow]] | Primed | +Max Energia muito elevado | Baro Ki'Teer |
-| [[rage\|Rage]] | Raro | Dano em HP → Energia | Drop de Boss |
-| [[hunter_adrenaline\|Hunter Adrenaline]] | Raro | Dano em HP → Energia (mais eficiente) | Syndicato (Steel Meridian) |
+| [[mods/warframe/flow.md\|Flow]] | Incomum | +Max Energia | Drop geral |
+| [[mods/warframe/primed_flow.md\|Primed Flow]] | Primed | +Max Energia muito elevado | Baro Ki'Teer |
+| [[mods/warframe/rage.md\|Rage]] | Raro | Dano em HP → Energia | Drop de Boss |
+| [[mods/warframe/hunter_adrenaline.md\|Hunter Adrenaline]] | Raro | Dano em HP → Energia (mais eficiente) | Syndicato (Steel Meridian) |
 
 ### Velocidade e Utilidade
 
 | Mod | Raridade | Efeito | Fonte |
 |---|---|---|---|
-| [[natural_talent\|Natural Talent]] | Raro | -Cast Time de habilidades | Drop geral |
+| [[mods/warframe/natural_talent.md\|Natural Talent]] | Raro | -Cast Time de habilidades | Drop geral |
 
----
 
-## Mods Umbral
+## Mods Umbral — Mods de Warframe — Índice
+
 
 O **Set Umbral** consiste em três mods que se combinam para bônus extras quando dois ou mais estão equipados:
 
 | Mod | Efeito Base | Bônus de Set |
 |---|---|---|
-| [[umbral_vitality\|Umbral Vitality]] | +HP | +HP e +Umbral Damage (2 mods) |
-| [[umbral_intensify\|Umbral Intensify]] | +Strength | +Strength e +Umbral Damage (2 mods) |
-| [[umbral_fiber\|Umbral Fiber]] | +Armor | +Armor e +Umbral Damage (2 mods) |
+| [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] | +HP | +HP e +Umbral Damage (2 mods) |
+| [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] | +Strength | +Strength e +Umbral Damage (2 mods) |
+| Umbral Fiber | +Armor | +Armor e +Umbral Damage (2 mods) |
 
 > [!note] Custo de Capacidade
 > Mods Umbral têm custo de capacidade muito alto. Equipar o set completo exige frame com Orokin Reactor e várias Formas instaladas — na prática, reservados para frames com polaridade Umbra (ω) pré-instalada, como Excalibur Umbra.
 
----
 
-## Augments de Frame
+## Augments de Frame — Mods de Warframe — Índice
+
 
 Augments são mods **exclusivos por habilidade de frame específico** que modificam o comportamento de uma habilidade (ex: Seeking Shuriken modifica Ash, Roar de Rhino modifica outros frames via Helminth). Obtidos em:
 
@@ -144,54 +143,54 @@ Augments são mods **exclusivos por habilidade de frame específico** que modifi
 > [!important]
 > Augments não aparecem neste índice individualmente — cada frame tem até 4 augments (um por habilidade). Consulte o arquivo individual do frame para os augments específicos.
 
----
 
-## Aura
+## Aura — Mods de Warframe — Índice
+
 
 Mods de Aura têm **polaridade Penjaga (=)** e ficam em slot exclusivo. O valor do mod é somado à capacidade total do frame — uma Aura de +18 aumenta a capacidade total de 30 para 48 (sem Reactor).
 
 | Mod | Raridade | Efeito | Sinergias |
 |---|---|---|---|
-| [[corrosive_projection\|Corrosive Projection]] | Incomum | -Armor dos inimigos | Meta contra Grineer (stack de 4 na squad) |
-| [[steel_charge\|Steel Charge]] | Comum | +Dano de arma branca | Builds de melee |
-| [[energy_siphon\|Energy Siphon]] | Incomum | Regeneração passiva de Energia (squad) | Frames com altas demandas de energia |
-| [[growing_power\|Growing Power]] | Incomum | +Strength ao aplicar Status | Syndicate (Cephalon Suda / New Loka) |
-| [[dead_eye\|Dead Eye]] | Incomum | +Dano de armas sniper | Builds sniper |
-| [[rifle_amp\|Rifle Amp]] | Comum | +Dano de rifles | Builds DPS |
-| [[pistol_amp\|Pistol Amp]] | Comum | +Dano de pistolas | Builds pistola |
-| [[rejuvenation\|Rejuvenation]] | Comum | Regeneração passiva de HP (squad) | Frames tanky |
-| [[enemy_radar\|Enemy Radar]] | Comum | Mostra inimigos no minimapa | QoL / stealth |
-| [[loot_detector\|Loot Detector]] | Incomum | Mostra recursos e drops no minimapa | Farm |
-| [[brief_respite\|Brief Respite]] | Incomum | Gasto de Energia restaura Shields | Shield-gating builds |
-| [[combat_discipline\|Combat Discipline]] | Raro | Kills de aliados +HP; mortes -HP | Builds específicas (suporte) |
-| [[empowered_blades\|Empowered Blades]] | Incomum | Status em branca aumentam dano | Syndicate (Steel Meridian) |
-| [[physique\|Physique]] | Comum | +HP da squad | Suporte |
+| [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] | Incomum | -Armor dos inimigos | Meta contra Grineer (stack de 4 na squad) |
+| [[mods/warframe/steel_charge.md\|Steel Charge]] | Comum | +Dano de arma branca | Builds de melee |
+| [[mods/warframe/energy_siphon.md\|Energy Siphon]] | Incomum | Regeneração passiva de Energia (squad) | Frames com altas demandas de energia |
+| [[mods/warframe/growing_power.md\|Growing Power]] | Incomum | +Strength ao aplicar Status | Syndicate (Cephalon Suda / New Loka) |
+| [[mods/warframe/dead_eye.md\|Dead Eye]] | Incomum | +Dano de armas sniper | Builds sniper |
+| [[mods/warframe/rifle_amp.md\|Rifle Amp]] | Comum | +Dano de rifles | Builds DPS |
+| [[mods/warframe/pistol_amp.md\|Pistol Amp]] | Comum | +Dano de pistolas | Builds pistola |
+| [[mods/warframe/rejuvenation.md\|Rejuvenation]] | Comum | Regeneração passiva de HP (squad) | Frames tanky |
+| [[mods/warframe/enemy_radar.md\|Enemy Radar]] | Comum | Mostra inimigos no minimapa | QoL / stealth |
+| [[mods/warframe/loot_detector.md\|Loot Detector]] | Incomum | Mostra recursos e drops no minimapa | Farm |
+| [[mods/warframe/brief_respite.md\|Brief Respite]] | Incomum | Gasto de Energia restaura Shields | Shield-gating builds |
+| [[mods/warframe/combat_discipline.md\|Combat Discipline]] | Raro | Kills de aliados +HP; mortes -HP | Builds específicas (suporte) |
+| [[mods/warframe/empowered_blades.md\|Empowered Blades]] | Incomum | Status em branca aumentam dano | Syndicate (Steel Meridian) |
+| [[mods/warframe/physique.md\|Physique]] | Comum | +HP da squad | Suporte |
 
----
 
-## Exilus (Warframe)
+## Exilus (Warframe) — Mods de Warframe — Índice
+
 
 Slot Exilus de Warframe só aceita mods de **mobilidade e utilidade**. Requer **Warframe Exilus Adapter** para desbloquear.
 
 | Mod | Raridade | Efeito |
 |---|---|---|
-| [[rush\|Rush]] | Comum | +Velocidade de corrida |
-| [[sprint_boost\|Sprint Boost]] | Comum | +Velocidade de sprint |
-| [[handspring\|Handspring]] | Comum | -Tempo de recuperação de knockdown |
-| [[mobilize\|Mobilize]] | Incomum | +Velocidade de parkour |
-| [[aviator\|Aviator]] | Incomum | -Dano recebido enquanto em ar |
-| [[cunning_drift\|Cunning Drift]] | Incomum | +Range de habilidades (menor que Stretch) |
-| [[power_drift\|Power Drift]] | Incomum | +Strength menor + knockdown resist |
-| [[coaction_drift\|Coaction Drift]] | Incomum | Amplifica efeito de Auras na squad |
-| [[vigilante_pursuit\|Vigilante Pursuit]] | Incomum | Radar de inimigos |
+| [[mods/warframe/rush.md\|Rush]] | Comum | +Velocidade de corrida |
+| [[mods/warframe/sprint_boost.md\|Sprint Boost]] | Comum | +Velocidade de sprint |
+| [[mods/warframe/handspring.md\|Handspring]] | Comum | -Tempo de recuperação de knockdown |
+| [[mods/warframe/mobilize.md\|Mobilize]] | Incomum | +Velocidade de parkour |
+| [[mods/warframe/aviator.md\|Aviator]] | Incomum | -Dano recebido enquanto em ar |
+| [[mods/warframe/cunning_drift.md\|Cunning Drift]] | Incomum | +Range de habilidades (menor que Stretch) |
+| [[mods/warframe/power_drift.md\|Power Drift]] | Incomum | +Strength menor + knockdown resist |
+| [[mods/warframe/coaction_drift.md\|Coaction Drift]] | Incomum | Amplifica efeito de Auras na squad |
+| [[mods/warframe/vigilante_pursuit.md\|Vigilante Pursuit]] | Incomum | Radar de inimigos |
 
----
 
-## Referências Cruzadas
+## 🔗 Relacionados — Mods de Warframe — Índice
+
 
 | Índice | Relação |
 |---|---|
-| [[_Mods _Indice\|Mods]] | Índice geral — sistema de mods |
-| [[_Mods Especiais _Indice\|Mods Especiais]] | Mods Corrupted, Primed, Umbral e Syndicate de warframe |
-| [[_Warframes _Indice\|Warframes]] | Frames que equipam estes mods |
-| [[_Sindicatos _Indice\|Sindicatos]] | Fonte de mods Syndicate e alguns Augments |
+| [[mods/_Mods _Indice.md\|Mods]] | Índice geral — sistema de mods |
+| [[mods/especiais/_Mods Especiais _Indice.md\|Mods Especiais]] | Mods Corrupted, Primed, Umbral e Syndicate de warframe |
+| [[warframes/_Warframes _Indice.md\|Warframes]] | Frames que equipam estes mods |
+| [[mecanicas/sindicatos/_Sindicatos _Indice.md\|Sindicatos]] | Fonte de mods Syndicate e alguns Augments |

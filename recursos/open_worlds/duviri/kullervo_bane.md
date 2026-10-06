@@ -1,10 +1,15 @@
 ---
 title: Kullervo's Bane
+aliases: [Kullervo's Bane, kullervo bane]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+resumo: "Kullervo's Bane — Recurso, farmado em Earned by confronting Kullervo and defeating the Orowyrm in the same Duviri mission during the Fear, Anger, or Sorrow spiral."
+status: completo
+rag: true
 tags: [recurso, open_world]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Kullervo%27s_Bane", "https://wiki.warframe.com/w/Module:Resources/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -19,9 +24,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “Kullervo's fury incarnate. Acrithis will trade this prized artifact for certain items from her collection.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Kullervo's Bane
+
 
 | Item | Valor |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **Não** |
 | Introduzido no Update | **33.5** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Kullervo's Bane
+
 
 **Locais que o próprio jogo lista:** Earned by confronting Kullervo and defeating the Orowyrm in the same Duviri mission during the Fear, Anger, or Sorrow spiral
 
@@ -58,16 +63,12 @@ No vault: [[locais/open-worlds/duviri.md|Duviri]].
 > [!warning] Booster não funciona neste recurso
 > Os dados da wiki marcam este item como **não afetado** por Resource Booster nem por Resource Drop Chance Booster. Boosters e frames de loot **não aceleram** o farm dele.
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Kullervo's Bane
+
 
 | Item | Quantidade |
 |---|---|
 | ⚠️ NÃO VERIFICADO | Nenhuma receita do `Module:Resources/data` lista este item como componente e a página da wiki não traz Item Checklist parseável. Ele pode ser usado em **trocas de sindicato** ou **consumido direto** — usos que não estão nesses dados. Confira em https://wiki.warframe.com/w/Kullervo%27s_Bane |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Kullervo%27s_Bane — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)

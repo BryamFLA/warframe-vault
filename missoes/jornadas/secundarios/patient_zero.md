@@ -1,9 +1,14 @@
 ---
 title: Patient Zero
+aliases: [Patient Zero]
 tipo: missao
 subtipo: jornada
+resumo: "Patient Zero — A quest que apresenta Mutalist Alad V: sabotando naves Infested para triangular a posição dele, o Tenno destrói o laboratório — e ele revela uma Mesa controlada pela Infestação."
+status: completo
+rag: true
 tags: [missao, jornada, secundaria]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Patient_Zero"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > A quest que apresenta Mutalist Alad V: sabotando naves Infested para triangular a posição dele, o Tenno destrói o laboratório — e ele revela uma Mesa controlada pela Infestação.
 
----
 
-## 📖 Narrativa e Pré-requisitos
+## 📖 Narrativa e Pré-requisitos — Patient Zero
+
 
 | Item | Detalhe |
 |---|---|
@@ -31,26 +36,26 @@ O [[lore/faccoes/tenno.md|Tenno]] tenta **triangular a localização de Alad sab
 
 A cepa **Mutalist** que Alad V criou é a primeira capaz de fazer a Infestação **assimilar inteligência artificial** diretamente — MOAs, Ospreys e até Cephalons, como no caso do [[lore/chefes/jordas_golem.md|Jordas Golem]]. Alad acabou **sucumbindo à própria criação**.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Patient Zero
+
 
 | Recompensa | Nota |
 |---|---|
 | **Mutalist Alad V Key** blueprint | Permite construir a chave do nó de Assassination dele |
 | (Via o chefe) **[[warframes/regular/mesa.md\|Mesa]]** | Chassis, Neuroptics ou Systems |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Patient Zero
+
 
 - A chave de **Mutalist Alad V** é construída com **Mutalist Alad V Nav Coordinates**, que caem em missões Infested — então o farm de Mesa é em duas etapas: coordenadas → chave → chefe.
 - **[[warframes/regular/mesa.md|Mesa]]** é, até hoje, uma das Warframes mais fortes do jogo: o **Peacemaker** resolve lutas em que o problema é **acertar um alvo pequeno em janela curta** — exatamente o caso de [[lore/chefes/sargas_ruk.md|Sargas Ruk]], [[lore/chefes/vay_hek.md|Vay Hek]] e [[lore/chefes/hemocyte.md|Hemocyte]].
 - Contra a facção Infested, leve **Heat ou Gas**; **evite Radiation e Viral**, que têm penalidade.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Patient Zero
+
 
 - **[[lore/chefes/alad_v.md|Alad V]]** — e a versão Mutalist dele.
 - **[[warframes/regular/mesa.md|Mesa]]** — a Warframe no fim do farm.
@@ -59,6 +64,3 @@ A cepa **Mutalist** que Alad V criou é a primeira capaz de fazer a Infestação
 - **[[locais/planetas/eris.md|Eris]]** — onde tudo acontece.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Patient_Zero (consultado em 2026-10-04)

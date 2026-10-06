@@ -1,8 +1,13 @@
 ---
 title: Thermia Fractures
+aliases: [Thermia Fractures]
 tipo: mecanica
+resumo: "Thermia Fractures — Evento de world state recorrente no Orb Vallis: selar fraturas térmicas com Coolant Canisters para acumular pontos (que nunca zeram entre edições) e Diluted Thermia, o item que invoca o Exploiter Orb."
+status: completo
+rag: true
 tags: [mecanica, evento, thermia-fractures, orb-vallis, exploiter-orb, amalgam]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Thermia_Fractures"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Evento de world state recorrente no Orb Vallis: selar fraturas térmicas com Coolant Canisters para acumular pontos (que **nunca zeram entre edições**) e **Diluted Thermia**, o item que invoca o Exploiter Orb.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Thermia Fractures
+
 
 As Thermia Fractures acontecem quando **refrigerante Orokin é bombeado no solo rápido demais**, causando um surto térmico que faz a **Thermia** — um líquido parecido com magma — irromper na superfície. A causa é o **Nef Anyo**, que quer lucro rápido fazendo o **[[lore/chefes/exploiter_orb.md\|Exploiter Orb]]** colher a Thermia da superfície. Mas as fraturas ameaçam torrar **Fortuna** inteira.
 
@@ -24,9 +29,9 @@ As Thermia Fractures acontecem quando **refrigerante Orokin é bombeado no solo 
 
 O ciclo é: **matar um Coolant Raknoid** para pegar um **Coolant Canister** → achar uma fratura (identificável de longe pela fissura jorrando líquido laranja) → **interagir com o canister** para iniciar uma defesa estilo Mobile Defense → defender até selar.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Thermia Fractures
+
 
 ```
 Selar 1 fratura com 1 canister = 3 minutos
@@ -64,9 +69,9 @@ PONTOS DO EVENTO:
 - O **Exploiter Orb pode ser invocado esteja o evento ativo ou não** — o único limite é quanta Diluted Thermia você tem. A invocação é no **Thermic Condenser**, no fundo do **Deck 12**.
 - **Canisters parcialmente cheios podem ser misturados:** 2 canisters numa fratura geram um canister meio cheio, que somado a um vazio em outra fratura completa 1 unidade.
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Thermia Fractures
+
 
 ### Os Burps e o que cada um faz
 
@@ -113,9 +118,9 @@ O bônus de Credits dobrados **dobra todos os Credits no fim da missão**, inclu
 | + Credit Booster + Credit Blessing (True Master's Font) | **1.400.000** |
 | + Loyal Retriever / Prosperous Retriever (o drop se divide em 5) | até **2.800.000** |
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Thermia Fractures
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -130,9 +135,9 @@ O bônus de Credits dobrados **dobra todos os Credits no fim da missão**, inclu
 | Pegar o canister | **Coolant Raknoid**, que acompanha o Exploiter Orb patrulhando o **Temple of Profit** |
 | Não perder progresso | Os pontos **nunca zeram** entre edições do evento — dá para fechar as 100 ao longo de várias rodadas |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Thermia Fractures
+
 
 - **"Perdi os pontos quando o evento acabou."** **Não.** Pontos **acumulam entre edições** e cada recompensa só é obtida uma vez.
 - **"Resource Booster dá mais pontos."** Dá mais **Diluted Thermia**, **não** pontos.
@@ -143,9 +148,9 @@ O bônus de Credits dobrados **dobra todos os Credits no fim da missão**, inclu
 - **"O resumo mostra o que selei nessa sessão."** Mostra o **total do evento**.
 - **"Full Control é o melhor estado."** Para **bônus de Credits**, não: o dobro de Credits vale no **Intermittent Control (35%+)**, e chegar a **Full Control encerra** o bônus.
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Thermia Fractures
+
 
 - [[mecanicas/eventos/_Eventos _Indice.md|Eventos]] — a visão geral dos eventos recorrentes.
 - [[mecanicas/sindicatos/solaris_united.md|Solaris United]] e [[mecanicas/sindicatos/vox_solaris.md|Vox Solaris]] — os dois sindicatos do Orb Vallis; a Eudico é quem conduz o evento.
@@ -162,6 +167,3 @@ O bônus de Credits dobrados **dobra todos os Credits no fim da missão**, inclu
 - [[mods/armas/barrel_diffusion.md|Barrel Diffusion]] — a versão normal do mod cuja variante Amalgam é a recompensa de 50 pontos.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Thermia_Fractures — origem das fraturas e papel do Nef Anyo, natureza recorrente do world state event, como obter Coolant Canister (Coolant Raknoid), mecânica de selagem (3 min, contador até 100, 25% por canister, janela de 30 s, +50 s por canister extra, teto de 175 unidades), tabela completa de Burps com condições, sistema de pontos (1 por canister, 3 por canister cheio, 7 por unidade), acúmulo de pontos entre edições, tabela de recompensas por pontos, invocação do Exploiter Orb no Thermic Condenser do Deck 12, bônus de Credits dobrados em Intermittent Control com os cálculos de Profit-Taker, dicas de Amesha e Vauban, Resource Booster não afetar pontos (consultado em 2026-10-04)

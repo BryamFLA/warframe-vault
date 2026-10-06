@@ -1,9 +1,14 @@
 ---
 title: Stolen Dreams
+aliases: [Stolen Dreams]
 tipo: missao
 subtipo: jornada
+resumo: "Stolen Dreams — A caça aos Arcane Codices: Grineer querem usá-los para curar a Cloning Decay Syndrome, o Corpus quer enriquecer com eles — e uma ladra chamada Maroo roubou uma peça."
+status: completo
+rag: true
 tags: [missao, jornada, secundaria]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Stolen_Dreams"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > A caça aos Arcane Codices: Grineer querem usá-los para curar a Cloning Decay Syndrome, o Corpus quer enriquecer com eles — e uma ladra chamada Maroo roubou uma peça.
 
----
 
-## 📖 Narrativa e Pré-requisitos
+## 📖 Narrativa e Pré-requisitos — Stolen Dreams
+
 
 | Item | Detalhe |
 |---|---|
@@ -31,9 +36,9 @@ Na busca, o jogador **captura uma ladra chamada Maroo**, que havia acabado de ro
 
 A Cloning Decay Syndrome mencionada aqui é o mesmo problema que **[[lore/chefes/tyl_regor.md|Tyl Regor]]** tenta resolver em Urano com os "tubemen" — e é a razão pela qual os Grineer estão sempre morrendo.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Stolen Dreams
+
 
 | Recompensa | Nota |
 |---|---|
@@ -41,17 +46,17 @@ A Cloning Decay Syndrome mencionada aqui é o mesmo problema que **[[lore/chefes
 | **Orokin Catalyst** blueprint | Dobra a capacidade de mods de uma arma |
 | **Weekly Ayatan Treasure Hunt** | A caça semanal de Maroo, no Maroo's Bazaar |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Stolen Dreams
+
 
 - O **Orokin Catalyst** (Potato azul) é um dos itens mais valiosos do começo do jogo — ele **dobra a capacidade de mods** de uma arma. Guarde para uma arma que você vai manter.
 - A **Ayatan Treasure Hunt** semanal de Maroo é fonte constante de **Ayatan Sculptures**, que trocam por **Endo** — o recurso para subir mods. Faça toda semana.
 - **Maroo's Bazaar** é também onde **Varzia** vende equipamento Prime (Prime Resurgence) — vale a visita.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Stolen Dreams
+
 
 - **[[missoes/jornadas/secundarios/the_new_strange.md|The New Strange]]** — a continuação direta.
 - **[[lore/chefes/tyl_regor.md|Tyl Regor]]** — a Cloning Decay Syndrome em contexto.
@@ -60,6 +65,3 @@ A Cloning Decay Syndrome mencionada aqui é o mesmo problema que **[[lore/chefes
 - **[[mecanicas/forma_e_polaridades.md|Forma e Polaridades]]** — onde o Orokin Catalyst entra.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Stolen_Dreams (consultado em 2026-10-04)

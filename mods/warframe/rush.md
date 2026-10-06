@@ -1,11 +1,16 @@
 ---
 title: Rush
+aliases: [Rush]
 tipo: mod
 categoria: warframe
-polaridade: Naramon
 raridade: incomum
+polaridade: Naramon
+resumo: "Rush — +30% Velocidade de Corrida Texto exato no jogo (inglês): +30% Sprint Speed."
+status: completo
+rag: true
 tags: [mod, warframe]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Rush", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Mods/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -17,9 +22,9 @@ agente: opus
 >
 > *Texto exato no jogo (inglês):* `+30% Sprint Speed`
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Rush
+
 
 | Item | Valor |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 | Transmutável | **Sim** |
 | Introduzido no Update | **lançamento do jogo (Update 0)** |
 
----
 
-## 📈 Efeito por Rank
+## 📈 Efeito por Rank — Rush
+
 
 <!-- Valores copiados da seção Stats da página do mod na wiki. Nenhum valor interpolado. -->
 
@@ -51,9 +56,9 @@ agente: opus
 > [!note] A drenagem sobe 1 por rank
 > Regra do jogo, visível na própria tabela: a drenagem no rank R é **6 + R**.
 
----
 
-## 🏗️ Onde Obter
+## 🌍 Onde Conseguir — Rush
+
 
 | Fonte | Tipo | Chance do mod na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -70,9 +75,9 @@ agente: opus
 
 **Faixa de preço em platina:** ⚠️ **estimativa não fornecida.** Pela seção 8 das convenções, preço de platina é mercado flutuante e não é registrado aqui. Consulte warframe.market no momento da compra.
 
----
 
-## 🛠️ Uso
+## 🛠️ Como Usar — Rush
+
 
 **Vale a pena?** **Geralmente sim.** Mod **Uncommon** — fácil de conseguir e normalmente parte do núcleo de uma build.
 
@@ -88,8 +93,3 @@ Os mods abaixo são **mutuamente exclusivos** com este — o jogo não deixa equ
 - **Flawed Rush**
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Rush — efeito por rank, polaridade, drenagem, raridade e incompatibilidades (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Mods/data — ficha do mod: tipo, classe, comercializável, transmutável, update de introdução (consultado em 2026-10-06)

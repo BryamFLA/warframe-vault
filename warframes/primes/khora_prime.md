@@ -1,29 +1,37 @@
 ---
 title: Khora Prime
+aliases: [Khora Prime]
 tipo: warframe
-status: nao-obtido
+resumo: Khora Prime — 1.
+status: stub
+rag: false
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Khora Prime
 
-> [!info] 
+> [!info]
 
-## 🏗️ Como Obter
+## 🏗️ Como Construir — Khora Prime
 
 
-## 🔮 Habilidades
+## 🔮 Habilidades — Khora Prime
+
 1. **Passiva:** 
 2. **Habilidade 1:** 
 3. **Habilidade 2:** 
 4. **Habilidade 3:** 
-5. **Habilidade 4:** 
+5. **Habilidade 4:**
 
-## 📊 Stats Base
+## 📊 Stats Base — Khora Prime
+
 - **Vida:**
 - **Escudos:**
 - **Armadura:**
 - **Energia:**
 - **Velocidade:**
 
-## ⚙️ Progressão e Conexões
-- **Mascote/Arma Assinatura:** 
+## 🔗 Relacionados — Khora Prime
+
+- **Mascote/Arma Assinatura:**

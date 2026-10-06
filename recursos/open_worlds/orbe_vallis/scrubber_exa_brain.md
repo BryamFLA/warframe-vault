@@ -1,10 +1,15 @@
 ---
 title: Scrubber Exa Brain
+aliases: [Scrubber Exa Brain]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+resumo: "Scrubber Exa Brain — Recurso do tipo fish part, 1 por drop."
+status: completo
+rag: true
 tags: [recurso, open_world, fish_part]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Scrubber_Exa_Brain", "https://wiki.warframe.com/w/Module:Resources/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -16,9 +21,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “A small, electronic brain capable of processing a billion giga-threads per second.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Scrubber Exa Brain
+
 
 | Item | Valor |
 |---|---|
@@ -33,9 +38,9 @@ agente: opus
 > [!note] Nota do jogo
 > Source: Dismantled from Scrubber servofish via The Business in Fortuna (Venus). Catch Scrubber in Orb Vallis caves during any weather. Also drops from resource containers across the Orb Vallis.
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Scrubber Exa Brain
+
 
 **Da seção de aquisição da wiki:** Exa Brains are acquired by dismantling Scrubbers caught through Fishing. Go to The Business in Fortuna, select the desired amount of Scrubbers available, and select the "Dismantle" option to extract the components. Each Scrubber yields one Exa Brain. Exa Brains can be found randomly in containers.
 
@@ -53,9 +58,9 @@ agente: opus
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Scrubber Exa Brain
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este recurso:
 
@@ -73,7 +78,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este recurso
 > Total de **8** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Scrubber_Exa_Brain — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)

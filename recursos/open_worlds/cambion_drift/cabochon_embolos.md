@@ -1,10 +1,15 @@
 ---
 title: Cabochon Embolos
+aliases: [Cabochon Embolos]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: open-world
+resumo: Cabochon Embolos is a resource crafted from Embolos.
+status: completo
+rag: true
 tags: [recurso, open_world]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Cabochon_Embolos"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -19,9 +24,9 @@ agente: opus
 > [!warning] Este item não está no `Module:Resources/data`
 > Ao contrário da maioria dos recursos do vault, este não tem entrada no módulo de dados de recursos da wiki — então **não há ficha estruturada** de raridade, quantidade por drop ou compatibilidade com booster para copiar. O que está abaixo vem do **texto da própria página** e do **`Module:DropTables/data`**. Os campos sem fonte ficam marcados.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Cabochon Embolos
+
 
 | Item | Valor |
 |---|---|
@@ -30,9 +35,9 @@ agente: opus
 | Quantidade por drop | ⚠️ NÃO VERIFICADO |
 | Afetado por boosters | ⚠️ NÃO VERIFICADO |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Cabochon Embolos
+
 
 **Da seção de aquisição da página:** The reusable blueprint can be purchased from Otak for 8,000 Standing 8,000, requiring Rank 3 - Associate with the Entrati.
 
@@ -50,9 +55,9 @@ agente: opus
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Cabochon Embolos
+
 
 Lista do **Item Checklist** da página da wiki — tudo que consome este item:
 
@@ -67,6 +72,3 @@ Lista do **Item Checklist** da página da wiki — tudo que consome este item:
 > Total de **5** itens registrados no checklist da wiki.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Cabochon_Embolos — descrição, forma de obtenção e Item Checklist (consultado em 2026-10-06)

@@ -1,11 +1,16 @@
 ---
-title: "Sweeper (não existe no jogo)"
+title: Sweeper (não existe no jogo)
+aliases: [Sweeper (não existe no jogo), Sweeper (nao existe no jogo), sweeper]
 tipo: mod
 categoria: companheiro
-polaridade: ⚠️ NÃO VERIFICADO
 raridade: ⚠️ NÃO VERIFICADO
+polaridade: ⚠️ NÃO VERIFICADO
+resumo: Sweeper (não existe no jogo) — conteúdo ainda não preenchido no vault.
+status: stub
+rag: false
 tags: [mod, inexistente]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/api.php?action=query&titles=Sweeper", "https://wiki.warframe.com/w/Module:Mods/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -20,13 +25,3 @@ agente: opus
 > Pela **seção 2 das convenções** (nunca criar, renomear ou apagar arquivos), o arquivo fica como está, documentando a ausência em vez de inventar conteúdo.
 
 ---
-
-## 💡 Pendência para o humano
-
-- **Decisão sua:** este arquivo pode ser **apagado** ou **renomeado** para um mod que exista de fato. Eu não faço nenhuma das duas coisas pela seção 2 das convenções.
-
----
-
-## 📚 Fontes
-- https://wiki.warframe.com/api.php?action=query&titles=Sweeper — confirmação de que a página não existe ou não descreve um mod (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Mods/data — ficha de todos os mods do jogo; nenhuma entrada com este nome (consultado em 2026-10-06)

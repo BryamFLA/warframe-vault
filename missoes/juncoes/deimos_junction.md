@@ -1,9 +1,14 @@
 ---
 title: Deimos — acesso (sem Junção)
+aliases: [Deimos — acesso (sem Junção), Deimos — acesso (sem Juncao), deimos junction]
 tipo: missao
 subtipo: juncao
+resumo: "Deimos não tem Junção: o caminho de Marte para Deimos é livre, e o que importa é completar Heart of Deimos para abrir o Cambion Drift."
+status: completo
+rag: true
 tags: [missao, juncao]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Junction", "https://wiki.warframe.com/w/Star_Chart"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -24,9 +29,9 @@ agente: opus
 >
 > Este arquivo existe no vault com nome de Junção, mas **não há Junção correspondente no jogo**. O conteúdo abaixo documenta **como o destino é realmente desbloqueado**.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Deimos — acesso (sem Junção)
+
 
 | Item | Detalhe |
 |---|---|
@@ -35,9 +40,9 @@ agente: opus
 | Guardião de Junção | **Não existe** |
 | Mastery de Junção | **Não se aplica** |
 
----
 
-## 🔓 Como o acesso realmente acontece
+## 🔓 Como o acesso realmente acontece — Deimos — acesso (sem Junção)
+
 
 O caminho de **[[locais/planetas/marte.md|Marte]] para Deimos é um dos três caminhos sem Junção** do Star Chart. O que realmente abre o conteúdo é a quest **[[missoes/jornadas/principais/heart_of_deimos.md|Heart of Deimos]]**, que dá acesso ao **Necralisk**, ao sindicato **[[mecanicas/sindicatos/entrati.md|Entrati]]** e às bounties do **[[locais/open-worlds/deimos.md|Cambion Drift]]**.
 
@@ -53,18 +58,18 @@ O caminho de **[[locais/planetas/marte.md|Marte]] para Deimos é um dos três ca
 > [!important] Deimos tem duas camadas
 > A superfície e o Cambion Drift são **[[lore/faccoes/infested.md|Infested]]** (Grey Strain, nível 12–35). Os **laboratórios subterrâneos de [[lore/personagens/albrecht_entrati.md|Albrecht]]**, abertos por [[missoes/jornadas/principais/whispers_in_the_walls.md|Whispers in the Walls]], são **[[lore/faccoes/murmur.md|The Murmur]]** em nível **55–60** — facção e matriz de dano completamente diferentes.
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Deimos — acesso (sem Junção)
+
 
 - Se você está procurando as Junções de verdade, elas são **13**: Vênus, Mercúrio, Marte, Phobos, Ceres, Júpiter, Europa, Saturno, Urano, Netuno, Plutão, Eris e Sedna. Cada uma dá **1.000 de Mastery**.
 - Junções podem ser usadas como **atalho** entre corpos celestes na navegação do Star Chart.
 - As tarefas de Junção **só impedem de lutar contra o Specter**, não de entrar na Junção. E **Specters podem ser escaneados** mesmo quando você não pode atacá-los.
 - Specters de Junção dão aproximadamente **2.000 de afinidade** ao morrer.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Deimos — acesso (sem Junção)
+
 
 - **[[locais/planetas/deimos.md|Deimos]]** e **[[locais/open-worlds/deimos.md|Cambion Drift]]** — o destino.
 - **[[missoes/jornadas/principais/heart_of_deimos.md|Heart of Deimos]]** — a quest que abre tudo.
@@ -73,7 +78,3 @@ O caminho de **[[locais/planetas/marte.md|Marte]] para Deimos é um dos três ca
 - **[[lore/chefes/zealoid_prelate.md|Zealoid Prelate]]** — o chefe de Exequias.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Junction (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Star_Chart (consultado em 2026-10-04)

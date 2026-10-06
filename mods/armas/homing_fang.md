@@ -1,11 +1,16 @@
 ---
 title: Homing Fang
+aliases: [Homing Fang]
 tipo: mod
 categoria: arma
-polaridade: Naramon
 raridade: incomum
+polaridade: Naramon
+resumo: "Homing Fang — Fast strikes, many hits."
+status: completo
+rag: true
 tags: [mod, arma]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Homing_Fang", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Mods/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -15,9 +20,9 @@ agente: opus
 > [!info] Efeito no rank máximo
 > **Fast strikes, many hits.**
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Homing Fang
+
 
 | Item | Valor |
 |---|---|
@@ -31,9 +36,9 @@ agente: opus
 | Transmutável | **Sim** |
 | Introduzido no Update | **13** |
 
----
 
-## 📈 Efeito por Rank
+## 📈 Efeito por Rank — Homing Fang
+
 
 | Rank | Efeito | Drenagem |
 |---|---|---|
@@ -42,9 +47,9 @@ agente: opus
 > [!warning] Tabela de ranks não publicada na seção Stats
 > A página da wiki deste mod não traz uma tabela `Rank / Effect / Cost` parseável. O efeito de rank máximo acima **é** verificado (vem dos dados da wiki), mas **os valores intermediários não foram confirmados** e, pela seção 8 das convenções, não são inventados aqui. Confira em https://wiki.warframe.com/w/Homing_Fang.
 
----
 
-## 🏗️ Onde Obter
+## 🌍 Onde Conseguir — Homing Fang
+
 
 | Fonte | Tipo | Chance do mod na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -56,9 +61,9 @@ agente: opus
 
 **Faixa de preço em platina:** ⚠️ **estimativa não fornecida.** Pela seção 8 das convenções, preço de platina é mercado flutuante e não é registrado aqui. Consulte warframe.market no momento da compra.
 
----
 
-## 🛠️ Uso
+## 🛠️ Como Usar — Homing Fang
+
 
 **Vale a pena?** **Geralmente sim.** Mod **Uncommon** — fácil de conseguir e normalmente parte do núcleo de uma build.
 
@@ -72,8 +77,3 @@ O efeito concreto no rank máximo é **Fast strikes, many hits.** — é por ess
 Nenhum mod é registrado como **mutuamente exclusivo** com este nos dados da wiki. A concorrência é pelo **slot** e pela **capacidade**, não por bloqueio do jogo.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Homing_Fang — efeito por rank, polaridade, drenagem, raridade e incompatibilidades (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Mods/data — ficha do mod: tipo, classe, comercializável, transmutável, update de introdução (consultado em 2026-10-06)

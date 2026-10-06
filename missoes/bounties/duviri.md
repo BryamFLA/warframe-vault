@@ -1,9 +1,14 @@
 ---
-title: "Bounties de Duviri (não existem — ver modos de jogo)"
+title: Bounties de Duviri (não existem — ver modos de jogo)
+aliases: [Bounties de Duviri (não existem — ver modos de jogo), Bounties de Duviri (nao existem — ver modos de jogo), duviri]
 tipo: missao
 subtipo: bounty
+resumo: "Bounties de Duviri (não existem — ver modos de jogo) — O mecanicas/incarnon.md|Incarnon Genesis Adapter da rotação semanal é a recompensa mais procurada de Duviri, e no Steel Path Circuit ela é fixa nos tiers 5 e 10 — duas escolhas por semana, não um sorteio."
+status: completo
+rag: true
 tags: [missao, bounty, duviri]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Bounty", "https://wiki.warframe.com/w/Duviri"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -15,9 +20,9 @@ agente: opus
 >
 > O que cumpre o papel de "conteúdo repetível com recompensa" em Duviri são **modos de jogo** selecionados na Navegação, descritos abaixo. Pela **seção 2 das convenções** (nunca criar, renomear ou apagar arquivos) este arquivo fica como está, documentando a ausência e apontando o conteúdo real.
 
----
 
-## 🎯 Os modos de jogo que ocupam esse lugar
+## 🎯 Os modos de jogo que ocupam esse lugar — Bounties de Duviri (não existem — ver modos de jogo)
+
 
 | Modo | Descrição in-game | O que é |
 |---|---|---|
@@ -28,9 +33,9 @@ agente: opus
 
 **Pré-requisito geral:** a jornada **[[missoes/jornadas/principais/the_duviri_paradox.md|The Duviri Paradox]]**.
 
----
 
-## ⚙️ A variante Steel Path de Duviri
+## ⚙️ A variante Steel Path de Duviri — Bounties de Duviri (não existem — ver modos de jogo)
+
 
 **Todos os modos de Duviri podem ser jogados com o modificador [[mecanicas/steel_path.md|Steel Path]].**
 
@@ -68,9 +73,9 @@ agente: opus
 > [!info] O Incarnon Genesis é o motivo de jogar o Circuit
 > O **[[mecanicas/incarnon.md|Incarnon Genesis Adapter]]** da rotação semanal é a recompensa mais procurada de Duviri, e no **Steel Path Circuit** ela é **fixa** nos tiers **5 e 10** — duas escolhas por semana, não um sorteio.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Bounties de Duviri (não existem — ver modos de jogo)
+
 
 | Local | Como acessar |
 |---|---|
@@ -78,24 +83,12 @@ agente: opus
 
 **Melhor modo para farmar:** **The Circuit no Steel Path**, pelos **Incarnon Genesis Adapters fixos nos tiers 5 e 10** e pelos **25 Steel Essence no tier 9**. Para **Pathos Clamps**, os bosses de **The Duviri Experience** / **The Lone Story** / **Isleweaver** no Steel Path, que dão **15 por run** mais **3 por Undercroft Portal**.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Bounties de Duviri (não existem — ver modos de jogo)
+
 
 Ver as tabelas da seção **"A variante Steel Path de Duviri"** acima — são as recompensas que a wiki afirma explicitamente.
 
 ⚠️ **NÃO VERIFICADO:** as tabelas de recompensa do **Circuit normal** (não-Steel Path), das **Mood Spirals**, dos **Duviri Enigmas** e das **Lost Islands** não foram consultadas nesta sessão.
 
 ---
-
-## 💡 Pendência para o humano
-
-- **Decisão sua:** este arquivo pode ser **apagado**, ou **renomeado** para algo que exista de fato — por exemplo `the_circuit.md`, já que **The Circuit não tem arquivo no vault** e é o modo mais relevante de Duviri. Eu não faço nenhuma das duas coisas pela seção 2 das convenções.
-- **Também faltam arquivos** para **The Duviri Experience**, **The Lone Story**, **Isleweaver**, **The Undercroft**, **Mood Spiral** e **Decree** — todos escritos em texto puro aqui, conforme a seção 3.
-- Vale notar que **`locais/open-worlds/duviri.md` existe** e é onde o conteúdo geral de Duviri deve morar.
-
----
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Bounty — a lista de locais com bounty board (Cetus, Fortuna, Necralisk, Deepmines, Chrysalith, Sanctum Anatomica, Höllvania Central Mall); Duviri ausente da lista (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Duviri — descrições in-game de The Duviri Experience, The Lone Story e The Circuit; Isleweaver; variante Steel Path com +20 de nível sem mudança de vida/escudo, requisitos de desbloqueio, recompensas fixas de boss, Undercroft Portals, Kullervo, Isleweaver, e a tabela do Steel Path Circuit (consultado em 2026-10-06)

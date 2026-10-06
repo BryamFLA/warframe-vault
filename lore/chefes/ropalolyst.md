@@ -1,9 +1,14 @@
 ---
 title: Ropalolyst
+aliases: [Ropalolyst]
 tipo: lore
 subtipo: chefe
+resumo: "Ropalolyst — O Sentient voador de Júpiter: a única luta do jogo em que você monta o chefe e o pilota contra as próprias torres de capacitor — e em que usar mobilidade errada faz ele desligar sua Transference."
+status: completo
+rag: true
 tags: [lore, chefe, sentient]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Ropalolyst", "https://wiki.warframe.com/w/Damage_2.0/Sentient_Tab"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Em uma linha
 > O Sentient voador de Júpiter: a única luta do jogo em que você **monta o chefe e o pilota** contra as próprias torres de capacitor — e em que usar mobilidade errada faz ele **desligar sua Transference**.
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Ropalolyst
+
 
 | Item | Valor |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Status atual na história | Ativo. Aparece também fora do nó de assassination, destruindo tiles |
 | Classificação | A Digital Extremes o chamou de **"Eidolon voador"**, mas **nenhum material no jogo o chama assim** — a classificação dele é desconhecida |
 
----
 
-## 📖 História
+## 📖 História — Ropalolyst
+
 
 O Ropalolyst é um Sentient de grande porte ligado à Gas City de Júpiter — o mesmo lugar onde [[lore/chefes/alad_v.md|Alad V]] cria os **Amalgams** com tecnologia Tau. A classificação dele é oficialmente ambígua: a Digital Extremes declarou que se trata de um **"Eidolon voador"**, mas **nenhum material dentro do jogo usa esse termo**, o que deixa a categoria em aberto.
 
@@ -35,9 +40,9 @@ Ele usa **Alloy Armor**, o mesmo tipo dos [[lore/chefes/eidolon_teralyst.md|Eido
 
 Fora do nó de assassination, o Ropalolyst pode ser visto **ocasionalmente ao ar livre no tileset da Gas City**, causando destruição no tile em que aparece e **deixando escombros no rastro antes de voar embora**. **Nesse estado ele não pode ser atacado.**
 
----
 
-## ⚔️ Combate
+## ⚔️ Combate — Ropalolyst
+
 
 | Item | Detalhe |
 |---|---|
@@ -82,9 +87,9 @@ Para o **Grab**: entrar em modo **Operator** é a saída imediata. Para a Alloy 
 
 **Frames recomendados:** [[warframes/regular/nova.md|Nova]] (Wormhole sobrevive ao Nullifying Scream por ser habilidade implantada), [[warframes/regular/volt.md|Volt]] (Electric Shield amplifica o dano do Operator, que é quem derruba o escudo), [[warframes/regular/rhino.md|Rhino]] (Iron Skin contra Giant Laser e Lasers), [[warframes/regular/trinity.md|Trinity]] (sobrevivência durante as fases de torre), [[warframes/regular/wisp.md|Wisp]] (apropriadamente, é a Warframe que ele dropa). **Evite** depender de [[warframes/regular/titania.md|Titania]] em Razorwing — ele agarra ela também.
 
----
 
-## 🔗 Relações
+## 🔗 Relacionados — Ropalolyst
+
 
 - **[[lore/chefes/eidolon_teralyst.md|Eidolons]]** — compartilham **Alloy Armor** e **Synovia**; a DE o chamou de "Eidolon voador", sem confirmação no jogo.
 - **[[lore/faccoes/sentient.md|Sentient]]** — a facção; o escudo só cai com Void, como em todo Sentient.
@@ -93,9 +98,9 @@ Para o **Grab**: entrar em modo **Operator** é a saída imediata. Para a Alloy 
 - **[[lore/personagens/hunhow.md|Hunhow]]** — a reprodução Sentient por fragmentação é o mecanismo que gera criaturas como ele.
 - **[[mecanicas/operator_e_focus.md|Operator e Focus]]** — o Void Beam é obrigatório nesta luta.
 
----
 
-## 🎮 Aparições no Jogo
+## 🎮 Aparições no Jogo — Ropalolyst
+
 
 | Quest / Conteúdo | Papel |
 |---|---|
@@ -106,7 +111,3 @@ Para o **Grab**: entrar em modo **Operator** é a saída imediata. Para a Alloy 
 | [[mecanicas/steel_path.md\|Steel Path]] | Versão de dificuldade elevada |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Ropalolyst (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Damage_2.0/Sentient_Tab (consultado em 2026-10-04)

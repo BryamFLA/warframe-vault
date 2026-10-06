@@ -1,8 +1,13 @@
 ---
 title: Platinum
+aliases: [Platinum]
 tipo: mecanica
+resumo: "Platinum — Moeda premium do Warframe: comprada com dinheiro real ou obtida tradeando com outros jogadores, e a única forma de pagar slots, cosméticos exclusivos, boosters e rush de forja."
+status: completo
+rag: true
 tags: [mecanica, platinum, economia, moeda-premium]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Platinum", "https://wiki.warframe.com/w/Trading"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -12,9 +17,9 @@ agente: opus
 > [!info] Em uma linha
 > Moeda premium do Warframe: comprada com dinheiro real ou obtida tradeando com outros jogadores, e a única forma de pagar slots, cosméticos exclusivos, boosters e rush de forja.
 
----
 
-## 🧩 Como Funciona
+## ⚙️ Como Funciona — Platinum
+
 
 Platinum é a moeda premium, introduzida na versão Vanilla (2012-10-25). **Não existe nenhuma forma de ganhar Platinum jogando normalmente** — as rotas são comprar com dinheiro real, tradear itens com outros jogadores, ou ganhar em sorteio oficial (DevStream na Twitch, concursos, promoções da Digital Extremes).
 
@@ -22,9 +27,9 @@ Quase todo Warframe e arma do jogo pode ser conseguido sem gastar Platinum: as v
 
 Existe uma distinção importante: **Personal Platinum** (não-tradeável) versus Platinum comum. Toda conta nasce com **50 de Personal Platinum**, que nunca pode ser tradeado ou presenteado — é a trava contra farmar Platinum criando contas novas. Ao comprar algo no Market, o jogo desconta **primeiro** do Personal Platinum.
 
----
 
-## 🔢 Fórmulas e Números
+## 🔢 Fórmulas e Números — Platinum
+
 
 ```
 Preço médio por Platinum (média entre todos os pacotes):
@@ -50,9 +55,9 @@ JPY  5,21       MXN  0,47
 - **Mod Drop Chance Booster não pode ser comprado** com Platinum — só existe como recompensa.
 - Trades por dia = seu [[mecanicas/mastery_rank.md\|Mastery Rank]] (Founders ganham +2).
 
----
 
-## 📋 Tabelas de Referência
+## 📋 Tabelas de Referência — Platinum
+
 
 ### Pacotes oficiais
 
@@ -120,9 +125,9 @@ JPY  5,21       MXN  0,47
 
 Warframes e armas prontas · Landing Craft e bundles · [[recursos/raridades/especial/orokin_catalyst.md|Orokin Catalyst]] e [[recursos/raridades/especial/orokin_reactor.md|Orokin Reactor]] · [[recursos/raridades/especial/forma.md|Forma]] e [[recursos/raridades/especial/aura_forma.md|Aura Forma]] · Exilus Warframe Adapter e Exilus Weapon Adapter · Mods e [[recursos/raridades/especial/endo.md|Endo]] · Requiem Relic packs · Incubator Power Core, Kavat Starter Kit, Kavat Genetic Code · skins, paletas de cor, decorações, animações, emotes.
 
----
 
-## 🛠️ Como Explorar na Prática
+## 🛠️ Como Usar na Prática — Platinum
+
 
 | Objetivo | O que fazer |
 |---|---|
@@ -133,9 +138,9 @@ Warframes e armas prontas · Landing Craft e bundles · [[recursos/raridades/esp
 | Testar arma cara antes de revender | Armas de sindicato e Prisma compradas prontas continuam tradeáveis mesmo recoloridas, com skin, com mods normais e usadas no Simulacrum — só **não** podem ganhar Affinity, Forma, Lens nem Catalyst |
 | Evitar golpe | A política oficial é só tradear **itens que aparecem na janela de trade**. Trade por favores, promessa ou vaga de clã não é protegido e viola os termos de uso |
 
----
 
-## ⚠️ Erros Comuns
+## ⚠️ Erros Comuns — Platinum
+
 
 - **"Dá para farmar Platinum na missão."** Não existe drop de Platinum em missão nenhuma. As rotas são compra, trade e sorteio.
 - **"Meus 50 pl iniciais dão para tradear."** Não. São **Personal Platinum**: travados contra trade e presente, para sempre.
@@ -146,9 +151,9 @@ Warframes e armas prontas · Landing Craft e bundles · [[recursos/raridades/esp
 - **"Tudo que importa precisa de Platinum."** Nenhum Warframe ou arma relevante é exclusivo de Platinum — exceto itens de Founder, evento, retirados e vaultados. O que realmente é exclusivo são slots e cosméticos.
 - **"Taxa de trade é em Platinum."** A taxa é sempre em **Credits** — inclusive quando o que você recebe é Platinum (500 Credits por unidade).
 
----
 
-## 🔗 Mecânicas Relacionadas
+## 🔗 Relacionados — Platinum
+
 
 - [[mecanicas/trading.md|Trading]] — a única rota de Platinum dentro do jogo, com as taxas em Credits e os limites por Mastery Rank.
 - [[mecanicas/forja.md|Forja]] — rush de construção e a fórmula de desconto a partir de 50%.
@@ -160,7 +165,3 @@ Warframes e armas prontas · Landing Craft e bundles · [[recursos/raridades/esp
 - [[recursos/raridades/especial/riven_mod.md|Riven Mod]] — slots extras custam 60 pl por 3, e Rivens são a principal mercadoria de Platinum caro.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Platinum — usos, preços de slot, renomear, boosters, custos de rush, tabela de pacotes por moeda, custo médio por Platinum, regras de Personal Platinum e da Nintendo Switch (consultado em 2026-10-04)
-- https://wiki.warframe.com/w/Trading — taxa de 500 Credits por unidade de Platinum tradeada, regra de tradeabilidade de armas compradas prontas (consultado em 2026-10-04)

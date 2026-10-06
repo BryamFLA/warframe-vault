@@ -1,10 +1,15 @@
 ---
 title: Emerald Archon Shard
+aliases: [Emerald Archon Shard, archon shard teal]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: planeta
+resumo: "Emerald Archon Shard — Recurso do tipo item, cuja melhor fonte confirmada é Temporal Archimedea (rot."
+status: completo
+rag: true
 tags: [recurso, planeta, item]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Emerald_Archon_Shard", "https://wiki.warframe.com/w/Module:Resources/data", "https://wiki.warframe.com/w/Module:DropTables/data"]
+atualizado: 2026-10-07
 verificado: false
 agente: opus
 ---
@@ -19,9 +24,9 @@ agente: opus
 >
 > *Texto de flavor no jogo (inglês):* “A source of anti-entropic radiation ideal for empowering synthetic lifeforms, most notably Archons and Warframes.”
 
----
 
-## 📊 Ficha
+## 📊 Ficha — Emerald Archon Shard
+
 
 | Item | Valor |
 |---|---|
@@ -32,9 +37,9 @@ agente: opus
 | Coletável pelo mod **Retriever** (Sentinel) | **⚠️ NÃO VERIFICADO** |
 | Introduzido no Update | **35** |
 
----
 
-## 🌍 Onde Farmar
+## 🌍 Onde Conseguir — Emerald Archon Shard
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -54,17 +59,12 @@ agente: opus
 | **Resource Booster** | **Dobra a quantidade** de recurso por drop |
 | **Resource Drop Chance Booster** | **Dobra a chance** de o recurso cair |
 
----
 
-## 🔨 Usado Em
+## 🔨 Usado Em — Emerald Archon Shard
+
 
 | Item | Quantidade |
 |---|---|
 | ⚠️ NÃO VERIFICADO | Nenhuma receita do `Module:Resources/data` lista este item como componente e a página da wiki não traz Item Checklist parseável. Ele pode ser usado em **trocas de sindicato** ou **consumido direto** — usos que não estão nesses dados. Confira em https://wiki.warframe.com/w/Emerald_Archon_Shard |
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Emerald_Archon_Shard — descrição, raridade, local e uso (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Resources/data — ficha do recurso: raridade, tipo, quantidade por drop, compatibilidade com boosters e com o mod Retriever, receita e usos (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:DropTables/data — fontes de drop e chances (consultado em 2026-10-06)

@@ -1,19 +1,25 @@
 ---
 title: Capacetes
+aliases: [Capacetes]
 tipo: cosmetico
-tags:
-  - cosmetico
-  - capacete
-atualizado: 2026-04-19
+resumo: Capacetes são variantes visuais do elmo de cada Warframe.
+status: parcial
+rag: true
+tags: [cosmetico, capacete]
+atualizado: 2026-10-07
+agente: opus
 ---
 
-## O que são Capacetes?
+# Capacetes
+
+## O que são Capacetes? — Capacetes
+
 
 Capacetes são variantes visuais do elmo de cada Warframe. Cada frame tem ao menos um capacete alternativo além do padrão. São 100% estéticos — nenhum capacete altera stats desde a rework de 2013.
 
----
 
-## Aquisição
+## 🌍 Onde Conseguir — Capacetes
+
 
 | Fonte | Método |
 |---|---|
@@ -23,9 +29,9 @@ Capacetes são variantes visuais do elmo de cada Warframe. Cada frame tem ao men
 | **Prime Accessories** | Capacetes Prime incluídos em pacotes de Prime Access |
 | **Crafting** | Blueprints de capacetes podiam ser adquiridos e construídos na Fundição (sistema descontinuado) |
 
----
 
-## Observações
+## 📝 Observações — Capacetes
+
 
 - Capacetes **Prime** têm design mais elaborado e são obtidos via Prime Accessories, não via Relíquias
 - Capacetes Tennogen têm qualidade variável — alguns são altamente votados pela comunidade

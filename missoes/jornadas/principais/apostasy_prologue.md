@@ -1,9 +1,14 @@
 ---
 title: Apostasy Prologue
+aliases: [Apostasy Prologue]
 tipo: missao
 subtipo: jornada
+resumo: "Apostasy Prologue — A quest curta em que Ballas leva a Lotus: revivendo os últimos momentos de Margulis antes da execução, o Tenno assiste ao encontro dos dois na câmara dela."
+status: completo
+rag: true
 tags: [missao, jornada, principal]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Apostasy_Prologue"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > A quest curta em que Ballas leva a Lotus: revivendo os últimos momentos de Margulis antes da execução, o Tenno assiste ao encontro dos dois na câmara dela.
 
----
 
-## 📖 Narrativa e Pré-requisitos
+## 📖 Narrativa e Pré-requisitos — Apostasy Prologue
+
 
 | Item | Detalhe |
 |---|---|
@@ -36,26 +41,26 @@ agente: opus
 >
 > A partir daqui, **a Lotus não guia mais as missões**: a voz do jogo muda, e é [[lore/personagens/ordis.md|Ordis]] e outros que assumem as transmissões até o arco se resolver.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Apostasy Prologue
+
 
 | Recompensa | Nota |
 |---|---|
 | — | **Nenhuma recompensa material.** A função é narrativa |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Apostasy Prologue
+
 
 - A quest é **muito curta** (poucos minutos) e sem combate relevante. Não planeje build.
 - Ela é **pré-requisito direto** de [[missoes/jornadas/principais/the_sacrifice.md|The Sacrifice]], que é onde está a revelação grande. Não pule.
 - O elmo da Lotus deixado nos Personal Quarters **volta a ser usado** como gatilho em [[missoes/jornadas/principais/the_sacrifice.md|The Sacrifice]] e em [[missoes/jornadas/principais/chimera_prologue.md|Chimera Prologue]].
 - Repare na mudança de voz nas missões depois dela: é uma das poucas vezes em que o jogo altera a experiência de rotina por causa da narrativa.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Apostasy Prologue
+
 
 - **[[lore/personagens/ballas.md|Ballas]]** — a primeira aparição oficial dele.
 - **[[lore/personagens/lotus.md|Lotus]]** — é levada aqui.
@@ -64,6 +69,3 @@ agente: opus
 - **[[locais/planetas/lua.md|Lua]]** — onde a visão acontece.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Apostasy_Prologue (consultado em 2026-10-04)

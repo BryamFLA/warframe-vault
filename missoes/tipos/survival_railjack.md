@@ -1,9 +1,14 @@
 ---
 title: Survival (Railjack)
+aliases: [Survival (Railjack), survival railjack]
 tipo: missao
 subtipo: tipo
+resumo: "Survival (Railjack) — Nó Empyrean lore/faccoes/corpus.md|Corpus em duas fases: limpar os objetivos espaciais com o Railjack, abordar a nave capital e sobreviver lá dentro com o suporte de vida decaindo, como num Survival normal."
+status: completo
+rag: true
 tags: [missao, tipo, railjack, empyrean]
-atualizado: 2026-10-06
+fontes: ["https://wiki.warframe.com/w/Empyrean", "https://wiki.warframe.com/w/Survival", "https://wiki.warframe.com/w/Module:Missions/data"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Nó Empyrean [[lore/faccoes/corpus.md|Corpus]] em duas fases: limpar os objetivos espaciais com o Railjack, abordar a nave capital e sobreviver lá dentro com o suporte de vida decaindo, como num Survival normal.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Survival (Railjack)
+
 
 | Item | Detalhe |
 |---|---|
@@ -29,9 +34,9 @@ agente: opus
 > [!info] Por que existe um arquivo separado do Survival normal
 > A fase em solo **se comporta identicamente a um Survival comum**: o suporte de vida **decai 1% a cada 1,5 segundo**, abates dropam **módulos pessoais que restauram 5%**, e a Lotus solta **cápsulas de suporte a cada 90 segundos** que restauram **30%**. O que muda é tudo o que vem **antes**: a fase Railjack, os requisitos de Intrinsics e a tabela de recompensas, que é a da Proxima e não a do planeta. Ver **[[missoes/tipos/survival.md|Survival]]** para os detalhes do modo base e suas variantes.
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Survival (Railjack)
+
 
 1. **Fase espacial.** Objetivos Empyrean iniciais: limpar **Points of Interest** e abater um número pequeno de **Crewships**.
 2. **Abordagem.** Todos entram na nave capital Corpus via Archwing. Quando **metade do squad** entra, dispara um **contador de 30 segundos**; ao fim dele os demais são **teleportados à força**.
@@ -44,9 +49,9 @@ agente: opus
 
 **Rotações de recompensa:** **endless** — recompensa a cada **5 minutos**, rotação **AABC** (5 e 10 min = A, 15 = B, 20 = C, e assim em diante).
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Survival (Railjack)
+
 
 | Planeta | Nó | Nível | Fighters | Pré-requisito |
 |---|---|---|---|---|
@@ -59,9 +64,9 @@ São as regiões Empyrean de **[[locais/planetas/venus.md|Vênus]]**, **[[locais
 
 **Melhor nó para farmar:** **Lu-yan** (Veil Proxima) — nível 55–59, a faixa mais alta do tipo, logo a tier mais alta de componente. **Luckless Expanse** (Venus Proxima) é o de entrada.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Survival (Railjack)
+
 
 | Recompensa | Rotação | Nota |
 |---|---|---|
@@ -72,9 +77,9 @@ São as regiões Empyrean de **[[locais/planetas/venus.md|Vênus]]**, **[[locais
 > [!warning] Tabela exata por nó não replicada aqui
 > Cada nó tem **DropTableAlias** próprio (`VenusProximaSurvival`, `NeptuneProximaSurvival`, `PlutoProximaSurvival`, `VeilProximaSurvival`). Pela seção 8 das convenções **não invento porcentagem** — consulte https://wiki.warframe.com/w/Empyrean para a tabela do nó.
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Survival (Railjack)
+
 
 - **A fase espacial consome suporte zero** — o timer de suporte só começa quando você hackeia o terminal dentro da nave. Não tenha pressa no espaço.
 - **Não ative cápsula com o suporte alto.** Cada cápsula dá **+30%** e o excedente é desperdiçado; o teto é 8 no mapa, então guardá-las é guardar tempo.
@@ -83,8 +88,3 @@ São as regiões Empyrean de **[[locais/planetas/venus.md|Vênus]]**, **[[locais
 - **Veja onde nascem as cápsulas antes de se afastar.** Nascem num raio de **~125 m** das torres de suporte; a nave Corpus é labiríntica e o caminho real até lá é bem maior que a distância em linha reta.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Empyrean — fase de abordagem, contador de 30 s, modos Corpus, invulnerabilidade do Railjack (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Survival — taxa de decaimento, módulos de 5%, cápsulas de 30% a cada 90 s, teto de 8 cápsulas, rotação (consultado em 2026-10-06)
-- https://wiki.warframe.com/w/Module:Missions/data — nós, níveis, fighters, pré-requisitos e DropTableAlias por nó (consultado em 2026-10-06)

@@ -1,11 +1,14 @@
 ---
 title: Plutão
+aliases: [Plutão, Plutao, Pluto]
 tipo: local
-status: nao-visitado
 faccao: Corpus
-tags:
-  - local
-atualizado: 2026-04-17
+resumo: Plutão — Mundo frio e distante com laboratórios Corpus.
+status: stub
+rag: false
+tags: [local]
+atualizado: 2026-10-07
+agente: opus
 ---
 
 # Plutão
@@ -13,24 +16,25 @@ atualizado: 2026-04-17
 > [!info] Visão Geral
 > Mundo frio e distante com laboratórios Corpus
 
-## Facção Principal
+## 🏴 Facção — Plutão
+
 - Corpus
 - Inimigos: Crewmen, MOAs, Ospreys
 
-## Missões Disponíveis
+## 🗺️ Missões — Plutão
+
 - Exterminate, Defense, Survival, Interception
 
-## Chefe
-- [[ambulas|Ambulas (Hades)]] — recompensa: [[mesa|Mesa]] partes
+## 👑 Chefe — Plutão
 
-## Recursos Notáveis
+- [[lore/chefes/ambulas.md|Ambulas (Hades)]] — recompensa: [[warframes/regular/mesa.md|Mesa]] partes
+
+## 💎 Recursos — Plutão
+
 - Nano Spores
 - Plastids
 - Circuits
 
-## Minha Progressão
-- [ ] Planeta desbloqueado
-- [ ] Chefe derrotado
+## 🔗 Relacionados — Plutão
 
-## Conexões
-- Chefe: [[ambulas|Ambulas]]
+- Chefe: [[lore/chefes/ambulas.md|Ambulas]]

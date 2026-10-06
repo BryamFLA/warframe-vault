@@ -1,9 +1,14 @@
 ---
 title: Infested Salvage
+aliases: [Infested Salvage]
 tipo: missao
 subtipo: tipo
+resumo: Liberar três consoles de dados cobertos por crescimento Infested usando bolhas de vaporizador alimentadas por Antiserum Charges — enquanto o ar corrói sua armadura e os consoles.
+status: completo
+rag: true
 tags: [missao, tipo]
-atualizado: 2026-10-04
+fontes: ["https://wiki.warframe.com/w/Infested_Salvage"]
+atualizado: 2026-10-07
 verificado: true
 agente: opus
 ---
@@ -13,9 +18,9 @@ agente: opus
 > [!info] Resumo
 > Liberar três consoles de dados cobertos por crescimento Infested usando bolhas de vaporizador alimentadas por Antiserum Charges — enquanto o ar corrói sua armadura e os consoles.
 
----
 
-## 🎯 Objetivo
+## 🎯 Objetivo — Infested Salvage
+
 
 | Item | Detalhe |
 |---|---|
@@ -25,9 +30,9 @@ agente: opus
 | Squad recomendado | Squad pequeno é **melhor**: mais jogadores = decriptação mais lenta |
 | Tipo | **Endless** |
 
----
 
-## ⚙️ Como Funciona
+## ⚙️ Como Funciona — Infested Salvage
+
 
 1. O objetivo é **achar o manifesto da nave** deixando a Lotus acessar **três consoles de dados** espalhados pela sala. Mas **cada console está coberto por crescimento Infested** que bloqueia o acesso.
 2. Para desbloquear, colete **Antiserum Charges** — contêineres cúbicos azuis brilhantes dropados por inimigos [[lore/faccoes/infested.md|Infested]].
@@ -44,9 +49,9 @@ agente: opus
 >
 > **A corrosão não ocorre dentro do raio de uma bolha de vaporizador**, e **os consoles regeneram vida devagar lá dentro**. As bolhas servem, portanto, a **duas funções**: habilitar a decriptação **e** proteger jogadores e consoles. Fora da sala principal, **não há corrosão**.
 
----
 
-## 🗺️ Onde Encontrar
+## 🗺️ Onde Encontrar — Infested Salvage
+
 
 | Onde | Detalhe |
 |---|---|
@@ -56,27 +61,27 @@ agente: opus
 
 **Melhor nó para farmar:** Infested Salvage é um dos tipos menos jogados, e por isso vale saber: **squad menor decripta mais rápido**. Solo ou duo é a configuração eficiente.
 
----
 
-## 🎁 Recompensas
+## 🎁 Recompensas — Infested Salvage
+
 
 | Recompensa | Rotação / Chance | Nota |
 |---|---|---|
 | Recompensa de rotação | Por manifesto decriptado | Rotação conforme o nó |
 | Recompensas de [[missoes/tipos/arbitration.md\|Arbitration]] | Por rotação | Substituem as normais |
 
----
 
-## 💡 Dicas
+## 💡 Dicas — Infested Salvage
+
 
 - **Fique dentro das bolhas.** Elas são o único lugar sem corrosão — e são o que mantém os consoles vivos. Sair da bolha para matar inimigos custa armadura.
 - **Mantenha as três bolhas alimentadas**: elas encolhem em **30 segundos** até deixar o console exposto. É um ciclo constante de coleta, não uma ação única.
 - **Squad pequeno decripta mais rápido.** Esse é um dos poucos tipos em que **ir solo é mecanicamente melhor**.
 - Frames **sem armadura para perder** sofrem menos com a corrosão de armadura, mas **ainda perdem vida** no estágio final — [[warframes/regular/inaros.md|Inaros]] e [[warframes/regular/nidus.md|Nidus]] aguentam melhor pela pool de vida.
 
----
 
-## 🔗 Relacionados
+## 🔗 Relacionados — Infested Salvage
+
 
 - **[[lore/faccoes/infested.md|Infested]]** — a facção e a matriz de dano.
 - **[[missoes/tipos/arbitration.md|Arbitration]]** — onde aparece com recompensa própria.
@@ -84,6 +89,3 @@ agente: opus
 - **[[mecanicas/dano_e_status.md|Dano e Status]]** — como Corrosive interage com armadura.
 
 ---
-
-## 📚 Fontes
-- https://wiki.warframe.com/w/Infested_Salvage (consultado em 2026-10-04)
