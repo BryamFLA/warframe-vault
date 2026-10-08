@@ -16,7 +16,7 @@ agente: opus
 > [!info] O que é
 > Primeiro Open World. Cetus é a cidade hub e Plains of Eidolon é o campo aberto na Terra.
 
-## 🚪 Como Chegar — Cetus / Plains of Eidolon — Cetus / Plains of Eidolon
+## 🚪 Como Chegar — Cetus / Plains of Eidolon
 
 
 - Pré-requisito: The Second Dream
@@ -31,13 +31,13 @@ agente: opus
 - Mineração
 - Crafting de Amps
 
-## Facção: Ostron — Cetus / Plains of Eidolon — Cetus / Plains of Eidolon
+## Facção: Ostron — Cetus / Plains of Eidolon
 
 
 - Moeda: Ostron Standing
 - Cap diário de standing: MR × 1.000
 
-## 💎 Recursos — Cetus / Plains of Eidolon — Cetus / Plains of Eidolon
+## 💎 Recursos — Cetus / Plains of Eidolon
 
 
 - Cetus Wisps
@@ -55,4 +55,4 @@ agente: opus
 ## 🔗 Relacionados — Cetus / Plains of Eidolon
 
 
-- Sistema: [[sistemas/plains-e-bounties|Plains & Bounties]]
+- Sistema: Plains & Bounties

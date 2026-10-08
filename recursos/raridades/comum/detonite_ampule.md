@@ -53,6 +53,6 @@ agente: gemini
 |---|---|
 | Detonite Injector (Dojo) | 10 |
 | [[armas/secundarias/brakk.md|Brakk]] | 50 |
-| [[armas/secundarias/kraken.md|Kraken]] | 60 |
+| Kraken | 60 |
 
 ---

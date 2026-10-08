@@ -16,7 +16,7 @@ agente: opus
 > [!info] O que é
 > Mundo surreal dentro do Void governado por Thrax. Roguelite com Warframes aleatórios.
 
-## 🚪 Como Chegar — Duviri — Duviri
+## 🚪 Como Chegar — Duviri
 
 
 - Pré-requisito: The Duviri Paradox (quest)
@@ -29,13 +29,13 @@ agente: opus
 - Duviri Proper (mundo aberto)
 - coleta de Intrinsics
 
-## Facção: — (Dominus Thrax) — Duviri — Duviri
+## Facção: — (Dominus Thrax) — Duviri
 
 
 - Moeda: Duviri Intrinsic
 - Cap diário de standing: MR × 1.000
 
-## 💎 Recursos — Duviri — Duviri
+## 💎 Recursos — Duviri
 
 
 - Pathos Clamp
@@ -51,4 +51,4 @@ agente: opus
 ## 🔗 Relacionados — Duviri
 
 
-- Sistema: [[sistemas/plains-e-bounties|Plains & Bounties]]
+- Sistema: Plains & Bounties

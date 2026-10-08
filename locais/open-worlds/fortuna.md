@@ -16,7 +16,7 @@ agente: opus
 > [!info] O que é
 > Segundo Open World em Vênus. Fortuna é o hub subterrâneo e Orb Vallis é o ambiente frio exterior.
 
-## 🚪 Como Chegar — Fortuna / Orb Vallis — Fortuna / Orb Vallis
+## 🚪 Como Chegar — Fortuna / Orb Vallis
 
 
 - Pré-requisito: Vênus desbloqueado
@@ -30,13 +30,13 @@ agente: opus
 - Crafting de Kitguns/Moas
 - Caça às Orb Mothers
 
-## Facção: Solaris United — Fortuna / Orb Vallis — Fortuna / Orb Vallis
+## Facção: Solaris United — Fortuna / Orb Vallis
 
 
 - Moeda: Solaris United Standing
 - Cap diário de standing: MR × 1.000
 
-## 💎 Recursos — Fortuna / Orb Vallis — Fortuna / Orb Vallis
+## 💎 Recursos — Fortuna / Orb Vallis
 
 
 - Debt-Bonds
@@ -54,4 +54,4 @@ agente: opus
 ## 🔗 Relacionados — Fortuna / Orb Vallis
 
 
-- Sistema: [[sistemas/plains-e-bounties|Plains & Bounties]]
+- Sistema: Plains & Bounties
