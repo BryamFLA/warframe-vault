@@ -142,42 +142,42 @@ Stances são mods de slot exclusivo que substituem completamente os ataques norm
 | [[mods/armas/iron_phoenix.md\|Iron Phoenix]] | Incomum | Espada | Drop geral |
 | [[mods/armas/vengeful_revenant.md\|Vengeful Revenant]] | Raro | Espada | Drop geral |
 | [[mods/armas/blind_justice.md\|Blind Justice]] | Raro | Nikana / Espada | Drop geral |
-| [[tranquil_cleave\|Tranquil Cleave]] | Incomum | Nikana | Drop geral |
-| [[decisive_judgement\|Decisive Judgement]] | Raro | Nikana | Drop geral |
+| Tranquil Cleave | Incomum | Nikana | Drop geral |
+| Decisive Judgement | Raro | Nikana | Drop geral |
 | [[mods/armas/eleventh_storm.md\|Eleventh Storm]] | Raro | Espadim (Rapier) | Drop geral |
 | [[mods/armas/pointed_wind.md\|Pointed Wind]] | Incomum | Espadim / Adaga | Drop geral |
 | [[mods/armas/tempo_royale.md\|Tempo Royale]] | Raro | Espada Pesada | Drop geral |
 | [[mods/armas/rending_crane.md\|Rending Crane]] | Incomum | Espada Pesada | Drop geral |
 | [[mods/armas/cleaving_whirlwind.md\|Cleaving Whirlwind]] | Raro | Espada Pesada | Drop geral |
 | [[mods/armas/swirling_tiger.md\|Swirling Tiger]] | Raro | Espadas Duplas | Drop geral |
-| [[crossing_snakes\|Crossing Snakes]] | Incomum | Espadas Duplas | Drop geral |
-| [[dividing_blades\|Dividing Blades]] | Raro | Espadas Duplas | Drop geral |
+| Crossing Snakes | Incomum | Espadas Duplas | Drop geral |
+| Dividing Blades | Raro | Espadas Duplas | Drop geral |
 | [[mods/armas/homing_fang.md\|Homing Fang]] | Raro | Adaga / Adagas Duplas | Drop geral |
-| [[gnashing_payara\|Gnashing Payara]] | Raro | Adagas Duplas | Drop geral |
+| Gnashing Payara | Raro | Adagas Duplas | Drop geral |
 | [[mods/armas/spinning_needle.md\|Spinning Needle]] | Raro | Adagas Duplas | Drop geral |
 | [[mods/armas/shimmering_blight.md\|Shimmering Blight]] | Incomum | Lança (Polearm) | Drop geral |
 | [[mods/armas/bleeding_willow.md\|Bleeding Willow]] | Raro | Lança (Polearm) | Drop geral |
-| [[typhoon_s_edge\|Typhoon's Edge]] | Raro | Lança (Polearm) | Drop geral |
+| Typhoon's Edge | Raro | Lança (Polearm) | Drop geral |
 | [[mods/armas/clashing_forest.md\|Clashing Forest]] | Incomum | Cajado (Staff) | Drop geral |
 | [[mods/armas/flailing_branch.md\|Flailing Branch]] | Incomum | Cajado (Staff) | Drop geral |
-| [[atlantas_struggle\|Atlantas Struggle]] | Raro | Nunchaku | Drop geral |
+| Atlantas Struggle | Raro | Nunchaku | Drop geral |
 | [[mods/armas/gemini_cross.md\|Gemini Cross]] | Raro | Tonfa | Drop geral |
 | [[mods/armas/sovereign_outcast.md\|Sovereign Outcast]] | Raro | Tonfa | Drop geral |
 | [[mods/armas/crushing_ruin.md\|Crushing Ruin]] | Raro | Martelo | Drop geral |
 | [[mods/armas/shattering_storm.md\|Shattering Storm]] | Incomum | Martelo | Drop geral |
 | [[mods/armas/vermillion_storm.md\|Vermillion Storm]] | Raro | Garras | Drop geral |
-| [[seismic_palm\|Seismic Palm]] | Incomum | Garras | Drop geral |
-| [[brutal_tide\|Brutal Tide]] | Raro | Garras | Drop geral |
+| Seismic Palm | Incomum | Garras | Drop geral |
+| Brutal Tide | Raro | Garras | Drop geral |
 | [[mods/armas/reaping_spiral.md\|Reaping Spiral]] | Raro | Foice (Scythe) | Drop geral |
 | [[mods/armas/stalking_fan.md\|Stalking Fan]] | Raro | Foice (Scythe) | Drop geral |
-| [[astral_twilight\|Astral Twilight]] | Raro | Glaive | Drop geral |
-| [[defiled_snapdragon\|Defiled Snapdragon]] | Raro | Chicote | Drop geral |
-| [[burning_wasp\|Burning Wasp]] | Incomum | Chicote | Drop geral |
+| Astral Twilight | Raro | Glaive | Drop geral |
+| Defiled Snapdragon | Raro | Chicote | Drop geral |
+| Burning Wasp | Incomum | Chicote | Drop geral |
 | [[mods/armas/wise_razor.md\|Wise Razor]] | Raro | Lâmina e Chicote | Drop geral |
 | [[mods/armas/final_harbinger.md\|Final Harbinger]] | Raro | Espada e Escudo | Drop geral |
-| [[bullet_dance\|Bullet Dance]] | Raro | Espingarda Melee | Drop geral |
-| [[high_noon\|High Noon]] | Raro | Espingarda Melee | Drop geral |
-| [[slicing_feathers\|Slicing Feathers]] | Raro | Leques (Warfan) | Drop geral |
+| Bullet Dance | Raro | Espingarda Melee | Drop geral |
+| High Noon | Raro | Espingarda Melee | Drop geral |
+| Slicing Feathers | Raro | Leques (Warfan) | Drop geral |
 
 
 ## Archwing — Mods de Armas — Índice
@@ -187,15 +187,15 @@ Mods de Archwing têm pool **completamente separado** — não se aplicam a arma
 
 | Mod | Raridade | Efeito | Fonte |
 |---|---|---|---|
-| [[dual_rounds\|Dual Rounds]] | Incomum | +Multishot — Arch-Gun | Drop Archwing |
-| [[automatic_trigger\|Automatic Trigger]] | Incomum | +Fire Rate — Arch-Gun | Drop Archwing |
-| [[charged_bullets\|Charged Bullets]] | Incomum | +Dano base — Arch-Gun | Drop Archwing |
-| [[explosive_payload\|Explosive Payload]] | Incomum | +Status Chance — Arch-Gun | Drop Archwing |
-| [[hollowed_bullets\|Hollowed Bullets]] | Raro | +Crit Chance — Arch-Gun | Drop Archwing |
+| Dual Rounds | Incomum | +Multishot — Arch-Gun | Drop Archwing |
+| Automatic Trigger | Incomum | +Fire Rate — Arch-Gun | Drop Archwing |
+| Charged Bullets | Incomum | +Dano base — Arch-Gun | Drop Archwing |
+| Explosive Payload | Incomum | +Status Chance — Arch-Gun | Drop Archwing |
+| Hollowed Bullets | Raro | +Crit Chance — Arch-Gun | Drop Archwing |
 | [[mods/armas/polar_coil.md\|Polar Coil]] | Incomum | +Frio — Arch-Gun | Drop Archwing |
-| [[orokin_reach\|Orokin Reach]] | Incomum | +Alcance — Arch-Melee | Drop Archwing |
-| [[elec_drain\|Elec Drain]] | Incomum | +Elétrico — Arch-Melee | Drop Archwing |
-| [[astral_slash\|Astral Slash]] | Incomum | +Slash — Arch-Melee | Drop Archwing |
+| Orokin Reach | Incomum | +Alcance — Arch-Melee | Drop Archwing |
+| Elec Drain | Incomum | +Elétrico — Arch-Melee | Drop Archwing |
+| Astral Slash | Incomum | +Slash — Arch-Melee | Drop Archwing |
 
 
 ## 🔗 Relacionados — Mods de Armas — Índice

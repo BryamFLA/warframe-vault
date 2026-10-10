@@ -88,8 +88,8 @@ Precept mods são **instruções comportamentais** — definem o que o companhei
 | [[mods/companheiros/mischief.md\|Mischief]] | Incomum | Precept | Smeeta — distrai inimigos | Drop geral |
 | [[mods/companheiros/tek_enhance.md\|Tek Enhance]] | Incomum | Precept | Smeeta — aumenta duração dos buffs de Charm | Drop geral |
 | [[mods/companheiros/sharpened_claws.md\|Sharpened Claws]] | Raro | Precept | **Adarza Kavat** — remove armor ao atacar inimigos | Drop geral |
-| [[reflect\|Reflect]] | Raro | Precept | Adarza — reflete dano recebido | Drop geral |
-| [[cat_s_eye\|Cat's Eye]] | Raro | Precept | Adarza — +Crit Chance para o operador por buffs | Drop geral |
+| Reflect | Raro | Precept | Adarza — reflete dano recebido | Drop geral |
+| Cat's Eye | Raro | Precept | Adarza — +Crit Chance para o operador por buffs | Drop geral |
 | [[mods/companheiros/bite.md\|Bite]] | Raro | Combate | +Crítico do Kavat | Drop geral |
 | [[mods/companheiros/pack_leader.md\|Pack Leader]] | Incomum | Cura | Finishers do operador curam o companheiro | Drop geral |
 
@@ -104,11 +104,11 @@ Precept mods são **instruções comportamentais** — definem o que o companhei
 |---|---|---|---|---|
 | [[mods/companheiros/fetch.md\|Fetch]] | Incomum | Precept | Atrai itens — equivalente ao Vacuum | Drop geral |
 | [[mods/companheiros/maul.md\|Maul]] | Incomum | Precept | **Raksa Kubrow** — +Dano do Kubrow | Drop geral |
-| [[protect\|Protect]] | Raro | Precept | Raksa — regenera Shields ao sofrer dano | Drop geral |
-| [[howl\|Howl]] | Incomum | Precept | Raksa — amedronta inimigos próximos | Drop geral |
-| [[dig\|Dig]] | Raro | Precept | **Sahasa Kubrow** — escava itens e recursos | Drop geral |
+| Protect | Raro | Precept | Raksa — regenera Shields ao sofrer dano | Drop geral |
+| Howl | Incomum | Precept | Raksa — amedronta inimigos próximos | Drop geral |
+| Dig | Raro | Precept | **Sahasa Kubrow** — escava itens e recursos | Drop geral |
 | [[mods/companheiros/loyal_companion.md\|Loyal Companion]] | Raro | Precept | Kubrow revive o operador uma vez por missão | Drop geral |
-| [[hunt\|Hunt]] | Incomum | Precept | **Sunika Kubrow** — persegue inimigos em fuga | Drop geral |
+| Hunt | Incomum | Precept | **Sunika Kubrow** — persegue inimigos em fuga | Drop geral |
 | [[mods/companheiros/bite.md\|Bite]] | Raro | Combate | +Crítico do Kubrow | Drop geral |
 | [[mods/companheiros/pack_leader.md\|Pack Leader]] | Incomum | Cura | Finishers do operador curam o companheiro | Drop geral |
 
@@ -123,7 +123,7 @@ Precept mods são **instruções comportamentais** — definem o que o companhei
 | [[mods/companheiros/thumper.md\|Thumper]] | Incomum | Precept | Derruba inimigos no chão | Drop Fortuna |
 | [[mods/companheiros/targeting_receptor.md\|Targeting Receptor]] | Incomum | Precept | +Dano em alvos marcados | Drop Fortuna |
 | [[mods/companheiros/anti_grav_array.md\|Anti-Grav Array]] | Incomum | Precept | Suspende inimigos no ar | Drop Fortuna |
-| [[shockwave_actuator\|Shockwave Actuator]] | Incomum | Precept | Onda de choque radial ao aterrissar | Drop Fortuna |
+| Shockwave Actuator | Incomum | Precept | Onda de choque radial ao aterrissar | Drop Fortuna |
 
 > [!note] MOAs modulares
 > MOAs são montados em Fortuna com componentes (Brace, Gyro, Loader, Weapon) — o conjunto de precepts disponíveis depende do Gyro selecionado.
@@ -137,7 +137,7 @@ Precept mods são **instruções comportamentais** — definem o que o companhei
 | [[mods/companheiros/fetch.md\|Fetch]] | Incomum | Precept | Atrai itens — equivalente ao Vacuum | Drop geral |
 | [[mods/companheiros/hound_bite.md\|Hound Bite]] | Incomum | Precept | Aplica status ao morder | Drop Parvos |
 | [[mods/companheiros/coda_defiance.md\|Coda Defiance]] | Incomum | Precept | Resistência a efeitos de status | Drop Parvos |
-| [[tenacious_bond\|Tenacious Bond]] | Raro | Precept | +Crit Chance das armas ao companheiro estar cheio de HP | Drop Parvos |
+| Tenacious Bond | Raro | Precept | +Crit Chance das armas ao companheiro estar cheio de HP | Drop Parvos |
 
 > [!note] Hounds modulares
 > Hounds são obtidos como subproduto do sistema de Irmãs de Parvos — cada Hound tem precepts determinados pela Irmã que o acompanhava.
