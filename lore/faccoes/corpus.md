@@ -1,6 +1,6 @@
 ---
 title: Corpus
-aliases: [Corpus]
+aliases: [Corpus, os Corpus, facção Corpus, história dos Corpus, lore dos Corpus, Parvos Granum]
 tipo: lore
 subtipo: faccao
 resumo: "Corpus — Confederação de corporações fundada por Parvos Granum que adora o Lucro, domina Vênus, Júpiter, Europa, Netuno e Plutão, e compensa a tropa fraca com escudos, proxies robóticos e tecnologia roubada de Orokin e Sentients."
@@ -32,6 +32,8 @@ agente: opus
 
 
 ## 📖 História — Corpus
+
+História dos Corpus (lore da facção), da origem ao presente:
 
 
 O Corpus nasceu de **Parvos Granum**, filho de camponeses que serviam aos [[lore/faccoes/orokin.md|Orokin]]. Revoltado com a distância entre senhores e trabalhadores, ele defendeu que qualquer pessoa, independente de classe, tinha direito de perseguir o próprio "Desejo". Depois de roubar dos Orokin e conseguir um empréstimo, Granum passou a emprestar parte da fortuna a outros, espalhando com cada transação a doutrina contra a complacência e a ociosidade. Fundou a cidade de Corposium e a Corpus Board of Directors. No começo os Orokin aceitaram o Corpus — durante a [[lore/cronologia/antiga_guerra.md|Antiga Guerra]] chegaram a dar a Granum uma Warframe como guarda-costas — mas depois passaram a condenar o grupo como "culto mercante".

@@ -1,6 +1,6 @@
 ---
 title: Cronologia do Universo Warframe
-aliases: [Cronologia do Universo Warframe, cronologia]
+aliases: [Cronologia do Universo Warframe, cronologia, História do Warframe, Resumo da história do jogo, Resumo da história do game, Lore do Warframe, Enredo do Warframe, História do jogo]
 tipo: lore
 subtipo: cronologia
 resumo: "Cronologia do Universo Warframe — Cinco eras: o Império Orokin que criou tudo, a Antiga Guerra que o quebrou, o Colapso que dividiu o Sistema, o Despertar dos Tenno, e a Nova Guerra — mais os Ecos do Vazio, que não são uma era e sim o que sempre esteve lá."
@@ -8,7 +8,7 @@ status: completo
 rag: true
 tags: [lore, cronologia]
 fontes: ["https://wiki.warframe.com/w/Quests", "https://wiki.warframe.com/w/Lore"]
-atualizado: 2026-10-07
+atualizado: 2026-10-12
 verificado: true
 agente: opus
 ---
@@ -20,6 +20,18 @@ agente: opus
 
 > [!warning] Spoilers de todas as quests principais
 
+
+## 📖 Resumo da História do Jogo — Warframe
+
+Resumo da história do game Warframe (a lore do jogo), do começo ao presente, em ordem cronológica.
+
+**O Império e a origem dos Tenno.** Há milênios o Sistema Origem era governado pelo **Império [[lore/faccoes/orokin.md|Orokin]]**, uma aristocracia que vivia para sempre trocando de corpo. Ao tentar colonizar o sistema **Tau**, o Império lançou a nave **Zariman Ten Zero**, que se perdeu no **Void**: os adultos enlouqueceram e só as crianças voltaram, com poderes do Void — os **[[lore/faccoes/tenno.md|Tenno]]**. Para preparar Tau, os Orokin criaram os **[[lore/faccoes/sentient.md|Sentients]]**, máquinas autorreplicantes que ganharam consciência e voltaram para destruir seus criadores.
+
+**A Antiga Guerra e o Colapso.** Os Sentients se adaptavam a qualquer arma, menos ao Void. Os Orokin então transformaram humanos infectados pela **[[lore/faccoes/infested.md|Infestação]]** (cepa Helminth) em **Warframes**, e os Tenno passaram a pilotá-las à distância pela **Transference**. Assim os Orokin venceram a guerra — mas, na cerimônia de paz, os Tenno, guiados pela Sentient **Natah** (que depois seria a **[[lore/personagens/lotus.md|Lotus]]**), **massacraram os Orokin**. O Império desabou; os clones escravos viraram os **[[lore/faccoes/grineer.md|Grineer]]**, a guilda mercante virou os **[[lore/faccoes/corpus.md|Corpus]]**, a Infestação se espalhou, e os Tenno foram postos em sono criogênico.
+
+**O Despertar (presente).** O jogador é um Tenno acordado pela Lotus em **[[missoes/jornadas/principais/vors_prize.md|Vor's Prize]]**, num Sistema dividido entre Grineer, Corpus e Infested. As quests revelam a verdade aos poucos: em **[[missoes/jornadas/principais/the_second_dream.md|The Second Dream]]** descobre-se que o Tenno é o **Operator**, uma criança do Zariman que controla a Warframe, e que a Lotus é filha do Sentient **[[lore/personagens/hunhow.md|Hunhow]]**. **[[missoes/jornadas/principais/the_sacrifice.md|The Sacrifice]]** mostra que cada Warframe foi uma pessoa. Em **[[missoes/jornadas/principais/the_new_war.md|The New War]]**, **[[lore/personagens/ballas.md|Ballas]]** e os Sentients (**Narmer**) invadem o Sistema e surge o **[[lore/personagens/the_drifter.md|Drifter]]**, uma versão adulta do Operator, cuja origem é contada em **[[missoes/jornadas/principais/the_duviri_paradox.md|The Duviri Paradox]]**.
+
+**Ecos do Void.** As histórias mais recentes — **[[missoes/jornadas/principais/whispers_in_the_walls.md|Whispers in the Walls]]** e **[[missoes/jornadas/principais/1999.md|1999]]** — giram em torno de **[[lore/personagens/albrecht_entrati.md|Albrecht Entrati]]**, o cientista que descobriu o Void, e da ameaça do **[[lore/faccoes/murmur.md|Murmur]]** e da entidade chamada **The Indifference**. Detalhe de cada fase nas seções e arquivos abaixo.
 
 ## 🕰️ Linha do Tempo — Cronologia do Universo Warframe
 

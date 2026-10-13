@@ -1,15 +1,15 @@
 ---
 title: Terra
-aliases: [Terra, Earth]
+aliases: [Terra, Earth, planeta Terra, Earth Proxima]
 tipo: local
 subtipo: planeta
 faccao: grineer
-resumo: "Terra — Primeiro planeta do jogo, Grineer, nível 1–25, 14 missões, boss Councilor Vay Hek (que dropa Hydroid); abriga Cetus, as Plains of Eidolon e as Junções de Vênus e Marte."
+resumo: "Terra — Primeiro planeta do jogo, Grineer, nível 1–25, 14 missões, boss Councilor Vay Hek (que dropa Hydroid); abriga Cetus, as Plains of Eidolon, Saya's Visions (Koumei), Earth Proxima (Railjack) e as Junções de Vênus e Marte. Farm: Hydroid, Koumei, Neurodes, Ferrite, Rubedo, Detonite, Cryotic."
 status: completo
 rag: true
 tags: [local, planeta, grineer]
 fontes: ["https://wiki.warframe.com/w/Earth", "https://wiki.warframe.com/w/Module:Missions/data", "https://wiki.warframe.com/w/Councilor_Vay_Hek", "https://wiki.warframe.com/w/Plains_of_Eidolon"]
-atualizado: 2026-10-08
+atualizado: 2026-10-12
 verificado: true
 agente: opus
 ---
@@ -39,6 +39,45 @@ agente: opus
 | Tilesets | **Grineer Forest**, **Grineer Sealab**, **Grineer Galleon**, **Plains of Eidolon**, **Cetus** |
 
 
+## 🎁 O Que Farmar na Terra — Terra
+
+Resumo de tudo que dá para fazer e farmar na Terra (missões, itens, Warframes, recursos):
+
+| O quê | Onde na Terra |
+|---|---|
+| **[[warframes/regular/hydroid.md\|Hydroid]]** (Warframe) | Boss **Councilor Vay Hek**, nó **Oro** (MR 5): Neuroptics 38,72%, Chassis 38,72%, Systems 22,56% |
+| **[[warframes/regular/koumei.md\|Koumei]]** (Warframe) + armas **Higasa** e **Amanata** | **Saya's Visions** (Shrine Defense, saindo de Cetus) |
+| **[[warframes/regular/gara.md\|Gara]]**, **[[warframes/regular/revenant.md\|Revenant]]**, **[[warframes/regular/caliban.md\|Caliban]]**, Furax Wraith, Arcanes, Amps, Zaws | **[[locais/open-worlds/cetus.md\|Cetus / Plains of Eidolon]]** (bounties, Eidolons, sindicatos Ostron e Quills) |
+| **Neurodes** (raro) | **Tikal** e **Coba** (Dark Sectors, +15% recurso) e caches de Sabotage em **Cervantes** |
+| **Cryotic** | Excavation em **Everest** (1–6) e **Tikal** — 100 por ciclo de escavação |
+| **Ferrite**, **Rubedo**, **Detonite Ampule** | Tabela de recurso do planeta; caches de **Cervantes** |
+| **Relíquias Lith** | Defense **Lith**, Interception **Gaia**, Excavation **Everest**, Spy **Cambria** |
+| **Relíquias Meso** | Defense **Lith** (rot. B/C), Interception **Gaia** (rot. B/C), Dark Sector **Coba** |
+| **Peças da Ivara** | Rotação C do Spy **Cambria** (Systems 22,56%) |
+| **Vapor Specter** e **Phase Specter** BP | Rescue **Pacific** |
+| **Mods de Archwing** (Polar Magazine, Superior Defenses…) | Mobile Defense de Archwing **Erpo** |
+| **Mods comuns** (Serration, Vitality, Pressure Point, Hornet Strike, Point Blank…) | Recompensas de rotação dos nós endless (Lith, Gaia, Everest, Coba) |
+| **Forma BP**, **Kubrow Egg**, mods Link (Kubrow) | Caches de Sabotage em **Cervantes** (chance baixa) |
+| **Railjack**: componentes Lavan/Vidar, Rivens, Endo | **Earth Proxima** (ver abaixo) |
+
+## 🚀 Earth Proxima (Railjack) — Terra
+
+A **Earth Proxima** é a região de espaço da Terra para missões de **Railjack** contra Grineer. Para pilotar a sua própria Railjack, conclua a quest **[[missoes/jornadas/principais/rising_tide.md|Rising Tide]]**; também dá para entrar na Railjack de outro jogador.
+
+| Nó | Tipo | Nível |
+|---|---|---|
+| Free Flight | Voo livre | 1 |
+| Sover Strait | Skirmish | 15–20 |
+| Iota Temple | Skirmish | 20–28 |
+| Beacon Shield Ring | Volatile | 17–20 |
+| Ogal Cluster | Skirmish | 21–26 |
+| Vesper Strait | Orphix | 21–24 |
+| Luckless Expanse | Survival | 22–25 |
+| Korm's Belt | Skirmish | 24–30 |
+| Bendar Cluster | Skirmish | 29–36 |
+
+Recompensas típicas: blueprints de componentes de Railjack **Lavan** e **Vidar** Mk I, Rifle/Pistol **Riven Mods**, Riven Sliver, Endo e Relíquias Lith. A Earth Proxima também abriga o nó **Technocyte Coda Concert** (Assassination, nível 100).
+
 ## 💎 Recursos — Terra
 
 
@@ -50,7 +89,7 @@ agente: opus
 | [[recursos/raridades/comum/detonite_ampule.md\|Detonite Ampule]] | Comum | **Coba** (Defense, Dark Sector) |
 
 > [!tip] Neurodes na Terra
-> **Neurodes** é recurso **raro** exigido em quase toda blueprint de Warframe, e a Terra é onde ele aparece primeiro. Os dois Dark Sectors — **Tikal** (Excavation) e **Coba** (Defense) — dão **+10% de recurso** além da tabela normal, o que faz deles o farm correto de Neurodes antes de Deimos e Eris.
+> **Neurodes** é recurso **raro** exigido em quase toda blueprint de Warframe, e a Terra é onde ele aparece primeiro. Os dois Dark Sectors — **Tikal** (Excavation) e **Coba** (Defense) — dão **+15% de recurso** além da tabela normal, o que faz deles o farm correto de Neurodes antes de Deimos e Eris.
 
 As **[[locais/open-worlds/cetus.md|Plains of Eidolon]]** têm tabela própria, com minério, gemas, peixes e os **Eidolon Shards** dos Teralysts noturnos.
 
@@ -59,7 +98,7 @@ As **[[locais/open-worlds/cetus.md|Plains of Eidolon]]** têm tabela própria, c
 
 | Nó | Tipo de missão | Nível | Por que importa |
 |---|---|---|---|
-| **Oro** | [[missoes/tipos/assassination.md\|Assassination]] | 20–25 | **[[lore/chefes/vay_hek.md\|Councilor Vay Hek]]**. Dropa as peças do **[[warframes/regular/hydroid.md\|Hydroid]]**. É de longe o nó de nível mais alto da Terra — não é um boss de início de jogo |
+| **Oro** | [[missoes/tipos/assassination.md\|Assassination]] | 20–25 | Exige **MR 5**. **[[lore/chefes/vay_hek.md\|Councilor Vay Hek]]**. Dropa as peças do **[[warframes/regular/hydroid.md\|Hydroid]]**. É de longe o nó de nível mais alto da Terra — não é um boss de início de jogo |
 | **E Prime** | [[missoes/tipos/exterminate.md\|Exterminate]] | 1–3 | **O primeiro nó do jogo**, onde a maioria dos Tenno dá o primeiro tiro |
 | **Everest** | [[missoes/tipos/excavation.md\|Excavation]] | 1–6 | Excavation de nível 1 — o jeito mais seguro de subir equipamento novo |
 | **Gaia** | [[missoes/tipos/interception.md\|Interception]] | 1–6 |  |
@@ -71,9 +110,9 @@ As **[[locais/open-worlds/cetus.md|Plains of Eidolon]]** têm tabela própria, c
 | **Pacific** | [[missoes/tipos/rescue.md\|Rescue]] | 3–6 |  |
 | **Cervantes** | [[missoes/tipos/sabotage.md\|Sabotage]] | 4–6 | **A porta da [[locais/planetas/lua.md\|Lua]]** — a conexão do Star Chart sai daqui, mas só abre depois de **[[missoes/jornadas/principais/the_second_dream.md\|The Second Dream]]** |
 | **Erpo** | [[missoes/tipos/mobile_defense.md\|Mobile Defense]] | 1–6 | **Nó de Archwing** em espaço aberto. Exige **[[missoes/jornadas/principais/the_archwing.md\|The Archwing]]** |
-| **Saya's Visions** | Shrine Defense | 5–15 | Modo **Shrine Defense** contra Infested, no tileset de Cetus. Não há arquivo próprio para esse tipo de missão no vault |
-| **Coba** | [[missoes/tipos/defense.md\|Defense]] | 6–16 | **Dark Sector** — Infested. **+10% de recurso**, **+10% de afinidade**, **+5% com Rifles**, **10.000 de crédito extra**. Farm clássico de Neurodes |
-| **Tikal** | [[missoes/tipos/excavation.md\|Excavation]] | 6–16 | **Dark Sector** — Infested, mesmos bônus. Excavation dá recurso por escavadeira concluída, o que o torna o melhor farm de Neurodes da Terra |
+| **Saya's Visions** | Shrine Defense | 5–15 | Modo **Shrine Defense** contra Infested, no tileset de Cetus. Dropa as peças da Warframe **[[warframes/regular/koumei.md\|Koumei]]** e das armas **Higasa** e **Amanata** (~4,09% cada) e Relíquias Meso |
+| **Coba** | [[missoes/tipos/defense.md\|Defense]] | 6–16 | **Dark Sector** — Infested. **+15% de recurso**, **+12% de afinidade**, **+8% com Melee**, **12.000 de crédito extra**. Farm clássico de Neurodes |
+| **Tikal** | [[missoes/tipos/excavation.md\|Excavation]] | 6–16 | **Dark Sector** — Infested, mesmos bônus do Coba. Exige a quest **Saya's Vigil**. Excavation dá recurso por escavadeira concluída, o que o torna o melhor farm de Neurodes da Terra |
 | **Plains of Eidolon** | Free Roam | 10–30 | **[[locais/open-worlds/cetus.md\|Plains of Eidolon]]** — primeiro open world do jogo. Bounties **[[mecanicas/sindicatos/ostron.md\|Ostron]]**, pesca, mineração, e os **Eidolons** à noite |
 
 

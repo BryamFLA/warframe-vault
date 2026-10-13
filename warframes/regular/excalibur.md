@@ -1,14 +1,14 @@
 ---
 title: Excalibur
-aliases: [Excalibur]
+aliases: [Excalibur, Excalibur Warframe, warframe Excalibur, Excal]
 tipo: warframe
 categoria: melee
-resumo: "Excalibur — Combatente melee com espada exaltada, cegueira e Slash Dash invulnerável; acessível no início e dependente de uma espada bem modificada no conteúdo avançado."
+resumo: "Excalibur — Warframe inicial (escolha no Awakening; blueprint no Mercado por 35.000 créditos e peças do Lech Kril em War, Marte). Combatente melee com espada exaltada, cegueira e Slash Dash invulnerável; acessível no início e dependente de uma espada bem modificada no conteúdo avançado."
 status: completo
 rag: true
 tags: [warframe]
 fontes: ["https://wiki.warframe.com/w/Excalibur", "https://wiki.warframe.com/w/Excalibur/Abilities", "https://wiki.warframe.com/w/Excalibur/Prime", "https://wiki.warframe.com/w/Excalibur/Cosmetics", "https://wiki.warframe.com/w/Warframe_Augment_Mods", "https://wiki.warframe.com/w/Helminth", "https://wiki.warframe.com/w/The_Circuit", "https://wiki.warframe.com/w/Vitality"]
-atualizado: 2026-10-07
+atualizado: 2026-10-12
 verificado: false
 agente: gpt
 ---
@@ -74,6 +74,23 @@ Custos-base de energia, antes de Eficiência. A passiva não consome energia; Ef
 
 Os sindicatos principais vendem seus augments no rank máximo de reputação por 25.000 de Standing cada. Augments de Conclave seguem oferta própria; não presumir o mesmo vendedor/preço. Nomes sem wikilink não possuem alvo próprio confirmado no índice do vault.
 
+
+## 🌍 Onde Conseguir — Excalibur
+
+Como conseguir o Warframe Excalibur — todas as formas:
+
+| Forma | Detalhe |
+|---|---|
+| **Escolha inicial** | É um dos 3 Warframes iniciais (com Mag e Volt) no tutorial **Awakening** |
+| **Blueprint principal** | **Mercado**, por **35.000 créditos** |
+| **Neuroptics, Chassis e Systems** | Drop do boss **[[lore/chefes/lech_kril.md\|Lieutenant Lech Kril]]** no nó **War, [[locais/planetas/marte.md\|Marte]]** (Assassination): Neuroptics **38,72%**, Chassis **38,72%**, Systems **22,56%** por kill (~2–4 kills em média) |
+| **The Circuit (Duviri)** | Após *The Duviri Paradox*: na semana em que Excalibur está na rotação, as recompensas do Circuit dão Neuroptics (tier 2), Chassis (5), Systems (8) e o Blueprint (10) |
+| **Teshin (Conclave)** | Pronto, por **60.000 de Standing** do Conclave, a partir do rank **Typhoon** |
+| **Platina** | Pronto no Mercado por **75 platina** — mais barato que acelerar a forja das peças |
+| **Excalibur Umbra** | Versão especial ganha na quest **[[missoes/jornadas/principais/the_sacrifice.md\|The Sacrifice]]** |
+| **Excalibur Prime** | Exclusivo do pacote Founders (2013); **não pode mais ser obtido** |
+
+Depois de juntar as 3 peças e o blueprint, forje na Foundry (custos e recursos na seção abaixo). Antes do Hotfix 22.8.3 (jan/2018) as peças caíam do Ambulas, em Plutão.
 
 ## 🏗️ Como Construir — Excalibur
 
