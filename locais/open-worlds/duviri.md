@@ -25,7 +25,7 @@ agente: opus
 |---|---|
 | **The Duviri Experience** | Run completa de uma **Spiral** de humor: missões no mundo aberto + **The Undercroft** + o boss **Orowyrm**. Rende **Pathos Clamps**, recursos e Decrees |
 | **The Lone Story** | Versão narrativa solo da Spiral, com o Drifter |
-| **The Circuit** | Modo **endless** no Undercroft com prêmios por tier. O **Circuit normal** dá **Warframes** de uma rotação semanal (peças nos tiers 2, 5, 8 e o blueprint no 10 — ex.: Excalibur, Mag, Titania, Inaros, Baruuk). O **Circuit Steel Path** dá **Incarnon Genesis** semanais para armas antigas ([[mecanicas/incarnon.md\|Incarnon]]) |
+| **[[mecanicas/the_circuit.md\|The Circuit]]** | Modo **endless** no Undercroft com prêmios por tier. O **Circuit normal** dá **Warframes** de uma rotação semanal (peças nos tiers 2, 5, 8 e o blueprint no 10 — ex.: Excalibur, Mag, Titania, Inaros, Baruuk). O **Circuit Steel Path** dá **Incarnon Genesis** semanais para armas antigas ([[mecanicas/incarnon.md\|Incarnon]]) |
 | **Isleweaver** | Modo da quest The Hex; dá os blueprints da Warframe **[[warframes/regular/oraxia.md\|Oraxia]]** e **Scuttler Husks** |
 | **Kullervo** | Boss na ilha **Kullervo's Hold** (Spirals de Raiva, Tristeza e Medo). Rende **[[recursos/open_worlds/duviri/kullervo_bane.md\|Kullervo's Bane]]**, trocado com a **Acrithis** pela Warframe **[[warframes/regular/kullervo.md\|Kullervo]]** |
 | **Steel Path de Duviri** | Versão difícil, com recompensas fixas e o Circuit SP |
@@ -65,7 +65,7 @@ Duviri é um paradoxo: um mundo nascido da mente do **Drifter**, a versão do Op
 
 ## 🔗 Relacionados — Duviri
 
-- [[missoes/bounties/duviri.md|Modos de jogo de Duviri]] — Steel Path e recompensas fixas
+- Modos de jogo de Duviri — Steel Path e recompensas fixas
 - [[lore/personagens/the_drifter.md|The Drifter]]
 - [[mecanicas/incarnon.md|Incarnon]]
 - [[locais/open-worlds/zariman.md|Zariman]] — onde fica o Dormizone

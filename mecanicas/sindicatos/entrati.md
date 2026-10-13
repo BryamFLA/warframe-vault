@@ -104,7 +104,7 @@ do Cambion Drift. 8 trocas disponíveis por vez, ciclando a cada 8 horas.
 
 | Vendedor | Catálogo |
 |---|---|
-| **Son** | **[[mecanicas/helminth.md\|Helminth Segment]]** (Rank 3, 15.000 Standing) e **Helminth Invigoration Segment** (Rank 5, 30.000 Standing) · tags e equipamento de conservação · companheiros **[[companheiros/kavat/panzer_vulpaphyla.md\|Panzer Vulpaphyla]]**, [[companheiros/kavat/crescent_vulpaphyla.md\|Crescent]], [[companheiros/kavat/pharaoh_vulpaphyla.md\|Pharaoh]], [[companheiros/kavat/vizier_predasite.md\|Vizier]], [[companheiros/kavat/medjay_predasite.md\|Medjay]] e [[companheiros/kavat/hyena_predasite.md\|Hyena Predasite]] |
+| **Son** | **[[mecanicas/helminth.md\|Helminth Segment]]** (Rank 3, 15.000 Standing) e **Helminth Invigoration Segment** (Rank 5, 30.000 Standing) · tags e equipamento de conservação · companheiros **[[companheiros/kavat/panzer_vulpaphyla.md\|Panzer Vulpaphyla]]**, [[companheiros/kavat/crescent_vulpaphyla.md\|Crescent]], [[companheiros/kavat/pharaoh_predasite.md\|Pharaoh]], [[companheiros/kavat/vizier_predasite.md\|Vizier]], [[companheiros/kavat/medjay_predasite.md\|Medjay]] e Hyena Predasite |
 | **Father** | Armas de Deimos · peças e armas de **Necramech** · mods |
 | **Daughter** | Lanças e iscas de pesca do Cambion Drift |
 | **Otak** | Equipamento de mineração do Cambion Drift |
@@ -121,7 +121,7 @@ do Cambion Drift. 8 trocas disponíveis por vez, ciclando a cada 8 horas.
 | Liberar o [[mecanicas/helminth.md\|Helminth]] | **Rank 3 (Associate)** + **MR 8**: Helminth Segment do Son por 15.000 Standing |
 | Liberar Invigoration | **Rank 5 (Family)** + MR 8: Helminth Invigoration Segment por 30.000 Standing |
 | Converter recurso em Token | **"Mend the Family"** da Grandmother troca recursos do Cambion Drift por Tokens. **8 trocas por vez, ciclando a cada 8 h** — vale checar duas ou três vezes por dia |
-| Pegar os companheiros de Deimos | Son vende **Vulpaphylas** (Panzer, Crescent, Pharaoh) e **Predasites** (Vizier, Medjay, Hyena). Exigem gilding para dar Mastery |
+| Pegar os companheiros de Deimos | Son vende **Vulpaphylas** (Panzer, Crescent, Sly) e **Predasites** (Vizier, Medjay, Pharaoh). Exigem gilding para dar Mastery |
 | Preparar o sacrifício do Rank 3 | 3 **Sly Vulpaphyla Tag** + 3 **Vizier Predasite Tag** — vêm de conservação, então comece a capturar cedo |
 | Economizar Credits | Diferente do Ostron, do Solaris United e da Vox Solaris, os ranks dos Entrati **não cobram Credits** |
 | Necramech | As peças e as armas de Necramech saem com o **Father**; os Necramechs em si vêm dos **Isolation Vaults** e da [[mecanicas/sindicatos/necraloid.md\|Necraloid]] |

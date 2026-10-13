@@ -58,7 +58,7 @@ agente: opus
 | **Orokin Sabotage** | Fechar um **Void Portal**, o que exige uma **Void Key** guardada por um **field boss** — **Sprag e Ven'kra Tel** (Grineer dominante) ou **Lynx** (Corpus dominante) |
 | **Reactor Sabotage** | Variante de nave |
 | **Sealab Sabotage** | Variante dos laboratórios submarinos de [[locais/planetas/urano.md\|Urano]] |
-| **[[missoes/tipos/sabotage_railjack.md\|Sabotage (Railjack)]]** | A versão Empyrean |
+| **Sabotage (Railjack)** | A versão Empyrean |
 
 
 ## 🗺️ Onde Encontrar — Sabotage
@@ -98,7 +98,7 @@ agente: opus
 ## 🔗 Relacionados — Sabotage
 
 
-- **[[missoes/tipos/sabotage_railjack.md|Sabotage (Railjack)]]** — a versão Empyrean.
+- **Sabotage (Railjack)** — a versão Empyrean.
 - **[[missoes/tipos/rescue.md|Rescue]]** — os mesmos orbes pulsantes aparecem na variante Infested.
 - **[[lore/chefes/captain_vor.md|Sprag e Ven'kra Tel]]** e **Lynx** — os field bosses de Orokin Sabotage.
 - **[[missoes/tipos/sortie.md|Sortie]]** — onde Sabotage aparece com frequência.

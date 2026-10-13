@@ -60,7 +60,7 @@ Ao contrário do resto da família, **Son aceita integralmente a própria nature
 - **[[lore/personagens/grandmother_entrati.md|Grandmother]]** — a avó, parte neutra na família.
 - **[[lore/personagens/loid.md|Loid]]** — o Necraloid que convocou o Tenno para reconciliar a família.
 - **[[lore/faccoes/infested.md|Infested]]** — ele é o único Entrati que **aceita** a própria condição Infested.
-- **[[companheiros/kavat/pharaoh_vulpaphyla.md|Vulpaphyla]]** e **[[companheiros/kavat/medjay_predasite.md|Predasite]]** — a fauna Infested de Deimos que ele estuda e cujos companheiros ele fornece.
+- **[[companheiros/kavat/pharaoh_predasite.md|Vulpaphyla]]** e **[[companheiros/kavat/medjay_predasite.md|Predasite]]** — a fauna Infested de Deimos que ele estuda e cujos companheiros ele fornece.
 
 
 ## 🎮 Aparições no Jogo — Son

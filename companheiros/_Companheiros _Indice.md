@@ -101,10 +101,10 @@ Companheiros contribuem com **Affinity de Mastery** ao atingir Rank 30:
 |---|---|
 | [[companheiros/kavat/adarza.md\|Adarza Kavat]] | nao-obtido |
 | [[companheiros/kavat/crescent_vulpaphyla.md\|Crescent Vulpaphyla]] | nao-obtido |
-| [[companheiros/kavat/hyena_predasite.md\|Hyena Predasite]] | nao-obtido |
+| Hyena Predasite | nao-obtido |
 | [[companheiros/kavat/medjay_predasite.md\|Medjay Predasite]] | nao-obtido |
 | [[companheiros/kavat/panzer_vulpaphyla.md\|Panzer Vulpaphyla]] | nao-obtido |
-| [[companheiros/kavat/pharaoh_vulpaphyla.md\|Pharaoh Vulpaphyla]] | nao-obtido |
+| [[companheiros/kavat/pharaoh_predasite.md\|Pharaoh Vulpaphyla]] | nao-obtido |
 | [[companheiros/kavat/smeeta.md\|Smeeta Kavat]] | nao-obtido |
 | [[companheiros/kavat/vasca.md\|Vasca Kavat]] | nao-obtido |
 | [[companheiros/kavat/venari.md\|Venari]] | nao-obtido |
@@ -117,12 +117,12 @@ Companheiros contribuem com **Affinity de Mastery** ao atingir Rank 30:
 
 | Companheiro | Status |
 |---|---|
-| [[companheiros/moa/balla.md\|Balla MOA]] | nao-obtido |
-| [[companheiros/moa/drex.md\|Drex MOA]] | nao-obtido |
+| Balla MOA | nao-obtido |
+| Drex MOA | nao-obtido |
 | [[companheiros/moa/lambeo.md\|Lambeo MOA]] | nao-obtido |
 | [[companheiros/moa/oloro.md\|Oloro MOA]] | nao-obtido |
 | [[companheiros/moa/para.md\|Para MOA]] | nao-obtido |
-| [[companheiros/moa/stratus.md\|Stratus MOA]] | nao-obtido |
+| Stratus MOA | nao-obtido |
 
 
 ### Hounds — Irmãs de Parvos (7)
@@ -134,10 +134,10 @@ Companheiros contribuem com **Affinity de Mastery** ao atingir Rank 30:
 | [[companheiros/hound/bhaira.md\|Bhaira Hound]] | nao-obtido |
 | [[companheiros/hound/dorma.md\|Dorma Hound]] | nao-obtido |
 | [[companheiros/hound/hec.md\|Hec Hound]] | nao-obtido |
-| [[companheiros/hound/lega.md\|Lega Hound]] | nao-obtido |
-| [[companheiros/hound/orm.md\|Orm Hound]] | nao-obtido |
-| [[companheiros/hound/tauga.md\|Tauga Hound]] | nao-obtido |
-| [[companheiros/hound/voca.md\|Voca Hound]] | nao-obtido |
+| Lega Hound | nao-obtido |
+| Orm Hound | nao-obtido |
+| Tauga Hound | nao-obtido |
+| Voca Hound | nao-obtido |
 
 
 ## Por Função — Companheiros - Índice
@@ -159,10 +159,10 @@ Companheiros contribuem com **Affinity de Mastery** ao atingir Rank 30:
 [[companheiros/kubrow/sunika.md|Sunika Kubrow]] · [[companheiros/kavat/venari.md|Venari]] · [[companheiros/sentinel/wyrm.md|Wyrm]] · [[companheiros/sentinel/wyrm_prime.md|Wyrm Prime]]
 
 ### Modulares (Fortuna / Parvos)
-[[companheiros/moa/lambeo.md|Lambeo MOA]] · [[companheiros/moa/oloro.md|Oloro MOA]] · [[companheiros/moa/para.md|Para MOA]] · [[companheiros/moa/stratus.md|Stratus MOA]] · [[companheiros/moa/balla.md|Balla MOA]] · [[companheiros/moa/drex.md|Drex MOA]] · [[companheiros/hound/bhaira.md|Bhaira Hound]] · [[companheiros/hound/lega.md|Lega Hound]] · [[companheiros/hound/orm.md|Orm Hound]]
+[[companheiros/moa/lambeo.md|Lambeo MOA]] · [[companheiros/moa/oloro.md|Oloro MOA]] · [[companheiros/moa/para.md|Para MOA]] · Stratus MOA · Balla MOA · Drex MOA · [[companheiros/hound/bhaira.md|Bhaira Hound]] · Lega Hound · Orm Hound
 
 ### Deimos (Infestados)
-[[companheiros/kavat/panzer_vulpaphyla.md|Panzer Vulpaphyla]] · [[companheiros/kavat/crescent_vulpaphyla.md|Crescent Vulpaphyla]] · [[companheiros/kavat/pharaoh_vulpaphyla.md|Pharaoh Vulpaphyla]] · [[companheiros/kavat/medjay_predasite.md|Medjay Predasite]] · [[companheiros/kavat/vizier_predasite.md|Vizier Predasite]] · [[companheiros/kavat/hyena_predasite.md|Hyena Predasite]]
+[[companheiros/kavat/panzer_vulpaphyla.md|Panzer Vulpaphyla]] · [[companheiros/kavat/crescent_vulpaphyla.md|Crescent Vulpaphyla]] · [[companheiros/kavat/pharaoh_predasite.md|Pharaoh Vulpaphyla]] · [[companheiros/kavat/medjay_predasite.md|Medjay Predasite]] · [[companheiros/kavat/vizier_predasite.md|Vizier Predasite]] · Hyena Predasite
 
 
 ## 💡 Curiosidades — Companheiros - Índice

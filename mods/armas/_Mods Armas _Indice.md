@@ -51,7 +51,7 @@ A **ordem de equipamento** dos mods elementais determina quais elementos são co
 | Mod | Raridade | Efeito | Fonte |
 |---|---|---|---|
 | [[mods/armas/serration.md\|Serration]] | Comum | +Dano base de rifle | Drop geral |
-| [[mods/armas/primed_serration.md\|Primed Serration]] | Primed | +Dano base muito elevado | Baro Ki'Teer |
+| Primed Serration | Primed | +Dano base muito elevado | Baro Ki'Teer |
 | [[mods/armas/split_chamber.md\|Split Chamber]] | Incomum | +Multishot — projéteis extras por disparo | Drop geral |
 | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] | Incomum | +Multishot + chance de upgrade de crítico | Drop geral (set Vigilante) |
 | [[mods/armas/point_strike.md\|Point Strike]] | Incomum | +Chance de crítico | Drop geral |
@@ -192,7 +192,7 @@ Mods de Archwing têm pool **completamente separado** — não se aplicam a arma
 | Charged Bullets | Incomum | +Dano base — Arch-Gun | Drop Archwing |
 | Explosive Payload | Incomum | +Status Chance — Arch-Gun | Drop Archwing |
 | Hollowed Bullets | Raro | +Crit Chance — Arch-Gun | Drop Archwing |
-| [[mods/armas/polar_coil.md\|Polar Coil]] | Incomum | +Frio — Arch-Gun | Drop Archwing |
+| Polar Coil | Incomum | +Frio — Arch-Gun | Drop Archwing |
 | Orokin Reach | Incomum | +Alcance — Arch-Melee | Drop Archwing |
 | Elec Drain | Incomum | +Elétrico — Arch-Melee | Drop Archwing |
 | Astral Slash | Incomum | +Slash — Arch-Melee | Drop Archwing |

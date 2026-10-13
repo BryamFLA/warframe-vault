@@ -151,7 +151,7 @@ Cada Open World tem ecossistema próprio — coletados por coleta manual, minera
 | [[recursos/open_worlds/eidolon/fersteel.md\|Fersteel]] | Comum | Mineração | Minério básico |
 | [[recursos/open_worlds/eidolon/intact_sentient_core.md\|Intact Sentient Core]] | Comum | Vomvalysts | Drop básico de Sentient pequeno |
 | [[recursos/open_worlds/eidolon/murkray_liver.md\|Murkray Liver]] | Comum | Pesca — Murkray | — |
-| [[recursos/open_worlds/eidolon/murkray_bladder.md\|Murkray Bladder]] | Comum | Pesca — Murkray | — |
+| Murkray Bladder | Comum | Pesca — Murkray | — |
 | [[recursos/open_worlds/eidolon/sharrac_tegmen.md\|Sharrac Tegmen]] | Comum | Pesca — Sharrac | — |
 | [[recursos/open_worlds/eidolon/yogwun_stomach.md\|Yogwun Stomach]] | Comum | Pesca — Yogwun | — |
 | [[recursos/open_worlds/eidolon/karkina_antenna.md\|Karkina Antenna]] | Comum | Pesca — Karkina | — |
@@ -168,13 +168,13 @@ Cada Open World tem ecossistema próprio — coletados por coleta manual, minera
 | [[recursos/open_worlds/eidolon/auron.md\|Auron]] | Raro | Mineração | — |
 | [[recursos/open_worlds/eidolon/devar.md\|Devar]] | Raro | Mineração | — |
 | [[recursos/open_worlds/eidolon/flawless_sentient_core.md\|Flawless Sentient Core]] | Raro | Vomvalysts | — |
-| [[recursos/open_worlds/eidolon/radiant_sentient_core.md\|Radiant Sentient Core]] | Raro | Vomvalysts | Versão mais rara |
+| Radiant Sentient Core | Raro | Vomvalysts | Versão mais rara |
 | [[recursos/open_worlds/eidolon/eidolon_shard.md\|Eidolon Shard]] | Raro | Teralyst | Progressão do Operator |
 | [[recursos/open_worlds/eidolon/brilliant_eidolon_shard.md\|Brilliant Eidolon Shard]] | Raro | Gantulyst | Versão superior |
 | [[recursos/open_worlds/eidolon/radiant_eidolon_shard.md\|Radiant Eidolon Shard]] | Raro | Hydrolyst | Versão mais poderosa |
 | [[recursos/open_worlds/eidolon/breath_of_the_eidolon.md\|Breath of the Eidolon]] | Raro | Todos os Eidolons | Crafting avançado |
 | [[recursos/open_worlds/eidolon/mawfish_bones.md\|Mawfish Bones]] | Raro | Pesca — Mawfish | Peixe raro |
-| [[recursos/open_worlds/eidolon/glappid_scale.md\|Glappid Scale]] | Raro | Pesca — Glappid | Peixe de isca especial |
+| Glappid Scale | Raro | Pesca — Glappid | Peixe de isca especial |
 
 
 ### Orbe Vallis (Vênus)
@@ -184,15 +184,15 @@ Cada Open World tem ecossistema próprio — coletados por coleta manual, minera
 |---|---|---|---|
 | [[recursos/open_worlds/orbe_vallis/venerdo.md\|Venerdo]] | Comum | Coleta em campo | Espalhado pela Vallis |
 | [[recursos/open_worlds/orbe_vallis/gorgaricus_spore.md\|Gorgaricus Spore]] | Comum | Coleta em campo | Fungos específicos |
-| [[recursos/railjack/aucrumite.md\|Aucrumite]] | Comum | Mineração | Minério básico |
+| Aucrumite | Comum | Mineração | Minério básico |
 | [[recursos/railjack/coprun.md\|Coprun]] | Comum | Mineração | Minério básico |
 | [[recursos/open_worlds/orbe_vallis/training_debt_bond.md\|Training Debt-Bond]] | Comum | Bounties (Fortuna) | Nível mais baixo de Debt-Bond |
 | [[recursos/open_worlds/orbe_vallis/tromyzon_fragment.md\|Tromyzon Fragment]] | Comum | Pesca — Tromyzon | Servofish comum |
 | [[recursos/open_worlds/orbe_vallis/charamote_shard.md\|Charamote Shard]] | Comum | Pesca — Charamote | Servofish comum |
 | [[recursos/open_worlds/orbe_vallis/thermal_sludge.md\|Thermal Sludge]] | Incomum | Containers Corpus | — |
 | [[recursos/open_worlds/orbe_vallis/hespazym_alloy.md\|Hespazym Alloy]] | Incomum | Mineração | — |
-| [[recursos/open_worlds/orbe_vallis/nyth.md\|Nyth]] | Incomum | Mineração | — |
-| [[recursos/open_worlds/orbe_vallis/sentirum.md\|Sentirum]] | Incomum | Mineração | — |
+| [[recursos/open_worlds/eidolon/nyth.md\|Nyth]] | Incomum | Mineração | — |
+| [[recursos/open_worlds/eidolon/sentirum.md\|Sentirum]] | Incomum | Mineração | — |
 | [[recursos/open_worlds/orbe_vallis/gyromag_systems.md\|Gyromag Systems]] | Incomum | Coolant Raknoids | Drop de Raknoid menor |
 | [[recursos/open_worlds/orbe_vallis/shelter_debt_bond.md\|Shelter Debt-Bond]] | Incomum | Bounties (Fortuna) | — |
 | [[recursos/open_worlds/orbe_vallis/medical_debt_bond.md\|Medical Debt-Bond]] | Incomum | Bounties (Fortuna) | — |
@@ -219,28 +219,28 @@ Cada Open World tem ecossistema próprio — coletados por coleta manual, minera
 | Recurso | Raridade | Método | Notas |
 |---|---|---|---|
 | [[recursos/open_worlds/cambion_drift/mytocardin.md\|Mytocardin]] | Comum | Coleta em campo | Plantas Infestadas |
-| [[recursos/open_worlds/cambion_drift/embolos_spore.md\|Embolos Spore]] | Comum | Coleta em campo | Formações Infestadas |
+| Embolos Spore | Comum | Coleta em campo | Formações Infestadas |
 | [[recursos/open_worlds/cambion_drift/sporulate_sac.md\|Sporulate Sac]] | Comum | Inimigos Infestados | Drop geral |
 | [[recursos/open_worlds/cambion_drift/thaumica.md\|Thaumica]] | Comum | Mineração | Minério básico |
 | [[recursos/open_worlds/cambion_drift/ganglion.md\|Ganglion]] | Comum | Carnis / Carnis Rex | — |
 | [[recursos/open_worlds/cambion_drift/bile.md\|Bile]] | Comum | Jugulus e Infestados | — |
-| [[recursos/open_worlds/zariman/vitreospina_fillet.md\|Vitreospina Fillet]] | Comum | Pesca — Vitreospina | — |
-| [[recursos/open_worlds/zariman/glutinox_fillet.md\|Glutinox Fillet]] | Comum | Pesca — Glutinox | — |
+| Vitreospina Fillet | Comum | Pesca — Vitreospina | — |
+| Glutinox Fillet | Comum | Pesca — Glutinox | — |
 | [[recursos/open_worlds/cambion_drift/longwinder_fillet.md\|Longwinder Fillet]] | Comum | Pesca — Longwinder | — |
-| [[recursos/open_worlds/cambion_drift/infested_nacelle.md\|Infested Nacelle]] | Incomum | Containers / Inimigos | — |
+| Infested Nacelle | Incomum | Containers / Inimigos | — |
 | [[recursos/open_worlds/cambion_drift/pustulite.md\|Pustulite]] | Incomum | Containers / Inimigos | — |
 | [[recursos/open_worlds/cambion_drift/lucent_terrogel.md\|Lucent Terrogel]] | Incomum | Mineração | — |
 | [[recursos/open_worlds/cambion_drift/pheromones.md\|Pheromones]] | Incomum | Resíduos de Fass / Vome | Poças no campo — ciclo dia/noite |
 | [[recursos/open_worlds/cambion_drift/cabochon_embolos.md\|Cabochon Embolos]] | Incomum | Jugulus | — |
 | [[recursos/open_worlds/cambion_drift/bracoid.md\|Bracoid]] | Incomum | Carnis | — |
-| [[recursos/open_worlds/cambion_drift/duroid_fillet.md\|Duroid Fillet]] | Incomum | Pesca — Duroid | — |
-| [[recursos/open_worlds/cambion_drift/flagellocanth_fillet.md\|Flagellocanth Fillet]] | Incomum | Pesca — Flagellocanth | — |
-| [[recursos/open_worlds/cambion_drift/trabeculum.md\|Trabeculum]] | Raro | Mineração | — |
-| [[recursos/open_worlds/cambion_drift/pustulant_cerebrum.md\|Pustulant Cerebrum]] | Raro | Jugulus Rex | — |
+| Duroid Fillet | Incomum | Pesca — Duroid | — |
+| Flagellocanth Fillet | Incomum | Pesca — Flagellocanth | — |
+| Trabeculum | Raro | Mineração | — |
+| Pustulant Cerebrum | Raro | Jugulus Rex | — |
 | [[recursos/open_worlds/cambion_drift/namalon.md\|Namalon]] | Raro | Necramechs / Iso Vault | Essencial para crafting de Necramech |
-| [[recursos/open_worlds/cambion_drift/lobotriscid_fillet.md\|Lobotriscid Fillet]] | Raro | Pesca — Lobotriscid | — |
-| [[recursos/open_worlds/zariman/chondricord_fillet.md\|Chondricord Fillet]] | Raro | Pesca — Chondricord | — |
-| [[recursos/open_worlds/cambion_drift/cryptosuctus_fillet.md\|Cryptosuctus Fillet]] | Raro | Pesca — Cryptosuctus | Peixe raro |
+| Lobotriscid Fillet | Raro | Pesca — Lobotriscid | — |
+| Chondricord Fillet | Raro | Pesca — Chondricord | — |
+| Cryptosuctus Fillet | Raro | Pesca — Cryptosuctus | Peixe raro |
 
 
 ### Duviri
@@ -249,7 +249,7 @@ Cada Open World tem ecossistema próprio — coletados por coleta manual, minera
 | Recurso | Raridade | Método | Notas |
 |---|---|---|---|
 | [[recursos/open_worlds/duviri/pathos_clamp.md\|Pathos Clamp]] | Comum | Missões, exploração, bosses | Principal recurso do Duviri — crafta frames e armas exclusivos |
-| [[recursos/open_worlds/duviri/cavaleros_burden.md\|Cavalero's Burden]] | Raro | Drop de bosses do circuito | Usado em trocas com Cavalero |
+| Cavalero's Burden | Raro | Drop de bosses do circuito | Usado em trocas com Cavalero |
 | [[recursos/open_worlds/duviri/kullervo_bane.md\|Kullervo's Bane]] | Raro | Boss Kullervo | Drop específico do encontro |
 
 
@@ -260,15 +260,15 @@ Cada Open World tem ecossistema próprio — coletados por coleta manual, minera
 |---|---|---|---|
 | [[recursos/open_worlds/zariman/voidplume_pinion.md\|Voidplume Pinion]] | Comum | Coleta em campo | — |
 | [[recursos/open_worlds/zariman/voidplume_quill.md\|Voidplume Quill]] | Comum | Coleta em campo | — |
-| [[recursos/open_worlds/zariman/chondricord_fillet.md\|Chondricord Fillet]] | Comum | Pesca — Chondricord | — |
-| [[recursos/open_worlds/zariman/glutinox_fillet.md\|Glutinox Fillet]] | Comum | Pesca — Glutinox | — |
+| Chondricord Fillet | Comum | Pesca — Chondricord | — |
+| Glutinox Fillet | Comum | Pesca — Glutinox | — |
 | [[recursos/open_worlds/zariman/voidplume_crest.md\|Voidplume Crest]] | Incomum | Coleta em campo / missões | — |
-| [[recursos/open_worlds/zariman/voidplume_drift.md\|Voidplume Drift]] | Incomum | Coleta em campo / missões | — |
+| Voidplume Drift | Incomum | Coleta em campo / missões | — |
 | [[recursos/open_worlds/eidolon/mawfish_bones.md\|Mawfish Bones]] | Incomum | Pesca — Mawfish | — |
-| [[recursos/open_worlds/zariman/vitreospina_fillet.md\|Vitreospina Fillet]] | Incomum | Pesca — Vitreospina | — |
+| Vitreospina Fillet | Incomum | Pesca — Vitreospina | — |
 | [[recursos/open_worlds/zariman/voidplume_down.md\|Voidplume Down]] | Raro | Missões / Void Angels | — |
-| [[recursos/open_worlds/zariman/voidplume_wisp.md\|Voidplume Wisp]] | Raro | Missões / Void Angels | — |
-| [[recursos/open_worlds/zariman/voidplume_intact.md\|Voidplume Intact]] | Raro | Drop de Void Angels | Muito raro — requer derrotar Void Angel |
+| Voidplume Wisp | Raro | Missões / Void Angels | — |
+| Voidplume Intact | Raro | Drop de Void Angels | Muito raro — requer derrotar Void Angel |
 
 
 ### Railjack (Proximas)
@@ -279,9 +279,9 @@ Cada Open World tem ecossistema próprio — coletados por coleta manual, minera
 | [[recursos/railjack/asterite.md\|Asterite]] | Comum | Todas | Recurso universal — base de quase todo crafting Railjack |
 | [[recursos/railjack/pustrels.md\|Pustrels]] | Comum | Earth Proxima | — |
 | [[recursos/railjack/coprun.md\|Coprun]] | Comum | Earth Proxima | — |
-| [[recursos/railjack/lucum.md\|Lucum]] | Comum | Earth Proxima | — |
-| [[recursos/railjack/aucrumite.md\|Aucrumite]] | Comum | Earth / Venus Proxima | — |
-| [[recursos/railjack/fresnite.md\|Fresnite]] | Comum | Venus Proxima | — |
+| Lucum | Comum | Earth Proxima | — |
+| Aucrumite | Comum | Earth / Venus Proxima | — |
+| Fresnite | Comum | Venus Proxima | — |
 | [[recursos/railjack/heciphron.md\|Heciphron]] | Incomum | Earth / Mercury Proxima | — |
 | [[recursos/railjack/isos.md\|Isos]] | Incomum | Deimos Proxima | — |
 | [[recursos/railjack/radian_sentirum.md\|Radian Sentirum]] | Incomum | Venus Proxima | — |
@@ -290,7 +290,7 @@ Cada Open World tem ecossistema próprio — coletados por coleta manual, minera
 | [[recursos/railjack/goblite_tears.md\|Goblite Tears]] | Incomum | Neptune Proxima | — |
 | [[recursos/railjack/adramal_alloy.md\|Adramal Alloy]] | Raro | Saturn Proxima | — |
 | [[recursos/railjack/gallos_rod.md\|Gallos Rod]] | Raro | Veil Proxima | — |
-| [[recursos/railjack/magnum_khra.md\|Magnum Khra]] | Raro | Veil Proxima | Recurso mais raro do Railjack |
+| Magnum Khra | Raro | Veil Proxima | Recurso mais raro do Railjack |
 
 
 ## 🔗 Relacionados — Recursos — Índice

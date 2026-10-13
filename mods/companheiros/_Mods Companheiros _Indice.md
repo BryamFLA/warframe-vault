@@ -67,7 +67,7 @@ Precept mods são **instruções comportamentais** — definem o que o companhei
 | [[mods/companheiros/medi_ray.md\|Medi-Ray]] | Incomum | Precept | Cura o operador periodicamente | Drop geral |
 | [[mods/companheiros/striker.md\|Striker]] | Incomum | Precept | Sentinel ataca inimigos próximos | Drop geral |
 | [[mods/companheiros/assault_mode.md\|Assault Mode]] | Incomum | Precept | Persegue e ataca alvos ativamente | Drop geral |
-| [[mods/companheiros/sweeper.md\|Sweeper]] | Incomum | Arma | Shotgun equipada no Sentinel | Drop geral |
+| Sweeper | Incomum | Arma | Shotgun equipada no Sentinel | Drop geral |
 | [[mods/companheiros/calculated_shot.md\|Calculated Shot]] | Raro | Arma | +Crítico da arma do Sentinel | Drop geral |
 | [[mods/companheiros/spare_parts.md\|Spare Parts]] | Raro | Loot | Drop de recurso raro ao Sentinel morrer | Drop geral |
 | [[mods/companheiros/synth_deconstruct.md\|Synth Deconstruct]] | Incomum | Loot | Drop de orb de saúde ao matar — set Synth | Drop geral |
@@ -135,8 +135,8 @@ Precept mods são **instruções comportamentais** — definem o que o companhei
 | Mod | Raridade | Tipo | Efeito | Fonte |
 |---|---|---|---|---|
 | [[mods/companheiros/fetch.md\|Fetch]] | Incomum | Precept | Atrai itens — equivalente ao Vacuum | Drop geral |
-| [[mods/companheiros/hound_bite.md\|Hound Bite]] | Incomum | Precept | Aplica status ao morder | Drop Parvos |
-| [[mods/companheiros/coda_defiance.md\|Coda Defiance]] | Incomum | Precept | Resistência a efeitos de status | Drop Parvos |
+| Hound Bite | Incomum | Precept | Aplica status ao morder | Drop Parvos |
+| Coda Defiance | Incomum | Precept | Resistência a efeitos de status | Drop Parvos |
 | Tenacious Bond | Raro | Precept | +Crit Chance das armas ao companheiro estar cheio de HP | Drop Parvos |
 
 > [!note] Hounds modulares

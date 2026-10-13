@@ -53,7 +53,7 @@ Versões amplificadas de mods comuns obtidas **exclusivamente de Baro Ki'Teer** 
 
 | Mod | Equivalente Comum | Melhoria | Fonte |
 |---|---|---|---|
-| [[mods/armas/primed_serration.md\|Primed Serration]] | Serration | +Dano base muito elevado — rifle | Baro Ki'Teer |
+| Primed Serration | Serration | +Dano base muito elevado — rifle | Baro Ki'Teer |
 | [[mods/armas/primed_cryo_rounds.md\|Primed Cryo Rounds]] | Cryo Rounds | +Frio muito elevado — rifle | Baro Ki'Teer |
 
 ### Primed de Armas (Secundárias)

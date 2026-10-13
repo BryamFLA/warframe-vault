@@ -118,7 +118,7 @@ Depois de rerolar, **as duas versões são mostradas** — a antiga e a nova —
 | **[[mecanicas/steel_path.md\|Steel Path]]** — ofertas rotativas do Teshin | **Não inclui** Rivens de Pistol nem de Melee |
 | **Acrithis** | Comprado por **15 [[recursos/open_worlds/duviri/pathos_clamp.md\|Pathos Clamps]]** |
 | **[[missoes/tipos/archon_hunt.md\|Archon Hunt]]** | Recompensa possível |
-| **Steel Path Circuit** | Recompensa possível (ver [[missoes/bounties/duviri.md\|modos de Duviri]]) |
+| **Steel Path Circuit** | Recompensa possível (ver modos de Duviri) |
 | **Steel Path Descendia** | Recompensa possível |
 | **[[mecanicas/nightwave.md\|Nightwave]]** | Recompensa de rank possível, **dependendo da série** |
 | **Calendário de 1999** | Recompensa possível |

@@ -140,7 +140,7 @@ Zaws são brancas modulares montadas em **Cetus** (Planície de Eidolon) pelo NP
 | [[armas/brancas/bo.md\|Bo]] | Cajado | Mercado (blueprint) |
 | [[armas/brancas/bo_prime.md\|Bo Prime]] | Cajado | Relíquias (Prime) |
 | [[armas/brancas/boltace.md\|Boltace]] | Espadas Duplas | Pesquisa de Clã (Corpus) |
-| [[armas/brancas/broken_sword.md\|Broken Sword]] | Espada | Drop (Stalker) |
+| Broken Sword | Espada | Drop (Stalker) |
 | [[armas/brancas/broken_war.md\|Broken War]] | Espada | Drop (Stalker — partes de War) |
 | [[armas/brancas/ceramic_dagger.md\|Ceramic Dagger]] | Adaga | Mercado (blueprint) |
 | [[armas/brancas/cobra_and_crane.md\|Cobra e Crane]] | Espada e Escudo | Pesquisa de Clã (Grineer) |
@@ -201,10 +201,10 @@ Zaws são brancas modulares montadas em **Cetus** (Planície de Eidolon) pelo NP
 | [[armas/brancas/machete.md\|Machete]] | Facão | Mercado (blueprint) |
 | [[armas/brancas/machete_wraith.md\|Machete Wraith]] | Facão | Nightwave / Evento |
 | [[armas/brancas/magistar.md\|Magistar]] | Martelo | Pesquisa de Clã (Grineer) |
-| [[armas/brancas/magistar_wraith.md\|Magistar Wraith]] | Martelo | Nightwave / Evento |
+| Magistar Wraith | Martelo | Nightwave / Evento |
 | [[armas/brancas/mios.md\|Mios]] | Lâmina e Chicote | Pesquisa de Clã (Entrati) |
 | [[armas/brancas/mire.md\|Mire]] | Espada | Drop (Ambulas, Pluto) |
-| [[armas/brancas/nami_duo.md\|Nami Duo]] | Espadas Duplas | Pesquisa de Clã (Corpus) |
+| Nami Duo | Espadas Duplas | Pesquisa de Clã (Corpus) |
 | [[armas/brancas/nami_solo.md\|Nami Solo]] | Espada | Pesquisa de Clã (Corpus) |
 | [[armas/brancas/nikana.md\|Nikana]] | Nikana | Mercado (blueprint) |
 | [[armas/brancas/nikana_prime.md\|Nikana Prime]] | Nikana | Relíquias (Prime) |
@@ -243,7 +243,7 @@ Zaws são brancas modulares montadas em **Cetus** (Planície de Eidolon) pelo NP
 | [[armas/brancas/skana.md\|Skana]] | Espada | Starter / Mercado |
 | [[armas/brancas/skana_prime.md\|Skana Prime]] | Espada | Relíquias (Prime) |
 | [[armas/brancas/skiajati.md\|Skiajati]] | Nikana | Quest (The Sacrifice) |
-| [[armas/brancas/stiletto_prime.md\|Stiletto Prime]] | Adaga | Relíquias (Prime) |
+| Stiletto Prime | Adaga | Relíquias (Prime) |
 | [[armas/brancas/stropha.md\|Stropha]] | Espingarda Melee | Pesquisa de Clã (Tenno) |
 | [[armas/brancas/sydon.md\|Sydon]] | Lança | Pesquisa de Clã (Grineer) |
 | [[armas/brancas/tatsu.md\|Tatsu]] | Espada Pesada | Pesquisa de Clã (Entrati) |

@@ -193,7 +193,7 @@ Todas as peças são **puramente cosméticas** e compradas com **Platinum**. A c
 - [[lore/personagens/dominus_thrax.md|Dominus Thrax]] — ligado ao Pedigree Histornam.
 - [[warframes/regular/dagath.md|Dagath]] — o Pedigree Gynfas é descrito como a montaria dela.
 - [[missoes/jornadas/principais/the_duviri_paradox.md|The Duviri Paradox]] — a quest que entrega o Kaithe.
-- [[missoes/bounties/duviri.md|Bounties de Duviri]] — onde o Kaithe é usado no dia a dia.
-- [[recursos/open_worlds/duviri/pathos_clamp.md|Pathos Clamp]] e [[recursos/open_worlds/duviri/cavaleros_burden.md|Cavalero's Burden]] — recursos da região.
+- Bounties de Duviri — onde o Kaithe é usado no dia a dia.
+- [[recursos/open_worlds/duviri/pathos_clamp.md|Pathos Clamp]] e Cavalero's Burden — recursos da região.
 
 ---

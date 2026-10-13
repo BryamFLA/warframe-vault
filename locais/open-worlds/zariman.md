@@ -44,7 +44,7 @@ agente: opus
 | **Sindicato local** | **[[mecanicas/sindicatos/the_holdfasts.md\|The Holdfasts]]**, liderado pelo **Quinn** no Chrysalith |
 | **Ciclo** | **Switching Invaders** — a facção invasora **é re-sorteada a cada 150 minutos (2h30)**, e **não alterna de forma consistente**: o jogo pode sortear a mesma facção várias vezes seguidas |
 | **Como saber a facção atual** | Pela **nave ao lado do Zariman** no primeiro plano do mapa de Navegação, ou abrindo o **mapa sobreposto dentro do Chrysalith** com **M** |
-| **Pesca** | Sim — **Mawfish**, cujos ossos e fillets são recurso de troca ([[recursos/open_worlds/zariman/mawfish_bones.md\|Mawfish Bones]]) |
+| **Pesca** | Sim — **Mawfish**, cujos ossos e fillets são recurso de troca (Mawfish Bones) |
 | **Bounties** | **Quinn**, no Chrysalith. **Sem estágios e sem objetivo bônus** — ver **[[missoes/bounties/zariman.md\|Bounties do Chrysalith]]** |
 | **Montaria / veículo** | **Nenhum** |
 | **Fast travel** | **ESC → FAST TRAVEL → ZARIMAN NAVIGATION**, ou o portal atrás do Quinn, que leva ao elevador do Chrysalith |
@@ -98,7 +98,7 @@ Além dos Kuva Grineer e Juno Corpus que se alternam, o Zariman tem entidades de
 | **Entrati Lanthorn** | Região | Qualquer nó do Zariman |
 | **Voidplumes** (6 tipos) | Sindicato | **Todos os nós** — até 11 por missão. Ver tabela acima |
 | **Entropic Kuva** | Especial | Dropado pelos **Entropic Eximus**; trocado com o Cephalon Melica |
-| **[[recursos/open_worlds/zariman/mawfish_bones.md\|Mawfish Bones]]** e fillets | Pesca | Pesca no Zariman |
+| **Mawfish Bones** e fillets | Pesca | Pesca no Zariman |
 
 
 ## 🗺️ Missões — Zariman Ten Zero

@@ -78,7 +78,7 @@ O jogo conta com mais de 20 tipos distintos de missão, organizados entre missõ
 | [[missoes/tipos/volatile.md\|Volatile]] | Invadir cruzador, destruir motor e extrair antes da explosão | Saturn, Neptune, Veil |
 | [[missoes/tipos/survival_railjack.md\|Survival (RJ)]] | Manter suporte de vida no espaço contra ondas inimigas | Saturn, Neptune |
 | [[missoes/tipos/defense_railjack.md\|Defense (RJ)]] | Defender ponto estratégico contra vagas no espaço | Neptune, Veil |
-| [[missoes/tipos/sabotage_railjack.md\|Sabotage (RJ)]] | Destruir estrutura estratégica inimiga no campo de asteroides | Earth, Venus |
+| Sabotage (RJ) | Destruir estrutura estratégica inimiga no campo de asteroides | Earth, Venus |
 | [[missoes/tipos/assassination_railjack.md\|Assassination (RJ)]] | Derrotar boss de Proxima — Lich, Sister, Corpus flagship | Todas as Proximas |
 
 
@@ -203,7 +203,7 @@ Bounties são missões encadeadas oferecidas pelos sindicatos dos Open Worlds. C
 | **Tier 5** | 55–75+ | Standing máximo, Necramech mods, recompensas raras | Farm de mods Necramech e standing |
 | **Iso Vault** | 40–80 | Blueprints Necramech, Namalon, Voidrig/Bonewidow parts | Farm de Necramech completo |
 
-### [[missoes/bounties/duviri.md|Duviri]]
+### Duviri
 *Sindicato: Kaithe (Drifter's Camp) · Mecânica roguelike — cada run tem armas e frames aleatórios do Decret*
 
 | Tier | Nível dos Inimigos | Recompensas Destaque | Melhor Para |
