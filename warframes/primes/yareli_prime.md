@@ -68,14 +68,14 @@ Como conseguir a Warframe Yareli Prime:
 
 ## 🔮 Habilidades — Yareli Prime
 
-**Passiva (inglês):** Yareli gains +200% Critical Chance for Secondary weapons when she has been moving for at least 1.5s.
+**Passiva:** +200% de chance crítica nas secundárias depois de 1,5 s em movimento.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Sea Snares** | 25 | Form five water globules that seek out enemies and expand on contact, simultaneously damaging and immobilizing their victims.r Enemies hit by the globules take increased damage from all sources. |
-| 2 | **Merulina** | 25 | Summon Merulina, a rideable creature of the waves, and the inspiration for K-Driving. Merulina protects Yareli by absorbing a large portion of incoming damage. |
-| 3 | **Aquablades** | 75 | Tear through foes with a trio of orbiting aquatic blades. |
-| 4 | **Riptide** | 100 | Drag enemies into a crushing maelstrom and then blow them away in a watery burst. Each enemy trapped in the vortex increases the burst's damage. |
+| 1 | **Sea Snares** | 25 | Cinco globos de água buscam inimigos e se expandem, causando dano e imobilizando; os atingidos levam mais dano de todas as fontes. |
+| 2 | **Merulina** | 25 | Invoca Merulina, criatura das ondas montável (inspiração do K-Drive), que absorve grande parte do dano recebido por Yareli. |
+| 3 | **Aquablades** | 75 | Três lâminas de água orbitam Yareli e cortam os inimigos. |
+| 4 | **Riptide** | 100 | Arrasta inimigos para um redemoinho e os expele numa explosão de água; cada inimigo preso aumenta o dano. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/new_loka.md|New Loka]].
 
@@ -91,6 +91,39 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,63% · MR 11–20: 1,08% · MR 21–30: 0,85% · Legendary: 0,76% |
 
 **Leitura:** Yareli Prime é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Yareli Prime
+
+Build de referência para **Yareli Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Duração; Merulina + secundária de crítico.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/growing_power.md\|Growing Power]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 3 | [[mods/warframe/streamline.md\|Streamline]] |
+| 4 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 5 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 6 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 7 | [[mods/warframe/stretch.md\|Stretch]] |
+| 8 | Merulina Guardian (augment) |
+| Exilus | Primed Sure Footed |
+
+**Helminth:** Roar (Rhino) no lugar de Sea Snares.
+**Arcanes:** Molt Augmented, Arcane Avenger.
+**Dica:** A passiva dá +200% de chance crítica às secundárias em movimento.
+
+**Versão Prime:** mesma build base; a Yareli Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Yareli Prime
+
+A pessoa que virou Yareli era uma Yuvan, artista do Teatro Yuvan, que chamou a atenção de Ballas como candidata à Continuidade. Mas ela escondia desprezo pelos costumes Orokin e chegou a desonrar o Kuva sagrado; Ballas, frustrado, a transformou em Warframe — 'pequena flor do oceano, pequena Yareli'. Ela surfa em Merulina, a inspiração do K-Drive.
+
+**Yareli Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "The Waverider arises, reborn from the ocean foam. In her original Orokin-era splendor she embodies the undying vigor of youth."
 
 ## 🔗 Relacionados — Yareli Prime
 

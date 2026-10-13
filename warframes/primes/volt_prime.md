@@ -68,14 +68,14 @@ Como conseguir a Warframe Volt Prime:
 
 ## 🔮 Habilidades — Volt Prime
 
-**Passiva (inglês):** Grounded movement generates an electrical charge building up 1000 Damage per meter that is unleashed with the next attack.
+**Passiva:** Mover-se no chão acumula carga elétrica (1.000 de dano por metro) liberada no próximo ataque.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Shock** | 15 | Launch a voltaic projectile that stuns and damages its target. A chain of electricity extends from the target to shock nearby enemies. |
-| 2 | **Speed** | 25 | Embody an electric current. Volt and his allies receive a brief movement speed boost and a reload speed buff. |
-| 3 | **Electric Shield** | 50 | Volt deploys an electric shield that blocks enemy fire and adds <DT_ELECTRICITY_COLOR>Electricity Damage to projectiles.r  r HOLD to equip the shield for mobile cover. |
-| 4 | **Discharge** | 100 | Volt discharges the electricity that courses through him. The shockwave paralyzes and damages nearby enemies. Enemies on the edge of the shockwave are stunned. |
+| 1 | **Shock** | 15 | Projétil voltaico que atordoa e causa dano, com corrente elétrica que salta para inimigos próximos. |
+| 2 | **Speed** | 25 | Volt e aliados recebem um bônus breve de velocidade de movimento e recarga. |
+| 3 | **Electric Shield** | 50 | Volt cria um escudo elétrico que bloqueia tiros inimigos e adiciona dano Elétrico aos projéteis aliados. SEGURAR para carregar o escudo como cobertura móvel. |
+| 4 | **Discharge** | 100 | Volt descarrega a eletricidade do corpo numa onda que paralisa e causa dano; inimigos na borda ficam atordoados. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/red_veil.md|Red Veil]].
 
@@ -91,6 +91,39 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,82% · MR 11–20: 3,71% · MR 21–30: 4,61% · Legendary: 4,25% |
 
 **Leitura:** Volt Prime é muito popular (top 5%) entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Volt Prime
+
+Build de referência para **Volt Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força para Electric Shield e Discharge; Alcance.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/transient_fortitude.md\|Transient Fortitude]] |
+| 3 | [[mods/warframe/stretch.md\|Stretch]] |
+| 4 | Augur Reach |
+| 5 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 6 | [[mods/warframe/streamline.md\|Streamline]] |
+| 7 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 8 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino) no lugar de Shock.
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** Electric Shield dá dano elétrico e crítico extra aos tiros que passam por ele.
+
+**Versão Prime:** mesma build base; a Volt Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Volt Prime
+
+Volt é o Warframe da eletricidade, um dos três iniciais (com Excalibur e Mag). Ele canaliza correntes elétricas para atordoar inimigos, ganhar velocidade e criar escudos que eletrificam tiros aliados.
+
+**Volt Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "A glorious warrior from the past, Volt Prime features the same abilities as Volt but with unique mod polarities for greater customization."
 
 ## 🔗 Relacionados — Volt Prime
 

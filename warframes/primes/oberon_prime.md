@@ -68,14 +68,14 @@ Como conseguir a Warframe Oberon Prime:
 
 ## 🔮 Habilidades — Oberon Prime
 
-**Passiva (inglês):** Oberon grants Righteous Negation to himself and his allies in <AFFINITY_SHARE>Affinity Range when he collects <HEALTH>Health Orbs, protecting players against the next instance of damage. Stacks up to 3 times.
+**Passiva:** Ao coletar orbes de vida, dá Righteous Negation a ele e aliados, anulando o próximo dano (acumula até 3).
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Smite** | 25 | Focuses deadly energy within a target, dealing massive damage and removing all of its defenses, including Overguard. Enemies near the target also take a portion of the damage. |
-| 2 | **Hallowed Ground** | 50 | Sanctifies the ground around Oberon, inflicting <DT_RADIATION_COLOR>Radiation Damage to all enemies within the radius. Also grants protection against Status Effects for Oberon and his allies. |
-| 3 | **Renewal** | 25 | Generates a protective aura that grants bonus Armor to Oberon and his allies and restores allies' Health over time. Healing is doubled while within the radius of Hallowed Ground. |
-| 4 | **Reckoning** | 100 | Lifts enemies into the air and then hurls them down with conviction, removing their Armor. Enemies hit by this ability will grant Oberon additional Armor and have a chance to spawn a <HEALTH>Health Orb when they die. |
+| 1 | **Smite** | 25 | Concentra energia letal num alvo, causando dano massivo e removendo todas as defesas (inclusive Overguard); inimigos próximos levam parte do dano. |
+| 2 | **Hallowed Ground** | 50 | Santifica o chão ao redor de Oberon, causando dano de Radiação e protegendo Oberon e aliados contra status. |
+| 3 | **Renewal** | 25 | Aura que dá armadura a Oberon e aliados e cura ao longo do tempo; cura dobra dentro do Hallowed Ground. |
+| 4 | **Reckoning** | 100 | Ergue os inimigos e os arremessa ao chão, removendo sua armadura; os atingidos dão armadura extra a Oberon e podem dropar orbe de vida. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/new_loka.md|New Loka]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
 
@@ -91,6 +91,39 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,092% · MR 11–20: 0,30% · MR 21–30: 0,75% · Legendary: 0,96% |
 
 **Leitura:** Oberon Prime é pouco usado entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Oberon Prime
+
+Build de referência para **Oberon Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Alcance para Renewal/Hallowed Ground.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/growing_power.md\|Growing Power]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/stretch.md\|Stretch]] |
+| 3 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 4 | [[mods/warframe/streamline.md\|Streamline]] |
+| 5 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 6 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 7 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 8 | Hallowed Reckoning (augment) |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino) no lugar de Smite.
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** Reckoning remove armadura; ótimo suporte de cura e imunidade a status.
+
+**Versão Prime:** mesma build base; a Oberon Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Oberon Prime
+
+Oberon é o paladino, Warframe da natureza e da fé: cura, renovação e julgamento (Smite, Reckoning). Na era Orokin era um guardião sagrado das florestas. Suas peças vêm de Points of Interest de Railjack.
+
+**Oberon Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "Protect the balance with this regal forest guardian. Featuring altered mod polarities for greater customization."
 
 ## 🔗 Relacionados — Oberon Prime
 

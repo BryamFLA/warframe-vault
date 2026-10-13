@@ -68,16 +68,16 @@ Blueprint principal no **Mercado**. Componentes: drop do boss **Alad V** em **Th
 
 ## 🔮 Habilidades — Valkyr
 
-**Passiva (inglês):** Valkyr accumulates Rage when hitting or killing enemies with melee weapons, increasing her Melee Damage up to 300%. Taking fatal damage when the Rage meter is above 150% consumes the meter, preventing death and granting 5s of invulnerability.
+**Passiva:** Acumula Fúria ao acertar e matar com melee, aumentando o dano melee até 300%; com mais de 150% de Fúria, um dano fatal consome a barra e a deixa 5 s invulnerável.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Rip Line** | 25 | Valkyr hurls forth a hook and pulls herself to whatever it hits. If it hits an enemy, nearby foes are pulled in as she unleashes a coordinated Melee attack. |
-| 2 | **Warcry** | 75 | Valkyr lets out a rallying cry that bolsters Armor and Attack Speed for allies while in <AFFINITY_SHARE>Affinity Range. |
-| 3 | **Paralysis** | 25 | Unleash a damaging blast, slowing its victims while increasing their Melee Damage Vulnerability. |
-| 4 | **Hysteria** | 25 | Valkyr bares her deadly claws, unleashing devastating attacks that also heal her. Valkyr becomes immune to Status Effects and her Armor bonus from Warcry is multiplied while using the claws. |
+| 1 | **Rip Line** | 25 | Valkyr lança um gancho e se puxa até o ponto atingido; se acertar inimigo, puxa os próximos enquanto ataca. |
+| 2 | **Warcry** | 75 | Grito de guerra que aumenta armadura e velocidade de ataque dos aliados no raio de afinidade. |
+| 3 | **Paralysis** | 25 | Explosão que causa dano, desacelera as vítimas e aumenta a vulnerabilidade delas a dano melee. |
+| 4 | **Hysteria** | 25 | Valkyr expõe suas garras para ataques devastadores que também a curam; fica imune a status e o bônus de armadura do Warcry é multiplicado. |
 
-**Helminth:** a habilidade **Warcry** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Warcry** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/new_loka.md|New Loka]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
 
@@ -93,6 +93,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,96% · MR 11–20: 0,45% · MR 21–30: 0,066% · Legendary: 0,011% |
 
 **Leitura:** Valkyr é pouco usado entre os Warframes, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Valkyr
+
+Build de referência para **Valkyr** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Armadura e Duração para Warcry; build melee com Hysteria.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/growing_power.md\|Growing Power]] |
+| 1 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 2 | Umbral Fiber |
+| 3 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 4 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 5 | [[mods/warframe/streamline.md\|Streamline]] |
+| 6 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 7 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 8 | Eternal War (augment) |
+| Exilus | Primed Sure Footed |
+
+**Helminth:** Pillage (Hildryn) no lugar de Rip Line.
+**Arcanes:** Arcane Grace, Molt Augmented.
+**Dica:** Hysteria (garras) escala com mods melee e a deixa imune a status.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Valkyr
+
+Valkyr foi vítima dos experimentos cruéis de Alad V, que a torturou para estudar os Warframes; o trauma a deixou com fúria incontrolável. Daí vêm suas garras (Hysteria), o grito de guerra e a imunidade que conquista na raiva. As peças caem do próprio Alad V em Júpiter.
 
 ## 🔗 Relacionados — Valkyr
 

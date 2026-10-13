@@ -67,14 +67,14 @@ Como conseguir a Warframe Nekros Prime:
 
 ## 🔮 Habilidades — Nekros Prime
 
-**Passiva (inglês):** Restore 5 Health with every enemy death within 10m.
+**Passiva:** Recupera 5 de vida a cada inimigo morto num raio de 10 m.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Soul Punch** | 25 | A blow so powerful, it turns the enemy's very soul into a deadly projectile, damaging all in its path. Enemies that survive the blow are Marked for Harvest and become one of Nekros' Shadows of the Dead if killed while marked. |
-| 2 | **Terrify** | 75 | Cast fear into the hearts of nearby enemies, causing them to run away in terror. |
-| 3 | **Desecrate** | 10 | Forces fallen enemies around you to drop additional loot. |
-| 4 | **Shadows of the Dead** | 100 | Summon shadow versions of vanquished enemies to fight alongside you for a short period. |
+| 1 | **Soul Punch** | 25 | Soco tão forte que transforma a alma do inimigo num projétil letal; sobreviventes ficam marcados e viram Shadows of the Dead se morrerem marcados. |
+| 2 | **Terrify** | 75 | Espalha medo nos inimigos próximos, fazendo-os fugir e reduzindo sua armadura. |
+| 3 | **Desecrate** | 10 | Faz os inimigos mortos ao redor droparem loot adicional (rolam a tabela de drop de novo). |
+| 4 | **Shadows of the Dead** | 100 | Invoca versões-sombra de inimigos derrotados para lutar ao seu lado por um tempo. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/red_veil.md|Red Veil]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
 
@@ -90,6 +90,39 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,37% · MR 11–20: 1,52% · MR 21–30: 2,13% · Legendary: 1,77% |
 
 **Leitura:** Nekros Prime é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Nekros Prime
+
+Build de referência para **Nekros Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Alcance para Desecrate; Eficiência; Shield of Shadows.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/stretch.md\|Stretch]] |
+| 2 | Augur Reach |
+| 3 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 4 | [[mods/warframe/streamline.md\|Streamline]] |
+| 5 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 6 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 7 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 8 | Despoil (augment) |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino) ou Pillage no lugar de Soul Punch.
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** Desecrate faz cadáveres rolarem o loot de novo: o maior multiplicador de farm do jogo. Despoil troca energia por vida.
+
+**Versão Prime:** mesma build base; a Nekros Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Nekros Prime
+
+Nekros é o necromante: manipula a morte para ganho próprio, roubando almas (Soul Punch), ressuscitando sombras de inimigos e fazendo cadáveres dropar mais loot (Desecrate). Na ficção Orokin ele simboliza o domínio sobre a vida e a morte. É o Warframe de farm mais famoso do jogo.
+
+**Nekros Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "Death's new master. Featuring altered mod polarities allow for greater customization."
 
 ## 🔗 Relacionados — Nekros Prime
 

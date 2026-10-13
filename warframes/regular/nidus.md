@@ -71,16 +71,16 @@ Blueprint principal da quest **The Glast Gambit** (extras no Cephalon Simaris po
 
 ## 🔮 Habilidades — Nidus
 
-**Passiva (inglês):** If Nidus is killed with at least 15 stacks of Mutation, those 15 stacks are consumed; this grants 5s of invulnerability and restores Health to 50%.
+**Passiva:** Se morrer com pelo menos 15 acúmulos de Mutation, gasta esses acúmulos para ficar 5 s invulnerável e recuperar 50% da vida.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Virulence** | 40 | Rupture the ground with a damaging fungal growth that steals energy from each enemy it strikes. For every five enemies hit, the Infestation mutates, multiplying its destructive force. |
-| 2 | **Larva** | 25 | Spawn an Infested pod that erupts with tendrils, latches onto nearby enemies and pulls them in. Enemies killed while held have a chance of generating a Mutation stack. |
-| 3 | **Parasitic Link** | 25 | Bind to a target with parasitic link. When cast on an ally, both the host and Nidus have their Ability Strength and Weapon Damage increased. Linked enemies take some of the damage inflicted on Nidus. |
-| 4 | **Ravenous** | 3 | Gluttonous maggots swarm nearby enemies, feasting until they are hit with Virulence and burst with Infestation. The maggots benefit from Mutation and each enemy hit adds to the Mutation stack. |
+| 1 | **Virulence** | 40 | Rompe o chão com um crescimento fúngico que causa dano e rouba energia de cada inimigo; a cada 5 inimigos atingidos a Infestação muta, multiplicando o poder. |
+| 2 | **Larva** | 25 | Gera um casulo Infested que lança tentáculos e puxa os inimigos próximos; os mortos presos podem gerar acúmulos de Mutation. |
+| 3 | **Parasitic Link** | 25 | Liga-se a um alvo: num aliado, ambos ganham Força de Habilidade e dano de arma; num inimigo, ele recebe parte do dano destinado a Nidus. |
+| 4 | **Ravenous** | 3 | Larvas famintas enxameiam os inimigos até serem atingidas por Virulence e explodirem; cada inimigo atingido soma Mutation. |
 
-**Helminth:** a habilidade **Larva** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Larva** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
 
@@ -96,6 +96,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,24% · MR 11–20: 0,21% · MR 21–30: 0,079% · Legendary: 0,019% |
 
 **Leitura:** Nidus é raramente usado entre os Warframes, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Nidus
+
+Build de referência para **Nidus** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Alcance; acumular Mutation.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/growing_power.md\|Growing Power]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/transient_fortitude.md\|Transient Fortitude]] |
+| 3 | [[mods/warframe/stretch.md\|Stretch]] |
+| 4 | Augur Reach |
+| 5 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 6 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 7 | Umbral Fiber |
+| 8 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| Exilus | Primed Sure Footed |
+
+**Helminth:** Pillage (Hildryn) no lugar de Ravenous.
+**Arcanes:** Molt Augmented, Arcane Grace.
+**Dica:** Mutation dá vida extra e sobrevivência; Larva + Virulence limpa grupos.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Nidus
+
+Pouco se sabe de Nidus além da origem Orokin. Os Myconians, guardiões de um saber ancestral sobre a Infestação, usaram o blueprint de Nidus (uma relíquia da Antiga Guerra) para produzir a Triuna. Na quest The Glast Gambit, Ergo Glast propõe trocar a relíquia pela Triuna. Nidus é a Warframe que domina a Infestação, crescendo com Mutation.
 
 ## 🔗 Relacionados — Nidus
 

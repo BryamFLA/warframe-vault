@@ -62,16 +62,16 @@ Blueprint principal no **Mercado**. Componentes nas **Nightwave Offerings** por 
 
 ## 🔮 Habilidades — Vauban
 
-**Passiva (inglês):** Deal 25% Extra Damage to incapacitated enemies.
+**Passiva:** Causa 25% de dano extra a inimigos incapacitados.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Tesla Nervos** | 25 | Deploy a roller drone that attaches itself to enemies and delivers bursts of arcing <DT_ELECTRICITY_COLOR> Electricity Damage to anything in the immediate area. |
-| 2 | **Minelayer** | 25 | Control the battelfield with masterful mines. Vauban's Tether-Flechette orb immobilizes and draws in enemies while launching deadly nails in all directions.r r HOLD to launch a Vector-Overdrive pad that accelerates foes and allies alike in the pad's direction, increasing ally Movement Speed and Weapon Damage. |
-| 3 | **Photon Strike** | 50 | Drop a targeting beacon that calls in a devastating laser artillery strike. Deals doubled damage to enemies with Overguard. |
-| 4 | **Bastille** | 100 | Erect a containment field to capture enemies and suspend them in stasis, stripping their armor and granting it to Vauban and any allies within Bastille's field.r r HOLD to collapse all Bastilles into a single damaging vortex. |
+| 1 | **Tesla Nervos** | 25 | Solta drones rolantes que se prendem aos inimigos e disparam descargas Elétricas ao redor. |
+| 2 | **Minelayer** | 25 | Minas de Vauban: o orbe Tether-Flechette prende e atrai inimigos e dispara pregos em todas as direções. SEGURAR lança um pad Vector-Overdrive que acelera inimigos e aliados e dá dano de arma. |
+| 3 | **Photon Strike** | 50 | Lança uma baliza que chama um ataque de artilharia laser; dano dobrado em inimigos com Overguard. |
+| 4 | **Bastille** | 100 | Cria um campo que suspende inimigos em estase, retira a armadura deles e a transfere para Vauban e aliados dentro do campo. SEGURAR colapsa todas as Bastilles num vórtice de dano. |
 
-**Helminth:** a habilidade **Tesla Nervos** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Tesla Nervos** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
 
@@ -87,6 +87,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,72% · MR 11–20: 0,35% · MR 21–30: 0,074% · Legendary: 0,008% |
 
 **Leitura:** Vauban é pouco usado entre os Warframes, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Vauban
+
+Build de referência para **Vauban** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Alcance para Bastille/Vortex.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/transient_fortitude.md\|Transient Fortitude]] |
+| 3 | [[mods/warframe/stretch.md\|Stretch]] |
+| 4 | Augur Reach |
+| 5 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 6 | [[mods/warframe/streamline.md\|Streamline]] |
+| 7 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 8 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino) no lugar de Tesla Nervos.
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** Bastille remove armadura e a transfere ao squad; Photon Strike é o dano.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Vauban
+
+Vauban é o engenheiro: minas, Bastilles, vórtices e armadilhas. Na era Orokin, foi o tático de fortificação; o nome homenageia o engenheiro militar francês. Suas peças vêm das Nightwave Offerings.
 
 ## 🔗 Relacionados — Vauban
 

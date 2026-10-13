@@ -68,14 +68,14 @@ Como conseguir a Warframe Saryn Prime:
 
 ## 🔮 Habilidades — Saryn Prime
 
-**Passiva (inglês):** Status Effects inflicted upon enemies last 25% longer.
+**Passiva:** Efeitos de status aplicados por ela duram 25% mais.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Spores** | 25 | Inflict a target with a pox of <DT_CORROSIVE_COLOR>Corrosive spores. Spread spores to nearby enemies by destroying them or killing their host. The longer the Spore spreads, its damage will increase. |
-| 2 | **Molt** | 50 | Shedding her skin like a snake, Saryn leaves a decoy behind to draw fire from enemies. |
-| 3 | **Toxic Lash** | 50 | While active, attacks deal additional <DT_POISON_COLOR>Toxin Damage; this effect is doubled for Melee Strikes. Instantly burst spores when attacking afflicted enemies. |
-| 4 | **Miasma** | 75 | Release a poisonous miasma that deals <DT_VIRAL_COLOR>Viral Damage to enemies in range. Foes afflicted by spores are more susceptible to the mist. |
+| 1 | **Spores** | 25 | Infecta um alvo com esporos Corrosivos que se espalham ao serem destruídos ou ao matar o hospedeiro; o dano cresce quanto mais tempo se espalham. |
+| 2 | **Molt** | 50 | Saryn troca de pele e deixa um chamariz para atrair tiros. |
+| 3 | **Toxic Lash** | 50 | Ataques causam Tóxico adicional (dobrado em melee) e estouram esporos ao atacar inimigos afetados. |
+| 4 | **Miasma** | 75 | Solta um miasma venenoso que causa dano Viral aos inimigos no alcance; inimigos com esporos são mais vulneráveis. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/red_veil.md|Red Veil]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
 
@@ -91,6 +91,39 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,60% · MR 11–20: 2,25% · MR 21–30: 2,96% · Legendary: 3,00% |
 
 **Leitura:** Saryn Prime é popular (top 15%) entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Saryn Prime
+
+Build de referência para **Saryn Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força, Duração e Alcance para Spores/Miasma.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/stretch.md\|Stretch]] |
+| 3 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 4 | [[mods/warframe/streamline.md\|Streamline]] |
+| 5 | Augur Reach |
+| 6 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 7 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 8 | Contagion Cloud (augment) |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino) no lugar de Molt.
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** Spores se espalham e escalam com o tempo; armas de status (Ignis, Kuva Nukor) espalham mais.
+
+**Versão Prime:** mesma build base; a Saryn Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Saryn Prime
+
+Saryn é a Warframe do veneno e dos esporos. Na ficção, foi criada para guerra biológica controlada; seus esporos Corrosivos se espalham de inimigo em inimigo e o Miasma Viral devasta salas inteiras. As peças vêm da Kela De Thaym em Sedna.
+
+**Saryn Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "A golden blossom conceals deadly nectar. Featuring altered mod polarities for greater customization."
 
 ## 🔗 Relacionados — Saryn Prime
 

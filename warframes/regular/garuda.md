@@ -71,17 +71,16 @@ Blueprint principal ao concluir a quest **Vox Solaris** (Fortuna). Componentes: 
 
 ## 🔮 Habilidades — Garuda
 
-**Passiva (inglês):** Garuda's damage temporarily increases with each enemy she kills, to a maximum of 100%.r
-Slashes with her talons if no melee weapon is equipped.
+**Passiva:** O dano aumenta temporariamente a cada inimigo morto, até 100%; ataca com as garras se não houver arma melee equipada.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Dread Mirror** | 25 | Rip the life force from an enemy and use it as a shield that captures damage, this kills significantly weakened enemies instantly. Charge to channel the captured damage into an explosive projectile. |
-| 2 | **Blood Altar** | 50 | Impale an enemy on an altar of talons and siphon health for Garuda and her allies. |
-| 3 | **Bloodletting** | 0 | Garuda sacrifices her health to generate energy and clear Status Effects. |
-| 4 | **Seeking Talons** | 100 | Charge to expand the targeting area, release to send Garuda's talons careening toward each target in area. Surviving enemies are prone to <DT_SLASH_COLOR>Slash Status. |
+| 1 | **Dread Mirror** | 25 | Arranca a força vital de um inimigo e a usa como escudo que captura dano (mata inimigos muito enfraquecidos). Carregue para lançar o dano capturado num projétil explosivo. |
+| 2 | **Blood Altar** | 50 | Empala um inimigo num altar de garras e drena a vida dele para Garuda e aliados. |
+| 3 | **Bloodletting** | 0 | Garuda sacrifica vida para gerar energia e remover efeitos de status. |
+| 4 | **Seeking Talons** | 100 | Carregue para ampliar a área e solte para lançar as garras de Garuda em cada alvo; os sobreviventes ficam propensos a status de Corte. |
 
-**Helminth:** a habilidade **Blood Altar** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Blood Altar** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/red_veil.md|Red Veil]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
 
@@ -97,6 +96,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,26% · MR 11–20: 0,13% · MR 21–30: 0,067% · Legendary: 0,010% |
 
 **Leitura:** Garuda é raramente usado entre os Warframes, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Garuda
+
+Build de referência para **Garuda** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Duração; Bloodletting para energia.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/growing_power.md\|Growing Power]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 3 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 4 | Umbral Fiber |
+| 5 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 6 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 7 | [[mods/warframe/streamline.md\|Streamline]] |
+| 8 | Dread Ward (augment) |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Pillage (Hildryn) no lugar de Seeking Talons.
+**Arcanes:** Molt Augmented, Arcane Avenger.
+**Dica:** Dread Mirror com Dread Ward faz o dano capturado virar curto período de invulnerabilidade.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Garuda
+
+Garuda é a Warframe de sangue e garras; sua história é contada em tábuas na Pontis Tower, sobre uma corte Orokin perfumada de lilás e seus sacrifícios. Ela converte a própria vida em energia (Bloodletting) e empala inimigos num altar de garras. É obtida na quest Vox Solaris, em Fortuna.
 
 ## 🔗 Relacionados — Garuda
 

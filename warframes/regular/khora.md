@@ -71,16 +71,16 @@ Blueprint principal no **Mercado**. Componentes: **Sanctuary Onslaught** normal 
 
 ## 🔮 Habilidades — Khora
 
-**Passiva (inglês):** The ferocious kavat, Venari, fights by Khora's side and provides her with a 15% speed boost while active. If killed, Venari will reappear after 45s.
+**Passiva:** A kavat Venari luta ao lado dela e dá +15% de velocidade; se morrer, volta após 45 s.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Whipclaw** | 25 | Send enemies reeling with a deafening whipcrack. Stats are boosted by the equipped mods on Whipclaw. |
-| 2 | **Ensnare** | 50 | Bind a hapless target in living metal, entangling others who stray too close. Whipclaw will refresh the trap allowing it to capture more enemies. |
-| 3 | **Venari** | 0 | Command Venari to focus on a target. Hold to cycle between Attack, Protect, and Heal postures. If Venari is killed, use this ability to revive her instantly. |
-| 4 | **Strangledome** | 100 | Weave a dome of living chain that ensnares and strangles any enemy within, and any foolish enough to approach. Foes outside the trap will try to hasten their comrade's deaths by shooting them. Crack Whipclaw on the dome to further damage any trapped enemies. |
+| 1 | **Whipclaw** | 25 | Estalo de chicote ensurdecedor (arma exaltada de Khora); escala com os mods equipados no Whipclaw. |
+| 2 | **Ensnare** | 50 | Prende um alvo em metal vivo, enredando quem chegar perto; o Whipclaw renova a armadilha para capturar mais inimigos. |
+| 3 | **Venari** | 0 | Comanda Venari (Kavat de Khora) para focar um alvo; segure para alternar as posturas Ataque, Proteção e Cura. Se Venari morrer, use para revivê-la. |
+| 4 | **Strangledome** | 100 | Cúpula de corrente viva que prende e estrangula inimigos dentro e ao redor; inimigos de fora atiram nos presos. O Whipclaw na cúpula causa mais dano. |
 
-**Helminth:** a habilidade **Ensnare** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Ensnare** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/red_veil.md|Red Veil]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
 
@@ -96,6 +96,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,22% · MR 11–20: 0,23% · MR 21–30: 0,18% · Legendary: 0,094% |
 
 **Leitura:** Khora é raramente usado entre os Warframes, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Khora
+
+Build de referência para **Khora** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Alcance para Strangledome e Whipclaw.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/transient_fortitude.md\|Transient Fortitude]] |
+| 3 | [[mods/warframe/stretch.md\|Stretch]] |
+| 4 | Augur Reach |
+| 5 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 6 | [[mods/warframe/streamline.md\|Streamline]] |
+| 7 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 8 | Pilfering Strangledome (augment) |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino) no lugar de Ensnare.
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** Whipclaw escala com mods melee; Pilfering Strangledome rende loot extra.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Khora
+
+A primeira aparição registrada de Khora está ligada ao especialista Corpus Sigor Savah, que trabalhava na terraformação de Vênus para Nef Anyo. Ele encontrou, congelado havia milênios num armário selado, um kavat enorme — Venari, a companheira de Khora — e ao revivê-lo despertou o elo com a Warframe. Khora luta com chicote e corrente e nunca está sem Venari.
 
 ## 🔗 Relacionados — Khora
 

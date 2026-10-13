@@ -62,16 +62,16 @@ Blueprint principal no **Mercado**. Componentes: missões especiais em **Europa*
 
 ## 🔮 Habilidades — Grendel
 
-**Passiva (inglês):** Each enemy consumed grants 250 bonus armor.
+**Passiva:** Cada inimigo engolido dá 250 de armadura bônus.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Feast** | 25 | Swallow enemies whole and store them in Grendel's gut. Hold to vomit out stored enemies, covering them in toxic bile. |
-| 2 | **Nourish** | 50 | Regenerate health as Grendel absorbs nourishment from enemies in his gut. While he digests, enemies that attack or are attacked by Grendel suffer <DT_VIRAL_COLOR>Viral Damage and energy sources provide more energy. These buffs extend to squad mates. |
-| 3 | **Pulverize** | 0 | Grendel curls into a ball. He heals over time as he rolls, knocking over anyone in his path. Jumping slams Grendel into the ground and generates a damaging shockwave. |
-| 4 | **Regurgitate** | 0 | Violently puke out a bile soaked enemy from Grendel's gut, turning the consumed into a toxic projectile. Nearby enemies are slowed and have their armor dissolved by the bile. |
+| 1 | **Feast** | 25 | Grendel engole inimigos inteiros e os guarda na barriga. Segure para vomitá-los cobertos de bile tóxica. |
+| 2 | **Nourish** | 50 | Grendel regenera vida digerindo inimigos; enquanto digere, inimigos que o atacam ou são atacados sofrem dano Viral e orbes de energia rendem mais, para ele e o squad. |
+| 3 | **Pulverize** | 0 | Grendel vira uma bola e rola derrubando quem estiver no caminho, curando-se; pular faz uma onda de choque. |
+| 4 | **Regurgitate** | 0 | Grendel vomita um inimigo coberto de bile como projétil tóxico; inimigos próximos ficam lentos e perdem armadura. |
 
-**Helminth:** a habilidade **Nourish** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Nourish** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/red_veil.md|Red Veil]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
 
@@ -87,6 +87,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,078% · MR 11–20: 0,098% · MR 21–30: 0,071% · Legendary: 0,017% |
 
 **Leitura:** Grendel é raramente usado entre os Warframes, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Grendel
+
+Build de referência para **Grendel** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Duração; armadura alta.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/growing_power.md\|Growing Power]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 3 | Umbral Fiber |
+| 4 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 5 | [[mods/warframe/streamline.md\|Streamline]] |
+| 6 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 7 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 8 | [[mods/warframe/stretch.md\|Stretch]] |
+| Exilus | Primed Sure Footed |
+
+**Helminth:** Pillage (Hildryn).
+**Arcanes:** Molt Augmented, Arcane Grace.
+**Dica:** Cada inimigo engolido dá +250 de armadura; Nourish dá Viral e energia ao squad.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Grendel
+
+Após a queda Orokin, um Executor sobrevivente chamado Karishh dominava a cidade faminta de Riddha, em Europa, banqueteando-se enquanto o povo morria de fome. Grendel — primal e insaciável, mas de compaixão surpreendente — devorou os glutões da corte e salvou a cidade. Suas peças são obtidas com Locators de Arbitration em Europa.
 
 ## 🔗 Relacionados — Grendel
 

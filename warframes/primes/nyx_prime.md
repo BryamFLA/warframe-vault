@@ -70,14 +70,14 @@ Diferente da maioria dos itens Prime, Nyx Prime **nunca é vaultado (permanently
 
 ## 🔮 Habilidades — Nyx Prime
 
-**Passiva (inglês):** Nyx gains +40% Critical Chance on Primary and Secondary weapons per confused enemy within Affinity Range, up to +200%.
+**Passiva:** +40% de chance crítica nas armas primária e secundária por inimigo confuso no raio de afinidade, até +200%.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Mind Control** | 25 | Nyx seizes control of a target's mind, compelling them to fight for the Tenno cause. Controlled enemies have increased <DT_RADIATION_COLOR>Radiation Status Chance. When Nyx shoots them, they also have an increased Damage Multiplier. |
-| 2 | **Psychic Bolts** | 50 | Nyx unleashes a volley of psychic bolts that track and strike nearby enemies with telekinetic precision. When enemies are slain, additional bolts scatter to new targets. Striking foes weakens their defenses and transfers a portion to Nyx. |
-| 3 | **Chaos** | 75 | Nyx releases a devastating psychic pulse, disorienting enemies in a wide radius and forcing them to turn on each other. Confused foes lash out at random factions. |
-| 4 | **Absorb** | 75 | Nyx draws in and contains the damage dealt to her and the damage confused enemies deal to each other then converts it into a devastating radial blast. Following the blast, she enters a brief invulnerable state and gains a Weapon Damage boost proportional to the absorbed damage. |
+| 1 | **Mind Control** | 25 | Nyx controla a mente de um alvo, que passa a lutar pelos Tenno; o controlado ganha chance de status de Radiação e, quando Nyx atira nele, multiplicador de dano maior. |
+| 2 | **Psychic Bolts** | 50 | Nyx lança projéteis psíquicos teleguiados; ao matar, novos projéteis buscam outros alvos. Os atingidos perdem defesa e parte dela vai para Nyx. |
+| 3 | **Chaos** | 75 | Pulso psíquico que confunde inimigos num raio grande, fazendo-os atacar uns aos outros. |
+| 4 | **Absorb** | 75 | Nyx absorve o dano que recebe e o que inimigos confusos causam entre si e o libera numa explosão radial. Depois fica invulnerável por um instante e ganha bônus de dano de arma proporcional ao dano absorvido. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/new_loka.md|New Loka]].
 
@@ -93,6 +93,39 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,11% · MR 11–20: 0,87% · MR 21–30: 1,91% · Legendary: 2,00% |
 
 **Leitura:** Nyx Prime é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Nyx Prime
+
+Build de referência para **Nyx Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Duração e Alcance para Chaos; Força para Absorb.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 2 | [[mods/warframe/stretch.md\|Stretch]] |
+| 3 | Augur Reach |
+| 4 | [[mods/warframe/streamline.md\|Streamline]] |
+| 5 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 6 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 7 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 8 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino) no lugar de Mind Control.
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** A passiva dá crítico às armas por inimigo confuso: Chaos + armas de crítico.
+
+**Versão Prime:** mesma build base; a Nyx Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Nyx Prime
+
+Nyx é a Warframe da mente: controle mental, caos e absorção. Na ficção, foi criada para guerra psicológica — fazer os inimigos lutarem entre si. As peças caem do Phorid nas invasões Infested.
+
+**Nyx Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "Infiltrate the minds of your enemies with Nyx Prime. Featuring altered mod polarities for greater customization."
 
 ## 🔗 Relacionados — Nyx Prime
 

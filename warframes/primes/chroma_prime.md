@@ -68,14 +68,14 @@ Como conseguir a Warframe Chroma Prime:
 
 ## 🔮 Habilidades — Chroma Prime
 
-**Passiva (inglês):** Wings sprout for an additional jump and bullet jump.
+**Passiva:** Asas que dão um pulo e um bullet jump extras.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Spectral Scream** | 10 | Exhale a deep breath of elemental destruction. Tap to cycle through elements, hold to cast. The chosen element applies to all of Chroma's abilities. |
-| 2 | **Elemental Ward** | 50 | Depending on Chroma's elemental alignment, an offensive area-of-effect is created. Chroma and its nearby allies are imbued with defensive energy. |
-| 3 | **Vex Armor** | 75 | Chroma fortifies squad Armor when his Shields are damaged or he kills an enemy with a melee weapon. He increases squad Weapon Damage when he loses Health or he kills an enemy with a ranged weapon, double the effect on weak point kills. |
-| 4 | **Effigy** | 50 | Chroma turns his pelt into a massive sentry that strengthens nearby allies and engulfs enemies in elemental attacks. |
+| 1 | **Spectral Scream** | 10 | Sopro de destruição elemental. Toque para alternar o elemento, segure para usar; o elemento escolhido vale para todas as habilidades de Chroma. |
+| 2 | **Elemental Ward** | 50 | Conforme o elemento de Chroma, cria uma área ofensiva e dá bônus defensivo a ele e aos aliados próximos. |
+| 3 | **Vex Armor** | 75 | Chroma ganha armadura (para o squad) quando o escudo leva dano ou mata com melee, e dano de arma quando perde vida ou mata à distância (dobrado em ponto fraco). |
+| 4 | **Effigy** | 50 | Chroma transforma a pele numa sentinela gigante que fortalece aliados e ataca inimigos com elementos. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
 
@@ -91,6 +91,39 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,11% · MR 11–20: 0,58% · MR 21–30: 1,04% · Legendary: 0,96% |
 
 **Leitura:** Chroma Prime é pouco usado entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Chroma Prime
+
+Build de referência para **Chroma Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força máxima e Duração para Vex Armor.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/growing_power.md\|Growing Power]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/transient_fortitude.md\|Transient Fortitude]] |
+| 3 | [[mods/warframe/blind_rage.md\|Blind Rage]] |
+| 4 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 5 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 6 | Umbral Fiber |
+| 7 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 8 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino) ou Gloom no lugar de Effigy.
+**Arcanes:** Arcane Grace, Molt Augmented.
+**Dica:** Use o elemento Fogo (vermelho) no Spectral Scream para o Vex Armor; Elemental Ward Eletricidade dá escudo/Overguard.
+
+**Versão Prime:** mesma build base; a Chroma Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Chroma Prime
+
+Chroma é o Warframe dragão: sua pele (pelt) muda de elemento, e ele cospe fogo, gelo, eletricidade ou veneno. Ele é obtido na quest The New Strange, ligada ao Cephalon Simaris e ao Sentient que corrompe o Synthesis — uma história sobre dados, caça e identidade.
+
+**Chroma Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "Bind the elements and unleash untold destruction with Chroma Prime. Featuring altered mod polarities for greater customization."
 
 ## 🔗 Relacionados — Chroma Prime
 

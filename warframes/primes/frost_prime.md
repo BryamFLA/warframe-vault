@@ -68,14 +68,14 @@ Como conseguir a Warframe Frost Prime:
 
 ## 🔮 Habilidades — Frost Prime
 
-**Passiva (inglês):** Cold Status Effects from Frost's Abilities last 100% longer. Frost gains 50 Armor per enemy afflicted with Cold Status within Affinity Range.
+**Passiva:** Status de Frio das habilidades dele duram 100% mais; ganha 50 de armadura por inimigo com Frio no raio de afinidade.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Freeze** | 25 | A frigid energy blast that freezes targets in their tracks. |
-| 2 | **Ice Wave** | 50 | Sends a wave of razor sharp, crystalized ice toward an enemy, dealing heavy damage. |
-| 3 | **Snow Globe** | 50 | Frost deep freezes any vapor and moisture in the area, creating a protective sphere with brief invulnerability to boost its strength. |
-| 4 | **Avalanche** | 100 | Summons a treacherous landslide of ice that instantly freezes and shatters all enemies in its radius. |
+| 1 | **Freeze** | 25 | Rajada de energia gélida que congela os alvos. |
+| 2 | **Ice Wave** | 50 | Envia uma onda de gelo cortante em direção ao inimigo, causando dano alto. |
+| 3 | **Snow Globe** | 50 | Frost cria uma esfera protetora de gelo que bloqueia tiros; dá invulnerabilidade breve para reforçá-la. |
+| 4 | **Avalanche** | 100 | Provoca um deslizamento de gelo que congela e estilhaça instantaneamente os inimigos no raio. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
 
@@ -91,6 +91,39 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,33% · MR 11–20: 0,93% · MR 21–30: 1,62% · Legendary: 1,56% |
 
 **Leitura:** Frost Prime é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Frost Prime
+
+Build de referência para **Frost Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Alcance para Avalanche; Armadura para Snow Globe.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/transient_fortitude.md\|Transient Fortitude]] |
+| 3 | [[mods/warframe/stretch.md\|Stretch]] |
+| 4 | Augur Reach |
+| 5 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 6 | Umbral Fiber |
+| 7 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 8 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino) ou Pillage no lugar de Ice Wave.
+**Arcanes:** Molt Augmented, Arcane Guardian.
+**Dica:** A passiva dá 50 de armadura por inimigo com Frio; Avalanche estilhaça e remove armadura.
+
+**Versão Prime:** mesma build base; a Frost Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Frost Prime
+
+Frost é o Warframe do gelo, um dos clássicos de 2013, criado para defesa e controle: o Snow Globe protege objetivos e o Avalanche congela e estilhaça inimigos. É o defensor tradicional de missões de Defense e Excavation.
+
+**Frost Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "Frost Prime has the same chilling abilities as Frost but provides unique mod polarities, allowing for greater customization."
 
 ## 🔗 Relacionados — Frost Prime
 

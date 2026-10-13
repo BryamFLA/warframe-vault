@@ -62,16 +62,16 @@ Blueprint principal no **Mercado**. Componentes da quest **The Limbo Theorem** (
 
 ## 🔮 Habilidades — Limbo
 
-**Passiva (inglês):** Dodge to enter and exit the Rift. Entering leaves behind a small Rift portal lasting 5s. Energy slowly recharges in the Rift, and each enemy killed in there also gives 10 Energy.
+**Passiva:** Esquivar entra e sai do Rift, deixando um portal por 5 s; no Rift a energia recarrega aos poucos e cada kill dá 10 de energia.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Banish** | 25 | Casts a wave of Rift energy that damages hostiles while pushing enemies and allies out of Limbo's current plane of existence. |
-| 2 | **Stasis** | 50 | Freezes Rift-bound enemies. While active, enemy projectiles are arrested in mid-air, resuming its trajectory when stasis ends. |
-| 3 | **Rift Surge** | 50 | Surges nearby Rift-bound enemies with Rift energy. When killed the Rift Surge is transferred to a nearby enemy outside the rift. Surged enemies that leave the Rift perform a radial Banish. |
-| 4 | **Cataclysm** | 100 | A violent blast of Void energy tears open a pocket of rift plane which can sustain itself for a short period before collapsing in another lethal blast. |
+| 1 | **Banish** | 25 | Onda de energia do Rift que causa dano e empurra inimigos e aliados para fora do plano em que Limbo está. |
+| 2 | **Stasis** | 50 | Congela inimigos no Rift; projéteis inimigos param no ar e só voltam a andar quando a Stasis acaba. |
+| 3 | **Rift Surge** | 50 | Energiza inimigos no Rift; ao morrerem, passam o Surge para outro inimigo fora do Rift. Inimigos energizados que saem do Rift fazem um Banish radial. |
+| 4 | **Cataclysm** | 100 | Explosão de energia do Void que abre uma bolha do plano do Rift; ela se mantém por um tempo e colapsa noutra explosão letal. |
 
-**Helminth:** a habilidade **Banish** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Banish** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]].
 
@@ -87,6 +87,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,44% · MR 11–20: 0,21% · MR 21–30: 0,052% · Legendary: 0,007% |
 
 **Leitura:** Limbo é raramente usado entre os Warframes, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Limbo
+
+Build de referência para **Limbo** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Duração e Alcance para Cataclysm/Stasis.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 2 | [[mods/warframe/stretch.md\|Stretch]] |
+| 3 | Augur Reach |
+| 4 | [[mods/warframe/streamline.md\|Streamline]] |
+| 5 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 6 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 7 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 8 | Cataclysmic Continuum (augment) |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino) no lugar de Banish.
+**Arcanes:** Arcane Energize, Molt Augmented.
+**Dica:** Inimigos fora do Rift não ferem quem está dentro; cuidado para não atrapalhar o squad.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Limbo
+
+Limbo é o mago do Rift, capaz de caminhar entre planos. Na quest The Limbo Theorem, o Tenno reúne as peças do teorema e descobre que as partes de Limbo estavam espalhadas pelo sistema porque seu último 'rift walk' foi um salto grande demais — um desastre. Ordis brinca que o Tenno deve usá-lo com mais cuidado.
 
 ## 🔗 Relacionados — Limbo
 

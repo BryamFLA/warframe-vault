@@ -71,19 +71,46 @@ Blueprint principal ao concluir a quest **Jade Shadows: Constellations**. Compon
 
 ## 🔮 Habilidades — Sirius & Orion
 
-**Passiva (inglês):** Swapping between them grants 45% Ability Efficiency for the next 2 casts.
+**Passiva:** Trocar entre os dois dá +45% de eficiência de habilidade nas próximas 2 conjurações; abaixo de 50 de energia, um rouba energia do outro.
 
-When below 50 energy, Sirius & Orion will steal energy from each other.
-
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Coronal Ejection** | 15 | Hurl Sirius' Jade Light infused scythe, dealing <DT_FIRE_COLOR>Heat Damage while collecting any pickups in its path.  (HOLD) Swap to Orion and use Gravitic Slash. |
-| 2 | **Gravitic Slash** | 15 | Repel enemies with Orion's sinister scythe, dealing <DT_SLASH_COLOR>Slash Damage and Status Effect while reducing shields and armor.  (HOLD) Swap to Sirius and use Coronal Ejection. |
-| 3 | **Jade Stars** | 50 | Sirius conjures Jade Light motes that slowly regenerate over time. Attacking enemies launches the motes, dealing <DT_FIRE_COLOR>Heat Damage and Status Effect.  (HOLD) Swap to Orion and use Astral Shell. |
-| 4 | **Astral Shell** | 50 | Envelop Orion in an Astral Shell. Upon taking damage the shell becomes a decoy that draws fire until it's destroyed.  (HOLD) Swap to Sirius and use Jade Stars. |
-| 5 | **Light's Sanctuary** | 50 | Sirius creates a well of light that heals and revives allies, while reducing incoming damage. The well slowly grows in size and power.  (HOLD) Swap to Orion and use Event Horizon. |
-| 6 | **Event Horizon** | 50 | Orion forms a drifting black hole, trapping enemies within its gravity. Hitting the black hole with Gravitic Slash or Coronal Ejection will extend its duration and change its trajectory: Gravitic Slash will direct it away from Orion, and Coronal Ejection will pull it towards Sirius.  (HOLD) Swap to Sirius and use Light's Sanctuary. |
-| 7 | **Celestial Clash** | 100 | Sirius & Orion take to the skies in a cosmic duel. Each attack consumes a Constellation Star to inflict colossal collateral <DT_FIRE_COLOR>Heat or <DT_SLASH_COLOR>Slash damage. Match the star's color to the Warframes color to gain increased Critical Chance.  /LEFT_ATTACK/ Sirius attacks /RIGHT_ATTACK/ Orion attacks  Generate Constellation Stars by using abilities. No more than two stars of the same color can be added in a row. |
+| 1 | **Coronal Ejection** | 15 | Arremessa a foice de Sirius infundida de Luz de Jade, causando Calor e recolhendo itens no caminho. (SEGURAR) troca para Orion e usa Gravitic Slash. |
+| 2 | **Gravitic Slash** | 15 | A foice de Orion repele inimigos com dano de Corte e status, reduzindo escudos e armadura. (SEGURAR) troca para Sirius e usa Coronal Ejection. |
+| 3 | **Jade Stars** | 50 | Sirius conjura partículas de Luz de Jade que regeneram com o tempo; ao atacar, elas são lançadas causando Calor e status. (SEGURAR) troca para Orion e usa Astral Shell. |
+| 4 | **Astral Shell** | 50 | Envolve Orion numa casca astral; ao receber dano ela vira um chamariz que atrai tiros até ser destruída. (SEGURAR) troca para Sirius e usa Jade Stars. |
+| 5 | **Light's Sanctuary** | 50 | Sirius cria um poço de luz que cura e revive aliados e reduz o dano recebido; cresce em tamanho e poder com o tempo. (SEGURAR) troca para Orion e usa Event Horizon. |
+| 6 | **Event Horizon** | 50 | Orion forma um buraco negro à deriva que prende inimigos na gravidade; Gravitic Slash e Coronal Ejection o empurram ou puxam. (SEGURAR) troca para Sirius e usa Light's Sanctuary. |
+| 7 | **Celestial Clash** | 100 | Sirius e Orion duelam nos céus; cada ataque consome uma Estrela de Constelação para causar dano massivo de Calor ou Corte. Combinar a cor da estrela com a do Warframe dá mais chance crítica. Estrelas são geradas usando habilidades. |
+
+## 🛠️ Build — Sirius & Orion
+
+Build de referência para **Sirius & Orion** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Duração; alternar entre os dois para eficiência.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/growing_power.md\|Growing Power]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 3 | [[mods/warframe/streamline.md\|Streamline]] |
+| 4 | [[mods/warframe/stretch.md\|Stretch]] |
+| 5 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 6 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 7 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 8 | [[mods/warframe/blind_rage.md\|Blind Rage]] |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino).
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** Gere Estrelas de Constelação com as habilidades para o Celestial Clash; combine as cores.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Sirius & Orion
+
+Sorren (o Stalker) e Jade tiveram um filho, algo tabu para os Orokin; grávida, Jade foi transformada em Warframe por Ballas e passou a vida tentando dar à luz, morrendo no parto. O Stalker protegeu o bebê e o chamou de Sirius — ou Orion. Pelo Eternalismo do Void, o filho não escolhido passou a existir num futuro condenado, e os dois irmãos entram em guerra, instigados por The Indifference. Hunhow sacrifica as próprias memórias para criar um refúgio onde ambos coexistem. É a história de Jade Shadows: Constellations.
 
 ## 🔗 Relacionados — Sirius & Orion
 

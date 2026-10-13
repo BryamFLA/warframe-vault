@@ -68,16 +68,16 @@ Como conseguir a Warframe Gauss Prime:
 
 ## 🔮 Habilidades — Gauss Prime
 
-**Passiva (inglês):** Moving generates an electrical current that fills Gauss' battery. Shields recharge up to 120% faster while the Recharge Delay is up to 80% shorter, based on the battery level.
+**Passiva:** Mover-se carrega a bateria; conforme o nível dela, o escudo recarrega até 120% mais rápido e o atraso de recarga cai até 80%.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Mach Rush** | 15 | Burst into a hyper-sprint bowling over enemies and charging the battery. Crashing into solid objects generates a powerful shockwave. Hold to rush continuously. |
-| 2 | **Kinetic Plating** | 50 | Generate armor plating that converts a portion of absorbed Kinetic Damage (Physical, <DT_FIRE_COLOR>Heat, <DT_FREEZE_COLOR>Cold, and <DT_EXPLOSION_COLOR>Blast) into Energy. Also protects Gauss from being staggered or knocked down. Damage Resistance is relative to the battery level. |
-| 3 | **Thermal Sunder** | 50 | Siphon kinetic energy from the area, charging the battery and inflicting <DT_FREEZE_COLOR>Cold Status on nearby enemies. Hold reverses the process, draining the battery and inflicting <DT_FIRE_COLOR>Heat Status on nearby enemies. |
-| 4 | **Redline** | 100 | Push Gauss' battery beyond the redline, supercharging his Abilities and setting Fire Rate, Attack Speed, Reload Speed, and Casting Speed into overdrive. When past the redline, bolts of arcing electricity dance periodically from Gauss, exploding en masse when the ability is deactivated. |
+| 1 | **Mach Rush** | 15 | Corrida hiperveloz que derruba inimigos e carrega a bateria; bater em objetos sólidos gera uma onda de choque. Segure para correr continuamente. |
+| 2 | **Kinetic Plating** | 50 | Placas que convertem parte do dano físico, Calor, Frio e Explosão recebido em energia; impede Gauss de ser derrubado. A resistência depende do nível da bateria. |
+| 3 | **Thermal Sunder** | 50 | Drena energia cinética para carregar a bateria e aplicar status de Frio; segurar faz o inverso, gastando bateria e aplicando Calor. |
+| 4 | **Redline** | 100 | Leva a bateria de Gauss além do limite, potencializando habilidades e acelerando cadência, ataque, recarga e conjuração; raios elétricos saltam dele e explodem ao desativar. |
 
-**Helminth:** a habilidade **Thermal Sunder** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Thermal Sunder** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
 
@@ -93,6 +93,39 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 3,26% · MR 11–20: 5,60% · MR 21–30: 2,96% · Legendary: 2,28% |
 
 **Leitura:** Gauss Prime é muito popular (top 5%) entre os Warframes, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Gauss Prime
+
+Build de referência para **Gauss Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Duração e Força para Redline e Kinetic Plating.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/growing_power.md\|Growing Power]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 3 | [[mods/warframe/streamline.md\|Streamline]] |
+| 4 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 5 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 6 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 7 | [[mods/warframe/stretch.md\|Stretch]] |
+| 8 | Thermal Transfer (augment) |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino) no lugar de Thermal Sunder.
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** Mantenha a bateria alta para máxima redução de dano do Kinetic Plating; Redline acelera armas.
+
+**Versão Prime:** mesma build base; a Gauss Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Gauss Prime
+
+Gauss é o Warframe da velocidade e da bateria cinética: correr carrega sua energia e ele vira um borrão elétrico. Na ficção, foi criado para mobilidade extrema e transporte de força em batalha; seu kit (Mach Rush, Redline) gira em torno de acelerar tudo.
+
+**Gauss Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "Quicksilver takes form. Gauss Prime brooks no talk of defeat."
 
 ## 🔗 Relacionados — Gauss Prime
 

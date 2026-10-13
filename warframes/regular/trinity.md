@@ -68,16 +68,16 @@ Blueprint principal no **Mercado**. Componentes: drop do boss **Ambulas** em **H
 
 ## 🔮 Habilidades — Trinity
 
-**Passiva (inglês):** Allies in Affinity Range gain 50% of Trinity's Max Energy as Health.
+**Passiva:** Aliados no raio de afinidade ganham vida igual a 50% da energia máxima de Trinity.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Well of Life** | 25 | Create a well of life on an enemy who will absorb Status Effect damage intended for nearby allies. Allies gain additional Health when they attack the target. If allies die, enemies in the well of life die in their stead. |
-| 2 | **Energy Vampire** | 50 | Allies will gain energy over time when enemies are marked with Energy Vampire. |
-| 3 | **Link** | 75 | Any damage taken while Link is active will be channeled to a nearby enemy. |
-| 4 | **Blessing** | 100 | Restore the health and shields of allies within <AFFINITY_SHARE>Affinity Range while reducing the damage they take from enemies. |
+| 1 | **Well of Life** | 25 | Cria um poço de vida num inimigo que absorve o dano de status destinado aos aliados; aliados ganham vida ao atacá-lo e, se um aliado morreria, o inimigo morre no lugar. |
+| 2 | **Energy Vampire** | 50 | Aliados recebem energia ao longo do tempo quando inimigos estão marcados com Energy Vampire. |
+| 3 | **Link** | 75 | Todo dano recebido enquanto o Link está ativo é desviado para um inimigo próximo. |
+| 4 | **Blessing** | 100 | Restaura vida e escudo dos aliados no raio de afinidade e reduz o dano que eles recebem. |
 
-**Helminth:** a habilidade **Well of Life** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Well of Life** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/new_loka.md|New Loka]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
 
@@ -93,6 +93,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,069% · MR 11–20: 0,11% · MR 21–30: 0,052% · Legendary: 0,008% |
 
 **Leitura:** Trinity é raramente usado entre os Warframes, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Trinity
+
+Build de referência para **Trinity** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Duração para Blessing e Energy Vampire.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 3 | [[mods/warframe/streamline.md\|Streamline]] |
+| 4 | [[mods/warframe/stretch.md\|Stretch]] |
+| 5 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 6 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 7 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 8 | Abating Link (augment) |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino) no lugar de Well of Life.
+**Arcanes:** Arcane Energize, Molt Augmented.
+**Dica:** Abating Link remove armadura dos inimigos próximos; Blessing reduz dano do squad.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Trinity
+
+Trinity é a Warframe de suporte clássica (2013): cura (Blessing), energia (Energy Vampire) e transferência de dano (Link). Na ficção Orokin, era a guardiã que mantinha os outros vivos; o nome evoca a tríade de vida, energia e proteção.
 
 ## 🔗 Relacionados — Trinity
 

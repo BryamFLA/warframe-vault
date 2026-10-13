@@ -62,16 +62,16 @@ Blueprints da quest **Sands of Inaros** (o blueprint da quest é negociável ou 
 
 ## 🔮 Habilidades — Inaros
 
-**Passiva (inglês):** When Inaros takes lethal damage, he entombs himself in a sarcophagus and incarnates as sand to attack enemies, draining their lifeforce to revive himself.
+**Passiva:** Ao sofrer dano fatal, entra num sarcófago e vira areia para atacar inimigos, drenando a vida deles para reviver.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Desiccation** | 25 | Blast enemies with a wave of cursed sand that blinds them and steals their health. |
-| 2 | **Sandstorm** | 25 | Become a sandstorm. Inaros devours enemies pulled into his whirlwind, healing himself. |
-| 3 | **Scarab Shell** | 0 | Activate to form Armor by draining Inaros' Health. Activate again to stop the formation early. The protective layer reduces incoming Damage and absorbs Status Effects. |
-| 4 | **Scarab Swarm** | 100 | Summon a Scarab Swarm to attack enemies with guaranteed <DT_CORROSIVE_COLOR>Corrosive Status. Damage scales with Inaros' Health. Enemies killed while immersed in the swarm summon a Swarm Kavat that fights alongside Inaros and guides the scarabs to other enemies. |
+| 1 | **Desiccation** | 25 | Onda de areia amaldiçoada que cega os inimigos e rouba a vida deles. |
+| 2 | **Sandstorm** | 25 | Inaros vira uma tempestade de areia e devora os inimigos puxados, curando-se. |
+| 3 | **Scarab Shell** | 0 | Converte vida de Inaros em armadura; a camada reduz dano e absorve status. |
+| 4 | **Scarab Swarm** | 100 | Enxame de escaravelhos com status Corrosivo garantido; o dano escala com a vida de Inaros e inimigos mortos geram Swarm Kavats aliados. |
 
-**Helminth:** a habilidade **Desiccation** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Desiccation** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
 
@@ -87,6 +87,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,16% · MR 11–20: 0,33% · MR 21–30: 0,087% · Legendary: 0,012% |
 
 **Leitura:** Inaros é raramente usado entre os Warframes, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Inaros
+
+Build de referência para **Inaros** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Vida máxima, Força para Scarab Swarm/Shell.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/growing_power.md\|Growing Power]] |
+| 1 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 2 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 3 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 4 | [[mods/warframe/streamline.md\|Streamline]] |
+| 5 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 6 | [[mods/warframe/rage.md\|Rage]] |
+| 7 | [[mods/warframe/hunter_adrenaline.md\|Hunter Adrenaline]] |
+| 8 | Negation Armor (augment) |
+| Exilus | Primed Sure Footed |
+
+**Helminth:** Pillage (Hildryn) no lugar de Desiccation.
+**Arcanes:** Arcane Grace, Molt Augmented.
+**Dica:** Inaros não tem escudo: vida enorme + Scarab Shell. Ótimo para iniciantes no Steel Path.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Inaros
+
+Inaros é o faraó do deserto. Numa colônia amaldiçoada, os 'Senhores Dourados do Céu' (os Orokin) levavam as crianças; então surgiu um guerreiro que as protegeu e se tornou lenda, sepultado numa tumba. A quest Sands of Inaros conta essa história de sacrifício, e o Tenno desperta Inaros em sua tumba. Ele sobrevive à morte num sarcófago e drena vida com areia.
 
 ## 🔗 Relacionados — Inaros
 

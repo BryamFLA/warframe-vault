@@ -68,15 +68,14 @@ Como conseguir a Warframe Harrow Prime:
 
 ## 🔮 Habilidades — Harrow Prime
 
-**Passiva (inglês):** Overshield capacity doubled.r
-Start missions at maximum energy.
+**Passiva:** Capacidade de overshield dobrada; começa as missões com energia máxima.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Condemn** | 25 | Cast a wave of energy that chains them where they stand. Each enemy held reinforces Harrow's shields. |
-| 2 | **Penance** | 50 | Sacrifice Shields to boost Reload Speed, and Fire Rate while converting damage inflicted on enemies into health for Harrow and nearby allies. |
-| 3 | **Thurible** | 25 | Channel Harrow's energy into the Thurible to generate a buff. Once finished, kill enemies to bestow nearby allies with bursts of energy. The more energy channeled the greater the reward for each kill. Weak Points produce extra energy. |
-| 4 | **Covenant** | 100 | Protect nearby allies with an energy force that absorbs all damage and converts it to a Critical Chance bonus for all those under the Covenant. Weak Points are amplified even further. |
+| 1 | **Condemn** | 25 | Onda que acorrenta inimigos no lugar; cada inimigo preso reforça o escudo de Harrow. |
+| 2 | **Penance** | 50 | Sacrifica escudo para aumentar velocidade de recarga e cadência, convertendo o dano causado em vida para Harrow e aliados. |
+| 3 | **Thurible** | 25 | Canaliza energia de Harrow no Thurible; depois, cada kill dá energia aos aliados próximos (pontos fracos dão mais). |
+| 4 | **Covenant** | 100 | Protege aliados próximos com um campo que absorve todo o dano e o converte em bônus de chance crítica; pontos fracos recebem bônus maior. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/red_veil.md|Red Veil]].
 
@@ -92,6 +91,39 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,14% · MR 11–20: 0,72% · MR 21–30: 0,78% · Legendary: 0,68% |
 
 **Leitura:** Harrow Prime é pouco usado entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Harrow Prime
+
+Build de referência para **Harrow Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Duração para Thurible e Covenant.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 3 | [[mods/warframe/streamline.md\|Streamline]] |
+| 4 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 5 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 6 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 7 | [[mods/warframe/stretch.md\|Stretch]] |
+| 8 | Lasting Covenant (augment) |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino).
+**Arcanes:** Arcane Energize, Molt Augmented.
+**Dica:** Covenant dá chance crítica enorme em pontos fracos ao squad.
+
+**Versão Prime:** mesma build base; a Harrow Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Harrow Prime
+
+Harrow é o sacerdote penitente, Warframe dos rituais de expiação. Na quest Chains of Harrow, o Tenno investiga Rell, um Operator do Zariman preso em sofrimento que segura o 'Man in the Wall' para proteger os outros. Harrow mistura sofrimento e redenção: sacrifica escudos para curar e dá energia aos aliados.
+
+**Harrow Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "The Inquisitor Eternal arises, hallowed by the Void, preaching a gospel of iron and flame."
 
 ## 🔗 Relacionados — Harrow Prime
 

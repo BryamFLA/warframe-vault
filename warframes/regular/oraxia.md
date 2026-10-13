@@ -73,16 +73,16 @@ Blueprints no **Isleweaver** (Duviri; exige a quest The Hex). Alternativa: compr
 
 ## 🔮 Habilidades — Oraxia
 
-**Passiva (inglês):** Wall Latching grants Predator's Lurk, rendering Oraxia invisible for 8s.
+**Passiva:** Agarrar-se a paredes dá Predator's Lurk: invisibilidade por 8 s.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Mercy's Kiss** | 25 | Leap onto an enemy and pierce them with Oraxia's spider legs, dealing <DT_POISON_COLOR>Toxin Damage. Enemies defeated by this attack have a chance to drop Health or Energy Orbs. |
-| 2 | **Webbed Embrace** | 50 | Oraxia throws a creeping web to ensnare her prey. Enemies caught within the widening radius are trapped inside a cocoon that increases their Damage Vulnerability. |
-| 3 | **Widow's Brood** | 50 | Oraxia launches a barrage of stinging darts in front of her that applies <DT_POISON_COLOR> Toxin Status Effect. Poisoned enemies spawn Scuttlers when killed. |
-| 4 | **Silken Stride** | 25 | Unfurl Oraxia's spider legs and go on the prowl. Oraxia is immune to Status Effects and has increased Maximum Health. Ranged Weapons are imbued with <DT_POISON_COLOR> Toxin Damage. Killing enemies causes them to burst with <DT_POISON_COLOR>Toxin.r r Silken Thread: Tap Dodge to leap to a targeted surface. |
+| 1 | **Mercy's Kiss** | 25 | Salta sobre um inimigo e o perfura com as pernas de aranha, causando dano Tóxico; os mortos podem dropar orbes de vida ou energia. |
+| 2 | **Webbed Embrace** | 50 | Oraxia lança uma teia que se espalha e prende presas em casulos que aumentam a vulnerabilidade a dano. |
+| 3 | **Widow's Brood** | 50 | Oraxia dispara dardos que aplicam status Tóxico; inimigos envenenados geram Scuttlers ao morrer. |
+| 4 | **Silken Stride** | 25 | Oraxia estende as pernas de aranha: fica imune a status, ganha vida máxima, armas causam Tóxico e inimigos mortos explodem em Tóxico. Esquiva salta até superfícies. |
 
-**Helminth:** a habilidade **Webbed Embrace** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Webbed Embrace** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/new_loka.md|New Loka]].
 
@@ -98,6 +98,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,76% · MR 11–20: 1,22% · MR 21–30: 1,25% · Legendary: 1,11% |
 
 **Leitura:** Oraxia é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Oraxia
+
+Build de referência para **Oraxia** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Duração; Silken Stride.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 3 | [[mods/warframe/streamline.md\|Streamline]] |
+| 4 | [[mods/warframe/stretch.md\|Stretch]] |
+| 5 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 6 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 7 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 8 | [[mods/warframe/blind_rage.md\|Blind Rage]] |
+| Exilus | Primed Sure Footed |
+
+**Helminth:** Roar (Rhino).
+**Arcanes:** Molt Augmented, Arcane Avenger.
+**Dica:** Silken Stride dá imunidade a status e Tóxico às armas; inimigos morrem e explodem em veneno.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Oraxia
+
+Oraxia era a guardiã de Albrecht Entrati durante sua estadia em Duviri. Ela foi deixada em Scholar's Landing, uma das ilhas perdidas que sumiram depois que ele partiu, e enlouqueceu com The Indifference sussurrando com a voz de Albrecht. É a Warframe-aranha de veneno e teias, obtida no Isleweaver.
 
 ## 🔗 Relacionados — Oraxia
 

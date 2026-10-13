@@ -68,16 +68,16 @@ Blueprint principal no **Mercado**. Componentes: boss **Mutalist Alad V** em Eri
 
 ## 🔮 Habilidades — Mesa
 
-**Passiva (inglês):** Shoot dual-wielded sidearms 15% faster and reload single-handed sidearms 25% more rapidly. Gain 50 Bonus Health when not using Melee Weapons.
+**Passiva:** Atira 15% mais rápido com secundárias duplas e recarrega 25% mais rápido secundárias de uma mão; +50 de vida sem arma melee.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Ballistic Battery** | 25 | When activated, this power stores damage caused by guns. When triggered again, that damage is channelled through the next gunshot. |
-| 2 | **Shooting Gallery** | 50 | Gives an ally Extra Damage while jamming the guns of nearby enemies. This power shifts between team members. |
-| 3 | **Shatter Shield** | 75 | Envelops Mesa in a barrier of energy, reflecting back incoming bullet damage. |
-| 4 | **Peacemaker** | 25 | With intense focus, Mesa draws her Regulator pistols, shooting down her foes in rapid succession. |
+| 1 | **Ballistic Battery** | 25 | Armazena o dano causado por armas de fogo; ao ativar de novo, descarrega esse dano no próximo tiro. |
+| 2 | **Shooting Gallery** | 50 | Dá dano extra a um aliado e trava as armas dos inimigos próximos; o efeito alterna entre os membros do time. |
+| 3 | **Shatter Shield** | 75 | Envolve Mesa numa barreira que reflete o dano de balas. |
+| 4 | **Peacemaker** | 25 | Mesa saca as pistolas Regulators e abate os inimigos em sequência rápida, com foco total. |
 
-**Helminth:** a habilidade **Shooting Gallery** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Shooting Gallery** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/red_veil.md|Red Veil]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
 
@@ -93,6 +93,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,20% · MR 11–20: 0,26% · MR 21–30: 0,091% · Legendary: 0,027% |
 
 **Leitura:** Mesa é raramente usado entre os Warframes, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Mesa
+
+Build de referência para **Mesa** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Duração para Peacemaker; Shatter Shield.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/growing_power.md\|Growing Power]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 3 | [[mods/warframe/streamline.md\|Streamline]] |
+| 4 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 5 | Umbral Fiber |
+| 6 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 7 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 8 | Mesa's Waltz (augment) |
+| Exilus | Primed Sure Footed |
+
+**Helminth:** Roar (Rhino) no lugar de Ballistic Battery.
+**Arcanes:** Molt Augmented, Arcane Avenger.
+**Dica:** Peacemaker usa os mods da secundária Regulators; Mesa's Waltz permite andar enquanto atira.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Mesa
+
+Mesa é a pistoleira, a Warframe do 'velho oeste'. Ela foi criada para eliminação rápida; Peacemaker a transforma numa máquina de tiros com as pistolas Regulators. As peças vêm do Mutalist Alad V em Eris.
 
 ## 🔗 Relacionados — Mesa
 

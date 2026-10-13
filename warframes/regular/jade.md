@@ -68,16 +68,16 @@ Blueprint principal ao concluir a quest **Jade Shadows**. Componentes: missão *
 
 ## 🔮 Habilidades — Jade
 
-**Passiva (inglês):** Jade's profound understanding of the relationship between life and death grants her two Aura Mod Slots. Some of her Abilities apply Judgments, increasing enemy damage vulnerability by 50% for 10s.
+**Passiva:** Tem dois slots de Aura; algumas habilidades aplicam Judgments, aumentando em 50% a vulnerabilidade dos inimigos a dano por 10 s.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Light's Judgment** | 25 | Create a well of light that heals allies and hurts enemies. Those who enter the well will be highlighted by Judgments. |
-| 2 | **Symphony of Mercy** | 50 | Cycle through three songs that strengthen allies. Power of The Seven increases Ability Strength. Deathbringer increases Weapon Damage. Spirit of Resilience increases Shield Effectiveness. Extend the duration of each song by killing enemies surrounded by Judgments. |
-| 3 | **Ophanim Eyes** | 50 | Jade summons an accusatory gaze that slows nearby enemies and dissolves their Shields and Armor. When the gaze falls upon allies, they can be revived from a distance. |
-| 4 | **Glory on High** | 25 | Soar with destructive power. Use alternate-fire to detonate Judgments, causing an explosion of Jade Light. Enemies inside the Light's Judgment radius empower the explosion. |
+| 1 | **Light's Judgment** | 25 | Cria um poço de luz que cura aliados e fere inimigos; quem entra fica marcado com Judgments. |
+| 2 | **Symphony of Mercy** | 50 | Alterna três canções: Power of The Seven (Força de Habilidade), Deathbringer (dano de arma) e Spirit of Resilience (eficiência de escudo); matar inimigos com Judgments estende a duração. |
+| 3 | **Ophanim Eyes** | 50 | Jade invoca um olhar acusador que desacelera inimigos próximos e dissolve escudos e armadura; aliados sob o olhar podem ser revividos à distância. |
+| 4 | **Glory on High** | 25 | Jade voa com poder destrutivo; o tiro alternativo detona os Judgments, explodindo Luz de Jade. Inimigos no raio de Light's Judgment fortalecem a explosão. |
 
-**Helminth:** a habilidade **Ophanim Eyes** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Ophanim Eyes** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/red_veil.md|Red Veil]].
 
@@ -93,6 +93,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,32% · MR 11–20: 0,88% · MR 21–30: 0,97% · Legendary: 0,93% |
 
 **Leitura:** Jade é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Jade
+
+Build de referência para **Jade** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Alcance para Light's Judgment e Symphony of Mercy.
+
+| Slot | Mod |
+|---|---|
+| Aura | Corrosive Projection + 2ª aura (Growing Power) |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/transient_fortitude.md\|Transient Fortitude]] |
+| 3 | [[mods/warframe/stretch.md\|Stretch]] |
+| 4 | Augur Reach |
+| 5 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 6 | [[mods/warframe/streamline.md\|Streamline]] |
+| 7 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 8 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino) ou Pillage.
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** Jade tem 2 slots de aura; Judgments dão +50% de vulnerabilidade a dano.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Jade
+
+Jade era uma humana da era Orokin que vivia um romance secreto com Sorren, um Guardião. Ter um filho violava as leis Orokin. Ballas os descobriu e, como punição, transformou Jade em Warframe enquanto ela estava grávida — e Sorren também (ele se tornou o Stalker). Jade passou séculos numa cápsula em Lua, usada pelos Orokin para execuções, sonhando com o rosto do filho. A quest Jade Shadows conta essa história.
 
 ## 🔗 Relacionados — Jade
 

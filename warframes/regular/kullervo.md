@@ -62,16 +62,16 @@ Blueprints comprados da **Acrithis** (Dormizone, Duviri) com **Kullervo's Bane**
 
 ## 🔮 Habilidades — Kullervo
 
-**Passiva (inglês):** Kullervo boasts +75% Heavy Attack Efficiency and +100% Heavy Attack Wind Up Speed on all melee weapons.
+**Passiva:** +75% de eficiência e +100% de velocidade de preparo de Heavy Attack em todas as armas melee.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Wrathful Advance** | 25 | (TAP) Kullervo charges a Heavy Attack, then teleports to his target and strikes. His rage-filled focus temporarily increases his Melee Critical Chance.r (HOLD) Teleport to any marked location. |
-| 2 | **Recompense** | 50 | Kullervo surrounds himself with daggers. Each dagger that strikes an enemy restores his health, but each dagger that misses an enemy strikes Kullervo, dealing a bit of damage. When Kullervo has max Health, he receives Overguard from struck enemies. |
-| 3 | **Collective Curse** | 75 | Kullervo sends forth a curse that binds enemies. When a cursed enemy takes damage from him, every other cursed enemy also suffers a portion of that damage. |
-| 4 | **Storm of Ukko** | 100 | The Void answers Kullervo's invocation with a storm of daggers that rain down upon his enemies. |
+| 1 | **Wrathful Advance** | 25 | (TOQUE) Kullervo carrega um Heavy Attack, teleporta até o alvo e golpeia, ganhando chance crítica melee. (SEGURAR) teleporta a qualquer ponto marcado. |
+| 2 | **Recompense** | 50 | Kullervo se cerca de adagas; cada adaga que acerta cura, cada uma que erra o fere um pouco. Com vida cheia, ganha Overguard. |
+| 3 | **Collective Curse** | 75 | Kullervo amaldiçoa inimigos; quando um amaldiçoado leva dano dele, todos os outros amaldiçoados sofrem parte desse dano. |
+| 4 | **Storm of Ukko** | 100 | O Void responde a Kullervo com uma chuva de adagas sobre os inimigos. |
 
-**Helminth:** a habilidade **Wrathful Advance** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Wrathful Advance** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/new_loka.md|New Loka]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
 
@@ -87,6 +87,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,59% · MR 11–20: 1,69% · MR 21–30: 1,94% · Legendary: 1,84% |
 
 **Leitura:** Kullervo é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Kullervo
+
+Build de referência para **Kullervo** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Duração; build melee de Heavy Attack.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/growing_power.md\|Growing Power]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 3 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 4 | Umbral Fiber |
+| 5 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 6 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 7 | [[mods/warframe/streamline.md\|Streamline]] |
+| 8 | [[mods/warframe/stretch.md\|Stretch]] |
+| Exilus | Primed Sure Footed |
+
+**Helminth:** Pillage (Hildryn).
+**Arcanes:** Molt Augmented, Arcane Avenger.
+**Dica:** Wrathful Advance aumenta a chance crítica melee; use armas de Heavy Attack.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Kullervo
+
+Kullervo é o Warframe condenado de Duviri: uma figura trágica e criminosa, acusada de assassinato e de trair os irmãos Warframes enquanto os Orokin os exterminavam. Preso em Kullervo's Hold, ele enfrenta o Drifter como gladiador. Seu kit gira em torno de adagas e teleporte (Wrathful Advance) e da maldição coletiva.
 
 ## 🔗 Relacionados — Kullervo
 

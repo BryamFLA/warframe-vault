@@ -68,16 +68,16 @@ Blueprint principal ao concluir a quest **The Hex**. Componentes: **bounties do 
 
 ## 🔮 Habilidades — Cyte-09
 
-**Passiva (inglês):** Weak Point Kills increase Cyte-09's Weak Point Critical Chance by 1% up to 300% for the duration of the current mission.
+**Passiva:** Kills em ponto fraco aumentam em 1% a chance crítica em ponto fraco, até 300%, durante a missão.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Seek** | 25 | Plant an antenna that projects a forward wave scan. Detected enemies take increased Weak Point Damage, and become visible through walls. Weapons gain Punch through. |
-| 2 | **Resupply** | 50 | Throw two Elemental Ammo Packs that instantly refill the active weapon's magazine, while granting the weapon an additional instance of the selected Elemental Damage and Status Effect. Reload clears the effect. Sniper Rifles gain extra damage.r r Hold the ability to select the Elemental Damage type. |
-| 3 | **Evade** | 75 | Jump backwards and become invisible for a short duration. Killing enemies on their Weak Points extends the duration and heals Cyte-09. |
-| 4 | **Neutralize** | 5 | Summon the Neutralizer, Cyte-09's exalted Sniper Rifle. Bullets ricochet off Weak Points to seek out other nearby Weak Points. Alt fire lobs a <DT_FREEZE_COLOR>Cold grenade that completely freezes enemies. |
+| 1 | **Seek** | 25 | Planta uma antena que escaneia à frente: inimigos detectados levam mais dano em ponto fraco e ficam visíveis através de paredes; armas ganham Punch Through. |
+| 2 | **Resupply** | 50 | Arremessa dois pacotes de munição elemental que recarregam o pente e adicionam o elemento escolhido à arma; rifles sniper ganham dano extra. Segure para escolher o elemento. |
+| 3 | **Evade** | 75 | Pula para trás e fica invisível por pouco tempo; matar inimigos em pontos fracos estende a duração e cura Cyte-09. |
+| 4 | **Neutralize** | 5 | Invoca o Neutralizer, rifle sniper exaltado de Cyte-09; as balas ricocheteiam em pontos fracos buscando outros pontos fracos. O tiro alternativo lança uma granada de Frio que congela totalmente. |
 
-**Helminth:** a habilidade **Evade** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Evade** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 ## ⭐ Avaliação Popular — Cyte-09
 
@@ -91,6 +91,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,27% · MR 11–20: 0,80% · MR 21–30: 0,96% · Legendary: 0,88% |
 
 **Leitura:** Cyte-09 é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Cyte-09
+
+Build de referência para **Cyte-09** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Duração; foco em armas de ponto fraco.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 3 | [[mods/warframe/streamline.md\|Streamline]] |
+| 4 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 5 | Umbral Fiber |
+| 6 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 7 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 8 | [[mods/warframe/stretch.md\|Stretch]] |
+| Exilus | Primed Sure Footed |
+
+**Helminth:** Roar (Rhino) no lugar de Evade.
+**Arcanes:** Molt Augmented, Arcane Avenger.
+**Dica:** Mate em ponto fraco para acumular a passiva (até +300% de chance crítica em ponto fraco).
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Cyte-09
+
+Cyte-09 foi criado pelos Orokin para missões altamente sigilosas e nunca recebeu um nome de verdade — só a designação do lote. Desapareceu no caos após a queda do Império. O Tenno encontra o blueprint entre os pertences pessoais de Albrecht Entrati, entregue por Loid. É um atirador de elite que vive de pontos fracos e invisibilidade.
 
 ## 🔗 Relacionados — Cyte-09
 

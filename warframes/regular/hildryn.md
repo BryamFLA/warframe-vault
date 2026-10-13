@@ -68,16 +68,16 @@ Blueprint principal comprado da **Little Duck** (Vox Solaris, Fortuna) por **5.0
 
 ## 🔮 Habilidades — Hildryn
 
-**Passiva (inglês):** Hildryn's full Shield Gate is high. After her Shields are depleted, she is invulnerable to damage up to 3.5s.
+**Passiva:** Shield Gate cheio alto: após perder o escudo, fica invulnerável por até 3,5 s.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Balefire** | 50 | Charge and launch devastating bolts of electricity. |
-| 2 | **Pillage** | 150 | Pillage a percentage of Shields and Armor of nearby enemies to replenish Hildryn's own Shields and Overshields. Also removes Status Effects from Hildryn and her allies. |
-| 3 | **Haven** | 250 | Create a shield aura around allies. Enemies that approach shielded allies will take damage.  |
-| 4 | **Aegis Storm** | 100 | Take the skies and rain Balefire rockets down on the enemy. Nearby enemies are blasted into the air where they will create an Energy Orb every few seconds. When shields run out the enemies are smashed into the ground. |
+| 1 | **Balefire** | 50 | Carrega e dispara raios elétricos devastadores (arma exaltada de Hildryn, gasta escudo). |
+| 2 | **Pillage** | 150 | Rouba uma porcentagem de escudo e armadura dos inimigos próximos para recarregar o escudo e overshield de Hildryn; remove status dela e dos aliados. |
+| 3 | **Haven** | 250 | Cria uma aura de escudo nos aliados; inimigos que se aproximam levam dano. |
+| 4 | **Aegis Storm** | 100 | Voa e faz chover foguetes Balefire. Inimigos próximos são lançados ao ar e geram Energy Orbs a cada poucos segundos; quando o escudo acaba, são esmagados no chão. |
 
-**Helminth:** a habilidade **Pillage** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Pillage** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
 
@@ -93,6 +93,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,059% · MR 11–20: 0,081% · MR 21–30: 0,096% · Legendary: 0,033% |
 
 **Leitura:** Hildryn é raramente usado entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Hildryn
+
+Build de referência para **Hildryn** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Escudo máximo e Força para Pillage/Haven.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/brief_respite.md\|Brief Respite]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/redirection.md\|Redirection]] |
+| 3 | [[mods/warframe/augur_accord.md\|Augur Accord]] |
+| 4 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 5 | [[mods/warframe/stretch.md\|Stretch]] |
+| 6 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 7 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 8 | Balefire Surge (augment) |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Gloom (Sevagoth) no lugar de Balefire.
+**Arcanes:** Molt Augmented, Arcane Avenger.
+**Dica:** Hildryn gasta escudo em vez de energia: priorize capacidade de escudo e recarga.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Hildryn
+
+Hildryn é uma Warframe de escudos e pilhagem, ligada aos Solaris e à resistência contra os Corpus no Orb Vallis. Ela usa os escudos como energia: rouba escudo e armadura dos inimigos (Pillage) e voa sobre o campo com Aegis Storm. É obtida com a Little Duck e o Exploiter Orb.
 
 ## 🔗 Relacionados — Hildryn
 

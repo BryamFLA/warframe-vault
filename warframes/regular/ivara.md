@@ -71,16 +71,16 @@ Blueprint principal no **Mercado**. Componentes: **rotação C das missões Spy*
 
 ## 🔮 Habilidades — Ivara
 
-**Passiva (inglês):** Senses nearby enemies within 50m.
+**Passiva:** Sente inimigos próximos num raio de 50 m.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Quiver** | 25 | Cycle through and shoot one of four tactical arrows. Cloak creates a stationary bubble that cloaks Ivara and allies. Dashwire creates a traversable zipline. Noise emits a high-pitched sound that attracts enemies to it. Sleep temporarily puts nearby enemies into a deep slumber. |
-| 2 | **Navigator** | 25 | Assume control of any projectile launched by Ivara and guide it to the target. |
-| 3 | **Prowl** | 25 | Become invisible and steal loot from unsuspecting enemies or take out prey with deadly headshots. |
-| 4 | **Artemis Bow** | 50 | Summon a mighty bow and unleash a volley of devastating arrows. |
+| 1 | **Quiver** | 25 | Alterna entre 4 flechas táticas: Cloak (bolha de invisibilidade), Dashwire (tirolesa), Noise (atrai inimigos) e Sleep (adormece inimigos próximos). |
+| 2 | **Navigator** | 25 | Controla qualquer projétil lançado por Ivara e o guia até o alvo. |
+| 3 | **Prowl** | 25 | Fica invisível e rouba loot de inimigos desatentos ou os elimina com headshots letais. |
+| 4 | **Artemis Bow** | 50 | Invoca um arco poderoso (arma exaltada) que dispara rajadas de flechas devastadoras. |
 
-**Helminth:** a habilidade **Quiver** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Quiver** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
 
@@ -96,6 +96,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,11% · MR 11–20: 0,21% · MR 21–30: 0,13% · Legendary: 0,020% |
 
 **Leitura:** Ivara é raramente usado entre os Warframes, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Ivara
+
+Build de referência para **Ivara** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Duração e Eficiência para Prowl (furtividade e roubo).
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 2 | [[mods/warframe/streamline.md\|Streamline]] |
+| 3 | [[mods/warframe/fleeting_expertise.md\|Fleeting Expertise]] |
+| 4 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 5 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 6 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 7 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 8 | Infiltrate (augment) |
+| Exilus | Primed Sure Footed |
+
+**Helminth:** Roar (Rhino) no lugar de Quiver.
+**Arcanes:** Arcane Energize, Molt Augmented.
+**Dica:** Prowl rouba loot sem matar: excelente para farm de recursos e Spy.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Ivara
+
+Segundo 'A História Secreta da Corte Orokin', do historiador Porvis, existia um caçador chamado Myrmidon que caçava Warframes, apagando modelos inteiros da história. Ivara, a Caçadora, foi quem o enfrentou e venceu em seu próprio jogo de furtividade. Por isso é a Warframe de arco, flechas táticas e invisibilidade (Prowl).
 
 ## 🔗 Relacionados — Ivara
 

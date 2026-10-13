@@ -66,16 +66,49 @@ Como conseguir a Warframe Styanax Prime:
 
 ## 🔮 Habilidades — Styanax Prime
 
-**Passiva (inglês):** Styanax's critical chance increases with his shields and doubles for spearguns.
+**Passiva:** A chance crítica aumenta com o escudo e dobra com arpões (spearguns).
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Axios Javelin** | 15 | Throw an Axios Javelin. When the javelin impales an enemy against a wall, surrounding enemies are pulled into the area and suffer a burst of damage. |
-| 2 | **Tharros Strike** | 25 | Summon Tharros, the shield of Styanax. Swing Tharros to repel enemies and reduce their shields and armor. Styanax regenerates health for every enemy struck. |
-| 3 | **Rally Point** | 75 | Draw enemy attention to Styanax. His resolve uplifts him and nearby allies, regenerating the squad's energy over time. Styanax and his allies also regenerate shields for every kill assist they contribute. |
-| 4 | **Final Stand** | 100 | Exude might and valor. Rise into the air and throw a barrage of Axios Javelins. The javelins deal damage to nearby enemies wherever they land. Direct hits to enemies deal greater damage. |
+| 1 | **Axios Javelin** | 15 | Arremessa um dardo Axios; ao prender um inimigo na parede, puxa os inimigos ao redor e causa uma explosão de dano. |
+| 2 | **Tharros Strike** | 25 | Invoca Tharros, o escudo de Styanax, e golpeia repelindo inimigos e reduzindo escudo e armadura; cura vida por inimigo atingido. |
+| 3 | **Rally Point** | 75 | Atrai a atenção inimiga para Styanax; ele e os aliados próximos regeneram energia com o tempo e escudo a cada assistência em kill. |
+| 4 | **Final Stand** | 100 | Styanax sobe ao ar e arremessa uma barragem de dardos Axios que causam dano onde caem; acertos diretos causam mais dano. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/new_loka.md|New Loka]].
+
+## 🛠️ Build — Styanax Prime
+
+Build de referência para **Styanax Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Alcance para Final Stand; Rally Point.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/transient_fortitude.md\|Transient Fortitude]] |
+| 3 | [[mods/warframe/stretch.md\|Stretch]] |
+| 4 | Augur Reach |
+| 5 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 6 | [[mods/warframe/streamline.md\|Streamline]] |
+| 7 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 8 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino) no lugar de Axios Javelin.
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** Final Stand é um nuke de área; Rally Point dá energia ao squad.
+
+**Versão Prime:** mesma build base; a Styanax Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Styanax Prime
+
+Styanax é o Hoplita: o portador de lança e escudo, o herói. Todos conhecem a história de Styanax e do Leviatã, quando a astuta Aria enganou o líder de culto chamado Filantropo e chamou seu aliado Warframe ao coração dos laboratórios monstruosos dele. Ele é obtido com o Chipper na Kahl's Garrison e foi o 50º Warframe do jogo.
+
+**Styanax Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "Shield of the innocent. Spear of justice. Styanax Prime holds the line in defiance of tyranny."
 
 ## 🔗 Relacionados — Styanax Prime
 

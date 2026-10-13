@@ -69,16 +69,16 @@ Blueprints no **Shrine Defense** de **Saya's Visions, Terra** (saindo de Cetus).
 
 ## 🔮 Habilidades — Koumei
 
-**Passiva (inglês):** Every 60 seconds, one of Koumei's weapons will inflict random Status Effects for 60 seconds
+**Passiva:** A cada 60 s, uma das armas de Koumei aplica status aleatórios por 60 s.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Kumihimo** | 25 | Weave the threads of destiny. Enemies who touch the threads suffer a random Elemental Status Effect.r r A roll of triple sixes creates threads that inflict one of every Elemental Status Effect. |
-| 2 | **Omikuji** | 50 | Koumei glimpses a favorable future and the precise steps needed to reach it. Complete the challenge to earn a Decree. Unlucky rolls add a debuff, but you can hold the ability to reject the Omikuji.r r A roll of triple sixes grants a Decree without a challenge. |
-| 3 | **Omamori** | 75 | Surround yourself with Omamori Charms, each with a chance to have enemy attacks heal you instead of damage you. The number of charms is determined by Koumei's dice roll.r r A roll of triple sixes grants invulnerability for the duration of your Omamori Charms. |
-| 4 | **Bunraku** | 100 | Wield your foe's fate threads like the strings of marionettes. Koumei's dice determine how many Status Effects foes in front of Koumei will suffer.r r A roll of triple sixes causes further Status Effects over time and extends Bunraku to enemies behind Koumei. |
+| 1 | **Kumihimo** | 25 | Tece fios do destino; inimigos que os tocam sofrem um status elemental aleatório. Triplo seis aplica todos os status elementais. |
+| 2 | **Omikuji** | 50 | Koumei vê um futuro favorável e o desafio para alcançá-lo; completar dá um Decree. Rolagens ruins dão debuff (segure para recusar). Triplo seis dá o Decree sem desafio. |
+| 3 | **Omamori** | 75 | Amuletos Omamori cercam Koumei, cada um com chance de transformar ataques inimigos em cura; os dados decidem quantos. Triplo seis dá invulnerabilidade durante os amuletos. |
+| 4 | **Bunraku** | 100 | Manipula os fios do destino dos inimigos à frente. Os dados de Koumei decidem quantos efeitos de status eles sofrem; triplo seis causa status contínuos e estende aos inimigos atrás. |
 
-**Helminth:** a habilidade **Omamori** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Omamori** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/new_loka.md|New Loka]].
 
@@ -94,6 +94,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 1,16% · MR 11–20: 0,91% · MR 21–30: 0,89% · Legendary: 0,82% |
 
 **Leitura:** Koumei é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Koumei
+
+Build de referência para **Koumei** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Duração e Força para Omamori e Kumihimo.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/growing_power.md\|Growing Power]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 3 | [[mods/warframe/streamline.md\|Streamline]] |
+| 4 | [[mods/warframe/stretch.md\|Stretch]] |
+| 5 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 6 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 7 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 8 | [[mods/warframe/augur_secrets.md\|Augur Secrets]] |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Pillage (Hildryn).
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** Triplo seis nos dados dá os efeitos máximos de cada habilidade.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Koumei
+
+Quando a vila de Cetus ainda se chamava Karifamil, o fundador Mer-Sah se lançou ao mar e a ordem desabou: até os Eidolons voltaram à natureza selvagem. Dizem que então Koumei surgiu do mar. Diferente dos Quills, que guardam suas visões, Koumei revelava futuros possíveis ao povo e virou um oráculo cultuado pelos Ostron. Ela adivinha o destino com os Cinco Fados (dados) e envia sonhos proféticos de alerta.
 
 ## 🔗 Relacionados — Koumei
 

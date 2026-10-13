@@ -68,14 +68,14 @@ Como conseguir a Warframe Loki Prime:
 
 ## 🔮 Habilidades — Loki Prime
 
-**Passiva (inglês):** Able to hang from walls 10x longer than normal.
+**Passiva:** Fica pendurado em paredes 10x mais tempo.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Decoy** | 25 | Loki deploys a holographic copy of himself that draws enemy fire. The decoy gains health and shield based on enemies nearby. |
-| 2 | **Invisibility** | 50 | Loki camouflages himself, becoming invisible to enemies. |
-| 3 | **Switch Teleport** | 25 | Loki instantaneously swaps positions with a target, confusing the enemy. |
-| 4 | **Radial Disarm** | 100 | Lets forth a wave of energy, disrupting the projectile weapons of enemies in range and forcing them to revert to melee combat. |
+| 1 | **Decoy** | 25 | Loki cria uma cópia holográfica que atrai tiros; ela ganha vida e escudo conforme os inimigos próximos. |
+| 2 | **Invisibility** | 50 | Loki se camufla e fica invisível aos inimigos. |
+| 3 | **Switch Teleport** | 25 | Loki troca de posição instantaneamente com um alvo, confundindo o inimigo. |
+| 4 | **Radial Disarm** | 100 | Onda de energia que desativa as armas de fogo dos inimigos no alcance, forçando-os ao corpo a corpo. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/red_veil.md|Red Veil]].
 
@@ -91,6 +91,39 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,11% · MR 11–20: 0,41% · MR 21–30: 1,06% · Legendary: 1,26% |
 
 **Leitura:** Loki Prime é pouco usado entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Loki Prime
+
+Build de referência para **Loki Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Duração para Invisibility; Alcance para Radial Disarm.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 2 | [[mods/warframe/stretch.md\|Stretch]] |
+| 3 | Augur Reach |
+| 4 | [[mods/warframe/streamline.md\|Streamline]] |
+| 5 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 6 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 7 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 8 | Irradiating Disarm (augment) |
+| Exilus | Primed Sure Footed |
+
+**Helminth:** Roar (Rhino) no lugar de Decoy.
+**Arcanes:** Arcane Energize, Molt Augmented.
+**Dica:** Irradiating Disarm confunde e desarma: controle de grupo forte em missões de sobrevivência.
+
+**Versão Prime:** mesma build base; a Loki Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Loki Prime
+
+Loki é o trapaceiro: invisibilidade, chamarizes e troca de lugar. Na era Orokin era um agente de infiltração e desinformação; o nome e o kit evocam o deus nórdico enganador. É um dos clássicos de 2013.
+
+**Loki Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "Confuse, deceive and destroy with Loki Prime. Featuring altered mod polarities for greater customization."
 
 ## 🔗 Relacionados — Loki Prime
 

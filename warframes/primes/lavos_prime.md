@@ -68,16 +68,14 @@ Como conseguir a Warframe Lavos Prime:
 
 ## 🔮 Habilidades — Lavos Prime
 
-**Passiva (inglês):** Energy and Universal Orbs give Lavos status immunity for 10s.r
-r
-Hold any ability to imbue the next cast with additional Elemental Damage and Status.
+**Passiva:** Orbes de energia e universais dão imunidade a status por 10 s; segure qualquer habilidade para imbuir a próxima com dano elemental e status extra (Lavos não usa energia, usa recargas).
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Ophidian Bite** | 8 | Lash out with a toxic serpentine strike, consuming the target to heal Lavos.r r Hold to imbue all abilities with <DT_POISON_COLOR>Toxin. |
-| 2 | **Vial Rush** | 5 | Dash forward, crashing through enemies and leaving an icy trail of broken vials.r r Hold to imbue the next ability cast with <DT_FREEZE_COLOR>Cold. |
-| 3 | **Transmutation Probe** | 10 | Launch a probe that converts Health and Energy Orbs into Universal Orbs that provide both, and ammo pickups into Universal Ammo Pickups. The probe shocks enemies in close proximity. Each electrocuted foe reduces other ability cooldowns by 1.5s.r r Hold to imbue the next ability cast with <DT_ELECTRICITY_COLOR>Electricity. |
-| 4 | **Catalyze** | 30 | Catalyst Probes erupt from Lavos and douse combatants in a fiery gel. Damage is doubled for each element afflicting an enemy.r r Hold to imbue the next ability cast with <DT_FIRE_COLOR>Heat. |
+| 1 | **Ophidian Bite** | 8 | Golpe serpentino tóxico que consome o alvo para curar Lavos. SEGURAR imbui todas as habilidades com Tóxico. |
+| 2 | **Vial Rush** | 5 | Avança atravessando inimigos e deixando um rastro gelado de frascos quebrados. Segure para imbuir a próxima habilidade com Frio. |
+| 3 | **Transmutation Probe** | 10 | Sonda que converte orbes de vida e energia em orbes universais e munição em munição universal; choca inimigos próximos e cada um reduz a recarga das outras habilidades. Segure para imbuir a próxima habilidade com Eletricidade. |
+| 4 | **Catalyze** | 30 | Sondas de Lavos cobrem inimigos com gel incendiário; o dano dobra para cada elemento que afeta o inimigo. SEGURAR imbui a próxima habilidade com Calor. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/new_loka.md|New Loka]], [[mecanicas/sindicatos/red_veil.md|Red Veil]].
 
@@ -93,6 +91,39 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,23% · MR 11–20: 0,87% · MR 21–30: 1,04% · Legendary: 1,10% |
 
 **Leitura:** Lavos Prime é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Lavos Prime
+
+Build de referência para **Lavos Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Alcance (não usa energia, usa recarga); Duração.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/transient_fortitude.md\|Transient Fortitude]] |
+| 3 | [[mods/warframe/stretch.md\|Stretch]] |
+| 4 | Augur Reach |
+| 5 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 6 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 7 | Umbral Fiber |
+| 8 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| Exilus | Primed Sure Footed |
+
+**Helminth:** Roar (Rhino) no lugar de Ophidian Bite.
+**Arcanes:** Molt Augmented, Arcane Grace.
+**Dica:** Eficiência não ajuda Lavos (sem energia); orbes dão imunidade a status.
+
+**Versão Prime:** mesma build base; a Lavos Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Lavos Prime
+
+Lavos é o transmutador — chamado por alguns de alquimista. Para os Orokin, a transmutação era uma ciência proibida e poderosa. Nenhum transmutador era mais temido que Javi, 'a Serpente Rastejante', e a história de Lavos está ligada a esse tabu. No jogo, ele mistura elementos em frascos e não usa energia, só recargas; é comprado do Father, com os Entrati.
+
+**Lavos Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "Some Warframes were Prime from the start. Others ascended. Lavos, the master of transmutation, bowed to no one as he forged his own path to valor."
 
 ## 🔗 Relacionados — Lavos Prime
 

@@ -66,16 +66,49 @@ Como conseguir a Warframe Citrine Prime:
 
 ## 🔮 Habilidades — Citrine Prime
 
-**Passiva (inglês):** Citrine grants nearby allies 5 health regeneration per second. Pick up a Health Orb to increase regeneration by 0.1, up to a maximum of 25.
+**Passiva:** Dá 5 de regeneração de vida por segundo aos aliados próximos; cada orbe de vida coletado aumenta em 0,1, até 25.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Fractured Blast** | 25 | Slash and stagger enemies with a crystal blast that inflicts <DT_SLASH_COLOR>Slash Status. Enemies afflicted with this Status Effect have an increased chance of dropping Health and Energy Orbs. |
-| 2 | **Preserving Shell** | 50 | Citrine guards herself and nearby allies with a crystalline shell that gradually decays. Kills and assists increase the defensive power of the shell. |
-| 3 | **Prismatic Gem** | 75 | Deploy a gem that shoots prismatic beams. The gem targets enemies that are taking weapon damage from Citrine and her allies. Its beams inflict Heat, Cold, Toxin, and Electricity Status Effects. Status Chance and Status Duration increase for nearby allies. |
-| 4 | **Crystallize** | 100 | Citrine summons crystal fractals. The fractals rush forward, seeking enemies. Enemies touched by the fractals are paralyzed by crystalline growths. Hit the growths to deal Critical Damage. |
+| 1 | **Fractured Blast** | 25 | Explosão de cristal que corta e desequilibra inimigos com status de Corte; afetados dropam mais orbes de vida e energia. |
+| 2 | **Preserving Shell** | 50 | Citrine protege a si e aliados com uma casca cristalina que se desgasta; kills e assistências aumentam a proteção. |
+| 3 | **Prismatic Gem** | 75 | Instala uma gema que dispara feixes prismáticos nos inimigos que estão levando dano de armas, aplicando status de Calor, Frio, Tóxico e Eletricidade; aliados próximos ganham chance e duração de status. |
+| 4 | **Crystallize** | 100 | Citrine invoca fractais de cristal que buscam inimigos e os paralisam com crescimentos cristalinos; atirar nos cristais causa dano crítico. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/red_veil.md|Red Veil]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
+
+## 🛠️ Build — Citrine Prime
+
+Build de referência para **Citrine Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Duração e Força para Prismatic Gem e Preserving Shell.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/growing_power.md\|Growing Power]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 3 | [[mods/warframe/streamline.md\|Streamline]] |
+| 4 | [[mods/warframe/stretch.md\|Stretch]] |
+| 5 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 6 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 7 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 8 | [[mods/warframe/augur_secrets.md\|Augur Secrets]] |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Gloom (Sevagoth).
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** Prismatic Gem dá chance e duração de status aos aliados: ótima para builds de status do squad.
+
+**Versão Prime:** mesma build base; a Citrine Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Citrine Prime
+
+Durante a Antiga Guerra, Citrine era a guardiã de Belric e Rania. Quando os Sentients avançaram sobre Deimos, o casal detonou uma bomba biológica que soltou a Infestação na lua. Em vez de fugir, Citrine se sacrificou e transmutou os corpos dos dois em cristais para que não fossem infestados. Séculos depois, contrabandistas descobriram que separar os cristais de Belric e Rania abria um túnel no Void — a origem do modo Mirror Defense.
+
+**Citrine Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "The crystalline citadel ascends. Citrine Prime captivates with refined radiance, her brilliant gems set within the finest gold filigree"
 
 ## 🔗 Relacionados — Citrine Prime
 

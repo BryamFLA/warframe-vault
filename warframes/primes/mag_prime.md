@@ -68,14 +68,14 @@ Como conseguir a Warframe Mag Prime:
 
 ## 🔮 Habilidades — Mag Prime
 
-**Passiva (inglês):** Nearby items gravitate towards Mag for easy collection.
+**Passiva:** Itens próximos são atraídos até ela.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Pull** | 25 | Mag stuns enemies as she manifests a magnetic vortex. The vortex pulls in Polarize Shards and stunned enemies to place them directly in front of her. |
-| 2 | **Magnetize** | 50 | (TAP) Enclose a target in a magnetic field that ensnares nearby enemies and deals damage over time. The field pulls Polarize Shards that orbited Mag and shrapnel into the deadly mix.r (HOLD) Mag surrounds herself in a magnetic field that absorbs ranged attacks and reflects damage back in a destructive cone. |
-| 3 | **Polarize** | 75 | Emit an energy pulse that depletes enemy shields and armor as it restores ally shields. Debris left over from the pulse becomes Polarize Shards. Nearby Polarize Shards orbit Mag and cut enemies, inflicting <DT_SLASH_COLOR>Slash Status Effect. |
-| 4 | **Crush** | 100 | Magnetize the bones of nearby enemies, causing them to collapse upon themselves. |
+| 1 | **Pull** | 25 | Mag atordoa inimigos com um vórtice magnético que os puxa (e aos Polarize Shards) para a frente dela. |
+| 2 | **Magnetize** | 50 | (TOQUE) Envolve um alvo num campo magnético que prende inimigos próximos e causa dano contínuo. (SEGURAR) Mag cria um campo ao redor de si que absorve ataques à distância e devolve o dano num cone. |
+| 3 | **Polarize** | 75 | Pulso de energia que esgota escudos e armadura inimigos e restaura escudos aliados; os destroços viram Polarize Shards que orbitam Mag e aplicam Corte. |
+| 4 | **Crush** | 100 | Magnetiza os ossos dos inimigos próximos, fazendo-os colapsar sobre si mesmos. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/new_loka.md|New Loka]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
 
@@ -91,6 +91,39 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,19% · MR 11–20: 0,82% · MR 21–30: 1,16% · Legendary: 0,99% |
 
 **Leitura:** Mag Prime é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Mag Prime
+
+Build de referência para **Mag Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Alcance para Magnetize/Polarize.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/transient_fortitude.md\|Transient Fortitude]] |
+| 3 | [[mods/warframe/stretch.md\|Stretch]] |
+| 4 | Augur Reach |
+| 5 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 6 | [[mods/warframe/streamline.md\|Streamline]] |
+| 7 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 8 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino) no lugar de Pull.
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** Polarize destrói escudos e armadura: forte contra Corpus.
+
+**Versão Prime:** mesma build base; a Mag Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Mag Prime
+
+Mag é a Warframe do magnetismo, uma das três iniciais (com Excalibur e Volt). Ela manipula campos magnéticos para puxar inimigos, esmagar ossos (Crush) e arrancar escudos (Polarize). É a Warframe de Corpus por excelência, por sua força contra escudos.
+
+**Mag Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "The exquisite Mag Prime offers the same abilities as Mag but with unique mod polarities for greater customization."
 
 ## 🔗 Relacionados — Mag Prime
 

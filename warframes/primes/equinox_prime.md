@@ -68,14 +68,14 @@ Como conseguir a Warframe Equinox Prime:
 
 ## 🔮 Habilidades — Equinox Prime
 
-**Passiva (inglês):** 10% of Health Orbs are converted into Energy, and 10% of Energy Orbs are converted into Health.
+**Passiva:** 10% dos orbes de vida viram energia e 10% dos orbes de energia viram vida.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Metamorphosis** | 25 | Switch forms, temporarily gaining bonus Shields and Armor in Night-Form, or bonus Damage and Speed in Day-Form. |
-| 2 | **Rest & Rage** | 25 | In Night-Form, targets are put to sleep. In Day-Form, targets become more vulnerable to damage. |
-| 3 | **Pacify & Provoke** | 10 | In Night-Form, reduces damage inflicted by nearby enemies. In Day-Form, increases Ability Strength of nearby allies. |
-| 4 | **Mend & Maim** | 50 | In Night-Form, allies' Shields are replenished with each nearby enemy killed. In Day-Form, enemies are inflicted with <DT_SLASH_COLOR>Slash Status Effect. Deactivate while in Night-Form to restore Health and Shields for Equinox and allies. Deactivate while in Day-Form to cast a wave of slashing force. |
+| 1 | **Metamorphosis** | 25 | Troca de forma: Noite dá escudo e armadura bônus; Dia dá dano e velocidade. |
+| 2 | **Rest & Rage** | 25 | Na forma Noite, adormece os alvos; na forma Dia, deixa-os mais vulneráveis a dano. |
+| 3 | **Pacify & Provoke** | 10 | Na forma Noite, reduz o dano causado pelos inimigos próximos; na forma Dia, aumenta a Força de Habilidade dos aliados próximos. |
+| 4 | **Mend & Maim** | 50 | Na forma Noite, os escudos dos aliados recarregam a cada inimigo morto por perto; na forma Dia, os inimigos sofrem status de Corte. Desativar libera cura (Noite) ou uma onda cortante (Dia). |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/new_loka.md|New Loka]].
 
@@ -91,6 +91,39 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,085% · MR 11–20: 0,38% · MR 21–30: 0,65% · Legendary: 0,64% |
 
 **Leitura:** Equinox Prime é pouco usado entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Equinox Prime
+
+Build de referência para **Equinox Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Alcance e Força para Mend & Maim (forma Dia) — build de limpeza de mapa.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/stretch.md\|Stretch]] |
+| 3 | [[mods/warframe/overextended.md\|Overextended]] |
+| 4 | Augur Reach |
+| 5 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 6 | [[mods/warframe/streamline.md\|Streamline]] |
+| 7 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 8 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Pillage (Hildryn).
+**Arcanes:** Arcane Energize, Molt Augmented.
+**Dica:** Maim acumula dano e libera numa onda; com Overextended a Força cai, mas o alcance compensa.
+
+**Versão Prime:** mesma build base; a Equinox Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Equinox Prime
+
+Equinox é a Warframe da dualidade: alterna entre a forma Dia (agressiva, dano) e Noite (calma, sono e proteção). Para montá-la, é preciso forjar dois Aspects — Night e Day — obtidos do boss Tyl Regor em Urano. A dualidade de equilíbrio é o centro de sua identidade.
+
+**Equinox Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "Night and Day in final balance; the graceful perfection of the one that walks the borders."
 
 ## 🔗 Relacionados — Equinox Prime
 

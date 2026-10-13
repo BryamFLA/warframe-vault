@@ -62,16 +62,16 @@ Blueprint principal no **Mercado**. Componentes ao fim de cada missão da quest 
 
 ## 🔮 Habilidades — Mirage
 
-**Passiva (inglês):** Sliding lasts 85% longer and acrobatic maneuvers are 50% faster.
+**Passiva:** Deslizes duram 85% mais e manobras acrobáticas são 50% mais rápidas.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Hall of Mirrors** | 25 | Mirage creates an entourage of doppelgangers to confuse and distract the enemy. |
-| 2 | **Sleight of Hand** | 50 | Booby trap nearby objects while conjuring an irresistible jewel that bursts with radial blind when touched in darkness, or a radial explosion in light. Conjure multiple smaller jewels with the help of Hall of Mirrors. |
-| 3 | **Eclipse** | 25 | (TAP) Temporarily reduce the damage Mirage takes from enemies.r (HOLD) Temporarily increase Mirage's weapon damage. |
-| 4 | **Prism** | 50 | Fires an energy prism that shoots lasers in all directions. Activating again detonates the prism, blinding nearby foes. |
+| 1 | **Hall of Mirrors** | 25 | Mirage cria cópias de si mesma que confundem e distraem os inimigos (e atiram junto com ela). |
+| 2 | **Sleight of Hand** | 50 | Arma armadilhas em objetos próximos e conjura uma joia irresistível que cega (no escuro) ou explode (na luz) quando tocada; com Hall of Mirrors cria várias joias menores. |
+| 3 | **Eclipse** | 25 | (TOQUE) reduz o dano que Mirage recebe. (SEGURAR) aumenta o dano das armas de Mirage. |
+| 4 | **Prism** | 50 | Dispara um prisma de energia que atira lasers em todas as direções; ative de novo para detoná-lo, cegando inimigos. |
 
-**Helminth:** a habilidade **Eclipse** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Eclipse** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]].
 
@@ -87,6 +87,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,30% · MR 11–20: 0,41% · MR 21–30: 0,055% · Legendary: 0,011% |
 
 **Leitura:** Mirage é pouco usado entre os Warframes, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Mirage
+
+Build de referência para **Mirage** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Duração e Força para Hall of Mirrors e Eclipse.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 3 | [[mods/warframe/streamline.md\|Streamline]] |
+| 4 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 5 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 6 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 7 | [[mods/warframe/blind_rage.md\|Blind Rage]] |
+| 8 | Total Eclipse (augment) |
+| Exilus | Primed Sure Footed |
+
+**Helminth:** Roar (Rhino) no lugar de Sleight of Hand.
+**Arcanes:** Molt Augmented, Arcane Avenger.
+**Dica:** Cada clone copia o seu dano: excelente com armas de área.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Mirage
+
+Mirage é a ilusionista, Warframe de espelhos e truques de luz. Ela é obtida na quest Hidden Messages, um mistério de mensagens codificadas e música. Seu Hall of Mirrors cria cópias que atiram junto, e o Eclipse alterna proteção e dano conforme a luz.
 
 ## 🔗 Relacionados — Mirage
 

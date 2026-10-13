@@ -77,16 +77,16 @@ Blueprints no **Stage Defense** em **Solstice Square, Höllvania** (exige a ques
 
 ## 🔮 Habilidades — Temple
 
-**Passiva (inglês):** Play abilities in sync with the Backbeat metronome to invigorate ability effects while increasing Ability Efficiency by 50%.
+**Passiva:** Usar habilidades no ritmo do metrônomo Backbeat fortalece os efeitos e dá +50% de eficiência de habilidade.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Pyrotechnics** | 25 | Blast targeted enemies with pillars of <DT_FIRE_COLOR>Heat Damage. r r Backbeat Timing: Ignite even more pillars. Increases the Duration and <DT_FIRE_COLOR>Heat Damage of Ripper's Wail when it deals damage. |
-| 2 | **Overdrive** | 25 | Drive loudspeakers into epic distortion to create a damaging wave of <DT_FIRE_COLOR>Heat Damage while also increasing vulnerability to Critical Chance. r r Backbeat Timing: Doubles Critical Chance. Increases the Duration and <DT_FIRE_COLOR>Heat Damage of Ripper's Wail when it deals damage. |
-| 3 | **Ripper's Wail** | 50 | Rip on the guitar to make Temple briefly invulnerable while healing them. Ally's weapons in <AFFINITY_SHARE>Affinity Range are lit-up with extra <DT_FIRE_COLOR>Heat Damage each time an ability is used on the Backbeat and successfully hits enemies.r r Backbeat Timing: Invulnerability lasts longer. |
-| 4 | **Exalted Solo** | 75 | Once a charge has been built up on the Backbeat metronome, set Lizzie aflame and torch enemies with <DT_FIRE_COLOR>Heat. While aimed, Lizzie blasts enemies with thunderous elemental sound waves, use ability controls to change the Elemental Damage type.r r Backbeat Timing: No Energy consumed. |
+| 1 | **Pyrotechnics** | 25 | Atinge inimigos com pilares de Calor. No tempo do Backbeat, gera mais pilares e fortalece o Ripper's Wail. |
+| 2 | **Overdrive** | 25 | Leva os alto-falantes à distorção, criando uma onda de Calor que também deixa inimigos vulneráveis a crítico. No tempo do Backbeat, dobra a chance crítica e fortalece o Ripper's Wail. |
+| 3 | **Ripper's Wail** | 50 | Solo de guitarra que deixa Temple invulnerável por um instante e o cura; armas aliadas ganham Calor extra quando habilidades no tempo do Backbeat acertam inimigos. |
+| 4 | **Exalted Solo** | 75 | Com carga no metrônomo Backbeat, incendeia a guitarra Lizzie e queima inimigos com Calor; mirando, dispara ondas sonoras elementais (o elemento muda com os controles de habilidade). No tempo certo do Backbeat, não gasta energia. |
 
-**Helminth:** a habilidade **Pyrotechnics** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Pyrotechnics** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/new_loka.md|New Loka]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
 
@@ -102,6 +102,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,28% · MR 11–20: 0,58% · MR 21–30: 0,63% · Legendary: 0,59% |
 
 **Leitura:** Temple é pouco usado entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Temple
+
+Build de referência para **Temple** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Duração; usar habilidades no Backbeat.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 3 | [[mods/warframe/streamline.md\|Streamline]] |
+| 4 | [[mods/warframe/stretch.md\|Stretch]] |
+| 5 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 6 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 7 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 8 | [[mods/warframe/blind_rage.md\|Blind Rage]] |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino).
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** Habilidades no tempo do metrônomo ganham +50% de eficiência e efeito extra.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Temple
+
+Temple é a Warframe que Ballas teve medo de construir, porque a rebeldia estava em seu DNA. É Flare, a roqueira de Höllvania (1999), com sua guitarra Lizzie: ela percebe que vai se transformar por completo e que o Warframe 'Temple' do futuro é ela mesma. Para chegar à época dos Tenno, hiberna num cometa que deixa o sistema e volta a tempo da Insurreição Tenno.
 
 ## 🔗 Relacionados — Temple
 

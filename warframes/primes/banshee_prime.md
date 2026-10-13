@@ -68,14 +68,14 @@ Como conseguir a Warframe Banshee Prime:
 
 ## 🔮 Habilidades — Banshee Prime
 
-**Passiva (inglês):** Banshee pierces the ears of enemies within a 20m radius when casting Abilities, applying max <DT_PUNCTURE_COLOR>Puncture Status Effect. Additionally, Banshee's weapon noise is hushed.
+**Passiva:** Ao usar habilidades, perfura os ouvidos dos inimigos num raio de 20 m, aplicando o máximo de status de Perfuração; as armas dela fazem menos barulho.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Sonic Boom** | 25 | Banshee emits a sonic shockwave that pushes targets in range with enough force to incapacitate attackers and reduce their Armor. |
-| 2 | **Sonar** | 50 | Using acoustic location, Banshee's Sonar power finds and tracks enemies, and exposes critical weak points to everyone in your squad. |
-| 3 | **Silence** | 75 | Using Silence surrounds Banshee in an aura that stuns enemies, limits their perception and tactical response to gunfire and Warframe attacks, and renders them unable to activate their abilities. |
-| 4 | **Sound Quake** | 75 | Channeling all of her acoustic energy into the environment, Banshee uses ultrasonic reverberations to violently shake the ground in a targeted area. |
+| 1 | **Sonic Boom** | 25 | Onda sônica que empurra os alvos, incapacitando-os e reduzindo a armadura. |
+| 2 | **Sonar** | 50 | Localiza inimigos por som e expõe pontos fracos críticos para todo o squad. |
+| 3 | **Silence** | 75 | Aura que atordoa inimigos, limita a percepção deles e os impede de usar habilidades. |
+| 4 | **Sound Quake** | 75 | Banshee canaliza energia acústica no chão, fazendo-o tremer violentamente numa área. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
 
@@ -91,6 +91,39 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,024% · MR 11–20: 0,100% · MR 21–30: 0,29% · Legendary: 0,61% |
 
 **Leitura:** Banshee Prime é raramente usado entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Banshee Prime
+
+Build de referência para **Banshee Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força (Sonar) e Alcance; build de suporte para squad.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/transient_fortitude.md\|Transient Fortitude]] |
+| 3 | [[mods/warframe/blind_rage.md\|Blind Rage]] |
+| 4 | [[mods/warframe/streamline.md\|Streamline]] |
+| 5 | [[mods/warframe/stretch.md\|Stretch]] |
+| 6 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 7 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 8 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino).
+**Arcanes:** Arcane Energize, Molt Augmented.
+**Dica:** Após o rework do Update 44 (set/2026) confira os números novos na wiki; Sonar com muita Força multiplica dano de ponto fraco para todos.
+
+**Versão Prime:** mesma build base; a Banshee Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Banshee Prime
+
+Banshee é a Warframe do som: usa ondas sônicas e ressonância para localizar, atordoar e destruir. Foi criada na era Orokin como especialista em reconhecimento e assassinato silencioso — o Sonar expõe pontos fracos e o Silence corta a percepção do inimigo. É uma das Warframes clássicas (2013), e recebeu uma grande reformulação no Update 44 (setembro de 2026).
+
+**Banshee Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "Banshee Prime assails her foes by manipulating sonic forces to deadly effect. Featuring altered mod polarities for greater customization."
 
 ## 🔗 Relacionados — Banshee Prime
 

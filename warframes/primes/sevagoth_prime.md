@@ -67,16 +67,16 @@ Como conseguir a Warframe Sevagoth Prime:
 
 ## 🔮 Habilidades — Sevagoth Prime
 
-**Passiva (inglês):** On death, become Sevagoth's Shadow and fight to resurrect him by collecting the souls needed to rebuild his tombstone.
+**Passiva:** Ao morrer, vira a Sombra de Sevagoth e luta para ressuscitá-lo coletando almas para reconstruir a lápide.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Reap** | 25 | Sevagoth's Shadow flies outward ravaging enemies in his path. Survivors are damaged by Death's Harvest over time. The souls of the dead fill the Death Well. |
-| 2 | **Sow** | 50 | Plant a death seed in nearby targets to drain their lifeforce. Reap what has been sown to detonate afflicted enemies, dealing a percentage of their health as radial damage. The souls of the dead fill the Death Well.  |
-| 3 | **Gloom** | 50 | Summon a radial pulse wave that ensnares and slows enemies, siphoning their lifeforce for the Death Well. Allies within the wave steal health with each attack.  |
-| 4 | **Exalted Shadow** | 0 | When the Death Well fills, Sevagoth's Shadow form is ready to be released. Tear the enemy asunder with a collection of melee-focused abilities.  |
+| 1 | **Reap** | 25 | A Sombra de Sevagoth voa devastando inimigos no caminho; os sobreviventes sofrem Death's Harvest e as almas enchem o Death Well. |
+| 2 | **Sow** | 50 | Planta sementes de morte que drenam a vida dos alvos; colha (Reap) para detonar os afetados com dano em área proporcional à vida. As almas enchem o Death Well. |
+| 3 | **Gloom** | 50 | Onda pulsante que enlaça e desacelera inimigos, drenando a força vital deles para o Death Well; aliados dentro roubam vida a cada ataque. |
+| 4 | **Exalted Shadow** | 0 | Quando o Death Well enche, Sevagoth libera sua forma de Sombra, com um conjunto de habilidades corpo a corpo. |
 
-**Helminth:** a habilidade **Gloom** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Gloom** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
 
@@ -92,6 +92,39 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,84% · MR 11–20: 1,81% · MR 21–30: 1,42% · Legendary: 1,53% |
 
 **Leitura:** Sevagoth Prime é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Sevagoth Prime
+
+Build de referência para **Sevagoth Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Alcance para Gloom e Sow.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/stretch.md\|Stretch]] |
+| 3 | Augur Reach |
+| 4 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 5 | [[mods/warframe/streamline.md\|Streamline]] |
+| 6 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 7 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 8 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino) no lugar de Reap.
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** Gloom é tão bom que é o mais doado ao Helminth em outros frames.
+
+**Versão Prime:** mesma build base; a Sevagoth Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Sevagoth Prime
+
+Sevagoth era o capitão da Tempestarii, uma Railjack da Antiga Guerra famosa por missões de resgate. Num Void Storm, perdeu-se no Void, e sua Sombra ficou presa numa espécie de purgatório. Na quest Call of the Tempestarii, o Tenno o encontra; com sua última centelha de vida, Sevagoth se reúne à sua Sombra e os dois encontram paz.
+
+**Sevagoth Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "The gilded helmsman emerges from the tempest, his shadow a lure for doomed souls."
 
 ## 🔗 Relacionados — Sevagoth Prime
 

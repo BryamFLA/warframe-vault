@@ -72,16 +72,45 @@ Blueprints como recompensa de missões no **Zariman Ten Zero**. Alternativa: com
 
 ## 🔮 Habilidades — Narin
 
-**Passiva (inglês):** Each stack of <DT_FREEZE_COLOR>Cold Status Effect on enemies increase chance to spawn Sangodae pickup by 1%, granting <DT_FREEZE_COLOR>Extra Cold Damage on Primary and Secondary weapons for 10s. Narin also gains Cold Damage for her abilities.
+**Passiva:** Cada acúmulo de Frio nos inimigos aumenta 1% a chance de gerar o item Sangodae, que dá dano de Frio extra às armas primária e secundária por 10 s; as habilidades dela também ganham Frio.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Neote** | 25 | Lunge with Narin's ice rapier Neote, inflicting <DT_FREEZE_COLOR> Cold Damage and <DT_FREEZE_COLOR> Cold and <DT_PUNCTURE_COLOR> Puncture Status Effect on foes directly ahead of her.  Gain Ice for each enemy hit. |
-| 2 | **Naraemagi** | 50 | Recover Shields by absorbing <DT_FREEZE_COLOR> Cold Status Effect from nearby enemies. Gain <OVERGUARD_GAIN> Overguard if at full Shields.  Gain Ice for each enemy hit. |
-| 3 | **Hakchum** | 75 | Tap to leap into the air, tap again to land at target location. Applies <DT_FREEZE_COLOR> Cold Damage Vulnerability and Status Effect in a large radius upon landing.  Gain Ice for each enemy hit. |
-| 4 | **Nurinarim** | 25 | Requires full Ice to cast. An ancestral spirit descends upon Narin and she begins sword dancing for continuous nearby damage. Press Attack on the marked targets to launch shattering icy slashes that deplete Armor and Shields. Hitting Frozen enemies causes them to explode, dealing massive radial <DT_FREEZE_COLOR> Cold Damage. |
+| 1 | **Neote** | 25 | Investida com o florete de gelo Neote, causando Frio e status de Frio e Perfuração nos inimigos à frente. Ganha Gelo por inimigo atingido. |
+| 2 | **Naraemagi** | 50 | Recupera escudos absorvendo o status de Frio dos inimigos próximos; com escudo cheio, ganha Overguard. Ganha Gelo por inimigo atingido. |
+| 3 | **Hakchum** | 75 | Toque para saltar e toque de novo para aterrissar no alvo, aplicando vulnerabilidade a Frio e status num raio grande. Ganha Gelo por inimigo atingido. |
+| 4 | **Nurinarim** | 25 | Exige Gelo cheio. Um espírito ancestral desce sobre Narin e ela dança com a espada causando dano contínuo; atacar alvos marcados lança cortes gélidos que destroem armadura e escudos, e inimigos congelados explodem em dano de Frio. |
 
-**Helminth:** a habilidade **Neote** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Neote** pode ser subsumida (doada ao Helminth para outros Warframes).
+
+## 🛠️ Build — Narin
+
+Build de referência para **Narin** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Duração; acumular Gelo para Nurinarim.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 3 | [[mods/warframe/streamline.md\|Streamline]] |
+| 4 | [[mods/warframe/stretch.md\|Stretch]] |
+| 5 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 6 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 7 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 8 | [[mods/warframe/blind_rage.md\|Blind Rage]] |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino).
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** Warframe nova (Update 44): confira builds atualizadas; Frio em todas as habilidades soma com armas de Frio.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Narin
+
+Narin é uma Warframe de gelo e espada lançada no Update 44 ('Iceblade of Narin', 2026), ligada ao Zariman e à Cephalon Melica. Sua descrição no jogo a mostra descendo em redemoinhos com uma lâmina afiada como vento gelado, usando gelo tanto para defender quanto para atacar. A wiki mantém a história completa sob aviso de spoiler das quests Angels of the Zariman e Whispers in the Walls.
 
 ## 🔗 Relacionados — Narin
 

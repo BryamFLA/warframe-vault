@@ -68,14 +68,14 @@ Como conseguir a Warframe Ember Prime:
 
 ## 🔮 Habilidades — Ember Prime
 
-**Passiva (inglês):** Receive 5% Ability Strength for every enemy within Affinity Range affected by Heat.
+**Passiva:** Ganha 5% de Força de Habilidade por inimigo com status de Calor no raio de afinidade.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Fireball** | 25 | Release a fiery projectile that ignites enemies on contact. |
-| 2 | **Immolation** | 50 | Protect Ember with flame armor that burns stronger over time, consuming energy once its meter is at full strength. Cast again to extinguish the flame. |
-| 3 | **Fire Blast** | 75 | Slam the ground to create a wave of incinerating plasma that knocks back enemies and strips their armor. |
-| 4 | **Inferno** | 0 | Command a flaming comet to crash down in front of Ember, engulfing enemies with a fire that can spread through their ranks. |
+| 1 | **Fireball** | 25 | Lança um projétil de fogo que incendeia inimigos ao contato. |
+| 2 | **Immolation** | 50 | Armadura de chamas que fica mais forte com o tempo (reduz dano recebido) e consome energia quando o medidor enche. Ative de novo para apagar. |
+| 3 | **Fire Blast** | 75 | Golpeia o chão criando uma onda de plasma que empurra inimigos e retira sua armadura. |
+| 4 | **Inferno** | 0 | Ember faz cair um cometa flamejante que engole os inimigos num fogo que se espalha entre eles. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/red_veil.md|Red Veil]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
 
@@ -91,6 +91,39 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,30% · MR 11–20: 0,86% · MR 21–30: 0,93% · Legendary: 0,59% |
 
 **Leitura:** Ember Prime é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Ember Prime
+
+Build de referência para **Ember Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Alcance para Inferno/Fire Blast; Eficiência.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/transient_fortitude.md\|Transient Fortitude]] |
+| 3 | [[mods/warframe/stretch.md\|Stretch]] |
+| 4 | Augur Reach |
+| 5 | [[mods/warframe/streamline.md\|Streamline]] |
+| 6 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 7 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 8 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Pillage (Hildryn).
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** Fire Blast remove armadura; Immolation reduz o dano recebido com o tempo.
+
+**Versão Prime:** mesma build base; a Ember Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Ember Prime
+
+Ember é a Warframe do fogo, uma das clássicas de 2013. Na era Orokin era usada para limpar áreas e ataques de terra arrasada; o perfil a descreve como chama que consome tudo. Seu kit gira em torno de Calor: World on Fire/Inferno incendeia multidões e Immolation a protege enquanto queima.
+
+**Ember Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "Ember Prime offers the same potential for wanton destruction as Ember but provides unique mod polarities, allowing for greater customization."
 
 ## 🔗 Relacionados — Ember Prime
 

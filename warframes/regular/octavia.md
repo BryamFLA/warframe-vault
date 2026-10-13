@@ -67,16 +67,16 @@ Blueprint principal e Mandachord da quest **Octavia's Anthem**. **Chassis**: puz
 
 ## 🔮 Habilidades — Octavia
 
-**Passiva (inglês):** Replenish 30 energy over 30s for Octavia and allies within 15m when abilities are activated.
+**Passiva:** Ao usar habilidades, recupera 30 de energia em 30 s para ela e aliados num raio de 15 m.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Mallet** | 25 | Rhythmically beats damage into nearby enemies and draws their fire. Damage inflicted on the Mallet increases its lethality. |
-| 2 | **Resonator** | 50 | Launches a rollerball that charms foes to follow it. Combines with the Mallet to create a roving ball of sonic destruction. |
-| 3 | **Metronome** | 75 | Grants buffs to those who consistently perform actions in time to Octavia's music. Timed jumps offer the Vivace speed buff. Crouching on the beat grants cloaking with the Nocturne buff. Firing rhythmically bestows Opera multishot buff. Timed melee swings give the Forte damage buff. |
-| 4 | **Amp** | 100 | Draws power from the decibel level of sound in the area and uses it to amplify a damage buff for Octavia and her allies. It also doubles the damage and range of nearby Mallets. |
+| 1 | **Mallet** | 25 | Bate ritmicamente nos inimigos próximos e atrai os tiros deles; o dano recebido pelo Mallet aumenta a letalidade dele. |
+| 2 | **Resonator** | 50 | Lança uma bola que encanta inimigos, fazendo-os segui-la; combinada com o Mallet vira uma bola de destruição sônica. |
+| 3 | **Metronome** | 75 | Dá bônus a quem age no ritmo da música de Octavia: pular no tempo (Vivace, velocidade), agachar no tempo (Nocturne, invisibilidade), atirar no ritmo (Opera, multishot) e golpear no tempo (Forte, dano). |
+| 4 | **Amp** | 100 | Usa o volume do som no ambiente para dar um bônus de dano a Octavia e aliados. Também dobra o dano e o alcance dos Mallets próximos. |
 
-**Helminth:** a habilidade **Resonator** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Resonator** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/new_loka.md|New Loka]].
 
@@ -92,6 +92,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,50% · MR 11–20: 0,43% · MR 21–30: 0,15% · Legendary: 0,027% |
 
 **Leitura:** Octavia é pouco usado entre os Warframes, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Octavia
+
+Build de referência para **Octavia** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Duração e Alcance; Força para Amp.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 2 | [[mods/warframe/stretch.md\|Stretch]] |
+| 3 | Augur Reach |
+| 4 | [[mods/warframe/streamline.md\|Streamline]] |
+| 5 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 6 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 7 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 8 | Partitioned Mallet (augment) |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino) no lugar de Metronome.
+**Arcanes:** Arcane Energize, Molt Augmented.
+**Dica:** Mallet + Resonator causam dano passivo; agachar no ritmo deixa invisível.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Octavia
+
+Octavia foi a Warframe que tocou os tambores cerimoniais Naga, anunciando a vitória dos Tenno sobre os Sentients na Antiga Guerra. Para os Tenno, porém, aquele som foi o sinal para trair os Orokin, dando início ao Colapso. Hunhow pergunta se ela acabou com a guerra ou só preparou o palco para a próxima. No jogo, ela compõe músicas no Mandachord.
 
 ## 🔗 Relacionados — Octavia
 

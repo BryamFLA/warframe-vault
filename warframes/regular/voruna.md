@@ -73,16 +73,16 @@ Blueprints na **rotação C** do Conjunction Survival em **Yuvarium** e **Circul
 
 ## 🔮 Habilidades — Voruna
 
-**Passiva (inglês):** Voruna never fights alone. In mission, hold Abilities to call upon each wolf's unique Passive power.
+**Passiva:** Voruna nunca luta sozinha: segure as habilidades para usar a passiva de cada lobo.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Shroud of Dynar** | 25 | (TAP) Dynar shrouds Voruna with invisibility and accelerates her speed. Invisibility ends when Voruna attacks. For a short time after invisibility ends, melee attacks have increased Critical Damage, Status Chance, Critical Chance and inflict <DT_SLASH_COLOR>Slash Status Effects. Melee kill an enemy during this time to extend the melee buff once per cast.r r (HOLD) Dynar guards Voruna, increasing her Parkour Velocity. |
-| 2 | **Fangs of Raksh** | 50 | (TAP) Raksh's fangs tear into your enemies. 5 random Status Effects are applied at 10 Stacks each on an enemy. On target's death, spread the Status Effects to other nearby enemies.r r (HOLD) Raksh guards Voruna with Status Effect resistance. |
-| 3 | **Lycath's Hunt** | 75 | (TAP) Lycath hunts to sustain the pack. Enemies killed by melee attacks drop health orbs and enemies killed by headshots drop energy orbs. Increase the duration of Lycath's hunt by killing enemies affected by 5 or more Status Effects.r r (HOLD) Lycath guards Voruna with increased Heavy Attack efficiency. |
-| 4 | **Ulfrun's Descent** | 100 | (TAP) Voruna drops to all fours and prepares 5 brutal charges that lock onto enemies. Ulfrun, the most powerful wolf, leads the attack as Voruna dashes toward her target. The pack deals increased damage to targets and nearby enemies that are inflicted by Status Effects. Lethal attacks double the damage of Voruna's remaining charges.r r (HOLD) Ulfrun guards Voruna. If Voruna falls during this time, Ulfrun dies in her place. |
+| 1 | **Shroud of Dynar** | 25 | (TOQUE) Dynar deixa Voruna invisível e mais rápida; ao atacar, a invisibilidade acaba e os golpes melee ganham dano crítico, chance crítica, chance de status e Corte por um tempo. (SEGURAR) aumenta a velocidade de parkour. |
+| 2 | **Fangs of Raksh** | 50 | (TOQUE) Raksh aplica 5 status aleatórios com 10 acúmulos num inimigo e os espalha ao redor quando ele morre. (SEGURAR) Raksh dá a Voruna resistência a status. |
+| 3 | **Lycath's Hunt** | 75 | (TOQUE) Inimigos mortos com melee dropam orbes de vida e com headshot dropam orbes de energia; matar inimigos com 5+ status estende a duração. (SEGURAR) melhora a eficiência do Heavy Attack de Voruna. |
+| 4 | **Ulfrun's Descent** | 100 | (TOQUE) Voruna prepara 5 investidas brutais lideradas por Ulfrun, com dano extra em alvos com status; kills dobram o dano das investidas restantes. (SEGURAR) Ulfrun morre no lugar de Voruna se ela cair. |
 
-**Helminth:** a habilidade **Lycath's Hunt** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Lycath's Hunt** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/red_veil.md|Red Veil]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
 
@@ -98,6 +98,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,46% · MR 11–20: 0,79% · MR 21–30: 0,73% · Legendary: 0,53% |
 
 **Leitura:** Voruna é pouco usado entre os Warframes, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Voruna
+
+Build de referência para **Voruna** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Duração; build melee/crítico.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/growing_power.md\|Growing Power]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 3 | [[mods/warframe/streamline.md\|Streamline]] |
+| 4 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 5 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 6 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 7 | [[mods/warframe/stretch.md\|Stretch]] |
+| 8 | [[mods/warframe/blind_rage.md\|Blind Rage]] |
+| Exilus | Primed Sure Footed |
+
+**Helminth:** Roar (Rhino) no lugar de Lycath's Hunt.
+**Arcanes:** Molt Augmented, Arcane Avenger.
+**Dica:** Shroud of Dynar + melee = crítico e Corte; Ulfrun's Descent é o dano em área.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Voruna
+
+Voruna era a guardiã do Circulus, o templo Yuvan mais sagrado de Lua, onde os Orokin realizavam os rituais de Continuidade (transferir a consciência para corpos mais jovens). Ela luta com quatro lobos espirituais — Raksh, Lycath, Dynar e Ulfrun — e é obtida no Conjunction Survival em Lua, após The War Within.
 
 ## 🔗 Relacionados — Voruna
 

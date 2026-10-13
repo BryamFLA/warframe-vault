@@ -69,16 +69,16 @@ Blueprints na **rotação C** do **Disruption Armatus** (Deimos; exige The Deadl
 
 ## 🔮 Habilidades — Dante
 
-**Passiva (inglês):** Noctua scans targets, recording information for your Codex. Status Chance increases by 50% on fully scanned targets.
+**Passiva:** O Noctua escaneia alvos para o Codex; alvos totalmente escaneados dão +50% de chance de status.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Noctua** | 5 | Open Noctua, Dante's Exalted Tome, and unleash a tale of woe upon his enemies. |
-| 2 | **Light Verse** | 25 | Dante's vitalizing composition grants him and his allies Overguard and restores their Health. |
-| 3 | **Dark Verse** | 25 | Dante's composition draws blood from nearby enemies, inflicting <DT_SLASH_COLOR>Slash Damage upon them. |
-| 4 | **Final Verse** | 50 | Dante must compose two other Verses before his Final Verse.r r TRIUMPH: Two Light Verses cast in succession invigorate allies with a buff that increases Health and grants Overguard. Kills and assists briefly regenerate Overguard.<br>Dante must compose two other Verses before his Final Verse.r r TRAGEDY: Two Dark Verses cast in succession attack enemies. Damage Over Time from <DT_SLASH_COLOR>Slash, <DT_FIRE_COLOR>Heat and <DT_POISON_COLOR>Toxin Status Effects accumulates in a single blast.<br>Dante must compose two other Verses before his Final Verse.r r WORDWARDEN: A Light Verse followed by a Dark Verse supports allies with copies of Noctua. Noctua copies synchronize their attacks with their designated ally's attacks.<br>Dante must compose two other Verses before his Final Verse.r r PAGEFLIGHT: A Dark Verse followed by a Light Verse summons Paragrimms that swoop at enemies, making them vulnerable to Status Chance and Status Damage, as well as drawing enemy attacks away from allies. |
+| 1 | **Noctua** | 5 | Abre o Noctua, o tomo exaltado de Dante, e libera um conto de desgraça sobre os inimigos. |
+| 2 | **Light Verse** | 25 | A composição de Dante dá Overguard e restaura a vida dele e dos aliados. |
+| 3 | **Dark Verse** | 25 | A composição de Dante tira sangue dos inimigos próximos, causando dano de Corte. |
+| 4 | **Final Verse** | 50 | Exige compor dois Verses antes. TRIUMPH (2 Light Verses): aliados ganham vida e Overguard. TRAGEDY (2 Dark Verses): acumula o dano contínuo de Corte, Calor e Tóxico numa explosão. WORDWARDEN (Light + Dark): cópias do Noctua apoiam aliados. PAGEFLIGHT (Dark + Light): Paragrimms deixam inimigos vulneráveis a status e atraem tiros. |
 
-**Helminth:** a habilidade **Dark Verse** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Dark Verse** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]].
 
@@ -94,6 +94,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,71% · MR 11–20: 2,92% · MR 21–30: 2,66% · Legendary: 1,99% |
 
 **Leitura:** Dante é popular (top 15%) entre os Warframes, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Dante
+
+Build de referência para **Dante** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Alcance para os Verses; Duração moderada.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/transient_fortitude.md\|Transient Fortitude]] |
+| 3 | [[mods/warframe/stretch.md\|Stretch]] |
+| 4 | Augur Reach |
+| 5 | [[mods/warframe/streamline.md\|Streamline]] |
+| 6 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 7 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 8 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino) no lugar de Noctua.
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** Light Verse + Light Verse + Final Verse (Triumph) dá Overguard enorme ao squad; Dark + Dark (Tragedy) é o dano.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Dante
+
+Dante é o Warframe historiador ligado à Leverian, o museu de memórias de Warframes mantido por Drusus. Dante era amigo de Drusus e cronista das histórias dos Warframes; a quest/exposição dele mostra Drusus aceitando um acordo com Parvos Granum para salvar a Leverian. Com o tomo Noctua, Dante 'escreve' Verses que curam aliados ou ferem inimigos.
 
 ## 🔗 Relacionados — Dante
 

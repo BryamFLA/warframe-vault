@@ -68,14 +68,14 @@ Como conseguir a Warframe Revenant Prime:
 
 ## 🔮 Habilidades — Revenant Prime
 
-**Passiva (inglês):** Shield depletion smashes enemies within 7.5m with a 100 Damage knockdown shockwave.
+**Passiva:** Quando o escudo esgota, uma onda de choque derruba e causa 100 de dano aos inimigos num raio de 7,5 m.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Enthrall** | 25 | Convert a target into a zealous thrall. Thralls turn on their allies and enthrall through damage. On death, they disintegrate into a damaging pillar of energy. The thrall horde remains under Revenants spell until this ability runs out. |
-| 2 | **Mesmer Skin** | 50 | Become enveloped in Sentient energy, redirecting damage and stunning all those who dare attack. Stunned enemies can be Enthralled at no energy cost. |
-| 3 | **Reave** | 50 | Dash through enemies as a wall of sentient energy, leeching shields and health from any encountered, enhanced for thralls. |
-| 4 | **Danse Macabre** | 25 | Erupt with a multitude of Eidolon energy beams and sweep a circle of death around Revenant. The beams will modify their Damage Type to target select defenses, while incoming damage is redirected back into the beams. Hold fire to boost Status Effects and Damage, at the cost of increased energy consumption. Thralls killed by this ability leave overshield pickups. |
+| 1 | **Enthrall** | 25 | Converte um alvo num servo fanático que se volta contra os aliados e escraviza outros com dano. Ao morrer, vira um pilar de energia que causa dano. |
+| 2 | **Mesmer Skin** | 50 | Energia Sentient envolve Revenant, redirecionando o dano e atordoando quem atacá-lo; inimigos atordoados podem ser escravizados com Enthrall sem custo. |
+| 3 | **Reave** | 50 | Avança como uma parede de energia Sentient, drenando escudo e vida dos inimigos (mais forte em thralls). |
+| 4 | **Danse Macabre** | 25 | Revenant dispara feixes de energia Eidolon girando ao redor; os feixes adaptam o tipo de dano às defesas do inimigo e o dano recebido é redirecionado aos feixes. Segurar fogo aumenta dano e status com mais custo de energia. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
 
@@ -91,6 +91,39 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 1,08% · MR 11–20: 4,29% · MR 21–30: 3,75% · Legendary: 3,53% |
 
 **Leitura:** Revenant Prime é muito popular (top 5%) entre os Warframes, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Revenant Prime
+
+Build de referência para **Revenant Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Duração para Mesmer Skin e Danse Macabre.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 3 | [[mods/warframe/streamline.md\|Streamline]] |
+| 4 | [[mods/warframe/stretch.md\|Stretch]] |
+| 5 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 6 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 7 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 8 | [[mods/warframe/blind_rage.md\|Blind Rage]] |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino) no lugar de Reave.
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** Mesmer Skin bloqueia acertos (cargas escalam com Força); Danse Macabre adapta o tipo de dano.
+
+**Versão Prime:** mesma build base; a Revenant Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Revenant Prime
+
+Nas Plains of Eidolon, Gara derrotou um Sentient e sua essência caiu no solo, presa num 'entre-lugares'. Para vigiá-la, os Orokin deixaram um Warframe guardião — que acabou corrompido pela essência Eidolon. É Revenant, cuja história é revivida na quest Mask of the Revenant, com o Nakak e os Quills. Ele escraviza inimigos (Enthrall) e redireciona dano com Mesmer Skin.
+
+**Revenant Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "The lost one rises. Reify the essence of the Eidolon as you wield Revenant Prime’s power."
 
 ## 🔗 Relacionados — Revenant Prime
 

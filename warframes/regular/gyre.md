@@ -70,16 +70,16 @@ Blueprint principal e componentes da Gyre vêm das **bounties do The Holdfasts n
 
 ## 🔮 Habilidades — Gyre
 
-**Passiva (inglês):** Gyre's abilities have a 10% chance to deal critical damage for each Electrical status that affects the enemy.
+**Passiva:** As habilidades dela têm 10% de chance de crítico para cada status Elétrico no inimigo.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Arcsphere** | 25 | Launch a Gyratory Sphere that will deal high damage on impact and periodically deal electrical shocks to nearby enemies. Hit multiple enemies at once with the initial launch to enhance damage. |
-| 2 | **Coil Horizon** | 50 | Throw forward a Gyratory Sphere that will implode after a few seconds or can be manually triggered. |
-| 3 | **Cathode Grace** | 75 | Gain a brief burst of increased Critical Chance and Energy Regen, with each kill extending duration of Cathode Grace. Casting is on a cooldown.  |
-| 4 | **Rotorswell** | 100 | Gyre's mechanisms spin at incredible speeds, generating an Electric Field that shocks nearby enemies. When Gyre gets a critical hit, a large electrical discharge will chain from the enemy that was hit to nearby enemies. |
+| 1 | **Arcsphere** | 25 | Lança uma esfera giratória que causa muito dano no impacto e dá choques elétricos periódicos ao redor. Acertar vários inimigos no lançamento aumenta o dano. |
+| 2 | **Coil Horizon** | 50 | Lança uma esfera giratória que implode após alguns segundos ou quando ativada manualmente. |
+| 3 | **Cathode Grace** | 75 | Aumento curto de chance crítica e regeneração de energia; cada kill estende a duração. Tem recarga. |
+| 4 | **Rotorswell** | 100 | Os mecanismos de Gyre giram gerando um campo elétrico que choca inimigos; críticos de Gyre disparam descargas em cadeia. |
 
-**Helminth:** a habilidade **Coil Horizon** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Coil Horizon** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
 
@@ -95,6 +95,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,12% · MR 11–20: 0,49% · MR 21–30: 1,16% · Legendary: 1,05% |
 
 **Leitura:** Gyre é pouco usado entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Gyre
+
+Build de referência para **Gyre** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Alcance para Rotorswell/Cathode Grace (crítico).
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/transient_fortitude.md\|Transient Fortitude]] |
+| 3 | [[mods/warframe/stretch.md\|Stretch]] |
+| 4 | Augur Reach |
+| 5 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 6 | [[mods/warframe/streamline.md\|Streamline]] |
+| 7 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 8 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Pillage (Hildryn) no lugar de Arcsphere.
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** Habilidades de Gyre critam; a passiva soma chance crítica por status Elétrico.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Gyre
+
+Gyre era a 'figura de proa' do Zariman Ten Zero: o Executor Ballas presenteou a tripulação com a dançarina Gyra no dia da partida, e sua dança deveria trazer alegria. Quando a nave entrou no Void, ela também enlouqueceu. Quinn, um dos Holdfasts, ainda lembra dela ao ver Gyre se mover. Gyre é uma Warframe elétrica de crítico.
 
 ## 🔗 Relacionados — Gyre
 

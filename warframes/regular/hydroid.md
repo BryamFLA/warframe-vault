@@ -68,16 +68,16 @@ Blueprint principal no **Mercado**. Componentes: drop do boss **Councilor Vay He
 
 ## 🔮 Habilidades — Hydroid
 
-**Passiva (inglês):** Enemies damaged by Hydroid are more vulnerable to Corrosion Status, with initial status reducing armor by 50%.
+**Passiva:** Inimigos que ele fere ficam mais vulneráveis a status Corrosivo; o primeiro status reduz 50% da armadura.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Tempest Barrage** | 25 | Summon a tempest to rain down upon a target area. |
-| 2 | **Tidal Surge** | 50 | Crash through enemies in a ferocious wall of water. |
-| 3 | **Plunder** | 75 | Plunder Armor from nearby enemies and increase <DT_CORROSIVE_COLOR>Corrosive Damage on your Abilities and weapons. Enemies affected by <DT_CORROSIVE_COLOR>Corrosive Status offer a greater increase. |
-| 4 | **Tentacle Swarm** | 50 | Summon a creature from the depths. Its watery tentacles emerge from nearby surfaces to wreak havoc. |
+| 1 | **Tempest Barrage** | 25 | Invoca uma tempestade que cai sobre uma área. |
+| 2 | **Tidal Surge** | 50 | Hydroid avança como uma parede de água furiosa através dos inimigos. |
+| 3 | **Plunder** | 75 | Rouba armadura dos inimigos próximos e aumenta o dano Corrosivo das habilidades e armas; inimigos com status Corrosivo dão aumento maior. |
+| 4 | **Tentacle Swarm** | 50 | Invoca uma criatura das profundezas cujos tentáculos de água saem das superfícies próximas causando caos. |
 
-**Helminth:** a habilidade **Tempest Barrage** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Tempest Barrage** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/new_loka.md|New Loka]].
 
@@ -93,6 +93,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,36% · MR 11–20: 0,41% · MR 21–30: 0,078% · Legendary: 0,006% |
 
 **Leitura:** Hydroid é pouco usado entre os Warframes, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Hydroid
+
+Build de referência para **Hydroid** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Alcance; Plunder para remover armadura.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/transient_fortitude.md\|Transient Fortitude]] |
+| 3 | [[mods/warframe/stretch.md\|Stretch]] |
+| 4 | Augur Reach |
+| 5 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 6 | [[mods/warframe/streamline.md\|Streamline]] |
+| 7 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 8 | Pilfering Swarm (augment) |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino).
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** Pilfering Swarm faz Hydroid um farmer de loot (como Nekros).
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Hydroid
+
+Hydroid é o Warframe pirata do mar, comandante de marés e tentáculos. Na era Orokin, foi ligado a operações navais; seu kit invoca maremotos, tentáculos e ondas (Tidal Surge, Tentacle Swarm). As peças caem do Councilor Vay Hek na Terra.
 
 ## 🔗 Relacionados — Hydroid
 

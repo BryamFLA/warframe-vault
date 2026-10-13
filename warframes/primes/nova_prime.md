@@ -68,14 +68,14 @@ Como conseguir a Warframe Nova Prime:
 
 ## 🔮 Habilidades — Nova Prime
 
-**Passiva (inglês):** Enemies killed while slowed down have 15% to drop health orbs. Enemies killed while sped up have 15% to drop energy orbs.
+**Passiva:** Inimigos mortos enquanto desacelerados têm 15% de chance de dropar orbe de vida; enquanto acelerados, orbe de energia.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Null Star** | 25 | Creates antimatter particles that orbit Nova and attack nearby targets. Each active particle reduces damage to Nova's Health and Shields. |
-| 2 | **Antimatter Drop** | 50 | Launch a large particle of charged antimatter that will detonate on contact. Direct the particle by aiming, shoot it to charge it further. Deals <DT_EXPLOSION_COLOR>Blast Damage with a guaranteed Status Effect. |
-| 3 | **Wormhole** | 75 | Creates a wormhole allowing instantaneous travel. Hold the ability to visualize placement. |
-| 4 | **Molecular Prime** | 100 | Primes all enemies in an expanding radius with volatile antimatter. Press the ability to slow down enemy movement, hold the ability to speed them up. |
+| 1 | **Null Star** | 25 | Cria partículas de antimatéria que orbitam Nova e atacam alvos próximos; cada partícula ativa reduz o dano recebido. |
+| 2 | **Antimatter Drop** | 50 | Lança uma partícula de antimatéria que explode ao contato; mira para guiá-la e atire nela para carregá-la mais. Causa Explosão (Blast) com status garantido. |
+| 3 | **Wormhole** | 75 | Cria um buraco de minhoca para viagem instantânea. Segure para ver onde ele será posicionado. |
+| 4 | **Molecular Prime** | 100 | Marca todos os inimigos num raio crescente com antimatéria volátil (explodem ao morrer e levam dano extra). Tocar desacelera inimigos; segurar os acelera. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
 
@@ -91,6 +91,39 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,41% · MR 11–20: 1,95% · MR 21–30: 3,98% · Legendary: 4,50% |
 
 **Leitura:** Nova Prime é popular (top 15%) entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Nova Prime
+
+Build de referência para **Nova Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Alcance e baixa Força (velocidade) ou alta Força (lentidão) para Molecular Prime.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/stretch.md\|Stretch]] |
+| 2 | Augur Reach |
+| 3 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 4 | [[mods/warframe/streamline.md\|Streamline]] |
+| 5 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 6 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 7 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 8 | Molecular Fission (augment) |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino) no lugar de Antimatter Drop.
+**Arcanes:** Arcane Energize, Molt Augmented.
+**Dica:** Molecular Prime dobra o dano recebido pelos inimigos; segure para acelerá-los (missões rápidas).
+
+**Versão Prime:** mesma build base; a Nova Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Nova Prime
+
+Nova é a Warframe da antimatéria: prepara inimigos com Molecular Prime para explodirem em cadeia e controla a velocidade deles. Na era Orokin era usada para dominar o campo com física de partículas; é uma das melhores de controle e velocidade de missão.
+
+**Nova Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "Nova Prime wreaks devastation on her enemies using volatile antimatter. Featuring altered mod polarities for greater customization."
 
 ## 🔗 Relacionados — Nova Prime
 

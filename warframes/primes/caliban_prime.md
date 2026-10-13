@@ -68,16 +68,16 @@ Como conseguir a Warframe Caliban Prime:
 
 ## 🔮 Habilidades — Caliban Prime
 
-**Passiva (inglês):** Allies within Affinity range gain increased resistance to the types of damage they are currently taking.
+**Passiva:** Aliados no raio de afinidade ganham resistência aos tipos de dano que estão recebendo.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Razor Gyre** | 25 | Dash forward in a spinning vortex of death. Struck enemies are inflicted with <DT_SENTIENT_COLOR>Tau Status Effect, making them more vulnerable to all other status effects. For each enemy hit, recover a portion of the energy cost, as well as health and shields. Enemies lifted by Sentient Wrath take increased damage. |
-| 2 | **Sentient Wrath** | 50 | Smash the ground sending out a radial wave of destruction. Those not killed by the initial blast are helplessly raised into the air, where they take amplified damage for a short time. |
-| 3 | **Lethal Progeny** | 50 | Cycle through Sentient unit types, then summon them to Caliban's side. Conculysts focus on raw melee damage. Ortholysts specialize in ranged attacks and inflict <DT_SENTIENT_COLOR>Tau Status Effect. Summulysts summon their own Choralysts and provide shield protection for the squad. |
-| 4 | **Fusion Strike** | 100 | Converge three streams of raw energy upon a single point, causing a massive explosion. The streams strip armor and shields, and each enemy struck detonates on stream convergence. Summoned Conculysts can wield their own mini Fusion Strikes.  |
+| 1 | **Razor Gyre** | 25 | Avança girando como um vórtice; inimigos atingidos sofrem status Tau (mais vulneráveis a outros status). Recupera energia, vida e escudo por inimigo; inimigos erguidos por Sentient Wrath levam mais dano. |
+| 2 | **Sentient Wrath** | 50 | Golpeia o chão numa onda radial; os sobreviventes são erguidos ao ar e levam dano amplificado. |
+| 3 | **Lethal Progeny** | 50 | Alterna entre tipos de Sentient e os invoca: Conculysts (dano corpo a corpo), Ortholysts (tiros com status Tau) e Summulysts (invocam Choralysts e dão escudo ao squad). |
+| 4 | **Fusion Strike** | 100 | Converge três feixes de energia num ponto, causando uma explosão enorme; os feixes retiram armadura e escudos, e cada inimigo atingido detona. Conculysts invocados fazem mini Fusion Strikes. |
 
-**Helminth:** a habilidade **Sentient Wrath** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Sentient Wrath** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
 
@@ -93,6 +93,39 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,41% · MR 11–20: 0,94% · MR 21–30: 0,72% · Legendary: 1,07% |
 
 **Leitura:** Caliban Prime é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Caliban Prime
+
+Build de referência para **Caliban Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Alcance para Sentient Wrath/Fusion Strike.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/transient_fortitude.md\|Transient Fortitude]] |
+| 3 | [[mods/warframe/stretch.md\|Stretch]] |
+| 4 | Augur Reach |
+| 5 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 6 | [[mods/warframe/streamline.md\|Streamline]] |
+| 7 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 8 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Gloom (Sevagoth) no lugar de Razor Gyre.
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** Sentient Wrath ergue inimigos e amplifica o dano que recebem.
+
+**Versão Prime:** mesma build base; a Caliban Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Caliban Prime
+
+Caliban foi criado após a Antiga Guerra pelo senhor de guerra Sentient Erra com um único propósito: destruir os Tenno. É uma aberração que mistura Warframe e Sentient. Depois que Erra perdeu o controle sobre ele, o Lotus entrega Caliban ao Tenno para que ele 'restaure sua honra' lutando do lado certo. Suas habilidades invocam Sentients (Lethal Progeny) e drenam defesas.
+
+**Caliban Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "Forged in celebration of the all-too-brief peace between the Orokin and Sentients, Caliban Prime is a true collaborative masterpiece. The heir of twin kingdoms arises in royal gold."
 
 ## 🔗 Relacionados — Caliban Prime
 

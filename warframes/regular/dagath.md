@@ -62,16 +62,16 @@ Blueprints no **Dagath's Hollow**, sala do **Dojo do clã** (sem pesquisa). Os c
 
 ## 🔮 Habilidades — Dagath
 
-**Passiva (inglês):** There is a 35% chance that Energy and Health Orbs will be 300% more effective on Dagath.
+**Passiva:** 35% de chance de orbes de energia e de vida serem 300% mais eficazes nela.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Wyrd Scythes** | 25 | Wyrd Scythes surround Dagath and seek out nearby enemies. Those struck are slowed and suffer <DT_VIRAL_COLOR>Viral Damage with a guaranteed Status Effect. The scythes also spread Doom and extend its duration. |
-| 2 | **Doom** | 50 | Condemn nearby enemies to their doom. A portion of the damage Dagath deals is revisited upon them by a Wyrd Scythe. They also suffer <DT_VIRAL_COLOR>Viral Damage. |
-| 3 | **Grave Spirit** | 75 | Supercharge Dagath's weapons with extra Critical Damage. The effects are doubled on Doomed enemies. Escape fatal blows by briefly assuming a spectral form. |
-| 4 | **Rakhali's Cavalry** | 100 | Phantom Kaithes charge forth, inflicting Viral Damage upon all in their path. Their attack strips the defenses of Doomed enemies. |
+| 1 | **Wyrd Scythes** | 25 | Foices Wyrd cercam Dagath e buscam inimigos próximos, desacelerando-os com dano Viral e status garantido; também espalham e estendem o Doom. |
+| 2 | **Doom** | 50 | Condena os inimigos próximos: parte do dano de Dagath é repetida neles por uma Foice Wyrd, e eles também sofrem dano Viral. |
+| 3 | **Grave Spirit** | 75 | Dá dano crítico extra às armas de Dagath (dobrado contra inimigos Doomed) e a faz escapar de golpes fatais virando espectro por um instante. |
+| 4 | **Rakhali's Cavalry** | 100 | Kaithes fantasmas atravessam o campo causando dano Viral; o ataque retira as defesas de inimigos Doomed. |
 
-**Helminth:** a habilidade **Wyrd Scythes** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Wyrd Scythes** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/red_veil.md|Red Veil]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
 
@@ -87,6 +87,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,25% · MR 11–20: 0,38% · MR 21–30: 0,39% · Legendary: 0,28% |
 
 **Leitura:** Dagath é pouco usado entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Dagath
+
+Build de referência para **Dagath** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Duração para Doom e Wyrd Scythes.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 3 | [[mods/warframe/streamline.md\|Streamline]] |
+| 4 | [[mods/warframe/stretch.md\|Stretch]] |
+| 5 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 6 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 7 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 8 | [[mods/warframe/blind_rage.md\|Blind Rage]] |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Pillage (Hildryn).
+**Arcanes:** Molt Augmented, Arcane Avenger.
+**Dica:** Grave Spirit dá dano crítico às armas, dobrado em inimigos Doomed.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Dagath
+
+Dagath era uma cavaleira Dax, amante secreta de um casal Orokin, Corphel e Irilia. Eles nunca usavam o nome dela em público — um Dax com relações com seus superiores seria executado — e a chamavam por apelidos. A história é de amor proibido e tragédia: ela virou uma Warframe espectral ligada a cavalos fantasmas (Kaithes) e foices Wyrd, com estética de fábula sombria. É obtida no Dagath's Hollow do Dojo.
 
 ## 🔗 Relacionados — Dagath
 

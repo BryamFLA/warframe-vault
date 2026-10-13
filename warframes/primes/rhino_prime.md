@@ -68,14 +68,14 @@ Como conseguir a Warframe Rhino Prime:
 
 ## 🔮 Habilidades — Rhino Prime
 
-**Passiva (inglês):** Emit a shockwave dealing 100 damage after landing from a great height.
+**Passiva:** Ao aterrissar de grande altura, emite uma onda de choque de 100 de dano.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Rhino Charge** | 25 | Rhino charges towards a target, clobbering any in his path and goring his victim. |
-| 2 | **Iron Skin** | 50 | Rhino hardens his skin, insulating himself from all damage and gaining Overguard. |
-| 3 | **Roar** | 75 | Grants all nearby Warframes increased damage for a short duration. |
-| 4 | **Rhino Stomp** | 100 | Rhino stomps with force sufficient to disrupt time, tumbling enemies around him in stasis. |
+| 1 | **Rhino Charge** | 25 | Rhino investe contra um alvo, derrubando quem estiver no caminho. |
+| 2 | **Iron Skin** | 50 | Rhino endurece a pele, ficando isolado de todo dano e ganhando Overguard. |
+| 3 | **Roar** | 75 | Dá dano aumentado a todos os Warframes próximos por pouco tempo. |
+| 4 | **Rhino Stomp** | 100 | Rhino pisa com força capaz de distorcer o tempo, suspendendo os inimigos ao redor em estase. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
 
@@ -91,6 +91,39 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,45% · MR 11–20: 1,80% · MR 21–30: 1,94% · Legendary: 1,63% |
 
 **Leitura:** Rhino Prime é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Rhino Prime
+
+Build de referência para **Rhino Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força para Roar e Iron Skin.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/growing_power.md\|Growing Power]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/transient_fortitude.md\|Transient Fortitude]] |
+| 3 | [[mods/warframe/blind_rage.md\|Blind Rage]] |
+| 4 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 5 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 6 | Umbral Fiber |
+| 7 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 8 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Pillage (Hildryn) no lugar de Rhino Charge.
+**Arcanes:** Molt Augmented, Arcane Grace.
+**Dica:** Roar é o buff de dano mais usado do jogo; Iron Skin escala com armadura e Força.
+
+**Versão Prime:** mesma build base; a Rhino Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Rhino Prime
+
+Rhino é o tanque clássico (2013): pele de ferro, investida e pisoteio que congela o tempo. Na era Orokin era a força bruta da linha de frente. Suas peças caem do Jackal em Vênus, o que o torna um dos primeiros Warframes que os novatos farmam.
+
+**Rhino Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "Takes Rhino's ground-shaking abilities to the next level with altered mod polarities that offer greater customization."
 
 ## 🔗 Relacionados — Rhino Prime
 

@@ -68,14 +68,14 @@ Como conseguir a Warframe Gara Prime:
 
 ## 🔮 Habilidades — Gara Prime
 
-**Passiva (inglês):** A chance to create a radial blind lasting 10s when exposed to bright light.
+**Passiva:** Chance de criar uma cegueira radial de 10 s quando exposta a luz forte.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Shattered Lash** | 25 | Lash out with stream of shattered glass, or hold for an arcing strike. Stats are boosted by the equipped mods on Shattered Lash. |
-| 2 | **Splinter Storm** | 50 | Gara's armor splinters into a maelstrom of shattered glass. Allies who contact the cloud are fortified against damage. |
-| 3 | **Spectrorage** | 75 | Trap enemies in a carousel of mirrors, forcing them to attack visions of their true selves. Destroyed mirrors damage their attackers, as does the collapse of the carousel. |
-| 4 | **Mass Vitrify** | 75 | Create an expanding ring of molten glass that slowly crystallizes enemies who enter. When the expansion is complete, the ring hardens to block weapons fire. The ring draws extra strength from the health and shields of crystallized enemies. Use Shattered Lash to smash the ring and send razor-sharp glass flying. |
+| 1 | **Shattered Lash** | 25 | Ataca com um jato de vidro estilhaçado (ou segure para golpe em arco); escala com os mods equipados no Shattered Lash. |
+| 2 | **Splinter Storm** | 50 | A armadura de Gara se estilhaça num redemoinho de vidro; aliados que tocam a nuvem ficam protegidos contra dano. |
+| 3 | **Spectrorage** | 75 | Prende inimigos num carrossel de espelhos onde eles atacam reflexos de si mesmos; espelhos destruídos e o colapso do carrossel causam dano. |
+| 4 | **Mass Vitrify** | 75 | Anel de vidro derretido que cristaliza lentamente os inimigos que entram; ao terminar, endurece e bloqueia tiros. Shattered Lash quebra o anel e lança cacos. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/new_loka.md|New Loka]].
 
@@ -91,6 +91,39 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,22% · MR 11–20: 0,69% · MR 21–30: 1,00% · Legendary: 1,23% |
 
 **Leitura:** Gara Prime é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Gara Prime
+
+Build de referência para **Gara Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Duração para Splinter Storm (redução de dano) e Mass Vitrify.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 3 | [[mods/warframe/streamline.md\|Streamline]] |
+| 4 | [[mods/warframe/stretch.md\|Stretch]] |
+| 5 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 6 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 7 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 8 | Spectrosiphon (augment) |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino) no lugar de Spectrorage.
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** Splinter Storm reduz muito o dano recebido e dá dano por contato.
+
+**Versão Prime:** mesma build base; a Gara Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Gara Prime
+
+A pessoa que se tornou Gara era uma das poucas que sabiam a verdade sobre os Warframes e se ofereceu voluntariamente para a transformação. Os Orokin acharam isso presunção: o carrasco Nihil mandou 'vitrificá-la', e ela foi encasada em cristal. Gara depois derrotou um Sentient nas Plains of Eidolon, aprisionando sua essência — ligação direta com a origem de Revenant.
+
+**Gara Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "Continue the legend of the glass-armored warrior Gara. Dominate the battlefield with the power and purity of crystal."
 
 ## 🔗 Relacionados — Gara Prime
 

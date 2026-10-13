@@ -68,16 +68,16 @@ Como conseguir a Warframe Xaku Prime:
 
 ## 🔮 Habilidades — Xaku Prime
 
-**Passiva (inglês):** 25% Damage Reduction on AOE attacks and chance to avoid incoming weapon damage.
+**Passiva:** 25% de redução de dano contra ataques em área e chance de evitar dano de armas.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Xata's Whisper** | 25 | Wield <DT_RADIANT_COLOR>Void Damage for all attacks from equipped weapons when activated. |
-| 2 | **Grasp of Lohk** | 50 | Void Tendrils steal weapons from nearby enemies to use as your own floating, auto-targeting armament. Damage output increases based on enemy level. The number of weapons grabbed also determines the damage multiplier for The Lost: Deny's Void beam. |
-| 3 | **The Lost** | 75 | Cycle through a trio of lost Warframe powers. Accuse manifests a Void fissure to corrupt enemies into allies. Gaze grasps targets in Void tendrils that capture damage and inflict it when the target is released. Deny annihilates with a beam of Void energy, wiping Sentient resistances. |
-| 4 | **The Vast Untime** | 100 | Temporarily shed the outer pieces of Xaku in a destructive blast, then stalk the battlefield in a new, swifter skeletal form. Enemies damaged by the body shrapnel are rendered weaker to <DT_RADIANT_COLOR>Void Damage. Xaku's other active abilities' duration is frozen in time and resumes once The Vast Untime expires. |
+| 1 | **Xata's Whisper** | 25 | Todos os ataques das armas equipadas passam a causar dano Void. |
+| 2 | **Grasp of Lohk** | 50 | Tentáculos do Void roubam armas dos inimigos próximos e as usam como armamento flutuante automático; o dano escala com o nível do inimigo. |
+| 3 | **The Lost** | 75 | Alterna entre três poderes perdidos: Accuse (fissura do Void que converte inimigos em aliados), Gaze (tentáculos que capturam e devolvem dano) e Deny (feixe do Void que apaga resistências Sentient). |
+| 4 | **The Vast Untime** | 100 | Xaku solta suas peças externas numa explosão e vira uma forma esquelética mais rápida; os atingidos ficam vulneráveis a dano Void e a duração das outras habilidades congela. |
 
-**Helminth:** a habilidade **Xata's Whisper** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Xata's Whisper** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
 
@@ -93,6 +93,39 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,72% · MR 11–20: 2,36% · MR 21–30: 2,52% · Legendary: 3,19% |
 
 **Leitura:** Xaku Prime é popular (top 15%) entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Xaku Prime
+
+Build de referência para **Xaku Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Alcance para The Lost (Deny) e Xata's Whisper.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/stretch.md\|Stretch]] |
+| 3 | Augur Reach |
+| 4 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 5 | [[mods/warframe/streamline.md\|Streamline]] |
+| 6 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 7 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 8 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino).
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** Xata's Whisper (dano Void) é muito doado ao Helminth em outros frames.
+
+**Versão Prime:** mesma build base; a Xaku Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Xaku Prime
+
+Xaku é um composto de três Warframes que serviram aos Entrati e se perderam no Void ao longo das eras. Movidos por espíritos do Void, os restos despedaçados se fundiram no ser que hoje se chama Xaku — 'uma soma de muitos', como diz a Grandmother. É obtido na quest Heart of Deimos.
+
+**Xaku Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "The child of war and void is reborn in gold. That which was once shattered may rise stronger than that which was never broken."
 
 ## 🔗 Relacionados — Xaku Prime
 

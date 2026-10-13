@@ -71,16 +71,45 @@ Blueprints na **rotação A** do **Follie's Hunt** em **Vesper Relay, Vênus** (
 
 ## 🔮 Habilidades — Follie
 
-**Passiva (inglês):** INKBLOT: Follie's abilities coat enemies in ink that slows their movement by 50% for 10s. Afflicted enemies have a 20% chance to drop Health and Energy Orbs.
+**Passiva:** INKBLOT: as habilidades cobrem inimigos de tinta, desacelerando-os 50% por 10 s; os afetados têm 20% de chance de dropar orbes de vida e energia.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Forced Perspective** | 15 | Drop through an inky frame and emerge invulnerable at the aimed location in a splash of ink that inflicts Inkblot on nearby enemies. |
-| 2 | **Shadowgraph** | 25 | Bring shadowgraphs from Follie's sketchbook to life as items that can be used for tactical advantage. Shadowgraphs splash Inkblot onto nearby enemies when created.r r HOLD to open the Shadowgraph gear wheel. |
-| 3 | **Self Portrait** | 50 | Draw an ink effigy to absorb the damage dealt to Follie and allies. Below, a pool of ink spreads Inkblot. Kill enemies inside the pool to grow Follie's effigy and its ink puddle. |
-| 4 | **Plein Air** | 75 | Tie nearby enemies to floating balloons that douse them with Inkblot. Pop the balloons to send them crashing to the ground, splashing damage on nearby enemies. |
+| 1 | **Forced Perspective** | 15 | Atravessa uma moldura de tinta e reaparece invulnerável no ponto mirado, espalhando tinta que aplica Inkblot nos inimigos. |
+| 2 | **Shadowgraph** | 25 | Dá vida aos desenhos do caderno de Follie como itens táticos; ao surgirem, espalham Inkblot. SEGURAR abre a roda de Shadowgraphs. |
+| 3 | **Self Portrait** | 50 | Desenha uma efígie de tinta que absorve o dano de Follie e aliados; uma poça embaixo espalha Inkblot e cresce com kills. |
+| 4 | **Plein Air** | 75 | Amarra inimigos a balões que os cobrem de Inkblot; estoure os balões para jogá-los no chão, causando dano ao redor. |
 
-**Helminth:** a habilidade **Self Portrait** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Self Portrait** pode ser subsumida (doada ao Helminth para outros Warframes).
+
+## 🛠️ Build — Follie
+
+Build de referência para **Follie** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Duração e Alcance para Inkblot e Self Portrait.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/growing_power.md\|Growing Power]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 3 | [[mods/warframe/streamline.md\|Streamline]] |
+| 4 | [[mods/warframe/stretch.md\|Stretch]] |
+| 5 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 6 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 7 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 8 | [[mods/warframe/augur_secrets.md\|Augur Secrets]] |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Gloom (Sevagoth).
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** Inimigos com tinta dropam mais orbes; ótima para sustentação do squad.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Follie
+
+Follie é uma Warframe ligada à tinta e às escrituras sagradas de Hexis. Segundo as cartas do mestre Kozai lidas pelo Aspirant Zorba, ela antes 'pintava verdades ocultas', revelando segredos para curar — até que mestres cruéis distorceram seu dom e a puseram a serviço deles. Kozai a protegeu e desapareceu. É obtida no Follie's Hunt, no Vesper Relay.
 
 ## 🔗 Relacionados — Follie
 

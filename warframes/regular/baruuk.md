@@ -62,16 +62,16 @@ Blueprints comprados da **Little Duck** (Vox Solaris, Fortuna): principal no Ran
 
 ## 🔮 Habilidades — Baruuk
 
-**Passiva (inglês):** Each projectile dodged, each enemy lulled or disarmed, erodes Baruuk's restraint and fuels the storm within. As Baruuk's restraint is diminished he becomes up to 50% more resistant to damage.
+**Passiva:** Cada projétil desviado e cada inimigo adormecido ou desarmado reduz a Restraint dele e alimenta a tempestade interna; quanto menor a Restraint, até 50% mais resistente a dano.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Elude** | 25 | Dodge all incoming projectiles, but only while not attacking. Use again to deactivate this ability. |
-| 2 | **Lull** | 50 | A calming wave slows enemies until they fall into a slumber. Enemies woken by damage will be confused and disoriented. Short-term amnesia means all waking enemies forget anything that happened before the lull. |
-| 3 | **Desolate Hands** | 75 | Summon a bevy of orbiting daggers to seek out enemy guns, destroying them with a small explosion. Combine with Elude to double the range. |
-| 4 | **Serene Storm** | 0 | With his Restraint eroded, Baruuk commands the Desert Wind to deliver powerful radial strikes with his fists and feet. Each moment commanding the storm restores his Restraint. |
+| 1 | **Elude** | 25 | Desvia de todos os projéteis enquanto não estiver atacando. Ative de novo para desligar. |
+| 2 | **Lull** | 50 | Onda calmante que desacelera inimigos até eles adormecerem; os acordados por dano ficam confusos e esquecem o que aconteceu antes. |
+| 3 | **Desolate Hands** | 75 | Adagas orbitais buscam as armas dos inimigos e as destroem com pequenas explosões. Combinado com Elude, dobra o alcance. |
+| 4 | **Serene Storm** | 0 | Com a Restraint esgotada, Baruuk invoca o Desert Wind para golpes radiais de mãos e pés (arma exaltada); usar a tempestade restaura a Restraint. |
 
-**Helminth:** a habilidade **Lull** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Lull** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/new_loka.md|New Loka]].
 
@@ -87,6 +87,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,017% · MR 11–20: 0,035% · MR 21–30: 0,077% · Legendary: 0,020% |
 
 **Leitura:** Baruuk é raramente usado entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Baruuk
+
+Build de referência para **Baruuk** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Duração para Serene Storm (Desert Wind) e redução de dano.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/growing_power.md\|Growing Power]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 3 | [[mods/warframe/streamline.md\|Streamline]] |
+| 4 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 5 | Umbral Fiber |
+| 6 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 7 | [[mods/warframe/stretch.md\|Stretch]] |
+| 8 | Reactive Storm (augment) |
+| Exilus | Primed Sure Footed |
+
+**Helminth:** Pillage (Hildryn) no lugar de Lull.
+**Arcanes:** Molt Augmented, Arcane Avenger.
+**Dica:** Desert Wind escala com mods de Força e com o Combo; Reactive Storm troca o tipo de dano conforme a facção.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Baruuk
+
+Baruuk é um monge guerreiro de contenção: no passado, foi um defensor que jurou não usar a violência, e sua força cresce justamente quando ele se segura. Cada projétil desviado e inimigo pacificado 'desgasta' sua Restraint até a tempestade interior (Desert Wind) explodir. Seu culto e estética remetem ao deserto e à disciplina; ele é obtido com a Vox Solaris, em Fortuna.
 
 ## 🔗 Relacionados — Baruuk
 

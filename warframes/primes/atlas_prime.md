@@ -68,14 +68,14 @@ Como conseguir a Warframe Atlas Prime:
 
 ## 🔮 Habilidades — Atlas Prime
 
-**Passiva (inglês):** Becomes immune to Knockdown effects while on the ground.
+**Passiva:** Fica imune a derrubadas (knockdown) enquanto está no chão.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Landslide** | 25 | Bash enemies with an explosive sliding punch, repeat up to three times for a combo attack. Each hit in the three-punch combo increases the radius of the attack. Energy cost is reduced with each hit of Landslide. Install mods on the Landslide Fists to boost stats. |
-| 2 | **Tectonics** | 50 | Summon a Bulwark rock-wall, activate again to send the rocks crashing toward the enemy. Bulwarks attacked by enemies release an area-of-effect Slash powered by the Health it has lost. |
-| 3 | **Petrify** | 75 | Atlas' hardened gaze will fossilize foes increasing the damage they take, heal Rumblers, and create Petrified Bulwarks. When shattered, petrified enemies drop healing Rubble for Atlas. |
-| 4 | **Rumblers** | 100 | Summon two elemental stone brawlers to the melee. Summoning petrifies enemies in close proximity to Atlas. When finished, Rumblers collapse into a pile of healing Rubble. |
+| 1 | **Landslide** | 25 | Soco deslizante explosivo, repetível 3 vezes em combo; cada golpe aumenta o raio e reduz o custo. Os Landslide Fists aceitam mods. |
+| 2 | **Tectonics** | 50 | Invoca um muro de pedra (Bulwark); ative de novo para lançar as pedras contra os inimigos. Bulwarks atacados liberam Corte em área. |
+| 3 | **Petrify** | 75 | O olhar de Atlas fossiliza inimigos, que passam a levar mais dano; cura os Rumblers e cria Bulwarks. Inimigos petrificados estilhaçados dropam Rubble que cura Atlas. |
+| 4 | **Rumblers** | 100 | Invoca dois brutamontes de pedra; inimigos colados em Atlas são petrificados. Ao acabarem, viram Rubble que cura. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/red_veil.md|Red Veil]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
 
@@ -91,6 +91,39 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,12% · MR 11–20: 0,44% · MR 21–30: 0,73% · Legendary: 0,88% |
 
 **Leitura:** Atlas Prime é pouco usado entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Atlas Prime
+
+Build de referência para **Atlas Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Armadura para tanque/Rumblers.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/growing_power.md\|Growing Power]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 3 | Umbral Fiber |
+| 4 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 5 | [[mods/warframe/streamline.md\|Streamline]] |
+| 6 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 7 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 8 | Path of Statues (augment) |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Gloom (Sevagoth) no lugar de Tectonics.
+**Arcanes:** Molt Augmented, Arcane Grace.
+**Dica:** Landslide usa os mods dos Landslide Fists; Petrify deixa inimigos vulneráveis.
+
+**Versão Prime:** mesma build base; a Atlas Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Atlas Prime
+
+Atlas nasceu de um culto: o Templo de Telamon pregava, com cânticos que invadiam os canais Orokin, a vinda de um grande destruidor de pedra que quebraria o mundo e levaria os oprimidos ao renascimento. Os Orokin zombavam, mas a crença cresceu até que um asteroide trouxe o 'deus' esperado. A história de Atlas fala de esperança das castas inferiores e de força que vem de baixo. No jogo, ele é obtido na quest The Jordas Precept, enfrentando o Jordas Golem.
+
+**Atlas Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "In bygone ages, mountains were said to house warriors. In this age, the mountain has become the warrior."
 
 ## 🔗 Relacionados — Atlas Prime
 

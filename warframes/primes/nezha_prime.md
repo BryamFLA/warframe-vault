@@ -68,14 +68,14 @@ Como conseguir a Warframe Nezha Prime:
 
 ## 🔮 Habilidades — Nezha Prime
 
-**Passiva (inglês):** Slide 60% faster and go 35% farther.
+**Passiva:** Desliza 60% mais rápido e 35% mais longe.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Fire Walker** | 25 | Blaze a trail of flames, scorching enemies and cleansing allies. Teleporting blasts the landing area with a ring of fire. |
-| 2 | **Blazing Chakram** | 25 | Hurl a flaming ring that sets enemies ablaze making them vulnerable to any damage. Flaming enemies drop Restorative Orbs on death. Charge to amplify the power of the ring, and reactivate to instantly travel to the ring's location. |
-| 3 | **Warding Halo** | 75 | Create a protective ring of fire, that also stuns and damages enemies who get too close. |
-| 4 | **Divine Spears** | 100 | Impale nearby enemies on spears that erupt from the below. Activate again to slam surviving enemies back into the ground. |
+| 1 | **Fire Walker** | 25 | Deixa um rastro de chamas que queima inimigos e limpa aliados; teletransportar explode um anel de fogo no destino. |
+| 2 | **Blazing Chakram** | 25 | Arremessa um anel em chamas que incendeia inimigos e os deixa vulneráveis a todo dano; inimigos em chamas dropam orbes de cura ao morrer. Carregue para fortalecer e reative para se teleportar até o anel. |
+| 3 | **Warding Halo** | 75 | Anel protetor de fogo que absorve dano e atordoa e fere inimigos que chegam perto. |
+| 4 | **Divine Spears** | 100 | Empala os inimigos próximos com lanças que saem do chão; ative de novo para esmagar os sobreviventes contra o solo. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
 
@@ -91,6 +91,39 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,18% · MR 11–20: 0,74% · MR 21–30: 1,05% · Legendary: 1,05% |
 
 **Leitura:** Nezha Prime é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Nezha Prime
+
+Build de referência para **Nezha Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Duração para Warding Halo.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/growing_power.md\|Growing Power]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 3 | [[mods/warframe/streamline.md\|Streamline]] |
+| 4 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 5 | Umbral Fiber |
+| 6 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 7 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 8 | Safeguard (augment) |
+| Exilus | Primed Sure Footed |
+
+**Helminth:** Roar (Rhino) no lugar de Fire Walker.
+**Arcanes:** Arcane Guardian, Molt Augmented.
+**Dica:** Warding Halo absorve dano baseado na armadura; Safeguard permite proteger aliados.
+
+**Versão Prime:** mesma build base; a Nezha Prime tem mais vida/escudo/armadura ou energia e polaridades extras, o que exige menos Forma.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Nezha Prime
+
+Nezha já era conhecido muito antes da Queda Orokin: um guerreiro veloz cujas lendas se espalharam pelo Sistema Origem, dando esperança a quem as ouvia. Na terra agrícola de Reshantur, relíquias dele eram encontradas nos campos e viraram objetos de culto. Seu kit de fogo, anel (Warding Halo) e lanças (Divine Spears) evoca o herói mítico chinês.
+
+**Nezha Prime:** versão Prime, feita na era Orokin com materiais nobres (ouro e Orokin Cells) — o 'modelo original de luxo' da Warframe, com estética dourada e atributos melhores. *Codex:* "Behold: the Scion of the Burning Wind, now before you in most courtly accoutrement. Featuring altered mod polarities for greater customization."
 
 ## 🔗 Relacionados — Nezha Prime
 

@@ -57,14 +57,14 @@ O blueprint do Excalibur Umbra é dado na **1ª missão da quest The Sacrifice**
 
 ## 🔮 Habilidades — Excalibur Umbra
 
-**Passiva (inglês):** Umbra exhibits sentience in combat without Transference control. Attacks 10% faster and deals 10% more damage while wielding swords.
+**Passiva:** Luta sozinho, com consciência própria, quando o Operator não está nele; ataca 10% mais rápido e causa 10% mais dano com espadas.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Slash Dash** | 25 | Slash and dash through enemies alongside a radial specter. The powerful Exalted Blade's slashes inflict <DT_SLASH_COLOR>Slash Status. |
-| 2 | **Radial Howl** | 50 | Let out ferocious howl that stuns nearby enemies and causes Sentients to shed any built up resistances. |
-| 3 | **Radial Javelin** | 75 | Radial javelins impale nearby enemies, inflicting <DT_SLASH_COLOR>Slash Status. |
-| 4 | **Exalted Blade** | 25 | Summon a sword of pure light and immense power. |
+| 1 | **Slash Dash** | 25 | Avança cortando os inimigos junto com um espectro radial; com Exalted Blade os cortes aplicam Corte. |
+| 2 | **Radial Howl** | 50 | Uivo feroz que atordoa inimigos e faz os Sentients perderem as resistências acumuladas. |
+| 3 | **Radial Javelin** | 75 | Dardos radiais empalam inimigos próximos, aplicando status de Corte. |
+| 4 | **Exalted Blade** | 25 | Invoca uma espada de luz pura e poder imenso (arma exaltada de Excalibur, que dispara ondas de energia). |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/red_veil.md|Red Veil]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
 
@@ -80,6 +80,37 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 4,30% · MR 11–20: 3,04% · MR 21–30: 1,62% · Legendary: 1,12% |
 
 **Leitura:** Excalibur Umbra é popular (top 15%) entre os Warframes, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Excalibur Umbra
+
+Build de referência para **Excalibur Umbra** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Duração para Exalted Blade.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/growing_power.md\|Growing Power]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 3 | [[mods/warframe/streamline.md\|Streamline]] |
+| 4 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 5 | Umbral Fiber |
+| 6 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 7 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 8 | Chromatic Blade (augment) |
+| Exilus | Primed Sure Footed |
+
+**Helminth:** Roar (Rhino) no lugar de Slash Dash.
+**Arcanes:** Arcane Fury, Molt Augmented.
+**Dica:** Exalted Blade escala com mods de melee; monte a arma exaltada para crítico/Corte.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Excalibur Umbra
+
+Excalibur foi o primeiro Warframe, o protótipo de todos os outros e o guerreiro de espada por excelência. Na quest The Sacrifice descobre-se que existe um Excalibur especial, o Umbra, feito por Ballas a partir de um homem chamado Isaah, que ainda guarda memórias do filho. Excalibur é a escolha inicial mais clássica do jogo.
+
+**Excalibur Umbra:** versão Umbra — um Warframe que guarda memórias da pessoa que foi, criado por Ballas. Ver a quest The Sacrifice.
 
 ## 🔗 Relacionados — Excalibur Umbra
 

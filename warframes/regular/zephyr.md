@@ -62,16 +62,16 @@ Os blueprints de Zephyr são pesquisados no **Tenno Lab** do **Dojo do clã**.
 
 ## 🔮 Habilidades — Zephyr
 
-**Passiva (inglês):** Zephyr moves faster and falls slower while airborne. Also gain 150% Critical Hit chance with weapons while airborne.
+**Passiva:** Move-se mais rápido e cai mais devagar no ar; +150% de chance crítica com armas enquanto está no ar.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Tail Wind** | 25 | Hold while airborne to hover Zephyr with reduced movement. From the air, tap to dash forward, or aim down to dive bomb enemies below. |
-| 2 | **Airburst** | 50 | Launch a burst of massively dense air. Hold to send enemies flying, tap to pull them toward the burst. Damage increases per enemy hit. |
-| 3 | **Turbulence** | 75 | Creates a wind shield around Zephyr, redirecting all incoming projectiles. |
-| 4 | **Tornado** | 100 | Create deadly tornadoes that seek out and engulf enemies. Tornadoes deal the elemental Damage Type they absorb the most. Shoot engulfed enemies to inflict extra damage. Hold for stationary tornadoes or tap for wandering ones. |
+| 1 | **Tail Wind** | 25 | Segure no ar para Zephyr pairar; no ar, toque para avançar ou mire para baixo para mergulhar sobre os inimigos. |
+| 2 | **Airburst** | 50 | Lança uma rajada de ar denso. Segurar arremessa inimigos para longe; tocar puxa-os para a rajada. O dano aumenta por inimigo atingido. |
+| 3 | **Turbulence** | 75 | Escudo de vento ao redor de Zephyr que desvia os projéteis recebidos. |
+| 4 | **Tornado** | 100 | Cria tornados que buscam e engolem inimigos, causando o tipo elemental que mais absorverem; atirar nos presos causa dano extra. Segure para tornados parados, toque para errantes. |
 
-**Helminth:** a habilidade **Airburst** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Airburst** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/new_loka.md|New Loka]], [[mecanicas/sindicatos/red_veil.md|Red Veil]].
 
@@ -87,6 +87,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,59% · MR 11–20: 0,40% · MR 21–30: 0,049% · Legendary: 0,005% |
 
 **Leitura:** Zephyr é pouco usado entre os Warframes, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Zephyr
+
+Build de referência para **Zephyr** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Alcance para Tornado; Turbulence para defesa.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/corrosive_projection.md\|Corrosive Projection]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/stretch.md\|Stretch]] |
+| 3 | Augur Reach |
+| 4 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 5 | [[mods/warframe/streamline.md\|Streamline]] |
+| 6 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 7 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 8 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| Exilus | [[mods/warframe/power_drift.md\|Power Drift]] |
+
+**Helminth:** Roar (Rhino) no lugar de Tail Wind.
+**Arcanes:** Molt Augmented, Arcane Energize.
+**Dica:** No ar ganha +150% de chance crítica: combine com armas de crítico.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Zephyr
+
+Zephyr é a Warframe do ar e da aviação: voa, mergulha e cria tornados. Na era Orokin, era especialista em combate aéreo e mobilidade; seu Turbulence desvia projéteis. É pesquisada no Tenno Lab do Dojo.
 
 ## 🔗 Relacionados — Zephyr
 

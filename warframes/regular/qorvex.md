@@ -68,16 +68,16 @@ Blueprint principal ao concluir a quest **Whispers in the Walls**. Componentes: 
 
 ## 🔮 Habilidades — Qorvex
 
-**Passiva (inglês):** Weapons wield by Qorvex have an additional +3 Punch Through.
+**Passiva:** Armas usadas por Qorvex ganham +3 de Punch Through.
 
-| # | Habilidade | Energia | Descrição (inglês) |
+| # | Habilidade | Energia | O que faz |
 |---|---|---|---|
-| 1 | **Chyrinka Pillar** | 25 | Summon a Chyrinka Pillar that slows enemies. It pulses <DT_RADIATION_COLOR>Radiation Damage with a guaranteed Status Effect. |
-| 2 | **Containment Wall** | 50 | Contain the threat. Qorvex summons walls that slam together, damaging all enemies caught between them and inflicting <DT_RADIATION_COLOR>Radiation Status. |
-| 3 | **Disometric Guard** | 75 | Guard yourself and nearby allies against Status Effects. Each time Qorvex kills or assists in killing an enemy affected by <DT_RADIATION_COLOR>Radiation Status, the number of Status Effects Disometric Guard can prevent increases. |
-| 4 | **Crucible Blast** | 100 | Release a beam from Qorvex's Crucible Core. Each enemy struck suffers <DT_RADIATION_COLOR>Radiation Damage with a guaranteed Status Effect. Enemies affected by <DT_RADIATION_COLOR>Radiation Status explode in a chain reaction. |
+| 1 | **Chyrinka Pillar** | 25 | Invoca um pilar que desacelera inimigos e pulsa dano de Radiação com status garantido. |
+| 2 | **Containment Wall** | 50 | Qorvex invoca paredes que se fecham, esmagando inimigos entre elas e aplicando status de Radiação. |
+| 3 | **Disometric Guard** | 75 | Protege você e aliados contra efeitos de status; cada kill (ou assistência) em inimigo com Radiação aumenta quantos status a guarda bloqueia. |
+| 4 | **Crucible Blast** | 100 | Dispara um feixe do núcleo de Qorvex; cada inimigo atingido sofre Radiação com status garantido, e inimigos com status de Radiação explodem em cadeia. |
 
-**Helminth:** a habilidade **Chyrinka Pillar** pode ser subsumida (doada ao Helminth).
+**Helminth:** a habilidade **Chyrinka Pillar** pode ser subsumida (doada ao Helminth para outros Warframes).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
 
@@ -93,6 +93,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 | Uso por faixa de MR | MR 0–10: 0,15% · MR 11–20: 0,29% · MR 21–30: 0,44% · Legendary: 0,40% |
 
 **Leitura:** Qorvex é pouco usado entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
+
+## 🛠️ Build — Qorvex
+
+Build de referência para **Qorvex** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
+
+**Foco:** Força e Duração; tanque de radiação.
+
+| Slot | Mod |
+|---|---|
+| Aura | [[mods/warframe/growing_power.md\|Growing Power]] |
+| 1 | [[mods/warframe/umbral_intensify.md\|Umbral Intensify]] |
+| 2 | [[mods/warframe/umbral_vitality.md\|Umbral Vitality]] |
+| 3 | Umbral Fiber |
+| 4 | [[mods/warframe/primed_continuity.md\|Primed Continuity]] |
+| 5 | [[mods/warframe/streamline.md\|Streamline]] |
+| 6 | [[mods/warframe/adaptation.md\|Adaptation]] |
+| 7 | [[mods/warframe/primed_flow.md\|Primed Flow]] |
+| 8 | [[mods/warframe/stretch.md\|Stretch]] |
+| Exilus | Primed Sure Footed |
+
+**Helminth:** Roar (Rhino).
+**Arcanes:** Molt Augmented, Arcane Grace.
+**Dica:** Disometric Guard bloqueia status; Crucible Blast explode inimigos com Radiação em cadeia.
+
+**Iniciante sem Umbral/Primed:** troque Umbral Intensify → Intensify, Umbral Vitality → Vitality, Umbral Fiber → Steel Fiber, Primed Continuity → Continuity, Primed Flow → Flow.
+
+## 📖 História — Qorvex
+
+Qorvex é uma massa de concreto em torno de um núcleo radioativo (Crucible Core), projetada pelo próprio Albrecht Entrati para proteger o Operator escolhido dos perigos de seu laboratório. Loid entrega o projeto ao Tenno em Whispers in the Walls. Qorvex é um muro de radiação contra as forças do Murmur.
 
 ## 🔗 Relacionados — Qorvex
 
