@@ -16,6 +16,8 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "174/195"
 uso_2025_pct: 0.047
+id: arma:gaze
+fonte_principal: "É um Kitgun: o blueprint do *chamber* (cano) é comprado do Rude Zuud em Fortuna por 500 de Standing (Rank 0 no Solaris United);"
 ---
 
 # Gaze

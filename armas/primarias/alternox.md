@@ -15,6 +15,11 @@ verificado: true
 agente: opus
 uso_2025_rank: "130/195"
 uso_2025_pct: 0.117
+id: arma:alternox
+negociavel: "não"
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.2
 ---
 
 # Alternox

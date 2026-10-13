@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "144/233"
 uso_2025_pct: 0.123
+id: arma:secura_lecta
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Melee
+classe: Whip
+disposicao_riven: 1.2
+fonte_principal: "Secura Lecta é uma arma de Sindicato: compre do The Perrin Sequence com 125,000 de Standing ao chegar no rank Partner do sindicato."
 ---
 
 # Secura Lecta

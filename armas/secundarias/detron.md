@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "151/153"
 uso_2025_pct: 0.025
+id: arma:detron
+slot: Secondary
+classe: Shotgun Sidearm
+disposicao_riven: 1.15
+fonte_principal: "Blueprint e componentes: drop do Zanuka Hunter (pode ser invocado com o Zanuka Hunter Beacon)."
+negociavel: "não"
 ---
 
 # Detron

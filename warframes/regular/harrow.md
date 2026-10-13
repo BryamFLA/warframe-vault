@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "103/113"
 uso_2025_pct: 0.094
+id: warframe:harrow
+elemento_progenitor: Magnetic
+fonte_principal: "Blueprint principal ao concluir a quest Chains of Harrow."
 ---
 
 # Harrow

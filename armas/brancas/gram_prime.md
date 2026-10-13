@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "46/233"
 uso_2025_pct: 0.564
+id: arma:gram_prime
+negociavel: "só peças/blueprint"
+slot: Melee
+classe: Heavy Blade
+disposicao_riven: 0.8
+vaultado: true
 ---
 
 # Gram Prime

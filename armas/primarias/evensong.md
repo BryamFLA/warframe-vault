@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "83/195"
 uso_2025_pct: 0.243
+id: arma:evensong
+slot: Primary
+classe: Bow
+disposicao_riven: 1.2
+fonte_principal: "Blueprint na missão Ascension em Brutus, Urano (5%)."
+negociavel: "não"
 ---
 
 # Evensong

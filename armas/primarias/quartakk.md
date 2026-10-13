@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "161/195"
 uso_2025_pct: 0.061
+id: arma:quartakk
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.25
+fonte_principal: "Blueprint nas bounties especiais Ghoul Purge (Cetus) ou drop dos Ghoul Auger Alphas."
+negociavel: "não"
 ---
 
 # Quartakk

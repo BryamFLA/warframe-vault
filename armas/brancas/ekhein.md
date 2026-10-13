@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "152/233"
 uso_2025_pct: 0.104
+id: arma:ekhein
+slot: Melee
+classe: Hammer
+disposicao_riven: 1.2
+fonte_principal: "Blueprint comprado do Bird 3 (Cavia, Sanctum Anatomica) por 15.000 de Standing no Rank 3."
+negociavel: "não"
 ---
 
 # Ekhein

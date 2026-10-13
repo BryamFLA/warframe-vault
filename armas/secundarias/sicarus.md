@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "67/153"
 uso_2025_pct: 0.261
+id: arma:sicarus
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.2
+fonte_principal: "Sicarus é vendida pronta no Mercado por 20,000 créditos."
+negociavel: "não"
 ---
 
 # Sicarus

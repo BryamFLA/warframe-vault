@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Shattering_Storm", "https://wiki.warframe.
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: mod:shattering_storm
+negociavel: true
+rank_max: 3
+drenagem_base: -2
 ---
 
 # Shattering Storm

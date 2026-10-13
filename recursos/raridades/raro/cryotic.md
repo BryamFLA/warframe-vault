@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Cryotic", "https://wiki.warframe.com/w/Exc
 atualizado: 2026-10-12
 verificado: true
 agente: opus
+id: recurso:cryotic
 ---
 
 # Cryotic

@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Nistlepod", "https://wiki.warframe.com/w/M
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:nistlepod
 ---
 
 # Nistlepod

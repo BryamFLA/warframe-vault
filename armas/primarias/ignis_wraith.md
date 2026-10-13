@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "7/195"
 uso_2025_pct: 2.391
+id: arma:ignis_wraith
+slot: Primary
+classe: Rifle
+disposicao_riven: 0.65
+fonte_principal: "Blueprint nos Abandoned Derelict Caches de missões Grineer na Veil Proxima (Railjack)."
+negociavel: "não"
 ---
 
 # Ignis Wraith

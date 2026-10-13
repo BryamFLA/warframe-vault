@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "97/233"
 uso_2025_pct: 0.217
+id: arma:sarofang
+negociavel: "só peças/blueprint"
+slot: Melee
+classe: Heavy Blade
+disposicao_riven: 1.1
+fonte_principal: "Blueprint na rotação A e peças na rotação B do Conjunction Survival (Lua)."
 ---
 
 # Sarofang

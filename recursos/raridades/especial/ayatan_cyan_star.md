@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Ayatan_Star", "https://wiki.warframe.com/w
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:ayatan_cyan_star
 ---
 
 # Ayatan Cyan Star

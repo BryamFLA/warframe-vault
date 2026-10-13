@@ -14,6 +14,12 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:coda_bubonico
+slot: Primary
+classe: Shotgun
+disposicao_riven: 0.6
+fonte_principal: "Coda Bubonico é uma arma Coda: comprada da Eleanor (The Hex, Höllvania Central Mall) por 10 Live Heartcell, obtidos derrotando (vanquish) um Technocyte Coda."
+negociavel: "não"
 ---
 
 # Coda Bubonico

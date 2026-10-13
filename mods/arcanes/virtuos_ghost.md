@@ -13,6 +13,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arcane:virtuos_ghost
+rank_max: 3
 ---
 
 # Virtuos Ghost

@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Polymer_Bundle"]
 atualizado: 2026-10-07
 verificado: false
 agente: gemini
+id: recurso:polymer_bundle
 ---
 
 # Polymer Bundle

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "10/195"
 uso_2025_pct: 1.806
+id: arma:felarx
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Shotgun
+disposicao_riven: 0.6
+fonte_principal: "Blueprint principal comprado do Cavalero (The Holdfasts) no Rank 3 por 8.000 de Standing."
 ---
 
 # Felarx

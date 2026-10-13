@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "13/153"
 uso_2025_pct: 1.762
+id: arma:atomos
+slot: Secondary
+classe: Pistol
+disposicao_riven: 0.95
+fonte_principal: "O blueprint de Atomos é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Atomos

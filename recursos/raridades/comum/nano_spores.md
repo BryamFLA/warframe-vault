@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Nano_Spores"]
 atualizado: 2026-10-07
 verificado: false
 agente: gemini
+id: recurso:nano_spores
 ---
 
 # Nano Spores

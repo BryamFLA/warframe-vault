@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "2/195"
 uso_2025_pct: 7.441
+id: arma:nataruk
+slot: Primary
+classe: Bow
+disposicao_riven: 0.65
+fonte_principal: "Dada ao concluir a quest The New War, com slot e Catalyst."
+negociavel: "não"
 ---
 
 # Nataruk

@@ -15,6 +15,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "62/113"
 uso_2025_pct: 0.485
+id: warframe:oberon_prime
+elemento_progenitor: Toxin
+vaultado: true
 ---
 
 # Oberon Prime

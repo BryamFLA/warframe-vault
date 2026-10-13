@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "187/233"
 uso_2025_pct: 0.075
+id: arma:keratinos
+slot: Melee
+classe: Claws
+disposicao_riven: 1.05
+fonte_principal: "Comprada do Father (Entrati) no Rank 0: principal por 1.000 e componentes por 500 (3.000 no total)."
+negociavel: "não"
 ---
 
 # Keratinos

@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "56/113"
 uso_2025_pct: 0.611
+id: warframe:nokko
+elemento_progenitor: Toxin
+fonte_principal: "Blueprints nas bounties do Deepmines (Fortuna, drop incomum/raro;"
 ---
 
 # Nokko

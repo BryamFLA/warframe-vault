@@ -14,6 +14,12 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:aksondol
+slot: Secondary
+classe: Dual Pistols
+disposicao_riven: 0.5
+fonte_principal: "Blueprints comprados da Cephalon Melica com Entropic Kuva — 200 pelo principal, 30 por barrel/receiver e 60 pelo link (380 no total)."
+negociavel: "não"
 ---
 
 # Aksondol

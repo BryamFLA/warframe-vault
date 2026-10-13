@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Morphic_Transformer", "https://wiki.warfra
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:morphic_transformer
+negociavel: true
+rank_max: 3
+drenagem_base: 6
 ---
 
 # Morphic Transformer

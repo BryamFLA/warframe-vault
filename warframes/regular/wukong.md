@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "25/113"
 uso_2025_pct: 1.361
+id: warframe:wukong
+elemento_progenitor: Impact
+fonte_principal: "Os blueprints de Wukong são pesquisados no Tenno Lab do Dojo do clã."
 ---
 
 # Wukong

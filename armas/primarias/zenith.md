@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "46/195"
 uso_2025_pct: 0.493
+id: arma:zenith
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.1
+fonte_principal: "Exclusiva do Daily Tribute (login diário): aparece como recompensa de marco a cada 200 dias."
+negociavel: "não"
 ---
 
 # Zenith

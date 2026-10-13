@@ -14,6 +14,12 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:prisma_dual_decurions
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Archgun
+classe: Archgun
+disposicao_riven: 1.25
+fonte_principal: "Prisma Dual Decurions é vendida pelo Baro Ki'Teer (mercador do Void que visita os Relays a cada 2 semanas) por 175,000 créditos e 525 Ducats."
 ---
 
 # Prisma Dual Decurions

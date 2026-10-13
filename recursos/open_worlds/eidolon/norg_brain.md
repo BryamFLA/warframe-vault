@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Norg_Brain", "https://wiki.warframe.com/w/
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:norg_brain
 ---
 
 # Norg Brain

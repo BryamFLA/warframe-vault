@@ -12,6 +12,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: companheiro:venari_prime
+fonte_principal: "Vem com a Khora Prime: faz parte da passiva dela e não é obtida separadamente."
 ---
 
 # Venari Prime

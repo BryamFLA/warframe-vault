@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "66/195"
 uso_2025_pct: 0.314
+id: arma:proboscis_cernos
+slot: Primary
+classe: Bow
+disposicao_riven: 0.9
+fonte_principal: "O blueprint de Proboscis Cernos é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Proboscis Cernos

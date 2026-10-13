@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "70/113"
 uso_2025_pct: 0.358
+id: warframe:dagath
+elemento_progenitor: Toxin
+fonte_principal: "Blueprints no Dagath's Hollow, sala do Dojo do clã (sem pesquisa)."
 ---
 
 # Dagath

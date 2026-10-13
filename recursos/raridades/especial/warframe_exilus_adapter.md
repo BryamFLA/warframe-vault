@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Exilus_Warframe_Adapter", "https://wiki.wa
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:exilus_warframe_adapter
 ---
 
 # Exilus Warframe Adapter

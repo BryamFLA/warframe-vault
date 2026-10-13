@@ -14,6 +14,11 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: mod:warrior_s_rest
+negociavel: true
+rank_max: 5
+drenagem_base: 2
+augment_de: Excalibur Umbra
 ---
 
 # Warrior's Rest

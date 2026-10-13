@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "173/233"
 uso_2025_pct: 0.084
+id: arma:krohkur
+slot: Melee
+classe: Sword
+disposicao_riven: 1.35
+fonte_principal: "O blueprint de Krohkur é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Krohkur

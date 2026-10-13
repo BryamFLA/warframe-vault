@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "89/195"
 uso_2025_pct: 0.216
+id: arma:strun
+slot: Primary
+classe: Shotgun
+disposicao_riven: 1.4
+fonte_principal: "Strun é vendida pronta no Mercado por 25,000 créditos."
+negociavel: "não"
 ---
 
 # Strun

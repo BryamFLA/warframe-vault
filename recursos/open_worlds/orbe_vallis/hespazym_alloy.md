@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Hespazym_Alloy"]
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: recurso:hespazym_alloy
 ---
 
 # Hespazym Alloy

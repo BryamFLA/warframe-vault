@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "68/153"
 uso_2025_pct: 0.257
+id: arma:vasto
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.4
+fonte_principal: "O blueprint de Vasto é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Vasto

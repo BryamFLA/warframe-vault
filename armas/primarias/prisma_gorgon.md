@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "95/195"
 uso_2025_pct: 0.193
+id: arma:prisma_gorgon
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.3
+fonte_principal: "Prisma Gorgon é vendida pelo Baro Ki'Teer (mercador do Void que visita os Relays a cada 2 semanas) por 50,000 créditos e 600 Ducats."
 ---
 
 # Prisma Gorgon

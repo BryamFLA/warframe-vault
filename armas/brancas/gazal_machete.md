@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "193/233"
 uso_2025_pct: 0.072
+id: arma:gazal_machete
+slot: Melee
+classe: Machete
+disposicao_riven: 1.4
+fonte_principal: "O blueprint de Gazal Machete é pesquisado no Tenno Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Gazal Machete

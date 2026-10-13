@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Thermite_Rounds", "https://wiki.warframe.c
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:thermite_rounds
+negociavel: true
+rank_max: 3
+drenagem_base: 4
 ---
 
 # Thermite Rounds

@@ -14,6 +14,12 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:phaedra
+slot: Archgun
+classe: Archgun
+disposicao_riven: 1.25
+fonte_principal: "Arma de Archwing. Blueprint no Mercado;"
+negociavel: "não"
 ---
 
 # Phaedra

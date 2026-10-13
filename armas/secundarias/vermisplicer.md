@@ -14,6 +14,12 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:vermisplicer_secondary
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.15
+fonte_principal: "É um Kitgun Infested: o blueprint do *chamber* é comprado do Father (Entrati, Necralisk) por 500 de Standing no Rank 0."
+negociavel: "não"
 ---
 
 # Vermisplicer (Secondary)

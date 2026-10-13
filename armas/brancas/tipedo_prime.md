@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "180/233"
 uso_2025_pct: 0.078
+id: arma:tipedo_prime
+negociavel: "só peças/blueprint"
+slot: Melee
+classe: Staff
+disposicao_riven: 1.25
+vaultado: true
 ---
 
 # Tipedo Prime

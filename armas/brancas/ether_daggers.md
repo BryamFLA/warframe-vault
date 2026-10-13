@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "75/233"
 uso_2025_pct: 0.305
+id: arma:ether_daggers
+slot: Melee
+classe: Dual Daggers
+disposicao_riven: 1.49
+fonte_principal: "Blueprint ao concluir a quest Stolen Dreams."
+negociavel: "não"
 ---
 
 # Ether Daggers

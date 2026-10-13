@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Mutagen_Sample"]
 atualizado: 2026-10-07
 verificado: false
 agente: gemini
+id: recurso:mutagen_sample
 ---
 
 # Mutagen Sample

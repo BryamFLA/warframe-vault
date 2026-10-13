@@ -12,6 +12,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: companheiro:sly_vulpaphyla
+fonte_principal: "Obtido por Revivificação com o Son no Necralisk (Deimos): capture um Weakened Sly Vulpaphyla com Conservação, compre Mutagen e Antigen com Standing Entrati e pague 5.000 créditos."
 ---
 
 # Sly Vulpaphyla

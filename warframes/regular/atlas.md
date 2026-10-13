@@ -22,6 +22,8 @@ verificado: true
 agente: opus
 uso_2025_rank: "108/113"
 uso_2025_pct: 0.077
+id: warframe:atlas
+elemento_progenitor: Toxin
 ---
 
 # Atlas

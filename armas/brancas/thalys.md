@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "20/233"
 uso_2025_pct: 1.041
+id: arma:thalys
+negociavel: "não"
+slot: Melee
+classe: Heavy Scythe
+disposicao_riven: 0.65
+fonte_principal: "Blueprint comprado da Acrithis (Dormizone) por 96 Scuttler Husks do Isleweaver (exige The Hex)."
 ---
 
 # Thalys

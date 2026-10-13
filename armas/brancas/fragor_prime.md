@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "87/233"
 uso_2025_pct: 0.266
+id: arma:fragor_prime
+negociavel: "só peças/blueprint"
+slot: Melee
+classe: Hammer
+disposicao_riven: 1.05
+vaultado: true
 ---
 
 # Fragor Prime

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "160/233"
 uso_2025_pct: 0.097
+id: arma:lacera
+slot: Melee
+classe: Blade and Whip
+disposicao_riven: 1.31
+fonte_principal: "O blueprint de Lacera é pesquisado no Tenno Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Lacera

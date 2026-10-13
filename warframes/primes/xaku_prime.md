@@ -15,6 +15,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "14/113"
 uso_2025_pct: 2.283
+id: warframe:xaku_prime
+elemento_progenitor: Magnetic
+vaultado: true
 ---
 
 # Xaku Prime

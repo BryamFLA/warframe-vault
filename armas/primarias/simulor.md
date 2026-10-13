@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "193/195"
 uso_2025_pct: 0.02
+id: arma:simulor
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.25
+fonte_principal: "Blueprint comprado do Cephalon Simaris por 75.000 de Standing."
+negociavel: "não"
 ---
 
 # Simulor

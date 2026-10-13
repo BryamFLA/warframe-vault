@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Longwinder_Lathe_Coagulant", "https://wiki
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:longwinder_lathe_coagulant
 ---
 
 # Longwinder Lathe Coagulant

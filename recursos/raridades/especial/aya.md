@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Aya", "https://wiki.warframe.com/w/Module:
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:aya
 ---
 
 # Aya

@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "72/113"
 uso_2025_pct: 0.335
+id: warframe:wisp
+elemento_progenitor: Heat
+fonte_principal: "Blueprint principal e componentes: drop do boss Ropalolyst, Júpiter."
 ---
 
 # Wisp

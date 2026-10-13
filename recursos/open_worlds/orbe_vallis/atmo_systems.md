@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Atmo_Systems", "https://wiki.warframe.com/
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:atmo_systems
 ---
 
 # Atmo Systems

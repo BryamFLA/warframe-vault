@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Loot_Detector", "https://wiki.warframe.com
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:loot_detector
+negociavel: true
+rank_max: 5
+drenagem_base: -2
 ---
 
 # Loot Detector

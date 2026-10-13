@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "79/195"
 uso_2025_pct: 0.266
+id: arma:miter
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.5
+fonte_principal: "Blueprint e componentes: drop da dupla Lech Kril e Captain Vor em Exta, Ceres."
+negociavel: "não"
 ---
 
 # Miter

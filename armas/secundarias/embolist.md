@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "138/153"
 uso_2025_pct: 0.076
+id: arma:embolist
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.4
+fonte_principal: "O blueprint de Embolist é pesquisado no Bio Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Embolist

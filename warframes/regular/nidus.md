@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "97/113"
 uso_2025_pct: 0.162
+id: warframe:nidus
+elemento_progenitor: Toxin
+fonte_principal: "Blueprint principal da quest The Glast Gambit (extras no Cephalon Simaris por 50.000)."
 ---
 
 # Nidus

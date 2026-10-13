@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Neural_Sensors", "https://wiki.warframe.co
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: recurso:neural_sensors
 ---
 
 # Neural Sensors

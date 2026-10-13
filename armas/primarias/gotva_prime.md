@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "35/195"
 uso_2025_pct: 0.76
+id: arma:gotva_prime
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Primary
+classe: Rifle
+disposicao_riven: 0.85
+fonte_principal: "Vendida pelo Baro Ki'Teer por 625.000 créditos e 675 Ducats (estoque varia)."
 ---
 
 # Gotva Prime

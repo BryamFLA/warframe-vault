@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "121/195"
 uso_2025_pct: 0.124
+id: arma:nagantaka
+slot: Primary
+classe: Crossbow
+disposicao_riven: 1.3
+fonte_principal: "O blueprint de Nagantaka é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Nagantaka

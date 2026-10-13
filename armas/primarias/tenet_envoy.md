@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "21/195"
 uso_2025_pct: 1.13
+id: arma:tenet_envoy
+negociavel: "indireto — via troca de Lich/Sister"
+slot: Primary
+classe: Launcher
+disposicao_riven: 0.65
+fonte_principal: "Tenet Envoy é uma arma Tenet: só se obtém derrotando (vanquish) uma Sister of Parvos gerada com ela."
 ---
 
 # Tenet Envoy

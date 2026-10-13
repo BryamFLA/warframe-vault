@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Regal_Aya", "https://wiki.warframe.com/w/M
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:regal_aya
 ---
 
 # Regal Aya

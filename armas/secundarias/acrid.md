@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "140/153"
 uso_2025_pct: 0.071
+id: arma:acrid
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.33
+fonte_principal: "O blueprint de Acrid é pesquisado no Bio Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Acrid

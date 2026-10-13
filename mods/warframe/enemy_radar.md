@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Enemy_Radar", "https://wiki.warframe.com/w
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:enemy_radar
+negociavel: true
+rank_max: 5
+drenagem_base: -2
 ---
 
 # Enemy Radar

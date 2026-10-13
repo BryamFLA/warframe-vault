@@ -14,6 +14,12 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:nunchasa
+slot: Primary
+classe: Bow
+disposicao_riven: 0.5
+fonte_principal: "Blueprints comprados da Cephalon Melica (Yuvan Peak ou Chrysalith) com Entropic Kuva — 200 pelo principal e 50 por peça (400 no total)."
+negociavel: "não"
 ---
 
 # Nunchasa

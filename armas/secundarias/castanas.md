@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "136/153"
 uso_2025_pct: 0.081
+id: arma:castanas
+slot: Secondary
+classe: Thrown
+disposicao_riven: 1.4
+fonte_principal: "O blueprint de Castana é pesquisado no Tenno Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Castanas

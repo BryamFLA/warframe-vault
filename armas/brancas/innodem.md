@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "22/233"
 uso_2025_pct: 0.985
+id: arma:innodem
+negociavel: "só peças/blueprint"
+slot: Melee
+classe: Dagger
+disposicao_riven: 0.65
+fonte_principal: "Blueprint principal comprado do Cavalero (The Holdfasts) no Rank 1 por 5.500 de Standing."
 ---
 
 # Innodem

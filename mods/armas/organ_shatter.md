@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Organ_Shatter", "https://wiki.warframe.com
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:organ_shatter
+negociavel: true
+rank_max: 5
+drenagem_base: 4
 ---
 
 # Organ Shatter

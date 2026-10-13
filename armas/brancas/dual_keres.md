@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "145/233"
 uso_2025_pct: 0.122
+id: arma:dual_keres
+slot: Melee
+classe: Dual Swords
+disposicao_riven: 1.1
+fonte_principal: "O blueprint de Dual Keres é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Dual Keres

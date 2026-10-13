@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "157/195"
 uso_2025_pct: 0.068
+id: arma:quanta_vandal
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.4
+fonte_principal: "Vendida pelo Baro Ki'Teer por 300.000 créditos e 450 Ducats (estoque varia)."
 ---
 
 # Quanta Vandal

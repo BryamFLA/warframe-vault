@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "61/113"
 uso_2025_pct: 0.51
+id: warframe:styanax
+elemento_progenitor: Cold
+fonte_principal: "Blueprints comprados do Chipper na Kahl's Garrison com Stock, ganho nas missões semanais Break Narmer (após a quest Veilbreaker)."
 ---
 
 # Styanax

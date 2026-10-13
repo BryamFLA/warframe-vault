@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "137/195"
 uso_2025_pct: 0.105
+id: arma:nagantaka_prime
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Crossbow
+disposicao_riven: 1.15
+vaultado: true
 ---
 
 # Nagantaka Prime

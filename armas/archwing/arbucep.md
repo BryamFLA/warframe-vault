@@ -14,6 +14,12 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:arbucep
+slot: Archgun
+classe: Archgun
+disposicao_riven: 0.7
+fonte_principal: "Blueprints nas bounties do Deepmines (Fortuna;"
+negociavel: "não"
 ---
 
 # Arbucep

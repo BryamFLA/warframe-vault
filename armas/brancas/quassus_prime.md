@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "56/233"
 uso_2025_pct: 0.437
+id: arma:quassus_prime
+negociavel: "só peças/blueprint"
+slot: Melee
+classe: Warfan
+disposicao_riven: 0.9
+vaultado: true
 ---
 
 # Quassus Prime

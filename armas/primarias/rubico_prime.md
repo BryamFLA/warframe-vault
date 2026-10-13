@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "36/195"
 uso_2025_pct: 0.716
+id: arma:rubico_prime
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Sniper Rifle
+disposicao_riven: 0.7
+vaultado: true
 ---
 
 # Rubico Prime

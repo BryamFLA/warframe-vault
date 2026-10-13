@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Augur_Secrets", "https://wiki.warframe.com
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:augur_secrets
+negociavel: true
+rank_max: 5
+drenagem_base: 2
 ---
 
 # Augur Secrets

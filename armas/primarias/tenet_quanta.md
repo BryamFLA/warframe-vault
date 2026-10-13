@@ -14,6 +14,12 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:tenet_quanta
+negociavel: "indireto — via troca de Lich/Sister"
+slot: Primary
+classe: Rifle
+disposicao_riven: 0.85
+fonte_principal: "Tenet Quanta é uma arma Tenet: só se obtém derrotando (vanquish) uma Sister of Parvos gerada com ela."
 ---
 
 # Tenet Quanta

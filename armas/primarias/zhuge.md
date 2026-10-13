@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "172/195"
 uso_2025_pct: 0.05
+id: arma:zhuge
+slot: Primary
+classe: Crossbow
+disposicao_riven: 1.2
+fonte_principal: "O blueprint de Zhuge é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Zhuge

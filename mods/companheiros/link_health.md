@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Link_Vitality", "https://wiki.warframe.com
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:link_vitality
+negociavel: true
+rank_max: 10
+drenagem_base: 2
 ---
 
 # Link Vitality

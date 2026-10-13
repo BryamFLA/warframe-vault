@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Charm", "https://wiki.warframe.com/w/Modul
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:charm
+negociavel: true
+rank_max: 3
+drenagem_base: 0
 ---
 
 # Charm

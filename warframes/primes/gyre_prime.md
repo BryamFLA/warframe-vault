@@ -15,6 +15,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "101/113"
 uso_2025_pct: 0.115
+id: warframe:gyre_prime
+elemento_progenitor: Electricity
+vaultado: false
 ---
 
 # Gyre Prime

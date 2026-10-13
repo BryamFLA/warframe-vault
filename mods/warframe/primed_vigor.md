@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Primed_Vigor", "https://wiki.warframe.com/
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:primed_vigor
+negociavel: false
+rank_max: 10
+drenagem_base: 6
 ---
 
 # Primed Vigor

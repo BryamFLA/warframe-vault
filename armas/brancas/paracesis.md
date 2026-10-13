@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "26/233"
 uso_2025_pct: 0.895
+id: arma:paracesis
+slot: Melee
+classe: Heavy Blade
+disposicao_riven: 0.65
+fonte_principal: "Blueprint dado ao concluir a quest Chimera Prologue."
+negociavel: "não"
 ---
 
 # Paracesis

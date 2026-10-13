@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Isos", "https://wiki.warframe.com/w/Module
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: recurso:isos
 ---
 
 # Isos

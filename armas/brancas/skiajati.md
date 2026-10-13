@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "4/233"
 uso_2025_pct: 3.631
+id: arma:skiajati
+slot: Melee
+classe: Nikana
+disposicao_riven: 0.9
+fonte_principal: "Dada pronta e rank máximo na penúltima missão da quest The Sacrifice, junto com o Excalibur Umbra, com slot, Catalyst e os mods Sacrificial Steel e Sacrificial Pressure."
+negociavel: "não"
 ---
 
 # Skiajati

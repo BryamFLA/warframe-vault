@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Swooping_Falcon", "https://wiki.warframe.c
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: mod:swooping_falcon
+negociavel: true
+rank_max: 3
+drenagem_base: -2
 ---
 
 # Swooping Falcon

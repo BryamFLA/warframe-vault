@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "100/233"
 uso_2025_pct: 0.21
+id: arma:pennant
+negociavel: "só peças/blueprint"
+slot: Melee
+classe: Two-Handed Nikana
+disposicao_riven: 0.95
+fonte_principal: "Blueprint principal: drop de comandantes Grineer (Blite Captain, Glacik Commander, Lektro Commander, Pyr Captain) em missões de Railjack (Saturn, Veil e Earth Proxima)."
 ---
 
 # Pennant

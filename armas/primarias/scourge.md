@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "116/195"
 uso_2025_pct: 0.139
+id: arma:scourge
+slot: Primary
+classe: Speargun
+disposicao_riven: 1.2
+fonte_principal: "O blueprint de Scourge é pesquisado no Tenno Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Scourge

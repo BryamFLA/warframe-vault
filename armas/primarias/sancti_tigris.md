@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "167/195"
 uso_2025_pct: 0.054
+id: arma:sancti_tigris
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Primary
+classe: Shotgun
+disposicao_riven: 1
+fonte_principal: "Sancti Tigris é uma arma de Sindicato: compre do New Loka com 125,000 de Standing ao chegar no rank Flawless do sindicato."
 ---
 
 # Sancti Tigris

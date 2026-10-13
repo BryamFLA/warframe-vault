@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Murkray_Liver", "https://wiki.warframe.com
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:murkray_liver
 ---
 
 # Murkray Liver

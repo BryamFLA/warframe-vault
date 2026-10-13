@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Pressure_Point", "https://wiki.warframe.co
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: mod:pressure_point
+negociavel: true
+rank_max: 5
+drenagem_base: 4
 ---
 
 # Pressure Point

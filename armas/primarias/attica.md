@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "151/195"
 uso_2025_pct: 0.08
+id: arma:attica
+slot: Primary
+classe: Crossbow
+disposicao_riven: 1.42
+fonte_principal: "O blueprint de Attica é pesquisado no Tenno Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Attica

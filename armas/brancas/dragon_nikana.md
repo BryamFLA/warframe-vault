@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "36/233"
 uso_2025_pct: 0.712
+id: arma:dragon_nikana
+slot: Melee
+classe: Nikana
+disposicao_riven: 1.15
+fonte_principal: "O blueprint de Dragon Nikana é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Dragon Nikana

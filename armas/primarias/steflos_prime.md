@@ -14,6 +14,12 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:steflos_prime
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Shotgun
+disposicao_riven: 0.5
+vaultado: false
 ---
 
 # Steflos Prime

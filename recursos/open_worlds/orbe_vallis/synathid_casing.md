@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Synathid_Ecosynth_Analyzer", "https://wiki
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:synathid_ecosynth_analyzer
 ---
 
 # Synathid Ecosynth Analyzer

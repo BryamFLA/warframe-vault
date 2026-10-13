@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "74/153"
 uso_2025_pct: 0.221
+id: arma:pyrana
+slot: Secondary
+classe: Shotgun Sidearm
+disposicao_riven: 0.95
+fonte_principal: "O blueprint de Pyrana é pesquisado no Tenno Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Pyrana

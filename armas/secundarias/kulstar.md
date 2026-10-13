@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "100/153"
 uso_2025_pct: 0.148
+id: arma:kulstar
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.3
+fonte_principal: "O blueprint de Kulstar é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Kulstar

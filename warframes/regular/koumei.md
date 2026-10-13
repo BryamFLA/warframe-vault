@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "31/113"
 uso_2025_pct: 0.992
+id: warframe:koumei
+elemento_progenitor: Cold
+fonte_principal: "Blueprints no Shrine Defense de Saya's Visions, Terra (saindo de Cetus)."
 ---
 
 # Koumei

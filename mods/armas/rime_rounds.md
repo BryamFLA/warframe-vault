@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Rime_Rounds", "https://wiki.warframe.com/w
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:rime_rounds
+negociavel: true
+rank_max: 3
+drenagem_base: 4
 ---
 
 # Rime Rounds

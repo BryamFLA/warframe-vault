@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "135/195"
 uso_2025_pct: 0.112
+id: arma:quellor
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.15
+fonte_principal: "Blueprint principal: drop de comandantes Grineer (Blite Captain, Glacik Commander, Lektro Commander, Pyr Captain) em missões de Railjack."
 ---
 
 # Quellor

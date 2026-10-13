@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Vacuum", "https://wiki.warframe.com/w/Modu
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:vacuum
+negociavel: true
+rank_max: 5
+drenagem_base: 2
 ---
 
 # Vacuum

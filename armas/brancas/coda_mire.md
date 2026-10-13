@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "37/233"
 uso_2025_pct: 0.7
+id: arma:coda_mire
+slot: Melee
+classe: Sword
+disposicao_riven: 0.75
+fonte_principal: "Coda Mire é uma arma Coda: comprada da Eleanor (The Hex, Höllvania Central Mall) por 10 Live Heartcell, obtidos derrotando (vanquish) um Technocyte Coda."
+negociavel: "não"
 ---
 
 # Coda Mire

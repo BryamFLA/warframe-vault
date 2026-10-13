@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "138/195"
 uso_2025_pct: 0.104
+id: arma:cinta
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Bow
+disposicao_riven: 1.25
+fonte_principal: "Blueprints resolvendo os puzzles Enigma em Duviri (30% de chance de uma peça por puzzle)."
 ---
 
 # Cinta

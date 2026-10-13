@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/High_Voltage", "https://wiki.warframe.com/
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:high_voltage
+negociavel: true
+rank_max: 3
+drenagem_base: 4
 ---
 
 # High Voltage

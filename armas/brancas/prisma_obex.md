@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "199/233"
 uso_2025_pct: 0.065
+id: arma:prisma_obex
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Melee
+classe: Sparring
+disposicao_riven: 1.25
+fonte_principal: "Prisma Obex é vendida pelo Baro Ki'Teer (mercador do Void que visita os Relays a cada 2 semanas) por 175,000 créditos e 500 Ducats."
 ---
 
 # Prisma Obex

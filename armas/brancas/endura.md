@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "191/233"
 uso_2025_pct: 0.074
+id: arma:endura
+slot: Melee
+classe: Rapier
+disposicao_riven: 1.4
+fonte_principal: "O blueprint de Endura é pesquisado no Tenno Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Endura

@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Life_Strike", "https://wiki.warframe.com/w
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:life_strike
+negociavel: true
+rank_max: 3
+drenagem_base: 4
 ---
 
 # Life Strike

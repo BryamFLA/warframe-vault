@@ -14,6 +14,12 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:perigale_prime
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Sniper Rifle
+disposicao_riven: 0.8
+vaultado: false
 ---
 
 # Perigale Prime

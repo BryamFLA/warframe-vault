@@ -14,6 +14,10 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: mod:sly_devolution
+negociavel: true
+rank_max: 3
+drenagem_base: 0
 ---
 
 # Sly Devolution

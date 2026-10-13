@@ -14,6 +14,12 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:vulklok
+slot: Robotic
+classe: Sniper Rifle
+disposicao_riven: 1.245
+fonte_principal: "Arma robótica que vem automaticamente com o Sentinel Diriga."
+negociavel: "não"
 ---
 
 # Vulklok

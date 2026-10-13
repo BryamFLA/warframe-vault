@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "33/113"
 uso_2025_pct: 0.87
+id: warframe:caliban
+elemento_progenitor: Electricity
+fonte_principal: "Blueprint principal no Mercado."
 ---
 
 # Caliban

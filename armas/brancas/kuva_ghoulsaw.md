@@ -14,6 +14,12 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:kuva_ghoulsaw
+negociavel: "indireto — via troca de Lich/Sister"
+slot: Melee
+classe: Assault Saw
+disposicao_riven: 0.8
+fonte_principal: "Kuva Ghoulsaw é uma arma Kuva: só se obtém derrotando (vanquish) um Kuva Lich que tenha sido gerado com ela."
 ---
 
 # Kuva Ghoulsaw

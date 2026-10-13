@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Advances_Debt-Bond", "https://wiki.warfram
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:advances_debt_bond
 ---
 
 # Advances Debt-Bond

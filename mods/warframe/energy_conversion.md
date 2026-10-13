@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Energy_Conversion", "https://wiki.warframe
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:energy_conversion
+negociavel: true
+rank_max: 5
+drenagem_base: 10
 ---
 
 # Energy Conversion

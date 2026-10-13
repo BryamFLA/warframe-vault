@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "78/195"
 uso_2025_pct: 0.275
+id: arma:higasa
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.25
+fonte_principal: "Blueprint e peças no Shrine Defense de Saya's Visions, Terra (exige Saya's Vigil e Once Awake)."
+negociavel: "não"
 ---
 
 # Higasa

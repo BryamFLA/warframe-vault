@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Tromyzon_Entroplasma", "https://wiki.warfr
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:tromyzon_entroplasma
 ---
 
 # Tromyzon Entroplasma

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "229/233"
 uso_2025_pct: 0.028
+id: arma:korrudo
+slot: Melee
+classe: Sparring
+disposicao_riven: 1.35
+fonte_principal: "Blueprint principal: drop do Tusk Thumper Bull/Doma nas Plains of Eidolon (de dia, bounties tier 4+ ou Steel Path)."
+negociavel: "não"
 ---
 
 # Korrudo

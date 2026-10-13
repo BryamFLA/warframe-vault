@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Voidplume_Crest", "https://wiki.warframe.c
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: recurso:voidplume_crest
 ---
 
 # Voidplume Crest

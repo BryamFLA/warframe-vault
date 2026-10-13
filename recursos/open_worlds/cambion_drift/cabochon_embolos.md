@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Cabochon_Embolos"]
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: recurso:cabochon_embolos
 ---
 
 # Cabochon Embolos

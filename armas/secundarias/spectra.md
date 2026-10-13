@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "148/153"
 uso_2025_pct: 0.053
+id: arma:spectra
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.49
+fonte_principal: "O blueprint de Spectra é pesquisado no Energy Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Spectra

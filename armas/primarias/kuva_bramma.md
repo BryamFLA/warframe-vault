@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "31/195"
 uso_2025_pct: 0.844
+id: arma:kuva_bramma
+negociavel: "indireto — via troca de Lich/Sister"
+slot: Primary
+classe: Bow
+disposicao_riven: 0.7
+fonte_principal: "Kuva Bramma é uma arma Kuva: só se obtém derrotando (vanquish) um Kuva Lich que tenha sido gerado com ela."
 ---
 
 # Kuva Bramma

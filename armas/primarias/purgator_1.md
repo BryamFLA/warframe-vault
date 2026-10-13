@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "115/195"
 uso_2025_pct: 0.142
+id: arma:purgator_1
+slot: Primary
+classe: Launcher
+disposicao_riven: 1.2
+fonte_principal: "Blueprints comprados da Minerva (The Hex) — componentes por 5.000 e principal por 15.000 de Standing, no Rank 5."
+negociavel: "não"
 ---
 
 # Purgator 1

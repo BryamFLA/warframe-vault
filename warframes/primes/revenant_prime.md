@@ -15,6 +15,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "4/113"
 uso_2025_pct: 3.521
+id: warframe:revenant_prime
+elemento_progenitor: Cold
+vaultado: true
 ---
 
 # Revenant Prime

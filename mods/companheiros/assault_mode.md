@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Assault_Mode", "https://wiki.warframe.com/
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:assault_mode
+negociavel: true
+rank_max: 5
+drenagem_base: 0
 ---
 
 # Assault Mode

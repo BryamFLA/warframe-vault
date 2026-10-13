@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Voidplume_Quill", "https://wiki.warframe.c
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: recurso:voidplume_quill
 ---
 
 # Voidplume Quill

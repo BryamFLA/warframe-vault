@@ -13,6 +13,9 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: warframe:styanax_prime
+elemento_progenitor: Cold
+vaultado: false
 ---
 
 # Styanax Prime

@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Firewalker", "https://wiki.warframe.com/w/
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:firewalker
+negociavel: true
+rank_max: 10
+drenagem_base: 2
 ---
 
 # Firewalker

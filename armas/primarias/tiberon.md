@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "143/195"
 uso_2025_pct: 0.092
+id: arma:tiberon
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.1
+fonte_principal: "O blueprint de Tiberon é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Tiberon

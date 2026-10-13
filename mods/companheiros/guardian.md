@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Guardian", "https://wiki.warframe.com/w/Mo
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:guardian
+negociavel: true
+rank_max: 5
+drenagem_base: 2
 ---
 
 # Guardian

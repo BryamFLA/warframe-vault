@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "12/233"
 uso_2025_pct: 1.842
+id: arma:arca_titron
+slot: Melee
+classe: Hammer
+disposicao_riven: 1.3
+fonte_principal: "O blueprint de Arca Titron é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Arca Titron

@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Scrubber_Exa_Brain", "https://wiki.warfram
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:scrubber_exa_brain
 ---
 
 # Scrubber Exa Brain

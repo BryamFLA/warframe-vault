@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "48/153"
 uso_2025_pct: 0.383
+id: arma:coda_tysis
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1
+fonte_principal: "Coda Tysis é uma arma Coda: comprada da Eleanor (The Hex, Höllvania Central Mall) por 10 Live Heartcell, obtidos derrotando (vanquish) um Technocyte Coda."
+negociavel: "não"
 ---
 
 # Coda Tysis

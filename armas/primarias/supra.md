@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "192/195"
 uso_2025_pct: 0.03
+id: arma:supra
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.1
+fonte_principal: "O blueprint de Supra é pesquisado no Energy Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Supra

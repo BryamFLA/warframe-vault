@@ -15,6 +15,10 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "27/113"
 uso_2025_pct: 1.235
+id: warframe:nyx_prime
+elemento_progenitor: Radiation
+vaultado: false
+fonte_principal: "Diferente da maioria dos itens Prime, Nyx Prime nunca é vaultado (permanently unvaulted): as Relíquias saem dos Abandoned Derelict Caches em missões de Railjack Corpus."
 ---
 
 # Nyx Prime

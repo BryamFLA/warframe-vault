@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "12/113"
 uso_2025_pct: 2.378
+id: warframe:dante
+elemento_progenitor: Impact
+fonte_principal: "Blueprints na rotação C do Disruption Armatus (Deimos;"
 ---
 
 # Dante

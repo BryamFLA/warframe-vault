@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "120/233"
 uso_2025_pct: 0.165
+id: arma:argo_e_vel
+slot: Melee
+classe: Sword and Shield
+disposicao_riven: 1.15
+fonte_principal: "Arma de Duviri: blueprint comprado na Teshin's Cave por 60 Pathos Clamps (libera a versão do Drifter e o blueprint da versão para Warframe) ou 225 platina (libera as duas)."
+negociavel: "não"
 ---
 
 # Argo & Vel

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "209/233"
 uso_2025_pct: 0.054
+id: arma:scoliac
+slot: Melee
+classe: Whip
+disposicao_riven: 1.3
+fonte_principal: "O blueprint de Scoliac é pesquisado no Bio Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Scoliac

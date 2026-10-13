@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "141/195"
 uso_2025_pct: 0.096
+id: arma:tenora
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.1
+fonte_principal: "O blueprint de Tenora é pesquisado no Tenno Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Tenora

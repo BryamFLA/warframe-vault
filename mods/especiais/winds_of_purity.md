@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Winds_of_Purity", "https://wiki.warframe.c
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:winds_of_purity
+negociavel: true
+rank_max: 3
+drenagem_base: 4
 ---
 
 # Winds of Purity

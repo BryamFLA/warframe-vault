@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "142/153"
 uso_2025_pct: 0.07
+id: arma:akbolto
+slot: Secondary
+classe: Dual Pistols
+disposicao_riven: 1.3
+fonte_principal: "O blueprint de Akbolto é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Akbolto

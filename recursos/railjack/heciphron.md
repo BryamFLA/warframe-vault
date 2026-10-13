@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Heciphron", "https://wiki.warframe.com/w/M
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: recurso:heciphron
 ---
 
 # Heciphron

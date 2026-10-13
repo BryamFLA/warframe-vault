@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Lethal_Torrent", "https://wiki.warframe.co
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:lethal_torrent
+negociavel: true
+rank_max: 5
+drenagem_base: 6
 ---
 
 # Lethal Torrent

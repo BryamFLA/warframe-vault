@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "41/153"
 uso_2025_pct: 0.493
+id: arma:synoid_gammacor
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.1
+fonte_principal: "Synoid Gammacor é uma arma de Sindicato: compre do Cephalon Suda com 100,000 de Standing ao chegar no rank Genius do sindicato."
 ---
 
 # Synoid Gammacor

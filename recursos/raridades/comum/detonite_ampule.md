@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Detonite_Ampule"]
 atualizado: 2026-10-07
 verificado: false
 agente: gemini
+id: recurso:detonite_ampule
 ---
 
 # Detonite Ampule

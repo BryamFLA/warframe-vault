@@ -14,6 +14,11 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: mod:iron_shrapnel
+negociavel: true
+rank_max: 3
+drenagem_base: 6
+augment_de: Rhino
 ---
 
 # Iron Shrapnel

@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Hyperion_Thrusters", "https://wiki.warfram
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:hyperion_thrusters
+negociavel: true
+rank_max: 10
+drenagem_base: 10
 ---
 
 # Hyperion Thrusters

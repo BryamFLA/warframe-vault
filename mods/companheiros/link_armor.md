@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Link_Fiber", "https://wiki.warframe.com/w/
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:link_fiber
+negociavel: true
+rank_max: 10
+drenagem_base: 4
 ---
 
 # Link Fiber

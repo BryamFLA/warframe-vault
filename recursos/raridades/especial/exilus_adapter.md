@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Exilus_Weapon_Adapter", "https://wiki.warf
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:exilus_weapon_adapter
 ---
 
 # Exilus Weapon Adapter

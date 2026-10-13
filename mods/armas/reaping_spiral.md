@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Reaping_Spiral", "https://wiki.warframe.co
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: mod:reaping_spiral
+negociavel: true
+rank_max: 3
+drenagem_base: -2
 ---
 
 # Reaping Spiral

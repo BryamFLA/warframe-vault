@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "28/113"
 uso_2025_pct: 1.158
+id: warframe:oraxia
+elemento_progenitor: Toxin
+fonte_principal: "Blueprints no Isleweaver (Duviri;"
 ---
 
 # Oraxia

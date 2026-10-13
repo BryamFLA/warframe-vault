@@ -14,6 +14,12 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:war_prime
+slot: Melee
+classe: Heavy Blade
+disposicao_riven: 0.65
+fonte_principal: "Obtida ao forjar o Hunhow's Trinket, comprado do Hunhow na Pontis Tower (após Jade Shadows: Constellations) por 12 Emerald Talent e 12 Crimson Talent."
+negociavel: "não"
 ---
 
 # War Prime

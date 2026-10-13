@@ -14,6 +14,12 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:kuva_ayanga
+negociavel: "indireto — via troca de Lich/Sister"
+slot: Archgun
+classe: Archgun
+disposicao_riven: 0.95
+fonte_principal: "Kuva Ayanga é uma arma Kuva: só se obtém derrotando (vanquish) um Kuva Lich que tenha sido gerado com ela."
 ---
 
 # Kuva Ayanga

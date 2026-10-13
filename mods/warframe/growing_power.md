@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Growing_Power", "https://wiki.warframe.com
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:growing_power
+negociavel: true
+rank_max: 5
+drenagem_base: -2
 ---
 
 # Growing Power

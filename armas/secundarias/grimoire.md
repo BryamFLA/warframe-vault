@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "3/153"
 uso_2025_pct: 7.287
+id: arma:grimoire
+slot: Secondary
+classe: Tome
+disposicao_riven: 0.6
+fonte_principal: "Dada rank máximo na quest Whispers in the Walls, com slot e Catalyst."
+negociavel: "não"
 ---
 
 # Grimoire

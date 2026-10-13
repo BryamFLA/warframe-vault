@@ -14,6 +14,12 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:larkspur
+slot: Archgun
+classe: Archgun
+disposicao_riven: 1.05
+fonte_principal: "O blueprint de Larkspur é pesquisado no Tenno Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Larkspur

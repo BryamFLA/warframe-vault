@@ -13,6 +13,8 @@ verificado: false
 agente: gpt
 uso_2025_rank: "10/113"
 uso_2025_pct: 2.609
+id: warframe:excalibur
+elemento_progenitor: Electricity
 ---
 
 # Excalibur

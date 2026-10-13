@@ -16,6 +16,11 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "98/233"
 uso_2025_pct: 0.213
+id: arma:silva_e_aegis
+slot: Melee
+classe: Sword and Shield
+disposicao_riven: 1.15
+negociavel: "não"
 ---
 
 # Silva & Aegis

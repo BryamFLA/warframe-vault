@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Crimson_Dervish", "https://wiki.warframe.c
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: mod:crimson_dervish
+negociavel: true
+rank_max: 3
+drenagem_base: -2
 ---
 
 # Crimson Dervish

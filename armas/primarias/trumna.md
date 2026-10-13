@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "136/195"
 uso_2025_pct: 0.111
+id: arma:trumna
+slot: Primary
+classe: Rifle
+disposicao_riven: 0.85
+fonte_principal: "Comprada do Father (Entrati, Deimos) no Rank 3: principal por 5.000 e componentes por 2.500 (12.500 no total)."
+negociavel: "não"
 ---
 
 # Trumna

@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Breath_Of_The_Eidolon", "https://wiki.warf
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:breath_of_the_eidolon
 ---
 
 # Breath Of The Eidolon

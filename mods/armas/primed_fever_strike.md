@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Primed_Fever_Strike", "https://wiki.warfra
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:primed_fever_strike
+negociavel: true
+rank_max: 10
+drenagem_base: 6
 ---
 
 # Primed Fever Strike

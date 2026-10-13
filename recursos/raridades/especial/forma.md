@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Forma", "https://wiki.warframe.com/w/Modul
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:forma
 ---
 
 # Forma

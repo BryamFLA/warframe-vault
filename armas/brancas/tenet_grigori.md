@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "113/233"
 uso_2025_pct: 0.175
+id: arma:tenet_grigori
+slot: Melee
+classe: Scythe
+disposicao_riven: 0.95
+fonte_principal: "Tenet Grigori é uma arma Tenet comprada do Ergo Glast (The Perrin Sequence) em qualquer Relay por 40 Corrupted Holokeys, obtidas em missões Void Storm de Railjack (não exige Standing)."
+negociavel: "não"
 ---
 
 # Tenet Grigori

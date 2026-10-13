@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "132/153"
 uso_2025_pct: 0.094
+id: arma:catabolyst
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.2
+fonte_principal: "O blueprint de Catabolyst é pesquisado no Bio Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Catabolyst

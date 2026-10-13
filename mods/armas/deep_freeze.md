@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Deep_Freeze", "https://wiki.warframe.com/w
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:deep_freeze
+negociavel: true
+rank_max: 5
+drenagem_base: 2
 ---
 
 # Deep Freeze

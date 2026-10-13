@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "8/195"
 uso_2025_pct: 2.185
+id: arma:tenet_arca_plasmor
+negociavel: "indireto — via troca de Lich/Sister"
+slot: Primary
+classe: Shotgun
+disposicao_riven: 0.6
+fonte_principal: "Tenet Arca Plasmor é uma arma Tenet: só se obtém derrotando (vanquish) uma Sister of Parvos gerada com ela."
 ---
 
 # Tenet Arca Plasmor

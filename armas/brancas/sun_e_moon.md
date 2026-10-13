@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "18/233"
 uso_2025_pct: 1.121
+id: arma:sun_e_moon
+slot: Melee
+classe: Dual Nikanas
+disposicao_riven: 0.8
+fonte_principal: "Blueprint ao concluir The Duviri Paradox."
+negociavel: "não"
 ---
 
 # Sun & Moon

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "24/233"
 uso_2025_pct: 0.93
+id: arma:bo
+slot: Melee
+classe: Staff
+disposicao_riven: 1.35
+fonte_principal: "É uma das 2 armas melee oferecidas no tutorial Awakening (a outra é a Skana)."
+negociavel: "não"
 ---
 
 # Bo

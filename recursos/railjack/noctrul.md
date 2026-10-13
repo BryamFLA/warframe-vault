@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Noctrul", "https://wiki.warframe.com/w/Mod
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: recurso:noctrul
 ---
 
 # Noctrul

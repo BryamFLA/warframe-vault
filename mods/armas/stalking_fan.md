@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Stalking_Fan", "https://wiki.warframe.com/
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: mod:stalking_fan
+negociavel: true
+rank_max: 3
+drenagem_base: -2
 ---
 
 # Stalking Fan

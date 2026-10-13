@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Synth_Fiber", "https://wiki.warframe.com/w
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:synth_fiber
+negociavel: true
+rank_max: 3
+drenagem_base: 4
 ---
 
 # Synth Fiber

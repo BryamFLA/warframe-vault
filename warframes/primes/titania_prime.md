@@ -15,6 +15,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "7/113"
 uso_2025_pct: 2.669
+id: warframe:titania_prime
+elemento_progenitor: Cold
+vaultado: true
 ---
 
 # Titania Prime

@@ -14,6 +14,11 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:agkuza
+slot: Archmelee
+classe: Archmelee
+fonte_principal: "Agkuza é uma arma de Archwing: o blueprint vem do Mercado, e as peças são compradas de vários Sindicatos."
+negociavel: "não"
 ---
 
 # Agkuza

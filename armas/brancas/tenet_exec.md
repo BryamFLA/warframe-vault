@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "39/233"
 uso_2025_pct: 0.664
+id: arma:tenet_exec
+slot: Melee
+classe: Heavy Blade
+disposicao_riven: 0.8
+fonte_principal: "Tenet Exec é uma arma Tenet comprada do Ergo Glast (The Perrin Sequence) em qualquer Relay por 40 Corrupted Holokeys, obtidas em missões Void Storm de Railjack (não exige Standing)."
+negociavel: "não"
 ---
 
 # Tenet Exec

@@ -14,6 +14,12 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:fluctus
+slot: Archgun
+classe: Archgun
+disposicao_riven: 1.1
+fonte_principal: "Fluctus é uma arma de Archwing: o blueprint vem do Tenno Lab do Dojo, e as peças são compradas de vários Sindicatos."
+negociavel: "não"
 ---
 
 # Fluctus

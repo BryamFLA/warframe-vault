@@ -14,6 +14,12 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:dual_decurion
+slot: Archgun
+classe: Archgun
+disposicao_riven: 1.3
+fonte_principal: "Dual Decurion é uma arma de Archwing: o blueprint vem do Mercado, e as peças são compradas de vários Sindicatos."
+negociavel: "não"
 ---
 
 # Dual Decurion

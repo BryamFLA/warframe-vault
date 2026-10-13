@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "15/233"
 uso_2025_pct: 1.409
+id: arma:harmony
+slot: Melee
+classe: Scythe
+disposicao_riven: 0.6
+fonte_principal: "Blueprint na missão Ascension (Brutus, Urano;"
+negociavel: "não"
 ---
 
 # Harmony

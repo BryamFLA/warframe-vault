@@ -14,6 +14,10 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: mod:flow_burn
+negociavel: true
+rank_max: 10
+drenagem_base: 0
 ---
 
 # Flow Burn

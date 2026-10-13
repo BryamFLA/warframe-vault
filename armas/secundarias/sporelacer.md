@@ -14,6 +14,12 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:sporelacer_secondary
+slot: Secondary
+classe: Pistol
+disposicao_riven: 0.6
+fonte_principal: "É um Kitgun Infested: o blueprint do *chamber* é comprado do Father (Entrati, Necralisk) por 500 de Standing no Rank 0."
+negociavel: "não"
 ---
 
 # Sporelacer (Secondary)

@@ -16,6 +16,11 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "177/233"
 uso_2025_pct: 0.08
+id: arma:cobra_e_crane
+slot: Melee
+classe: Sword and Shield
+disposicao_riven: 1.35
+negociavel: "não"
 ---
 
 # Cobra & Crane

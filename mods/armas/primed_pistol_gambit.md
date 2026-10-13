@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Primed_Pistol_Gambit", "https://wiki.warfr
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:primed_pistol_gambit
+negociavel: true
+rank_max: 10
+drenagem_base: 2
 ---
 
 # Primed Pistol Gambit

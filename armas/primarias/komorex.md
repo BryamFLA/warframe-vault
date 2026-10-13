@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "155/195"
 uso_2025_pct: 0.073
+id: arma:komorex
+slot: Primary
+classe: Sniper Rifle
+disposicao_riven: 1.15
+fonte_principal: "O blueprint de Komorex é pesquisado no Energy Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Komorex

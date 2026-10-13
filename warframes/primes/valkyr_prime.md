@@ -15,6 +15,10 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "15/113"
 uso_2025_pct: 1.903
+id: warframe:valkyr_prime
+elemento_progenitor: Electricity
+vaultado: false
+fonte_principal: "Diferente da maioria dos itens Prime, Valkyr Prime nunca é vaultado (permanently unvaulted): as Relíquias saem dos Abandoned Derelict Caches em missões de Railjack Corpus."
 ---
 
 # Valkyr Prime

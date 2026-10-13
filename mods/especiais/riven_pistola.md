@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Riven_Mods"]
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:pistol_riven_mod
+negociavel: true
+rank_max: 0
+drenagem_base: 0
 ---
 
 # Pistol Riven Mod (Riven de Pistol)

@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Ganglion", "https://wiki.warframe.com/w/Mo
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:ganglion
 ---
 
 # Ganglion

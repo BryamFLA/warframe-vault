@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Narrow_Minded", "https://wiki.warframe.com
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:narrow_minded
+negociavel: true
+rank_max: 10
+drenagem_base: 6
 ---
 
 # Narrow Minded

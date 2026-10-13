@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "9/195"
 uso_2025_pct: 1.817
+id: arma:phenmor
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Rifle
+disposicao_riven: 0.6
+fonte_principal: "Blueprint principal comprado do Cavalero (The Holdfasts) no Rank 2 por 6.000 de Standing."
 ---
 
 # Phenmor

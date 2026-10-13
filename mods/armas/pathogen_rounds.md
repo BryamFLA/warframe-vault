@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Pathogen_Rounds", "https://wiki.warframe.c
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:pathogen_rounds
+negociavel: true
+rank_max: 5
+drenagem_base: 6
 ---
 
 # Pathogen Rounds

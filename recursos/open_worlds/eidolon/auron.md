@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Auroxium_Alloy", "https://wiki.warframe.co
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:auron
 ---
 
 # Auron

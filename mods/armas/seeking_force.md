@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Seeking_Force", "https://wiki.warframe.com
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:seeking_force
+negociavel: true
+rank_max: 5
+drenagem_base: 6
 ---
 
 # Seeking Force

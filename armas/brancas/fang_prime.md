@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "63/233"
 uso_2025_pct: 0.39
+id: arma:fang_prime
+negociavel: "só peças/blueprint"
+slot: Melee
+classe: Dual Daggers
+disposicao_riven: 1.3
+vaultado: false
 ---
 
 # Fang Prime

@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Heavy_Caliber", "https://wiki.warframe.com
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:heavy_caliber
+negociavel: true
+rank_max: 10
+drenagem_base: 6
 ---
 
 # Heavy Caliber

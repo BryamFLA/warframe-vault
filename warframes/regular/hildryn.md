@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "109/113"
 uso_2025_pct: 0.076
+id: warframe:hildryn
+elemento_progenitor: Cold
+fonte_principal: "Blueprint principal comprado da Little Duck (Vox Solaris, Fortuna) por 5.000 de Standing no Rank 2."
 ---
 
 # Hildryn

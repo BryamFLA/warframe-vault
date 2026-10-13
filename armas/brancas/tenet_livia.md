@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "104/233"
 uso_2025_pct: 0.193
+id: arma:tenet_livia
+slot: Melee
+classe: Two-Handed Nikana
+disposicao_riven: 0.95
+fonte_principal: "Tenet Livia é uma arma Tenet comprada do Ergo Glast (The Perrin Sequence) em qualquer Relay por 40 Corrupted Holokeys, obtidas em missões Void Storm de Railjack (não exige Standing)."
+negociavel: "não"
 ---
 
 # Tenet Livia

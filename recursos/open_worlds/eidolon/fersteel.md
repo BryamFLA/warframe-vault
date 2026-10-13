@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Fersteel_Alloy"]
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: recurso:fersteel_alloy
 ---
 
 # Fersteel Alloy

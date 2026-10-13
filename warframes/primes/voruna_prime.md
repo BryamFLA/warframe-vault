@@ -13,6 +13,9 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: warframe:voruna_prime
+elemento_progenitor: Radiation
+vaultado: false
 ---
 
 # Voruna Prime

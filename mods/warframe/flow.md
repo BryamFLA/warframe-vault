@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Flow", "https://wiki.warframe.com/w/Module
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:flow
+negociavel: true
+rank_max: 5
+drenagem_base: 4
 ---
 
 # Flow

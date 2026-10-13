@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "111/113"
 uso_2025_pct: 0.053
+id: warframe:equinox
+elemento_progenitor: Radiation
+fonte_principal: "Equinox exige forjar dois Aspects (Night e Day), cada um com seus Neuroptics, Chassis e Systems, antes da Warframe."
 ---
 
 # Equinox

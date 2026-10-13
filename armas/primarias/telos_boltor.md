@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "85/195"
 uso_2025_pct: 0.242
+id: arma:telos_boltor
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.2
+fonte_principal: "Telos Boltor é uma arma de Sindicato: compre do the Arbiters of Hexis com 125,000 de Standing ao chegar no rank Maxim do sindicato."
 ---
 
 # Telos Boltor

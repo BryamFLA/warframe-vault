@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Aura_Forma", "https://wiki.warframe.com/w/
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:aura_forma
 ---
 
 # Aura Forma

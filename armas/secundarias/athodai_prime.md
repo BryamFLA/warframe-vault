@@ -14,6 +14,12 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:athodai_prime
+negociavel: "só peças/blueprint"
+slot: Secondary
+classe: Pistol
+disposicao_riven: 0.65
+vaultado: false
 ---
 
 # Athodai Prime

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "113/195"
 uso_2025_pct: 0.145
+id: arma:ambassador
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.15
+fonte_principal: "Blueprint principal na rotação C do Survival de Railjack (Venus, Neptune, Pluto e Veil Proxima)."
 ---
 
 # Ambassador

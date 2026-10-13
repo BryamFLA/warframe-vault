@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "82/195"
 uso_2025_pct: 0.254
+id: arma:opticor_vandal
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.1
+fonte_principal: "Ganha ao somar 100 pontos no evento recorrente Thermia Fractures (Orb Vallis), com slot e Catalyst."
 ---
 
 # Opticor Vandal

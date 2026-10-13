@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Body_Count", "https://wiki.warframe.com/w/
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:body_count
+negociavel: true
+rank_max: 5
+drenagem_base: 4
 ---
 
 # Body Count

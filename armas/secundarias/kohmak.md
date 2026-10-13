@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "131/153"
 uso_2025_pct: 0.094
+id: arma:kohmak
+slot: Secondary
+classe: Shotgun Sidearm
+disposicao_riven: 1.35
+fonte_principal: "O blueprint de Kohmak é pesquisado no Chem Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Kohmak

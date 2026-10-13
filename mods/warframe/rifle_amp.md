@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Rifle_Amp", "https://wiki.warframe.com/w/M
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:rifle_amp
+negociavel: true
+rank_max: 5
+drenagem_base: -2
 ---
 
 # Rifle Amp

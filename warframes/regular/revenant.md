@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "71/113"
 uso_2025_pct: 0.356
+id: warframe:revenant
+elemento_progenitor: Cold
+fonte_principal: "Blueprint principal ao concluir a quest Mask of the Revenant (liberada no Rank 2 dos Quills)."
 ---
 
 # Revenant

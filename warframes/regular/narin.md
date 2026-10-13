@@ -12,6 +12,9 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: warframe:narin
+elemento_progenitor: Cold
+fonte_principal: "Blueprints como recompensa de missões no Zariman Ten Zero."
 ---
 
 # Narin

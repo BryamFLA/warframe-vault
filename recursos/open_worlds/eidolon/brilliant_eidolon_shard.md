@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Brilliant_Eidolon_Shard", "https://wiki.wa
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:brilliant_eidolon_shard
 ---
 
 # Brilliant Eidolon Shard

@@ -14,6 +14,10 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: mod:archon_continuity
+negociavel: true
+rank_max: 10
+drenagem_base: 6
 ---
 
 # Archon Continuity

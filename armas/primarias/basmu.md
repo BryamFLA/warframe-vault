@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "73/195"
 uso_2025_pct: 0.286
+id: arma:basmu
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.2
+fonte_principal: "Arma de evento: vendida pela Little Duck no Operation: Scarlet Spear (15.000 Scarlet Credits) e pelo Father no Orphix Venom (1.500 Phasic Cells)."
 ---
 
 # Basmu

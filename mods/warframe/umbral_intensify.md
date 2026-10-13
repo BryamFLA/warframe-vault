@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Umbral_Intensify", "https://wiki.warframe.
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:umbral_intensify
+negociavel: false
+rank_max: 10
+drenagem_base: 6
 ---
 
 # Umbral Intensify

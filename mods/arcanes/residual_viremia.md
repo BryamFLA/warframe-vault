@@ -13,6 +13,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arcane:residual_viremia
+rank_max: 3
 ---
 
 # Residual Viremia

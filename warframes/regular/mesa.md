@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "96/113"
 uso_2025_pct: 0.169
+id: warframe:mesa
+elemento_progenitor: Magnetic
+fonte_principal: "Blueprint principal no Mercado."
 ---
 
 # Mesa

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "30/195"
 uso_2025_pct: 0.874
+id: arma:aeolak
+negociavel: "não"
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.2
+fonte_principal: "Blueprint principal nas bounties tier 5 do Chrysalith (Zariman)."
 ---
 
 # Aeolak

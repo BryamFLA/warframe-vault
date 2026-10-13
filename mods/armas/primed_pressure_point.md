@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Primed_Pressure_Point", "https://wiki.warf
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:primed_pressure_point
+negociavel: true
+rank_max: 10
+drenagem_base: 4
 ---
 
 # Primed Pressure Point

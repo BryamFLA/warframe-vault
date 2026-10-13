@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "213/233"
 uso_2025_pct: 0.052
+id: arma:quassus
+slot: Melee
+classe: Warfan
+disposicao_riven: 1.15
+fonte_principal: "Blueprint nas bounties tier 5 do Cambion Drift (Deimos)."
+negociavel: "não"
 ---
 
 # Quassus

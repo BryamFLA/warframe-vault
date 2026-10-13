@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "25/153"
 uso_2025_pct: 0.692
+id: arma:onos
+slot: Secondary
+classe: Pistol
+disposicao_riven: 0.85
+fonte_principal: "Blueprint na rotação B do Disruption Armatus (Deimos;"
+negociavel: "não"
 ---
 
 # Onos

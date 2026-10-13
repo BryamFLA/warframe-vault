@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Vengeful_Revenant", "https://wiki.warframe
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: mod:vengeful_revenant
+negociavel: true
+rank_max: 3
+drenagem_base: -2
 ---
 
 # Vengeful Revenant

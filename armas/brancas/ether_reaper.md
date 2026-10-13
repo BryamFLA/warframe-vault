@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "133/233"
 uso_2025_pct: 0.144
+id: arma:ether_reaper
+slot: Melee
+classe: Scythe
+disposicao_riven: 1.45
+fonte_principal: "O blueprint de Ether Reaper é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Ether Reaper

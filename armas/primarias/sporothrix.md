@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "188/195"
 uso_2025_pct: 0.031
+id: arma:sporothrix
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Sniper Rifle
+disposicao_riven: 1.3
+fonte_principal: "Blueprint e componentes nas bounties Isolation Vault nível 50–60 (Deimos)."
 ---
 
 # Sporothrix

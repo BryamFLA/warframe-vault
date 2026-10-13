@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "17/195"
 uso_2025_pct: 1.436
+id: arma:trumna_prime
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Rifle
+disposicao_riven: 0.65
+vaultado: true
 ---
 
 # Trumna Prime

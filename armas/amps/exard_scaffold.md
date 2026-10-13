@@ -14,6 +14,11 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:exard_scaffold
+slot: Amp
+classe: Amp
+fonte_principal: "Peça de Amp de tier alto comprada da Little Duck (Vox Solaris, Fortuna) por 3.000 de Standing no Rank 2."
+negociavel: "não"
 ---
 
 # Exard Scaffold

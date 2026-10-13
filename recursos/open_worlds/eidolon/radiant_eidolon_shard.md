@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Radiant_Eidolon_Shard", "https://wiki.warf
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:radiant_eidolon_shard
 ---
 
 # Radiant Eidolon Shard

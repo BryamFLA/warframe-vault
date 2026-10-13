@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "81/153"
 uso_2025_pct: 0.203
+id: arma:sonicor
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.15
+fonte_principal: "O blueprint de Sonicor é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Sonicor

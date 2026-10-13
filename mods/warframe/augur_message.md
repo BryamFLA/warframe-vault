@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Augur_Message", "https://wiki.warframe.com
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:augur_message
+negociavel: true
+rank_max: 5
+drenagem_base: 2
 ---
 
 # Augur Message

@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Condition_Overload", "https://wiki.warfram
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:condition_overload
+negociavel: true
+rank_max: 5
+drenagem_base: 10
 ---
 
 # Condition Overload

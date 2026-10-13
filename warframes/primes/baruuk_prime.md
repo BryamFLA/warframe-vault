@@ -15,6 +15,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "64/113"
 uso_2025_pct: 0.444
+id: warframe:baruuk_prime
+elemento_progenitor: Impact
+vaultado: true
 ---
 
 # Baruuk Prime

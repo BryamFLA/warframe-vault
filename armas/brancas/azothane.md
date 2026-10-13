@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "62/233"
 uso_2025_pct: 0.393
+id: arma:azothane
+slot: Melee
+classe: Two-Handed Nikana
+disposicao_riven: 1.1
+fonte_principal: "Arma de Duviri: blueprint comprado na Teshin's Cave por 50 Pathos Clamps (libera a versão do Drifter e o blueprint da versão para Warframe) ou 250 platina (libera as duas)."
+negociavel: "não"
 ---
 
 # Azothane

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "72/195"
 uso_2025_pct: 0.288
+id: arma:daikyu_prime
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Bow
+disposicao_riven: 1.0
+vaultado: false
 ---
 
 # Daikyu Prime

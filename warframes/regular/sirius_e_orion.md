@@ -12,6 +12,9 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: warframe:sirius_e_orion
+elemento_progenitor: Impact
+fonte_principal: "Blueprint principal ao concluir a quest Jade Shadows: Constellations."
 ---
 
 # Sirius & Orion

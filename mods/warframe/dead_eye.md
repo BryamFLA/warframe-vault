@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Dead_Eye", "https://wiki.warframe.com/w/Mo
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:dead_eye
+negociavel: true
+rank_max: 5
+drenagem_base: -2
 ---
 
 # Dead Eye

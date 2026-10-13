@@ -16,6 +16,13 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "85/153"
 uso_2025_pct: 0.194
+id: arma:hikou_prime
+negociavel: "só peças/blueprint"
+slot: Secondary
+classe: Thrown
+disposicao_riven: 1.25
+vaultado: false
+fonte_principal: "Diferente da maioria dos itens Prime, Hikou Prime nunca é vaultado (permanently unvaulted): as Relíquias saem dos Abandoned Derelict Caches em missões de Railjack Corpus."
 ---
 
 # Hikou Prime

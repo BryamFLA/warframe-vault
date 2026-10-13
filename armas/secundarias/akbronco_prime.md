@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "56/153"
 uso_2025_pct: 0.337
+id: arma:akbronco_prime
+negociavel: "só peças/blueprint"
+slot: Secondary
+classe: Dual Shotguns
+disposicao_riven: 1.3
+vaultado: false
 ---
 
 # Akbronco Prime

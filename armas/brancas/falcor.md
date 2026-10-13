@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "38/233"
 uso_2025_pct: 0.668
+id: arma:falcor
+slot: Melee
+classe: Glaive
+disposicao_riven: 1.3
+fonte_principal: "O blueprint de Falcor é pesquisado no Energy Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Falcor

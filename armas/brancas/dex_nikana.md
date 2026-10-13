@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "16/233"
 uso_2025_pct: 1.357
+id: arma:dex_nikana
+slot: Melee
+classe: Nikana
+disposicao_riven: 1.1
+fonte_principal: "Arma de aniversário (11º aniversário do Warframe): obtida nos Alertas de aniversário em março, com slot e Catalyst."
+negociavel: "não"
 ---
 
 # Dex Nikana

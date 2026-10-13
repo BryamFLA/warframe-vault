@@ -15,6 +15,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "60/113"
 uso_2025_pct: 0.538
+id: warframe:atlas_prime
+elemento_progenitor: Toxin
+vaultado: true
 ---
 
 # Atlas Prime

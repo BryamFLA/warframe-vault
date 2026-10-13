@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "128/195"
 uso_2025_pct: 0.119
+id: arma:kuva_drakgoon
+negociavel: "indireto — via troca de Lich/Sister"
+slot: Primary
+classe: Shotgun
+disposicao_riven: 1.15
+fonte_principal: "Kuva Drakgoon é uma arma Kuva: só se obtém derrotando (vanquish) um Kuva Lich que tenha sido gerado com ela."
 ---
 
 # Kuva Drakgoon

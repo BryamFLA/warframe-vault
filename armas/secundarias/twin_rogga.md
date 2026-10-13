@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "82/153"
 uso_2025_pct: 0.198
+id: arma:twin_rogga
+slot: Secondary
+classe: Dual Shotguns
+disposicao_riven: 1.3
+fonte_principal: "O blueprint de Twin Rogga é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Twin Rogga

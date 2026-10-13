@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "136/233"
 uso_2025_pct: 0.133
+id: arma:telos_boltace
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Melee
+classe: Tonfa
+disposicao_riven: 1.1
+fonte_principal: "Telos Boltace é uma arma de Sindicato: compre do the Arbiters of Hexis com 125,000 de Standing ao chegar no rank Maxim do sindicato."
 ---
 
 # Telos Boltace

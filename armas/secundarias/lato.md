@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "19/153"
 uso_2025_pct: 0.969
+id: arma:lato
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.4
+fonte_principal: "É uma das 2 secundárias oferecidas no tutorial Awakening (a outra é a Kunai)."
+negociavel: "não"
 ---
 
 # Lato

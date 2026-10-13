@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "158/233"
 uso_2025_pct: 0.099
+id: arma:twin_basolk
+slot: Melee
+classe: Dual Swords
+disposicao_riven: 1.3
+fonte_principal: "O blueprint de Twin Basolk é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Twin Basolk

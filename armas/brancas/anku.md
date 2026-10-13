@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "90/233"
 uso_2025_pct: 0.249
+id: arma:anku
+slot: Melee
+classe: Scythe
+disposicao_riven: 1.46
+fonte_principal: "O blueprint de Anku é pesquisado no Tenno Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Anku

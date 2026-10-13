@@ -15,6 +15,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "8/113"
 uso_2025_pct: 2.641
+id: warframe:nova_prime
+elemento_progenitor: Electricity
+vaultado: true
 ---
 
 # Nova Prime

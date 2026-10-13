@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "87/113"
 uso_2025_pct: 0.222
+id: warframe:saryn
+elemento_progenitor: Toxin
+fonte_principal: "Blueprint principal no Mercado."
 ---
 
 # Saryn

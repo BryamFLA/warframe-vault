@@ -14,6 +14,12 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:tazicor
+slot: Robotic
+classe: Rifle
+disposicao_riven: 1
+fonte_principal: "Arma robótica: blueprint comprado do Legs (Fortuna) por 10,000 de Standing no Rank 5 (Old Mate) do Solaris United."
+negociavel: "não"
 ---
 
 # Tazicor

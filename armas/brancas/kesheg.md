@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "189/233"
 uso_2025_pct: 0.074
+id: arma:kesheg
+slot: Melee
+classe: Polearm
+disposicao_riven: 1.35
+fonte_principal: "O blueprint de Kesheg é pesquisado no Chem Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Kesheg

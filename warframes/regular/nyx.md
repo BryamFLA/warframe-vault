@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "83/113"
 uso_2025_pct: 0.257
+id: warframe:nyx
+elemento_progenitor: Radiation
+fonte_principal: "Blueprint principal no Mercado."
 ---
 
 # Nyx

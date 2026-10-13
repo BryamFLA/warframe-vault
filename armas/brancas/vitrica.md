@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "134/233"
 uso_2025_pct: 0.135
+id: arma:vitrica
+slot: Melee
+classe: Heavy Blade
+disposicao_riven: 1.1
+fonte_principal: "Blueprint ao derrotar o Nihil: a luta exige a Nihil's Oubliette Key e a decoração Nihil's Oubliette, compradas nas Nightwave Offerings (60 Creds cada)."
+negociavel: "não"
 ---
 
 # Vitrica

@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Pointed_Wind", "https://wiki.warframe.com/
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: mod:pointed_wind
+negociavel: true
+rank_max: 3
+drenagem_base: -2
 ---
 
 # Pointed Wind

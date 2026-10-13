@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Clashing_Forest", "https://wiki.warframe.c
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: mod:clashing_forest
+negociavel: true
+rank_max: 3
+drenagem_base: -2
 ---
 
 # Clashing Forest

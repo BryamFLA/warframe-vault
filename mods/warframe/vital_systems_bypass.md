@@ -14,6 +14,10 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: mod:vital_systems_bypass
+negociavel: true
+rank_max: 3
+drenagem_base: 10
 ---
 
 # Vital Systems Bypass

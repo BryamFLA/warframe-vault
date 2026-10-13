@@ -14,6 +14,11 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:veritux
+slot: Archmelee
+classe: Archmelee
+fonte_principal: "Recebida pronta ao forjar o Archwing Odonata na quest The Archwing."
+negociavel: "não"
 ---
 
 # Veritux

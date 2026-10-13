@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "174/233"
 uso_2025_pct: 0.084
+id: arma:jat_kittag
+slot: Melee
+classe: Hammer
+disposicao_riven: 1.35
+fonte_principal: "O blueprint de Jat Kittag é pesquisado no Chem Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Jat Kittag

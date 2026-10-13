@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Final_Harbinger", "https://wiki.warframe.c
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: mod:final_harbinger
+negociavel: true
+rank_max: 3
+drenagem_base: -2
 ---
 
 # Final Harbinger

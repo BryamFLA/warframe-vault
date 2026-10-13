@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Homing_Fang", "https://wiki.warframe.com/w
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: mod:homing_fang
+negociavel: true
+rank_max: 3
+drenagem_base: -2
 ---
 
 # Homing Fang

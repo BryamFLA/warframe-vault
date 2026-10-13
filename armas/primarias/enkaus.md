@@ -14,6 +14,12 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:enkaus
+slot: Primary
+classe: Rifle
+disposicao_riven: 0.8
+fonte_principal: "Blueprints no Follie's Hunt (exige Chains of Harrow)."
+negociavel: "não"
 ---
 
 # Enkaus

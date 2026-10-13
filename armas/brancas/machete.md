@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "226/233"
 uso_2025_pct: 0.03
+id: arma:machete
+slot: Melee
+classe: Machete
+disposicao_riven: 1.45
+fonte_principal: "Primeira cópia pelo Daily Tribute (login diário)."
+negociavel: "não"
 ---
 
 # Machete

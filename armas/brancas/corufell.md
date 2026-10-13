@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "76/233"
 uso_2025_pct: 0.303
+id: arma:corufell
+negociavel: "só peças/blueprint"
+slot: Melee
+classe: Heavy Scythe
+disposicao_riven: 1.05
+fonte_principal: "Blueprint na rotação A e peças na rotação B do Mirror Defense em Tyana Pass, Marte."
 ---
 
 # Corufell

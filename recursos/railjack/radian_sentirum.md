@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Radian_Sentirum"]
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: recurso:radian_sentirum
 ---
 
 # Radian Sentirum

@@ -14,6 +14,10 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: mod:umbral_fiber
+negociavel: false
+rank_max: 10
+drenagem_base: 6
 ---
 
 # Umbral Fiber

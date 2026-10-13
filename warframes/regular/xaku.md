@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "85/113"
 uso_2025_pct: 0.235
+id: warframe:xaku
+elemento_progenitor: Magnetic
+fonte_principal: "Blueprint principal ao concluir a quest Heart of Deimos."
 ---
 
 # Xaku

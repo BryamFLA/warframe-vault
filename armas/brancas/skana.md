@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "14/233"
 uso_2025_pct: 1.421
+id: arma:skana
+slot: Melee
+classe: Sword
+disposicao_riven: 1.3
+fonte_principal: "É uma das 2 armas melee do tutorial Awakening (a outra é o Bo)."
+negociavel: "não"
 ---
 
 # Skana

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "179/195"
 uso_2025_pct: 0.039
+id: arma:javlok
+slot: Primary
+classe: Speargun
+disposicao_riven: 1.3
+fonte_principal: "O blueprint de Javlok é pesquisado no Chem Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Javlok

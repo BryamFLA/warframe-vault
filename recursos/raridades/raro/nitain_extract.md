@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Nitain_Extract", "https://wiki.warframe.co
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:nitain_extract
 ---
 
 # Nitain Extract

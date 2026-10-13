@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Ayatan_Treasures"]
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:ayatan_treasures
 ---
 
 # Ayatan Treasures

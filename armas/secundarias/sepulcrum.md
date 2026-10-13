@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "94/153"
 uso_2025_pct: 0.164
+id: arma:sepulcrum
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.1
+fonte_principal: "Comprada do Father (Entrati) no Rank 2: principal por 4.000 e componentes por 2.000."
+negociavel: "não"
 ---
 
 # Sepulcrum

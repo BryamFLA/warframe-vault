@@ -14,6 +14,12 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:imperator_vandal
+negociavel: "só peças/blueprint"
+slot: Archgun
+classe: Archgun
+disposicao_riven: 0.95
+fonte_principal: "Blueprint e peças na invasão do Balor Fomorian (Fomorian Sabotage)."
 ---
 
 # Imperator Vandal

@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Sentient_Core", "https://wiki.warframe.com
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:flawless_sentient_core
 ---
 
 # Flawless Sentient Core

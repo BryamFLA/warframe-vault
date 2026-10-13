@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "72/153"
 uso_2025_pct: 0.236
+id: arma:lato_vandal
+negociavel: "só peças/blueprint"
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.35
+fonte_principal: "Recompensa do Elite Sanctuary Onslaught (originalmente brinde da beta fechada, 2013)."
 ---
 
 # Lato Vandal

@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Gallos_Rods", "https://wiki.warframe.com/w
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: recurso:gallos_rods
 ---
 
 # Gallos Rods

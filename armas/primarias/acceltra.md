@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "26/195"
 uso_2025_pct: 1.027
+id: arma:acceltra
+slot: Primary
+classe: Rifle
+disposicao_riven: 0.65
+fonte_principal: "Blueprint principal: drop dos Demolisher Infested no Dark Sector Ur, Urano."
+negociavel: "não"
 ---
 
 # Acceltra

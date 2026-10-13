@@ -15,6 +15,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "39/113"
 uso_2025_pct: 0.797
+id: warframe:caliban_prime
+elemento_progenitor: Electricity
+vaultado: false
 ---
 
 # Caliban Prime

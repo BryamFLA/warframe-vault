@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "224/233"
 uso_2025_pct: 0.037
+id: arma:heat_dagger
+slot: Melee
+classe: Dagger
+disposicao_riven: 1.44
+fonte_principal: "O blueprint de Heat Dagger é comprado nas Nightwave Offerings por 50 Nightwave Creds."
+negociavel: "não"
 ---
 
 # Heat Dagger

@@ -14,6 +14,12 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:corvas_prime
+negociavel: "só peças/blueprint"
+slot: Archgun
+classe: Archgun
+disposicao_riven: 1.0
+vaultado: true
 ---
 
 # Corvas Prime

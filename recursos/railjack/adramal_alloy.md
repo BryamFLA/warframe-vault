@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Voidrig_Casing", "https://wiki.warframe.co
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:adramal_alloy
 ---
 
 # Adramal Alloy

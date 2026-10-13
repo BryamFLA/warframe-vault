@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Depleted_Reload", "https://wiki.warframe.c
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:depleted_reload
+negociavel: true
+rank_max: 5
+drenagem_base: 2
 ---
 
 # Depleted Reload

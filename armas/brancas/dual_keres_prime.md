@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "48/233"
 uso_2025_pct: 0.533
+id: arma:dual_keres_prime
+negociavel: "só peças/blueprint"
+slot: Melee
+classe: Dual Swords
+disposicao_riven: 0.8
+vaultado: true
 ---
 
 # Dual Keres Prime

@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Fetch", "https://wiki.warframe.com/w/Modul
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:fetch
+negociavel: true
+rank_max: 5
+drenagem_base: 2
 ---
 
 # Fetch

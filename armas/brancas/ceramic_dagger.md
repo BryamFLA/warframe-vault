@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "21/233"
 uso_2025_pct: 1.027
+id: arma:ceramic_dagger
+slot: Melee
+classe: Dagger
+disposicao_riven: 1.43
+fonte_principal: "O blueprint de Ceramic Dagger é comprado nas Nightwave Offerings por 50 Nightwave Creds."
+negociavel: "não"
 ---
 
 # Ceramic Dagger

@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Anti-Grav_Array", "https://wiki.warframe.c
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:anti_grav_array
+negociavel: true
+rank_max: 3
+drenagem_base: 4
 ---
 
 # Anti-Grav Array

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "66/233"
 uso_2025_pct: 0.381
+id: arma:kuva_shildeg
+negociavel: "indireto — via troca de Lich/Sister"
+slot: Melee
+classe: Hammer
+disposicao_riven: 0.85
+fonte_principal: "Kuva Shildeg é uma arma Kuva: só se obtém derrotando (vanquish) um Kuva Lich que tenha sido gerado com ela."
 ---
 
 # Kuva Shildeg

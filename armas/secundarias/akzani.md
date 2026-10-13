@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "53/153"
 uso_2025_pct: 0.366
+id: arma:akzani
+slot: Secondary
+classe: Dual Pistols
+disposicao_riven: 1.52
+fonte_principal: "O blueprint de Akzani é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Akzani

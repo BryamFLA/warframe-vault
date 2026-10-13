@@ -14,6 +14,12 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:sweeper_prime
+negociavel: "indireto — vem com o companheiro"
+slot: Robotic
+classe: Shotgun
+disposicao_riven: 1
+fonte_principal: "Arma robótica que vem automaticamente com o Sentinel Carrier Prime."
 ---
 
 # Sweeper Prime

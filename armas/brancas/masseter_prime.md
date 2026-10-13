@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "94/233"
 uso_2025_pct: 0.232
+id: arma:masseter_prime
+negociavel: "só peças/blueprint"
+slot: Melee
+classe: Heavy Blade
+disposicao_riven: 1
+vaultado: true
 ---
 
 # Masseter Prime

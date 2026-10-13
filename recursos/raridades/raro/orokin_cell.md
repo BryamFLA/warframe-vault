@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Orokin_Cell", "https://wiki.warframe.com/w
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: recurso:orokin_cell
 ---
 
 # Orokin Cell

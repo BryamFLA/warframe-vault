@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "128/153"
 uso_2025_pct: 0.103
+id: arma:sagek_prime
+negociavel: "não"
+slot: Secondary
+classe: Pistol
+disposicao_riven: 0.9
+fonte_principal: "Blueprints na rotação A de The Perita Rebellion (após The Old Peace)."
 ---
 
 # Sagek Prime

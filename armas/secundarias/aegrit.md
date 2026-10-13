@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "104/153"
 uso_2025_pct: 0.14
+id: arma:aegrit
+slot: Secondary
+classe: Thrown
+disposicao_riven: 1
+fonte_principal: "Blueprint comprado do Chipper na Kahl's Garrison por 30 Stock (ganho nas missões semanais Break Narmer, após a quest Veilbreaker), no Rank 4 (Settlement)."
+negociavel: "não"
 ---
 
 # Aegrit

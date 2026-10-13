@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "138/233"
 uso_2025_pct: 0.131
+id: arma:korumm
+slot: Melee
+classe: Polearm
+disposicao_riven: 1.1
+fonte_principal: "Blueprint nas bounties Narmer (nível 50–70, Cetus/Fortuna/Necralisk), após a quest The New War."
+negociavel: "não"
 ---
 
 # Korumm

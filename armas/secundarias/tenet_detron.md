@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "54/153"
 uso_2025_pct: 0.353
+id: arma:tenet_detron
+negociavel: "indireto — via troca de Lich/Sister"
+slot: Secondary
+classe: Shotgun Sidearm
+disposicao_riven: 1
+fonte_principal: "Tenet Detron é uma arma Tenet: só se obtém derrotando (vanquish) uma Sister of Parvos gerada com ela."
 ---
 
 # Tenet Detron

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "28/153"
 uso_2025_pct: 0.678
+id: arma:kompressa
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.15
+fonte_principal: "Blueprint e componentes vendidos pela Roky (Ventkids, Fortuna) no Rank 5, 25.000 de Standing cada."
+negociavel: "não"
 ---
 
 # Kompressa

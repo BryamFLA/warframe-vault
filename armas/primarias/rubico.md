@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "112/195"
 uso_2025_pct: 0.146
+id: arma:rubico
+slot: Primary
+classe: Sniper Rifle
+disposicao_riven: 0.95
+fonte_principal: "O blueprint de Rubico é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Rubico

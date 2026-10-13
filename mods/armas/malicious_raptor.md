@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Malicious_Raptor", "https://wiki.warframe.
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: mod:malicious_raptor
+negociavel: true
+rank_max: 3
+drenagem_base: -2
 ---
 
 # Malicious Raptor

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "94/195"
 uso_2025_pct: 0.203
+id: arma:perigale
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Sniper Rifle
+disposicao_riven: 1.15
+fonte_principal: "Blueprint na rotação A e peças na rotação B do Conjunction Survival em Yuvarium/Circulus, Lua (exige The War Within)."
 ---
 
 # Perigale

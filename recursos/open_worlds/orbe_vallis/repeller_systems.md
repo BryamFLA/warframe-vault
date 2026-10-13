@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Repeller_Systems", "https://wiki.warframe.
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:repeller_systems
 ---
 
 # Repeller Systems

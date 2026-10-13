@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Coprite_Alloy", "https://wiki.warframe.com
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: recurso:coprite_alloy
 ---
 
 # Coprite Alloy

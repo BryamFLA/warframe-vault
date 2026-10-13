@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "43/233"
 uso_2025_pct: 0.614
+id: arma:dual_viciss
+slot: Melee
+classe: Dual Swords
+disposicao_riven: 0.8
+fonte_principal: "Blueprints comprados da Minerva (The Hex) — 2 componentes por 5.000 e principal por 15.000 de Standing, no Rank 5."
+negociavel: "não"
 ---
 
 # Dual Viciss

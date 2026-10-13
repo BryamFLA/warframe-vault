@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "114/195"
 uso_2025_pct: 0.144
+id: arma:cernos
+slot: Primary
+classe: Bow
+disposicao_riven: 1.3
+fonte_principal: "O blueprint de Cernos é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Cernos

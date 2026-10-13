@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "55/195"
 uso_2025_pct: 0.393
+id: arma:kuva_chakkhurr
+negociavel: "indireto — via troca de Lich/Sister"
+slot: Primary
+classe: Rifle
+disposicao_riven: 0.95
+fonte_principal: "Kuva Chakkhurr é uma arma Kuva: só se obtém derrotando (vanquish) um Kuva Lich que tenha sido gerado com ela."
 ---
 
 # Kuva Chakkhurr

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "202/233"
 uso_2025_pct: 0.062
+id: arma:tekko
+slot: Melee
+classe: Fist
+disposicao_riven: 1.4
+fonte_principal: "O blueprint de Tekko é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Tekko

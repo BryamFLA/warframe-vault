@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "194/195"
 uso_2025_pct: 0.015
+id: arma:carmine_penta
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Launcher
+disposicao_riven: 1.3
+fonte_principal: "Blueprint e componentes nos Abandoned Derelict Caches Corpus da Pluto Proxima ou Veil Proxima (Railjack)."
 ---
 
 # Carmine Penta

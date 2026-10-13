@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "201/233"
 uso_2025_pct: 0.065
+id: arma:halikar_wraith
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Melee
+classe: Glaive
+disposicao_riven: 1.2
+fonte_principal: "Halikar Wraith é vendida pelo Baro Ki'Teer (mercador do Void que visita os Relays a cada 2 semanas) por 350,000 créditos e 450 Ducats."
 ---
 
 # Halikar Wraith

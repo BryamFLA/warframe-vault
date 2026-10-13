@@ -14,6 +14,11 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: mod:cataclysmic_gate
+negociavel: true
+rank_max: 3
+drenagem_base: 6
+augment_de: Wisp
 ---
 
 # Cataclysmic Gate

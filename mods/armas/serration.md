@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Serration", "https://wiki.warframe.com/w/M
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:serration
+negociavel: true
+rank_max: 10
+drenagem_base: 4
 ---
 
 # Serration

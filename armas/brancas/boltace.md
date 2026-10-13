@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "161/233"
 uso_2025_pct: 0.097
+id: arma:boltace
+slot: Melee
+classe: Tonfa
+disposicao_riven: 1.25
+fonte_principal: "O blueprint de Boltace é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Boltace

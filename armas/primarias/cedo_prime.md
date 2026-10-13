@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "5/195"
 uso_2025_pct: 2.681
+id: arma:cedo_prime
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Shotgun
+disposicao_riven: 0.55
+vaultado: false
 ---
 
 # Cedo Prime

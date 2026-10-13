@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "100/113"
 uso_2025_pct: 0.129
+id: warframe:garuda
+elemento_progenitor: Radiation
+fonte_principal: "Blueprint principal ao concluir a quest Vox Solaris (Fortuna)."
 ---
 
 # Garuda

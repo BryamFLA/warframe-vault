@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "112/113"
 uso_2025_pct: 0.042
+id: warframe:baruuk
+elemento_progenitor: Impact
+fonte_principal: "Blueprints comprados da Little Duck (Vox Solaris, Fortuna): principal no Rank 2, componentes no Rank 3, 5.000 de Standing cada."
 ---
 
 # Baruuk

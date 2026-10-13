@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Recaster_Neural_Relay", "https://wiki.warf
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:recaster_neural_relay
 ---
 
 # Recaster Neural Relay

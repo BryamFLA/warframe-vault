@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "168/233"
 uso_2025_pct: 0.09
+id: arma:tonbo
+slot: Melee
+classe: Polearm
+disposicao_riven: 1.38
+fonte_principal: "O blueprint de Tonbo é pesquisado no Tenno Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Tonbo

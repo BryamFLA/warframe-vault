@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "114/233"
 uso_2025_pct: 0.173
+id: arma:fang
+slot: Melee
+classe: Dual Daggers
+disposicao_riven: 1.36
+fonte_principal: "O blueprint de Fang é vendido no Mercado;"
+negociavel: "não"
 ---
 
 # Fang

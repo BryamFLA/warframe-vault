@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Lucent_Teroglobe", "https://wiki.warframe.
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:lucent_teroglobe
 ---
 
 # Lucent Teroglobe

@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "47/113"
 uso_2025_pct: 0.723
+id: warframe:gyre
+elemento_progenitor: Electricity
+fonte_principal: "Blueprint principal e componentes da Gyre vêm das bounties do The Holdfasts no Chrysalith (Zariman)."
 ---
 
 # Gyre

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "53/233"
 uso_2025_pct: 0.471
+id: arma:rakta_dark_dagger
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Melee
+classe: Dagger
+disposicao_riven: 1
+fonte_principal: "Rakta Dark Dagger é uma arma de Sindicato: compre do Red Veil com 125,000 de Standing ao chegar no rank Exalted do sindicato."
 ---
 
 # Rakta Dark Dagger

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "59/233"
 uso_2025_pct: 0.418
+id: arma:spinnerex
+slot: Melee
+classe: Whip
+disposicao_riven: 0.85
+fonte_principal: "Blueprints no Isleweaver (Duviri) ou com a Acrithis por Scuttler Husks (16 por componente, 48 pelo principal)."
+negociavel: "não"
 ---
 
 # Spinnerex

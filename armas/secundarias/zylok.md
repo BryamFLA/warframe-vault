@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "149/153"
 uso_2025_pct: 0.05
+id: arma:zylok
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.25
+fonte_principal: "Zylok é vendida pelo Baro Ki'Teer (mercador do Void que visita os Relays a cada 2 semanas) por 200,000 créditos e 500 Ducats."
 ---
 
 # Zylok

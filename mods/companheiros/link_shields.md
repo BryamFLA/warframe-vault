@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Link_Redirection", "https://wiki.warframe.
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:link_redirection
+negociavel: true
+rank_max: 10
+drenagem_base: 4
 ---
 
 # Link Redirection

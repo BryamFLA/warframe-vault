@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "90/195"
 uso_2025_pct: 0.213
+id: arma:tigris_prime
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Shotgun
+disposicao_riven: 0.95
+vaultado: true
 ---
 
 # Tigris Prime

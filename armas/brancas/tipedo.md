@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "196/233"
 uso_2025_pct: 0.067
+id: arma:tipedo
+slot: Melee
+classe: Staff
+disposicao_riven: 1.31
+fonte_principal: "O blueprint de Tipedo é vendido no Mercado por 20,000 créditos."
+negociavel: "não"
 ---
 
 # Tipedo

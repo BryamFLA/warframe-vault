@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "68/195"
 uso_2025_pct: 0.305
+id: arma:rauta
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Shotgun
+disposicao_riven: 1.1
+fonte_principal: "Arma de evento do lançamento de The Seven Crimes of Kullervo (2023), ganha na missão de evento Kullervo's Hold em Duviri."
 ---
 
 # Rauta

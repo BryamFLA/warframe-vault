@@ -14,6 +14,9 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: mod:exalted_blade
+slot: Melee
+classe: Exalted Weapon
 ---
 
 # Exalted Blade

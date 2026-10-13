@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "120/195"
 uso_2025_pct: 0.131
+id: arma:tenet_ferrox
+negociavel: "não"
+slot: Primary
+classe: Speargun
+disposicao_riven: 1.15
+fonte_principal: "Tenet Ferrox é uma arma Tenet comprada do Ergo Glast (The Perrin Sequence) em qualquer Relay por 40 Corrupted Holokeys, obtidas em missões Void Storm de Railjack (não exige Standing)."
 ---
 
 # Tenet Ferrox

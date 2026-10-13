@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "119/153"
 uso_2025_pct: 0.116
+id: arma:knell
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.25
+fonte_principal: "O blueprint de Knell é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Knell

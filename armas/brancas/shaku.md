@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "222/233"
 uso_2025_pct: 0.038
+id: arma:shaku
+slot: Melee
+classe: Nunchaku
+disposicao_riven: 1.35
+fonte_principal: "O blueprint de Shaku é pesquisado no Tenno Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Shaku

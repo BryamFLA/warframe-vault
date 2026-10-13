@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Azure_Archon_Shard", "https://wiki.warfram
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:azure_archon_shard
 ---
 
 # Azure Archon Shard

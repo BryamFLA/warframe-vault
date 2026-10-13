@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Corrupt_Charge", "https://wiki.warframe.co
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:corrupt_charge
+negociavel: true
+rank_max: 3
+drenagem_base: 4
 ---
 
 # Corrupt Charge

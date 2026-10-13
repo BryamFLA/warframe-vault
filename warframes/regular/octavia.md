@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "77/113"
 uso_2025_pct: 0.321
+id: warframe:octavia
+elemento_progenitor: Radiation
+fonte_principal: "Blueprint principal e Mandachord da quest Octavia's Anthem."
 ---
 
 # Octavia

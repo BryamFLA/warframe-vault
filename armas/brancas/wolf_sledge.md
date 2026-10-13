@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "57/233"
 uso_2025_pct: 0.425
+id: arma:wolf_sledge
+negociavel: "só peças/blueprint"
+slot: Melee
+classe: Hammer
+disposicao_riven: 1.25
+fonte_principal: "Blueprint e peças: drop aleatório do Wolf of Saturn Six (evento/Nightwave)."
 ---
 
 # Wolf Sledge

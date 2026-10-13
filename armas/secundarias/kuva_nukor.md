@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "1/153"
 uso_2025_pct: 8.611
+id: arma:kuva_nukor
+negociavel: "indireto — via troca de Lich/Sister"
+slot: Secondary
+classe: Pistol
+disposicao_riven: 0.5
+fonte_principal: "Kuva Nukor é uma arma Kuva: só se obtém derrotando (vanquish) um Kuva Lich que tenha sido gerado com ela."
 ---
 
 # Kuva Nukor

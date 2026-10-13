@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "135/153"
 uso_2025_pct: 0.083
+id: arma:seer
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.5
+fonte_principal: "Blueprint e componentes: drop do boss Captain Vor em Tolstoj, Mercúrio."
+negociavel: "não"
 ---
 
 # Seer

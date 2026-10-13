@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Pathos_Clamp", "https://wiki.warframe.com/
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:pathos_clamp
 ---
 
 # Pathos Clamp

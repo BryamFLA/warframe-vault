@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Heated_Charge", "https://wiki.warframe.com
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:heated_charge
+negociavel: true
+rank_max: 5
+drenagem_base: 6
 ---
 
 # Heated Charge

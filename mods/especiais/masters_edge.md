@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Master%27s_Edge", "https://wiki.warframe.c
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:master_s_edge
+negociavel: true
+rank_max: 5
+drenagem_base: 4
 ---
 
 # Master's Edge

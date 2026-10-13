@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "119/195"
 uso_2025_pct: 0.136
+id: arma:supra_vandal
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Primary
+classe: Rifle
+disposicao_riven: 1
+fonte_principal: "Supra Vandal é vendida pelo Baro Ki'Teer (mercador do Void que visita os Relays a cada 2 semanas) por 275,000 créditos e 500 Ducats."
 ---
 
 # Supra Vandal

@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Targeting_Receptor", "https://wiki.warfram
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:targeting_receptor
+negociavel: true
+rank_max: 3
+drenagem_base: 0
 ---
 
 # Targeting Receptor

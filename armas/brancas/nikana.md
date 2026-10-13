@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "101/233"
 uso_2025_pct: 0.207
+id: arma:nikana
+slot: Melee
+classe: Nikana
+disposicao_riven: 0.95
+fonte_principal: "O blueprint de Nikana é pesquisado no Tenno Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Nikana

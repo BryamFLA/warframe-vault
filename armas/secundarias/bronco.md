@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "106/153"
 uso_2025_pct: 0.133
+id: arma:bronco
+slot: Secondary
+classe: Shotgun Sidearm
+disposicao_riven: 1.45
+fonte_principal: "O blueprint de Bronco é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Bronco

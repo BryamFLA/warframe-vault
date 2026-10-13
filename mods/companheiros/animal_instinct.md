@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Animal_Instinct", "https://wiki.warframe.c
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:animal_instinct
+negociavel: true
+rank_max: 5
+drenagem_base: 6
 ---
 
 # Animal Instinct

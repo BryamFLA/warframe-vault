@@ -15,6 +15,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "40/113"
 uso_2025_pct: 0.785
+id: warframe:nezha_prime
+elemento_progenitor: Heat
+vaultado: true
 ---
 
 # Nezha Prime

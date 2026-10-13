@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "64/153"
 uso_2025_pct: 0.291
+id: arma:dual_cestra
+slot: Secondary
+classe: Dual Pistols
+disposicao_riven: 1.35
+fonte_principal: "O blueprint de Dual Cestra é pesquisado no Energy Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Dual Cestra

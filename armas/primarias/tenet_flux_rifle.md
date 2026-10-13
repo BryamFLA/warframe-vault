@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "104/195"
 uso_2025_pct: 0.17
+id: arma:tenet_flux_rifle
+negociavel: "indireto — via troca de Lich/Sister"
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.2
+fonte_principal: "Tenet Flux Rifle é uma arma Tenet: só se obtém derrotando (vanquish) uma Sister of Parvos gerada com ela."
 ---
 
 # Tenet Flux Rifle

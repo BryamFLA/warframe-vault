@@ -14,6 +14,12 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:haalvu
+slot: Primary
+classe: Rifle
+disposicao_riven: 0.6
+fonte_principal: "Brinde da TennoCon 2026 (Twitch Drop, 11/07/2026), com slot e Catalyst."
+negociavel: "não"
 ---
 
 # Haalvu

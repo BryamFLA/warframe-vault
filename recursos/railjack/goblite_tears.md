@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Goblite_Tears"]
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: recurso:goblite_tears
 ---
 
 # Goblite Tears

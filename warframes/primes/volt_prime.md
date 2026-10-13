@@ -15,6 +15,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "3/113"
 uso_2025_pct: 3.611
+id: warframe:volt_prime
+elemento_progenitor: Electricity
+vaultado: false
 ---
 
 # Volt Prime

@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "95/113"
 uso_2025_pct: 0.169
+id: warframe:lavos
+elemento_progenitor: Magnetic
+fonte_principal: "Blueprints comprados do Father (Necralisk, Deimos) com Standing Entrati: principal no Rank 2, componentes no Rank 3, 5.000 de Standing cada (total 20.000)."
 ---
 
 # Lavos

@@ -14,6 +14,12 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:prisma_burst_laser
+negociavel: "indireto — vem com o companheiro"
+slot: Robotic
+classe: Pistol
+disposicao_riven: 1.45
+fonte_principal: "Vem com o Prisma Shade, vendido pelo Baro Ki'Teer (300.000 créditos e 500 Ducats)."
 ---
 
 # Prisma Burst Laser

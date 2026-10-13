@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Vega_Toroid", "https://wiki.warframe.com/w
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:vega_toroid
 ---
 
 # Vega Toroid

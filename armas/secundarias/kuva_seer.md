@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "75/153"
 uso_2025_pct: 0.22
+id: arma:kuva_seer
+negociavel: "indireto — via troca de Lich/Sister"
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.1
+fonte_principal: "Kuva Seer é uma arma Kuva: só se obtém derrotando (vanquish) um Kuva Lich que tenha sido gerado com ela."
 ---
 
 # Kuva Seer

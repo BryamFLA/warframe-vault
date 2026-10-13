@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "27/233"
 uso_2025_pct: 0.876
+id: arma:war
+slot: Melee
+classe: Heavy Blade
+disposicao_riven: 1.05
+fonte_principal: "Blueprint dropado pelo Protector Stalker ou Shadow Stalker."
+negociavel: "não"
 ---
 
 # War

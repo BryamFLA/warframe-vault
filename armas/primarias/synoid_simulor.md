@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "127/195"
 uso_2025_pct: 0.12
+id: arma:synoid_simulor
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.2
+fonte_principal: "Synoid Simulor é uma arma de Sindicato: compre do Cephalon Suda com 125,000 de Standing ao chegar no rank Genius do sindicato."
 ---
 
 # Synoid Simulor

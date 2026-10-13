@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "208/233"
 uso_2025_pct: 0.054
+id: arma:dark_dagger
+slot: Melee
+classe: Dagger
+disposicao_riven: 1.1
+fonte_principal: "O blueprint de Dark Dagger é comprado nas Nightwave Offerings por 50 Nightwave Creds."
+negociavel: "não"
 ---
 
 # Dark Dagger

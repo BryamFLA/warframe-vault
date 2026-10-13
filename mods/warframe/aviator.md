@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Aviator", "https://wiki.warframe.com/w/Mod
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:aviator
+negociavel: true
+rank_max: 3
+drenagem_base: 4
 ---
 
 # Aviator

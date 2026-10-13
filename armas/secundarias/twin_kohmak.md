@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "115/153"
 uso_2025_pct: 0.118
+id: arma:twin_kohmak
+slot: Secondary
+classe: Dual Shotguns
+disposicao_riven: 1.25
+fonte_principal: "Blueprint principal: drop da boss Kela De Thaym em Merrow, Sedna."
+negociavel: "não"
 ---
 
 # Twin Kohmak

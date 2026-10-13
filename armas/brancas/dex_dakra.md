@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "61/233"
 uso_2025_pct: 0.399
+id: arma:dex_dakra
+slot: Melee
+classe: Dual Swords
+disposicao_riven: 1.35
+fonte_principal: "Arma de aniversário (2º aniversário do Warframe): obtida nos Alertas de aniversário em março, com slot e Catalyst."
+negociavel: "não"
 ---
 
 # Dex Dakra

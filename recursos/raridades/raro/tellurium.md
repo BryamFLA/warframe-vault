@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Tellurium", "https://wiki.warframe.com/w/M
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: recurso:tellurium
 ---
 
 # Tellurium

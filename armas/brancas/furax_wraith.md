@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "34/233"
 uso_2025_pct: 0.738
+id: arma:furax_wraith
+negociavel: "só peças/blueprint"
+slot: Melee
+classe: Fist
+disposicao_riven: 1.15
+fonte_principal: "Blueprint e componentes nas bounties de Cetus de tier 5 (nível 40–60)."
 ---
 
 # Furax Wraith

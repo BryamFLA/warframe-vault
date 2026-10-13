@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "93/195"
 uso_2025_pct: 0.203
+id: arma:vectis
+slot: Primary
+classe: Sniper Rifle
+disposicao_riven: 1.15
+fonte_principal: "O blueprint de Vectis é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Vectis

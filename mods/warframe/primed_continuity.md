@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Primed_Continuity", "https://wiki.warframe
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:primed_continuity
+negociavel: true
+rank_max: 10
+drenagem_base: 4
 ---
 
 # Primed Continuity

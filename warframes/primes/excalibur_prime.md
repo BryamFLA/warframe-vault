@@ -15,6 +15,10 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "113/113"
 uso_2025_pct: 0.036
+id: warframe:excalibur_prime
+elemento_progenitor: Electricity
+vaultado: true
+fonte_principal: "Excalibur Prime só podia ser obtido comprando o pacote Founders (Hunter ou superior), encerrado em 1º de novembro de 2013."
 ---
 
 # Excalibur Prime

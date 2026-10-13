@@ -1,5 +1,5 @@
 ---
-title: Nora's Mix: Dreams of the Dead Cred
+title: "Nora's Mix: Dreams of the Dead Cred"
 aliases: [Nora's Mix: Dreams of the Dead Cred]
 tipo: recurso
 subtipo: currency
@@ -12,6 +12,7 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: recurso:nora_s_mix_dreams_of_the_dead_cred
 ---
 
 # Nora's Mix: Dreams of the Dead Cred

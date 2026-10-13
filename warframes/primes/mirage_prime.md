@@ -15,6 +15,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "17/113"
 uso_2025_pct: 1.86
+id: warframe:mirage_prime
+elemento_progenitor: Radiation
+vaultado: true
 ---
 
 # Mirage Prime

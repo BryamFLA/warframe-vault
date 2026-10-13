@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "109/195"
 uso_2025_pct: 0.156
+id: arma:grakata
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.35
+fonte_principal: "O blueprint de Grakata é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Grakata

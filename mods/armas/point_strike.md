@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Point_Strike", "https://wiki.warframe.com/
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:point_strike
+negociavel: true
+rank_max: 5
+drenagem_base: 2
 ---
 
 # Point Strike

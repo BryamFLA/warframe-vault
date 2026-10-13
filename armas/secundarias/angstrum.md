@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "86/153"
 uso_2025_pct: 0.193
+id: arma:angstrum
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.35
+fonte_principal: "O blueprint de Angstrum é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Angstrum

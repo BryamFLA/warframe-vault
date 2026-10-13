@@ -16,6 +16,8 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "65/195"
 uso_2025_pct: 0.325
+id: arma:mk1_braton
+fonte_principal: "MK1-Braton é vendida pronta no Mercado por 15,000 créditos."
 ---
 
 # MK1-Braton

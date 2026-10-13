@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Emerald_Archon_Shard", "https://wiki.warfr
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:emerald_archon_shard
 ---
 
 # Emerald Archon Shard

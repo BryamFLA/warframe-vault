@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "65/153"
 uso_2025_pct: 0.283
+id: arma:akbolto_prime
+negociavel: "só peças/blueprint"
+slot: Secondary
+classe: Dual Pistols
+disposicao_riven: 1.2
+vaultado: false
 ---
 
 # Akbolto Prime

@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Hemorrhage", "https://wiki.warframe.com/w/
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:hemorrhage
+negociavel: true
+rank_max: 5
+drenagem_base: 10
 ---
 
 # Hemorrhage

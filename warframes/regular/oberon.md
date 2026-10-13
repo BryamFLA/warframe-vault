@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "68/113"
 uso_2025_pct: 0.367
+id: warframe:oberon
+elemento_progenitor: Toxin
+fonte_principal: "Blueprint principal no Mercado."
 ---
 
 # Oberon

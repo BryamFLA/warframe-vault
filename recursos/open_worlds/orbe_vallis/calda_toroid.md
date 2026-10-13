@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Calda_Toroid", "https://wiki.warframe.com/
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:calda_toroid
 ---
 
 # Calda Toroid

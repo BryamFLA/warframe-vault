@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "166/195"
 uso_2025_pct: 0.055
+id: arma:opticor
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.15
+fonte_principal: "O blueprint de Opticor é pesquisado no Energy Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Opticor

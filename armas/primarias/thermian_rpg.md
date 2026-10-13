@@ -14,6 +14,10 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:thermian_rpg
+slot: Primary
+classe: Unique
+negociavel: "não"
 ---
 
 # Thermian RPG

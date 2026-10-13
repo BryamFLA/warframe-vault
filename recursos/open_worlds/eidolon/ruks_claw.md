@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Ruk%27s_Claw", "https://wiki.warframe.com/
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:ruk_s_claw
 ---
 
 # Ruk's Claw

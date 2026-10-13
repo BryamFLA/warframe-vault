@@ -15,6 +15,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "63/113"
 uso_2025_pct: 0.451
+id: warframe:equinox_prime
+elemento_progenitor: Radiation
+vaultado: true
 ---
 
 # Equinox Prime

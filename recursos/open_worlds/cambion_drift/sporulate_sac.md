@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Sporulate_Sac", "https://wiki.warframe.com
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:sporulate_sac
 ---
 
 # Sporulate Sac

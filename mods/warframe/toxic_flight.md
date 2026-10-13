@@ -14,6 +14,10 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: mod:toxic_flight
+negociavel: true
+rank_max: 10
+drenagem_base: 2
 ---
 
 # Toxic Flight

@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Synth_Deconstruct", "https://wiki.warframe
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:synth_deconstruct
+negociavel: true
+rank_max: 5
+drenagem_base: 4
 ---
 
 # Synth Deconstruct

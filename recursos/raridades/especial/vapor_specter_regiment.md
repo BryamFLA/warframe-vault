@@ -12,6 +12,7 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: recurso:vapor_specter_regiment
 ---
 
 # Vapor Specter Regiment

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "45/233"
 uso_2025_pct: 0.566
+id: arma:broken_scepter
+slot: Melee
+classe: Staff
+disposicao_riven: 1.4
+fonte_principal: "Dado pronto ao concluir The War Within, com slot e Catalyst."
+negociavel: "não"
 ---
 
 # Broken Scepter

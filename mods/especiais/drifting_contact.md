@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Drifting_Contact", "https://wiki.warframe.
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:drifting_contact
+negociavel: true
+rank_max: 3
+drenagem_base: 2
 ---
 
 # Drifting Contact

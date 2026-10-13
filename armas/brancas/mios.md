@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "155/233"
 uso_2025_pct: 0.101
+id: arma:mios
+slot: Melee
+classe: Blade and Whip
+disposicao_riven: 1.3
+fonte_principal: "O blueprint de Mios é pesquisado no Bio Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Mios

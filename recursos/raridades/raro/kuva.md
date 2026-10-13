@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Kuva_%28Resource%29", "https://wiki.warfra
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:kuva
 ---
 
 # Kuva

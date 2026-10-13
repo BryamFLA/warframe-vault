@@ -14,6 +14,12 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:imperator
+negociavel: "só peças/blueprint"
+slot: Archgun
+classe: Archgun
+disposicao_riven: 1.1
+fonte_principal: "Recebida pronta ao forjar o Archwing Odonata na quest The Archwing."
 ---
 
 # Imperator

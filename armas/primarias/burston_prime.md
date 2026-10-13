@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "3/195"
 uso_2025_pct: 5.495
+id: arma:burston_prime
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.35
+vaultado: false
 ---
 
 # Burston Prime

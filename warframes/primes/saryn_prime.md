@@ -15,6 +15,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "13/113"
 uso_2025_pct: 2.336
+id: warframe:saryn_prime
+elemento_progenitor: Toxin
+vaultado: true
 ---
 
 # Saryn Prime

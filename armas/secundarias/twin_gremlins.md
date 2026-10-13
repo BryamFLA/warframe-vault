@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "83/153"
 uso_2025_pct: 0.197
+id: arma:twin_gremlins
+slot: Secondary
+classe: Dual Pistols
+disposicao_riven: 1.2
+fonte_principal: "Blueprint: drop da dupla Lech Kril e Captain Vor em Exta, Ceres."
+negociavel: "não"
 ---
 
 # Twin Gremlins

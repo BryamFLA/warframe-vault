@@ -14,6 +14,12 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:morgha
+negociavel: "só componentes construídos"
+slot: Archgun
+classe: Archgun
+disposicao_riven: 1
+fonte_principal: "Arma de Necramech. Blueprint principal no Rank 3 do Necraloid (recompensa de rank;"
 ---
 
 # Morgha

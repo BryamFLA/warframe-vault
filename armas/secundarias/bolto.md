@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "125/153"
 uso_2025_pct: 0.106
+id: arma:bolto
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.51
+fonte_principal: "O blueprint de Bolto é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Bolto

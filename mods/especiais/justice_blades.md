@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Justice_Blades", "https://wiki.warframe.co
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:justice_blades
+negociavel: true
+rank_max: 3
+drenagem_base: 4
 ---
 
 # Justice Blades

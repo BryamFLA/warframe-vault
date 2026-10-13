@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Astral_Autopsy", "https://wiki.warframe.co
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: mod:astral_autopsy
+negociavel: true
+rank_max: 0
+drenagem_base: 10
 ---
 
 # Astral Autopsy

@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Voidplume_Down", "https://wiki.warframe.co
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: recurso:voidplume_down
 ---
 
 # Voidplume Down

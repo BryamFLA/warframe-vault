@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "84/195"
 uso_2025_pct: 0.243
+id: arma:baza
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.05
+fonte_principal: "O blueprint de Baza é pesquisado no Tenno Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Baza

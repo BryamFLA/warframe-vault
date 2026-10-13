@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "6/233"
 uso_2025_pct: 3.062
+id: arma:magistar
+slot: Melee
+classe: Hammer
+disposicao_riven: 1.35
+fonte_principal: "O blueprint de Magistar é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Magistar

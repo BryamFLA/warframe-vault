@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "7/153"
 uso_2025_pct: 3.631
+id: arma:furis
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.35
+fonte_principal: "O blueprint de Furis é vendido no Mercado;"
+negociavel: "não"
 ---
 
 # Furis

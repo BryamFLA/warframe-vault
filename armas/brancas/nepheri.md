@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "102/233"
 uso_2025_pct: 0.195
+id: arma:nepheri
+slot: Melee
+classe: Dual Daggers
+disposicao_riven: 1
+fonte_principal: "Blueprint nas bounties Narmer (nível 50–70, Cetus/Fortuna/Necralisk), após a quest The New War."
+negociavel: "não"
 ---
 
 # Nepheri

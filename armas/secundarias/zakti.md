@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "112/153"
 uso_2025_pct: 0.127
+id: arma:zakti
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.25
+fonte_principal: "O blueprint de Zakti é pesquisado no Tenno Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Zakti

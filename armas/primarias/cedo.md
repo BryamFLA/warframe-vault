@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "29/195"
 uso_2025_pct: 0.918
+id: arma:cedo
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Shotgun
+disposicao_riven: 0.65
+fonte_principal: "Blueprint e componentes comprados do Father (Entrati, Deimos): principal no Rank 4, componentes no Rank 5, 5.000 de Standing cada."
 ---
 
 # Cedo

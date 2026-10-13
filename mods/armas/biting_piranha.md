@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Biting_Piranha", "https://wiki.warframe.co
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: mod:biting_piranha
+negociavel: true
+rank_max: 3
+drenagem_base: -2
 ---
 
 # Biting Piranha

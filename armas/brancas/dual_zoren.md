@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "135/233"
 uso_2025_pct: 0.134
+id: arma:dual_zoren
+slot: Melee
+classe: Dual Swords
+disposicao_riven: 1.44
+fonte_principal: "O blueprint de Dual Zoren é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Dual Zoren

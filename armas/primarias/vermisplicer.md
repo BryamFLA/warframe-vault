@@ -16,6 +16,8 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "81/195"
 uso_2025_pct: 0.254
+id: arma:vermisplicer
+fonte_principal: "É um Kitgun Infested: o blueprint do *chamber* é comprado do Father (Entrati) por 500 de Standing no Rank 0."
 ---
 
 # Vermisplicer

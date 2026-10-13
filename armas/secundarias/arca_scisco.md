@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "121/153"
 uso_2025_pct: 0.112
+id: arma:arca_scisco
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.1
+fonte_principal: "O blueprint de Arca Scisco é pesquisado no Energy Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Arca Scisco

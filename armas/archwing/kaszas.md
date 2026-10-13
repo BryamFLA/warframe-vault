@@ -14,6 +14,11 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:kaszas
+slot: Archmelee
+classe: Archmelee
+fonte_principal: "Kaszas é uma arma de Archwing: o blueprint vem do Mercado, e as peças são compradas de vários Sindicatos."
+negociavel: "não"
 ---
 
 # Kaszas

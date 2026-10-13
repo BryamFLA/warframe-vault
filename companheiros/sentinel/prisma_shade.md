@@ -12,6 +12,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: companheiro:prisma_shade
+fonte_principal: "Shade Prisma é vendida pelo Baro Ki'Teer (mercador do Void que visita os Relays a cada 2 semanas) por 300,000 créditos e 500 Ducats."
 ---
 
 # Prisma Shade

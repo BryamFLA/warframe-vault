@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Mytocardia_Spore", "https://wiki.warframe.
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:mytocardia_spore
 ---
 
 # Mytocardia Spore

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "145/153"
 uso_2025_pct: 0.066
+id: arma:plinx
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.2
+fonte_principal: "O blueprint de Plinx é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Plinx

@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Wise_Razor", "https://wiki.warframe.com/w/
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: mod:wise_razor
+negociavel: true
+rank_max: 3
+drenagem_base: -2
 ---
 
 # Wise Razor

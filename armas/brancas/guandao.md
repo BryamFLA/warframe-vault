@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "83/233"
 uso_2025_pct: 0.274
+id: arma:guandao
+slot: Melee
+classe: Polearm
+disposicao_riven: 1.05
+fonte_principal: "O blueprint de Guandao é pesquisado no Tenno Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Guandao

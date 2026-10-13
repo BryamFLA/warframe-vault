@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Quickening", "https://wiki.warframe.com/w/
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:quickening
+negociavel: true
+rank_max: 3
+drenagem_base: 6
 ---
 
 # Quickening

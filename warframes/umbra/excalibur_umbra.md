@@ -15,6 +15,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "6/113"
 uso_2025_pct: 2.866
+id: warframe:excalibur_umbra
+elemento_progenitor: Electricity
+fonte_principal: "O blueprint do Excalibur Umbra é dado na 1ª missão da quest The Sacrifice, e a forja é liberada na 2ª missão."
 ---
 
 # Excalibur Umbra

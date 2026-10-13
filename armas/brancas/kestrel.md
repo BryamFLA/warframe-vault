@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "200/233"
 uso_2025_pct: 0.065
+id: arma:kestrel
+slot: Melee
+classe: Glaive
+disposicao_riven: 1.45
+fonte_principal: "O blueprint de Kestrel é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Kestrel

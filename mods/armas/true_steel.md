@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/True_Steel", "https://wiki.warframe.com/w/
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:true_steel
+negociavel: true
+rank_max: 5
+drenagem_base: 4
 ---
 
 # True Steel

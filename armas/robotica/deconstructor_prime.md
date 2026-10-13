@@ -14,6 +14,12 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:deconstructor_prime
+negociavel: "indireto — vem com o companheiro"
+slot: Robotic
+classe: Glaive
+disposicao_riven: 1.25
+fonte_principal: "Arma robótica que vem automaticamente com o Sentinel Helios Prime."
 ---
 
 # Deconstructor Prime

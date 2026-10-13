@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "126/153"
 uso_2025_pct: 0.105
+id: arma:zymos
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.2
+fonte_principal: "Comprada do Father (Entrati) no Rank 1: principal por 2.000 e componentes por 1.000 (4.000 no total)."
+negociavel: "não"
 ---
 
 # Zymos

@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "93/113"
 uso_2025_pct: 0.188
+id: warframe:inaros
+elemento_progenitor: Heat
+fonte_principal: "Blueprints da quest Sands of Inaros (o blueprint da quest é negociável ou vendido pelo Baro Ki'Teer por 100 Ducats + 25.000 créditos)."
 ---
 
 # Inaros

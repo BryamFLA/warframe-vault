@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Sharpened_Claws", "https://wiki.warframe.c
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:sharpened_claws
+negociavel: true
+rank_max: 3
+drenagem_base: 2
 ---
 
 # Sharpened Claws

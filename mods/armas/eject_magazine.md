@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Eject_Magazine", "https://wiki.warframe.co
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:eject_magazine
+negociavel: true
+rank_max: 3
+drenagem_base: 6
 ---
 
 # Eject Magazine

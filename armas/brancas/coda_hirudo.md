@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "42/233"
 uso_2025_pct: 0.635
+id: arma:coda_hirudo
+slot: Melee
+classe: Sparring
+disposicao_riven: 0.75
+fonte_principal: "Coda Hirudo é uma arma Coda: comprada da Eleanor (The Hex, Höllvania Central Mall) por 10 Live Heartcell, obtidos derrotando (vanquish) um Technocyte Coda."
+negociavel: "não"
 ---
 
 # Coda Hirudo

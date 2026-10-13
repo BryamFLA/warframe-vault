@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Riven_Mods"]
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:shotgun_riven_mod
+negociavel: true
+rank_max: 0
+drenagem_base: 0
 ---
 
 # Shotgun Riven Mod (Riven de Shotgun)

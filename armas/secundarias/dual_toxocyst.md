@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "6/153"
 uso_2025_pct: 4.392
+id: arma:dual_toxocyst
+slot: Secondary
+classe: Dual Pistols
+disposicao_riven: 1.35
+fonte_principal: "O blueprint de Dual Toxocyst é pesquisado no Bio Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Dual Toxocyst

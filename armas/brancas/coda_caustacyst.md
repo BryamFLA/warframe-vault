@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "50/233"
 uso_2025_pct: 0.495
+id: arma:coda_caustacyst
+slot: Melee
+classe: Scythe
+disposicao_riven: 0.85
+fonte_principal: "Coda Caustacyst é uma arma Coda: comprada da Eleanor (The Hex, Höllvania Central Mall) por 10 Live Heartcell, obtidos derrotando (vanquish) um Technocyte Coda."
+negociavel: "não"
 ---
 
 # Coda Caustacyst

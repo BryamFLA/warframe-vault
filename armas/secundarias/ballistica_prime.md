@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "101/153"
 uso_2025_pct: 0.146
+id: arma:ballistica_prime
+negociavel: "só peças/blueprint"
+slot: Secondary
+classe: Crossbow
+disposicao_riven: 1.2
+vaultado: true
 ---
 
 # Ballistica Prime

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "19/233"
 uso_2025_pct: 1.097
+id: arma:syam
+slot: Melee
+classe: Nikana
+disposicao_riven: 0.75
+fonte_principal: "Arma de Duviri: blueprint comprado na Teshin's Cave por 50 Pathos Clamps (libera a versão do Drifter e o blueprint da versão para Warframe) ou 250 platina (libera as duas)."
+negociavel: "não"
 ---
 
 # Syam

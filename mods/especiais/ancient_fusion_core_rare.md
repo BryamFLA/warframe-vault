@@ -14,6 +14,9 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: mod:ancient_fusion_core_rare
+negociavel: true
+rank_max: 10
 ---
 
 # Ancient Fusion Core (Rare)

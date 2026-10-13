@@ -15,6 +15,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "32/113"
 uso_2025_pct: 0.928
+id: warframe:yareli_prime
+elemento_progenitor: Magnetic
+vaultado: false
 ---
 
 # Yareli Prime

@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Medi-Ray", "https://wiki.warframe.com/w/Mo
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:medi_ray
+negociavel: true
+rank_max: 5
+drenagem_base: 0
 ---
 
 # Medi-Ray

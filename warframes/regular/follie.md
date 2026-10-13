@@ -12,6 +12,9 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: warframe:follie
+elemento_progenitor: Electricity
+fonte_principal: "Blueprints na rotação A do Follie's Hunt em Vesper Relay, Vênus (exige Chains of Harrow)."
 ---
 
 # Follie

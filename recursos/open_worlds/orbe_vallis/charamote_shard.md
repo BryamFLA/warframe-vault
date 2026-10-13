@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Charamote_Sagan_Module", "https://wiki.war
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:charamote_sagan_module
 ---
 
 # Charamote Sagan Module

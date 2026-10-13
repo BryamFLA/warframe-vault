@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "81/233"
 uso_2025_pct: 0.279
+id: arma:vinquibus_melee
+slot: Melee
+classe: Bayonet
+disposicao_riven: 0.7
+fonte_principal: "Blueprints no Roathe's Oblivion (Infernium 21 da Descendia, após The Old Peace) ou com o Roathe por Maphica."
+negociavel: "não"
 ---
 
 # Vinquibus (Melee)

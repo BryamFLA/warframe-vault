@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Barrel_Diffusion", "https://wiki.warframe.
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:barrel_diffusion
+negociavel: true
+rank_max: 5
+drenagem_base: 4
 ---
 
 # Barrel Diffusion

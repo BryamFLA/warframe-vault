@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "65/233"
 uso_2025_pct: 0.387
+id: arma:amphis
+slot: Melee
+classe: Staff
+disposicao_riven: 1.5
+fonte_principal: "O blueprint de Amphis é vendido no Mercado;"
+negociavel: "não"
 ---
 
 # Amphis

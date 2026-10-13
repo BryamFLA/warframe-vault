@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Eleventh_Storm", "https://wiki.warframe.co
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: mod:eleventh_storm
+negociavel: true
+rank_max: 3
+drenagem_base: -2
 ---
 
 # Eleventh Storm

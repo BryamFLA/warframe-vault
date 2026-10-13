@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Physique", "https://wiki.warframe.com/w/Mo
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:physique
+negociavel: true
+rank_max: 5
+drenagem_base: -2
 ---
 
 # Physique

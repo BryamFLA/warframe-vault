@@ -15,6 +15,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "94/113"
 uso_2025_pct: 0.181
+id: warframe:banshee_prime
+elemento_progenitor: Electricity
+vaultado: true
 ---
 
 # Banshee Prime

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "22/195"
 uso_2025_pct: 1.113
+id: arma:bubonico
+slot: Primary
+classe: Shotgun
+disposicao_riven: 0.75
+fonte_principal: "O blueprint de Bubonico é pesquisado no Bio Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Bubonico

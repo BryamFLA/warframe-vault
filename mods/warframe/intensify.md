@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Intensify", "https://wiki.warframe.com/w/M
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:intensify
+negociavel: true
+rank_max: 5
+drenagem_base: 6
 ---
 
 # Intensify

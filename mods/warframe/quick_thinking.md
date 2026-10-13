@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Quick_Thinking", "https://wiki.warframe.co
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:quick_thinking
+negociavel: true
+rank_max: 5
+drenagem_base: 4
 ---
 
 # Quick Thinking

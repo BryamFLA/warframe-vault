@@ -15,6 +15,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "11/113"
 uso_2025_pct: 2.461
+id: warframe:mesa_prime
+elemento_progenitor: Magnetic
+vaultado: true
 ---
 
 # Mesa Prime

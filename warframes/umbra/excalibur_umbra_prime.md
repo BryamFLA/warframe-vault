@@ -14,6 +14,10 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: warframe:excalibur_umbra_prime
+elemento_progenitor: Electricity
+vaultado: true
+fonte_principal: "Foi vendido apenas no pacote China Founders do Warframe China, encerrado em 11/04/2019."
 ---
 
 # Excalibur Umbra Prime

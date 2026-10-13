@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Umbra_Forma", "https://wiki.warframe.com/w
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:umbra_forma
 ---
 
 # Umbra Forma

@@ -1,5 +1,5 @@
 ---
-title: Nora's Mix: Time Tempests Cred
+title: "Nora's Mix: Time Tempests Cred"
 aliases: [Nora's Mix: Time Tempests Cred]
 tipo: recurso
 subtipo: currency
@@ -12,6 +12,7 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: recurso:nora_s_mix_time_tempests_cred
 ---
 
 # Nora's Mix: Time Tempests Cred

@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "105/113"
 uso_2025_pct: 0.089
+id: warframe:sevagoth
+elemento_progenitor: Impact
+fonte_principal: "Blueprint principal ao concluir a quest Call of the Tempestarii."
 ---
 
 # Sevagoth

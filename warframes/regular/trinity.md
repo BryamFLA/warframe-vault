@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "110/113"
 uso_2025_pct: 0.072
+id: warframe:trinity
+elemento_progenitor: Cold
+fonte_principal: "Blueprint principal no Mercado."
 ---
 
 # Trinity

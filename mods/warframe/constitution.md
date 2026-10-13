@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Constitution", "https://wiki.warframe.com/
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:constitution
+negociavel: true
+rank_max: 3
+drenagem_base: 10
 ---
 
 # Constitution

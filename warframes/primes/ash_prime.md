@@ -22,6 +22,9 @@ verificado: true
 agente: opus
 uso_2025_rank: "37/113"
 uso_2025_pct: 0.839
+id: warframe:ash_prime
+elemento_progenitor: Radiation
+vaultado: true
 ---
 
 # Ash Prime

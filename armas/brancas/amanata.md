@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "30/233"
 uso_2025_pct: 0.828
+id: arma:amanata
+slot: Melee
+classe: Polearm
+disposicao_riven: 0.85
+fonte_principal: "Blueprint e peças no Shrine Defense de Saya's Visions, Terra."
+negociavel: "não"
 ---
 
 # Amanata

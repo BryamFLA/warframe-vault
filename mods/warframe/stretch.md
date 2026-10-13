@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Stretch", "https://wiki.warframe.com/w/Mod
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:stretch
+negociavel: true
+rank_max: 5
+drenagem_base: 4
 ---
 
 # Stretch

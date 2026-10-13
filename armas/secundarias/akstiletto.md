@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "71/153"
 uso_2025_pct: 0.24
+id: arma:akstiletto
+slot: Secondary
+classe: Dual Pistols
+disposicao_riven: 0.95
+fonte_principal: "O blueprint de Akstiletto é pesquisado no Tenno Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Akstiletto

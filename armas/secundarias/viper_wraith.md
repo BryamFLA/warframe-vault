@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "133/153"
 uso_2025_pct: 0.089
+id: arma:viper_wraith
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.4
+fonte_principal: "Viper Wraith é vendida pelo Baro Ki'Teer (mercador do Void que visita os Relays a cada 2 semanas) por 75,000 créditos e 400 Ducats."
 ---
 
 # Viper Wraith

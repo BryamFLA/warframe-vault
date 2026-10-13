@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "73/233"
 uso_2025_pct: 0.32
+id: arma:galatine
+slot: Melee
+classe: Heavy Blade
+disposicao_riven: 1.05
+fonte_principal: "O blueprint de Galatine é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Galatine

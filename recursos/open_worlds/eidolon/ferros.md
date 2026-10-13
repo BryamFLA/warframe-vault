@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Ferros", "https://wiki.warframe.com/w/Modu
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: recurso:ferros
 ---
 
 # Ferros

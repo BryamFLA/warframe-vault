@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "69/195"
 uso_2025_pct: 0.3
+id: arma:vectis_prime
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Sniper Rifle
+disposicao_riven: 1
+vaultado: true
 ---
 
 # Vectis Prime

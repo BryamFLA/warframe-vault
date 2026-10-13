@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Gemini_Cross", "https://wiki.warframe.com/
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: mod:gemini_cross
+negociavel: true
+rank_max: 3
+drenagem_base: -2
 ---
 
 # Gemini Cross

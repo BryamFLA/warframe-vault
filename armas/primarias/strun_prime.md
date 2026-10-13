@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "15/195"
 uso_2025_pct: 1.464
+id: arma:strun_prime
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Shotgun
+disposicao_riven: 1.2
+vaultado: true
 ---
 
 # Strun Prime

@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Target_Cracker", "https://wiki.warframe.co
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:target_cracker
+negociavel: true
+rank_max: 5
+drenagem_base: 4
 ---
 
 # Target Cracker

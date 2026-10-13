@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "78/233"
 uso_2025_pct: 0.292
+id: arma:ruvox
+slot: Melee
+classe: Fist
+disposicao_riven: 0.9
+fonte_principal: "Blueprint e peças na rotação B do Disruption Armatus (Deimos) ou com o Loid por Vessel Capillaries."
+negociavel: "não"
 ---
 
 # Ruvox

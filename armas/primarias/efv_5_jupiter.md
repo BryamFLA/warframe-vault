@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "77/195"
 uso_2025_pct: 0.276
+id: arma:efv_5_jupiter
+negociavel: "não"
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.05
+fonte_principal: "Blueprints comprados da Minerva (The Hex) — componentes por 5.000 e principal por 15.000 de Standing, no Rank 5."
 ---
 
 # EFV-5 Jupiter

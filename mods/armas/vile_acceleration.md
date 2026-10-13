@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Vile_Acceleration", "https://wiki.warframe
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:vile_acceleration
+negociavel: true
+rank_max: 5
+drenagem_base: 4
 ---
 
 # Vile Acceleration

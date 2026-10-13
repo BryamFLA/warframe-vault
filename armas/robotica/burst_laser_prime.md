@@ -14,6 +14,12 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:burst_laser_prime
+negociavel: "indireto — vem com o companheiro"
+slot: Robotic
+classe: Pistol
+disposicao_riven: 1.45
+fonte_principal: "Arma robótica que vem automaticamente com o Sentinel Shade Prime."
 ---
 
 # Burst Laser Prime

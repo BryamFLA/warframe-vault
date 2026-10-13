@@ -16,6 +16,13 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "77/233"
 uso_2025_pct: 0.296
+id: arma:venka_prime
+negociavel: "só peças/blueprint"
+slot: Melee
+classe: Claws
+disposicao_riven: 0.85
+vaultado: false
+fonte_principal: "Diferente da maioria dos itens Prime, Venka Prime nunca é vaultado (permanently unvaulted): as Relíquias saem dos Abandoned Derelict Caches em missões de Railjack Corpus."
 ---
 
 # Venka Prime

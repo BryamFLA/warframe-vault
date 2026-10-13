@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "130/153"
 uso_2025_pct: 0.095
+id: arma:pox
+slot: Secondary
+classe: Thrown
+disposicao_riven: 1.2
+fonte_principal: "O blueprint de Pox é pesquisado no Bio Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Pox

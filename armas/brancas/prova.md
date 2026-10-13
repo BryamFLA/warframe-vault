@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "217/233"
 uso_2025_pct: 0.046
+id: arma:prova
+slot: Melee
+classe: Machete
+disposicao_riven: 1.4
+fonte_principal: "Blueprint pesquisado no Energy Lab do Dojo do clã."
+negociavel: "não"
 ---
 
 # Prova

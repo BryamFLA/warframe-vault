@@ -15,6 +15,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "55/113"
 uso_2025_pct: 0.623
+id: warframe:zephyr_prime
+elemento_progenitor: Impact
+vaultado: true
 ---
 
 # Zephyr Prime

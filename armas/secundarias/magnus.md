@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "108/153"
 uso_2025_pct: 0.131
+id: arma:magnus
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.53
+fonte_principal: "O blueprint de Magnus é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Magnus

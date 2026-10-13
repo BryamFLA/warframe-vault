@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "86/195"
 uso_2025_pct: 0.23
+id: arma:corinth
+slot: Primary
+classe: Shotgun
+disposicao_riven: 1.15
+fonte_principal: "O blueprint de Corinth é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Corinth

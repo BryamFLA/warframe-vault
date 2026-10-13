@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "53/195"
 uso_2025_pct: 0.444
+id: arma:burston
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.45
+fonte_principal: "Blueprint e recursos dados ao concluir a quest Vor's Prize."
+negociavel: "não"
 ---
 
 # Burston

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "17/233"
 uso_2025_pct: 1.166
+id: arma:guandao_prime
+negociavel: "só peças/blueprint"
+slot: Melee
+classe: Polearm
+disposicao_riven: 0.7
+vaultado: true
 ---
 
 # Guandao Prime

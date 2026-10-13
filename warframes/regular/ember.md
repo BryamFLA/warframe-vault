@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "76/113"
 uso_2025_pct: 0.322
+id: warframe:ember
+elemento_progenitor: Heat
+fonte_principal: "Blueprint principal no Mercado."
 ---
 
 # Ember

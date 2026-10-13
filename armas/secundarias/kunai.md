@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "23/153"
 uso_2025_pct: 0.709
+id: arma:kunai
+slot: Secondary
+classe: Thrown
+disposicao_riven: 1.51
+fonte_principal: "O blueprint de Kunai é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Kunai

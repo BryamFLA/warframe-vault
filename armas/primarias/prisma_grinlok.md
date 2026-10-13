@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "173/195"
 uso_2025_pct: 0.049
+id: arma:prisma_grinlok
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.25
+fonte_principal: "Vendida pelo Baro Ki'Teer por 220.000 créditos e 500 Ducats (estoque varia)."
 ---
 
 # Prisma Grinlok

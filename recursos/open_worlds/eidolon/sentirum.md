@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Sentirum", "https://wiki.warframe.com/w/Mo
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: recurso:sentirum
 ---
 
 # Sentirum

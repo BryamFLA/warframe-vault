@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Entropy_Burst", "https://wiki.warframe.com
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:entropy_burst
+negociavel: true
+rank_max: 3
+drenagem_base: 4
 ---
 
 # Entropy Burst

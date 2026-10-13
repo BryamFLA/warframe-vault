@@ -13,6 +13,8 @@ verificado: false
 agente: gpt
 uso_2025_rank: "29/113"
 uso_2025_pct: 1.131
+id: warframe:mag
+elemento_progenitor: Magnetic
 ---
 
 # Mag

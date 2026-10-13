@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "102/195"
 uso_2025_pct: 0.172
+id: arma:kuva_hind
+negociavel: "indireto — via troca de Lich/Sister"
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.1
+fonte_principal: "Kuva Hind é uma arma Kuva: só se obtém derrotando (vanquish) um Kuva Lich que tenha sido gerado com ela."
 ---
 
 # Kuva Hind

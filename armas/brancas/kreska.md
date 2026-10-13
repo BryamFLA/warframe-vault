@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "230/233"
 uso_2025_pct: 0.021
+id: arma:kreska
+slot: Melee
+classe: Machete
+disposicao_riven: 1.35
+fonte_principal: "O blueprint de Kreska é pesquisado no Energy Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Kreska

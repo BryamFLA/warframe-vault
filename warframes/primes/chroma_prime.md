@@ -15,6 +15,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "50/113"
 uso_2025_pct: 0.695
+id: warframe:chroma_prime
+elemento_progenitor: Heat
+vaultado: true
 ---
 
 # Chroma Prime

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "2/233"
 uso_2025_pct: 5.005
+id: arma:xoris
+slot: Melee
+classe: Glaive
+disposicao_riven: 0.65
+fonte_principal: "Blueprint e peças (core, handle, blade) obtidos na quest The Deadlock Protocol."
+negociavel: "não"
 ---
 
 # Xoris

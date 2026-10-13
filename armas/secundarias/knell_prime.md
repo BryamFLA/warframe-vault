@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "39/153"
 uso_2025_pct: 0.501
+id: arma:knell_prime
+negociavel: "só peças/blueprint"
+slot: Secondary
+classe: Pistol
+disposicao_riven: 0.85
+vaultado: true
 ---
 
 # Knell Prime

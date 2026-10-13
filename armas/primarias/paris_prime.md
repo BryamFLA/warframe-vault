@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "47/195"
 uso_2025_pct: 0.49
+id: arma:paris_prime
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Bow
+disposicao_riven: 1.35
+vaultado: false
 ---
 
 # Paris Prime

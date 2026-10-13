@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "49/195"
 uso_2025_pct: 0.456
+id: arma:gorgon
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.4
+fonte_principal: "Blueprint dropado por Heavy Gunners, Arid Heavy Gunners, Grineer Wardens e Gokstad Officers (Grineer)."
+negociavel: "não"
 ---
 
 # Gorgon

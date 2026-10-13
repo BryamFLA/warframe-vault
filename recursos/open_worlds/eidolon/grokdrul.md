@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Grokdrul", "https://wiki.warframe.com/w/Mo
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:grokdrul
 ---
 
 # Grokdrul

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "188/233"
 uso_2025_pct: 0.075
+id: arma:heliocor
+slot: Melee
+classe: Hammer
+disposicao_riven: 1.35
+fonte_principal: "Blueprint comprado do Cephalon Simaris por 75,000 de Standing."
+negociavel: "não"
 ---
 
 # Heliocor

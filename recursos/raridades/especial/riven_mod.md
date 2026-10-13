@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Riven_Mods"]
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: recurso:riven_mod
 ---
 
 # Riven Mod

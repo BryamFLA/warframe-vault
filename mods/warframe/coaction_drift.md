@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Coaction_Drift", "https://wiki.warframe.co
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:coaction_drift
+negociavel: true
+rank_max: 5
+drenagem_base: 4
 ---
 
 # Coaction Drift

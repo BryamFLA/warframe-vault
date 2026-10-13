@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "204/233"
 uso_2025_pct: 0.06
+id: arma:jaw_sword
+slot: Melee
+classe: Sword
+disposicao_riven: 1.4
+fonte_principal: "O blueprint de Jaw Sword é comprado nas Nightwave Offerings por 50 Nightwave Creds."
+negociavel: "não"
 ---
 
 # Jaw Sword

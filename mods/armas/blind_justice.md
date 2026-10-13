@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Blind_Justice", "https://wiki.warframe.com
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: mod:blind_justice
+negociavel: true
+rank_max: 3
+drenagem_base: -2
 ---
 
 # Blind Justice

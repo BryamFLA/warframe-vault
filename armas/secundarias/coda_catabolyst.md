@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "36/153"
 uso_2025_pct: 0.537
+id: arma:coda_catabolyst
+slot: Secondary
+classe: Pistol
+disposicao_riven: 0.7
+fonte_principal: "Coda Catabolyst é uma arma Coda: comprada da Eleanor (The Hex, Höllvania Central Mall) por 10 Live Heartcell, obtidos derrotando (vanquish) um Technocyte Coda."
+negociavel: "não"
 ---
 
 # Coda Catabolyst

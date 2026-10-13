@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "232/233"
 uso_2025_pct: 0.015
+id: arma:skana_prime
+slot: Melee
+classe: Sword
+disposicao_riven: 1.2
+fonte_principal: "Exclusiva dos pacotes Founders Master e Grand Master (dez/2012 a nov/2013)."
+negociavel: "não"
 ---
 
 # Skana Prime

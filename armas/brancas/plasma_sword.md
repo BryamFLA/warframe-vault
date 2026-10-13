@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "205/233"
 uso_2025_pct: 0.058
+id: arma:plasma_sword
+slot: Melee
+classe: Sword
+disposicao_riven: 1.48
+fonte_principal: "O blueprint de Plasma Sword é comprado nas Nightwave Offerings por 50 Nightwave Creds."
+negociavel: "não"
 ---
 
 # Plasma Sword

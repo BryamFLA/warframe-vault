@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Karkina_Antenna", "https://wiki.warframe.c
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:karkina_antenna
 ---
 
 # Karkina Antenna

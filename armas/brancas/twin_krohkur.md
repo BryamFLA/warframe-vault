@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "170/233"
 uso_2025_pct: 0.086
+id: arma:twin_krohkur
+slot: Melee
+classe: Dual Swords
+disposicao_riven: 1.2
+fonte_principal: "O blueprint de Twin Krohkur é pesquisado no Chem Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Twin Krohkur

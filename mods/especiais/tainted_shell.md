@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Tainted_Shell", "https://wiki.warframe.com
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:tainted_shell
+negociavel: true
+rank_max: 10
+drenagem_base: 4
 ---
 
 # Tainted Shell

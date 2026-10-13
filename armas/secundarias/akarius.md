@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "33/153"
 uso_2025_pct: 0.628
+id: arma:akarius
+slot: Secondary
+classe: Dual Pistols
+disposicao_riven: 1.05
+fonte_principal: "Blueprint principal: drop dos Demolisher Infested no Dark Sector Ur, Urano."
+negociavel: "não"
 ---
 
 # Akarius

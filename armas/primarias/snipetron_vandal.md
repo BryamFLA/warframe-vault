@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "175/195"
 uso_2025_pct: 0.044
+id: arma:snipetron_vandal
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Sniper Rifle
+disposicao_riven: 1.25
+fonte_principal: "Blueprint e peças como recompensa de Invasões."
 ---
 
 # Snipetron Vandal

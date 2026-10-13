@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "219/233"
 uso_2025_pct: 0.044
+id: arma:prisma_machete
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Melee
+classe: Machete
+disposicao_riven: 1.45
+fonte_principal: "Prisma Machete é vendida pelo Baro Ki'Teer (mercador do Void que visita os Relays a cada 2 semanas) por 200,000 créditos e 400 Ducats."
 ---
 
 # Prisma Machete

@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Helminth%23Bile", "https://wiki.warframe.c
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:bile
 ---
 
 # Bile

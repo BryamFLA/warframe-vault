@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "30/153"
 uso_2025_pct: 0.671
+id: arma:despair
+slot: Secondary
+classe: Thrown
+disposicao_riven: 1.3
+fonte_principal: "Blueprint dropado pelo Stalker e Shadow Stalker."
+negociavel: "não"
 ---
 
 # Despair

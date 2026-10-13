@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "98/113"
 uso_2025_pct: 0.14
+id: warframe:ivara
+elemento_progenitor: Toxin
+fonte_principal: "Blueprint principal no Mercado."
 ---
 
 # Ivara

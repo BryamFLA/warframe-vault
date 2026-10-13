@@ -16,6 +16,11 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "147/233"
 uso_2025_pct: 0.118
+id: arma:ack_e_brunt
+slot: Melee
+classe: Sword and Shield
+disposicao_riven: 1.35
+negociavel: "não"
 ---
 
 # Ack & Brunt

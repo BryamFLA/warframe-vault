@@ -16,6 +16,13 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "149/195"
 uso_2025_pct: 0.083
+id: arma:cernos_prime
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Bow
+disposicao_riven: 1.25
+vaultado: false
+fonte_principal: "Diferente da maioria dos itens Prime, Cernos Prime nunca é vaultado (permanently unvaulted): as Relíquias saem dos Abandoned Derelict Caches em missões de Railjack Corpus."
 ---
 
 # Cernos Prime

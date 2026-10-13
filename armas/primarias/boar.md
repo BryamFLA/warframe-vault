@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "62/195"
 uso_2025_pct: 0.348
+id: arma:boar
+slot: Primary
+classe: Shotgun
+disposicao_riven: 1.45
+fonte_principal: "Blueprint dropado pelos Drekar Troopers (Grineer)."
+negociavel: "não"
 ---
 
 # Boar

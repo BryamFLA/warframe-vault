@@ -14,6 +14,11 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:phahd_scaffold
+slot: Amp
+classe: Amp
+fonte_principal: "Peça de Amp comprada dos Quills (Onkko, Cetus) no Rank 4."
+negociavel: "não"
 ---
 
 # Phahd Scaffold

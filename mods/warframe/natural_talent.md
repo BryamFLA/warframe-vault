@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Natural_Talent", "https://wiki.warframe.co
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:natural_talent
+negociavel: true
+rank_max: 3
+drenagem_base: 6
 ---
 
 # Natural Talent

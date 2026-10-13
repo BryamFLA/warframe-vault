@@ -13,6 +13,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arcane:magus_cloud
+rank_max: 5
 ---
 
 # Magus Cloud

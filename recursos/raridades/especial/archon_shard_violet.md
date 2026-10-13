@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Violet_Archon_Shard", "https://wiki.warfra
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:violet_archon_shard
 ---
 
 # Violet Archon Shard

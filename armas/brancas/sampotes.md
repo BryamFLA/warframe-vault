@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "29/233"
 uso_2025_pct: 0.854
+id: arma:sampotes
+slot: Melee
+classe: Hammer
+disposicao_riven: 1
+fonte_principal: "Arma de Duviri: blueprint comprado na Teshin's Cave por 60 Pathos Clamps (libera a versão do Drifter e o blueprint da versão para Warframe) ou 275 platina (libera as duas)."
+negociavel: "não"
 ---
 
 # Sampotes

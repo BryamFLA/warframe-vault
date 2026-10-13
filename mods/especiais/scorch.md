@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Scorch_%28Mod%29", "https://wiki.warframe.
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:scorch
+negociavel: true
+rank_max: 3
+drenagem_base: 4
 ---
 
 # Scorch

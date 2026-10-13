@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "140/195"
 uso_2025_pct: 0.098
+id: arma:steflos
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Shotgun
+disposicao_riven: 1.25
+fonte_principal: "Blueprint na rotação A e peças na rotação B do Mirror Defense em Tyana Pass, Marte (exige Heart of Deimos)."
 ---
 
 # Steflos

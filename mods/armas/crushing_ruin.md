@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Crushing_Ruin", "https://wiki.warframe.com
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: mod:crushing_ruin
+negociavel: true
+rank_max: 3
+drenagem_base: -2
 ---
 
 # Crushing Ruin

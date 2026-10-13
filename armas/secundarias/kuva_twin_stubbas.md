@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "43/153"
 uso_2025_pct: 0.445
+id: arma:kuva_twin_stubbas
+negociavel: "indireto — via troca de Lich/Sister"
+slot: Secondary
+classe: Dual Pistols
+disposicao_riven: 1
+fonte_principal: "Kuva Twin Stubbas é uma arma Kuva: só se obtém derrotando (vanquish) um Kuva Lich que tenha sido gerado com ela."
 ---
 
 # Kuva Twin Stubbas

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "17/153"
 uso_2025_pct: 1.085
+id: arma:dex_furis
+slot: Secondary
+classe: Dual Pistols
+disposicao_riven: 1.39
+fonte_principal: "Arma de aniversário do Warframe: obtida pelos Alertas de aniversário em março, com slot e Catalyst."
+negociavel: "não"
 ---
 
 # Dex Furis

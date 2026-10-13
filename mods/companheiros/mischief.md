@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Mischief", "https://wiki.warframe.com/w/Mo
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:mischief
+negociavel: true
+rank_max: 3
+drenagem_base: 0
 ---
 
 # Mischief

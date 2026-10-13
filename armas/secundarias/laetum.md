@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "2/153"
 uso_2025_pct: 8.058
+id: arma:laetum
+negociavel: "só peças/blueprint"
+slot: Secondary
+classe: Pistol
+disposicao_riven: 0.5
+fonte_principal: "Blueprint principal comprado do Cavalero (The Holdfasts, Chrysalith) no Rank 0 por 3.000 de Standing."
 ---
 
 # Laetum

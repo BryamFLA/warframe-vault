@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "37/195"
 uso_2025_pct: 0.713
+id: arma:soma
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.15
+fonte_principal: "O blueprint de Soma é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Soma

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "63/153"
 uso_2025_pct: 0.294
+id: arma:azima
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.25
+fonte_principal: "Exclusiva do Daily Tribute (login diário): aparece a cada 200 dias a partir do dia 100, como recompensa de marco."
+negociavel: "não"
 ---
 
 # Azima

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "44/233"
 uso_2025_pct: 0.58
+id: arma:nami_solo
+slot: Melee
+classe: Machete
+disposicao_riven: 1.43
+fonte_principal: "O blueprint de Nami Solo é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Nami Solo

@@ -14,6 +14,10 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: mod:magnetic_might
+negociavel: false
+rank_max: 3
+drenagem_base: 4
 ---
 
 # Magnetic Might

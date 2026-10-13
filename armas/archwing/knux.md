@@ -14,6 +14,11 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:knux
+slot: Archmelee
+classe: Archmelee
+fonte_principal: "O blueprint de Knux é pesquisado no Chem Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Knux

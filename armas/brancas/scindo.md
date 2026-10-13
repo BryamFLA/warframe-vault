@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "153/233"
 uso_2025_pct: 0.103
+id: arma:scindo
+slot: Melee
+classe: Heavy Blade
+disposicao_riven: 1.35
+fonte_principal: "O blueprint de Scindo' é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Scindo

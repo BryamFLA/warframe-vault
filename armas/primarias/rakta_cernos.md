@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "169/195"
 uso_2025_pct: 0.053
+id: arma:rakta_cernos
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Primary
+classe: Bow
+disposicao_riven: 1.25
+fonte_principal: "Rakta Cernos é uma arma de Sindicato: compre do the Red Veil com 125,000 de Standing ao chegar no rank Exalted do sindicato."
 ---
 
 # Rakta Cernos

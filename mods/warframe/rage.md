@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Rage", "https://wiki.warframe.com/w/Module
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:rage
+negociavel: true
+rank_max: 5
+drenagem_base: 6
 ---
 
 # Rage

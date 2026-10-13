@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "182/195"
 uso_2025_pct: 0.035
+id: arma:secura_penta
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Primary
+classe: Launcher
+disposicao_riven: 1.3
+fonte_principal: "Secura Penta é uma arma de Sindicato: compre do The Perrin Sequence com 125,000 de Standing ao chegar no rank Partner do sindicato."
 ---
 
 # Secura Penta

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "102/153"
 uso_2025_pct: 0.144
+id: arma:mara_detron
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Secondary
+classe: Shotgun Sidearm
+disposicao_riven: 1.15
+fonte_principal: "Mara Detron é vendida pelo Baro Ki'Teer (mercador do Void que visita os Relays a cada 2 semanas) por 200,000 créditos e 500 Ducats."
 ---
 
 # Mara Detron

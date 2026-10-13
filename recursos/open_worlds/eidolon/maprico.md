@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Maprico", "https://wiki.warframe.com/w/Mod
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:maprico
 ---
 
 # Maprico

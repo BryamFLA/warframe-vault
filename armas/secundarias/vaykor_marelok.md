@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "88/153"
 uso_2025_pct: 0.183
+id: arma:vaykor_marelok
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.1
+fonte_principal: "Vaykor Marelok é uma arma de Sindicato: compre do Steel Meridian com 100,000 de Standing ao chegar no rank General do sindicato."
 ---
 
 # Vaykor Marelok

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "122/153"
 uso_2025_pct: 0.112
+id: arma:twin_vipers
+slot: Secondary
+classe: Dual Pistols
+disposicao_riven: 1.45
+fonte_principal: "O blueprint de Twin Vipers é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Twin Vipers

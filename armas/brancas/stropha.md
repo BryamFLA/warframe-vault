@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "40/233"
 uso_2025_pct: 0.636
+id: arma:stropha
+negociavel: "só peças/blueprint"
+slot: Melee
+classe: Gunblade
+disposicao_riven: 0.65
+fonte_principal: "Blueprint principal: drop do boss Jackal (Vênus)."
 ---
 
 # Stropha

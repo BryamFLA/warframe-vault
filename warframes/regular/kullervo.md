@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "19/113"
 uso_2025_pct: 1.597
+id: warframe:kullervo
+elemento_progenitor: Heat
+fonte_principal: "Blueprints comprados da Acrithis (Dormizone, Duviri) com Kullervo's Bane: 15 pelo principal e 9 por componente (42 no total)."
 ---
 
 # Kullervo

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "129/195"
 uso_2025_pct: 0.118
+id: arma:tetra
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.5
+fonte_principal: "O blueprint de Tetra é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Tetra

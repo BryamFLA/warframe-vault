@@ -13,6 +13,8 @@ verificado: true
 agente: gpt
 uso_2025_rank: "24/113"
 uso_2025_pct: 1.378
+id: warframe:rhino
+elemento_progenitor: Impact
 ---
 
 # Rhino

@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Cetus_Wisp", "https://wiki.warframe.com/w/
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:cetus_wisp
 ---
 
 # Cetus Wisp

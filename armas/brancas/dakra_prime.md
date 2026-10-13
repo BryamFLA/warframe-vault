@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "107/233"
 uso_2025_pct: 0.186
+id: arma:dakra_prime
+negociavel: "só peças/blueprint"
+slot: Melee
+classe: Sword
+disposicao_riven: 1.1
+vaultado: true
 ---
 
 # Dakra Prime

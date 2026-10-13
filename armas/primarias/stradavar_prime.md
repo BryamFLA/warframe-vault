@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "134/195"
 uso_2025_pct: 0.113
+id: arma:stradavar_prime
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.1
+vaultado: true
 ---
 
 # Stradavar Prime

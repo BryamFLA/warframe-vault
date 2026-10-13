@@ -16,6 +16,8 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "182/233"
 uso_2025_pct: 0.077
+id: arma:dark_split_sword
+fonte_principal: "O blueprint de Dark Split-Sword é pesquisado no Tenno Lab do Dojo do clã (depois é replicado e forjado)."
 ---
 
 # Dark Split-Sword

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "28/233"
 uso_2025_pct: 0.861
+id: arma:coda_pathocyst
+negociavel: "só peças/blueprint"
+slot: Melee
+classe: Glaive
+disposicao_riven: 0.65
+fonte_principal: "Coda Pathocyst é uma arma Coda: comprada da Eleanor (The Hex, Höllvania Central Mall) por 10 Live Heartcell, obtidos derrotando (vanquish) um Technocyte Coda."
 ---
 
 # Coda Pathocyst

@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Maul", "https://wiki.warframe.com/w/Module
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:maul
+negociavel: true
+rank_max: 10
+drenagem_base: 4
 ---
 
 # Maul

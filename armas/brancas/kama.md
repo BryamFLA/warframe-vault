@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "176/233"
 uso_2025_pct: 0.081
+id: arma:kama
+slot: Melee
+classe: Machete
+disposicao_riven: 1.47
+fonte_principal: "O blueprint de Kama é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Kama

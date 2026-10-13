@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Transient_Fortitude", "https://wiki.warfra
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:transient_fortitude
+negociavel: true
+rank_max: 10
+drenagem_base: 6
 ---
 
 # Transient Fortitude

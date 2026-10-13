@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Venerdo_Alloy"]
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: recurso:venerdo_alloy
 ---
 
 # Venerdo Alloy

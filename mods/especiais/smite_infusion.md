@@ -13,6 +13,11 @@ fontes: ["https://wiki.warframe.com/w/Smite_Infusion", "https://wiki.warframe.co
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:smite_infusion
+negociavel: true
+rank_max: 3
+drenagem_base: 6
+augment_de: Oberon
 ---
 
 # Smite Infusion

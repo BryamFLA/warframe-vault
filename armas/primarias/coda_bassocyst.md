@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "11/195"
 uso_2025_pct: 1.8
+id: arma:coda_bassocyst
+slot: Primary
+classe: Shotgun
+disposicao_riven: 0.55
+fonte_principal: "Coda Bassocyst é uma arma Coda: comprada da Eleanor (The Hex, Höllvania Central Mall) por 10 Live Heartcell, obtidos derrotando (vanquish) um Technocyte Coda."
+negociavel: "não"
 ---
 
 # Coda Bassocyst

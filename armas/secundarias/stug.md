@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "93/153"
 uso_2025_pct: 0.164
+id: arma:stug
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.48
+fonte_principal: "O blueprint de Stug é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Stug

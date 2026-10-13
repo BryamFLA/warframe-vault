@@ -14,6 +14,11 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:sirocco
+slot: Amp
+classe: Amp
+fonte_principal: "Amp do Drifter: dado ao concluir The New War, já gilded."
+negociavel: "não"
 ---
 
 # Sirocco

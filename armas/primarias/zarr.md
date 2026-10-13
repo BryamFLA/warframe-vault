@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "98/195"
 uso_2025_pct: 0.184
+id: arma:zarr
+slot: Primary
+classe: Launcher
+disposicao_riven: 1.15
+fonte_principal: "O blueprint de Zarr é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Zarr

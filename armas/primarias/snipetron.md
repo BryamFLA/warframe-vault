@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "185/195"
 uso_2025_pct: 0.032
+id: arma:snipetron
+slot: Primary
+classe: Sniper Rifle
+disposicao_riven: 1.3
+fonte_principal: "Blueprint vendido pelo Nakak (Cetus) no evento Plague Star e pelo Ticker (Fortuna) no evento Star Days."
+negociavel: "não"
 ---
 
 # Snipetron

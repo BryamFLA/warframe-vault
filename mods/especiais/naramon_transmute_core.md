@@ -14,6 +14,10 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: mod:naramon_transmute_core
+negociavel: true
+rank_max: 0
+drenagem_base: 0
 ---
 
 # Naramon Transmute Core

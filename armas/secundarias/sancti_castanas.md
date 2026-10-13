@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "147/153"
 uso_2025_pct: 0.054
+id: arma:sancti_castanas
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Secondary
+classe: Thrown
+disposicao_riven: 1.35
+fonte_principal: "Sancti Castanas é uma arma de Sindicato: compre do New Loka com 100,000 de Standing ao chegar no rank Flawless do sindicato."
 ---
 
 # Sancti Castanas

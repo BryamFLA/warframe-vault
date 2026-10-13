@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "25/233"
 uso_2025_pct: 0.902
+id: arma:kronen_prime
+negociavel: "só peças/blueprint"
+slot: Melee
+classe: Tonfa
+disposicao_riven: 0.7
+vaultado: true
 ---
 
 # Kronen Prime

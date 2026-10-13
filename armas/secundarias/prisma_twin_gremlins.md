@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "84/153"
 uso_2025_pct: 0.195
+id: arma:prisma_twin_gremlins
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Secondary
+classe: Dual Pistols
+disposicao_riven: 1.15
+fonte_principal: "Vendida pelo Baro Ki'Teer por 220.000 créditos e 500 Ducats (estoque varia)."
 ---
 
 # Prisma Twin Gremlins

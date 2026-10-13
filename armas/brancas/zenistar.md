@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "74/233"
 uso_2025_pct: 0.31
+id: arma:zenistar
+slot: Melee
+classe: Heavy Blade
+disposicao_riven: 1.15
+fonte_principal: "Exclusiva do Daily Tribute (login diário): aparece como recompensa de marco a cada 200 dias."
+negociavel: "não"
 ---
 
 # Zenistar

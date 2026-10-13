@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "22/153"
 uso_2025_pct: 0.734
+id: arma:cestra
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.52
+fonte_principal: "Blueprint no Mercado por 20.000 créditos (pronta por 175 platina)."
+negociavel: "não"
 ---
 
 # Cestra

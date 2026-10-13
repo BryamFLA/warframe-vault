@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "120/153"
 uso_2025_pct: 0.113
+id: arma:secura_dual_cestra
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Secondary
+classe: Dual Pistols
+disposicao_riven: 1.3
+fonte_principal: "Secura Dual Cestra é uma arma de Sindicato: compre do The Perrin Sequence com 100,000 de Standing ao chegar no rank Partner do sindicato."
 ---
 
 # Secura Dual Cestra

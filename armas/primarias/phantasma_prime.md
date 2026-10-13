@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "32/195"
 uso_2025_pct: 0.817
+id: arma:phantasma_prime
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Shotgun
+disposicao_riven: 0.8
+vaultado: true
 ---
 
 # Phantasma Prime

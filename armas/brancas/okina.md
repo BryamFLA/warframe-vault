@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "143/233"
 uso_2025_pct: 0.125
+id: arma:okina
+slot: Melee
+classe: Dual Daggers
+disposicao_riven: 1.4
+fonte_principal: "O blueprint de Okina é pesquisado no Tenno Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Okina

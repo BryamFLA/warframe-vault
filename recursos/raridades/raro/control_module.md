@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Control_Module", "https://wiki.warframe.co
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: recurso:control_module
 ---
 
 # Control Module

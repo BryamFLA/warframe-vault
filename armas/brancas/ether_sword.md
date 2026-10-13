@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "164/233"
 uso_2025_pct: 0.093
+id: arma:ether_sword
+slot: Melee
+classe: Sword
+disposicao_riven: 1.44
+fonte_principal: "O blueprint de Ether Sword é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Ether Sword

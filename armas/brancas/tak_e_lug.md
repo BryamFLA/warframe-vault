@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "122/233"
 uso_2025_pct: 0.154
+id: arma:tak_e_lug
+slot: Melee
+classe: Sword and Shield
+disposicao_riven: 1.05
+fonte_principal: "Blueprint e peças: drop dos Ghoul Auger e Ghoul Devourer (Plains of Eidolon, Ghoul Purge e Disruption Olympus em Marte)."
+negociavel: "não"
 ---
 
 # Tak & Lug

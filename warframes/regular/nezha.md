@@ -13,6 +13,8 @@ verificado: false
 agente: gpt
 uso_2025_rank: "90/113"
 uso_2025_pct: 0.203
+id: warframe:nezha
+elemento_progenitor: Heat
 ---
 
 # Nezha

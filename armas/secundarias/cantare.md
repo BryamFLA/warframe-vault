@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "52/153"
 uso_2025_pct: 0.368
+id: arma:cantare
+slot: Secondary
+classe: Thrown
+disposicao_riven: 1.05
+fonte_principal: "Blueprint na missão Ascension (Brutus, Urano;"
+negociavel: "não"
 ---
 
 # Cantare

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "152/195"
 uso_2025_pct: 0.079
+id: arma:convectrix
+slot: Primary
+classe: Shotgun
+disposicao_riven: 1.46
+fonte_principal: "O blueprint de Convectrix é pesquisado no Energy Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Convectrix

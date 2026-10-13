@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "104/113"
 uso_2025_pct: 0.092
+id: warframe:chroma
+elemento_progenitor: Heat
+fonte_principal: "Blueprint principal da quest The New Strange."
 ---
 
 # Chroma

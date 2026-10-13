@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "61/153"
 uso_2025_pct: 0.298
+id: arma:coda_pox
+slot: Secondary
+classe: Thrown
+disposicao_riven: 1.05
+fonte_principal: "Coda Pox é uma arma Coda: comprada da Eleanor (The Hex, Höllvania Central Mall) por 10 Live Heartcell, obtidos derrotando (vanquish) um Technocyte Coda."
+negociavel: "não"
 ---
 
 # Coda Pox

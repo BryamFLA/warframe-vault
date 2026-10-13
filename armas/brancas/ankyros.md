@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "159/233"
 uso_2025_pct: 0.098
+id: arma:ankyros
+slot: Melee
+classe: Fist
+disposicao_riven: 1.5
+fonte_principal: "O blueprint de Ankyros é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Ankyros

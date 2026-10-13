@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "44/195"
 uso_2025_pct: 0.53
+id: arma:thornbak
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.2
+fonte_principal: "Dada na quest The Teacher, com slot e Catalyst."
+negociavel: "não"
 ---
 
 # Thornbak

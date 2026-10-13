@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "158/195"
 uso_2025_pct: 0.067
+id: arma:synapse
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.31
+fonte_principal: "O blueprint de Synapse é pesquisado no Bio Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Synapse

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "88/195"
 uso_2025_pct: 0.225
+id: arma:afentis
+slot: Primary
+classe: Speargun
+disposicao_riven: 1.05
+fonte_principal: "Blueprint comprado do Chipper na Kahl's Garrison por 60 Stock (ganho nas missões semanais Break Narmer, após a quest Veilbreaker), no Rank 5 (Home)."
+negociavel: "não"
 ---
 
 # Afentis

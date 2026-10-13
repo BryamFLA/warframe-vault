@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "126/195"
 uso_2025_pct: 0.12
+id: arma:hema
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.3
+fonte_principal: "O blueprint de Hema é pesquisado no Bio Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Hema

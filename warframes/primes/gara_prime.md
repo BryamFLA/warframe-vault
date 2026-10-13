@@ -15,6 +15,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "44/113"
 uso_2025_pct: 0.761
+id: warframe:gara_prime
+elemento_progenitor: Cold
+vaultado: true
 ---
 
 # Gara Prime

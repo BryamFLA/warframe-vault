@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Sprint_Boost", "https://wiki.warframe.com/
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:sprint_boost
+negociavel: true
+rank_max: 5
+drenagem_base: -2
 ---
 
 # Sprint Boost

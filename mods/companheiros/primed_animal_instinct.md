@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Primed_Animal_Instinct", "https://wiki.war
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:primed_animal_instinct
+negociavel: true
+rank_max: 10
+drenagem_base: 6
 ---
 
 # Primed Animal Instinct

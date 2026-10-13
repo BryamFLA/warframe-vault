@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "129/233"
 uso_2025_pct: 0.148
+id: arma:synoid_heliocor
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Melee
+classe: Hammer
+disposicao_riven: 1.35
+fonte_principal: "Arma de Sindicato: comprada do Cephalon Suda por 125.000 de Standing no rank máximo (Genius)."
 ---
 
 # Synoid Heliocor

@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Umbral_Vitality", "https://wiki.warframe.c
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:umbral_vitality
+negociavel: false
+rank_max: 10
+drenagem_base: 6
 ---
 
 # Umbral Vitality

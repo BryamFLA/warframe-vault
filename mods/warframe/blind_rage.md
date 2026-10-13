@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Blind_Rage", "https://wiki.warframe.com/w/
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:blind_rage
+negociavel: true
+rank_max: 10
+drenagem_base: 6
 ---
 
 # Blind Rage

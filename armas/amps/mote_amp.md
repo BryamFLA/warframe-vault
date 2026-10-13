@@ -14,6 +14,11 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:mote_amp
+slot: Amp
+classe: Amp
+fonte_principal: "O primeiro Amp: blueprint dado pelo Onkko (Quills, Cetus) por 500 de Standing no Rank 0, liberado após The War Within."
+negociavel: "não"
 ---
 
 # Mote Amp

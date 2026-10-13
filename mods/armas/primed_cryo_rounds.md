@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Primed_Cryo_Rounds", "https://wiki.warfram
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:primed_cryo_rounds
+negociavel: true
+rank_max: 10
+drenagem_base: 6
 ---
 
 # Primed Cryo Rounds

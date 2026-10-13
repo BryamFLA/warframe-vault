@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Iron_Phoenix", "https://wiki.warframe.com/
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: mod:iron_phoenix
+negociavel: true
+rank_max: 3
+drenagem_base: -2
 ---
 
 # Iron Phoenix

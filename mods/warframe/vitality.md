@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Vitality", "https://wiki.warframe.com/w/Mo
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:vitality
+negociavel: true
+rank_max: 10
+drenagem_base: 2
 ---
 
 # Vitality

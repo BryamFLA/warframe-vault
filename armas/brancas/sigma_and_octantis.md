@@ -16,6 +16,11 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "137/233"
 uso_2025_pct: 0.132
+id: arma:sigma_e_octantis
+slot: Melee
+classe: Sword and Shield
+disposicao_riven: 1.1
+negociavel: "não"
 ---
 
 # Sigma & Octantis

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "184/233"
 uso_2025_pct: 0.077
+id: arma:ninkondi
+slot: Melee
+classe: Nunchaku
+disposicao_riven: 1.41
+fonte_principal: "O blueprint de Ninkondi é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Ninkondi

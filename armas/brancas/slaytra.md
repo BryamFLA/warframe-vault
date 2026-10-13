@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "198/233"
 uso_2025_pct: 0.067
+id: arma:slaytra
+slot: Melee
+classe: Machete
+disposicao_riven: 1.05
+fonte_principal: "Blueprint comprado do Chipper na Kahl's Garrison por 30 Stock (ganho nas missões semanais Break Narmer, após a quest Veilbreaker), no Rank 2 (Encampment)."
+negociavel: "não"
 ---
 
 # Slaytra

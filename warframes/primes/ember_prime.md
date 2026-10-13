@@ -15,6 +15,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "43/113"
 uso_2025_pct: 0.771
+id: warframe:ember_prime
+elemento_progenitor: Heat
+vaultado: true
 ---
 
 # Ember Prime

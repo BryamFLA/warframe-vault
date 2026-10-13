@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "56/195"
 uso_2025_pct: 0.389
+id: arma:coda_synapse
+slot: Primary
+classe: Rifle
+disposicao_riven: 0.9
+fonte_principal: "Coda Synapse é uma arma Coda: comprada da Eleanor (The Hex, Höllvania Central Mall) por 10 Live Heartcell, obtidos derrotando (vanquish) um Technocyte Coda."
+negociavel: "não"
 ---
 
 # Coda Synapse

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "100/195"
 uso_2025_pct: 0.177
+id: arma:penta
+slot: Primary
+classe: Launcher
+disposicao_riven: 1.35
+fonte_principal: "O blueprint de Penta é vendido no Mercado;"
+negociavel: "não"
 ---
 
 # Penta

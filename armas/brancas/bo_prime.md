@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "41/233"
 uso_2025_pct: 0.635
+id: arma:bo_prime
+negociavel: "só peças/blueprint"
+slot: Melee
+classe: Staff
+disposicao_riven: 1.35
+vaultado: true
 ---
 
 # Bo Prime

@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Sapcaddy_Venedo_Case", "https://wiki.warfr
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:sapcaddy_venedo_case
 ---
 
 # Sapcaddy Venedo Case

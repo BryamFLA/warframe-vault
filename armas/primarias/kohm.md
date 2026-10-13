@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "87/195"
 uso_2025_pct: 0.227
+id: arma:kohm
+slot: Primary
+classe: Shotgun
+disposicao_riven: 1.3
+fonte_principal: "O blueprint de Kohm é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Kohm

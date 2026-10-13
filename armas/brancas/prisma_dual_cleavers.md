@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "150/233"
 uso_2025_pct: 0.105
+id: arma:prisma_dual_cleavers
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Melee
+classe: Dual Swords
+disposicao_riven: 1.1
+fonte_principal: "Prisma Dual Cleavers é vendida pelo Baro Ki'Teer (mercador do Void que visita os Relays a cada 2 semanas) por 200,000 créditos e 490 Ducats."
 ---
 
 # Prisma Dual Cleavers

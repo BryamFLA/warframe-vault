@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "146/153"
 uso_2025_pct: 0.065
+id: arma:velox
+negociavel: "só peças/blueprint"
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.25
+fonte_principal: "Peças no Granum Void: Barrel na rotação C do normal, Receiver na rotação C do Extended."
 ---
 
 # Velox

@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Training_Debt-Bond", "https://wiki.warfram
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:training_debt_bond
 ---
 
 # Training Debt-Bond

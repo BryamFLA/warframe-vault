@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Security_Override", "https://wiki.warframe
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:security_override
+negociavel: true
+rank_max: 5
+drenagem_base: 2
 ---
 
 # Security Override

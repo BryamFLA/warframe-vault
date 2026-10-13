@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Shimmering_Blight", "https://wiki.warframe
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: mod:shimmering_blight
+negociavel: true
+rank_max: 3
+drenagem_base: -2
 ---
 
 # Shimmering Blight

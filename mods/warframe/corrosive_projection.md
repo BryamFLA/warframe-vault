@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Corrosive_Projection", "https://wiki.warfr
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:corrosive_projection
+negociavel: true
+rank_max: 5
+drenagem_base: -2
 ---
 
 # Corrosive Projection

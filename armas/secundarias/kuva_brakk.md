@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "45/153"
 uso_2025_pct: 0.419
+id: arma:kuva_brakk
+negociavel: "indireto — via troca de Lich/Sister"
+slot: Secondary
+classe: Shotgun Sidearm
+disposicao_riven: 0.95
+fonte_principal: "Kuva Brakk é uma arma Kuva: só se obtém derrotando (vanquish) um Kuva Lich que tenha sido gerado com ela."
 ---
 
 # Kuva Brakk

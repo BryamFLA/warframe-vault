@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Primed_Regen", "https://wiki.warframe.com/
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:primed_regen
+negociavel: true
+rank_max: 10
+drenagem_base: 4
 ---
 
 # Primed Regen

@@ -14,6 +14,11 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:centaur
+slot: Archmelee
+classe: Archmelee
+fonte_principal: "Centaur é uma arma de Archwing: o blueprint vem do Mercado, e as peças são compradas de vários Sindicatos."
+negociavel: "não"
 ---
 
 # Centaur

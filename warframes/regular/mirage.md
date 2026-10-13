@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "84/113"
 uso_2025_pct: 0.239
+id: warframe:mirage
+elemento_progenitor: Radiation
+fonte_principal: "Blueprint principal no Mercado."
 ---
 
 # Mirage

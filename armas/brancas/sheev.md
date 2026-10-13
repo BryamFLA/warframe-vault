@@ -16,6 +16,11 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "210/233"
 uso_2025_pct: 0.053
+id: arma:sheev
+negociavel: "só peças/blueprint"
+slot: Melee
+classe: Dagger
+disposicao_riven: 1.35
 ---
 
 # Sheev

@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Argon_Crystal", "https://wiki.warframe.com
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: recurso:argon_crystal
 ---
 
 # Argon Crystal

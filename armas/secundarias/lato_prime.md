@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "152/153"
 uso_2025_pct: 0.013
+id: arma:lato_prime
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.35
+fonte_principal: "Exclusiva do pacote Founders Grand Master (dez/2012 a nov/2013)."
+negociavel: "não"
 ---
 
 # Lato Prime

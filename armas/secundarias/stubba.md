@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "111/153"
 uso_2025_pct: 0.127
+id: arma:stubba
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.35
+fonte_principal: "Blueprint como recompensa das bounties especiais Ghoul Purge (Cetus) ou drop dos Ghoul Rictus Alphas."
+negociavel: "não"
 ---
 
 # Stubba

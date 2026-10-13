@@ -14,6 +14,12 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:mk1_paris
+slot: Primary
+classe: Bow
+disposicao_riven: 1.45
+fonte_principal: "Mk1-Paris é vendida pronta no Mercado por 15,000 créditos."
+negociavel: "não"
 ---
 
 # Mk1-Paris

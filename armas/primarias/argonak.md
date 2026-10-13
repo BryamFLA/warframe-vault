@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "118/195"
 uso_2025_pct: 0.136
+id: arma:argonak
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.25
+fonte_principal: "O blueprint de Argonak é pesquisado no Chem Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Argonak

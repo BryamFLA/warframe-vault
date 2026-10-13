@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "114/153"
 uso_2025_pct: 0.124
+id: arma:akvasto
+slot: Secondary
+classe: Dual Pistols
+disposicao_riven: 1.25
+fonte_principal: "O blueprint de Akvasto é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Akvasto

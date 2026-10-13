@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Striker", "https://wiki.warframe.com/w/Mod
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:striker
+negociavel: true
+rank_max: 5
+drenagem_base: 0
 ---
 
 # Striker

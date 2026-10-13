@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "49/113"
 uso_2025_pct: 0.706
+id: warframe:voruna
+elemento_progenitor: Radiation
+fonte_principal: "Blueprints na rotação C do Conjunction Survival em Yuvarium e Circulus, Lua (exige The War Within)."
 ---
 
 # Voruna

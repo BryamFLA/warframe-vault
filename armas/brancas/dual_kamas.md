@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "139/233"
 uso_2025_pct: 0.13
+id: arma:dual_kamas
+slot: Melee
+classe: Dual Swords
+disposicao_riven: 1.35
+fonte_principal: "O blueprint de Dual Kamas é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Dual Kamas

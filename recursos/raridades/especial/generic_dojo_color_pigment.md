@@ -12,6 +12,7 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: recurso:generic_dojo_color_pigment
 ---
 
 # Generic Dojo Color Pigment

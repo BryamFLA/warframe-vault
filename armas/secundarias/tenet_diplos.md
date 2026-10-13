@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "26/153"
 uso_2025_pct: 0.681
+id: arma:tenet_diplos
+negociavel: "indireto — via troca de Lich/Sister"
+slot: Secondary
+classe: Dual Pistols
+disposicao_riven: 0.75
+fonte_principal: "Tenet Diplos é uma arma Tenet: só se obtém derrotando (vanquish) uma Sister of Parvos gerada com ela."
 ---
 
 # Tenet Diplos

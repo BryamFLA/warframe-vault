@@ -14,6 +14,12 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:deth_machine_rifle_prime
+negociavel: "indireto — vem com o companheiro"
+slot: Robotic
+classe: Rifle
+disposicao_riven: 1.455
+fonte_principal: "Arma robótica que vem automaticamente com o Sentinel Dethcube Prime."
 ---
 
 # Deth Machine Rifle Prime

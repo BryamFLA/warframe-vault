@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "29/153"
 uso_2025_pct: 0.677
+id: arma:prisma_angstrum
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.3
+fonte_principal: "Prisma Angstrum é vendida pelo Baro Ki'Teer (mercador do Void que visita os Relays a cada 2 semanas) por 210,000 créditos e 475 Ducats."
 ---
 
 # Prisma Angstrum

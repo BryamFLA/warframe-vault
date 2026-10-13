@@ -16,6 +16,13 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "103/233"
 uso_2025_pct: 0.194
+id: arma:scindo_prime
+negociavel: "só peças/blueprint"
+slot: Melee
+classe: Heavy Blade
+disposicao_riven: 1.3
+vaultado: false
+fonte_principal: "Diferente da maioria dos itens Prime, Scindo Prime nunca é vaultado (permanently unvaulted): as Relíquias saem dos Abandoned Derelict Caches em missões de Railjack Corpus."
 ---
 
 # Scindo Prime

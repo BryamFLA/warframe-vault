@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "211/233"
 uso_2025_pct: 0.052
+id: arma:ankyros_prime
+negociavel: "só peças/blueprint"
+slot: Melee
+classe: Fist
+disposicao_riven: 1.45
+vaultado: true
 ---
 
 # Ankyros Prime

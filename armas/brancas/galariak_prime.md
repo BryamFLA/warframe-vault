@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "207/233"
 uso_2025_pct: 0.056
+id: arma:galariak_prime
+negociavel: "não"
+slot: Melee
+classe: Scythe
+disposicao_riven: 0.9
+fonte_principal: "Blueprints na rotação A de The Perita Rebellion (após The Old Peace) ou com o Roathe por Maphica (25 por componente, 35 pelo principal)."
 ---
 
 # Galariak Prime

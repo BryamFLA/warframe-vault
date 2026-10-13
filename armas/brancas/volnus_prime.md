@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "141/233"
 uso_2025_pct: 0.128
+id: arma:volnus_prime
+negociavel: "só peças/blueprint"
+slot: Melee
+classe: Hammer
+disposicao_riven: 1.3
+vaultado: true
 ---
 
 # Volnus Prime

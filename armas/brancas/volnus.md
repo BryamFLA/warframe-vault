@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "194/233"
 uso_2025_pct: 0.071
+id: arma:volnus
+slot: Melee
+classe: Hammer
+disposicao_riven: 1.4
+fonte_principal: "O blueprint de Volnus é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Volnus

@@ -14,6 +14,11 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:prisma_veritux
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Archmelee
+classe: Archmelee
+fonte_principal: "Prisma Veritux é vendida pelo Baro Ki'Teer (mercador do Void que visita os Relays a cada 2 semanas) por 150,000 créditos e 550 Ducats."
 ---
 
 # Prisma Veritux

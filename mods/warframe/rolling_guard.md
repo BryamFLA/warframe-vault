@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Rolling_Guard", "https://wiki.warframe.com
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:rolling_guard
+negociavel: true
+rank_max: 10
+drenagem_base: 2
 ---
 
 # Rolling Guard

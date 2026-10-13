@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "110/233"
 uso_2025_pct: 0.18
+id: arma:lecta
+slot: Melee
+classe: Whip
+disposicao_riven: 1.25
+fonte_principal: "O blueprint de Lecta é vendido no Mercado;"
+negociavel: "não"
 ---
 
 # Lecta

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "82/233"
 uso_2025_pct: 0.278
+id: arma:ceti_lacera
+negociavel: "só peças/blueprint"
+slot: Melee
+classe: Blade and Whip
+disposicao_riven: 1.2
+fonte_principal: "Arma de evento: Little Duck no Scarlet Spear (20.000 Scarlet Credits) e Father no Orphix Venom (2.000 Phasic Cells)."
 ---
 
 # Ceti Lacera

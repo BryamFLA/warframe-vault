@@ -15,6 +15,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "30/113"
 uso_2025_pct: 1.116
+id: warframe:frost_prime
+elemento_progenitor: Cold
+vaultado: true
 ---
 
 # Frost Prime

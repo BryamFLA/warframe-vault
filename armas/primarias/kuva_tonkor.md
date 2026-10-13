@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "41/195"
 uso_2025_pct: 0.588
+id: arma:kuva_tonkor
+negociavel: "indireto — via troca de Lich/Sister"
+slot: Primary
+classe: Launcher
+disposicao_riven: 0.9
+fonte_principal: "Kuva Tonkor é uma arma Kuva: só se obtém derrotando (vanquish) um Kuva Lich que tenha sido gerado com ela."
 ---
 
 # Kuva Tonkor

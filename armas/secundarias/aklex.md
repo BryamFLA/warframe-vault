@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "107/153"
 uso_2025_pct: 0.132
+id: arma:aklex
+slot: Secondary
+classe: Dual Pistols
+disposicao_riven: 1.05
+fonte_principal: "O blueprint de Aklex é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Aklex

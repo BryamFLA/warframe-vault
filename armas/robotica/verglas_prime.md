@@ -14,6 +14,12 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:verglas_prime
+negociavel: "indireto — vem com o companheiro"
+slot: Robotic
+classe: Rifle
+disposicao_riven: 1.3
+fonte_principal: "Arma robótica que vem automaticamente com o Sentinel Nautilus Prime."
 ---
 
 # Verglas Prime

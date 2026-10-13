@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "86/233"
 uso_2025_pct: 0.266
+id: arma:tonkkatt
+slot: Melee
+classe: Tonfa
+disposicao_riven: 0.95
+fonte_principal: "Blueprint e peças: drop dos Ghoul Expired e Ghoul Rictus (Plains of Eidolon, Ghoul Purge e Disruption Olympus)."
+negociavel: "não"
 ---
 
 # Tonkkatt

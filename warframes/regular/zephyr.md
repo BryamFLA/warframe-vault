@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "78/113"
 uso_2025_pct: 0.305
+id: warframe:zephyr
+elemento_progenitor: Impact
+fonte_principal: "Os blueprints de Zephyr são pesquisados no Tenno Lab do Dojo do clã."
 ---
 
 # Zephyr

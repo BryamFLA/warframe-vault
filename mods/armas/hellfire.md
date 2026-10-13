@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Hellfire", "https://wiki.warframe.com/w/Mo
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:hellfire
+negociavel: true
+rank_max: 5
+drenagem_base: 6
 ---
 
 # Hellfire

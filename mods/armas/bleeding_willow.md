@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Bleeding_Willow", "https://wiki.warframe.c
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: mod:bleeding_willow
+negociavel: true
+rank_max: 3
+drenagem_base: -2
 ---
 
 # Bleeding Willow

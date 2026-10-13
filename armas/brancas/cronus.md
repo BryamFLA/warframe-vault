@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "88/233"
 uso_2025_pct: 0.258
+id: arma:cronus
+slot: Melee
+classe: Sword
+disposicao_riven: 1.48
+fonte_principal: "Blueprint principal: drop do boss Captain Vor em Tolstoj, Mercúrio."
+negociavel: "não"
 ---
 
 # Cronus

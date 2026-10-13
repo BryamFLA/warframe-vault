@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "54/113"
 uso_2025_pct: 0.624
+id: warframe:citrine
+elemento_progenitor: Magnetic
+fonte_principal: "Blueprints na rotação C do Mirror Defense Tyana Pass, Marte (exige Heart of Deimos)."
 ---
 
 # Citrine

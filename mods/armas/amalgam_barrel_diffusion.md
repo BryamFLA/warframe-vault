@@ -14,6 +14,10 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: mod:amalgam_barrel_diffusion
+negociavel: false
+rank_max: 5
+drenagem_base: 10
 ---
 
 # Amalgam Barrel Diffusion

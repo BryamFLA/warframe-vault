@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Pyrol", "https://wiki.warframe.com/w/Modul
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: recurso:pyrol
 ---
 
 # Pyrol

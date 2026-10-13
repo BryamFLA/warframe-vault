@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "11/153"
 uso_2025_pct: 2.109
+id: arma:dual_coda_torxica
+slot: Secondary
+classe: Dual Pistols
+disposicao_riven: 0.55
+fonte_principal: "Dual Coda Torxica é uma arma Coda: comprada da Eleanor (The Hex, Höllvania Central Mall) por 10 Live Heartcell, obtidos derrotando (vanquish) um Technocyte Coda."
+negociavel: "não"
 ---
 
 # Dual Coda Torxica

@@ -16,6 +16,13 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "105/153"
 uso_2025_pct: 0.139
+id: arma:akmagnus_prime
+negociavel: "só peças/blueprint"
+slot: Secondary
+classe: Dual Pistols
+disposicao_riven: 1.1
+vaultado: false
+fonte_principal: "Void Relics containing the Akmagnus Prime components é vendida pelo Baro Ki'Teer (mercador do Void que visita os Relays a cada 2 semanas) por 55,000 créditos e 125 Ducats."
 ---
 
 # Akmagnus Prime

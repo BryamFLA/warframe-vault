@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "5/153"
 uso_2025_pct: 5.734
+id: arma:ocucor
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.2
+fonte_principal: "O blueprint de Ocucor é pesquisado no Energy Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Ocucor

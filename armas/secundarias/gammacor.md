@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "31/153"
 uso_2025_pct: 0.668
+id: arma:gammacor
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.15
+fonte_principal: "O blueprint de Gammacor é vendido no Mercado;"
+negociavel: "não"
 ---
 
 # Gammacor

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "77/153"
 uso_2025_pct: 0.214
+id: arma:tenet_spirex
+negociavel: "indireto — via troca de Lich/Sister"
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.05
+fonte_principal: "Tenet Spirex é uma arma Tenet: só se obtém derrotando (vanquish) uma Sister of Parvos gerada com ela."
 ---
 
 # Tenet Spirex

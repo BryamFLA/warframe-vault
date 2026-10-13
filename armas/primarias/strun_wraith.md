@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "154/195"
 uso_2025_pct: 0.077
+id: arma:strun_wraith
+negociavel: "só peças/blueprint"
+slot: Primary
+classe: Shotgun
+disposicao_riven: 1.35
+fonte_principal: "Blueprint e peças como recompensa de Invasões."
 ---
 
 # Strun Wraith

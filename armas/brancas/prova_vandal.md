@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "223/233"
 uso_2025_pct: 0.038
+id: arma:prova_vandal
+negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+slot: Melee
+classe: Machete
+disposicao_riven: 1.35
+fonte_principal: "Prova Vandal é vendida pelo Baro Ki'Teer (mercador do Void que visita os Relays a cada 2 semanas) por 250,000 créditos e 410 Ducats."
 ---
 
 # Prova Vandal

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+id: arma:twin_grakata
+fonte_principal: "O blueprint de Twin Grakata é vendido no Mercado (por créditos)."
 ---
 
 # Twin Grakata

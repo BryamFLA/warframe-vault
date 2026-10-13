@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Flailing_Branch", "https://wiki.warframe.c
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: mod:flailing_branch
+negociavel: true
+rank_max: 3
+drenagem_base: -2
 ---
 
 # Flailing Branch

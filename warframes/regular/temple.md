@@ -14,6 +14,9 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "59/113"
 uso_2025_pct: 0.561
+id: warframe:temple
+elemento_progenitor: Heat
+fonte_principal: "Blueprints no Stage Defense em Solstice Square, Höllvania (exige a quest The Hex e Rank 4 no sindicato The Hex)."
 ---
 
 # Temple

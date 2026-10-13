@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Gorgaricus_Spore", "https://wiki.warframe.
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:gorgaricus_spore
 ---
 
 # Gorgaricus Spore

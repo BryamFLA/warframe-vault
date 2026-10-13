@@ -13,6 +13,10 @@ fontes: ["https://wiki.warframe.com/w/Vigilante_Pursuit", "https://wiki.warframe
 atualizado: 2026-10-07
 verificado: true
 agente: opus
+id: mod:vigilante_pursuit
+negociavel: true
+rank_max: 5
+drenagem_base: 4
 ---
 
 # Vigilante Pursuit

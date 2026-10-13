@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "165/233"
 uso_2025_pct: 0.091
+id: arma:tatsu
+slot: Melee
+classe: Two-Handed Nikana
+disposicao_riven: 1.05
+fonte_principal: "O blueprint de Tatsu é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Tatsu

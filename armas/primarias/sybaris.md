@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "142/195"
 uso_2025_pct: 0.092
+id: arma:sybaris
+slot: Primary
+classe: Rifle
+disposicao_riven: 1.3
+fonte_principal: "O blueprint de Sybaris' é pesquisado no Tenno Lab do Dojo do clã (depois é replicado e forjado)."
+negociavel: "não"
 ---
 
 # Sybaris

@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "108/233"
 uso_2025_pct: 0.184
+id: arma:furax
+slot: Melee
+classe: Fist
+disposicao_riven: 1.38
+fonte_principal: "O blueprint de Furax é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Furax

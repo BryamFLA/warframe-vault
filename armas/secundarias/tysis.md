@@ -16,6 +16,12 @@ agente: opus
 gerado_de: modulos-da-wiki
 uso_2025_rank: "92/153"
 uso_2025_pct: 0.169
+id: arma:tysis
+slot: Secondary
+classe: Pistol
+disposicao_riven: 1.45
+fonte_principal: "O blueprint de Tysis é vendido no Mercado (por créditos)."
+negociavel: "não"
 ---
 
 # Tysis

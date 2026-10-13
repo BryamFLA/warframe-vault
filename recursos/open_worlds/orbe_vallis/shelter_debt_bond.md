@@ -12,6 +12,7 @@ fontes: ["https://wiki.warframe.com/w/Shelter_Debt-Bond", "https://wiki.warframe
 atualizado: 2026-10-07
 verificado: false
 agente: opus
+id: recurso:shelter_debt_bond
 ---
 
 # Shelter Debt-Bond
