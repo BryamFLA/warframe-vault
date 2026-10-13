@@ -60,6 +60,34 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Tenet Livia é pouco usado entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Tenet Livia
+
+Build de referência gerada pelas estatísticas da arma (perfil **híbrida**: crítico 28% ×2,2, status 28%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/primed_pressure_point.md\|Primed Pressure Point]] |
+| 2 | Primed Reach |
+| 3 | [[mods/armas/blood_rush.md\|Blood Rush]] |
+| 4 | [[mods/armas/organ_shatter.md\|Organ Shatter]] |
+| 5 | Gladiator Might |
+| 6 | [[mods/armas/berserker_fury.md\|Berserker Fury]] |
+| 7 | Virulent Scourge |
+| 8 | [[mods/armas/primed_fever_strike.md\|Primed Fever Strike]] |
+
+**Elementos:** Viral + Calor (geral) ou Corrosivo (armadura). Builds de status usam Condition Overload; builds de crítico usam Blood Rush + combo alto.
+**Arcanes:** Melee Influence, Melee Duplicate.
+**Riven:** disposição 0.95 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Tenet Livia
+
+*Codex:* "As linhas elegantes da maleta Granum Attaché escondem uma lâmina de duas mãos infinitamente afiada; bloqueios podem aumentar o ângulo de bloqueio."
+
+**Origem / facção:** Corpus, Tenet — das Sisters of Parvos (Corpus).
+**Introduzida:** Update 30.5.
+
 ## 🔗 Relacionados — Tenet Livia
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

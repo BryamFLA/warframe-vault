@@ -79,6 +79,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Evensong é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Evensong
+
+Build de referência gerada pelas estatísticas da arma (perfil **híbrida**: crítico 25% ×2,2, status 38%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/serration.md\|Serration]] |
+| 2 | Galvanized Chamber (ou a versão comum) |
+| 3 | [[mods/armas/point_strike.md\|Point Strike]] |
+| 4 | [[mods/armas/vital_sense.md\|Vital Sense]] |
+| 5 | Malignant Force |
+| 6 | [[mods/armas/cryo_rounds.md\|Cryo Rounds]] |
+| 7 | Hammer Shot |
+| 8 | Primed Shred |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Deadhead.
+**Riven:** disposição 1.2 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Evensong
+
+*Codex:* "Enfrente o pavor da batalha com um cântico de louvor: inimigos feridos pelas flechas da Evensong não conseguem ferir seus aliados, e kills dão Multishot às armas aliadas."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update 36.
+
 ## 🔗 Relacionados — Evensong
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

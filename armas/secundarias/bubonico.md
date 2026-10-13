@@ -76,6 +76,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Bubonico é popular (top 15%) entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Bubonico
+
+Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 25% ×2,3, status 9%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Primed Point Blank |
+| 2 | Galvanized Hell (ou a versão comum) |
+| 3 | Primed Ravage |
+| 4 | Blunderbuss |
+| 5 | Toxic Barrage |
+| 6 | Frigid Blast |
+| 7 | Shotgun Barrage |
+| 8 | Seeking Fury |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Deadhead.
+**Riven:** disposição 0.75 — Riven ajuda pouco.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Bubonico
+
+*Codex:* "Chove uma rajada tripla de bolsas de doença explosivas à distância; depois aproxime-se e solte uma barragem multishot de farpas tóxicas no tiro primário."
+
+**Origem / facção:** Infested.
+**Introduzida:** Update 29.5.
+
 ## 🔗 Relacionados — Bubonico
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

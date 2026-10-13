@@ -64,6 +64,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Tenet Ferrox é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Tenet Ferrox
+
+Build de referência gerada pelas estatísticas da arma (perfil **híbrida**: crítico 34% ×3, status 26%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/serration.md\|Serration]] |
+| 2 | Galvanized Chamber (ou a versão comum) |
+| 3 | [[mods/armas/point_strike.md\|Point Strike]] |
+| 4 | [[mods/armas/vital_sense.md\|Vital Sense]] |
+| 5 | Malignant Force |
+| 6 | [[mods/armas/cryo_rounds.md\|Cryo Rounds]] |
+| 7 | Hammer Shot |
+| 8 | Primed Shred |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Deadhead.
+**Riven:** disposição 1.15 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Tenet Ferrox
+
+*Codex:* "Os engenheiros da divisão de Parvos Granum otimizaram o poder letal da Ferrox."
+
+**Origem / facção:** Corpus, Tenet — das Sisters of Parvos (Corpus).
+**Introduzida:** Update 32.2.
+
 ## 🔗 Relacionados — Tenet Ferrox
 
 - [[armas/primarias/ferrox.md|Ferrox]] — mesma família

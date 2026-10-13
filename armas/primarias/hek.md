@@ -75,6 +75,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Hek é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Hek
+
+Build de referência gerada pelas estatísticas da arma (perfil **dano bruto (baseline)**: crítico 10% ×2, status 11%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Primed Point Blank |
+| 2 | Galvanized Hell (ou a versão comum) |
+| 3 | Galvanized Savvy |
+| 4 | Shotgun Savvy |
+| 5 | Toxic Barrage |
+| 6 | Frigid Blast |
+| 7 | Shotgun Barrage |
+| 8 | Seeking Fury |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Deadhead.
+**Riven:** disposição 1.2 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Hek
+
+*Codex:* "A Hek é uma shotgun poderosa de dispersão fechada, eficiente a média distância se o recuo for controlado."
+
+**Origem / facção:** Grineer.
+**Introduzida:** Update 5.2.
+
 ## 🔗 Relacionados — Hek
 
 - [[armas/primarias/kuva_hek.md|Kuva Hek]] — mesma família

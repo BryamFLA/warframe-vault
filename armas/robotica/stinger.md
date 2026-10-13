@@ -46,6 +46,34 @@ Arma robótica que vem **automaticamente** com o Sentinel **Djinn**. Ocupa 1 slo
 | Disposição de Riven | 1,315 |
 | Introduzida | Update 10.0 |
 
+## 🛠️ Build — Stinger
+
+Build de referência gerada pelas estatísticas da arma (perfil **dano bruto (baseline)**: crítico 2% ×1,5, status 20%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/serration.md\|Serration]] |
+| 2 | Galvanized Chamber (ou a versão comum) |
+| 3 | Galvanized Aptitude |
+| 4 | Hammer Shot |
+| 5 | Malignant Force |
+| 6 | [[mods/armas/cryo_rounds.md\|Cryo Rounds]] |
+| 7 | Primed Shred |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Deadhead.
+**Riven:** disposição 1.315 — ótima base para Riven.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Stinger
+
+*Codex:* "Arma padrão do Sentinel Djinn: dispara projéteis Tóxicos que se cravam nos inimigos e causam dano contínuo por 3 segundos."
+
+**Origem / facção:** Infested.
+**Introduzida:** Update 10.0.
+
 ## 🔗 Relacionados — Stinger
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

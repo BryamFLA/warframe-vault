@@ -44,6 +44,11 @@ Peça de **Amp** comprada dos **Quills** (Onkko, Cetus) no **Rank 4**. Monte o A
 | Recarga (s) | 5,33 |
 | Introduzida | Update 23.4 |
 
+## 📖 História e Origem — Phahd Scaffold
+
+**Origem / facção:** Sentient.
+**Introduzida:** Update 23.4.
+
 ## 🔗 Relacionados — Phahd Scaffold
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

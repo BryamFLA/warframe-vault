@@ -54,6 +54,31 @@ Recebida **pronta** ao forjar o Archwing **Odonata** na quest **The Archwing**. 
 | Polaridades | Vazarin |
 | Introduzida | Update 15.0 |
 
+## 🛠️ Build — Veritux
+
+Build de referência gerada pelas estatísticas da arma (perfil **dano bruto (baseline)**: crítico 5% ×1,5, status 10%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Rubedo-Lined Barrel |
+| 2 | Dual Rounds |
+| 3 | Parallax Scope |
+| 4 | Critical Focus |
+| 5 | Magazine Extension |
+| 6 | Ammo Chain |
+| 7 | Charged Bullets |
+| 8 | Combustion Rounds |
+
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Veritux
+
+*Codex:* "O espaço sem gravidade transforma esta espada impossivelmente enorme num instrumento ágil de destruição."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update 15.0.
+
 ## 🔗 Relacionados — Veritux
 
 - [[armas/archwing/prisma_veritux.md|Prisma Veritux]] — mesma família

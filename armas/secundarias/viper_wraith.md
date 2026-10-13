@@ -64,6 +64,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Viper Wraith é raramente usado entre os armas secundárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Viper Wraith
+
+Build de referência gerada pelas estatísticas da arma (perfil **dano bruto (baseline)**: crítico 19% ×2, status 9%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/hornet_strike.md\|Hornet Strike]] |
+| 2 | Galvanized Diffusion (ou a versão comum) |
+| 3 | Galvanized Shot |
+| 4 | Sure Shot |
+| 5 | Pistol Pestilence |
+| 6 | [[mods/armas/deep_freeze.md\|Deep Freeze]] |
+| 7 | [[mods/armas/lethal_torrent.md\|Lethal Torrent]] |
+| 8 | [[mods/armas/augur_pact.md\|Augur Pact]] |
+| Exilus | Hollowed Bullets |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Secondary Encumber, Secondary Merciless.
+**Riven:** disposição 1.4 — ótima base para Riven.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Viper Wraith
+
+*Codex:* "A Viper Wraith, de estilo único, é uma variação poderosa das pistolas-metralhadoras padrão."
+
+**Origem / facção:** Grineer, variante Wraith (de evento/Invasão).
+**Introduzida:** Update 22.8.4.
+
 ## 🔗 Relacionados — Viper Wraith
 
 - [[armas/secundarias/viper.md|Viper]] — mesma família

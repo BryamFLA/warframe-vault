@@ -61,6 +61,32 @@ Fluctus é uma arma de **Archwing**: o blueprint vem do Tenno Lab do Dojo, e as 
 | Polaridades | Naramon |
 | Introduzida | Update 15.7.2 |
 
+## 🛠️ Build — Fluctus
+
+Build de referência gerada pelas estatísticas da arma (perfil **dano bruto (baseline)**: crítico 22% ×2, status 16%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Rubedo-Lined Barrel |
+| 2 | Dual Rounds |
+| 3 | Parallax Scope |
+| 4 | Critical Focus |
+| 5 | Magazine Extension |
+| 6 | Ammo Chain |
+| 7 | Charged Bullets |
+| 8 | Combustion Rounds |
+
+**Riven:** disposição 1.1 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Fluctus
+
+*Codex:* "Arma de energia de Archwing que lança ondas de plasma mortal sobre os inimigos."
+
+**Origem / facção:** Tenno, Corpus.
+**Introduzida:** Update 15.7.2.
+
 ## 🔗 Relacionados — Fluctus
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

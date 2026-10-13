@@ -67,6 +67,34 @@ Blueprints na missão **Scoria's Angel** (Uranus Proxima). Alternativa: comprar 
 | Polaridades | Madurai |
 | Introduzida | Update 43 |
 
+## 🛠️ Build — Wrath
+
+Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 30% ×2, status 15%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/primed_pressure_point.md\|Primed Pressure Point]] |
+| 2 | Primed Reach |
+| 3 | [[mods/armas/blood_rush.md\|Blood Rush]] |
+| 4 | [[mods/armas/organ_shatter.md\|Organ Shatter]] |
+| 5 | Gladiator Might |
+| 6 | [[mods/armas/berserker_fury.md\|Berserker Fury]] |
+| 7 | [[mods/armas/primed_fever_strike.md\|Primed Fever Strike]] |
+| 8 | Vicious Frost |
+
+**Elementos:** Viral + Calor (geral) ou Corrosivo (armadura). Builds de status usam Condition Overload; builds de crítico usam Blood Rush + combo alto.
+**Arcanes:** Melee Exposure, Melee Influence.
+**Riven:** disposição 0.7 — Riven ajuda pouco.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Wrath
+
+*Codex:* "A ira de quem sabe que a vingança depende do tempo certo: a foice pesada assinatura de Orion."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update 43.
+
 ## 🔗 Relacionados — Wrath
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

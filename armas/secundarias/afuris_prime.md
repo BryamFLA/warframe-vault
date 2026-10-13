@@ -82,6 +82,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Afuris Prime é uso médio (top 40%) entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Afuris Prime
+
+Build de referência gerada pelas estatísticas da arma (perfil **status**: crítico 16% ×2, status 30%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/hornet_strike.md\|Hornet Strike]] |
+| 2 | Galvanized Diffusion (ou a versão comum) |
+| 3 | Galvanized Shot |
+| 4 | Sure Shot |
+| 5 | Pistol Pestilence |
+| 6 | Jolt |
+| 7 | [[mods/armas/lethal_torrent.md\|Lethal Torrent]] |
+| 8 | [[mods/armas/augur_pact.md\|Augur Pact]] |
+| Exilus | Hollowed Bullets |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Secondary Encumber, Secondary Merciless.
+**Riven:** disposição 1.1 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Afuris Prime
+
+*Codex:* "Vença o caos com poder de fogo duplo."
+
+**Origem / facção:** Orokin (versão Prime).
+**Introduzida:** Update 32.2.5.
+
 ## 🔗 Relacionados — Afuris Prime
 
 - [[armas/secundarias/dex_furis.md|Dex Furis]] — mesma família

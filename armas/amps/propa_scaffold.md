@@ -43,6 +43,11 @@ Comprado da **Little Duck** (Vox Solaris) por 3.000 de Standing no **Rank 4**.
 | Recarga (s) | 5,33 |
 | Introduzida | Update 24.2 |
 
+## 📖 História e Origem — Propa Scaffold
+
+**Origem / facção:** Sentient.
+**Introduzida:** Update 24.2.
+
 ## 🔗 Relacionados — Propa Scaffold
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

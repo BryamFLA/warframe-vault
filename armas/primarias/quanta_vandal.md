@@ -62,6 +62,34 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Quanta Vandal é raramente usado entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Quanta Vandal
+
+Build de referência gerada pelas estatísticas da arma (perfil **status**: crítico 22% ×2,4, status 45%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/serration.md\|Serration]] |
+| 2 | Galvanized Chamber (ou a versão comum) |
+| 3 | Galvanized Aptitude |
+| 4 | Hammer Shot |
+| 5 | Malignant Force |
+| 6 | [[mods/armas/high_voltage.md\|High Voltage]] |
+| 7 | Primed Shred |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Deadhead.
+**Riven:** disposição 1.4 — ótima base para Riven.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Quanta Vandal
+
+*Codex:* "Versão customizada do Quanta, com acabamento metálico e decalque do Lotus."
+
+**Origem / facção:** Corpus, variante Vandal (Tenno customizada).
+**Introduzida:** Update 16.4.
+
 ## 🔗 Relacionados — Quanta Vandal
 
 - [[armas/primarias/quanta.md|Quanta]] — mesma família

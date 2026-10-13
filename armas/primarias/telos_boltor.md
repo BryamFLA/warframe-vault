@@ -63,6 +63,36 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Telos Boltor é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Telos Boltor
+
+Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 30% ×2,4, status 16%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/serration.md\|Serration]] |
+| 2 | Galvanized Chamber (ou a versão comum) |
+| 3 | [[mods/armas/point_strike.md\|Point Strike]] |
+| 4 | [[mods/armas/vital_sense.md\|Vital Sense]] |
+| 5 | Malignant Force |
+| 6 | [[mods/armas/cryo_rounds.md\|Cryo Rounds]] |
+| 7 | Hammer Shot |
+| 8 | Primed Shred |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Deadhead.
+**Incarnon:** esta arma tem forma Incarnon (Genesis instalado com o Cavalero ou inata). Ative a forma Incarnon com headshots/acertos e escolha as Evoluções focando o perfil dela.
+**Riven:** disposição 1.2 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Telos Boltor
+
+*Codex:* "Faça o julgamento cair com este Boltor criado pelos Arbiters of Hexis."
+
+**Origem / facção:** Sindicato.
+**Introduzida:** Update 17.3.
+
 ## 🔗 Relacionados — Telos Boltor
 
 - [[armas/primarias/boltor.md|Boltor]] — mesma família

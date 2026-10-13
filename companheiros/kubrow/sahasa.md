@@ -37,6 +37,27 @@ Kubrows nascem da **Incubadora** do Orbiter: (1) conclua a quest **Howl of the K
 | Polaridades | Penjaga, Vazarin, Penjaga |
 | Ataque (Sahasa Claws) | Impacto 300 |
 
+## 🛠️ Build — Sahasa Kubrow
+
+Kubrows tankam bem: Link Health/Armor copiam sua sobrevivência; use os precepts da raça (Dig, Retrieve, Stalk, etc.).
+
+| # | Mod |
+|---|---|
+| 1 | Link Health |
+| 2 | Link Armor |
+| 3 | Link Shields |
+| 4 | [[mods/companheiros/bite.md\|Bite]] |
+| 5 | [[mods/companheiros/maul.md\|Maul]] |
+| 6 | [[mods/companheiros/primed_animal_instinct.md\|Primed Animal Instinct]] |
+| 7 | Medi-Pet Kit |
+| 8 | Hunter Synergy |
+
+> Build de referência (curadoria do agente). Os precepts exclusivos do companheiro vêm equipados de fábrica — mantenha-os.
+
+## 📖 História — Sahasa Kubrow
+
+*Codex:* "Um parceiro confiável que encontra suprimentos para o seu mestre Tenno enquanto reduz as fileiras inimigas."
+
 ## 🔗 Relacionados — Sahasa Kubrow
 
 - [[mecanicas/forja.md|Forja]]

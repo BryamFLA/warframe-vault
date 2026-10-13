@@ -58,6 +58,32 @@ Recebida **pronta** ao forjar o Archwing **Odonata** na quest **The Archwing**. 
 | Polaridades | Madurai |
 | Introduzida | Update 15.0 |
 
+## 🛠️ Build — Imperator
+
+Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 24% ×2, status 12%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Rubedo-Lined Barrel |
+| 2 | Dual Rounds |
+| 3 | Parallax Scope |
+| 4 | Critical Focus |
+| 5 | Magazine Extension |
+| 6 | Ammo Chain |
+| 7 | Charged Bullets |
+| 8 | Combustion Rounds |
+
+**Riven:** disposição 1.1 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Imperator
+
+*Codex:* "Rifle de longo alcance capaz de disparar no espaço; a versatilidade do Imperator o torna ideal para combate espacial."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update 15.0.
+
 ## 🔗 Relacionados — Imperator
 
 - [[armas/archwing/imperator_vandal.md|Imperator Vandal]] — mesma família

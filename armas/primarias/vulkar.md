@@ -75,6 +75,34 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Vulkar é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Vulkar
+
+Build de referência gerada pelas estatísticas da arma (perfil **status**: crítico 20% ×2, status 25%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/serration.md\|Serration]] |
+| 2 | Galvanized Chamber (ou a versão comum) |
+| 3 | Galvanized Aptitude |
+| 4 | Hammer Shot |
+| 5 | Malignant Force |
+| 6 | [[mods/armas/high_voltage.md\|High Voltage]] |
+| 7 | Primed Shred |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Deadhead, Primary Merciless.
+**Riven:** disposição 1.45 — ótima base para Riven.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Vulkar
+
+*Codex:* "Construído pelos Grineer para suas tropas de elite, o Vulkar é devastador à distância; nas mãos certas abate alvos antes que se aproximem."
+
+**Origem / facção:** Grineer.
+**Introduzida:** Update 8.0.
+
 ## 🔗 Relacionados — Vulkar
 
 - [[armas/primarias/vulkar_wraith.md|Vulkar Wraith]] — mesma família

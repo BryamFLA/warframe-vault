@@ -74,6 +74,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Astilla é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Astilla
+
+Build de referência gerada pelas estatísticas da arma (perfil **status**: crítico 17% ×1,9, status 33%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Primed Point Blank |
+| 2 | Galvanized Hell (ou a versão comum) |
+| 3 | Galvanized Savvy |
+| 4 | Shotgun Savvy |
+| 5 | Toxic Barrage |
+| 6 | Shell Shock |
+| 7 | Shotgun Barrage |
+| 8 | Seeking Fury |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Deadhead.
+**Riven:** disposição 1.3 — ótima base para Riven.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Astilla
+
+*Codex:* "Dispara balas de vidro que devastam no impacto. Nas mãos de Gara, esta arma assinatura tem mais munição."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update 22.0.
+
 ## 🔗 Relacionados — Astilla
 
 - [[armas/primarias/astilla_prime.md|Astilla Prime]] — mesma família

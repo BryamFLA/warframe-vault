@@ -67,6 +67,36 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Skana Prime é raramente usado entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Skana Prime
+
+Build de referência gerada pelas estatísticas da arma (perfil **híbrida**: crítico 26% ×2,6, status 26%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/primed_pressure_point.md\|Primed Pressure Point]] |
+| 2 | Primed Reach |
+| 3 | [[mods/armas/blood_rush.md\|Blood Rush]] |
+| 4 | [[mods/armas/organ_shatter.md\|Organ Shatter]] |
+| 5 | Gladiator Might |
+| 6 | [[mods/armas/berserker_fury.md\|Berserker Fury]] |
+| 7 | Virulent Scourge |
+| 8 | [[mods/armas/primed_fever_strike.md\|Primed Fever Strike]] |
+
+**Elementos:** Viral + Calor (geral) ou Corrosivo (armadura). Builds de status usam Condition Overload; builds de crítico usam Blood Rush + combo alto.
+**Arcanes:** Melee Influence, Melee Duplicate.
+**Incarnon:** esta arma tem forma Incarnon (Genesis instalado com o Cavalero ou inata). Ative a forma Incarnon com headshots/acertos e escolha as Evoluções focando o perfil dela.
+**Riven:** disposição 1.2 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Skana Prime
+
+*Codex:* "Uma lâmina básica, a Skana, muito usada pelos Tenno. O modelo Prime tem um pouco mais de dano."
+
+**Origem / facção:** Orokin (versão Prime).
+**Introduzida:** Update 5.0.
+**Status:** Prime **vaultada** — as Relíquias não caem mais (só Prime Resurgence ou troca).
+
 ## 🔗 Relacionados — Skana Prime
 
 - [[armas/brancas/prisma_skana.md|Prisma Skana]] — mesma família

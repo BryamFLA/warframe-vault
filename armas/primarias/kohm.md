@@ -76,6 +76,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Kohm é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Kohm
+
+Build de referência gerada pelas estatísticas da arma (perfil **status**: crítico 11% ×2,3, status 75%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Primed Point Blank |
+| 2 | Galvanized Hell (ou a versão comum) |
+| 3 | Galvanized Savvy |
+| 4 | Shotgun Savvy |
+| 5 | Toxic Barrage |
+| 6 | Shell Shock |
+| 7 | Shotgun Barrage |
+| 8 | Seeking Fury |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Deadhead.
+**Riven:** disposição 1.3 — ótima base para Riven.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Kohm
+
+*Codex:* "A cada tiro em sequência rápida, o Kohm libera um projétil adicional e fica mais letal."
+
+**Origem / facção:** Grineer.
+**Introduzida:** Update 15.6.
+
 ## 🔗 Relacionados — Kohm
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

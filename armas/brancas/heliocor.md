@@ -72,6 +72,33 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Heliocor é raramente usado entre os armas melee, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Heliocor
+
+Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 38% ×2, status 12%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/primed_pressure_point.md\|Primed Pressure Point]] |
+| 2 | Primed Reach |
+| 3 | [[mods/armas/blood_rush.md\|Blood Rush]] |
+| 4 | [[mods/armas/organ_shatter.md\|Organ Shatter]] |
+| 5 | Gladiator Might |
+| 6 | [[mods/armas/berserker_fury.md\|Berserker Fury]] |
+| 7 | [[mods/armas/primed_fever_strike.md\|Primed Fever Strike]] |
+| 8 | Vicious Frost |
+
+**Elementos:** Viral + Calor (geral) ou Corrosivo (armadura). Builds de status usam Condition Overload; builds de crítico usam Blood Rush + combo alto.
+**Arcanes:** Melee Exposure, Melee Influence.
+**Riven:** disposição 1.35 — ótima base para Riven.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Heliocor
+
+*Codex:* "Busque a iluminação com este enorme martelo que faz um escaneamento do Codex a cada golpe fatal (exige Codex Scanner com carga)."
+
+**Introduzida:** Update Update: Specters of the Rail 1.
+
 ## 🔗 Relacionados — Heliocor
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

@@ -65,6 +65,32 @@ Como conseguir a arma Corvas Prime:
 | Polaridades | Madurai, Madurai, Naramon |
 | Introduzida | Update 31.3 |
 
+## 🛠️ Build — Corvas Prime
+
+Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 44% ×3, status 20%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Rubedo-Lined Barrel |
+| 2 | Dual Rounds |
+| 3 | Parallax Scope |
+| 4 | Critical Focus |
+| 5 | Magazine Extension |
+| 6 | Ammo Chain |
+| 7 | Charged Bullets |
+| 8 | Combustion Rounds |
+
+**Riven:** disposição 1.0 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Corvas Prime
+
+*Codex:* "Exibindo beleza cerimonial, este canhão de flak de Archwing é ainda mais devastador que o modelo padrão."
+
+**Origem / facção:** Orokin (versão Prime).
+**Introduzida:** Update 31.3.
+
 ## 🔗 Relacionados — Corvas Prime
 
 - [[armas/archwing/corvas.md|Corvas]] — mesma família

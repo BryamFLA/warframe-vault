@@ -83,6 +83,34 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Carmine Penta é raramente usado entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Carmine Penta
+
+Build de referência gerada pelas estatísticas da arma (perfil **dano bruto (baseline)**: crítico 10% ×2, status 10%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/serration.md\|Serration]] |
+| 2 | Galvanized Chamber (ou a versão comum) |
+| 3 | Galvanized Aptitude |
+| 4 | Hammer Shot |
+| 5 | Malignant Force |
+| 6 | [[mods/armas/cryo_rounds.md\|Cryo Rounds]] |
+| 7 | Firestorm |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Dexterity.
+**Riven:** disposição 1.3 — ótima base para Riven.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Carmine Penta
+
+*Codex:* "Envolta em esmalte vermelho profundo, esta variante da Penta tem mais cadência e um pente enorme."
+
+**Origem / facção:** Corpus.
+**Introduzida:** Update 29.10.
+
 ## 🔗 Relacionados — Carmine Penta
 
 - [[armas/primarias/penta.md|Penta]] — mesma família

@@ -57,6 +57,31 @@ Rathbone é uma arma de **Archwing**: o blueprint vem do Mercado, e as peças s�
 | Polaridades | Madurai |
 | Introduzida | Update 15.2 |
 
+## 🛠️ Build — Rathbone
+
+Build de referência gerada pelas estatísticas da arma (perfil **dano bruto (baseline)**: crítico 20% ×2, status 12%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Rubedo-Lined Barrel |
+| 2 | Dual Rounds |
+| 3 | Parallax Scope |
+| 4 | Critical Focus |
+| 5 | Magazine Extension |
+| 6 | Ammo Chain |
+| 7 | Charged Bullets |
+| 8 | Combustion Rounds |
+
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Rathbone
+
+*Codex:* "Usando os jatos do Archwing como impulso, este martelo enorme esmaga tudo no caminho."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update 15.2.
+
 ## 🔗 Relacionados — Rathbone
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

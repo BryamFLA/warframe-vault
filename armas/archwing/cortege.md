@@ -60,6 +60,32 @@ Arma de Necramech. Blueprint principal no Rank 3 do **Necraloid** (recompensa de
 | Disposição de Riven | 1 |
 | Introduzida | Update 29 |
 
+## 🛠️ Build — Cortege
+
+Build de referência gerada pelas estatísticas da arma (perfil **status**: crítico 20% ×1,9, status 40%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Rubedo-Lined Barrel |
+| 2 | Dual Rounds |
+| 3 | Parallax Scope |
+| 4 | Critical Focus |
+| 5 | Magazine Extension |
+| 6 | Ammo Chain |
+| 7 | Charged Bullets |
+| 8 | Combustion Rounds |
+
+**Riven:** disposição 1 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Cortege
+
+*Codex:* "Arma antiga dos Entrati para Necramechs: o tiro primário drena a essência vital do alvo para alimentar um alt-fire devastador. Lança-chamas pesado de alcance surpreendente; o alt-fire lança três projéteis em leque que explodem e deixam uma área de dano."
+
+**Origem / facção:** Entrati (Deimos).
+**Introduzida:** Update 29.
+
 ## 🔗 Relacionados — Cortege
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

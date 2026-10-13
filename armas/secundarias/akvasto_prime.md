@@ -82,6 +82,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Akvasto Prime é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Akvasto Prime
+
+Build de referência gerada pelas estatísticas da arma (perfil **dano bruto (baseline)**: crítico 22% ×2,4, status 22%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/hornet_strike.md\|Hornet Strike]] |
+| 2 | Galvanized Diffusion (ou a versão comum) |
+| 3 | Galvanized Shot |
+| 4 | Sure Shot |
+| 5 | Pistol Pestilence |
+| 6 | [[mods/armas/deep_freeze.md\|Deep Freeze]] |
+| 7 | [[mods/armas/lethal_torrent.md\|Lethal Torrent]] |
+| 8 | [[mods/armas/augur_pact.md\|Augur Pact]] |
+| Exilus | Hollowed Bullets |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Secondary Encumber, Secondary Merciless.
+**Riven:** disposição 1.2 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Akvasto Prime
+
+*Codex:* "Artesanato Orokin com poder de fogo superior: duas Vasto, Prime e prontas para atacar."
+
+**Origem / facção:** Orokin (versão Prime).
+**Introduzida:** Update 24.0.6.
+
 ## 🔗 Relacionados — Akvasto Prime
 
 - [[armas/secundarias/akvasto.md|Akvasto]] — mesma família

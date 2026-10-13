@@ -65,6 +65,32 @@ Como conseguir a arma Larkspur Prime:
 | Polaridades | Madurai, Madurai, Madurai |
 | Introduzida | Update 32.3.6 |
 
+## 🛠️ Build — Larkspur Prime
+
+Build de referência gerada pelas estatísticas da arma (perfil **status**: crítico 14% ×1,6, status 50%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Rubedo-Lined Barrel |
+| 2 | Dual Rounds |
+| 3 | Parallax Scope |
+| 4 | Critical Focus |
+| 5 | Magazine Extension |
+| 6 | Ammo Chain |
+| 7 | Charged Bullets |
+| 8 | Combustion Rounds |
+
+**Riven:** disposição 0.8 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Larkspur Prime
+
+*Codex:* "Abrace o pandemônio: fogo em cadeia e potencial explosivo no Larkspur Prime. Hildryn carrega mais munição com esta arma."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update 32.3.6.
+
 ## 🔗 Relacionados — Larkspur Prime
 
 - [[armas/archwing/larkspur.md|Larkspur]] — mesma família

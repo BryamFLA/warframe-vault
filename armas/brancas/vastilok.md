@@ -60,6 +60,34 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Vastilok é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Vastilok
+
+Build de referência gerada pelas estatísticas da arma (perfil **status**: crítico 19% ×1,7, status 31%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/primed_pressure_point.md\|Primed Pressure Point]] |
+| 2 | Primed Reach |
+| 3 | [[mods/armas/condition_overload.md\|Condition Overload]] |
+| 4 | [[mods/armas/weeping_wounds.md\|Weeping Wounds]] |
+| 5 | Primed Fury |
+| 6 | [[mods/armas/berserker_fury.md\|Berserker Fury]] |
+| 7 | Virulent Scourge |
+| 8 | [[mods/armas/primed_fever_strike.md\|Primed Fever Strike]] |
+
+**Elementos:** Viral + Calor (geral) ou Corrosivo (armadura). Builds de status usam Condition Overload; builds de crítico usam Blood Rush + combo alto.
+**Arcanes:** Melee Influence, Melee Duplicate.
+**Riven:** disposição 0.9 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Vastilok
+
+*Codex:* "Corte e exploda com esta Gunblade pesada de design Grineer brutal: muito dano de Corte e um tiro pesado de shotgun."
+
+**Origem / facção:** Grineer.
+**Introduzida:** Update 30.5.4.
+
 ## 🔗 Relacionados — Vastilok
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

@@ -61,6 +61,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Sancti Magistar é muito popular (top 5%) entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Sancti Magistar
+
+Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 30% ×2, status 20%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/primed_pressure_point.md\|Primed Pressure Point]] |
+| 2 | Primed Reach |
+| 3 | [[mods/armas/blood_rush.md\|Blood Rush]] |
+| 4 | [[mods/armas/organ_shatter.md\|Organ Shatter]] |
+| 5 | Gladiator Might |
+| 6 | [[mods/armas/berserker_fury.md\|Berserker Fury]] |
+| 7 | [[mods/armas/primed_fever_strike.md\|Primed Fever Strike]] |
+| 8 | Vicious Frost |
+
+**Elementos:** Viral + Calor (geral) ou Corrosivo (armadura). Builds de status usam Condition Overload; builds de crítico usam Blood Rush + combo alto.
+**Arcanes:** Melee Exposure, Melee Influence.
+**Incarnon:** esta arma tem forma Incarnon (Genesis instalado com o Cavalero ou inata). Ative a forma Incarnon com headshots/acertos e escolha as Evoluções focando o perfil dela.
+**Riven:** disposição 1.25 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Sancti Magistar
+
+*Codex:* "Cada ataque carregado transforma a dor do inimigo num pulso de cura para os aliados; segurar dá resistência a status."
+
+**Origem / facção:** Sindicato.
+**Introduzida:** Update Update: The Silver Grove 2.0.
+
 ## 🔗 Relacionados — Sancti Magistar
 
 - [[armas/brancas/magistar.md|Magistar]] — mesma família

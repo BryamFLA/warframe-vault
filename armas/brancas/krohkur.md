@@ -72,6 +72,34 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Krohkur é pouco usado entre os armas melee, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Krohkur
+
+Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 29% ×2,3, status 19%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/primed_pressure_point.md\|Primed Pressure Point]] |
+| 2 | Primed Reach |
+| 3 | [[mods/armas/blood_rush.md\|Blood Rush]] |
+| 4 | [[mods/armas/organ_shatter.md\|Organ Shatter]] |
+| 5 | Gladiator Might |
+| 6 | [[mods/armas/berserker_fury.md\|Berserker Fury]] |
+| 7 | [[mods/armas/primed_fever_strike.md\|Primed Fever Strike]] |
+| 8 | Vicious Frost |
+
+**Elementos:** Viral + Calor (geral) ou Corrosivo (armadura). Builds de status usam Condition Overload; builds de crítico usam Blood Rush + combo alto.
+**Arcanes:** Melee Exposure, Melee Influence.
+**Riven:** disposição 1.35 — ótima base para Riven.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Krohkur
+
+*Codex:* "Esta lâmina em gancho recompensa com críticos quem golpeia com finesse."
+
+**Origem / facção:** Grineer.
+**Introduzida:** Update 22.
+
 ## 🔗 Relacionados — Krohkur
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

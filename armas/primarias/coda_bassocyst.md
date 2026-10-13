@@ -63,6 +63,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Coda Bassocyst é popular (top 15%) entre os armas primárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Coda Bassocyst
+
+Build de referência gerada pelas estatísticas da arma (perfil **status**: crítico 18% ×2,2, status 40%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Primed Point Blank |
+| 2 | Galvanized Hell (ou a versão comum) |
+| 3 | Galvanized Savvy |
+| 4 | Shotgun Savvy |
+| 5 | Toxic Barrage |
+| 6 | Shell Shock |
+| 7 | Shotgun Barrage |
+| 8 | Seeking Fury |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Deadhead.
+**Riven:** disposição 0.55 — Riven ajuda pouco.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Coda Bassocyst
+
+*Codex:* "Shotgun Infested Technocyte Coda que amplifica ondas sonoras devastadoras e tem fome de sangue. O tiro alternativo solta ácaros infestados em inimigos não vulneráveis a Mercy Kill, e executa à distância os vulneráveis."
+
+**Origem / facção:** Infested, Coda — infectada pelo vírus Technocyte (Höllvania, 1999).
+**Introduzida:** Update 38.5.
+
 ## 🔗 Relacionados — Coda Bassocyst
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

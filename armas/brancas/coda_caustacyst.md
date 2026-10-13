@@ -62,6 +62,34 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Coda Caustacyst é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Coda Caustacyst
+
+Build de referência gerada pelas estatísticas da arma (perfil **status**: crítico 19% ×2,3, status 41%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/primed_pressure_point.md\|Primed Pressure Point]] |
+| 2 | Primed Reach |
+| 3 | [[mods/armas/condition_overload.md\|Condition Overload]] |
+| 4 | [[mods/armas/weeping_wounds.md\|Weeping Wounds]] |
+| 5 | Primed Fury |
+| 6 | [[mods/armas/berserker_fury.md\|Berserker Fury]] |
+| 7 | Virulent Scourge |
+| 8 | [[mods/armas/primed_fever_strike.md\|Primed Fever Strike]] |
+
+**Elementos:** Viral + Calor (geral) ou Corrosivo (armadura). Builds de status usam Condition Overload; builds de crítico usam Blood Rush + combo alto.
+**Arcanes:** Melee Influence, Melee Duplicate.
+**Riven:** disposição 0.85 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Coda Caustacyst
+
+*Codex:* "A foice Coda Caustacyst é uma força temível: o vírus Technocyte a melhorou em dano, status e dano crítico, com poças de ácido maiores e mais duradouras."
+
+**Origem / facção:** Infested, Coda — infectada pelo vírus Technocyte (Höllvania, 1999).
+**Introduzida:** Update 38.5.
+
 ## 🔗 Relacionados — Coda Caustacyst
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

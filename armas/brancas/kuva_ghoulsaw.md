@@ -46,6 +46,34 @@ Kuva Ghoulsaw é uma **arma Kuva**: só se obtém **derrotando (vanquish) um Kuv
 | Polaridades | Madurai, Naramon |
 | Introduzida | Update 42 |
 
+## 🛠️ Build — Kuva Ghoulsaw
+
+Build de referência gerada pelas estatísticas da arma (perfil **híbrida**: crítico 25% ×2,1, status 32%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/primed_pressure_point.md\|Primed Pressure Point]] |
+| 2 | Primed Reach |
+| 3 | [[mods/armas/blood_rush.md\|Blood Rush]] |
+| 4 | [[mods/armas/organ_shatter.md\|Organ Shatter]] |
+| 5 | Gladiator Might |
+| 6 | [[mods/armas/berserker_fury.md\|Berserker Fury]] |
+| 7 | Virulent Scourge |
+| 8 | [[mods/armas/primed_fever_strike.md\|Primed Fever Strike]] |
+
+**Elementos:** Viral + Calor (geral) ou Corrosivo (armadura). Builds de status usam Condition Overload; builds de crítico usam Blood Rush + combo alto.
+**Arcanes:** Melee Influence, Melee Duplicate.
+**Riven:** disposição 0.8 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Kuva Ghoulsaw
+
+*Codex:* "O Kuva transformou a selvagem Ghoulsaw numa arma ainda mais brutal, com ataques mais rápidos."
+
+**Origem / facção:** Grineer, Kuva — criada pelos Kuva Liches.
+**Introduzida:** Update 42.
+
 ## 🔗 Relacionados — Kuva Ghoulsaw
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

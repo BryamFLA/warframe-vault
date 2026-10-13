@@ -80,6 +80,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Latron é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Latron
+
+Build de referência gerada pelas estatísticas da arma (perfil **dano bruto (baseline)**: crítico 12% ×2, status 12%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/serration.md\|Serration]] |
+| 2 | Galvanized Chamber (ou a versão comum) |
+| 3 | Galvanized Aptitude |
+| 4 | Hammer Shot |
+| 5 | Malignant Force |
+| 6 | [[mods/armas/cryo_rounds.md\|Cryo Rounds]] |
+| 7 | Primed Shred |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Deadhead.
+**Incarnon:** esta arma tem forma Incarnon (Genesis instalado com o Cavalero ou inata). Ative a forma Incarnon com headshots/acertos e escolha as Evoluções focando o perfil dela.
+**Riven:** disposição 1.4 — ótima base para Riven.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Latron
+
+*Codex:* "O Latron é um rifle muito eficiente a média e longa distância; sua precisão o torna mortal nas mãos de atiradores habilidosos."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update Vanilla.
+
 ## 🔗 Relacionados — Latron
 
 - [[armas/primarias/latron_prime.md|Latron Prime]] — mesma família

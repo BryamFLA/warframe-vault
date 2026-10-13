@@ -73,6 +73,34 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Phenmor é muito popular (top 5%) entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Phenmor
+
+Build de referência gerada pelas estatísticas da arma (perfil **dano bruto (baseline)**: crítico 20% ×2, status 20%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/serration.md\|Serration]] |
+| 2 | Galvanized Chamber (ou a versão comum) |
+| 3 | Galvanized Aptitude |
+| 4 | Hammer Shot |
+| 5 | Malignant Force |
+| 6 | [[mods/armas/cryo_rounds.md\|Cryo Rounds]] |
+| 7 | Primed Shred |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Deadhead.
+**Riven:** disposição 0.6 — Riven ajuda pouco.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Phenmor
+
+*Codex:* "Os colonos do Zariman pretendiam usar a Phenmor em ritos fúnebres: na sociedade Orokin, quanto maior o posto, mais salvas para o morto. A coronha é de Pinho Phenaureus, árvore que só solta sementes em terra queimada. Nas mãos do Void, a Phenmor fica sombriamente agressiva."
+
+**Origem / facção:** Zariman (Void).
+**Introduzida:** Update 31.5.
+
 ## 🔗 Relacionados — Phenmor
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

@@ -74,6 +74,34 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Kreska é raramente usado entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Kreska
+
+Build de referência gerada pelas estatísticas da arma (perfil **dano bruto (baseline)**: crítico 14% ×2, status 22%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/primed_pressure_point.md\|Primed Pressure Point]] |
+| 2 | Primed Reach |
+| 3 | [[mods/armas/condition_overload.md\|Condition Overload]] |
+| 4 | [[mods/armas/weeping_wounds.md\|Weeping Wounds]] |
+| 5 | Primed Fury |
+| 6 | [[mods/armas/berserker_fury.md\|Berserker Fury]] |
+| 7 | Virulent Scourge |
+| 8 | [[mods/armas/primed_fever_strike.md\|Primed Fever Strike]] |
+
+**Elementos:** Viral + Calor (geral) ou Corrosivo (armadura). Builds de status usam Condition Overload; builds de crítico usam Blood Rush + combo alto.
+**Arcanes:** Melee Influence, Melee Duplicate.
+**Riven:** disposição 1.35 — ótima base para Riven.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Kreska
+
+*Codex:* "Esta ferramenta de sobrevivência Corpus simples faz o que foi feita para fazer: cortar e rachar o que atinge."
+
+**Origem / facção:** Corpus.
+**Introduzida:** Update 24.
+
 ## 🔗 Relacionados — Kreska
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

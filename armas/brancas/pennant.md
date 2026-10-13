@@ -79,6 +79,34 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Pennant é pouco usado entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Pennant
+
+Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 32% ×2,4, status 10%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/primed_pressure_point.md\|Primed Pressure Point]] |
+| 2 | Primed Reach |
+| 3 | [[mods/armas/blood_rush.md\|Blood Rush]] |
+| 4 | [[mods/armas/organ_shatter.md\|Organ Shatter]] |
+| 5 | Gladiator Might |
+| 6 | [[mods/armas/berserker_fury.md\|Berserker Fury]] |
+| 7 | [[mods/armas/primed_fever_strike.md\|Primed Fever Strike]] |
+| 8 | Vicious Frost |
+
+**Elementos:** Viral + Calor (geral) ou Corrosivo (armadura). Builds de status usam Condition Overload; builds de crítico usam Blood Rush + combo alto.
+**Arcanes:** Melee Exposure, Melee Influence.
+**Riven:** disposição 0.95 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Pennant
+
+*Codex:* "A bandeira de aço das tripulações de Railjack da Antiga Guerra, a Pennant era valiosa contra abordagens; cada kill com Heavy Attack aumenta a velocidade de ataque."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update 27.0.
+
 ## 🔗 Relacionados — Pennant
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

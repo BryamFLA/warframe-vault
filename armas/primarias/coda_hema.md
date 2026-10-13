@@ -61,6 +61,34 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Coda Hema é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Coda Hema
+
+Build de referência gerada pelas estatísticas da arma (perfil **status**: crítico 20% ×2,3, status 30%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/serration.md\|Serration]] |
+| 2 | Galvanized Chamber (ou a versão comum) |
+| 3 | Galvanized Aptitude |
+| 4 | Hammer Shot |
+| 5 | Malignant Force |
+| 6 | [[mods/armas/high_voltage.md\|High Voltage]] |
+| 7 | Primed Shred |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Deadhead.
+**Riven:** disposição 1.0 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Coda Hema
+
+*Codex:* "O vírus Technocyte só aumentou a sede de sangue da Hema: mais cadência, pente, chance e multiplicador crítico, status e dano."
+
+**Origem / facção:** Infested, Coda — infectada pelo vírus Technocyte (Höllvania, 1999).
+**Introduzida:** Update 38.5.
+
 ## 🔗 Relacionados — Coda Hema
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

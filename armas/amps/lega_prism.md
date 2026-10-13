@@ -44,6 +44,11 @@ Peça de **Amp** de tier alto comprada da **Little Duck** (Vox Solaris, Fortuna)
 | Recarga (s) | 5,33 |
 | Introduzida | Update 24.2 |
 
+## 📖 História e Origem — Lega Prism
+
+**Origem / facção:** Sentient.
+**Introduzida:** Update 24.2.
+
 ## 🔗 Relacionados — Lega Prism
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

@@ -48,6 +48,32 @@ Recebida **pronta** ao forjar qualquer **Necramech** (Voidrig ou Bonewidow). É 
 | Polaridades | Madurai |
 | Introduzida | Update 29 |
 
+## 🛠️ Build — Mausolon
+
+Build de referência gerada pelas estatísticas da arma (perfil **híbrida**: crítico 30% ×2,2, status 26%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Rubedo-Lined Barrel |
+| 2 | Dual Rounds |
+| 3 | Parallax Scope |
+| 4 | Critical Focus |
+| 5 | Magazine Extension |
+| 6 | Ammo Chain |
+| 7 | Charged Bullets |
+| 8 | Combustion Rounds |
+
+**Riven:** disposição 0.5 — Riven ajuda pouco.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Mausolon
+
+*Codex:* "Arma antiga dos Entrati para Necramechs: o tiro primário drena a essência vital para alimentar o alt-fire. Disparo automático punitivo e um modo que carrega um feixe destrutivo com grande explosão no impacto."
+
+**Origem / facção:** Entrati (Deimos).
+**Introduzida:** Update 29.
+
 ## 🔗 Relacionados — Mausolon
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

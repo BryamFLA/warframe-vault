@@ -75,6 +75,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Pandero é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Pandero
+
+Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 30% ×2,8, status 10%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/hornet_strike.md\|Hornet Strike]] |
+| 2 | Galvanized Diffusion (ou a versão comum) |
+| 3 | [[mods/armas/primed_pistol_gambit.md\|Primed Pistol Gambit]] |
+| 4 | [[mods/armas/primed_target_cracker.md\|Primed Target Cracker]] |
+| 5 | Pistol Pestilence |
+| 6 | [[mods/armas/deep_freeze.md\|Deep Freeze]] |
+| 7 | [[mods/armas/lethal_torrent.md\|Lethal Torrent]] |
+| 8 | [[mods/armas/augur_pact.md\|Augur Pact]] |
+| Exilus | Hollowed Bullets |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Secondary Encumber, Secondary Merciless.
+**Riven:** disposição 1.2 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Pandero
+
+*Codex:* "A pistola de Octavia martela inimigos com tiros únicos ou rajadas rápidas; com Octavia, kills com headshot no alt-fire aceleram a recarga."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update 20.
+
 ## 🔗 Relacionados — Pandero
 
 - [[armas/secundarias/pandero_prime.md|Pandero Prime]] — mesma família

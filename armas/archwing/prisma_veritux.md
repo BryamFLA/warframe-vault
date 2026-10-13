@@ -44,6 +44,31 @@ Prisma Veritux é vendida pelo **Baro Ki'Teer** (mercador do Void que visita os 
 | Polaridades | Vazarin |
 | Introduzida | Update 15.13.3 |
 
+## 🛠️ Build — Prisma Veritux
+
+Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 30% ×2, status 20%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Rubedo-Lined Barrel |
+| 2 | Dual Rounds |
+| 3 | Parallax Scope |
+| 4 | Critical Focus |
+| 5 | Magazine Extension |
+| 6 | Ammo Chain |
+| 7 | Charged Bullets |
+| 8 | Combustion Rounds |
+
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Prisma Veritux
+
+*Codex:* "Um raro objeto de beleza: esta espada de Archwing foi revestida de cristal prisma e batizada na energia do Void."
+
+**Origem / facção:** Tenno, variante Prisma (Baro Ki'Teer).
+**Introduzida:** Update 15.13.3.
+
 ## 🔗 Relacionados — Prisma Veritux
 
 - [[armas/archwing/veritux.md|Veritux]] — mesma família

@@ -82,6 +82,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Corinth Prime é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Corinth Prime
+
+Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 30% ×2,8, status 9%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Primed Point Blank |
+| 2 | Galvanized Hell (ou a versão comum) |
+| 3 | Primed Ravage |
+| 4 | Blunderbuss |
+| 5 | Toxic Barrage |
+| 6 | Frigid Blast |
+| 7 | Shotgun Barrage |
+| 8 | Seeking Fury |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Deadhead.
+**Riven:** disposição 1 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Corinth Prime
+
+*Codex:* "Pesada na mão e de coice esmagador: esta versão Prime adiciona detonação remota ao projétil aéreo."
+
+**Origem / facção:** Orokin (versão Prime).
+**Introduzida:** Update 27.3.6.
+
 ## 🔗 Relacionados — Corinth Prime
 
 - [[armas/primarias/corinth.md|Corinth]] — mesma família

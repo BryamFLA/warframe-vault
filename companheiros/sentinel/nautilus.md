@@ -42,6 +42,25 @@ Forja: **15.000 créditos** + 1 Nautilus Cerebrum, 1 Nautilus Carapace, 1 Nautil
 | Energia | 100 |
 | Polaridades | Penjaga, Penjaga, Penjaga, Penjaga |
 
+## 🛠️ Build — Nautilus
+
+Sentinels morrem rápido: priorize sobrevivência (Primed Regen para reviver, mods de escudo/vida e armadura) e os precepts próprios. A arma robótica usa mods de rifle/shotgun comuns.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/companheiros/primed_regen.md\|Primed Regen]] |
+| 2 | [[mods/companheiros/guardian.md\|Guardian]] |
+| 3 | Sacrifice |
+| 4 | Link Shields |
+| 5 | Link Armor |
+| 6 | [[mods/companheiros/primed_animal_instinct.md\|Primed Animal Instinct]] |
+
+> Build de referência (curadoria do agente). Os precepts exclusivos do companheiro vêm equipados de fábrica — mantenha-os.
+
+## 📖 História — Nautilus
+
+*Codex:* "Com 'Auto Omni' e 'Cordon' como precepts padrão, este Sentinel é o companheiro ideal para longas viagens de Railjack."
+
 ## 🔗 Relacionados — Nautilus
 
 - [[mecanicas/forja.md|Forja]]

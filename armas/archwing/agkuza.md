@@ -57,6 +57,31 @@ Agkuza é uma arma de **Archwing**: o blueprint vem do Mercado, e as peças são
 | Polaridades | Vazarin |
 | Introduzida | Update Specters of the Rail 0.0 |
 
+## 🛠️ Build — Agkuza
+
+Build de referência gerada pelas estatísticas da arma (perfil **dano bruto (baseline)**: crítico 5% ×1,5, status 15%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Rubedo-Lined Barrel |
+| 2 | Dual Rounds |
+| 3 | Parallax Scope |
+| 4 | Critical Focus |
+| 5 | Magazine Extension |
+| 6 | Ammo Chain |
+| 7 | Charged Bullets |
+| 8 | Combustion Rounds |
+
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Agkuza
+
+*Codex:* "Despedace inimigos com esta enorme lâmina em gancho."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update Specters of the Rail 0.0.
+
 ## 🔗 Relacionados — Agkuza
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

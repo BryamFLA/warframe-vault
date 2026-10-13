@@ -60,6 +60,32 @@ Dual Decurion é uma arma de **Archwing**: o blueprint vem do Mercado, e as peç
 | Disposição de Riven | 1,3 |
 | Introduzida | Update 15.5 |
 
+## 🛠️ Build — Dual Decurion
+
+Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 28% ×2,2, status 14%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Rubedo-Lined Barrel |
+| 2 | Dual Rounds |
+| 3 | Parallax Scope |
+| 4 | Critical Focus |
+| 5 | Magazine Extension |
+| 6 | Ammo Chain |
+| 7 | Charged Bullets |
+| 8 | Combustion Rounds |
+
+**Riven:** disposição 1.3 — ótima base para Riven.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Dual Decurion
+
+*Codex:* "Disparando dois fluxos precisos de munição rápida, as Decurion foram feitas para combate no vácuo do espaço."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update 15.5.
+
 ## 🔗 Relacionados — Dual Decurion
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

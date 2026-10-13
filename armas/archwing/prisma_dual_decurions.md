@@ -60,6 +60,32 @@ Prisma Dual Decurions é vendida pelo **Baro Ki'Teer** (mercador do Void que vis
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 29.5.8 |
 
+## 🛠️ Build — Prisma Dual Decurions
+
+Build de referência gerada pelas estatísticas da arma (perfil **híbrida**: crítico 30% ×2,2, status 24%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Rubedo-Lined Barrel |
+| 2 | Dual Rounds |
+| 3 | Parallax Scope |
+| 4 | Critical Focus |
+| 5 | Magazine Extension |
+| 6 | Ammo Chain |
+| 7 | Charged Bullets |
+| 8 | Combustion Rounds |
+
+**Riven:** disposição 1.25 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Prisma Dual Decurions
+
+*Codex:* "Mais frios que o espaço, os cristais Prisma dão eficiência de elite às Dual Decurion; recarregam com um toque e provam que armas pesadas podem ser elegantes."
+
+**Origem / facção:** variante Prisma (Baro Ki'Teer).
+**Introduzida:** Update 29.5.8.
+
 ## 🔗 Relacionados — Prisma Dual Decurions
 
 - [[armas/archwing/dual_decurion.md|Dual Decurion]] — mesma família

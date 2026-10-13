@@ -57,6 +57,31 @@ Centaur é uma arma de **Archwing**: o blueprint vem do Mercado, e as peças sã
 | Polaridades | Madurai |
 | Introduzida | Update 15.7.2 |
 
+## 🛠️ Build — Centaur
+
+Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 25% ×2, status 20%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Rubedo-Lined Barrel |
+| 2 | Dual Rounds |
+| 3 | Parallax Scope |
+| 4 | Critical Focus |
+| 5 | Magazine Extension |
+| 6 | Ammo Chain |
+| 7 | Charged Bullets |
+| 8 | Combustion Rounds |
+
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Centaur
+
+*Codex:* "Meio espada, meio escudo, o Centaur se destaca ao avançar de frente contra o fogo inimigo."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update 15.7.2.
+
 ## 🔗 Relacionados — Centaur
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

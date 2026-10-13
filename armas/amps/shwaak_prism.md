@@ -44,6 +44,11 @@ Peça de **Amp** comprada dos **Quills** (Onkko, Cetus) no **Rank 2**. Monte o A
 | Recarga (s) | 5,33 |
 | Introduzida | Update 22 |
 
+## 📖 História e Origem — Shwaak Prism
+
+**Origem / facção:** Sentient.
+**Introduzida:** Update 22.
+
 ## 🔗 Relacionados — Shwaak Prism
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

@@ -65,6 +65,35 @@ Blueprints comprados da **Cephalon Melica** com **Entropic Kuva** — 200 pelo p
 | Polaridades | Vazarin |
 | Introduzida | Update 44.0 |
 
+## 🛠️ Build — Aksondol
+
+Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 24% ×2,6, status 22%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/hornet_strike.md\|Hornet Strike]] |
+| 2 | Galvanized Diffusion (ou a versão comum) |
+| 3 | [[mods/armas/primed_pistol_gambit.md\|Primed Pistol Gambit]] |
+| 4 | [[mods/armas/primed_target_cracker.md\|Primed Target Cracker]] |
+| 5 | Pistol Pestilence |
+| 6 | [[mods/armas/deep_freeze.md\|Deep Freeze]] |
+| 7 | [[mods/armas/lethal_torrent.md\|Lethal Torrent]] |
+| 8 | [[mods/armas/augur_pact.md\|Augur Pact]] |
+| Exilus | Hollowed Bullets |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Secondary Encumber, Secondary Merciless.
+**Riven:** disposição 0.5 — Riven ajuda pouco.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Aksondol
+
+*Codex:* "As pistolas assinatura de Narin mordem como o inverno: recarregar cria uma névoa congelante que aplica status de Frio e cresce a cada bala recarregada."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update 44.0.
+
 ## 🔗 Relacionados — Aksondol
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

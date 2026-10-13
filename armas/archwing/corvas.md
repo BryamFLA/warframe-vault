@@ -60,6 +60,32 @@ Corvas é uma arma de **Archwing**: o blueprint vem do Mercado, e as peças são
 | Polaridades | Naramon |
 | Introduzida | Update 15.0 |
 
+## 🛠️ Build — Corvas
+
+Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 40% ×2,6, status 13%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Rubedo-Lined Barrel |
+| 2 | Dual Rounds |
+| 3 | Parallax Scope |
+| 4 | Critical Focus |
+| 5 | Magazine Extension |
+| 6 | Ammo Chain |
+| 7 | Charged Bullets |
+| 8 | Combustion Rounds |
+
+**Riven:** disposição 1.2 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Corvas
+
+*Codex:* "Com carga total, este canhão de flak dá um tiro devastador, perfeito contra interceptadores rápidos."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update 15.0.
+
 ## 🔗 Relacionados — Corvas
 
 - [[armas/archwing/corvas_prime.md|Corvas Prime]] — mesma família

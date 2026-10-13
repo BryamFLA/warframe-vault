@@ -63,6 +63,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Kuva Sobek é popular (top 15%) entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Kuva Sobek
+
+Build de referência gerada pelas estatísticas da arma (perfil **dano bruto (baseline)**: crítico 21% ×2,3, status 21%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Primed Point Blank |
+| 2 | Galvanized Hell (ou a versão comum) |
+| 3 | Galvanized Savvy |
+| 4 | Shotgun Savvy |
+| 5 | Toxic Barrage |
+| 6 | Frigid Blast |
+| 7 | Shotgun Barrage |
+| 8 | Seeking Fury |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Deadhead.
+**Riven:** disposição 0.8 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Kuva Sobek
+
+*Codex:* "A recarga, o crítico e o status excepcionais da Kuva Sobek combinam com o espírito dominante do Kuva Lich."
+
+**Origem / facção:** Grineer, Kuva — criada pelos Kuva Liches.
+**Introduzida:** Update 35.6.
+
 ## 🔗 Relacionados — Kuva Sobek
 
 - [[armas/primarias/sobek.md|Sobek]] — mesma família

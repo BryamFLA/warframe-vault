@@ -56,6 +56,31 @@ O blueprint de Knux é pesquisado no **Chem Lab** do **Dojo do clã** (depois é
 | Polaridades | Vazarin |
 | Introduzida | Update 17.2 |
 
+## 🛠️ Build — Knux
+
+Build de referência gerada pelas estatísticas da arma (perfil **status**: crítico 13% ×2, status 30%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Rubedo-Lined Barrel |
+| 2 | Dual Rounds |
+| 3 | Parallax Scope |
+| 4 | Critical Focus |
+| 5 | Magazine Extension |
+| 6 | Ammo Chain |
+| 7 | Charged Bullets |
+| 8 | Combustion Rounds |
+
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Knux
+
+*Codex:* "Manoplas de liga de gálio para combate próximo de Archwing, criadas pelo infame Tyl Regor."
+
+**Origem / facção:** Grineer.
+**Introduzida:** Update 17.2.
+
 ## 🔗 Relacionados — Knux
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

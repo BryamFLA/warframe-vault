@@ -82,6 +82,32 @@ Blueprints nas **bounties do Deepmines** (Fortuna; exige The New War) ou com o *
 | Polaridades | Madurai, Naramon |
 | Introduzida | Update 40 |
 
+## 🛠️ Build — Arbucep
+
+Build de referência gerada pelas estatísticas da arma (perfil **status**: crítico 10% ×2,9, status 35%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Rubedo-Lined Barrel |
+| 2 | Dual Rounds |
+| 3 | Parallax Scope |
+| 4 | Critical Focus |
+| 5 | Magazine Extension |
+| 6 | Ammo Chain |
+| 7 | Charged Bullets |
+| 8 | Combustion Rounds |
+
+**Riven:** disposição 0.7 — Riven ajuda pouco.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Arbucep
+
+*Codex:* "O archgun assinatura de Nokko dispara seis mísseis teleguiados, cada um com um dos seis elementos combinados, que explodem em área."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update 40.
+
 ## 🔗 Relacionados — Arbucep
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

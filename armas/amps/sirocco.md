@@ -44,6 +44,10 @@ Amp do **Drifter**: dado ao concluir **The New War**, já gilded. Extras no Ceph
 | Recarga (s) | 2 |
 | Introduzida | Update 31 |
 
+## 📖 História e Origem — Sirocco
+
+**Introduzida:** Update 31.
+
 ## 🔗 Relacionados — Sirocco
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

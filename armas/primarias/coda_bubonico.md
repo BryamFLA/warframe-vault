@@ -49,6 +49,35 @@ Coda Bubonico é uma **arma Coda**: comprada da **Eleanor** (The Hex, Höllvania
 | Polaridades | Naramon, Madurai, Naramon |
 | Introduzida | Update 42 |
 
+## 🛠️ Build — Coda Bubonico
+
+Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 27% ×2,3, status 10%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Primed Point Blank |
+| 2 | Galvanized Hell (ou a versão comum) |
+| 3 | Primed Ravage |
+| 4 | Blunderbuss |
+| 5 | Toxic Barrage |
+| 6 | Frigid Blast |
+| 7 | Shotgun Barrage |
+| 8 | Seeking Fury |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Deadhead.
+**Riven:** disposição 0.6 — Riven ajuda pouco.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Coda Bubonico
+
+*Codex:* "Com pente maior, a Coda Bubonico nasceu da necessidade do vírus Technocyte de espalhar infecção; a cadência do tiro primário cresce com disparo contínuo."
+
+**Origem / facção:** Infested, Coda — infectada pelo vírus Technocyte (Höllvania, 1999).
+**Introduzida:** Update 42.
+
 ## 🔗 Relacionados — Coda Bubonico
 
 - [[armas/secundarias/bubonico.md|Bubonico]] — mesma família

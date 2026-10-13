@@ -63,6 +63,34 @@ Como conseguir a arma Sarofang Prime:
 | Polaridades | Naramon |
 | Introduzida | Update 42.0.6 |
 
+## 🛠️ Build — Sarofang Prime
+
+Build de referência gerada pelas estatísticas da arma (perfil **híbrida**: crítico 30% ×3, status 30%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/primed_pressure_point.md\|Primed Pressure Point]] |
+| 2 | Primed Reach |
+| 3 | [[mods/armas/blood_rush.md\|Blood Rush]] |
+| 4 | [[mods/armas/organ_shatter.md\|Organ Shatter]] |
+| 5 | Gladiator Might |
+| 6 | [[mods/armas/berserker_fury.md\|Berserker Fury]] |
+| 7 | Virulent Scourge |
+| 8 | [[mods/armas/primed_fever_strike.md\|Primed Fever Strike]] |
+
+**Elementos:** Viral + Calor (geral) ou Corrosivo (armadura). Builds de status usam Condition Overload; builds de crítico usam Blood Rush + combo alto.
+**Arcanes:** Melee Influence, Melee Duplicate.
+**Riven:** disposição 0.75 — Riven ajuda pouco.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Sarofang Prime
+
+*Codex:* "O machado assinatura de Voruna Prime é adornado com ouro Orokin; ela mesma garantiu que os antigos donos não precisariam mais dele."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update 42.0.6.
+
 ## 🔗 Relacionados — Sarofang Prime
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

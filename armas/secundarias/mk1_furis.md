@@ -49,6 +49,36 @@ Mk1-Furis é vendida pronta no **Mercado** por **15,000 créditos**.
 | Polaridades | Naramon |
 | Introduzida | Update 14.0 |
 
+## 🛠️ Build — Mk1-Furis
+
+Build de referência gerada pelas estatísticas da arma (perfil **dano bruto (baseline)**: crítico 5% ×2, status 1%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/hornet_strike.md\|Hornet Strike]] |
+| 2 | Galvanized Diffusion (ou a versão comum) |
+| 3 | Galvanized Shot |
+| 4 | Sure Shot |
+| 5 | Pistol Pestilence |
+| 6 | [[mods/armas/deep_freeze.md\|Deep Freeze]] |
+| 7 | [[mods/armas/lethal_torrent.md\|Lethal Torrent]] |
+| 8 | [[mods/armas/augur_pact.md\|Augur Pact]] |
+| Exilus | Hollowed Bullets |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Secondary Encumber, Secondary Merciless.
+**Incarnon:** esta arma tem forma Incarnon (Genesis instalado com o Cavalero ou inata). Ative a forma Incarnon com headshots/acertos e escolha as Evoluções focando o perfil dela.
+**Riven:** disposição 1.4 — ótima base para Riven.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Mk1-Furis
+
+*Codex:* "As Mk1-Furis são as pistolas automáticas padrão de todos os Tenno."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update 14.0.
+
 ## 🔗 Relacionados — Mk1-Furis
 
 - [[armas/secundarias/furis.md|Furis]] — mesma família

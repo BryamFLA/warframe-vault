@@ -54,6 +54,34 @@ Arma robótica que vem **automaticamente** com o Sentinel **Shade Prime**. Ocupa
 | Disposição de Riven | 1,45 |
 | Introduzida | Update 32.3.6 |
 
+## 🛠️ Build — Burst Laser Prime
+
+Build de referência gerada pelas estatísticas da arma (perfil **dano bruto (baseline)**: crítico 20% ×2,3, status 15%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/serration.md\|Serration]] |
+| 2 | Galvanized Chamber (ou a versão comum) |
+| 3 | Galvanized Aptitude |
+| 4 | Hammer Shot |
+| 5 | Malignant Force |
+| 6 | [[mods/armas/cryo_rounds.md\|Cryo Rounds]] |
+| 7 | Primed Shred |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Deadhead.
+**Riven:** disposição 1.45 — ótima base para Riven.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Burst Laser Prime
+
+*Codex:* "A arma assinatura do Shade Prime dispara rajadas de laser."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update 32.3.6.
+
 ## 🔗 Relacionados — Burst Laser Prime
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

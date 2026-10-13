@@ -47,6 +47,25 @@ Forja: **15.000 créditos** + 1 Prime Cerebrum, 1 Prime Carapace, 1 Prime System
 | Energia | 100 |
 | Polaridades | Penjaga, Penjaga, Penjaga, Penjaga |
 
+## 🛠️ Build — Wyrm Prime
+
+Sentinels morrem rápido: priorize sobrevivência (Primed Regen para reviver, mods de escudo/vida e armadura) e os precepts próprios. A arma robótica usa mods de rifle/shotgun comuns.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/companheiros/primed_regen.md\|Primed Regen]] |
+| 2 | [[mods/companheiros/guardian.md\|Guardian]] |
+| 3 | Sacrifice |
+| 4 | Link Shields |
+| 5 | Link Armor |
+| 6 | [[mods/companheiros/primed_animal_instinct.md\|Primed Animal Instinct]] |
+
+> Build de referência (curadoria do agente). Os precepts exclusivos do companheiro vêm equipados de fábrica — mantenha-os.
+
+## 📖 História — Wyrm Prime
+
+*Codex:* "Guarda-costas e símbolo de status, o Sentinel Wyrm Prime era a última linha de defesa dos Tenno de alto escalão na era Orokin."
+
 ## 🔗 Relacionados — Wyrm Prime
 
 - [[mecanicas/forja.md|Forja]]

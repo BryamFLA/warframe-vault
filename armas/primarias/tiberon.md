@@ -76,6 +76,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Tiberon é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Tiberon
+
+Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 26% ×2,4, status 16%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/serration.md\|Serration]] |
+| 2 | Galvanized Chamber (ou a versão comum) |
+| 3 | [[mods/armas/point_strike.md\|Point Strike]] |
+| 4 | [[mods/armas/vital_sense.md\|Vital Sense]] |
+| 5 | Malignant Force |
+| 6 | [[mods/armas/cryo_rounds.md\|Cryo Rounds]] |
+| 7 | Hammer Shot |
+| 8 | Primed Shred |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Deadhead.
+**Riven:** disposição 1.1 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Tiberon
+
+*Codex:* "Forjado por um armeiro mestre, este rifle de rajada Tenno abate alvos com precisão rápida."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update 14.9.
+
 ## 🔗 Relacionados — Tiberon
 
 - [[armas/primarias/tiberon_prime.md|Tiberon Prime]] — mesma família

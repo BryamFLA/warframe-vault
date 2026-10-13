@@ -68,6 +68,34 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Gotva Prime é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Gotva Prime
+
+Build de referência gerada pelas estatísticas da arma (perfil **status**: crítico 23% ×2,5, status 27%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/serration.md\|Serration]] |
+| 2 | Galvanized Chamber (ou a versão comum) |
+| 3 | Galvanized Aptitude |
+| 4 | Hammer Shot |
+| 5 | Malignant Force |
+| 6 | [[mods/armas/high_voltage.md\|High Voltage]] |
+| 7 | Primed Shred |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Deadhead.
+**Riven:** disposição 0.85 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Gotva Prime
+
+*Codex:* "Muito antes do clone-rot, comandantes Grineer de elite protegiam os Orokin sobreviventes dos Warframes rebeldes com estes rifles formidáveis. Ao aplicar status, o próximo tiro do Gotva Prime pode ser um Super Crítico."
+
+**Origem / facção:** Orokin (versão Prime).
+**Introduzida:** Update 33.6.6.
+
 ## 🔗 Relacionados — Gotva Prime
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

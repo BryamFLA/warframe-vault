@@ -43,6 +43,11 @@ O primeiro **Amp**: blueprint dado pelo **Onkko** (Quills, Cetus) por 500 de Sta
 | Recarga (s) | 5,33 |
 | Introduzida | Update 22 |
 
+## 📖 História e Origem — Mote Amp
+
+**Origem / facção:** Sentient.
+**Introduzida:** Update 22.
+
 ## 🔗 Relacionados — Mote Amp
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

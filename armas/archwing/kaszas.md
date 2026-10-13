@@ -57,6 +57,31 @@ Kaszas é uma arma de **Archwing**: o blueprint vem do Mercado, e as peças são
 | Polaridades | Vazarin |
 | Introduzida | Update 17.5 |
 
+## 🛠️ Build — Kaszas
+
+Build de referência gerada pelas estatísticas da arma (perfil **dano bruto (baseline)**: crítico 15% ×2, status 20%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Rubedo-Lined Barrel |
+| 2 | Dual Rounds |
+| 3 | Parallax Scope |
+| 4 | Critical Focus |
+| 5 | Magazine Extension |
+| 6 | Ammo Chain |
+| 7 | Charged Bullets |
+| 8 | Combustion Rounds |
+
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Kaszas
+
+*Codex:* "Torne-se um anjo da morte com esta foice de Archwing."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update 17.5.
+
 ## 🔗 Relacionados — Kaszas
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

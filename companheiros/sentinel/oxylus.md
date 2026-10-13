@@ -38,6 +38,25 @@ Blueprint comprado do **The Business** (Fortuna) por **20.000 de Standing** no *
 | Energia | 100 |
 | Polaridades | Penjaga, Penjaga, Penjaga, Vazarin, Penjaga |
 
+## 🛠️ Build — Oxylus
+
+Sentinels morrem rápido: priorize sobrevivência (Primed Regen para reviver, mods de escudo/vida e armadura) e os precepts próprios. A arma robótica usa mods de rifle/shotgun comuns.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/companheiros/primed_regen.md\|Primed Regen]] |
+| 2 | [[mods/companheiros/guardian.md\|Guardian]] |
+| 3 | Sacrifice |
+| 4 | Link Shields |
+| 5 | Link Armor |
+| 6 | [[mods/companheiros/primed_animal_instinct.md\|Primed Animal Instinct]] |
+
+> Build de referência (curadoria do agente). Os precepts exclusivos do companheiro vêm equipados de fábrica — mantenha-os.
+
+## 📖 História — Oxylus
+
+*Codex:* "Com 'Scan Aquatic Lifeforms' e 'Scan Matter' como precepts padrão, o Oxylus foi feito para busca e resgate no terreno hostil do Orb Vallis."
+
 ## 🔗 Relacionados — Oxylus
 
 - [[mecanicas/forja.md|Forja]]

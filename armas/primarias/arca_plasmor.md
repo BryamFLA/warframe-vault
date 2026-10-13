@@ -74,6 +74,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Arca Plasmor é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Arca Plasmor
+
+Build de referência gerada pelas estatísticas da arma (perfil **status**: crítico 22% ×1,6, status 28%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Primed Point Blank |
+| 2 | Galvanized Hell (ou a versão comum) |
+| 3 | Galvanized Savvy |
+| 4 | Shotgun Savvy |
+| 5 | Toxic Barrage |
+| 6 | Shell Shock |
+| 7 | Shotgun Barrage |
+| 8 | Seeking Fury |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Deadhead.
+**Riven:** disposição 0.95 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Arca Plasmor
+
+*Codex:* "Desequilibre alvos com esta shotgun de plasma Corpus; inimigos sobreviventes são consumidos por radiação."
+
+**Origem / facção:** Corpus.
+**Introduzida:** Update 21.7.
+
 ## 🔗 Relacionados — Arca Plasmor
 
 - [[armas/primarias/tenet_arca_plasmor.md|Tenet Arca Plasmor]] — mesma família

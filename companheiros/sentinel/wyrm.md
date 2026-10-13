@@ -38,6 +38,25 @@ Blueprint no **Mercado**. Exige **2 slots de companheiro** livres (o Sentinel e 
 | Energia | 100 |
 | Polaridades | Penjaga, Penjaga, Penjaga, Penjaga |
 
+## 🛠️ Build — Wyrm
+
+Sentinels morrem rápido: priorize sobrevivência (Primed Regen para reviver, mods de escudo/vida e armadura) e os precepts próprios. A arma robótica usa mods de rifle/shotgun comuns.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/companheiros/primed_regen.md\|Primed Regen]] |
+| 2 | [[mods/companheiros/guardian.md\|Guardian]] |
+| 3 | Sacrifice |
+| 4 | Link Shields |
+| 5 | Link Armor |
+| 6 | [[mods/companheiros/primed_animal_instinct.md\|Primed Animal Instinct]] |
+
+> Build de referência (curadoria do agente). Os precepts exclusivos do companheiro vêm equipados de fábrica — mantenha-os.
+
+## 📖 História — Wyrm
+
+*Codex:* "Com 'Assault Mode' e 'Crowd Dispersion' como precepts padrão, o Wyrm é um Sentinel ofensivo; vem com um rifle laser."
+
 ## 🔗 Relacionados — Wyrm
 
 - [[mecanicas/forja.md|Forja]]

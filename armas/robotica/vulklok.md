@@ -46,6 +46,35 @@ Arma robótica que vem **automaticamente** com o Sentinel **Diriga**. Ocupa 1 sl
 | Disposição de Riven | 1,245 |
 | Introduzida | Update 17.3 |
 
+## 🛠️ Build — Vulklok
+
+Build de referência gerada pelas estatísticas da arma (perfil **híbrida**: crítico 35% ×2,5, status 25%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/serration.md\|Serration]] |
+| 2 | Galvanized Chamber (ou a versão comum) |
+| 3 | [[mods/armas/point_strike.md\|Point Strike]] |
+| 4 | [[mods/armas/vital_sense.md\|Vital Sense]] |
+| 5 | Malignant Force |
+| 6 | [[mods/armas/cryo_rounds.md\|Cryo Rounds]] |
+| 7 | Hammer Shot |
+| 8 | Primed Shred |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Deadhead, Primary Merciless.
+**Riven:** disposição 1.245 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Vulklok
+
+*Codex:* "Rifle sniper padrão do Diriga."
+
+**Origem / facção:** Grineer.
+**Introduzida:** Update 17.3.
+
 ## 🔗 Relacionados — Vulklok
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

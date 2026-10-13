@@ -72,6 +72,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Skana é popular (top 15%) entre os armas melee, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Skana
+
+Build de referência gerada pelas estatísticas da arma (perfil **dano bruto (baseline)**: crítico 5% ×1,5, status 16%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/primed_pressure_point.md\|Primed Pressure Point]] |
+| 2 | Primed Reach |
+| 3 | [[mods/armas/condition_overload.md\|Condition Overload]] |
+| 4 | [[mods/armas/weeping_wounds.md\|Weeping Wounds]] |
+| 5 | Primed Fury |
+| 6 | [[mods/armas/berserker_fury.md\|Berserker Fury]] |
+| 7 | Virulent Scourge |
+| 8 | [[mods/armas/primed_fever_strike.md\|Primed Fever Strike]] |
+
+**Elementos:** Viral + Calor (geral) ou Corrosivo (armadura). Builds de status usam Condition Overload; builds de crítico usam Blood Rush + combo alto.
+**Arcanes:** Melee Influence, Melee Duplicate.
+**Incarnon:** esta arma tem forma Incarnon (Genesis instalado com o Cavalero ou inata). Ative a forma Incarnon com headshots/acertos e escolha as Evoluções focando o perfil dela.
+**Riven:** disposição 1.3 — ótima base para Riven.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Skana
+
+*Codex:* "Antes de qualquer outra arma, os Tenno dominam a Skana. Simples, ela se torna imensamente poderosa nas mãos de um mestre: é a base do estilo de luta e um pilar da cultura Tenno."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update Vanilla.
+
 ## 🔗 Relacionados — Skana
 
 - [[armas/brancas/prisma_skana.md|Prisma Skana]] — mesma família

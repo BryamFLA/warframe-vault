@@ -65,6 +65,32 @@ Arma de Archwing. Blueprint no **Mercado**; peças compradas de **Sindicatos**, 
 | Polaridades | Madurai |
 | Introduzida | Update 17.5 |
 
+## 🛠️ Build — Phaedra
+
+Build de referência gerada pelas estatísticas da arma (perfil **status**: crítico 14% ×2, status 30%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Rubedo-Lined Barrel |
+| 2 | Dual Rounds |
+| 3 | Parallax Scope |
+| 4 | Critical Focus |
+| 5 | Magazine Extension |
+| 6 | Ammo Chain |
+| 7 | Charged Bullets |
+| 8 | Combustion Rounds |
+
+**Riven:** disposição 1.25 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Phaedra
+
+*Codex:* "Devaste inimigos no espaço com a Phaedra, a irmã mais velha da Soma."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update 17.5.
+
 ## 🔗 Relacionados — Phaedra
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

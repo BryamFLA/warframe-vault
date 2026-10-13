@@ -76,6 +76,32 @@ Blueprint principal nas **bounties do Sanctum Anatomica** (raro). Peças nas rot
 | Polaridades | Madurai |
 | Introduzida | Update 35 |
 
+## 🛠️ Build — Mandonel
+
+Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 25% ×2, status 15%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Rubedo-Lined Barrel |
+| 2 | Dual Rounds |
+| 3 | Parallax Scope |
+| 4 | Critical Focus |
+| 5 | Magazine Extension |
+| 6 | Ammo Chain |
+| 7 | Charged Bullets |
+| 8 | Combustion Rounds |
+
+**Riven:** disposição 1.1 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Mandonel
+
+*Codex:* "O Mandonel dispara projéteis de Radiação: tiros parcialmente carregados se espalham e os totalmente carregados soltam um feixe que vira campo de radiação; projéteis que passam pelo campo ficam mais fortes."
+
+**Origem / facção:** Entrati (Deimos).
+**Introduzida:** Update 35.
+
 ## 🔗 Relacionados — Mandonel
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

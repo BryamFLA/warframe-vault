@@ -52,6 +52,34 @@ Obtida ao forjar o **Hunhow's Trinket**, comprado do **Hunhow** na **Pontis Towe
 | Polaridades | Naramon |
 | Introduzida | Update 43.0 |
 
+## 🛠️ Build — War Prime
+
+Build de referência gerada pelas estatísticas da arma (perfil **híbrida**: crítico 26% ×3,2, status 32%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/primed_pressure_point.md\|Primed Pressure Point]] |
+| 2 | Primed Reach |
+| 3 | [[mods/armas/blood_rush.md\|Blood Rush]] |
+| 4 | [[mods/armas/organ_shatter.md\|Organ Shatter]] |
+| 5 | Gladiator Might |
+| 6 | [[mods/armas/berserker_fury.md\|Berserker Fury]] |
+| 7 | Virulent Scourge |
+| 8 | [[mods/armas/primed_fever_strike.md\|Primed Fever Strike]] |
+
+**Elementos:** Viral + Calor (geral) ou Corrosivo (armadura). Builds de status usam Condition Overload; builds de crítico usam Blood Rush + combo alto.
+**Arcanes:** Melee Influence, Melee Duplicate.
+**Riven:** disposição 0.65 — Riven ajuda pouco.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — War Prime
+
+*Codex:* "A lâmina do destruidor de mundos atinge sua apoteose, cortando o próprio conflito. Ao forjá-la, você levou sonhos não realizados à conclusão final."
+
+**Origem / facção:** Sentient, Orokin (versão Prime).
+**Introduzida:** Update 43.0.
+
 ## 🔗 Relacionados — War Prime
 
 - [[armas/brancas/war.md|War]] — mesma família

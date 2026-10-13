@@ -71,6 +71,34 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Praedos é muito popular (top 5%) entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Praedos
+
+Build de referência gerada pelas estatísticas da arma (perfil **dano bruto (baseline)**: crítico 20% ×2, status 20%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/primed_pressure_point.md\|Primed Pressure Point]] |
+| 2 | Primed Reach |
+| 3 | [[mods/armas/condition_overload.md\|Condition Overload]] |
+| 4 | [[mods/armas/weeping_wounds.md\|Weeping Wounds]] |
+| 5 | Primed Fury |
+| 6 | [[mods/armas/berserker_fury.md\|Berserker Fury]] |
+| 7 | Virulent Scourge |
+| 8 | [[mods/armas/primed_fever_strike.md\|Primed Fever Strike]] |
+
+**Elementos:** Viral + Calor (geral) ou Corrosivo (armadura). Builds de status usam Condition Overload; builds de crítico usam Blood Rush + combo alto.
+**Arcanes:** Melee Influence, Melee Duplicate.
+**Riven:** disposição 0.6 — Riven ajuda pouco.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Praedos
+
+*Codex:* "A elite Orokin admirava os camponeses das regiões conquistadas, que aprenderam a lutar com ferramentas agrícolas modificadas apesar de proibidos de ter armas. Para a viagem, o Zariman recebeu a Praedos em reconhecimento à tenacidade da tripulação; o Void reforça a força do indivíduo determinado."
+
+**Origem / facção:** Zariman (Void).
+**Introduzida:** Update 31.5.
+
 ## 🔗 Relacionados — Praedos
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

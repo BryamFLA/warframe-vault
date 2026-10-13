@@ -57,6 +57,31 @@ Onorix é uma arma de **Archwing**: o blueprint vem do Mercado, e as peças são
 | Polaridades | Madurai |
 | Introduzida | Update 15.0 |
 
+## 🛠️ Build — Onorix
+
+Build de referência gerada pelas estatísticas da arma (perfil **dano bruto (baseline)**: crítico 15% ×1,3, status 5%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Rubedo-Lined Barrel |
+| 2 | Dual Rounds |
+| 3 | Parallax Scope |
+| 4 | Critical Focus |
+| 5 | Magazine Extension |
+| 6 | Ammo Chain |
+| 7 | Charged Bullets |
+| 8 | Combustion Rounds |
+
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Onorix
+
+*Codex:* "Este machado de batalha de lâmina laser atravessa facilmente as defesas de uma nave e as forças que a protegem."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update 15.0.
+
 ## 🔗 Relacionados — Onorix
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

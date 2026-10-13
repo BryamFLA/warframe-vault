@@ -51,6 +51,35 @@ Arma robótica que vem **automaticamente** com o Sentinel **Helios Prime**. Ocup
 | Disposição de Riven | 1,25 |
 | Introduzida | Update 19.11.5 |
 
+## 🛠️ Build — Deconstructor Prime
+
+Build de referência gerada pelas estatísticas da arma (perfil **status**: crítico 0% ×1, status 25%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/serration.md\|Serration]] |
+| 2 | Galvanized Chamber (ou a versão comum) |
+| 3 | Galvanized Aptitude |
+| 4 | Hammer Shot |
+| 5 | Malignant Force |
+| 6 | [[mods/armas/high_voltage.md\|High Voltage]] |
+| 7 | Primed Shred |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Deadhead.
+**Riven:** disposição 1.25 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Deconstructor Prime
+
+*Codex:* "Permite ao Helios Prime se desmontar violentamente e virar um projétil mortal."
+
+**Origem / facção:** Orokin (versão Prime).
+**Introduzida:** Update 19.11.5.
+**Status:** Prime **vaultada** — as Relíquias não caem mais (só Prime Resurgence ou troca).
+
 ## 🔗 Relacionados — Deconstructor Prime
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

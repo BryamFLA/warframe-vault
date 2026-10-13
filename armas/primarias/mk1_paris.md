@@ -49,6 +49,36 @@ Mk1-Paris é vendida pronta no **Mercado** por **15,000 créditos**.
 | Polaridades | Naramon |
 | Introduzida | Update 14.0 |
 
+## 🛠️ Build — Mk1-Paris
+
+Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 30% ×2, status 15%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/serration.md\|Serration]] |
+| 2 | Galvanized Chamber (ou a versão comum) |
+| 3 | [[mods/armas/point_strike.md\|Point Strike]] |
+| 4 | [[mods/armas/vital_sense.md\|Vital Sense]] |
+| 5 | Malignant Force |
+| 6 | [[mods/armas/cryo_rounds.md\|Cryo Rounds]] |
+| 7 | Hammer Shot |
+| 8 | Primed Shred |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Deadhead.
+**Incarnon:** esta arma tem forma Incarnon (Genesis instalado com o Cavalero ou inata). Ative a forma Incarnon com headshots/acertos e escolha as Evoluções focando o perfil dela.
+**Riven:** disposição 1.45 — ótima base para Riven.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Mk1-Paris
+
+*Codex:* "O Mk1-Paris é o arco padrão de todos os Tenno."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update 14.0.
+
 ## 🔗 Relacionados — Mk1-Paris
 
 - [[armas/primarias/paris.md|Paris]] — mesma família

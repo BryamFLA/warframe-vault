@@ -31,6 +31,21 @@ As peças de Hound (Model, Core, Bracket e Stabilizer) vêm de **derrotar (vanqu
 | Atributo | Valor |
 |---|---|
 
+## 🛠️ Build — Hec Hound
+
+Hounds são companheiros robóticos montados com peças das Sisters of Parvos; o Model define a arma e o precept exclusivo.
+
+| # | Mod |
+|---|---|
+| 1 | Link Health |
+| 2 | Link Armor |
+| 3 | Link Shields |
+| 4 | [[mods/companheiros/primed_animal_instinct.md\|Primed Animal Instinct]] |
+| 5 | Mecha Empowered |
+| 6 | Mecha Overdrive |
+
+> Build de referência (curadoria do agente). Os precepts exclusivos do companheiro vêm equipados de fábrica — mantenha-os.
+
 ## 🔗 Relacionados — Hec Hound
 
 - [[mecanicas/forja.md|Forja]]

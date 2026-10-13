@@ -60,6 +60,32 @@ Cyngas é uma arma de **Archwing**: o blueprint vem do Mercado, e as peças são
 | Disposição de Riven | 1,3 |
 | Introduzida | Update Specters of the Rail 0.0 |
 
+## 🛠️ Build — Cyngas
+
+Build de referência gerada pelas estatísticas da arma (perfil **status**: crítico 20% ×2,2, status 30%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Rubedo-Lined Barrel |
+| 2 | Dual Rounds |
+| 3 | Parallax Scope |
+| 4 | Critical Focus |
+| 5 | Magazine Extension |
+| 6 | Ammo Chain |
+| 7 | Charged Bullets |
+| 8 | Combustion Rounds |
+
+**Riven:** disposição 1.3 — ótima base para Riven.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Cyngas
+
+*Codex:* "Descarregue rajadas de caos mortalmente precisas."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update Specters of the Rail 0.0.
+
 ## 🔗 Relacionados — Cyngas
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

@@ -78,6 +78,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Ankyros Prime é raramente usado entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Ankyros Prime
+
+Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 28% ×2,4, status 16%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/primed_pressure_point.md\|Primed Pressure Point]] |
+| 2 | Primed Reach |
+| 3 | [[mods/armas/blood_rush.md\|Blood Rush]] |
+| 4 | [[mods/armas/organ_shatter.md\|Organ Shatter]] |
+| 5 | Gladiator Might |
+| 6 | [[mods/armas/berserker_fury.md\|Berserker Fury]] |
+| 7 | [[mods/armas/primed_fever_strike.md\|Primed Fever Strike]] |
+| 8 | Vicious Frost |
+
+**Elementos:** Viral + Calor (geral) ou Corrosivo (armadura). Builds de status usam Condition Overload; builds de crítico usam Blood Rush + combo alto.
+**Arcanes:** Melee Exposure, Melee Influence.
+**Riven:** disposição 1.45 — ótima base para Riven.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Ankyros Prime
+
+*Codex:* "Esta variação Orokin dos Ankyros supera seu sucessor em tudo."
+
+**Origem / facção:** Orokin (versão Prime).
+**Introduzida:** Update 12.4.
+**Status:** Prime **vaultada** — as Relíquias não caem mais (só Prime Resurgence ou troca).
+
 ## 🔗 Relacionados — Ankyros Prime
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

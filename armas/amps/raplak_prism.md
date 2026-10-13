@@ -44,6 +44,11 @@ Peça de **Amp** comprada dos **Quills** (Onkko, Cetus) no **Rank 1**. Monte o A
 | Recarga (s) | 5,33 |
 | Introduzida | Update 22 |
 
+## 📖 História e Origem — Raplak Prism
+
+**Origem / facção:** Sentient.
+**Introduzida:** Update 22.
+
 ## 🔗 Relacionados — Raplak Prism
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

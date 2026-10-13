@@ -48,6 +48,32 @@ Kuva Grattler é uma **arma Kuva**: só se obtém **derrotando (vanquish) um Kuv
 | Polaridades | Madurai, Madurai, Madurai |
 | Introduzida | Update 30.5 |
 
+## 🛠️ Build — Kuva Grattler
+
+Build de referência gerada pelas estatísticas da arma (perfil **híbrida**: crítico 27% ×2,1, status 27%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Rubedo-Lined Barrel |
+| 2 | Dual Rounds |
+| 3 | Parallax Scope |
+| 4 | Critical Focus |
+| 5 | Magazine Extension |
+| 6 | Ammo Chain |
+| 7 | Charged Bullets |
+| 8 | Combustion Rounds |
+
+**Riven:** disposição 0.7 — Riven ajuda pouco.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Kuva Grattler
+
+*Codex:* "Reconfigurado para letalidade máxima, este poderoso Archgun ainda estilhaça alvos com projéteis explosivos, mas atinge a cadência máxima instantaneamente."
+
+**Origem / facção:** Grineer, Kuva — criada pelos Kuva Liches.
+**Introduzida:** Update 30.5.
+
 ## 🔗 Relacionados — Kuva Grattler
 
 - [[armas/archwing/grattler.md|Grattler]] — mesma família

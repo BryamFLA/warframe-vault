@@ -61,6 +61,32 @@ Arma de Necramech. Blueprint principal no Rank 3 do **Necraloid** (recompensa de
 | Polaridades | Madurai |
 | Introduzida | Update 29.5 |
 
+## 🛠️ Build — Morgha
+
+Build de referência gerada pelas estatísticas da arma (perfil **híbrida**: crítico 30% ×2,2, status 28%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Rubedo-Lined Barrel |
+| 2 | Dual Rounds |
+| 3 | Parallax Scope |
+| 4 | Critical Focus |
+| 5 | Magazine Extension |
+| 6 | Ammo Chain |
+| 7 | Charged Bullets |
+| 8 | Combustion Rounds |
+
+**Riven:** disposição 1 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Morgha
+
+*Codex:* "Atravessa inimigos com um tiro duplo de balas energizadas que drenam a essência vital deles para o morteiro aéreo do tiro secundário. Arma antiga Entrati feita para Necramechs, também usada como Archgun."
+
+**Origem / facção:** Entrati (Deimos).
+**Introduzida:** Update 29.5.
+
 ## 🔗 Relacionados — Morgha
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

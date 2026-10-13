@@ -81,6 +81,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Phantasma Prime é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Phantasma Prime
+
+Build de referência gerada pelas estatísticas da arma (perfil **dano bruto (baseline)**: crítico 11% ×1,9, status 22%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | Primed Point Blank |
+| 2 | Galvanized Hell (ou a versão comum) |
+| 3 | Galvanized Savvy |
+| 4 | Shotgun Savvy |
+| 5 | Toxic Barrage |
+| 6 | Frigid Blast |
+| 7 | Shotgun Barrage |
+| 8 | Seeking Fury |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Deadhead.
+**Riven:** disposição 0.8 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Phantasma Prime
+
+*Codex:* "A Phantasma Prime é polida com força letal; nas mãos de Revenant tem pente maior, e o plasma irradiado lembra o temível Eidolon."
+
+**Origem / facção:** Orokin (versão Prime), Sentient.
+**Introduzida:** Update 32.0.9.
+
 ## 🔗 Relacionados — Phantasma Prime
 
 - [[armas/primarias/phantasma.md|Phantasma]] — mesma família

@@ -63,6 +63,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Dual Coda Torxica é popular (top 15%) entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Dual Coda Torxica
+
+Build de referência gerada pelas estatísticas da arma (perfil **híbrida**: crítico 25% ×2,4, status 28%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/hornet_strike.md\|Hornet Strike]] |
+| 2 | Galvanized Diffusion (ou a versão comum) |
+| 3 | [[mods/armas/primed_pistol_gambit.md\|Primed Pistol Gambit]] |
+| 4 | [[mods/armas/primed_target_cracker.md\|Primed Target Cracker]] |
+| 5 | Pistol Pestilence |
+| 6 | [[mods/armas/deep_freeze.md\|Deep Freeze]] |
+| 7 | [[mods/armas/lethal_torrent.md\|Lethal Torrent]] |
+| 8 | [[mods/armas/augur_pact.md\|Augur Pact]] |
+| Exilus | Hollowed Bullets |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Secondary Encumber, Secondary Merciless.
+**Riven:** disposição 0.55 — Riven ajuda pouco.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Dual Coda Torxica
+
+*Codex:* "Duas ferramentas de terror que lançam esporos: o esporo se espalha aos próximos quando o inimigo morre, causando status de Frio e vulnerabilidade a dano, principalmente da Torxica."
+
+**Origem / facção:** Infested, Coda — infectada pelo vírus Technocyte (Höllvania, 1999).
+**Introduzida:** Update 38.5.
+
 ## 🔗 Relacionados — Dual Coda Torxica
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

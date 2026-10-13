@@ -109,6 +109,13 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Alternox é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 📖 História e Origem — Alternox
+
+*Codex:* "A arma assinatura de Gyre tem dois modos: o primário dispara orbes elétricos; o alternativo, uma grande bola de eletricidade que gruda e pulsa antes de explodir. Com Gyre, ganha um pouco de multishot."
+
+**Origem / facção:** Tenno.
+**Introduzida:** Update 31.5.
+
 ## 🔗 Relacionados — Alternox
 
 - [[warframes/regular/gyre.md|Gyre]] — dona da arma

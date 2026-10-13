@@ -81,6 +81,34 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** EFV-5 Jupiter é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — EFV-5 Jupiter
+
+Build de referência gerada pelas estatísticas da arma (perfil **status**: crítico 21% ×2,3, status 25%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/serration.md\|Serration]] |
+| 2 | Galvanized Chamber (ou a versão comum) |
+| 3 | Galvanized Aptitude |
+| 4 | Hammer Shot |
+| 5 | Malignant Force |
+| 6 | [[mods/armas/high_voltage.md\|High Voltage]] |
+| 7 | Primed Shred |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Deadhead.
+**Riven:** disposição 1.05 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — EFV-5 Jupiter
+
+*Codex:* "Perfure Techrot e quem estiver no caminho com esta metralhadora Scaldra; o tiro alternativo castiga com chumbo misturado a Efervon."
+
+**Origem / facção:** Scaldra (Höllvania, 1999).
+**Introduzida:** Update 38.5.
+
 ## 🔗 Relacionados — EFV-5 Jupiter
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

@@ -38,6 +38,25 @@ Blueprint no **Mercado**. Exige **2 slots de companheiro** livres (o Sentinel e 
 | Energia | 100 |
 | Polaridades | Penjaga, Penjaga, Penjaga, Penjaga |
 
+## 🛠️ Build — Diriga
+
+Sentinels morrem rápido: priorize sobrevivência (Primed Regen para reviver, mods de escudo/vida e armadura) e os precepts próprios. A arma robótica usa mods de rifle/shotgun comuns.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/companheiros/primed_regen.md\|Primed Regen]] |
+| 2 | [[mods/companheiros/guardian.md\|Guardian]] |
+| 3 | Sacrifice |
+| 4 | Link Shields |
+| 5 | Link Armor |
+| 6 | [[mods/companheiros/primed_animal_instinct.md\|Primed Animal Instinct]] |
+
+> Build de referência (curadoria do agente). Os precepts exclusivos do companheiro vêm equipados de fábrica — mantenha-os.
+
+## 📖 História — Diriga
+
+*Codex:* "O Diriga eletrocuta inimigos próximos e abate ameaças distantes com o rifle sniper Vulklok e os precepts Calculated Shot, Arc Coil e Electro Pulse."
+
 ## 🔗 Relacionados — Diriga
 
 - [[mecanicas/forja.md|Forja]]

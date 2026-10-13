@@ -62,6 +62,35 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Tenet Plinx é uso médio (top 40%) entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Tenet Plinx
+
+Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 44% ×3, status 12%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/hornet_strike.md\|Hornet Strike]] |
+| 2 | Galvanized Diffusion (ou a versão comum) |
+| 3 | [[mods/armas/primed_pistol_gambit.md\|Primed Pistol Gambit]] |
+| 4 | [[mods/armas/primed_target_cracker.md\|Primed Target Cracker]] |
+| 5 | Pistol Pestilence |
+| 6 | [[mods/armas/deep_freeze.md\|Deep Freeze]] |
+| 7 | [[mods/armas/lethal_torrent.md\|Lethal Torrent]] |
+| 8 | [[mods/armas/augur_pact.md\|Augur Pact]] |
+| Exilus | Hollowed Bullets |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Secondary Encumber, Secondary Merciless.
+**Riven:** disposição 0.8 — Riven ajuda moderadamente.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Tenet Plinx
+
+*Codex:* "O tiro alternativo deste Plinx reprojetado lança um projétil que puxa inimigos e explode; a recarga aumenta depois da explosão por causa da bateria."
+
+**Origem / facção:** Corpus, Tenet — das Sisters of Parvos (Corpus).
+**Introduzida:** Update 32.2.
+
 ## 🔗 Relacionados — Tenet Plinx
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

@@ -46,6 +46,35 @@ Brinde da **TennoCon 2026** (Twitch Drop, 11/07/2026), com slot e Catalyst.
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 43.0.7 |
 
+## 🛠️ Build — Haalvu
+
+Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 25% ×2,5, status 19%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/serration.md\|Serration]] |
+| 2 | Galvanized Chamber (ou a versão comum) |
+| 3 | [[mods/armas/point_strike.md\|Point Strike]] |
+| 4 | [[mods/armas/vital_sense.md\|Vital Sense]] |
+| 5 | Malignant Force |
+| 6 | [[mods/armas/cryo_rounds.md\|Cryo Rounds]] |
+| 7 | Hammer Shot |
+| 8 | Primed Shred |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Deadhead.
+**Riven:** disposição 0.6 — Riven ajuda pouco.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Haalvu
+
+*Codex:* "Uma barragem implacável de artilharia Sentient. O alt-fire divide a arma em 8 rifles que rastreiam até 4 alvos, gastando mais munição."
+
+**Origem / facção:** Sentient.
+**Introduzida:** Update 43.0.7.
+
 ## 🔗 Relacionados — Haalvu
 
 - [[mecanicas/forja.md|Forja]] — como funciona a Foundry

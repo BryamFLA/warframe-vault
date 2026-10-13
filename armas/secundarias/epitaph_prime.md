@@ -81,6 +81,34 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 **Leitura:** Epitaph Prime é muito popular (top 5%) entre os armas secundárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
+## 🛠️ Build — Epitaph Prime
+
+Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 50% ×3, status 14%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/hornet_strike.md\|Hornet Strike]] |
+| 2 | Galvanized Diffusion (ou a versão comum) |
+| 3 | [[mods/armas/primed_pistol_gambit.md\|Primed Pistol Gambit]] |
+| 4 | [[mods/armas/primed_target_cracker.md\|Primed Target Cracker]] |
+| 5 | Pistol Pestilence |
+| 6 | [[mods/armas/deep_freeze.md\|Deep Freeze]] |
+| 7 | [[mods/armas/lethal_torrent.md\|Lethal Torrent]] |
+| 8 | [[mods/armas/augur_pact.md\|Augur Pact]] |
+| Exilus | Hollowed Bullets |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Secondary Encumber, Secondary Merciless.
+**Riven:** disposição 0.55 — Riven ajuda pouco.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Epitaph Prime
+
+*Codex:* "Arrepie a espinha dos inimigos com esta arma de pulso; como arma assinatura de Sevagoth Prime, causa dano extra em headshots nas mãos dele."
+
+**Introduzida:** Update 36.1.
+
 ## 🔗 Relacionados — Epitaph Prime
 
 - [[armas/secundarias/epitaph.md|Epitaph]] — mesma família
