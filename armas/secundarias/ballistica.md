@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "118/153"
+uso_2025_pct: 0.116
 ---
 
 # Ballistica
@@ -64,6 +66,19 @@ O blueprint de Ballistica é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 1,25 |
 | Polaridades | Vazarin |
 | Introduzida | Update 10.4 |
+
+## ⭐ Avaliação Popular — Ballistica
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,12%** do tempo equipado |
+| Posição em 2025 | **#118 de 153** armas secundárias — raramente usado |
+| Posição em 2024 | #120 de 148 (0,12%) → subiu 2 posições |
+| Uso por faixa de MR | MR 0–10: 0,30% · MR 11–20: 0,19% · MR 21–30: 0,025% · Legendary: 0,002% |
+
+**Leitura:** Ballistica é raramente usado entre os armas secundárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Ballistica
 

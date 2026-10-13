@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "151/153"
+uso_2025_pct: 0.025
 ---
 
 # Detron
@@ -62,6 +64,19 @@ Blueprint e componentes: drop do **Zanuka Hunter** (pode ser invocado com o Zanu
 | Recarga (s) | 1,05 |
 | Disposição de Riven | 1,15 |
 | Introduzida | Update 11.5.5 |
+
+## ⭐ Avaliação Popular — Detron
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,025%** do tempo equipado |
+| Posição em 2025 | **#151 de 153** armas secundárias — raramente usado |
+| Posição em 2024 | #142 de 148 (0,032%) → caiu 9 posições |
+| Uso por faixa de MR | MR 0–10: 0,008% · MR 11–20: 0,024% · MR 21–30: 0,037% · Legendary: 0,014% |
+
+**Leitura:** Detron é raramente usado entre os armas secundárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Detron
 

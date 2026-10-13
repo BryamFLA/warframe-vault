@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "84/233"
+uso_2025_pct: 0.273
 ---
 
 # Dual Heat Swords
@@ -57,6 +59,19 @@ O blueprint de Dual Heat Sword é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 1,44 |
 | Polaridades | Naramon |
 | Introduzida | Update 6.2 |
+
+## ⭐ Avaliação Popular — Dual Heat Swords
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,27%** do tempo equipado |
+| Posição em 2025 | **#84 de 233** armas melee — uso médio (top 40%) |
+| Posição em 2024 | #81 de 220 (0,26%) → caiu 3 posições |
+| Uso por faixa de MR | MR 0–10: 0,92% · MR 11–20: 0,17% · MR 21–30: 0,052% · Legendary: 0,020% |
+
+**Leitura:** Dual Heat Swords é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Dual Heat Swords
 

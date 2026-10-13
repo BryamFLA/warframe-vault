@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "18/113"
+uso_2025_pct: 1.604
 ---
 
 # Rhino Prime
@@ -76,6 +78,19 @@ Como conseguir a Warframe Rhino Prime:
 | 4 | **Rhino Stomp** | 100 | Rhino stomps with force sufficient to disrupt time, tumbling enemies around him in stasis. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
+
+## ⭐ Avaliação Popular — Rhino Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,60%** do tempo equipado |
+| Posição em 2025 | **#18 de 113** Warframes — uso médio (top 40%) |
+| Posição em 2024 | #17 de 106 (1,75%) → caiu 1 posições |
+| Uso por faixa de MR | MR 0–10: 0,45% · MR 11–20: 1,80% · MR 21–30: 1,94% · Legendary: 1,63% |
+
+**Leitura:** Rhino Prime é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Rhino Prime
 

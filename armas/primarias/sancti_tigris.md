@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "167/195"
+uso_2025_pct: 0.054
 ---
 
 # Sancti Tigris
@@ -48,6 +50,19 @@ Sancti Tigris é uma **arma de Sindicato**: compre do **New Loka** com **125,000
 | Disposição de Riven | 1 |
 | Polaridades | Vazarin, Naramon, Madurai |
 | Introduzida | Update 17.3 |
+
+## ⭐ Avaliação Popular — Sancti Tigris
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,054%** do tempo equipado |
+| Posição em 2025 | **#167 de 195** armas primárias — raramente usado |
+| Posição em 2024 | #156 de 183 (0,062%) → caiu 11 posições |
+| Uso por faixa de MR | MR 0–10: 0,001% · MR 11–20: 0,066% · MR 21–30: 0,073% · Legendary: 0,042% |
+
+**Leitura:** Sancti Tigris é raramente usado entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Sancti Tigris
 

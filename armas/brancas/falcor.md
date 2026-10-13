@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "38/233"
+uso_2025_pct: 0.668
 ---
 
 # Falcor
@@ -57,6 +59,19 @@ O blueprint de Falcor é pesquisado no **Energy Lab** do **Dojo do clã** (depoi
 | Follow-through | 0,7 |
 | Disposição de Riven | 1,3 |
 | Introduzida | Update 23.10 |
+
+## ⭐ Avaliação Popular — Falcor
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,67%** do tempo equipado |
+| Posição em 2025 | **#38 de 233** armas melee — uso médio (top 40%) |
+| Posição em 2024 | #60 de 220 (0,39%) → subiu 22 posições |
+| Uso por faixa de MR | MR 0–10: 0,11% · MR 11–20: 0,66% · MR 21–30: 0,89% · Legendary: 0,89% |
+
+**Leitura:** Falcor é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Falcor
 

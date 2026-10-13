@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "15/153"
+uso_2025_pct: 1.356
 ---
 
 # Epitaph
@@ -73,6 +75,19 @@ Blueprint e componentes em missões **Void Storm** de Railjack na Earth Proxima,
 | Disposição de Riven | 0,6 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 30 |
+
+## ⭐ Avaliação Popular — Epitaph
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,36%** do tempo equipado |
+| Posição em 2025 | **#15 de 153** armas secundárias — popular (top 15%) |
+| Posição em 2024 | #4 de 148 (4,88%) → caiu 11 posições |
+| Uso por faixa de MR | MR 0–10: 0,40% · MR 11–20: 1,96% · MR 21–30: 1,28% · Legendary: 0,58% |
+
+**Leitura:** Epitaph é popular (top 15%) entre os armas secundárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Epitaph
 

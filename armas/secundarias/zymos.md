@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "126/153"
+uso_2025_pct: 0.105
 ---
 
 # Zymos
@@ -63,6 +65,19 @@ Comprada do **Father** (Entrati) no Rank 1: principal por 2.000 e componentes po
 | Disposição de Riven | 1,2 |
 | Polaridades | Madurai, Naramon |
 | Introduzida | Update 29 |
+
+## ⭐ Avaliação Popular — Zymos
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,11%** do tempo equipado |
+| Posição em 2025 | **#126 de 153** armas secundárias — raramente usado |
+| Posição em 2024 | #116 de 148 (0,13%) → caiu 10 posições |
+| Uso por faixa de MR | MR 0–10: 0,017% · MR 11–20: 0,073% · MR 21–30: 0,15% · Legendary: 0,17% |
+
+**Leitura:** Zymos é raramente usado entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Zymos
 

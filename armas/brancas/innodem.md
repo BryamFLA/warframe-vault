@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "22/233"
+uso_2025_pct: 0.985
 ---
 
 # Innodem
@@ -55,6 +57,19 @@ Blueprint principal comprado do **Cavalero** (The Holdfasts) no Rank 1 por **5.5
 | Disposição de Riven | 0,65 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 31.6 |
+
+## ⭐ Avaliação Popular — Innodem
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,99%** do tempo equipado |
+| Posição em 2025 | **#22 de 233** armas melee — popular (top 15%) |
+| Posição em 2024 | #18 de 220 (1,27%) → caiu 4 posições |
+| Uso por faixa de MR | MR 0–10: 0,004% · MR 11–20: 1,05% · MR 21–30: 1,41% · Legendary: 0,87% |
+
+**Leitura:** Innodem é popular (top 15%) entre os armas melee, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Innodem
 

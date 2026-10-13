@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "43/113"
+uso_2025_pct: 0.771
 ---
 
 # Ember Prime
@@ -76,6 +78,19 @@ Como conseguir a Warframe Ember Prime:
 | 4 | **Inferno** | 0 | Command a flaming comet to crash down in front of Ember, engulfing enemies with a fire that can spread through their ranks. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/red_veil.md|Red Veil]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
+
+## ⭐ Avaliação Popular — Ember Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,77%** do tempo equipado |
+| Posição em 2025 | **#43 de 113** Warframes — uso médio (top 40%) |
+| Posição em 2024 | #33 de 106 (0,94%) → caiu 10 posições |
+| Uso por faixa de MR | MR 0–10: 0,30% · MR 11–20: 0,86% · MR 21–30: 0,93% · Legendary: 0,59% |
+
+**Leitura:** Ember Prime é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Ember Prime
 

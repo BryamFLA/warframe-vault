@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "161/233"
+uso_2025_pct: 0.097
 ---
 
 # Boltace
@@ -56,6 +58,19 @@ O blueprint de Boltace é vendido no **Mercado** (por créditos).
 | Follow-through | 0,6 |
 | Disposição de Riven | 1,25 |
 | Introduzida | Update 16.5 |
+
+## ⭐ Avaliação Popular — Boltace
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,097%** do tempo equipado |
+| Posição em 2025 | **#161 de 233** armas melee — pouco usado |
+| Posição em 2024 | #156 de 220 (0,091%) → caiu 5 posições |
+| Uso por faixa de MR | MR 0–10: 0,12% · MR 11–20: 0,13% · MR 21–30: 0,057% · Legendary: 0,009% |
+
+**Leitura:** Boltace é pouco usado entre os armas melee, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Boltace
 

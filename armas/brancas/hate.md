@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "8/233"
+uso_2025_pct: 2.589
 ---
 
 # Hate
@@ -60,6 +62,19 @@ Blueprint dropado pelo **Stalker** / **Shadow Stalker**. Também no pacote *What
 | Follow-through | 0,6 |
 | Disposição de Riven | 1,1 |
 | Introduzida | Update 8.0 |
+
+## ⭐ Avaliação Popular — Hate
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **2,59%** do tempo equipado |
+| Posição em 2025 | **#8 de 233** armas melee — muito popular (top 5%) |
+| Posição em 2024 | #8 de 220 (2,25%) → mesma posição |
+| Uso por faixa de MR | MR 0–10: 0,63% · MR 11–20: 3,28% · MR 21–30: 2,85% · Legendary: 2,13% |
+
+**Leitura:** Hate é muito popular (top 5%) entre os armas melee, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Hate
 

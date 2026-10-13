@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "11/233"
+uso_2025_pct: 1.908
 ---
 
 # Nikana Prime
@@ -62,6 +64,19 @@ Como conseguir a arma Nikana Prime:
 | Disposição de Riven | 0,6 |
 | Polaridades | Madurai, Vazarin |
 | Introduzida | Update 18.4.12 |
+
+## ⭐ Avaliação Popular — Nikana Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,91%** do tempo equipado |
+| Posição em 2025 | **#11 de 233** armas melee — muito popular (top 5%) |
+| Posição em 2024 | #7 de 220 (2,70%) → caiu 4 posições |
+| Uso por faixa de MR | MR 0–10: 0,25% · MR 11–20: 2,42% · MR 21–30: 2,40% · Legendary: 1,36% |
+
+**Leitura:** Nikana Prime é muito popular (top 5%) entre os armas melee, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Nikana Prime
 

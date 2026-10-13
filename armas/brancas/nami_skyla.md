@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "167/233"
+uso_2025_pct: 0.09
 ---
 
 # Nami Skyla
@@ -56,6 +58,19 @@ O blueprint de Nami Skyla é pesquisado no **Tenno Lab** do **Dojo do clã** (de
 | Follow-through | 0,5 |
 | Disposição de Riven | 1,3 |
 | Introduzida | Update 13.0 |
+
+## ⭐ Avaliação Popular — Nami Skyla
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,090%** do tempo equipado |
+| Posição em 2025 | **#167 de 233** armas melee — pouco usado |
+| Posição em 2024 | #155 de 220 (0,092%) → caiu 12 posições |
+| Uso por faixa de MR | MR 0–10: 0,11% · MR 11–20: 0,14% · MR 21–30: 0,043% · Legendary: 0,005% |
+
+**Leitura:** Nami Skyla é pouco usado entre os armas melee, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Nami Skyla
 

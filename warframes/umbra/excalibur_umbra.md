@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "6/113"
+uso_2025_pct: 2.866
 ---
 
 # Excalibur Umbra
@@ -65,6 +67,19 @@ O blueprint do Excalibur Umbra é dado na **1ª missão da quest The Sacrifice**
 | 4 | **Exalted Blade** | 25 | Summon a sword of pure light and immense power. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/red_veil.md|Red Veil]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
+
+## ⭐ Avaliação Popular — Excalibur Umbra
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **2,87%** do tempo equipado |
+| Posição em 2025 | **#6 de 113** Warframes — popular (top 15%) |
+| Posição em 2024 | #13 de 106 (2,48%) → subiu 7 posições |
+| Uso por faixa de MR | MR 0–10: 4,30% · MR 11–20: 3,04% · MR 21–30: 1,62% · Legendary: 1,12% |
+
+**Leitura:** Excalibur Umbra é popular (top 15%) entre os Warframes, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Excalibur Umbra
 

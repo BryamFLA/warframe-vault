@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "114/153"
+uso_2025_pct: 0.124
 ---
 
 # Akvasto
@@ -59,6 +61,19 @@ O blueprint de Akvasto é vendido no **Mercado** (por créditos).
 | Recarga (s) | 1,6 |
 | Disposição de Riven | 1,25 |
 | Introduzida | Update 9.7 |
+
+## ⭐ Avaliação Popular — Akvasto
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,12%** do tempo equipado |
+| Posição em 2025 | **#114 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #109 de 148 (0,13%) → caiu 5 posições |
+| Uso por faixa de MR | MR 0–10: 0,16% · MR 11–20: 0,21% · MR 21–30: 0,060% · Legendary: 0,009% |
+
+**Leitura:** Akvasto é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Akvasto
 

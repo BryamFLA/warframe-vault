@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "59/233"
+uso_2025_pct: 0.418
 ---
 
 # Spinnerex
@@ -69,6 +71,19 @@ Blueprints no **Isleweaver** (Duviri) ou com a **Acrithis** por **Scuttler Husks
 | Disposição de Riven | 0,85 |
 | Polaridades | Madurai |
 | Introduzida | Update 39 |
+
+## ⭐ Avaliação Popular — Spinnerex
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,42%** do tempo equipado |
+| Posição em 2025 | **#59 de 233** armas melee — uso médio (top 40%) |
+| Posição em 2024 | sem dado (item novo ou sem uso registrado) |
+| Uso por faixa de MR | MR 0–10: 0,41% · MR 11–20: 0,42% · MR 21–30: 0,39% · Legendary: 0,39% |
+
+**Leitura:** Spinnerex é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Spinnerex
 

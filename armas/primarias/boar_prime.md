@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "12/195"
+uso_2025_pct: 1.79
 ---
 
 # Boar Prime
@@ -65,6 +67,19 @@ Como conseguir a arma Boar Prime:
 | Recarga (s) | 2,75 |
 | Disposição de Riven | 1,34 |
 | Introduzida | Update 10.0 |
+
+## ⭐ Avaliação Popular — Boar Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,79%** do tempo equipado |
+| Posição em 2025 | **#12 de 195** armas primárias — popular (top 15%) |
+| Posição em 2024 | #21 de 183 (1,34%) → subiu 9 posições |
+| Uso por faixa de MR | MR 0–10: 0,100% · MR 11–20: 1,29% · MR 21–30: 2,46% · Legendary: 4,06% |
+
+**Leitura:** Boar Prime é popular (top 15%) entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Boar Prime
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "61/195"
+uso_2025_pct: 0.349
 ---
 
 # Arca Plasmor
@@ -58,6 +60,19 @@ O blueprint de Arca Plasmor é pesquisado no **Energy Lab** do **Dojo do clã** 
 | Disposição de Riven | 0,95 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 21.7 |
+
+## ⭐ Avaliação Popular — Arca Plasmor
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,35%** do tempo equipado |
+| Posição em 2025 | **#61 de 195** armas primárias — uso médio (top 40%) |
+| Posição em 2024 | #46 de 183 (0,50%) → caiu 15 posições |
+| Uso por faixa de MR | MR 0–10: 0,064% · MR 11–20: 0,62% · MR 21–30: 0,29% · Legendary: 0,044% |
+
+**Leitura:** Arca Plasmor é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Arca Plasmor
 

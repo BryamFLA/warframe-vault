@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "112/153"
+uso_2025_pct: 0.127
 ---
 
 # Zakti
@@ -59,6 +61,19 @@ O blueprint de Zakti é pesquisado no **Tenno Lab** do **Dojo do clã** (depois 
 | Disposição de Riven | 1,25 |
 | Polaridades | Naramon, Naramon |
 | Introduzida | Update 21.1 |
+
+## ⭐ Avaliação Popular — Zakti
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,13%** do tempo equipado |
+| Posição em 2025 | **#112 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #108 de 148 (0,13%) → caiu 4 posições |
+| Uso por faixa de MR | MR 0–10: 0,026% · MR 11–20: 0,29% · MR 21–30: 0,072% · Legendary: 0,010% |
+
+**Leitura:** Zakti é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Zakti
 

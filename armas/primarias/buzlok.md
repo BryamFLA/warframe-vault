@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "162/195"
+uso_2025_pct: 0.059
 ---
 
 # Buzlok
@@ -59,6 +61,19 @@ O blueprint de Buzlok é pesquisado no **Chem Lab** do **Dojo do clã** (depois 
 | Recarga (s) | 3 |
 | Disposição de Riven | 1,45 |
 | Introduzida | Update 14.7 |
+
+## ⭐ Avaliação Popular — Buzlok
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,059%** do tempo equipado |
+| Posição em 2025 | **#162 de 195** armas primárias — raramente usado |
+| Posição em 2024 | #154 de 183 (0,063%) → caiu 8 posições |
+| Uso por faixa de MR | MR 0–10: 0,003% · MR 11–20: 0,076% · MR 21–30: 0,074% · Legendary: 0,048% |
+
+**Leitura:** Buzlok é raramente usado entre os armas primárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Buzlok
 

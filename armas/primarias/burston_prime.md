@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "3/195"
+uso_2025_pct: 5.495
 ---
 
 # Burston Prime
@@ -66,6 +68,19 @@ Como conseguir a arma Burston Prime:
 | Disposição de Riven | 1,35 |
 | Polaridades | Madurai |
 | Introduzida | Update 11.5 |
+
+## ⭐ Avaliação Popular — Burston Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **5,49%** do tempo equipado |
+| Posição em 2025 | **#3 de 195** armas primárias — muito popular (top 5%) |
+| Posição em 2024 | #7 de 183 (2,84%) → subiu 4 posições |
+| Uso por faixa de MR | MR 0–10: 0,14% · MR 11–20: 6,14% · MR 21–30: 6,76% · Legendary: 6,78% |
+
+**Leitura:** Burston Prime é muito popular (top 5%) entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Burston Prime
 

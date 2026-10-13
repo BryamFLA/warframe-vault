@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "34/113"
+uso_2025_pct: 0.86
 ---
 
 # Lavos Prime
@@ -78,6 +80,19 @@ Hold any ability to imbue the next cast with additional Elemental Damage and Sta
 | 4 | **Catalyze** | 30 | Catalyst Probes erupt from Lavos and douse combatants in a fiery gel. Damage is doubled for each element afflicting an enemy.r r Hold to imbue the next ability cast with <DT_FIRE_COLOR>Heat. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/new_loka.md|New Loka]], [[mecanicas/sindicatos/red_veil.md|Red Veil]].
+
+## ⭐ Avaliação Popular — Lavos Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,86%** do tempo equipado |
+| Posição em 2025 | **#34 de 113** Warframes — uso médio (top 40%) |
+| Posição em 2024 | sem dado (item novo ou sem uso registrado) |
+| Uso por faixa de MR | MR 0–10: 0,23% · MR 11–20: 0,87% · MR 21–30: 1,04% · Legendary: 1,10% |
+
+**Leitura:** Lavos Prime é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Lavos Prime
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "171/233"
+uso_2025_pct: 0.086
 ---
 
 # Venka
@@ -56,6 +58,19 @@ O blueprint de Venka é pesquisado no **Tenno Lab** do **Dojo do clã** (depois 
 | Follow-through | 0,8 |
 | Disposição de Riven | 1,1 |
 | Introduzida | Update 13.9 |
+
+## ⭐ Avaliação Popular — Venka
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,086%** do tempo equipado |
+| Posição em 2025 | **#171 de 233** armas melee — pouco usado |
+| Posição em 2024 | #163 de 220 (0,088%) → caiu 8 posições |
+| Uso por faixa de MR | MR 0–10: 0,094% · MR 11–20: 0,13% · MR 21–30: 0,047% · Legendary: 0,005% |
+
+**Leitura:** Venka é pouco usado entre os armas melee, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Venka
 

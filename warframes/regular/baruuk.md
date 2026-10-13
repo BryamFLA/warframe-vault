@@ -12,6 +12,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "112/113"
+uso_2025_pct: 0.042
 ---
 
 # Baruuk
@@ -72,6 +74,19 @@ Blueprints comprados da **Little Duck** (Vox Solaris, Fortuna): principal no Ran
 **Helminth:** a habilidade **Lull** pode ser subsumida (doada ao Helminth).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/new_loka.md|New Loka]].
+
+## ⭐ Avaliação Popular — Baruuk
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,042%** do tempo equipado |
+| Posição em 2025 | **#112 de 113** Warframes — raramente usado |
+| Posição em 2024 | #102 de 106 (0,063%) → caiu 10 posições |
+| Uso por faixa de MR | MR 0–10: 0,017% · MR 11–20: 0,035% · MR 21–30: 0,077% · Legendary: 0,020% |
+
+**Leitura:** Baruuk é raramente usado entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Baruuk
 

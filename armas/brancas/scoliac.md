@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "209/233"
+uso_2025_pct: 0.054
 ---
 
 # Scoliac
@@ -57,6 +59,19 @@ O blueprint de Scoliac é pesquisado no **Bio Lab** do **Dojo do clã** (depois 
 | Disposição de Riven | 1,3 |
 | Polaridades | Madurai |
 | Introduzida | Update 11.5 |
+
+## ⭐ Avaliação Popular — Scoliac
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,054%** do tempo equipado |
+| Posição em 2025 | **#209 de 233** armas melee — raramente usado |
+| Posição em 2024 | #190 de 220 (0,064%) → caiu 19 posições |
+| Uso por faixa de MR | MR 0–10: 0,008% · MR 11–20: 0,046% · MR 21–30: 0,093% · Legendary: 0,051% |
+
+**Leitura:** Scoliac é raramente usado entre os armas melee, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Scoliac
 

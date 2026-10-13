@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "98/233"
+uso_2025_pct: 0.213
 ---
 
 # Silva & Aegis
@@ -54,6 +56,19 @@ O blueprint de Silva & Aegis é pesquisado no **Tenno Lab** do **Dojo do clã** 
 | Follow-through | 0,6 |
 | Disposição de Riven | 1,15 |
 | Introduzida | Update 14.0 |
+
+## ⭐ Avaliação Popular — Silva & Aegis
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,21%** do tempo equipado |
+| Posição em 2025 | **#98 de 233** armas melee — pouco usado |
+| Posição em 2024 | #87 de 220 (0,24%) → caiu 11 posições |
+| Uso por faixa de MR | MR 0–10: 0,68% · MR 11–20: 0,21% · MR 21–30: 0,048% · Legendary: 0,008% |
+
+**Leitura:** Silva & Aegis é pouco usado entre os armas melee, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Silva & Aegis
 

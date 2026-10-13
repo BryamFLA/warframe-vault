@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "232/233"
+uso_2025_pct: 0.015
 ---
 
 # Skana Prime
@@ -51,6 +53,19 @@ Exclusiva dos pacotes **Founders** Master e Grand Master (dez/2012 a nov/2013). 
 | Disposição de Riven | 1,2 |
 | Polaridades | Madurai, Naramon |
 | Introduzida | Update 5.0 |
+
+## ⭐ Avaliação Popular — Skana Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,015%** do tempo equipado |
+| Posição em 2025 | **#232 de 233** armas melee — raramente usado |
+| Posição em 2024 | #216 de 220 (0,016%) → caiu 16 posições |
+| Uso por faixa de MR | MR 0–10: 0,002% · MR 11–20: 0,005% · MR 21–30: 0,019% · Legendary: 1,38% |
+
+**Leitura:** Skana Prime é raramente usado entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Skana Prime
 

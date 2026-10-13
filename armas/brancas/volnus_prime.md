@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "141/233"
+uso_2025_pct: 0.128
 ---
 
 # Volnus Prime
@@ -62,6 +64,19 @@ Como conseguir a arma Volnus Prime:
 | Disposição de Riven | 1,3 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 30.3 |
+
+## ⭐ Avaliação Popular — Volnus Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,13%** do tempo equipado |
+| Posição em 2025 | **#141 de 233** armas melee — pouco usado |
+| Posição em 2024 | #131 de 220 (0,13%) → caiu 10 posições |
+| Uso por faixa de MR | MR 0–10: 0,034% · MR 11–20: 0,11% · MR 21–30: 0,18% · Legendary: 0,17% |
+
+**Leitura:** Volnus Prime é pouco usado entre os armas melee, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Volnus Prime
 

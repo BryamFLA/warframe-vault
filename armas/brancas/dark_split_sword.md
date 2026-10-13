@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "182/233"
+uso_2025_pct: 0.077
 ---
 
 # Dark Split-Sword
@@ -57,6 +59,19 @@ O blueprint de Dark Split-Sword é pesquisado no **Tenno Lab** do **Dojo do clã
 | Disposição de Riven | 1,3 |
 | Polaridades | Madurai |
 | Introduzida | Update 18.14 |
+
+## ⭐ Avaliação Popular — Dark Split-Sword
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,077%** do tempo equipado |
+| Posição em 2025 | **#182 de 233** armas melee — raramente usado |
+| Posição em 2024 | #162 de 220 (0,088%) → caiu 20 posições |
+| Uso por faixa de MR | MR 0–10: 0,057% · MR 11–20: 0,076% · MR 21–30: 0,089% · Legendary: 0,093% |
+
+**Leitura:** Dark Split-Sword é raramente usado entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Dark Split-Sword
 

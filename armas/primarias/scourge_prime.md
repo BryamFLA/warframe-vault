@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "92/195"
+uso_2025_pct: 0.205
 ---
 
 # Scourge Prime
@@ -64,6 +66,19 @@ Como conseguir a arma Scourge Prime:
 | Disposição de Riven | 1,1 |
 | Polaridades | Naramon, Madurai, Madurai, Madurai |
 | Introduzida | Update 31 |
+
+## ⭐ Avaliação Popular — Scourge Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,21%** do tempo equipado |
+| Posição em 2025 | **#92 de 195** armas primárias — pouco usado |
+| Posição em 2024 | #88 de 183 (0,23%) → caiu 4 posições |
+| Uso por faixa de MR | MR 0–10: 0,010% · MR 11–20: 0,13% · MR 21–30: 0,30% · Legendary: 0,39% |
+
+**Leitura:** Scourge Prime é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Scourge Prime
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "29/153"
+uso_2025_pct: 0.677
 ---
 
 # Prisma Angstrum
@@ -46,6 +48,19 @@ Prisma Angstrum é vendida pelo **Baro Ki'Teer** (mercador do Void que visita os
 | Disposição de Riven | 1,3 |
 | Polaridades | Vazarin |
 | Introduzida | Update 21.7 |
+
+## ⭐ Avaliação Popular — Prisma Angstrum
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,68%** do tempo equipado |
+| Posição em 2025 | **#29 de 153** armas secundárias — uso médio (top 40%) |
+| Posição em 2024 | #26 de 148 (0,76%) → caiu 3 posições |
+| Uso por faixa de MR | MR 0–10: 0,055% · MR 11–20: 0,38% · MR 21–30: 0,93% · Legendary: 1,35% |
+
+**Leitura:** Prisma Angstrum é uso médio (top 40%) entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Prisma Angstrum
 

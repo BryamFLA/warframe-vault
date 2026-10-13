@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "186/233"
+uso_2025_pct: 0.076
 ---
 
 # Masseter
@@ -55,6 +57,19 @@ O blueprint de Masseter é pesquisado no **Tenno Lab** do **Dojo do clã** (depo
 | Follow-through | 0,6 |
 | Disposição de Riven | 1,25 |
 | Introduzida | Update 26 |
+
+## ⭐ Avaliação Popular — Masseter
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,076%** do tempo equipado |
+| Posição em 2025 | **#186 de 233** armas melee — raramente usado |
+| Posição em 2024 | #170 de 220 (0,084%) → caiu 16 posições |
+| Uso por faixa de MR | MR 0–10: 0,038% · MR 11–20: 0,12% · MR 21–30: 0,065% · Legendary: 0,009% |
+
+**Leitura:** Masseter é raramente usado entre os armas melee, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Masseter
 

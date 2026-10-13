@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "5/195"
+uso_2025_pct: 2.681
 ---
 
 # Cedo Prime
@@ -64,6 +66,19 @@ Como conseguir a arma Cedo Prime:
 | Disposição de Riven | 0,55 |
 | Polaridades | Madurai, Madurai, Vazarin |
 | Introduzida | Update 38.0.10 |
+
+## ⭐ Avaliação Popular — Cedo Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **2,68%** do tempo equipado |
+| Posição em 2025 | **#5 de 195** armas primárias — muito popular (top 5%) |
+| Posição em 2024 | sem dado (item novo ou sem uso registrado) |
+| Uso por faixa de MR | MR 0–10: 0,29% · MR 11–20: 2,68% · MR 21–30: 3,38% · Legendary: 3,32% |
+
+**Leitura:** Cedo Prime é muito popular (top 5%) entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Cedo Prime
 

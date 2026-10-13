@@ -12,6 +12,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "74/113"
+uso_2025_pct: 0.328
 ---
 
 # Gauss
@@ -78,6 +80,19 @@ Blueprint principal no **Mercado**. Componentes: **rotação C do Disruption** e
 **Helminth:** a habilidade **Thermal Sunder** pode ser subsumida (doada ao Helminth).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
+
+## ⭐ Avaliação Popular — Gauss
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,33%** do tempo equipado |
+| Posição em 2025 | **#74 de 113** Warframes — pouco usado |
+| Posição em 2024 | #38 de 106 (0,83%) → caiu 36 posições |
+| Uso por faixa de MR | MR 0–10: 0,71% · MR 11–20: 0,26% · MR 21–30: 0,20% · Legendary: 0,20% |
+
+**Leitura:** Gauss é pouco usado entre os Warframes, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Gauss
 

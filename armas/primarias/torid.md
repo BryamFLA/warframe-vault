@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "1/195"
+uso_2025_pct: 9.624
 ---
 
 # Torid
@@ -57,6 +59,19 @@ O blueprint de Torid é pesquisado no **Bio Lab** do **Dojo do clã** (depois é
 | Recarga (s) | 1,7 |
 | Disposição de Riven | 1,3 |
 | Introduzida | Update 8.0 |
+
+## ⭐ Avaliação Popular — Torid
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **9,62%** do tempo equipado |
+| Posição em 2025 | **#1 de 195** armas primárias — muito popular (top 5%) |
+| Posição em 2024 | #1 de 183 (8,36%) → mesma posição |
+| Uso por faixa de MR | MR 0–10: 1,07% · MR 11–20: 10,50% · MR 21–30: 11,64% · Legendary: 11,00% |
+
+**Leitura:** Torid é muito popular (top 5%) entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Torid
 

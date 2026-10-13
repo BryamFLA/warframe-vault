@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "59/153"
+uso_2025_pct: 0.305
 ---
 
 # Euphona Prime
@@ -65,6 +67,19 @@ Como conseguir a arma Euphona Prime:
 | Disposição de Riven | 0,95 |
 | Polaridades | Madurai, Madurai, Madurai |
 | Introduzida | Update 19.11.5 |
+
+## ⭐ Avaliação Popular — Euphona Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,30%** do tempo equipado |
+| Posição em 2025 | **#59 de 153** armas secundárias — uso médio (top 40%) |
+| Posição em 2024 | #48 de 148 (0,44%) → caiu 11 posições |
+| Uso por faixa de MR | MR 0–10: 0,034% · MR 11–20: 0,25% · MR 21–30: 0,43% · Legendary: 0,31% |
+
+**Leitura:** Euphona Prime é uso médio (top 40%) entre os armas secundárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Euphona Prime
 

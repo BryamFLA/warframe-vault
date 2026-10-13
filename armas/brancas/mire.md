@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "67/233"
+uso_2025_pct: 0.372
 ---
 
 # Mire
@@ -57,6 +59,19 @@ O blueprint de Mire é vendido no **Mercado**; também é recompensa da **Junç�
 | Follow-through | 0,6 |
 | Disposição de Riven | 1,3 |
 | Introduzida | Update 7.7.2 |
+
+## ⭐ Avaliação Popular — Mire
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,37%** do tempo equipado |
+| Posição em 2025 | **#67 de 233** armas melee — uso médio (top 40%) |
+| Posição em 2024 | #65 de 220 (0,36%) → caiu 2 posições |
+| Uso por faixa de MR | MR 0–10: 0,69% · MR 11–20: 0,48% · MR 21–30: 0,064% · Legendary: 0,034% |
+
+**Leitura:** Mire é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Mire
 

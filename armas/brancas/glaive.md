@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "116/233"
+uso_2025_pct: 0.168
 ---
 
 # Glaive
@@ -57,6 +59,19 @@ Blueprint nas **Nightwave Offerings** por 50 Creds.
 | Disposição de Riven | 1,3 |
 | Polaridades | Madurai, Naramon |
 | Introduzida | Update 7.9 |
+
+## ⭐ Avaliação Popular — Glaive
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,17%** do tempo equipado |
+| Posição em 2025 | **#116 de 233** armas melee — pouco usado |
+| Posição em 2024 | #115 de 220 (0,17%) → caiu 1 posições |
+| Uso por faixa de MR | MR 0–10: 0,36% · MR 11–20: 0,19% · MR 21–30: 0,075% · Legendary: 0,015% |
+
+**Leitura:** Glaive é pouco usado entre os armas melee, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Glaive
 

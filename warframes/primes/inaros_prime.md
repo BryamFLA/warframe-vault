@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "46/113"
+uso_2025_pct: 0.734
 ---
 
 # Inaros Prime
@@ -76,6 +78,19 @@ Como conseguir a Warframe Inaros Prime:
 | 4 | **Scarab Swarm** | 100 | Summon a Scarab Swarm to attack enemies with guaranteed <DT_CORROSIVE_COLOR>Corrosive Status. Damage scales with Inaros' Health. Enemies killed while immersed in the swarm summon a Swarm Kavat that fights alongside Inaros and guides the scarabs to other enemies. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
+
+## ⭐ Avaliação Popular — Inaros Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,73%** do tempo equipado |
+| Posição em 2025 | **#46 de 113** Warframes — pouco usado |
+| Posição em 2024 | #30 de 106 (0,97%) → caiu 16 posições |
+| Uso por faixa de MR | MR 0–10: 0,12% · MR 11–20: 0,56% · MR 21–30: 1,00% · Legendary: 1,52% |
+
+**Leitura:** Inaros Prime é pouco usado entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Inaros Prime
 

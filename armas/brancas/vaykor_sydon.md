@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "157/233"
+uso_2025_pct: 0.099
 ---
 
 # Vaykor Sydon
@@ -44,6 +46,19 @@ Vaykor Sydon é uma **arma de Sindicato**: compre do **Steel Meridian** com **12
 | Disposição de Riven | 1,3 |
 | Polaridades | Madurai |
 | Introduzida | Update Update: The Silver Grove 2.0 |
+
+## ⭐ Avaliação Popular — Vaykor Sydon
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,099%** do tempo equipado |
+| Posição em 2025 | **#157 de 233** armas melee — pouco usado |
+| Posição em 2024 | #165 de 220 (0,087%) → subiu 8 posições |
+| Uso por faixa de MR | MR 0–10: 0,005% · MR 11–20: 0,097% · MR 21–30: 0,15% · Legendary: 0,12% |
+
+**Leitura:** Vaykor Sydon é pouco usado entre os armas melee, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Vaykor Sydon
 

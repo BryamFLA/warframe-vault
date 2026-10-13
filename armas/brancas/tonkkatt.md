@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "86/233"
+uso_2025_pct: 0.266
 ---
 
 # Tonkkatt
@@ -66,6 +68,19 @@ Blueprint e peças: drop dos **Ghoul Expired** e **Ghoul Rictus** (Plains of Eid
 | Disposição de Riven | 0,95 |
 | Polaridades | Madurai |
 | Introduzida | Update 38.5.11 |
+
+## ⭐ Avaliação Popular — Tonkkatt
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,27%** do tempo equipado |
+| Posição em 2025 | **#86 de 233** armas melee — uso médio (top 40%) |
+| Posição em 2024 | sem dado (item novo ou sem uso registrado) |
+| Uso por faixa de MR | MR 0–10: 0,52% · MR 11–20: 0,32% · MR 21–30: 0,26% · Legendary: 0,27% |
+
+**Leitura:** Tonkkatt é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Tonkkatt
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "48/195"
+uso_2025_pct: 0.46
 ---
 
 # Phantasma
@@ -59,6 +61,19 @@ O blueprint de Phantasma é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 1,1 |
 | Polaridades | Naramon, Madurai |
 | Introduzida | Update 23.5 |
+
+## ⭐ Avaliação Popular — Phantasma
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,46%** do tempo equipado |
+| Posição em 2025 | **#48 de 195** armas primárias — uso médio (top 40%) |
+| Posição em 2024 | #41 de 183 (0,61%) → caiu 7 posições |
+| Uso por faixa de MR | MR 0–10: 0,39% · MR 11–20: 0,86% · MR 21–30: 0,19% · Legendary: 0,070% |
+
+**Leitura:** Phantasma é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Phantasma
 

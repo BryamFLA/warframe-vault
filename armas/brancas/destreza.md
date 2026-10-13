@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "192/233"
+uso_2025_pct: 0.073
 ---
 
 # Destreza
@@ -57,6 +59,19 @@ O blueprint de Destreza é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 1,25 |
 | Polaridades | Madurai |
 | Introduzida | Update 18.3 |
+
+## ⭐ Avaliação Popular — Destreza
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,073%** do tempo equipado |
+| Posição em 2025 | **#192 de 233** armas melee — raramente usado |
+| Posição em 2024 | #189 de 220 (0,069%) → caiu 3 posições |
+| Uso por faixa de MR | MR 0–10: 0,037% · MR 11–20: 0,12% · MR 21–30: 0,059% · Legendary: 0,006% |
+
+**Leitura:** Destreza é raramente usado entre os armas melee, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Destreza
 

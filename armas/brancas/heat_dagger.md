@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "224/233"
+uso_2025_pct: 0.037
 ---
 
 # Heat Dagger
@@ -58,6 +60,19 @@ O blueprint de Heat Dagger é comprado nas **Nightwave Offerings** por **50 Nigh
 | Disposição de Riven | 1,44 |
 | Polaridades | Naramon |
 | Introduzida | Update 5.0 |
+
+## ⭐ Avaliação Popular — Heat Dagger
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,037%** do tempo equipado |
+| Posição em 2025 | **#224 de 233** armas melee — raramente usado |
+| Posição em 2024 | #208 de 220 (0,042%) → caiu 16 posições |
+| Uso por faixa de MR | MR 0–10: 0,032% · MR 11–20: 0,030% · MR 21–30: 0,052% · Legendary: 0,029% |
+
+**Leitura:** Heat Dagger é raramente usado entre os armas melee, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Heat Dagger
 

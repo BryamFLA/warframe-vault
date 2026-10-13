@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "4/153"
+uso_2025_pct: 5.847
 ---
 
 # Epitaph Prime
@@ -65,6 +67,19 @@ Como conseguir a arma Epitaph Prime:
 | Disposição de Riven | 0,55 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 36.1 |
+
+## ⭐ Avaliação Popular — Epitaph Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **5,85%** do tempo equipado |
+| Posição em 2025 | **#4 de 153** armas secundárias — muito popular (top 5%) |
+| Posição em 2024 | #10 de 148 (2,22%) → subiu 6 posições |
+| Uso por faixa de MR | MR 0–10: 0,066% · MR 11–20: 5,87% · MR 21–30: 6,87% · Legendary: 5,68% |
+
+**Leitura:** Epitaph Prime é muito popular (top 5%) entre os armas secundárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Epitaph Prime
 

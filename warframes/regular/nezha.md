@@ -11,6 +11,8 @@ fontes: ["https://wiki.warframe.com/w/Nezha", "https://wiki.warframe.com/w/Nezha
 atualizado: 2026-10-07
 verificado: false
 agente: gpt
+uso_2025_rank: "90/113"
+uso_2025_pct: 0.203
 ---
 
 # Nezha
@@ -193,6 +195,19 @@ Empale o grupo, aplique Chakram e status com armas a um alvo. Divine Retribution
 
 O Leverian narra Reshantur, onde crianças sob opressão Corpus adotaram Nezha como protetor. Um sobrevivente relata que ele surgiu entre chamas, derrotou soldados e levou as outras crianças consigo; preserve a atribuição ao relato, sem tratar cada detalhe como registro independente.
 
+
+## ⭐ Avaliação Popular — Nezha
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,20%** do tempo equipado |
+| Posição em 2025 | **#90 de 113** Warframes — raramente usado |
+| Posição em 2024 | #81 de 106 (0,26%) → caiu 9 posições |
+| Uso por faixa de MR | MR 0–10: 0,30% · MR 11–20: 0,29% · MR 21–30: 0,069% · Legendary: 0,006% |
+
+**Leitura:** Nezha é raramente usado entre os Warframes, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 💡 Curiosidades — Nezha
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "71/195"
+uso_2025_pct: 0.289
 ---
 
 # Vadarya Prime
@@ -64,6 +66,19 @@ Como conseguir a arma Vadarya Prime:
 | Disposição de Riven | 0,8 |
 | Polaridades | Madurai, Naramon |
 | Introduzida | Update 39.1 |
+
+## ⭐ Avaliação Popular — Vadarya Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,29%** do tempo equipado |
+| Posição em 2025 | **#71 de 195** armas primárias — uso médio (top 40%) |
+| Posição em 2024 | sem dado (item novo ou sem uso registrado) |
+| Uso por faixa de MR | MR 0–10: 0,12% · MR 11–20: 0,20% · MR 21–30: 0,36% · Legendary: 0,50% |
+
+**Leitura:** Vadarya Prime é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Vadarya Prime
 

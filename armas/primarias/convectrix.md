@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "152/195"
+uso_2025_pct: 0.079
 ---
 
 # Convectrix
@@ -60,6 +62,19 @@ O blueprint de Convectrix é pesquisado no **Energy Lab** do **Dojo do clã** (d
 | Disposição de Riven | 1,46 |
 | Polaridades | Naramon |
 | Introduzida | Update 17.5 |
+
+## ⭐ Avaliação Popular — Convectrix
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,079%** do tempo equipado |
+| Posição em 2025 | **#152 de 195** armas primárias — raramente usado |
+| Posição em 2024 | #126 de 183 (0,12%) → caiu 26 posições |
+| Uso por faixa de MR | MR 0–10: 0,033% · MR 11–20: 0,058% · MR 21–30: 0,12% · Legendary: 0,11% |
+
+**Leitura:** Convectrix é raramente usado entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Convectrix
 

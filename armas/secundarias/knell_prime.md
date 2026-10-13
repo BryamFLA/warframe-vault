@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "39/153"
+uso_2025_pct: 0.501
 ---
 
 # Knell Prime
@@ -65,6 +67,19 @@ Como conseguir a arma Knell Prime:
 | Disposição de Riven | 0,85 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 31 |
+
+## ⭐ Avaliação Popular — Knell Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,50%** do tempo equipado |
+| Posição em 2025 | **#39 de 153** armas secundárias — uso médio (top 40%) |
+| Posição em 2024 | #38 de 148 (0,54%) → caiu 1 posições |
+| Uso por faixa de MR | MR 0–10: 0,010% · MR 11–20: 0,26% · MR 21–30: 0,70% · Legendary: 0,88% |
+
+**Leitura:** Knell Prime é uso médio (top 40%) entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Knell Prime
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "90/153"
+uso_2025_pct: 0.182
 ---
 
 # Akmagnus
@@ -59,6 +61,19 @@ O blueprint de Akmagnus é vendido no **Mercado** (por créditos).
 | Recarga (s) | 3,2 |
 | Disposição de Riven | 1,35 |
 | Introduzida | Update 11.9 |
+
+## ⭐ Avaliação Popular — Akmagnus
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,18%** do tempo equipado |
+| Posição em 2025 | **#90 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #75 de 148 (0,24%) → caiu 15 posições |
+| Uso por faixa de MR | MR 0–10: 0,41% · MR 11–20: 0,26% · MR 21–30: 0,092% · Legendary: 0,027% |
+
+**Leitura:** Akmagnus é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Akmagnus
 

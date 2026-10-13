@@ -12,6 +12,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "107/113"
+uso_2025_pct: 0.078
 ---
 
 # Grendel
@@ -72,6 +74,19 @@ Blueprint principal no **Mercado**. Componentes: missões especiais em **Europa*
 **Helminth:** a habilidade **Nourish** pode ser subsumida (doada ao Helminth).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/red_veil.md|Red Veil]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
+
+## ⭐ Avaliação Popular — Grendel
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,078%** do tempo equipado |
+| Posição em 2025 | **#107 de 113** Warframes — raramente usado |
+| Posição em 2024 | #98 de 106 (0,10%) → caiu 9 posições |
+| Uso por faixa de MR | MR 0–10: 0,078% · MR 11–20: 0,098% · MR 21–30: 0,071% · Legendary: 0,017% |
+
+**Leitura:** Grendel é raramente usado entre os Warframes, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Grendel
 

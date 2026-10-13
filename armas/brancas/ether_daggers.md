@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "75/233"
+uso_2025_pct: 0.305
 ---
 
 # Ether Daggers
@@ -55,6 +57,19 @@ Blueprint ao concluir a quest **Stolen Dreams**. Extras no Cephalon Simaris (100
 | Disposição de Riven | 1,49 |
 | Polaridades | Vazarin |
 | Introduzida | Update 7.7.3 |
+
+## ⭐ Avaliação Popular — Ether Daggers
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,31%** do tempo equipado |
+| Posição em 2025 | **#75 de 233** armas melee — uso médio (top 40%) |
+| Posição em 2024 | #70 de 220 (0,33%) → caiu 5 posições |
+| Uso por faixa de MR | MR 0–10: 0,87% · MR 11–20: 0,20% · MR 21–30: 0,029% · Legendary: 0,025% |
+
+**Leitura:** Ether Daggers é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Ether Daggers
 

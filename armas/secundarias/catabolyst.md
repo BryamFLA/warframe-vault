@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "132/153"
+uso_2025_pct: 0.094
 ---
 
 # Catabolyst
@@ -58,6 +60,19 @@ O blueprint de Catabolyst é pesquisado no **Bio Lab** do **Dojo do clã** (depo
 | Disposição de Riven | 1,2 |
 | Polaridades | Madurai |
 | Introduzida | Update 29.5 |
+
+## ⭐ Avaliação Popular — Catabolyst
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,094%** do tempo equipado |
+| Posição em 2025 | **#132 de 153** armas secundárias — raramente usado |
+| Posição em 2024 | #81 de 148 (0,20%) → caiu 51 posições |
+| Uso por faixa de MR | MR 0–10: 0,050% · MR 11–20: 0,083% · MR 21–30: 0,11% · Legendary: 0,12% |
+
+**Leitura:** Catabolyst é raramente usado entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Catabolyst
 

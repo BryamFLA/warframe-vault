@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "52/195"
+uso_2025_pct: 0.45
 ---
 
 # Kuva Hek
@@ -47,6 +49,19 @@ Kuva Hek é uma **arma Kuva**: só se obtém **derrotando (vanquish) um Kuva Lic
 | Recarga (s) | 1,9 |
 | Disposição de Riven | 1 |
 | Introduzida | Update 30.5 |
+
+## ⭐ Avaliação Popular — Kuva Hek
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,45%** do tempo equipado |
+| Posição em 2025 | **#52 de 195** armas primárias — uso médio (top 40%) |
+| Posição em 2024 | #45 de 183 (0,51%) → caiu 7 posições |
+| Uso por faixa de MR | MR 0–10: 0,069% · MR 11–20: 0,39% · MR 21–30: 0,58% · Legendary: 0,67% |
+
+**Leitura:** Kuva Hek é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Kuva Hek
 

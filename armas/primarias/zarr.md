@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "98/195"
+uso_2025_pct: 0.184
 ---
 
 # Zarr
@@ -58,6 +60,19 @@ O blueprint de Zarr é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 1,15 |
 | Polaridades | Madurai |
 | Introduzida | Update 19 |
+
+## ⭐ Avaliação Popular — Zarr
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,18%** do tempo equipado |
+| Posição em 2025 | **#98 de 195** armas primárias — pouco usado |
+| Posição em 2024 | #82 de 183 (0,24%) → caiu 16 posições |
+| Uso por faixa de MR | MR 0–10: 0,23% · MR 11–20: 0,28% · MR 21–30: 0,063% · Legendary: 0,011% |
+
+**Leitura:** Zarr é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Zarr
 

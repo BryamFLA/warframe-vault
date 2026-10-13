@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "174/195"
+uso_2025_pct: 0.047
 ---
 
 # Gaze
@@ -37,6 +39,19 @@ Como conseguir a arma Gaze:
 | Munição máxima | 200 |
 | Disposição de Riven | 1,05 |
 | Introduzida | Update 24 |
+
+## ⭐ Avaliação Popular — Gaze
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,047%** do tempo equipado |
+| Posição em 2025 | **#174 de 195** armas primárias — raramente usado |
+| Posição em 2024 | #155 de 183 (0,063%) → caiu 19 posições |
+| Uso por faixa de MR | MR 0–10: 0,079% · MR 11–20: 0,030% · MR 21–30: 0,067% · Legendary: 0,073% |
+
+**Leitura:** Gaze é raramente usado entre os armas primárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Gaze
 

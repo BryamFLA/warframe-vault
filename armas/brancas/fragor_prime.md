@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "87/233"
+uso_2025_pct: 0.266
 ---
 
 # Fragor Prime
@@ -62,6 +64,19 @@ Como conseguir a arma Fragor Prime:
 | Disposição de Riven | 1,05 |
 | Polaridades | Madurai |
 | Introduzida | Update 18.12 |
+
+## ⭐ Avaliação Popular — Fragor Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,27%** do tempo equipado |
+| Posição em 2025 | **#87 de 233** armas melee — uso médio (top 40%) |
+| Posição em 2024 | #59 de 220 (0,39%) → caiu 28 posições |
+| Uso por faixa de MR | MR 0–10: 0,012% · MR 11–20: 0,18% · MR 21–30: 0,42% · Legendary: 0,44% |
+
+**Leitura:** Fragor Prime é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Fragor Prime
 

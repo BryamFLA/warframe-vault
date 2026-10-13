@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "17/113"
+uso_2025_pct: 1.86
 ---
 
 # Mirage Prime
@@ -76,6 +78,19 @@ Como conseguir a Warframe Mirage Prime:
 | 4 | **Prism** | 50 | Fires an energy prism that shoots lasers in all directions. Activating again detonates the prism, blinding nearby foes. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]].
+
+## ⭐ Avaliação Popular — Mirage Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,86%** do tempo equipado |
+| Posição em 2025 | **#17 de 113** Warframes — uso médio (top 40%) |
+| Posição em 2024 | #16 de 106 (1,75%) → caiu 1 posições |
+| Uso por faixa de MR | MR 0–10: 0,23% · MR 11–20: 1,71% · MR 21–30: 2,57% · Legendary: 2,58% |
+
+**Leitura:** Mirage Prime é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Mirage Prime
 

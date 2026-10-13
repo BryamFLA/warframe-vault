@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "143/153"
+uso_2025_pct: 0.068
 ---
 
 # Spectra Vandal
@@ -64,6 +66,19 @@ Blueprint e componentes nos **Abandoned Derelicts** Grineer da **Veil Proxima** 
 | Recarga (s) | 1,2 |
 | Disposição de Riven | 1,45 |
 | Introduzida | Update 25.0 |
+
+## ⭐ Avaliação Popular — Spectra Vandal
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,068%** do tempo equipado |
+| Posição em 2025 | **#143 de 153** armas secundárias — raramente usado |
+| Posição em 2024 | #127 de 148 (0,096%) → caiu 16 posições |
+| Uso por faixa de MR | MR 0–10: 0,018% · MR 11–20: 0,030% · MR 21–30: 0,080% · Legendary: 0,15% |
+
+**Leitura:** Spectra Vandal é raramente usado entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Spectra Vandal
 

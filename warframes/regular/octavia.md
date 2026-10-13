@@ -12,6 +12,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "77/113"
+uso_2025_pct: 0.321
 ---
 
 # Octavia
@@ -77,6 +79,19 @@ Blueprint principal e Mandachord da quest **Octavia's Anthem**. **Chassis**: puz
 **Helminth:** a habilidade **Resonator** pode ser subsumida (doada ao Helminth).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/new_loka.md|New Loka]].
+
+## ⭐ Avaliação Popular — Octavia
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,32%** do tempo equipado |
+| Posição em 2025 | **#77 de 113** Warframes — pouco usado |
+| Posição em 2024 | #58 de 106 (0,50%) → caiu 19 posições |
+| Uso por faixa de MR | MR 0–10: 0,50% · MR 11–20: 0,43% · MR 21–30: 0,15% · Legendary: 0,027% |
+
+**Leitura:** Octavia é pouco usado entre os Warframes, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Octavia
 

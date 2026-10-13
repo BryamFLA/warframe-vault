@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "122/233"
+uso_2025_pct: 0.154
 ---
 
 # Tak & Lug
@@ -68,6 +70,19 @@ Blueprint e peças: drop dos **Ghoul Auger** e **Ghoul Devourer** (Plains of Eid
 | Disposição de Riven | 1,05 |
 | Polaridades | Vazarin |
 | Introduzida | Update 38.5.11 |
+
+## ⭐ Avaliação Popular — Tak & Lug
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,15%** do tempo equipado |
+| Posição em 2025 | **#122 de 233** armas melee — pouco usado |
+| Posição em 2024 | sem dado (item novo ou sem uso registrado) |
+| Uso por faixa de MR | MR 0–10: 0,23% · MR 11–20: 0,15% · MR 21–30: 0,17% · Legendary: 0,23% |
+
+**Leitura:** Tak & Lug é pouco usado entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Tak & Lug
 

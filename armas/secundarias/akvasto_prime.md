@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "110/153"
+uso_2025_pct: 0.128
 ---
 
 # Akvasto Prime
@@ -66,6 +68,19 @@ Void Relics containing the Akvasto Prime components é vendida pelo **Baro Ki'Te
 | Disposição de Riven | 1,2 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 24.0.6 |
+
+## ⭐ Avaliação Popular — Akvasto Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,13%** do tempo equipado |
+| Posição em 2025 | **#110 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #111 de 148 (0,13%) → subiu 1 posições |
+| Uso por faixa de MR | MR 0–10: 0,009% · MR 11–20: 0,072% · MR 21–30: 0,17% · Legendary: 0,26% |
+
+**Leitura:** Akvasto Prime é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Akvasto Prime
 

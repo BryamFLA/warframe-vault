@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "52/233"
+uso_2025_pct: 0.477
 ---
 
 # Rumblejack
@@ -43,6 +45,19 @@ Dada ao concluir **The New War**, com slot e Catalyst. Extras no Cephalon Simari
 | Follow-through | 0,9 |
 | Disposição de Riven | 1,2 |
 | Introduzida | Update 31 |
+
+## ⭐ Avaliação Popular — Rumblejack
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,48%** do tempo equipado |
+| Posição em 2025 | **#52 de 233** armas melee — uso médio (top 40%) |
+| Posição em 2024 | #58 de 220 (0,40%) → subiu 6 posições |
+| Uso por faixa de MR | MR 0–10: 0,73% · MR 11–20: 0,68% · MR 21–30: 0,13% · Legendary: 0,043% |
+
+**Leitura:** Rumblejack é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Rumblejack
 

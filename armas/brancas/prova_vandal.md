@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "223/233"
+uso_2025_pct: 0.038
 ---
 
 # Prova Vandal
@@ -43,6 +45,19 @@ Prova Vandal é vendida pelo **Baro Ki'Teer** (mercador do Void que visita os Re
 | Follow-through | 0,7 |
 | Disposição de Riven | 1,35 |
 | Introduzida | Update 10.5 |
+
+## ⭐ Avaliação Popular — Prova Vandal
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,038%** do tempo equipado |
+| Posição em 2025 | **#223 de 233** armas melee — raramente usado |
+| Posição em 2024 | #209 de 220 (0,042%) → caiu 14 posições |
+| Uso por faixa de MR | MR 0–10: 0,028% · MR 11–20: 0,021% · MR 21–30: 0,070% · Legendary: 0,064% |
+
+**Leitura:** Prova Vandal é raramente usado entre os armas melee, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Prova Vandal
 

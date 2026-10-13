@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "24/153"
+uso_2025_pct: 0.7
 ---
 
 # Tenet Plinx
@@ -46,6 +48,19 @@ Tenet Plinx é uma **arma Tenet**: só se obtém **derrotando (vanquish) uma Sis
 | Disposição de Riven | 0,8 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 32.2 |
+
+## ⭐ Avaliação Popular — Tenet Plinx
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,70%** do tempo equipado |
+| Posição em 2025 | **#24 de 153** armas secundárias — uso médio (top 40%) |
+| Posição em 2024 | #22 de 148 (0,84%) → caiu 2 posições |
+| Uso por faixa de MR | MR 0–10: 0,039% · MR 11–20: 0,47% · MR 21–30: 0,87% · Legendary: 1,24% |
+
+**Leitura:** Tenet Plinx é uso médio (top 40%) entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Tenet Plinx
 

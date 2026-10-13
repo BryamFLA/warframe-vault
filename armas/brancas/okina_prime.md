@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "7/233"
+uso_2025_pct: 2.897
 ---
 
 # Okina Prime
@@ -62,6 +64,19 @@ Como conseguir a arma Okina Prime:
 | Disposição de Riven | 0,7 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 35.5.9 |
+
+## ⭐ Avaliação Popular — Okina Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **2,90%** do tempo equipado |
+| Posição em 2025 | **#7 de 233** armas melee — muito popular (top 5%) |
+| Posição em 2024 | #30 de 220 (0,81%) → subiu 23 posições |
+| Uso por faixa de MR | MR 0–10: 0,014% · MR 11–20: 2,68% · MR 21–30: 4,14% · Legendary: 4,67% |
+
+**Leitura:** Okina Prime é muito popular (top 5%) entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Okina Prime
 

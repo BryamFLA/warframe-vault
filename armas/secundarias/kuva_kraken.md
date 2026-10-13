@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "99/153"
+uso_2025_pct: 0.15
 ---
 
 # Kuva Kraken
@@ -47,6 +49,19 @@ Kuva Kraken é uma **arma Kuva**: só se obtém **derrotando (vanquish) um Kuva 
 | Recarga (s) | 1,5 |
 | Disposição de Riven | 1,1 |
 | Introduzida | Update 26 |
+
+## ⭐ Avaliação Popular — Kuva Kraken
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,15%** do tempo equipado |
+| Posição em 2025 | **#99 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #93 de 148 (0,17%) → caiu 6 posições |
+| Uso por faixa de MR | MR 0–10: 0,046% · MR 11–20: 0,11% · MR 21–30: 0,15% · Legendary: 0,31% |
+
+**Leitura:** Kuva Kraken é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Kuva Kraken
 

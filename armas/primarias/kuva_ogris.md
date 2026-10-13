@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "18/195"
+uso_2025_pct: 1.351
 ---
 
 # Kuva Ogris
@@ -46,6 +48,19 @@ Kuva Ogris é uma **arma Kuva**: só se obtém **derrotando (vanquish) um Kuva L
 | Recarga (s) | 2,1 |
 | Disposição de Riven | 0,7 |
 | Introduzida | Update 26 |
+
+## ⭐ Avaliação Popular — Kuva Ogris
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,35%** do tempo equipado |
+| Posição em 2025 | **#18 de 195** armas primárias — popular (top 15%) |
+| Posição em 2024 | #17 de 183 (1,44%) → caiu 1 posições |
+| Uso por faixa de MR | MR 0–10: 0,13% · MR 11–20: 0,84% · MR 21–30: 1,87% · Legendary: 2,64% |
+
+**Leitura:** Kuva Ogris é popular (top 15%) entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Kuva Ogris
 

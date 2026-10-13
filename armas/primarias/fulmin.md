@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "39/195"
+uso_2025_pct: 0.605
 ---
 
 # Fulmin
@@ -57,6 +59,19 @@ O blueprint de Fulmin é vendido no **Mercado** (por créditos).
 | Recarga (s) | 3 |
 | Disposição de Riven | 1 |
 | Introduzida | Update 25.0 |
+
+## ⭐ Avaliação Popular — Fulmin
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,60%** do tempo equipado |
+| Posição em 2025 | **#39 de 195** armas primárias — uso médio (top 40%) |
+| Posição em 2024 | #31 de 183 (0,85%) → caiu 8 posições |
+| Uso por faixa de MR | MR 0–10: 0,66% · MR 11–20: 1,00% · MR 21–30: 0,21% · Legendary: 0,062% |
+
+**Leitura:** Fulmin é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Fulmin
 

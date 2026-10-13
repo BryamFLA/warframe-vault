@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "184/195"
+uso_2025_pct: 0.033
 ---
 
 # Paracyst
@@ -58,6 +60,19 @@ O blueprint de Paracyst é pesquisado no **Bio Lab** do **Dojo do clã** (depois
 | Disposição de Riven | 1,31 |
 | Polaridades | Vazarin |
 | Introduzida | Update 15.5 |
+
+## ⭐ Avaliação Popular — Paracyst
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,033%** do tempo equipado |
+| Posição em 2025 | **#184 de 195** armas primárias — raramente usado |
+| Posição em 2024 | #179 de 183 (0,033%) → caiu 5 posições |
+| Uso por faixa de MR | MR 0–10: 0,017% · MR 11–20: 0,019% · MR 21–30: 0,057% · Legendary: 0,035% |
+
+**Leitura:** Paracyst é raramente usado entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Paracyst
 

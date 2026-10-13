@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "15/233"
+uso_2025_pct: 1.409
 ---
 
 # Harmony
@@ -60,6 +62,19 @@ Blueprint na missão **Ascension** (Brutus, Urano; 5%) ou com o **Ordis** por 30
 | Disposição de Riven | 0,6 |
 | Polaridades | Madurai, Vazarin |
 | Introduzida | Update 36 |
+
+## ⭐ Avaliação Popular — Harmony
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,41%** do tempo equipado |
+| Posição em 2025 | **#15 de 233** armas melee — popular (top 15%) |
+| Posição em 2024 | #15 de 220 (1,49%) → mesma posição |
+| Uso por faixa de MR | MR 0–10: 0,24% · MR 11–20: 2,21% · MR 21–30: 1,36% · Legendary: 0,82% |
+
+**Leitura:** Harmony é popular (top 15%) entre os armas melee, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Harmony
 

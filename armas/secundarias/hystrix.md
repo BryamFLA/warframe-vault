@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "98/153"
+uso_2025_pct: 0.155
 ---
 
 # Hystrix
@@ -60,6 +62,19 @@ O blueprint de Hystrix é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 1,2 |
 | Polaridades | Madurai |
 | Introduzida | Update 22.18 |
+
+## ⭐ Avaliação Popular — Hystrix
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,16%** do tempo equipado |
+| Posição em 2025 | **#98 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #87 de 148 (0,19%) → caiu 11 posições |
+| Uso por faixa de MR | MR 0–10: 0,17% · MR 11–20: 0,25% · MR 21–30: 0,10% · Legendary: 0,017% |
+
+**Leitura:** Hystrix é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Hystrix
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "146/153"
+uso_2025_pct: 0.065
 ---
 
 # Velox
@@ -66,6 +68,19 @@ Peças no **Granum Void**: Barrel na rotação C do normal, Receiver na rotaçã
 | Disposição de Riven | 1,25 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 28 |
+
+## ⭐ Avaliação Popular — Velox
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,065%** do tempo equipado |
+| Posição em 2025 | **#146 de 153** armas secundárias — raramente usado |
+| Posição em 2024 | #114 de 148 (0,13%) → caiu 32 posições |
+| Uso por faixa de MR | MR 0–10: 0,042% · MR 11–20: 0,071% · MR 21–30: 0,082% · Legendary: 0,040% |
+
+**Leitura:** Velox é raramente usado entre os armas secundárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Velox
 

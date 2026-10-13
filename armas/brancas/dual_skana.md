@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "92/233"
+uso_2025_pct: 0.246
 ---
 
 # Dual Skana
@@ -60,6 +62,19 @@ O blueprint de Dual Skana é vendido no **Mercado** (por créditos).
 | Follow-through | 0,5 |
 | Disposição de Riven | 1,48 |
 | Introduzida | Update Vanilla |
+
+## ⭐ Avaliação Popular — Dual Skana
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,25%** do tempo equipado |
+| Posição em 2025 | **#92 de 233** armas melee — uso médio (top 40%) |
+| Posição em 2024 | #85 de 220 (0,24%) → caiu 7 posições |
+| Uso por faixa de MR | MR 0–10: 0,98% · MR 11–20: 0,18% · MR 21–30: 0,055% · Legendary: 0,018% |
+
+**Leitura:** Dual Skana é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Dual Skana
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "145/233"
+uso_2025_pct: 0.122
 ---
 
 # Dual Keres
@@ -56,6 +58,19 @@ O blueprint de Dual Keres é vendido no **Mercado** (por créditos).
 | Follow-through | 0,5 |
 | Disposição de Riven | 1,1 |
 | Introduzida | Update 22.18 |
+
+## ⭐ Avaliação Popular — Dual Keres
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,12%** do tempo equipado |
+| Posição em 2025 | **#145 de 233** armas melee — pouco usado |
+| Posição em 2024 | #130 de 220 (0,13%) → caiu 15 posições |
+| Uso por faixa de MR | MR 0–10: 0,086% · MR 11–20: 0,18% · MR 21–30: 0,092% · Legendary: 0,022% |
+
+**Leitura:** Dual Keres é pouco usado entre os armas melee, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Dual Keres
 

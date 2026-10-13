@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "79/153"
+uso_2025_pct: 0.211
 ---
 
 # Athodai
@@ -64,6 +66,19 @@ Brinde da TennoCon 2020. Hoje, blueprint e componentes saem dos **Abandoned Dere
 | Disposição de Riven | 1,05 |
 | Polaridades | Madurai |
 | Introduzida | Update 28.2.1 |
+
+## ⭐ Avaliação Popular — Athodai
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,21%** do tempo equipado |
+| Posição em 2025 | **#79 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #72 de 148 (0,26%) → caiu 7 posições |
+| Uso por faixa de MR | MR 0–10: 0,12% · MR 11–20: 0,19% · MR 21–30: 0,22% · Legendary: 0,29% |
+
+**Leitura:** Athodai é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Athodai
 

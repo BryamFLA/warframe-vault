@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "93/153"
+uso_2025_pct: 0.164
 ---
 
 # Stug
@@ -62,6 +64,19 @@ O blueprint de Stug é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 1,48 |
 | Polaridades | Vazarin |
 | Introduzida | Update 11.5 |
+
+## ⭐ Avaliação Popular — Stug
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,16%** do tempo equipado |
+| Posição em 2025 | **#93 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #97 de 148 (0,17%) → subiu 4 posições |
+| Uso por faixa de MR | MR 0–10: 0,62% · MR 11–20: 0,22% · MR 21–30: 0,069% · Legendary: 0,055% |
+
+**Leitura:** Stug é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Stug
 

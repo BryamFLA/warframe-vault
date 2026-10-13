@@ -12,6 +12,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "111/113"
+uso_2025_pct: 0.053
 ---
 
 # Equinox
@@ -69,6 +71,19 @@ Equinox exige forjar dois **Aspects** (Night e Day), cada um com seus Neuroptics
 **Helminth:** a habilidade **Rest & Rage** pode ser subsumida (doada ao Helminth).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/new_loka.md|New Loka]].
+
+## ⭐ Avaliação Popular — Equinox
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,053%** do tempo equipado |
+| Posição em 2025 | **#111 de 113** Warframes — raramente usado |
+| Posição em 2024 | #101 de 106 (0,065%) → caiu 10 posições |
+| Uso por faixa de MR | MR 0–10: 0,051% · MR 11–20: 0,069% · MR 21–30: 0,047% · Legendary: 0,015% |
+
+**Leitura:** Equinox é raramente usado entre os Warframes, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Equinox
 

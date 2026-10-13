@@ -11,6 +11,8 @@ fontes: ["https://wiki.warframe.com/w/Volt", "https://wiki.warframe.com/w/Volt/A
 atualizado: 2026-10-07
 verificado: false
 agente: gpt
+uso_2025_rank: "9/113"
+uso_2025_pct: 2.626
 ---
 
 # Volt
@@ -193,6 +195,19 @@ Use Electric Shield antes de Discharge; Capacitance converte o dano ao grupo em 
 
 O Códice apresenta Volt como um Warframe de eletricidade e alto dano. É uma das escolhas iniciais de Awakening; sua função combina mobilidade do time, proteção contra tiros e controle elétrico.
 
+
+## ⭐ Avaliação Popular — Volt
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **2,63%** do tempo equipado |
+| Posição em 2025 | **#9 de 113** Warframes — popular (top 15%) |
+| Posição em 2024 | #8 de 106 (2,94%) → caiu 1 posições |
+| Uso por faixa de MR | MR 0–10: 14,82% · MR 11–20: 1,09% · MR 21–30: 0,12% · Legendary: 0,031% |
+
+**Leitura:** Volt é popular (top 15%) entre os Warframes, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 💡 Curiosidades — Volt
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "3/233"
+uso_2025_pct: 4.453
 ---
 
 # Praedos
@@ -55,6 +57,19 @@ Blueprint principal comprado do **Cavalero** (The Holdfasts) no Rank 4 por **9.0
 | Disposição de Riven | 0,6 |
 | Polaridades | Madurai, Naramon |
 | Introduzida | Update 31.5 |
+
+## ⭐ Avaliação Popular — Praedos
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **4,45%** do tempo equipado |
+| Posição em 2025 | **#3 de 233** armas melee — muito popular (top 5%) |
+| Posição em 2024 | #6 de 220 (3,73%) → subiu 3 posições |
+| Uso por faixa de MR | MR 0–10: 0,001% · MR 11–20: 2,69% · MR 21–30: 7,13% · Legendary: 10,00% |
+
+**Leitura:** Praedos é muito popular (top 5%) entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Praedos
 

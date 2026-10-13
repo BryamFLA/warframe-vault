@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "80/195"
+uso_2025_pct: 0.265
 ---
 
 # Kuva Karak
@@ -48,6 +50,19 @@ Kuva Karak é uma **arma Kuva**: só se obtém **derrotando (vanquish) um Kuva L
 | Disposição de Riven | 1,05 |
 | Polaridades | Madurai |
 | Introduzida | Update 26 |
+
+## ⭐ Avaliação Popular — Kuva Karak
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,26%** do tempo equipado |
+| Posição em 2025 | **#80 de 195** armas primárias — pouco usado |
+| Posição em 2024 | #73 de 183 (0,29%) → caiu 7 posições |
+| Uso por faixa de MR | MR 0–10: 0,070% · MR 11–20: 0,26% · MR 21–30: 0,30% · Legendary: 0,39% |
+
+**Leitura:** Kuva Karak é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Kuva Karak
 

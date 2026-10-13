@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "183/195"
+uso_2025_pct: 0.033
 ---
 
 # Flux Rifle
@@ -57,6 +59,19 @@ O blueprint de Flux Rifle é pesquisado no **Energy Lab** do **Dojo do clã** (d
 | Recarga (s) | 2,25 |
 | Disposição de Riven | 1,55 |
 | Introduzida | Update 8.0 |
+
+## ⭐ Avaliação Popular — Flux Rifle
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,033%** do tempo equipado |
+| Posição em 2025 | **#183 de 195** armas primárias — raramente usado |
+| Posição em 2024 | #173 de 183 (0,038%) → caiu 10 posições |
+| Uso por faixa de MR | MR 0–10: 0,022% · MR 11–20: 0,029% · MR 21–30: 0,055% · Legendary: 0,016% |
+
+**Leitura:** Flux Rifle é raramente usado entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Flux Rifle
 

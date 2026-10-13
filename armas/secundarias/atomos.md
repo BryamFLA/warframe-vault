@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "13/153"
+uso_2025_pct: 1.762
 ---
 
 # Atomos
@@ -58,6 +60,19 @@ O blueprint de Atomos é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 0,95 |
 | Polaridades | Vazarin |
 | Introduzida | Update 16.5 |
+
+## ⭐ Avaliação Popular — Atomos
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,76%** do tempo equipado |
+| Posição em 2025 | **#13 de 153** armas secundárias — popular (top 15%) |
+| Posição em 2024 | #12 de 148 (2,08%) → caiu 1 posições |
+| Uso por faixa de MR | MR 0–10: 1,65% · MR 11–20: 1,92% · MR 21–30: 1,43% · Legendary: 1,65% |
+
+**Leitura:** Atomos é popular (top 15%) entre os armas secundárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Atomos
 

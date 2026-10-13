@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "87/153"
+uso_2025_pct: 0.188
 ---
 
 # Hikou
@@ -64,6 +66,19 @@ O blueprint de Hikou é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 1,3 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 9.0 |
+
+## ⭐ Avaliação Popular — Hikou
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,19%** do tempo equipado |
+| Posição em 2025 | **#87 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #63 de 148 (0,28%) → caiu 24 posições |
+| Uso por faixa de MR | MR 0–10: 0,48% · MR 11–20: 0,27% · MR 21–30: 0,056% · Legendary: 0,009% |
+
+**Leitura:** Hikou é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Hikou
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "82/153"
+uso_2025_pct: 0.198
 ---
 
 # Twin Rogga
@@ -60,6 +62,19 @@ O blueprint de Twin Rogga é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 1,3 |
 | Polaridades | Naramon, Madurai |
 | Introduzida | Update 19.0 |
+
+## ⭐ Avaliação Popular — Twin Rogga
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,20%** do tempo equipado |
+| Posição em 2025 | **#82 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #79 de 148 (0,23%) → caiu 3 posições |
+| Uso por faixa de MR | MR 0–10: 0,078% · MR 11–20: 0,36% · MR 21–30: 0,13% · Legendary: 0,067% |
+
+**Leitura:** Twin Rogga é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Twin Rogga
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "61/233"
+uso_2025_pct: 0.399
 ---
 
 # Dex Dakra
@@ -45,6 +47,19 @@ Arma de **aniversário** (2º aniversário do Warframe): obtida nos Alertas de a
 | Disposição de Riven | 1,35 |
 | Polaridades | Naramon |
 | Introduzida | Update 16.1.2 |
+
+## ⭐ Avaliação Popular — Dex Dakra
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,40%** do tempo equipado |
+| Posição em 2025 | **#61 de 233** armas melee — uso médio (top 40%) |
+| Posição em 2024 | #43 de 220 (0,51%) → caiu 18 posições |
+| Uso por faixa de MR | MR 0–10: 0,85% · MR 11–20: 0,44% · MR 21–30: 0,21% · Legendary: 0,098% |
+
+**Leitura:** Dex Dakra é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Dex Dakra
 

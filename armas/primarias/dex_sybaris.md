@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "54/195"
+uso_2025_pct: 0.393
 ---
 
 # Dex Sybaris
@@ -47,6 +49,19 @@ Arma de **aniversário** do Warframe: obtida pelos Alertas de aniversário em ma
 | Recarga (s) | 1,5 |
 | Disposição de Riven | 1,3 |
 | Introduzida | Update 18.6.2 |
+
+## ⭐ Avaliação Popular — Dex Sybaris
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,39%** do tempo equipado |
+| Posição em 2025 | **#54 de 195** armas primárias — uso médio (top 40%) |
+| Posição em 2024 | #56 de 183 (0,39%) → subiu 2 posições |
+| Uso por faixa de MR | MR 0–10: 0,95% · MR 11–20: 0,38% · MR 21–30: 0,21% · Legendary: 0,11% |
+
+**Leitura:** Dex Sybaris é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Dex Sybaris
 

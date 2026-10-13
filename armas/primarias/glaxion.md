@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "170/195"
+uso_2025_pct: 0.052
 ---
 
 # Glaxion
@@ -57,6 +59,19 @@ O blueprint de Glaxion é pesquisado no **Energy Lab** do **Dojo do clã** (depo
 | Recarga (s) | 2,2 |
 | Disposição de Riven | 1,3 |
 | Introduzida | Update 14.5 |
+
+## ⭐ Avaliação Popular — Glaxion
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,052%** do tempo equipado |
+| Posição em 2025 | **#170 de 195** armas primárias — raramente usado |
+| Posição em 2024 | #160 de 183 (0,056%) → caiu 10 posições |
+| Uso por faixa de MR | MR 0–10: 0,028% · MR 11–20: 0,070% · MR 21–30: 0,058% · Legendary: 0,006% |
+
+**Leitura:** Glaxion é raramente usado entre os armas primárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Glaxion
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "136/153"
+uso_2025_pct: 0.081
 ---
 
 # Castanas
@@ -58,6 +60,19 @@ O blueprint de Castana é pesquisado no **Tenno Lab** do **Dojo do clã** (depoi
 | Disposição de Riven | 1,4 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 12.2 |
+
+## ⭐ Avaliação Popular — Castanas
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,081%** do tempo equipado |
+| Posição em 2025 | **#136 de 153** armas secundárias — raramente usado |
+| Posição em 2024 | #126 de 148 (0,098%) → caiu 10 posições |
+| Uso por faixa de MR | MR 0–10: 0,12% · MR 11–20: 0,12% · MR 21–30: 0,048% · Legendary: 0,007% |
+
+**Leitura:** Castanas é raramente usado entre os armas secundárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Castanas
 

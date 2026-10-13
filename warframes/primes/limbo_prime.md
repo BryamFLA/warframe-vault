@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "81/113"
+uso_2025_pct: 0.268
 ---
 
 # Limbo Prime
@@ -76,6 +78,19 @@ Como conseguir a Warframe Limbo Prime:
 | 4 | **Cataclysm** | 100 | A violent blast of Void energy tears open a pocket of rift plane which can sustain itself for a short period before collapsing in another lethal blast. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]].
+
+## ⭐ Avaliação Popular — Limbo Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,27%** do tempo equipado |
+| Posição em 2025 | **#81 de 113** Warframes — pouco usado |
+| Posição em 2024 | #70 de 106 (0,35%) → caiu 11 posições |
+| Uso por faixa de MR | MR 0–10: 0,043% · MR 11–20: 0,20% · MR 21–30: 0,41% · Legendary: 0,41% |
+
+**Leitura:** Limbo Prime é pouco usado entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Limbo Prime
 

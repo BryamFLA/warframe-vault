@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "33/233"
+uso_2025_pct: 0.738
 ---
 
 # Prisma Skana
@@ -44,6 +46,19 @@ Prisma Skana é vendida pelo **Baro Ki'Teer** (mercador do Void que visita os Re
 | Follow-through | 0,6 |
 | Disposição de Riven | 1,2 |
 | Introduzida | Update 16.6.2 |
+
+## ⭐ Avaliação Popular — Prisma Skana
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,74%** do tempo equipado |
+| Posição em 2025 | **#33 de 233** armas melee — popular (top 15%) |
+| Posição em 2024 | #28 de 220 (0,90%) → caiu 5 posições |
+| Uso por faixa de MR | MR 0–10: 0,094% · MR 11–20: 0,57% · MR 21–30: 1,06% · Legendary: 1,29% |
+
+**Leitura:** Prisma Skana é popular (top 15%) entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Prisma Skana
 

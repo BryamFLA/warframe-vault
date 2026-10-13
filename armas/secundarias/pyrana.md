@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "74/153"
+uso_2025_pct: 0.221
 ---
 
 # Pyrana
@@ -59,6 +61,19 @@ O blueprint de Pyrana é pesquisado no **Tenno Lab** do **Dojo do clã** (depois
 | Recarga (s) | 2 |
 | Disposição de Riven | 0,95 |
 | Introduzida | Update 13.6 |
+
+## ⭐ Avaliação Popular — Pyrana
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,22%** do tempo equipado |
+| Posição em 2025 | **#74 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #65 de 148 (0,28%) → caiu 9 posições |
+| Uso por faixa de MR | MR 0–10: 0,18% · MR 11–20: 0,45% · MR 21–30: 0,087% · Legendary: 0,012% |
+
+**Leitura:** Pyrana é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Pyrana
 

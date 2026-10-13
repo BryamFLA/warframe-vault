@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "7/113"
+uso_2025_pct: 2.669
 ---
 
 # Titania Prime
@@ -76,6 +78,19 @@ Como conseguir a Warframe Titania Prime:
 | 4 | **Razorwing** | 25 | Shrink down and take flight, while razorflies attack nearby enemies and amplify the damage they take. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/new_loka.md|New Loka]], [[mecanicas/sindicatos/red_veil.md|Red Veil]].
+
+## ⭐ Avaliação Popular — Titania Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **2,67%** do tempo equipado |
+| Posição em 2025 | **#7 de 113** Warframes — popular (top 15%) |
+| Posição em 2024 | #12 de 106 (2,67%) → subiu 5 posições |
+| Uso por faixa de MR | MR 0–10: 0,78% · MR 11–20: 2,60% · MR 21–30: 3,26% · Legendary: 3,59% |
+
+**Leitura:** Titania Prime é popular (top 15%) entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Titania Prime
 

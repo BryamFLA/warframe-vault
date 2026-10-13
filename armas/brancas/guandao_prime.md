@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "17/233"
+uso_2025_pct: 1.166
 ---
 
 # Guandao Prime
@@ -62,6 +64,19 @@ Como conseguir a arma Guandao Prime:
 | Disposição de Riven | 0,7 |
 | Polaridades | Vazarin, Madurai, Madurai |
 | Introduzida | Update 29.3 |
+
+## ⭐ Avaliação Popular — Guandao Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,17%** do tempo equipado |
+| Posição em 2025 | **#17 de 233** armas melee — popular (top 15%) |
+| Posição em 2024 | #14 de 220 (1,57%) → caiu 3 posições |
+| Uso por faixa de MR | MR 0–10: 0,070% · MR 11–20: 1,35% · MR 21–30: 1,53% · Legendary: 1,13% |
+
+**Leitura:** Guandao Prime é popular (top 15%) entre os armas melee, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Guandao Prime
 

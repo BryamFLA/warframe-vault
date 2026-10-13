@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "47/195"
+uso_2025_pct: 0.49
 ---
 
 # Paris Prime
@@ -67,6 +69,19 @@ Como conseguir a arma Paris Prime:
 | Disposição de Riven | 1,35 |
 | Polaridades | Naramon, Madurai |
 | Introduzida | Update 9.0 |
+
+## ⭐ Avaliação Popular — Paris Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,49%** do tempo equipado |
+| Posição em 2025 | **#47 de 195** armas primárias — uso médio (top 40%) |
+| Posição em 2024 | #53 de 183 (0,42%) → subiu 6 posições |
+| Uso por faixa de MR | MR 0–10: 0,26% · MR 11–20: 0,46% · MR 21–30: 0,48% · Legendary: 0,75% |
+
+**Leitura:** Paris Prime é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Paris Prime
 

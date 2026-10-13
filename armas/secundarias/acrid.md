@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "140/153"
+uso_2025_pct: 0.071
 ---
 
 # Acrid
@@ -57,6 +59,19 @@ O blueprint de Acrid é pesquisado no **Bio Lab** do **Dojo do clã** (depois é
 | Recarga (s) | 1,2 |
 | Disposição de Riven | 1,33 |
 | Introduzida | Update 8.0 |
+
+## ⭐ Avaliação Popular — Acrid
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,071%** do tempo equipado |
+| Posição em 2025 | **#140 de 153** armas secundárias — raramente usado |
+| Posição em 2024 | #134 de 148 (0,074%) → caiu 6 posições |
+| Uso por faixa de MR | MR 0–10: 0,024% · MR 11–20: 0,065% · MR 21–30: 0,099% · Legendary: 0,077% |
+
+**Leitura:** Acrid é raramente usado entre os armas secundárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Acrid
 

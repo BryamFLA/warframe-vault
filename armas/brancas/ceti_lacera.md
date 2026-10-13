@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "82/233"
+uso_2025_pct: 0.278
 ---
 
 # Ceti Lacera
@@ -56,6 +58,19 @@ Arma de **evento**: Little Duck no Scarlet Spear (20.000 Scarlet Credits) e Fath
 | Disposição de Riven | 1,2 |
 | Polaridades | Naramon |
 | Introduzida | Update 27.3 |
+
+## ⭐ Avaliação Popular — Ceti Lacera
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,28%** do tempo equipado |
+| Posição em 2025 | **#82 de 233** armas melee — uso médio (top 40%) |
+| Posição em 2024 | #80 de 220 (0,27%) → caiu 2 posições |
+| Uso por faixa de MR | MR 0–10: 0,003% · MR 11–20: 0,31% · MR 21–30: 0,40% · Legendary: 0,25% |
+
+**Leitura:** Ceti Lacera é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Ceti Lacera
 

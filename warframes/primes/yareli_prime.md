@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "32/113"
+uso_2025_pct: 0.928
 ---
 
 # Yareli Prime
@@ -76,6 +78,19 @@ Como conseguir a Warframe Yareli Prime:
 | 4 | **Riptide** | 100 | Drag enemies into a crushing maelstrom and then blow them away in a watery burst. Each enemy trapped in the vortex increases the burst's damage. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/new_loka.md|New Loka]].
+
+## ⭐ Avaliação Popular — Yareli Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,93%** do tempo equipado |
+| Posição em 2025 | **#32 de 113** Warframes — uso médio (top 40%) |
+| Posição em 2024 | sem dado (item novo ou sem uso registrado) |
+| Uso por faixa de MR | MR 0–10: 0,63% · MR 11–20: 1,08% · MR 21–30: 0,85% · Legendary: 0,76% |
+
+**Leitura:** Yareli Prime é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Yareli Prime
 

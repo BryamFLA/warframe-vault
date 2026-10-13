@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "66/153"
+uso_2025_pct: 0.277
 ---
 
 # Zakti Prime
@@ -64,6 +66,19 @@ Como conseguir a arma Zakti Prime:
 | Disposição de Riven | 1,1 |
 | Polaridades | Naramon, Naramon, Madurai |
 | Introduzida | Update 29.3 |
+
+## ⭐ Avaliação Popular — Zakti Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,28%** do tempo equipado |
+| Posição em 2025 | **#66 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #55 de 148 (0,35%) → caiu 11 posições |
+| Uso por faixa de MR | MR 0–10: 0,066% · MR 11–20: 0,20% · MR 21–30: 0,36% · Legendary: 0,40% |
+
+**Leitura:** Zakti Prime é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Zakti Prime
 

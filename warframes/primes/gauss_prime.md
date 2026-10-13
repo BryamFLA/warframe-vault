@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "2/113"
+uso_2025_pct: 4.175
 ---
 
 # Gauss Prime
@@ -78,6 +80,19 @@ Como conseguir a Warframe Gauss Prime:
 **Helminth:** a habilidade **Thermal Sunder** pode ser subsumida (doada ao Helminth).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
+
+## ⭐ Avaliação Popular — Gauss Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **4,18%** do tempo equipado |
+| Posição em 2025 | **#2 de 113** Warframes — muito popular (top 5%) |
+| Posição em 2024 | #2 de 106 (4,84%) → mesma posição |
+| Uso por faixa de MR | MR 0–10: 3,26% · MR 11–20: 5,60% · MR 21–30: 2,96% · Legendary: 2,28% |
+
+**Leitura:** Gauss Prime é muito popular (top 5%) entre os Warframes, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Gauss Prime
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "135/153"
+uso_2025_pct: 0.083
 ---
 
 # Seer
@@ -64,6 +66,19 @@ Blueprint e componentes: drop do boss **Captain Vor** em **Tolstoj, Mercúrio**.
 | Recarga (s) | 2,8 |
 | Disposição de Riven | 1,5 |
 | Introduzida | Update 9.0 |
+
+## ⭐ Avaliação Popular — Seer
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,083%** do tempo equipado |
+| Posição em 2025 | **#135 de 153** armas secundárias — raramente usado |
+| Posição em 2024 | #130 de 148 (0,095%) → caiu 5 posições |
+| Uso por faixa de MR | MR 0–10: 0,22% · MR 11–20: 0,095% · MR 21–30: 0,043% · Legendary: 0,016% |
+
+**Leitura:** Seer é raramente usado entre os armas secundárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Seer
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "30/153"
+uso_2025_pct: 0.671
 ---
 
 # Despair
@@ -64,6 +66,19 @@ Blueprint dropado pelo **Stalker** e **Shadow Stalker**. Também no pacote *What
 | Disposição de Riven | 1,3 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 8.0 |
+
+## ⭐ Avaliação Popular — Despair
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,67%** do tempo equipado |
+| Posição em 2025 | **#30 de 153** armas secundárias — uso médio (top 40%) |
+| Posição em 2024 | #27 de 148 (0,70%) → caiu 3 posições |
+| Uso por faixa de MR | MR 0–10: 0,72% · MR 11–20: 0,75% · MR 21–30: 0,56% · Legendary: 0,50% |
+
+**Leitura:** Despair é uso médio (top 40%) entre os armas secundárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Despair
 

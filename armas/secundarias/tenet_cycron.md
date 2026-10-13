@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "10/153"
+uso_2025_pct: 2.474
 ---
 
 # Tenet Cycron
@@ -45,6 +47,19 @@ Tenet Cycron é uma **arma Tenet**: só se obtém **derrotando (vanquish) uma Si
 | Disposição de Riven | 0,7 |
 | Polaridades | Naramon, Naramon |
 | Introduzida | Update 30.5 |
+
+## ⭐ Avaliação Popular — Tenet Cycron
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **2,47%** do tempo equipado |
+| Posição em 2025 | **#10 de 153** armas secundárias — popular (top 15%) |
+| Posição em 2024 | #8 de 148 (3,26%) → caiu 2 posições |
+| Uso por faixa de MR | MR 0–10: 0,23% · MR 11–20: 1,81% · MR 21–30: 3,22% · Legendary: 3,67% |
+
+**Leitura:** Tenet Cycron é popular (top 15%) entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Tenet Cycron
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "37/233"
+uso_2025_pct: 0.7
 ---
 
 # Coda Mire
@@ -46,6 +48,19 @@ Coda Mire é uma **arma Coda**: comprada da **Eleanor** (The Hex, Höllvania Cen
 | Disposição de Riven | 0,75 |
 | Polaridades | Vazarin |
 | Introduzida | Update 38.5 |
+
+## ⭐ Avaliação Popular — Coda Mire
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,70%** do tempo equipado |
+| Posição em 2025 | **#37 de 233** armas melee — uso médio (top 40%) |
+| Posição em 2024 | sem dado (item novo ou sem uso registrado) |
+| Uso por faixa de MR | MR 0–10: 0,000% · MR 11–20: 0,94% · MR 21–30: 1,09% · Legendary: 1,46% |
+
+**Leitura:** Coda Mire é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Coda Mire
 

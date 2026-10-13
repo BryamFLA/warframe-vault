@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "11/153"
+uso_2025_pct: 2.109
 ---
 
 # Dual Coda Torxica
@@ -47,6 +49,19 @@ Dual Coda Torxica é uma **arma Coda**: comprada da **Eleanor** (The Hex, Höllv
 | Disposição de Riven | 0,55 |
 | Polaridades | Naramon |
 | Introduzida | Update 38.5 |
+
+## ⭐ Avaliação Popular — Dual Coda Torxica
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **2,11%** do tempo equipado |
+| Posição em 2025 | **#11 de 153** armas secundárias — popular (top 15%) |
+| Posição em 2024 | sem dado (item novo ou sem uso registrado) |
+| Uso por faixa de MR | MR 0–10: 0,000% · MR 11–20: 3,13% · MR 21–30: 3,04% · Legendary: 3,56% |
+
+**Leitura:** Dual Coda Torxica é popular (top 15%) entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Dual Coda Torxica
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "115/153"
+uso_2025_pct: 0.118
 ---
 
 # Twin Kohmak
@@ -64,6 +66,19 @@ Blueprint principal: drop da boss **Kela De Thaym** em **Merrow, Sedna**.
 | Disposição de Riven | 1,25 |
 | Polaridades | Vazarin |
 | Introduzida | Update 16.0 |
+
+## ⭐ Avaliação Popular — Twin Kohmak
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,12%** do tempo equipado |
+| Posição em 2025 | **#115 de 153** armas secundárias — raramente usado |
+| Posição em 2024 | #104 de 148 (0,15%) → caiu 11 posições |
+| Uso por faixa de MR | MR 0–10: 0,005% · MR 11–20: 0,096% · MR 21–30: 0,17% · Legendary: 0,15% |
+
+**Leitura:** Twin Kohmak é raramente usado entre os armas secundárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Twin Kohmak
 

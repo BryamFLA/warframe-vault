@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "180/233"
+uso_2025_pct: 0.078
 ---
 
 # Tipedo Prime
@@ -62,6 +64,19 @@ Como conseguir a arma Tipedo Prime:
 | Disposição de Riven | 1,25 |
 | Polaridades | Vazarin, Madurai |
 | Introduzida | Update 24.5.8 |
+
+## ⭐ Avaliação Popular — Tipedo Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,078%** do tempo equipado |
+| Posição em 2025 | **#180 de 233** armas melee — raramente usado |
+| Posição em 2024 | #172 de 220 (0,083%) → caiu 8 posições |
+| Uso por faixa de MR | MR 0–10: 0,027% · MR 11–20: 0,055% · MR 21–30: 0,100% · Legendary: 0,16% |
+
+**Leitura:** Tipedo Prime é raramente usado entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Tipedo Prime
 

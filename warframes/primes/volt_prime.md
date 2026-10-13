@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "3/113"
+uso_2025_pct: 3.611
 ---
 
 # Volt Prime
@@ -76,6 +78,19 @@ Como conseguir a Warframe Volt Prime:
 | 4 | **Discharge** | 100 | Volt discharges the electricity that courses through him. The shockwave paralyzes and damages nearby enemies. Enemies on the edge of the shockwave are stunned. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/red_veil.md|Red Veil]].
+
+## ⭐ Avaliação Popular — Volt Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **3,61%** do tempo equipado |
+| Posição em 2025 | **#3 de 113** Warframes — muito popular (top 5%) |
+| Posição em 2024 | #5 de 106 (3,42%) → subiu 2 posições |
+| Uso por faixa de MR | MR 0–10: 0,82% · MR 11–20: 3,71% · MR 21–30: 4,61% · Legendary: 4,25% |
+
+**Leitura:** Volt Prime é muito popular (top 5%) entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Volt Prime
 

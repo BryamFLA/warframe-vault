@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "96/233"
+uso_2025_pct: 0.218
 ---
 
 # Orthos
@@ -60,6 +62,19 @@ O blueprint de Orthos é vendido no **Mercado** (por créditos).
 | Follow-through | 0,6 |
 | Disposição de Riven | 1 |
 | Introduzida | Update 8.1 |
+
+## ⭐ Avaliação Popular — Orthos
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,22%** do tempo equipado |
+| Posição em 2025 | **#96 de 233** armas melee — pouco usado |
+| Posição em 2024 | #82 de 220 (0,25%) → caiu 14 posições |
+| Uso por faixa de MR | MR 0–10: 0,70% · MR 11–20: 0,17% · MR 21–30: 0,030% · Legendary: 0,003% |
+
+**Leitura:** Orthos é pouco usado entre os armas melee, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Orthos
 

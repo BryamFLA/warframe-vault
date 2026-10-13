@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "39/233"
+uso_2025_pct: 0.664
 ---
 
 # Tenet Exec
@@ -43,6 +45,19 @@ Tenet Exec é uma **arma Tenet** comprada do **Ergo Glast** (The Perrin Sequence
 | Follow-through | 0,6 |
 | Disposição de Riven | 0,8 |
 | Introduzida | Update 30.5 |
+
+## ⭐ Avaliação Popular — Tenet Exec
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,66%** do tempo equipado |
+| Posição em 2025 | **#39 de 233** armas melee — uso médio (top 40%) |
+| Posição em 2024 | #50 de 220 (0,47%) → subiu 11 posições |
+| Uso por faixa de MR | MR 0–10: 0,000% · MR 11–20: 0,62% · MR 21–30: 1,03% · Legendary: 1,76% |
+
+**Leitura:** Tenet Exec é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Tenet Exec
 

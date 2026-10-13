@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "51/195"
+uso_2025_pct: 0.452
 ---
 
 # Coda Sporothrix
@@ -48,6 +50,19 @@ Coda Sporothrix é uma **arma Coda**: comprada da **Eleanor** (The Hex, Höllvan
 | Disposição de Riven | 0,95 |
 | Polaridades | Vazarin |
 | Introduzida | Update 38.5 |
+
+## ⭐ Avaliação Popular — Coda Sporothrix
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,45%** do tempo equipado |
+| Posição em 2025 | **#51 de 195** armas primárias — uso médio (top 40%) |
+| Posição em 2024 | sem dado (item novo ou sem uso registrado) |
+| Uso por faixa de MR | MR 0–10: 0,000% · MR 11–20: 0,43% · MR 21–30: 0,66% · Legendary: 1,06% |
+
+**Leitura:** Coda Sporothrix é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Coda Sporothrix
 

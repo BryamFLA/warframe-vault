@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "229/233"
+uso_2025_pct: 0.028
 ---
 
 # Korrudo
@@ -64,6 +66,19 @@ Blueprint principal: drop do **Tusk Thumper Bull/Doma** nas **Plains of Eidolon*
 | Disposição de Riven | 1,35 |
 | Polaridades | Madurai |
 | Introduzida | Update 24.6 |
+
+## ⭐ Avaliação Popular — Korrudo
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,028%** do tempo equipado |
+| Posição em 2025 | **#229 de 233** armas melee — raramente usado |
+| Posição em 2024 | #212 de 220 (0,030%) → caiu 17 posições |
+| Uso por faixa de MR | MR 0–10: 0,004% · MR 11–20: 0,018% · MR 21–30: 0,045% · Legendary: 0,053% |
+
+**Leitura:** Korrudo é raramente usado entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Korrudo
 

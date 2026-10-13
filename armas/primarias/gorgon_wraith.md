@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "164/195"
+uso_2025_pct: 0.058
 ---
 
 # Gorgon Wraith
@@ -65,6 +67,19 @@ Blueprint e peças no alerta de **Razorback Assassination**. Peças negociáveis
 | Recarga (s) | 3 |
 | Disposição de Riven | 1,35 |
 | Introduzida | Update 12.4 |
+
+## ⭐ Avaliação Popular — Gorgon Wraith
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,058%** do tempo equipado |
+| Posição em 2025 | **#164 de 195** armas primárias — raramente usado |
+| Posição em 2024 | #153 de 183 (0,063%) → caiu 11 posições |
+| Uso por faixa de MR | MR 0–10: 0,034% · MR 11–20: 0,051% · MR 21–30: 0,080% · Legendary: 0,063% |
+
+**Leitura:** Gorgon Wraith é raramente usado entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Gorgon Wraith
 

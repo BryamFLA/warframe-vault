@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "55/113"
+uso_2025_pct: 0.623
 ---
 
 # Zephyr Prime
@@ -76,6 +78,19 @@ Como conseguir a Warframe Zephyr Prime:
 | 4 | **Tornado** | 100 | Create deadly tornadoes that seek out and engulf enemies. Tornadoes deal the elemental Damage Type they absorb the most. Shoot engulfed enemies to inflict extra damage. Hold for stationary tornadoes or tap for wandering ones. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/new_loka.md|New Loka]], [[mecanicas/sindicatos/red_veil.md|Red Veil]].
+
+## ⭐ Avaliação Popular — Zephyr Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,62%** do tempo equipado |
+| Posição em 2025 | **#55 de 113** Warframes — pouco usado |
+| Posição em 2024 | #46 de 106 (0,74%) → caiu 9 posições |
+| Uso por faixa de MR | MR 0–10: 0,14% · MR 11–20: 0,62% · MR 21–30: 0,80% · Legendary: 0,77% |
+
+**Leitura:** Zephyr Prime é pouco usado entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Zephyr Prime
 

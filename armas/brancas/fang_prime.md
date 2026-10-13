@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "63/233"
+uso_2025_pct: 0.39
 ---
 
 # Fang Prime
@@ -62,6 +64,19 @@ Como conseguir a arma Fang Prime:
 | Disposição de Riven | 1,3 |
 | Polaridades | Vazarin |
 | Introduzida | Update 9.0 |
+
+## ⭐ Avaliação Popular — Fang Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,39%** do tempo equipado |
+| Posição em 2025 | **#63 de 233** armas melee — uso médio (top 40%) |
+| Posição em 2024 | #56 de 220 (0,41%) → caiu 7 posições |
+| Uso por faixa de MR | MR 0–10: 0,25% · MR 11–20: 0,65% · MR 21–30: 0,24% · Legendary: 0,16% |
+
+**Leitura:** Fang Prime é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Fang Prime
 

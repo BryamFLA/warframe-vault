@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "71/153"
+uso_2025_pct: 0.24
 ---
 
 # Akstiletto
@@ -60,6 +62,19 @@ O blueprint de Akstiletto é pesquisado no **Tenno Lab** do **Dojo do clã** (de
 | Disposição de Riven | 0,95 |
 | Polaridades | Naramon |
 | Introduzida | Update 12.0 |
+
+## ⭐ Avaliação Popular — Akstiletto
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,24%** do tempo equipado |
+| Posição em 2025 | **#71 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #59 de 148 (0,33%) → caiu 12 posições |
+| Uso por faixa de MR | MR 0–10: 0,37% · MR 11–20: 0,47% · MR 21–30: 0,042% · Legendary: 0,005% |
+
+**Leitura:** Akstiletto é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Akstiletto
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "159/233"
+uso_2025_pct: 0.098
 ---
 
 # Ankyros
@@ -60,6 +62,19 @@ O blueprint de Ankyros é vendido no **Mercado** (por créditos).
 | Follow-through | 0,9 |
 | Disposição de Riven | 1,5 |
 | Introduzida | Update 7.8 |
+
+## ⭐ Avaliação Popular — Ankyros
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,098%** do tempo equipado |
+| Posição em 2025 | **#159 de 233** armas melee — pouco usado |
+| Posição em 2024 | #160 de 220 (0,089%) → subiu 1 posições |
+| Uso por faixa de MR | MR 0–10: 0,16% · MR 11–20: 0,15% · MR 21–30: 0,027% · Legendary: 0,003% |
+
+**Leitura:** Ankyros é pouco usado entre os armas melee, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Ankyros
 

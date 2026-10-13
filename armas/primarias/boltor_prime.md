@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "34/195"
+uso_2025_pct: 0.767
 ---
 
 # Boltor Prime
@@ -65,6 +67,19 @@ Como conseguir a arma Boltor Prime:
 | Disposição de Riven | 1,2 |
 | Polaridades | Vazarin, Madurai |
 | Introduzida | Update 12.4 |
+
+## ⭐ Avaliação Popular — Boltor Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,77%** do tempo equipado |
+| Posição em 2025 | **#34 de 195** armas primárias — uso médio (top 40%) |
+| Posição em 2024 | #37 de 183 (0,74%) → subiu 3 posições |
+| Uso por faixa de MR | MR 0–10: 0,20% · MR 11–20: 0,68% · MR 21–30: 1,03% · Legendary: 0,91% |
+
+**Leitura:** Boltor Prime é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Boltor Prime
 

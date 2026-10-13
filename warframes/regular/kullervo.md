@@ -12,6 +12,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "19/113"
+uso_2025_pct: 1.597
 ---
 
 # Kullervo
@@ -72,6 +74,19 @@ Blueprints comprados da **Acrithis** (Dormizone, Duviri) com **Kullervo's Bane**
 **Helminth:** a habilidade **Wrathful Advance** pode ser subsumida (doada ao Helminth).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/new_loka.md|New Loka]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
+
+## ⭐ Avaliação Popular — Kullervo
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,60%** do tempo equipado |
+| Posição em 2025 | **#19 de 113** Warframes — uso médio (top 40%) |
+| Posição em 2024 | #18 de 106 (1,46%) → caiu 1 posições |
+| Uso por faixa de MR | MR 0–10: 0,59% · MR 11–20: 1,69% · MR 21–30: 1,94% · Legendary: 1,84% |
+
+**Leitura:** Kullervo é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Kullervo
 

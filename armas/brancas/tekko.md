@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "202/233"
+uso_2025_pct: 0.062
 ---
 
 # Tekko
@@ -57,6 +59,19 @@ O blueprint de Tekko é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 1,4 |
 | Polaridades | Madurai |
 | Introduzida | Update 17.5 |
+
+## ⭐ Avaliação Popular — Tekko
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,062%** do tempo equipado |
+| Posição em 2025 | **#202 de 233** armas melee — raramente usado |
+| Posição em 2024 | #196 de 220 (0,057%) → caiu 6 posições |
+| Uso por faixa de MR | MR 0–10: 0,049% · MR 11–20: 0,096% · MR 21–30: 0,049% · Legendary: 0,007% |
+
+**Leitura:** Tekko é raramente usado entre os armas melee, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Tekko
 

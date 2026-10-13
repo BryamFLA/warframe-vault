@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "43/233"
+uso_2025_pct: 0.614
 ---
 
 # Dual Viciss
@@ -60,6 +62,19 @@ Blueprints comprados da **Minerva** (The Hex) — 2 componentes por 5.000 e prin
 | Follow-through | 0,5 |
 | Disposição de Riven | 0,8 |
 | Introduzida | Update 38.5 |
+
+## ⭐ Avaliação Popular — Dual Viciss
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,61%** do tempo equipado |
+| Posição em 2025 | **#43 de 233** armas melee — uso médio (top 40%) |
+| Posição em 2024 | sem dado (item novo ou sem uso registrado) |
+| Uso por faixa de MR | MR 0–10: 0,070% · MR 11–20: 0,49% · MR 21–30: 0,93% · Legendary: 0,82% |
+
+**Leitura:** Dual Viciss é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Dual Viciss
 

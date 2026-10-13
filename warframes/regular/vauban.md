@@ -12,6 +12,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "75/113"
+uso_2025_pct: 0.327
 ---
 
 # Vauban
@@ -72,6 +74,19 @@ Blueprint principal no **Mercado**. Componentes nas **Nightwave Offerings** por 
 **Helminth:** a habilidade **Tesla Nervos** pode ser subsumida (doada ao Helminth).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
+
+## ⭐ Avaliação Popular — Vauban
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,33%** do tempo equipado |
+| Posição em 2025 | **#75 de 113** Warframes — pouco usado |
+| Posição em 2024 | #64 de 106 (0,43%) → caiu 11 posições |
+| Uso por faixa de MR | MR 0–10: 0,72% · MR 11–20: 0,35% · MR 21–30: 0,074% · Legendary: 0,008% |
+
+**Leitura:** Vauban é pouco usado entre os Warframes, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Vauban
 

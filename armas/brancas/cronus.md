@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "88/233"
+uso_2025_pct: 0.258
 ---
 
 # Cronus
@@ -61,6 +63,19 @@ Blueprint principal: drop do boss **Captain Vor** em **Tolstoj, Mercúrio**.
 | Disposição de Riven | 1,48 |
 | Polaridades | Madurai |
 | Introduzida | Update Vanilla |
+
+## ⭐ Avaliação Popular — Cronus
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,26%** do tempo equipado |
+| Posição em 2025 | **#88 de 233** armas melee — uso médio (top 40%) |
+| Posição em 2024 | #83 de 220 (0,25%) → caiu 5 posições |
+| Uso por faixa de MR | MR 0–10: 0,91% · MR 11–20: 0,18% · MR 21–30: 0,022% · Legendary: 0,013% |
+
+**Leitura:** Cronus é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Cronus
 

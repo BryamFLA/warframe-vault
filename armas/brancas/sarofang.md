@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "97/233"
+uso_2025_pct: 0.217
 ---
 
 # Sarofang
@@ -67,6 +69,19 @@ Blueprint na rotação A e peças na rotação B do **Conjunction Survival** (Lu
 | Disposição de Riven | 1,1 |
 | Polaridades | Madurai |
 | Introduzida | Update 32.2 |
+
+## ⭐ Avaliação Popular — Sarofang
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,22%** do tempo equipado |
+| Posição em 2025 | **#97 de 233** armas melee — pouco usado |
+| Posição em 2024 | #92 de 220 (0,23%) → caiu 5 posições |
+| Uso por faixa de MR | MR 0–10: 0,39% · MR 11–20: 0,29% · MR 21–30: 0,20% · Legendary: 0,11% |
+
+**Leitura:** Sarofang é pouco usado entre os armas melee, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Sarofang
 

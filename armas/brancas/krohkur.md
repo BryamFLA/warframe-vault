@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "173/233"
+uso_2025_pct: 0.084
 ---
 
 # Krohkur
@@ -56,6 +58,19 @@ O blueprint de Krohkur é vendido no **Mercado** (por créditos).
 | Follow-through | 0,6 |
 | Disposição de Riven | 1,35 |
 | Introduzida | Update 22 |
+
+## ⭐ Avaliação Popular — Krohkur
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,084%** do tempo equipado |
+| Posição em 2025 | **#173 de 233** armas melee — pouco usado |
+| Posição em 2024 | #173 de 220 (0,083%) → mesma posição |
+| Uso por faixa de MR | MR 0–10: 0,023% · MR 11–20: 0,14% · MR 21–30: 0,080% · Legendary: 0,026% |
+
+**Leitura:** Krohkur é pouco usado entre os armas melee, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Krohkur
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "93/195"
+uso_2025_pct: 0.203
 ---
 
 # Vectis
@@ -64,6 +66,19 @@ O blueprint de Vectis é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 1,15 |
 | Polaridades | Madurai |
 | Introduzida | Update 10.6 |
+
+## ⭐ Avaliação Popular — Vectis
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,20%** do tempo equipado |
+| Posição em 2025 | **#93 de 195** armas primárias — pouco usado |
+| Posição em 2024 | #79 de 183 (0,26%) → caiu 14 posições |
+| Uso por faixa de MR | MR 0–10: 0,50% · MR 11–20: 0,22% · MR 21–30: 0,041% · Legendary: 0,007% |
+
+**Leitura:** Vectis é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Vectis
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "193/195"
+uso_2025_pct: 0.02
 ---
 
 # Simulor
@@ -52,6 +54,19 @@ Blueprint comprado do **Cephalon Simaris** por **75.000 de Standing**.
 | Disposição de Riven | 1,25 |
 | Polaridades | Vazarin, Naramon |
 | Introduzida | Update 16.10 |
+
+## ⭐ Avaliação Popular — Simulor
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,020%** do tempo equipado |
+| Posição em 2025 | **#193 de 195** armas primárias — raramente usado |
+| Posição em 2024 | #181 de 183 (0,026%) → caiu 12 posições |
+| Uso por faixa de MR | MR 0–10: 0,023% · MR 11–20: 0,017% · MR 21–30: 0,027% · Legendary: 0,018% |
+
+**Leitura:** Simulor é raramente usado entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Simulor
 

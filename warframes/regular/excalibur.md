@@ -11,6 +11,8 @@ fontes: ["https://wiki.warframe.com/w/Excalibur", "https://wiki.warframe.com/w/E
 atualizado: 2026-10-12
 verificado: false
 agente: gpt
+uso_2025_rank: "10/113"
+uso_2025_pct: 2.609
 ---
 
 # Excalibur
@@ -221,6 +223,19 @@ Mantenha Toxin e Cold antes de Heat na ordem de combinação para formar Viral +
 
 O Códice do regular apresenta um espadachim. O arquivo Orokin do Prime narra a adoção dos Tenno contra os Sentients, que voltavam a tecnologia Orokin contra seus criadores; encerra identificando Excalibur como o primeiro.
 
+
+## ⭐ Avaliação Popular — Excalibur
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **2,61%** do tempo equipado |
+| Posição em 2025 | **#10 de 113** Warframes — popular (top 15%) |
+| Posição em 2024 | #7 de 106 (3,27%) → caiu 3 posições |
+| Uso por faixa de MR | MR 0–10: 21,35% · MR 11–20: 0,16% · MR 21–30: 0,11% · Legendary: 0,17% |
+
+**Leitura:** Excalibur é popular (top 15%) entre os Warframes, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 💡 Curiosidades — Excalibur
 

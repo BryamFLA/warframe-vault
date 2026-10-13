@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "101/153"
+uso_2025_pct: 0.146
 ---
 
 # Ballistica Prime
@@ -67,6 +69,19 @@ Como conseguir a arma Ballistica Prime:
 | Disposição de Riven | 1,2 |
 | Polaridades | Naramon, Madurai, Madurai |
 | Introduzida | Update 21.6 |
+
+## ⭐ Avaliação Popular — Ballistica Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,15%** do tempo equipado |
+| Posição em 2025 | **#101 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #88 de 148 (0,18%) → caiu 13 posições |
+| Uso por faixa de MR | MR 0–10: 0,028% · MR 11–20: 0,085% · MR 21–30: 0,19% · Legendary: 0,25% |
+
+**Leitura:** Ballistica Prime é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Ballistica Prime
 

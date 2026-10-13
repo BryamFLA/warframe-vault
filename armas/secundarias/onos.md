@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "25/153"
+uso_2025_pct: 0.692
 ---
 
 # Onos
@@ -62,6 +64,19 @@ Blueprint na rotação B do **Disruption Armatus** (Deimos; exige The Deadlock P
 | Disposição de Riven | 0,85 |
 | Polaridades | Madurai |
 | Introduzida | Update 35.5 |
+
+## ⭐ Avaliação Popular — Onos
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,69%** do tempo equipado |
+| Posição em 2025 | **#25 de 153** armas secundárias — uso médio (top 40%) |
+| Posição em 2024 | #17 de 148 (1,00%) → caiu 8 posições |
+| Uso por faixa de MR | MR 0–10: 0,061% · MR 11–20: 0,91% · MR 21–30: 0,90% · Legendary: 0,62% |
+
+**Leitura:** Onos é uso médio (top 40%) entre os armas secundárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Onos
 

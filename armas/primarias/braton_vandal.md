@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "165/195"
+uso_2025_pct: 0.056
 ---
 
 # Braton Vandal
@@ -68,6 +70,19 @@ Como conseguir a arma Braton Vandal:
 | Disposição de Riven | 1,3 |
 | Polaridades | Madurai |
 | Introduzida | Update 6.3.1 |
+
+## ⭐ Avaliação Popular — Braton Vandal
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,056%** do tempo equipado |
+| Posição em 2025 | **#165 de 195** armas primárias — raramente usado |
+| Posição em 2024 | #163 de 183 (0,051%) → caiu 2 posições |
+| Uso por faixa de MR | MR 0–10: 0,003% · MR 11–20: 0,008% · MR 21–30: 0,046% · Legendary: 0,21% |
+
+**Leitura:** Braton Vandal é raramente usado entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Braton Vandal
 

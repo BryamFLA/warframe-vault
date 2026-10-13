@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "4/113"
+uso_2025_pct: 3.521
 ---
 
 # Revenant Prime
@@ -76,6 +78,19 @@ Como conseguir a Warframe Revenant Prime:
 | 4 | **Danse Macabre** | 25 | Erupt with a multitude of Eidolon energy beams and sweep a circle of death around Revenant. The beams will modify their Damage Type to target select defenses, while incoming damage is redirected back into the beams. Hold fire to boost Status Effects and Damage, at the cost of increased energy consumption. Thralls killed by this ability leave overshield pickups. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
+
+## ⭐ Avaliação Popular — Revenant Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **3,52%** do tempo equipado |
+| Posição em 2025 | **#4 de 113** Warframes — muito popular (top 5%) |
+| Posição em 2024 | #1 de 106 (4,96%) → caiu 3 posições |
+| Uso por faixa de MR | MR 0–10: 1,08% · MR 11–20: 4,29% · MR 21–30: 3,75% · Legendary: 3,53% |
+
+**Leitura:** Revenant Prime é muito popular (top 5%) entre os Warframes, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Revenant Prime
 

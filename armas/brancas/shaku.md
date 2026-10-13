@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "222/233"
+uso_2025_pct: 0.038
 ---
 
 # Shaku
@@ -54,6 +56,19 @@ O blueprint de Shaku é pesquisado no **Tenno Lab** do **Dojo do clã** (depois 
 | Follow-through | 0,5 |
 | Disposição de Riven | 1,35 |
 | Introduzida | Update 18.1 |
+
+## ⭐ Avaliação Popular — Shaku
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,038%** do tempo equipado |
+| Posição em 2025 | **#222 de 233** armas melee — raramente usado |
+| Posição em 2024 | #210 de 220 (0,039%) → caiu 12 posições |
+| Uso por faixa de MR | MR 0–10: 0,004% · MR 11–20: 0,040% · MR 21–30: 0,062% · Legendary: 0,024% |
+
+**Leitura:** Shaku é raramente usado entre os armas melee, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Shaku
 

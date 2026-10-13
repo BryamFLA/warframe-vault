@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "36/195"
+uso_2025_pct: 0.716
 ---
 
 # Rubico Prime
@@ -66,6 +68,19 @@ Como conseguir a arma Rubico Prime:
 | Disposição de Riven | 0,7 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 23.9 |
+
+## ⭐ Avaliação Popular — Rubico Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,72%** do tempo equipado |
+| Posição em 2025 | **#36 de 195** armas primárias — uso médio (top 40%) |
+| Posição em 2024 | #28 de 183 (1,09%) → caiu 8 posições |
+| Uso por faixa de MR | MR 0–10: 0,042% · MR 11–20: 0,68% · MR 21–30: 1,03% · Legendary: 0,74% |
+
+**Leitura:** Rubico Prime é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Rubico Prime
 

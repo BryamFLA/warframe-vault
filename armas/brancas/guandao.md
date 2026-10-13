@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "83/233"
+uso_2025_pct: 0.274
 ---
 
 # Guandao
@@ -57,6 +59,19 @@ O blueprint de Guandao é pesquisado no **Tenno Lab** do **Dojo do clã** (depoi
 | Disposição de Riven | 1,05 |
 | Polaridades | Vazarin, Madurai |
 | Introduzida | Update 21.1 |
+
+## ⭐ Avaliação Popular — Guandao
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,27%** do tempo equipado |
+| Posição em 2025 | **#83 de 233** armas melee — uso médio (top 40%) |
+| Posição em 2024 | #64 de 220 (0,36%) → caiu 19 posições |
+| Uso por faixa de MR | MR 0–10: 0,53% · MR 11–20: 0,34% · MR 21–30: 0,094% · Legendary: 0,012% |
+
+**Leitura:** Guandao é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Guandao
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "156/195"
+uso_2025_pct: 0.07
 ---
 
 # Lanka
@@ -57,6 +59,19 @@ O blueprint de Lanka é pesquisado no **Energy Lab** do **Dojo do clã** (depois
 | Recarga (s) | 2 |
 | Disposição de Riven | 1,05 |
 | Introduzida | Update 8.0 |
+
+## ⭐ Avaliação Popular — Lanka
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,070%** do tempo equipado |
+| Posição em 2025 | **#156 de 195** armas primárias — raramente usado |
+| Posição em 2024 | #136 de 183 (0,099%) → caiu 20 posições |
+| Uso por faixa de MR | MR 0–10: 0,008% · MR 11–20: 0,071% · MR 21–30: 0,10% · Legendary: 0,060% |
+
+**Leitura:** Lanka é raramente usado entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Lanka
 

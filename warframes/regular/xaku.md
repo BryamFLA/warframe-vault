@@ -12,6 +12,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "85/113"
+uso_2025_pct: 0.235
 ---
 
 # Xaku
@@ -84,6 +86,19 @@ Blueprint principal ao concluir a quest **Heart of Deimos**. Componentes: **boun
 **Helminth:** a habilidade **Xata's Whisper** pode ser subsumida (doada ao Helminth).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
+
+## ⭐ Avaliação Popular — Xaku
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,24%** do tempo equipado |
+| Posição em 2025 | **#85 de 113** Warframes — raramente usado |
+| Posição em 2024 | #27 de 106 (1,05%) → caiu 58 posições |
+| Uso por faixa de MR | MR 0–10: 0,089% · MR 11–20: 0,21% · MR 21–30: 0,33% · Legendary: 0,23% |
+
+**Leitura:** Xaku é raramente usado entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Xaku
 

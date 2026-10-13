@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "78/233"
+uso_2025_pct: 0.292
 ---
 
 # Ruvox
@@ -65,6 +67,19 @@ Blueprint e peças na rotação B do **Disruption Armatus** (Deimos) ou com o **
 | Disposição de Riven | 0,9 |
 | Polaridades | Naramon |
 | Introduzida | Update 35.5 |
+
+## ⭐ Avaliação Popular — Ruvox
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,29%** do tempo equipado |
+| Posição em 2025 | **#78 de 233** armas melee — uso médio (top 40%) |
+| Posição em 2024 | #39 de 220 (0,55%) → caiu 39 posições |
+| Uso por faixa de MR | MR 0–10: 0,083% · MR 11–20: 0,28% · MR 21–30: 0,36% · Legendary: 0,41% |
+
+**Leitura:** Ruvox é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Ruvox
 

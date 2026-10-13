@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "146/195"
+uso_2025_pct: 0.087
 ---
 
 # Battacor
@@ -58,6 +60,19 @@ O blueprint de Battacor é pesquisado no **Energy Lab** do **Dojo do clã** (dep
 | Recarga (s) | 2 |
 | Disposição de Riven | 1,1 |
 | Introduzida | Update 24 |
+
+## ⭐ Avaliação Popular — Battacor
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,087%** do tempo equipado |
+| Posição em 2025 | **#146 de 195** armas primárias — pouco usado |
+| Posição em 2024 | #133 de 183 (0,10%) → caiu 13 posições |
+| Uso por faixa de MR | MR 0–10: 0,047% · MR 11–20: 0,048% · MR 21–30: 0,14% · Legendary: 0,17% |
+
+**Leitura:** Battacor é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Battacor
 

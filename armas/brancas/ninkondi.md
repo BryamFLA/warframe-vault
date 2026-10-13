@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "184/233"
+uso_2025_pct: 0.077
 ---
 
 # Ninkondi
@@ -55,6 +57,19 @@ O blueprint de Ninkondi é vendido no **Mercado** (por créditos).
 | Follow-through | 0,5 |
 | Disposição de Riven | 1,41 |
 | Introduzida | Update 17.4 |
+
+## ⭐ Avaliação Popular — Ninkondi
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,077%** do tempo equipado |
+| Posição em 2025 | **#184 de 233** armas melee — raramente usado |
+| Posição em 2024 | #184 de 220 (0,075%) → mesma posição |
+| Uso por faixa de MR | MR 0–10: 0,044% · MR 11–20: 0,13% · MR 21–30: 0,047% · Legendary: 0,003% |
+
+**Leitura:** Ninkondi é raramente usado entre os armas melee, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Ninkondi
 

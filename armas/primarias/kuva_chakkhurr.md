@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "55/195"
+uso_2025_pct: 0.393
 ---
 
 # Kuva Chakkhurr
@@ -46,6 +48,19 @@ Kuva Chakkhurr é uma **arma Kuva**: só se obtém **derrotando (vanquish) um Ku
 | Disposição de Riven | 0,95 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 26 |
+
+## ⭐ Avaliação Popular — Kuva Chakkhurr
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,39%** do tempo equipado |
+| Posição em 2025 | **#55 de 195** armas primárias — uso médio (top 40%) |
+| Posição em 2024 | #48 de 183 (0,50%) → caiu 7 posições |
+| Uso por faixa de MR | MR 0–10: 0,064% · MR 11–20: 0,37% · MR 21–30: 0,53% · Legendary: 0,49% |
+
+**Leitura:** Kuva Chakkhurr é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Kuva Chakkhurr
 

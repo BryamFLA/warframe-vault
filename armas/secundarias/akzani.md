@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "53/153"
+uso_2025_pct: 0.366
 ---
 
 # Akzani
@@ -60,6 +62,19 @@ O blueprint de Akzani é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 1,52 |
 | Polaridades | Naramon |
 | Introduzida | Update 14.0 |
+
+## ⭐ Avaliação Popular — Akzani
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,37%** do tempo equipado |
+| Posição em 2025 | **#53 de 153** armas secundárias — uso médio (top 40%) |
+| Posição em 2024 | #49 de 148 (0,43%) → caiu 4 posições |
+| Uso por faixa de MR | MR 0–10: 1,05% · MR 11–20: 0,45% · MR 21–30: 0,088% · Legendary: 0,049% |
+
+**Leitura:** Akzani é uso médio (top 40%) entre os armas secundárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Akzani
 

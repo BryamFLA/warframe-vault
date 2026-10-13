@@ -12,6 +12,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "72/113"
+uso_2025_pct: 0.335
 ---
 
 # Wisp
@@ -79,6 +81,19 @@ Blueprint principal e componentes: drop do boss **Ropalolyst**, Júpiter.
 **Helminth:** a habilidade **Breach Surge** pode ser subsumida (doada ao Helminth).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/new_loka.md|New Loka]].
+
+## ⭐ Avaliação Popular — Wisp
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,34%** do tempo equipado |
+| Posição em 2025 | **#72 de 113** Warframes — pouco usado |
+| Posição em 2024 | #50 de 106 (0,62%) → caiu 22 posições |
+| Uso por faixa de MR | MR 0–10: 0,35% · MR 11–20: 0,42% · MR 21–30: 0,27% · Legendary: 0,11% |
+
+**Leitura:** Wisp é pouco usado entre os Warframes, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Wisp
 

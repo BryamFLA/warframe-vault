@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "153/195"
+uso_2025_pct: 0.078
 ---
 
 # Harpak
@@ -60,6 +62,19 @@ O blueprint de Harpak é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 1,55 |
 | Polaridades | Madurai |
 | Introduzida | Update 17.0 |
+
+## ⭐ Avaliação Popular — Harpak
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,078%** do tempo equipado |
+| Posição em 2025 | **#153 de 195** armas primárias — raramente usado |
+| Posição em 2024 | #150 de 183 (0,072%) → caiu 3 posições |
+| Uso por faixa de MR | MR 0–10: 0,057% · MR 11–20: 0,13% · MR 21–30: 0,042% · Legendary: 0,017% |
+
+**Leitura:** Harpak é raramente usado entre os armas primárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Harpak
 

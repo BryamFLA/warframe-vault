@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "32/153"
+uso_2025_pct: 0.646
 ---
 
 # Zylok Prime
@@ -65,6 +67,19 @@ Como conseguir a arma Zylok Prime:
 | Disposição de Riven | 0,95 |
 | Polaridades | Naramon, Madurai |
 | Introduzida | Update 34 |
+
+## ⭐ Avaliação Popular — Zylok Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,65%** do tempo equipado |
+| Posição em 2025 | **#32 de 153** armas secundárias — uso médio (top 40%) |
+| Posição em 2024 | #29 de 148 (0,68%) → caiu 3 posições |
+| Uso por faixa de MR | MR 0–10: 0,013% · MR 11–20: 0,75% · MR 21–30: 0,73% · Legendary: 0,60% |
+
+**Leitura:** Zylok Prime é uso médio (top 40%) entre os armas secundárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Zylok Prime
 

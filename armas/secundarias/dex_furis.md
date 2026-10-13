@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "17/153"
+uso_2025_pct: 1.085
 ---
 
 # Dex Furis
@@ -48,6 +50,19 @@ Arma de **aniversário** do Warframe: obtida pelos Alertas de aniversário em ma
 | Disposição de Riven | 1,39 |
 | Polaridades | Naramon |
 | Introduzida | Update 12.6 |
+
+## ⭐ Avaliação Popular — Dex Furis
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,09%** do tempo equipado |
+| Posição em 2025 | **#17 de 153** armas secundárias — popular (top 15%) |
+| Posição em 2024 | #15 de 148 (1,50%) → caiu 2 posições |
+| Uso por faixa de MR | MR 0–10: 2,81% · MR 11–20: 1,53% · MR 21–30: 0,39% · Legendary: 0,11% |
+
+**Leitura:** Dex Furis é popular (top 15%) entre os armas secundárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Dex Furis
 

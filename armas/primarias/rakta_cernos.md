@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "169/195"
+uso_2025_pct: 0.053
 ---
 
 # Rakta Cernos
@@ -48,6 +50,19 @@ Rakta Cernos é uma **arma de Sindicato**: compre do **the  Red Veil** com **125
 | Disposição de Riven | 1,25 |
 | Polaridades | Madurai, Madurai, Naramon |
 | Introduzida | Update 17.3 |
+
+## ⭐ Avaliação Popular — Rakta Cernos
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,053%** do tempo equipado |
+| Posição em 2025 | **#169 de 195** armas primárias — raramente usado |
+| Posição em 2024 | #158 de 183 (0,060%) → caiu 11 posições |
+| Uso por faixa de MR | MR 0–10: 0,001% · MR 11–20: 0,061% · MR 21–30: 0,076% · Legendary: 0,043% |
+
+**Leitura:** Rakta Cernos é raramente usado entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Rakta Cernos
 

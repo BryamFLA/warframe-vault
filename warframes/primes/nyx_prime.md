@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "27/113"
+uso_2025_pct: 1.235
 ---
 
 # Nyx Prime
@@ -78,6 +80,19 @@ Diferente da maioria dos itens Prime, Nyx Prime **nunca é vaultado (permanently
 | 4 | **Absorb** | 75 | Nyx draws in and contains the damage dealt to her and the damage confused enemies deal to each other then converts it into a devastating radial blast. Following the blast, she enters a brief invulnerable state and gains a Weapon Damage boost proportional to the absorbed damage. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/new_loka.md|New Loka]].
+
+## ⭐ Avaliação Popular — Nyx Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,24%** do tempo equipado |
+| Posição em 2025 | **#27 de 113** Warframes — uso médio (top 40%) |
+| Posição em 2024 | #66 de 106 (0,38%) → subiu 39 posições |
+| Uso por faixa de MR | MR 0–10: 0,11% · MR 11–20: 0,87% · MR 21–30: 1,91% · Legendary: 2,00% |
+
+**Leitura:** Nyx Prime é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Nyx Prime
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "49/233"
+uso_2025_pct: 0.509
 ---
 
 # Redeemer Prime
@@ -62,6 +64,19 @@ Como conseguir a arma Redeemer Prime:
 | Disposição de Riven | 0,65 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 24.2.2 |
+
+## ⭐ Avaliação Popular — Redeemer Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,51%** do tempo equipado |
+| Posição em 2025 | **#49 de 233** armas melee — uso médio (top 40%) |
+| Posição em 2024 | #29 de 220 (0,85%) → caiu 20 posições |
+| Uso por faixa de MR | MR 0–10: 0,057% · MR 11–20: 0,53% · MR 21–30: 0,71% · Legendary: 0,56% |
+
+**Leitura:** Redeemer Prime é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Redeemer Prime
 

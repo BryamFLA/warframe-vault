@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "26/233"
+uso_2025_pct: 0.895
 ---
 
 # Paracesis
@@ -54,6 +56,19 @@ Blueprint dado ao concluir a quest **Chimera Prologue**.
 | Follow-through | 0,6 |
 | Disposição de Riven | 0,65 |
 | Introduzida | Update 23.10 |
+
+## ⭐ Avaliação Popular — Paracesis
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,90%** do tempo equipado |
+| Posição em 2025 | **#26 de 233** armas melee — popular (top 15%) |
+| Posição em 2024 | #19 de 220 (1,23%) → caiu 7 posições |
+| Uso por faixa de MR | MR 0–10: 0,045% · MR 11–20: 0,83% · MR 21–30: 1,46% · Legendary: 0,93% |
+
+**Leitura:** Paracesis é popular (top 15%) entre os armas melee, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Paracesis
 

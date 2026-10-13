@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "73/195"
+uso_2025_pct: 0.286
 ---
 
 # Basmu
@@ -55,6 +57,19 @@ Arma de **evento**: vendida pela Little Duck no Operation: Scarlet Spear (15.000
 | Disposição de Riven | 1,2 |
 | Polaridades | Madurai |
 | Introduzida | Update 27.3 |
+
+## ⭐ Avaliação Popular — Basmu
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,29%** do tempo equipado |
+| Posição em 2025 | **#73 de 195** armas primárias — uso médio (top 40%) |
+| Posição em 2024 | #80 de 183 (0,25%) → subiu 7 posições |
+| Uso por faixa de MR | MR 0–10: 0,004% · MR 11–20: 0,27% · MR 21–30: 0,41% · Legendary: 0,43% |
+
+**Leitura:** Basmu é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Basmu
 

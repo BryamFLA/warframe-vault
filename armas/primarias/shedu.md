@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "25/195"
+uso_2025_pct: 1.085
 ---
 
 # Shedu
@@ -63,6 +65,19 @@ Blueprint ao concluir a quest **Erra**. Componentes: drop raro dos **Symbilysts*
 | Disposição de Riven | 0,75 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 27 |
+
+## ⭐ Avaliação Popular — Shedu
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,09%** do tempo equipado |
+| Posição em 2025 | **#25 de 195** armas primárias — popular (top 15%) |
+| Posição em 2024 | #11 de 183 (1,94%) → caiu 14 posições |
+| Uso por faixa de MR | MR 0–10: 0,003% · MR 11–20: 1,39% · MR 21–30: 1,20% · Legendary: 0,97% |
+
+**Leitura:** Shedu é popular (top 15%) entre os armas primárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Shedu
 

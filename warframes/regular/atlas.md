@@ -20,6 +20,8 @@ estado:
 atualizado: 2026-10-08
 verificado: true
 agente: opus
+uso_2025_rank: "108/113"
+uso_2025_pct: 0.077
 ---
 
 # Atlas
@@ -241,6 +243,19 @@ Ele foi introduzido no **Update 17.5**, junto da jornada **[[missoes/jornadas/se
 
 A versão **[[warframes/primes/atlas_prime.md|Atlas Prime]]** chegou no **Update 25.8**, com 550 de vida, 500 de armadura, 215 de energia e **quatro polaridades**.
 
+
+## ⭐ Avaliação Popular — Atlas
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,077%** do tempo equipado |
+| Posição em 2025 | **#108 de 113** Warframes — raramente usado |
+| Posição em 2024 | #103 de 106 (0,061%) → caiu 5 posições |
+| Uso por faixa de MR | MR 0–10: 0,083% · MR 11–20: 0,11% · MR 21–30: 0,052% · Legendary: 0,005% |
+
+**Leitura:** Atlas é raramente usado entre os Warframes, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 💡 Curiosidades — Atlas
 

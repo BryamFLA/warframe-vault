@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "7/195"
+uso_2025_pct: 2.391
 ---
 
 # Ignis Wraith
@@ -61,6 +63,19 @@ Blueprint nos **Abandoned Derelict Caches** de missões Grineer na **Veil Proxim
 | Recarga (s) | 1,7 |
 | Disposição de Riven | 0,65 |
 | Introduzida | Update 19.12 |
+
+## ⭐ Avaliação Popular — Ignis Wraith
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **2,39%** do tempo equipado |
+| Posição em 2025 | **#7 de 195** armas primárias — muito popular (top 5%) |
+| Posição em 2024 | #3 de 183 (3,84%) → caiu 4 posições |
+| Uso por faixa de MR | MR 0–10: 0,79% · MR 11–20: 3,63% · MR 21–30: 2,06% · Legendary: 1,30% |
+
+**Leitura:** Ignis Wraith é muito popular (top 5%) entre os armas primárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Ignis Wraith
 

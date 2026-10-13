@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "122/195"
+uso_2025_pct: 0.122
 ---
 
 # Tigris
@@ -59,6 +61,19 @@ O blueprint de Tigris é vendido no **Mercado** (por créditos).
 | Recarga (s) | 1,8 |
 | Disposição de Riven | 1,1 |
 | Introduzida | Update 11.0 |
+
+## ⭐ Avaliação Popular — Tigris
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,12%** do tempo equipado |
+| Posição em 2025 | **#122 de 195** armas primárias — pouco usado |
+| Posição em 2024 | #107 de 183 (0,16%) → caiu 15 posições |
+| Uso por faixa de MR | MR 0–10: 0,18% · MR 11–20: 0,18% · MR 21–30: 0,027% · Legendary: 0,003% |
+
+**Leitura:** Tigris é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Tigris
 

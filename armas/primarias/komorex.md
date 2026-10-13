@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "155/195"
+uso_2025_pct: 0.073
 ---
 
 # Komorex
@@ -59,6 +61,19 @@ O blueprint de Komorex é pesquisado no **Energy Lab** do **Dojo do clã** (depo
 | Recarga (s) | 3 |
 | Disposição de Riven | 1,15 |
 | Introduzida | Update 25.0 |
+
+## ⭐ Avaliação Popular — Komorex
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,073%** do tempo equipado |
+| Posição em 2025 | **#155 de 195** armas primárias — raramente usado |
+| Posição em 2024 | #147 de 183 (0,078%) → caiu 8 posições |
+| Uso por faixa de MR | MR 0–10: 0,024% · MR 11–20: 0,054% · MR 21–30: 0,11% · Legendary: 0,091% |
+
+**Leitura:** Komorex é raramente usado entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Komorex
 

@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "14/113"
+uso_2025_pct: 2.283
 ---
 
 # Xaku Prime
@@ -78,6 +80,19 @@ Como conseguir a Warframe Xaku Prime:
 **Helminth:** a habilidade **Xata's Whisper** pode ser subsumida (doada ao Helminth).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
+
+## ⭐ Avaliação Popular — Xaku Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **2,28%** do tempo equipado |
+| Posição em 2025 | **#14 de 113** Warframes — popular (top 15%) |
+| Posição em 2024 | #61 de 106 (0,47%) → subiu 47 posições |
+| Uso por faixa de MR | MR 0–10: 0,72% · MR 11–20: 2,36% · MR 21–30: 2,52% · Legendary: 3,19% |
+
+**Leitura:** Xaku Prime é popular (top 15%) entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Xaku Prime
 

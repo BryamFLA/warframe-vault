@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "67/153"
+uso_2025_pct: 0.261
 ---
 
 # Sicarus
@@ -58,6 +60,19 @@ Sicarus é vendida **pronta** no **Mercado** por **20,000 créditos**.
 | Disposição de Riven | 1,2 |
 | Polaridades | Madurai |
 | Introduzida | Update Vanilla |
+
+## ⭐ Avaliação Popular — Sicarus
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,26%** do tempo equipado |
+| Posição em 2025 | **#67 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #61 de 148 (0,30%) → caiu 6 posições |
+| Uso por faixa de MR | MR 0–10: 1,22% · MR 11–20: 0,20% · MR 21–30: 0,035% · Legendary: 0,008% |
+
+**Leitura:** Sicarus é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Sicarus
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "94/153"
+uso_2025_pct: 0.164
 ---
 
 # Sepulcrum
@@ -61,6 +63,19 @@ Comprada do **Father** (Entrati) no Rank 2: principal por 4.000 e componentes po
 | Recarga (s) | 4 |
 | Disposição de Riven | 1,1 |
 | Introduzida | Update 29 |
+
+## ⭐ Avaliação Popular — Sepulcrum
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,16%** do tempo equipado |
+| Posição em 2025 | **#94 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #83 de 148 (0,20%) → caiu 11 posições |
+| Uso por faixa de MR | MR 0–10: 0,004% · MR 11–20: 0,067% · MR 21–30: 0,25% · Legendary: 0,33% |
+
+**Leitura:** Sepulcrum é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Sepulcrum
 

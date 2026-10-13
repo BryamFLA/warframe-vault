@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "4/233"
+uso_2025_pct: 3.631
 ---
 
 # Skiajati
@@ -45,6 +47,19 @@ Dada **pronta e rank máximo** na penúltima missão da quest **The Sacrifice**,
 | Disposição de Riven | 0,9 |
 | Polaridades | Umbra, Umbra |
 | Introduzida | Update 23.0 |
+
+## ⭐ Avaliação Popular — Skiajati
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **3,63%** do tempo equipado |
+| Posição em 2025 | **#4 de 233** armas melee — muito popular (top 5%) |
+| Posição em 2024 | #5 de 220 (3,94%) → subiu 1 posições |
+| Uso por faixa de MR | MR 0–10: 5,72% · MR 11–20: 5,03% · MR 21–30: 0,94% · Legendary: 0,34% |
+
+**Leitura:** Skiajati é muito popular (top 5%) entre os armas melee, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Skiajati
 

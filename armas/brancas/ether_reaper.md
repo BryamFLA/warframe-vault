@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "133/233"
+uso_2025_pct: 0.144
 ---
 
 # Ether Reaper
@@ -57,6 +59,19 @@ O blueprint de Ether Reaper é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 1,45 |
 | Polaridades | Madurai |
 | Introduzida | Update 10.0 |
+
+## ⭐ Avaliação Popular — Ether Reaper
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,14%** do tempo equipado |
+| Posição em 2025 | **#133 de 233** armas melee — pouco usado |
+| Posição em 2024 | #111 de 220 (0,18%) → caiu 22 posições |
+| Uso por faixa de MR | MR 0–10: 0,29% · MR 11–20: 0,16% · MR 21–30: 0,048% · Legendary: 0,024% |
+
+**Leitura:** Ether Reaper é pouco usado entre os armas melee, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Ether Reaper
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "185/233"
+uso_2025_pct: 0.076
 ---
 
 # Pathocyst
@@ -63,6 +65,19 @@ Blueprint e peças: drop do boss **Zealoid Prelate** em **Exequias, Deimos**. Ne
 | Disposição de Riven | 1,3 |
 | Polaridades | Madurai, Vazarin |
 | Introduzida | Update 25.7.7 |
+
+## ⭐ Avaliação Popular — Pathocyst
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,076%** do tempo equipado |
+| Posição em 2025 | **#185 de 233** armas melee — raramente usado |
+| Posição em 2024 | #138 de 220 (0,12%) → caiu 47 posições |
+| Uso por faixa de MR | MR 0–10: 0,031% · MR 11–20: 0,081% · MR 21–30: 0,094% · Legendary: 0,11% |
+
+**Leitura:** Pathocyst é raramente usado entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Pathocyst
 

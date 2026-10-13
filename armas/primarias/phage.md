@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "110/195"
+uso_2025_pct: 0.153
 ---
 
 # Phage
@@ -58,6 +60,19 @@ O blueprint de Phage é pesquisado no **Bio Lab** do **Dojo do clã** (depois é
 | Disposição de Riven | 1,46 |
 | Polaridades | Naramon |
 | Introduzida | Update 12.0 |
+
+## ⭐ Avaliação Popular — Phage
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,15%** do tempo equipado |
+| Posição em 2025 | **#110 de 195** armas primárias — pouco usado |
+| Posição em 2024 | #106 de 183 (0,16%) → caiu 4 posições |
+| Uso por faixa de MR | MR 0–10: 0,017% · MR 11–20: 0,17% · MR 21–30: 0,19% · Legendary: 0,16% |
+
+**Leitura:** Phage é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Phage
 

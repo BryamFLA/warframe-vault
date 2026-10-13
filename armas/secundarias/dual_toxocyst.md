@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "6/153"
+uso_2025_pct: 4.392
 ---
 
 # Dual Toxocyst
@@ -60,6 +62,19 @@ O blueprint de Dual Toxocyst é pesquisado no **Bio Lab** do **Dojo do clã** (d
 | Disposição de Riven | 1,35 |
 | Polaridades | Madurai, Naramon |
 | Introduzida | Update 18.5 |
+
+## ⭐ Avaliação Popular — Dual Toxocyst
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **4,39%** do tempo equipado |
+| Posição em 2025 | **#6 de 153** armas secundárias — muito popular (top 5%) |
+| Posição em 2024 | #6 de 148 (3,47%) → mesma posição |
+| Uso por faixa de MR | MR 0–10: 0,035% · MR 11–20: 4,21% · MR 21–30: 5,63% · Legendary: 4,88% |
+
+**Leitura:** Dual Toxocyst é muito popular (top 5%) entre os armas secundárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Dual Toxocyst
 

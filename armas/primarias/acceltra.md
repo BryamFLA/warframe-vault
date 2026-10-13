@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "26/195"
+uso_2025_pct: 1.027
 ---
 
 # Acceltra
@@ -65,6 +67,19 @@ Blueprint principal: drop dos **Demolisher Infested** no Dark Sector **Ur, Urano
 | Disposição de Riven | 0,65 |
 | Polaridades | Naramon |
 | Introduzida | Update 25.7 |
+
+## ⭐ Avaliação Popular — Acceltra
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,03%** do tempo equipado |
+| Posição em 2025 | **#26 de 195** armas primárias — popular (top 15%) |
+| Posição em 2024 | #14 de 183 (1,65%) → caiu 12 posições |
+| Uso por faixa de MR | MR 0–10: 1,32% · MR 11–20: 1,59% · MR 21–30: 0,38% · Legendary: 0,17% |
+
+**Leitura:** Acceltra é popular (top 15%) entre os armas primárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Acceltra
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "119/153"
+uso_2025_pct: 0.116
 ---
 
 # Knell
@@ -59,6 +61,19 @@ O blueprint de Knell é vendido no **Mercado** (por créditos).
 | Recarga (s) | 2 |
 | Disposição de Riven | 1,25 |
 | Introduzida | Update 21.0 |
+
+## ⭐ Avaliação Popular — Knell
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,12%** do tempo equipado |
+| Posição em 2025 | **#119 de 153** armas secundárias — raramente usado |
+| Posição em 2024 | #125 de 148 (0,10%) → subiu 6 posições |
+| Uso por faixa de MR | MR 0–10: 0,017% · MR 11–20: 0,21% · MR 21–30: 0,099% · Legendary: 0,026% |
+
+**Leitura:** Knell é raramente usado entre os armas secundárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Knell
 

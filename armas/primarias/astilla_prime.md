@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "74/195"
+uso_2025_pct: 0.282
 ---
 
 # Astilla Prime
@@ -64,6 +66,19 @@ Como conseguir a arma Astilla Prime:
 | Disposição de Riven | 1,2 |
 | Polaridades | Madurai, Naramon, Madurai |
 | Introduzida | Update 30.3 |
+
+## ⭐ Avaliação Popular — Astilla Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,28%** do tempo equipado |
+| Posição em 2025 | **#74 de 195** armas primárias — uso médio (top 40%) |
+| Posição em 2024 | #69 de 183 (0,31%) → caiu 5 posições |
+| Uso por faixa de MR | MR 0–10: 0,081% · MR 11–20: 0,24% · MR 21–30: 0,38% · Legendary: 0,37% |
+
+**Leitura:** Astilla Prime é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Astilla Prime
 

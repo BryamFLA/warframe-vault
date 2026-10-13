@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "62/195"
+uso_2025_pct: 0.348
 ---
 
 # Boar
@@ -64,6 +66,19 @@ Blueprint dropado pelos **Drekar Troopers** (Grineer).
 | Recarga (s) | 2,7 |
 | Disposição de Riven | 1,45 |
 | Introduzida | Update Vanilla |
+
+## ⭐ Avaliação Popular — Boar
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,35%** do tempo equipado |
+| Posição em 2025 | **#62 de 195** armas primárias — uso médio (top 40%) |
+| Posição em 2024 | #62 de 183 (0,36%) → mesma posição |
+| Uso por faixa de MR | MR 0–10: 1,03% · MR 11–20: 0,32% · MR 21–30: 0,050% · Legendary: 0,011% |
+
+**Leitura:** Boar é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Boar
 

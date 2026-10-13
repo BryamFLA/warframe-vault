@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "179/195"
+uso_2025_pct: 0.039
 ---
 
 # Javlok
@@ -58,6 +60,19 @@ O blueprint de Javlok é pesquisado no **Chem Lab** do **Dojo do clã** (depois 
 | Disposição de Riven | 1,3 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 19.4 |
+
+## ⭐ Avaliação Popular — Javlok
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,039%** do tempo equipado |
+| Posição em 2025 | **#179 de 195** armas primárias — raramente usado |
+| Posição em 2024 | #169 de 183 (0,044%) → caiu 10 posições |
+| Uso por faixa de MR | MR 0–10: 0,014% · MR 11–20: 0,033% · MR 21–30: 0,065% · Legendary: 0,032% |
+
+**Leitura:** Javlok é raramente usado entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Javlok
 

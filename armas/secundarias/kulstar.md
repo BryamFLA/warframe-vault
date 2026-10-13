@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "100/153"
+uso_2025_pct: 0.148
 ---
 
 # Kulstar
@@ -58,6 +60,19 @@ O blueprint de Kulstar é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 1,3 |
 | Polaridades | Vazarin |
 | Introduzida | Update 17.0 |
+
+## ⭐ Avaliação Popular — Kulstar
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,15%** do tempo equipado |
+| Posição em 2025 | **#100 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #89 de 148 (0,18%) → caiu 11 posições |
+| Uso por faixa de MR | MR 0–10: 0,20% · MR 11–20: 0,17% · MR 21–30: 0,12% · Legendary: 0,079% |
+
+**Leitura:** Kulstar é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Kulstar
 

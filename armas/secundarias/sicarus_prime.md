@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "21/153"
+uso_2025_pct: 0.762
 ---
 
 # Sicarus Prime
@@ -65,6 +67,19 @@ Como conseguir a arma Sicarus Prime:
 | Disposição de Riven | 1,15 |
 | Polaridades | Madurai |
 | Introduzida | Update 11.0 |
+
+## ⭐ Avaliação Popular — Sicarus Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,76%** do tempo equipado |
+| Posição em 2025 | **#21 de 153** armas secundárias — popular (top 15%) |
+| Posição em 2024 | #40 de 148 (0,53%) → subiu 19 posições |
+| Uso por faixa de MR | MR 0–10: 0,12% · MR 11–20: 0,37% · MR 21–30: 1,03% · Legendary: 1,70% |
+
+**Leitura:** Sicarus Prime é popular (top 15%) entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Sicarus Prime
 

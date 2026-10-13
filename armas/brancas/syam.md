@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "19/233"
+uso_2025_pct: 1.097
 ---
 
 # Syam
@@ -57,6 +59,19 @@ Arma de **Duviri**: blueprint comprado na **Teshin's Cave** por **50 Pathos Clam
 | Disposição de Riven | 0,75 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 33 |
+
+## ⭐ Avaliação Popular — Syam
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,10%** do tempo equipado |
+| Posição em 2025 | **#19 de 233** armas melee — popular (top 15%) |
+| Posição em 2024 | #21 de 220 (1,09%) → subiu 2 posições |
+| Uso por faixa de MR | MR 0–10: 1,00% · MR 11–20: 1,29% · MR 21–30: 0,94% · Legendary: 0,83% |
+
+**Leitura:** Syam é popular (top 15%) entre os armas melee, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Syam
 

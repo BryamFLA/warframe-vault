@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "33/153"
+uso_2025_pct: 0.628
 ---
 
 # Akarius
@@ -65,6 +67,19 @@ Blueprint principal: drop dos **Demolisher Infested** no Dark Sector **Ur, Urano
 | Disposição de Riven | 1,05 |
 | Polaridades | Naramon, Naramon |
 | Introduzida | Update 25.7 |
+
+## ⭐ Avaliação Popular — Akarius
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,63%** do tempo equipado |
+| Posição em 2025 | **#33 de 153** armas secundárias — uso médio (top 40%) |
+| Posição em 2024 | #21 de 148 (0,85%) → caiu 12 posições |
+| Uso por faixa de MR | MR 0–10: 0,96% · MR 11–20: 1,14% · MR 21–30: 0,21% · Legendary: 0,10% |
+
+**Leitura:** Akarius é uso médio (top 40%) entre os armas secundárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Akarius
 

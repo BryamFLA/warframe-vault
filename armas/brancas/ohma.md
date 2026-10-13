@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "121/233"
+uso_2025_pct: 0.162
 ---
 
 # Ohma
@@ -56,6 +58,19 @@ O blueprint de Ohma é vendido no **Mercado** (por créditos).
 | Follow-through | 0,6 |
 | Disposição de Riven | 1,25 |
 | Introduzida | Update 19.7 |
+
+## ⭐ Avaliação Popular — Ohma
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,16%** do tempo equipado |
+| Posição em 2025 | **#121 de 233** armas melee — pouco usado |
+| Posição em 2024 | #97 de 220 (0,20%) → caiu 24 posições |
+| Uso por faixa de MR | MR 0–10: 0,19% · MR 11–20: 0,20% · MR 21–30: 0,13% · Legendary: 0,037% |
+
+**Leitura:** Ohma é pouco usado entre os armas melee, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Ohma
 

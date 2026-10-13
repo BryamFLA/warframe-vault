@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "226/233"
+uso_2025_pct: 0.03
 ---
 
 # Machete
@@ -54,6 +56,19 @@ Primeira cópia pelo **Daily Tribute** (login diário). Depois, blueprint no Cep
 | Follow-through | 0,7 |
 | Disposição de Riven | 1,45 |
 | Introduzida | Update 8.0 |
+
+## ⭐ Avaliação Popular — Machete
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,030%** do tempo equipado |
+| Posição em 2025 | **#226 de 233** armas melee — raramente usado |
+| Posição em 2024 | #214 de 220 (0,030%) → caiu 12 posições |
+| Uso por faixa de MR | MR 0–10: 0,012% · MR 11–20: 0,026% · MR 21–30: 0,054% · Legendary: 0,010% |
+
+**Leitura:** Machete é raramente usado entre os armas melee, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Machete
 

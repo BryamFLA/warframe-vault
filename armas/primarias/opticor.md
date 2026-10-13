@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "166/195"
+uso_2025_pct: 0.055
 ---
 
 # Opticor
@@ -60,6 +62,19 @@ O blueprint de Opticor é pesquisado no **Energy Lab** do **Dojo do clã** (depo
 | Disposição de Riven | 1,15 |
 | Polaridades | Madurai |
 | Introduzida | Update 15.0 |
+
+## ⭐ Avaliação Popular — Opticor
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,055%** do tempo equipado |
+| Posição em 2025 | **#166 de 195** armas primárias — raramente usado |
+| Posição em 2024 | #143 de 183 (0,086%) → caiu 23 posições |
+| Uso por faixa de MR | MR 0–10: 0,057% · MR 11–20: 0,058% · MR 21–30: 0,062% · Legendary: 0,021% |
+
+**Leitura:** Opticor é raramente usado entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Opticor
 

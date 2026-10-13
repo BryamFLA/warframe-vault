@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "194/195"
+uso_2025_pct: 0.015
 ---
 
 # Carmine Penta
@@ -67,6 +69,19 @@ Blueprint e componentes nos **Abandoned Derelict Caches** Corpus da **Pluto Prox
 | Recarga (s) | 2,5 |
 | Disposição de Riven | 1,3 |
 | Introduzida | Update 29.10 |
+
+## ⭐ Avaliação Popular — Carmine Penta
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,015%** do tempo equipado |
+| Posição em 2025 | **#194 de 195** armas primárias — raramente usado |
+| Posição em 2024 | #182 de 183 (0,016%) → caiu 12 posições |
+| Uso por faixa de MR | MR 0–10: 0,002% · MR 11–20: 0,003% · MR 21–30: 0,017% · Legendary: 0,055% |
+
+**Leitura:** Carmine Penta é raramente usado entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Carmine Penta
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "5/153"
+uso_2025_pct: 5.734
 ---
 
 # Ocucor
@@ -58,6 +60,19 @@ O blueprint de Ocucor é pesquisado no **Energy Lab** do **Dojo do clã** (depoi
 | Recarga (s) | 1,6 |
 | Disposição de Riven | 1,2 |
 | Introduzida | Update 24 |
+
+## ⭐ Avaliação Popular — Ocucor
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **5,73%** do tempo equipado |
+| Posição em 2025 | **#5 de 153** armas secundárias — muito popular (top 5%) |
+| Posição em 2024 | #5 de 148 (4,80%) → mesma posição |
+| Uso por faixa de MR | MR 0–10: 0,91% · MR 11–20: 4,84% · MR 21–30: 7,08% · Legendary: 7,41% |
+
+**Leitura:** Ocucor é muito popular (top 5%) entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Ocucor
 

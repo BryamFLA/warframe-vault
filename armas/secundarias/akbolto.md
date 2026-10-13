@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "142/153"
+uso_2025_pct: 0.07
 ---
 
 # Akbolto
@@ -59,6 +61,19 @@ O blueprint de Akbolto é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 1,3 |
 | Polaridades | Vazarin |
 | Introduzida | Update 6.0 |
+
+## ⭐ Avaliação Popular — Akbolto
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,070%** do tempo equipado |
+| Posição em 2025 | **#142 de 153** armas secundárias — raramente usado |
+| Posição em 2024 | #137 de 148 (0,068%) → caiu 5 posições |
+| Uso por faixa de MR | MR 0–10: 0,074% · MR 11–20: 0,13% · MR 21–30: 0,039% · Legendary: 0,003% |
+
+**Leitura:** Akbolto é raramente usado entre os armas secundárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Akbolto
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "81/153"
+uso_2025_pct: 0.203
 ---
 
 # Sonicor
@@ -60,6 +62,19 @@ O blueprint de Sonicor é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 1,15 |
 | Polaridades | Vazarin |
 | Introduzida | Update 17.5 |
+
+## ⭐ Avaliação Popular — Sonicor
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,20%** do tempo equipado |
+| Posição em 2025 | **#81 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #67 de 148 (0,28%) → caiu 14 posições |
+| Uso por faixa de MR | MR 0–10: 0,26% · MR 11–20: 0,27% · MR 21–30: 0,14% · Legendary: 0,094% |
+
+**Leitura:** Sonicor é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Sonicor
 

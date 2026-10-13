@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "70/195"
+uso_2025_pct: 0.299
 ---
 
 # Karak
@@ -64,6 +66,19 @@ O blueprint de Karak é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 1,35 |
 | Polaridades | Madurai |
 | Introduzida | Update 11.5 |
+
+## ⭐ Avaliação Popular — Karak
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,30%** do tempo equipado |
+| Posição em 2025 | **#70 de 195** armas primárias — uso médio (top 40%) |
+| Posição em 2024 | #57 de 183 (0,39%) → caiu 13 posições |
+| Uso por faixa de MR | MR 0–10: 1,29% · MR 11–20: 0,16% · MR 21–30: 0,025% · Legendary: 0,003% |
+
+**Leitura:** Karak é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Karak
 

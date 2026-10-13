@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "105/153"
+uso_2025_pct: 0.139
 ---
 
 # Akmagnus Prime
@@ -66,6 +68,19 @@ Void Relics containing the Akmagnus Prime components é vendida pelo **Baro Ki'T
 | Disposição de Riven | 1,1 |
 | Polaridades | Madurai, Vazarin |
 | Introduzida | Update 36.0.7 |
+
+## ⭐ Avaliação Popular — Akmagnus Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,14%** do tempo equipado |
+| Posição em 2025 | **#105 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #138 de 148 (0,064%) → subiu 33 posições |
+| Uso por faixa de MR | MR 0–10: 0,001% · MR 11–20: 0,065% · MR 21–30: 0,17% · Legendary: 0,37% |
+
+**Leitura:** Akmagnus Prime é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Akmagnus Prime
 

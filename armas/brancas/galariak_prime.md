@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "207/233"
+uso_2025_pct: 0.056
 ---
 
 # Galariak Prime
@@ -79,6 +81,19 @@ Blueprints na rotação A de **The Perita Rebellion** (após The Old Peace) ou c
 | Disposição de Riven | 0,9 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 41.0 |
+
+## ⭐ Avaliação Popular — Galariak Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,056%** do tempo equipado |
+| Posição em 2025 | **#207 de 233** armas melee — raramente usado |
+| Posição em 2024 | sem dado (item novo ou sem uso registrado) |
+| Uso por faixa de MR | MR 0–10: 0,000% · MR 11–20: 0,046% · MR 21–30: 0,074% · Legendary: 0,63% |
+
+**Leitura:** Galariak Prime é raramente usado entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Galariak Prime
 

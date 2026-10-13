@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "16/195"
+uso_2025_pct: 1.441
 ---
 
 # Fulmin Prime
@@ -64,6 +66,19 @@ Como conseguir a arma Fulmin Prime:
 | Disposição de Riven | 0,75 |
 | Polaridades | Naramon |
 | Introduzida | Update 33.6 |
+
+## ⭐ Avaliação Popular — Fulmin Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,44%** do tempo equipado |
+| Posição em 2025 | **#16 de 195** armas primárias — popular (top 15%) |
+| Posição em 2024 | #10 de 183 (1,95%) → caiu 6 posições |
+| Uso por faixa de MR | MR 0–10: 0,10% · MR 11–20: 2,24% · MR 21–30: 1,34% · Legendary: 0,89% |
+
+**Leitura:** Fulmin Prime é popular (top 15%) entre os armas primárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Fulmin Prime
 

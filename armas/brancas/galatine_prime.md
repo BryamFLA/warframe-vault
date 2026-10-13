@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "64/233"
+uso_2025_pct: 0.387
 ---
 
 # Galatine Prime
@@ -62,6 +64,19 @@ Como conseguir a arma Galatine Prime:
 | Disposição de Riven | 0,9 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update Hotfix: The Silver Grove 3 |
+
+## ⭐ Avaliação Popular — Galatine Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,39%** do tempo equipado |
+| Posição em 2025 | **#64 de 233** armas melee — uso médio (top 40%) |
+| Posição em 2024 | #52 de 220 (0,46%) → caiu 12 posições |
+| Uso por faixa de MR | MR 0–10: 0,057% · MR 11–20: 0,44% · MR 21–30: 0,52% · Legendary: 0,29% |
+
+**Leitura:** Galatine Prime é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Galatine Prime
 

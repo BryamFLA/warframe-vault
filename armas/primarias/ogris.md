@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "150/195"
+uso_2025_pct: 0.081
 ---
 
 # Ogris
@@ -57,6 +59,19 @@ O blueprint de Ogris é pesquisado no **Chem Lab** do **Dojo do clã** (depois �
 | Recarga (s) | 2,5 |
 | Disposição de Riven | 1,3 |
 | Introduzida | Update 8.0 |
+
+## ⭐ Avaliação Popular — Ogris
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,081%** do tempo equipado |
+| Posição em 2025 | **#150 de 195** armas primárias — raramente usado |
+| Posição em 2024 | #132 de 183 (0,10%) → caiu 18 posições |
+| Uso por faixa de MR | MR 0–10: 0,53% · MR 11–20: 0,10% · MR 21–30: 0,078% · Legendary: 0,027% |
+
+**Leitura:** Ogris é raramente usado entre os armas primárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Ogris
 

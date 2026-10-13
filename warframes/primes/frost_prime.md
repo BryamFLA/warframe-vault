@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "30/113"
+uso_2025_pct: 1.116
 ---
 
 # Frost Prime
@@ -76,6 +78,19 @@ Como conseguir a Warframe Frost Prime:
 | 4 | **Avalanche** | 100 | Summons a treacherous landslide of ice that instantly freezes and shatters all enemies in its radius. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
+
+## ⭐ Avaliação Popular — Frost Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,12%** do tempo equipado |
+| Posição em 2025 | **#30 de 113** Warframes — uso médio (top 40%) |
+| Posição em 2024 | #29 de 106 (0,98%) → caiu 1 posições |
+| Uso por faixa de MR | MR 0–10: 0,33% · MR 11–20: 0,93% · MR 21–30: 1,62% · Legendary: 1,56% |
+
+**Leitura:** Frost Prime é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Frost Prime
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "12/233"
+uso_2025_pct: 1.842
 ---
 
 # Arca Titron
@@ -56,6 +58,19 @@ O blueprint de Arca Titron é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 1,3 |
 | Polaridades | Madurai, Naramon |
 | Introduzida | Update 21.7 |
+
+## ⭐ Avaliação Popular — Arca Titron
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,84%** do tempo equipado |
+| Posição em 2025 | **#12 de 233** armas melee — popular (top 15%) |
+| Posição em 2024 | #11 de 220 (1,64%) → caiu 1 posições |
+| Uso por faixa de MR | MR 0–10: 0,19% · MR 11–20: 2,91% · MR 21–30: 1,70% · Legendary: 1,19% |
+
+**Leitura:** Arca Titron é popular (top 15%) entre os armas melee, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Arca Titron
 

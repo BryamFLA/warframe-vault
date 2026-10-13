@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "97/195"
+uso_2025_pct: 0.189
 ---
 
 # Sobek
@@ -59,6 +61,19 @@ O blueprint de Sobek é vendido no **Mercado** (por créditos).
 | Recarga (s) | 2,7 |
 | Disposição de Riven | 1,33 |
 | Introduzida | Update 9.0 |
+
+## ⭐ Avaliação Popular — Sobek
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,19%** do tempo equipado |
+| Posição em 2025 | **#97 de 195** armas primárias — pouco usado |
+| Posição em 2024 | #78 de 183 (0,27%) → caiu 19 posições |
+| Uso por faixa de MR | MR 0–10: 0,17% · MR 11–20: 0,28% · MR 21–30: 0,11% · Legendary: 0,069% |
+
+**Leitura:** Sobek é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Sobek
 

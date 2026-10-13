@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "63/153"
+uso_2025_pct: 0.294
 ---
 
 # Azima
@@ -58,6 +60,19 @@ Exclusiva do **Daily Tribute** (login diário): aparece a cada 200 dias a partir
 | Disposição de Riven | 1,25 |
 | Polaridades | Naramon, Madurai |
 | Introduzida | Update 18.5 |
+
+## ⭐ Avaliação Popular — Azima
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,29%** do tempo equipado |
+| Posição em 2025 | **#63 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #56 de 148 (0,35%) → caiu 7 posições |
+| Uso por faixa de MR | MR 0–10: 0,20% · MR 11–20: 0,36% · MR 21–30: 0,29% · Legendary: 0,21% |
+
+**Leitura:** Azima é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Azima
 

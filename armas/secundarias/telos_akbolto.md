@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "129/153"
+uso_2025_pct: 0.096
 ---
 
 # Telos Akbolto
@@ -47,6 +49,19 @@ Telos Akbolto é uma **arma de Sindicato**: compre do **the  Arbiters of Hexis**
 | Disposição de Riven | 1,25 |
 | Polaridades | Vazarin, Naramon |
 | Introduzida | Update 15.5 |
+
+## ⭐ Avaliação Popular — Telos Akbolto
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,096%** do tempo equipado |
+| Posição em 2025 | **#129 de 153** armas secundárias — raramente usado |
+| Posição em 2024 | #129 de 148 (0,096%) → mesma posição |
+| Uso por faixa de MR | MR 0–10: 0,002% · MR 11–20: 0,14% · MR 21–30: 0,11% · Legendary: 0,053% |
+
+**Leitura:** Telos Akbolto é raramente usado entre os armas secundárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Telos Akbolto
 

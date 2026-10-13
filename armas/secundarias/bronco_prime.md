@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "35/153"
+uso_2025_pct: 0.567
 ---
 
 # Bronco Prime
@@ -64,6 +66,19 @@ Como conseguir a arma Bronco Prime:
 | Recarga (s) | 2 |
 | Disposição de Riven | 1,4 |
 | Introduzida | Update 9.0 |
+
+## ⭐ Avaliação Popular — Bronco Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,57%** do tempo equipado |
+| Posição em 2025 | **#35 de 153** armas secundárias — uso médio (top 40%) |
+| Posição em 2024 | #32 de 148 (0,59%) → caiu 3 posições |
+| Uso por faixa de MR | MR 0–10: 0,91% · MR 11–20: 0,76% · MR 21–30: 0,29% · Legendary: 0,48% |
+
+**Leitura:** Bronco Prime é uso médio (top 40%) entre os armas secundárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Bronco Prime
 

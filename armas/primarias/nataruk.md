@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "2/195"
+uso_2025_pct: 7.441
 ---
 
 # Nataruk
@@ -46,6 +48,19 @@ Dada ao concluir a quest **The New War**, com slot e Catalyst. Extras no Cephalo
 | Disposição de Riven | 0,65 |
 | Polaridades | Madurai, Madurai, Madurai, Madurai |
 | Introduzida | Update 31 |
+
+## ⭐ Avaliação Popular — Nataruk
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **7,44%** do tempo equipado |
+| Posição em 2025 | **#2 de 195** armas primárias — muito popular (top 5%) |
+| Posição em 2024 | #2 de 183 (6,00%) → mesma posição |
+| Uso por faixa de MR | MR 0–10: 9,47% · MR 11–20: 11,40% · MR 21–30: 2,41% · Legendary: 0,93% |
+
+**Leitura:** Nataruk é muito popular (top 5%) entre os armas primárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Nataruk
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "199/233"
+uso_2025_pct: 0.065
 ---
 
 # Prisma Obex
@@ -44,6 +46,19 @@ Prisma Obex é vendida pelo **Baro Ki'Teer** (mercador do Void que visita os Rel
 | Follow-through | 0,9 |
 | Disposição de Riven | 1,25 |
 | Introduzida | Update 20.4.2 |
+
+## ⭐ Avaliação Popular — Prisma Obex
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,065%** do tempo equipado |
+| Posição em 2025 | **#199 de 233** armas melee — raramente usado |
+| Posição em 2024 | #198 de 220 (0,054%) → caiu 1 posições |
+| Uso por faixa de MR | MR 0–10: 0,008% · MR 11–20: 0,055% · MR 21–30: 0,10% · Legendary: 0,098% |
+
+**Leitura:** Prisma Obex é raramente usado entre os armas melee, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Prisma Obex
 

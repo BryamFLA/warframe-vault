@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "84/195"
+uso_2025_pct: 0.243
 ---
 
 # Baza
@@ -60,6 +62,19 @@ O blueprint de Baza é pesquisado no **Tenno Lab** do **Dojo do clã** (depois �
 | Disposição de Riven | 1,05 |
 | Polaridades | Madurai |
 | Introduzida | Update 22.4 |
+
+## ⭐ Avaliação Popular — Baza
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,24%** do tempo equipado |
+| Posição em 2025 | **#84 de 195** armas primárias — pouco usado |
+| Posição em 2024 | #44 de 183 (0,52%) → caiu 40 posições |
+| Uso por faixa de MR | MR 0–10: 0,63% · MR 11–20: 0,26% · MR 21–30: 0,070% · Legendary: 0,010% |
+
+**Leitura:** Baza é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Baza
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "29/195"
+uso_2025_pct: 0.918
 ---
 
 # Cedo
@@ -59,6 +61,19 @@ Blueprint e componentes comprados do **Father** (Entrati, Deimos): principal no 
 | Disposição de Riven | 0,65 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 29.6 |
+
+## ⭐ Avaliação Popular — Cedo
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,92%** do tempo equipado |
+| Posição em 2025 | **#29 de 195** armas primárias — popular (top 15%) |
+| Posição em 2024 | #12 de 183 (1,91%) → caiu 17 posições |
+| Uso por faixa de MR | MR 0–10: 0,37% · MR 11–20: 1,21% · MR 21–30: 0,91% · Legendary: 0,56% |
+
+**Leitura:** Cedo é popular (top 15%) entre os armas primárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Cedo
 

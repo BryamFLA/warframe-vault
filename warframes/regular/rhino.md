@@ -11,6 +11,8 @@ fontes: ["https://wiki.warframe.com/w/Rhino", "https://wiki.warframe.com/w/Rhino
 atualizado: 2026-10-07
 verificado: true
 agente: gpt
+uso_2025_rank: "24/113"
+uso_2025_pct: 1.378
 ---
 
 # Rhino
@@ -188,6 +190,19 @@ Use Iron Skin, mantenha Roar e acerte grupos com Stomp para recuperar a proteç�
 
 O Códice regular destaca sobrevivência e controle de grupo. O relato de Rhino Prime descreve uma criatura que escapa de experimentos, persegue pesquisadores; é um relato narrativo, não uma descrição de habilidades de jogo.
 
+
+## ⭐ Avaliação Popular — Rhino
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,38%** do tempo equipado |
+| Posição em 2025 | **#24 de 113** Warframes — uso médio (top 40%) |
+| Posição em 2024 | #21 de 106 (1,29%) → caiu 3 posições |
+| Uso por faixa de MR | MR 0–10: 4,44% · MR 11–20: 0,90% · MR 21–30: 0,071% · Legendary: 0,013% |
+
+**Leitura:** Rhino é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 💡 Curiosidades — Rhino
 

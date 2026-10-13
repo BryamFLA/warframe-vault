@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "94/113"
+uso_2025_pct: 0.181
 ---
 
 # Banshee Prime
@@ -76,6 +78,19 @@ Como conseguir a Warframe Banshee Prime:
 | 4 | **Sound Quake** | 75 | Channeling all of her acoustic energy into the environment, Banshee uses ultrasonic reverberations to violently shake the ground in a targeted area. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
+
+## ⭐ Avaliação Popular — Banshee Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,18%** do tempo equipado |
+| Posição em 2025 | **#94 de 113** Warframes — raramente usado |
+| Posição em 2024 | #85 de 106 (0,22%) → caiu 9 posições |
+| Uso por faixa de MR | MR 0–10: 0,024% · MR 11–20: 0,100% · MR 21–30: 0,29% · Legendary: 0,61% |
+
+**Leitura:** Banshee Prime é raramente usado entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Banshee Prime
 

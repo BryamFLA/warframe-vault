@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "91/153"
+uso_2025_pct: 0.173
 ---
 
 # Pandero Prime
@@ -65,6 +67,19 @@ Como conseguir a arma Pandero Prime:
 | Disposição de Riven | 1,1 |
 | Polaridades | Madurai |
 | Introduzida | Update 29.9 |
+
+## ⭐ Avaliação Popular — Pandero Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,17%** do tempo equipado |
+| Posição em 2025 | **#91 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #77 de 148 (0,23%) → caiu 14 posições |
+| Uso por faixa de MR | MR 0–10: 0,039% · MR 11–20: 0,10% · MR 21–30: 0,23% · Legendary: 0,29% |
+
+**Leitura:** Pandero Prime é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Pandero Prime
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "65/233"
+uso_2025_pct: 0.387
 ---
 
 # Amphis
@@ -57,6 +59,19 @@ O blueprint de Amphis é vendido no **Mercado**; também é recompensa da **Jun�
 | Disposição de Riven | 1,5 |
 | Polaridades | Naramon |
 | Introduzida | Update 6.5 |
+
+## ⭐ Avaliação Popular — Amphis
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,39%** do tempo equipado |
+| Posição em 2025 | **#65 de 233** armas melee — uso médio (top 40%) |
+| Posição em 2024 | #73 de 220 (0,32%) → subiu 8 posições |
+| Uso por faixa de MR | MR 0–10: 1,26% · MR 11–20: 0,21% · MR 21–30: 0,035% · Legendary: 0,032% |
+
+**Leitura:** Amphis é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Amphis
 

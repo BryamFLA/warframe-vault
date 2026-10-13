@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "26/113"
+uso_2025_pct: 1.245
 ---
 
 # Octavia Prime
@@ -76,6 +78,19 @@ Como conseguir a Warframe Octavia Prime:
 | 4 | **Amp** | 100 | Draws power from the decibel level of sound in the area and uses it to amplify a damage buff for Octavia and her allies. It also doubles the damage and range of nearby Mallets. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/new_loka.md|New Loka]].
+
+## ⭐ Avaliação Popular — Octavia Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,25%** do tempo equipado |
+| Posição em 2025 | **#26 de 113** Warframes — uso médio (top 40%) |
+| Posição em 2024 | #15 de 106 (1,77%) → caiu 11 posições |
+| Uso por faixa de MR | MR 0–10: 0,37% · MR 11–20: 1,40% · MR 21–30: 1,42% · Legendary: 1,29% |
+
+**Leitura:** Octavia Prime é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Octavia Prime
 

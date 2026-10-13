@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "183/233"
+uso_2025_pct: 0.077
 ---
 
 # Tekko Prime
@@ -62,6 +64,19 @@ Como conseguir a arma Tekko Prime:
 | Disposição de Riven | 1,3 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 25.8 |
+
+## ⭐ Avaliação Popular — Tekko Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,077%** do tempo equipado |
+| Posição em 2025 | **#183 de 233** armas melee — raramente usado |
+| Posição em 2024 | #176 de 220 (0,081%) → caiu 7 posições |
+| Uso por faixa de MR | MR 0–10: 0,007% · MR 11–20: 0,050% · MR 21–30: 0,11% · Legendary: 0,19% |
+
+**Leitura:** Tekko Prime é raramente usado entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Tekko Prime
 

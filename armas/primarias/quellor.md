@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "135/195"
+uso_2025_pct: 0.112
 ---
 
 # Quellor
@@ -68,6 +70,19 @@ Blueprint principal: drop de comandantes Grineer (Blite Captain, Glacik Commande
 | Disposição de Riven | 1,15 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 27.0 |
+
+## ⭐ Avaliação Popular — Quellor
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,11%** do tempo equipado |
+| Posição em 2025 | **#135 de 195** armas primárias — pouco usado |
+| Posição em 2024 | #115 de 183 (0,13%) → caiu 20 posições |
+| Uso por faixa de MR | MR 0–10: 0,012% · MR 11–20: 0,11% · MR 21–30: 0,14% · Legendary: 0,16% |
+
+**Leitura:** Quellor é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Quellor
 

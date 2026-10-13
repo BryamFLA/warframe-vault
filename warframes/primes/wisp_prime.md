@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "5/113"
+uso_2025_pct: 3.429
 ---
 
 # Wisp Prime
@@ -76,6 +78,19 @@ Como conseguir a Warframe Wisp Prime:
 | 4 | **Sol Gate** | 25 | Open a portal to the sun to irradiate enemies with a devastating beam of pure solar plasma. Hold fire to double Damage at the cost of increased energy consumption. For the duration of an attack enemies damaged by Sol Gate are increasingly more vulnerable to it. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/new_loka.md|New Loka]].
+
+## ⭐ Avaliação Popular — Wisp Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **3,43%** do tempo equipado |
+| Posição em 2025 | **#5 de 113** Warframes — muito popular (top 5%) |
+| Posição em 2024 | #4 de 106 (3,94%) → caiu 1 posições |
+| Uso por faixa de MR | MR 0–10: 1,28% · MR 11–20: 4,09% · MR 21–30: 3,60% · Legendary: 3,55% |
+
+**Leitura:** Wisp Prime é muito popular (top 5%) entre os Warframes, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Wisp Prime
 

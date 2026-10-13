@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "60/153"
+uso_2025_pct: 0.302
 ---
 
 # Afuris Prime
@@ -66,6 +68,19 @@ Como conseguir a arma Afuris Prime:
 | Disposição de Riven | 1,1 |
 | Polaridades | Naramon, Madurai, Madurai |
 | Introduzida | Update 32.2.5 |
+
+## ⭐ Avaliação Popular — Afuris Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,30%** do tempo equipado |
+| Posição em 2025 | **#60 de 153** armas secundárias — uso médio (top 40%) |
+| Posição em 2024 | #52 de 148 (0,40%) → caiu 8 posições |
+| Uso por faixa de MR | MR 0–10: 0,054% · MR 11–20: 0,23% · MR 21–30: 0,36% · Legendary: 0,46% |
+
+**Leitura:** Afuris Prime é uso médio (top 40%) entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Afuris Prime
 

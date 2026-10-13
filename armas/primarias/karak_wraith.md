@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "189/195"
+uso_2025_pct: 0.03
 ---
 
 # Karak Wraith
@@ -66,6 +68,19 @@ Blueprint e peças como recompensa de **Invasões**. Peças negociáveis; exige 
 | Disposição de Riven | 1,28 |
 | Polaridades | Madurai |
 | Introduzida | Update 16.5 |
+
+## ⭐ Avaliação Popular — Karak Wraith
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,030%** do tempo equipado |
+| Posição em 2025 | **#189 de 195** armas primárias — raramente usado |
+| Posição em 2024 | #174 de 183 (0,036%) → caiu 15 posições |
+| Uso por faixa de MR | MR 0–10: 0,011% · MR 11–20: 0,029% · MR 21–30: 0,044% · Legendary: 0,026% |
+
+**Leitura:** Karak Wraith é raramente usado entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Karak Wraith
 

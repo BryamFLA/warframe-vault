@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "78/195"
+uso_2025_pct: 0.275
 ---
 
 # Higasa
@@ -71,6 +73,19 @@ Blueprint e peças no **Shrine Defense** de **Saya's Visions, Terra** (exige Say
 | Disposição de Riven | 1,25 |
 | Polaridades | Vazarin |
 | Introduzida | Update 37 |
+
+## ⭐ Avaliação Popular — Higasa
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,27%** do tempo equipado |
+| Posição em 2025 | **#78 de 195** armas primárias — uso médio (top 40%) |
+| Posição em 2024 | #81 de 183 (0,24%) → subiu 3 posições |
+| Uso por faixa de MR | MR 0–10: 0,64% · MR 11–20: 0,18% · MR 21–30: 0,17% · Legendary: 0,18% |
+
+**Leitura:** Higasa é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Higasa
 

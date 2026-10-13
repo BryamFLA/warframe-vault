@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "48/153"
+uso_2025_pct: 0.383
 ---
 
 # Coda Tysis
@@ -48,6 +50,19 @@ Coda Tysis é uma **arma Coda**: comprada da **Eleanor** (The Hex, Höllvania Ce
 | Disposição de Riven | 1 |
 | Polaridades | Vazarin |
 | Introduzida | Update 38.5 |
+
+## ⭐ Avaliação Popular — Coda Tysis
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,38%** do tempo equipado |
+| Posição em 2025 | **#48 de 153** armas secundárias — uso médio (top 40%) |
+| Posição em 2024 | sem dado (item novo ou sem uso registrado) |
+| Uso por faixa de MR | MR 0–10: 0,000% · MR 11–20: 0,29% · MR 21–30: 0,46% · Legendary: 0,94% |
+
+**Leitura:** Coda Tysis é uso médio (top 40%) entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Coda Tysis
 

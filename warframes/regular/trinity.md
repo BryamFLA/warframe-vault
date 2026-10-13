@@ -12,6 +12,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "110/113"
+uso_2025_pct: 0.072
 ---
 
 # Trinity
@@ -78,6 +80,19 @@ Blueprint principal no **Mercado**. Componentes: drop do boss **Ambulas** em **H
 **Helminth:** a habilidade **Well of Life** pode ser subsumida (doada ao Helminth).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/new_loka.md|New Loka]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
+
+## ⭐ Avaliação Popular — Trinity
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,072%** do tempo equipado |
+| Posição em 2025 | **#110 de 113** Warframes — raramente usado |
+| Posição em 2024 | #104 de 106 (0,057%) → caiu 6 posições |
+| Uso por faixa de MR | MR 0–10: 0,069% · MR 11–20: 0,11% · MR 21–30: 0,052% · Legendary: 0,008% |
+
+**Leitura:** Trinity é raramente usado entre os Warframes, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Trinity
 

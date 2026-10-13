@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "64/153"
+uso_2025_pct: 0.291
 ---
 
 # Dual Cestra
@@ -59,6 +61,19 @@ O blueprint de Dual Cestra é pesquisado no **Energy Lab** do **Dojo do clã** (
 | Disposição de Riven | 1,35 |
 | Polaridades | Madurai |
 | Introduzida | Update 12.0 |
+
+## ⭐ Avaliação Popular — Dual Cestra
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,29%** do tempo equipado |
+| Posição em 2025 | **#64 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #57 de 148 (0,35%) → caiu 7 posições |
+| Uso por faixa de MR | MR 0–10: 1,08% · MR 11–20: 0,35% · MR 21–30: 0,096% · Legendary: 0,023% |
+
+**Leitura:** Dual Cestra é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Dual Cestra
 

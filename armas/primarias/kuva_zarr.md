@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "23/195"
+uso_2025_pct: 1.099
 ---
 
 # Kuva Zarr
@@ -46,6 +48,19 @@ Kuva Zarr é uma **arma Kuva**: só se obtém **derrotando (vanquish) um Kuva Li
 | Disposição de Riven | 0,7 |
 | Polaridades | Madurai, Madurai, Madurai |
 | Introduzida | Update 30.5 |
+
+## ⭐ Avaliação Popular — Kuva Zarr
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,10%** do tempo equipado |
+| Posição em 2025 | **#23 de 195** armas primárias — popular (top 15%) |
+| Posição em 2024 | #20 de 183 (1,35%) → caiu 3 posições |
+| Uso por faixa de MR | MR 0–10: 0,22% · MR 11–20: 1,22% · MR 21–30: 1,21% · Legendary: 1,27% |
+
+**Leitura:** Kuva Zarr é popular (top 15%) entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Kuva Zarr
 

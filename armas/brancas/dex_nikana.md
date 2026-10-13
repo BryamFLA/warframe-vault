@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "16/233"
+uso_2025_pct: 1.357
 ---
 
 # Dex Nikana
@@ -45,6 +47,19 @@ Arma de **aniversário** (11º aniversário do Warframe): obtida nos Alertas de 
 | Disposição de Riven | 1,1 |
 | Polaridades | Madurai, Naramon |
 | Introduzida | Update 35.5 |
+
+## ⭐ Avaliação Popular — Dex Nikana
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,36%** do tempo equipado |
+| Posição em 2025 | **#16 de 233** armas melee — popular (top 15%) |
+| Posição em 2024 | #4 de 220 (4,10%) → caiu 12 posições |
+| Uso por faixa de MR | MR 0–10: 5,24% · MR 11–20: 1,23% · MR 21–30: 0,33% · Legendary: 0,098% |
+
+**Leitura:** Dex Nikana é popular (top 15%) entre os armas melee, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Dex Nikana
 

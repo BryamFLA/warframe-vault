@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "53/233"
+uso_2025_pct: 0.471
 ---
 
 # Rakta Dark Dagger
@@ -45,6 +47,19 @@ Rakta Dark Dagger é uma **arma de Sindicato**: compre do **Red Veil** com **125
 | Disposição de Riven | 1 |
 | Polaridades | Madurai |
 | Introduzida | Update Update: The Silver Grove 2.0 |
+
+## ⭐ Avaliação Popular — Rakta Dark Dagger
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,47%** do tempo equipado |
+| Posição em 2025 | **#53 de 233** armas melee — uso médio (top 40%) |
+| Posição em 2024 | #54 de 220 (0,42%) → subiu 1 posições |
+| Uso por faixa de MR | MR 0–10: 0,098% · MR 11–20: 0,56% · MR 21–30: 0,58% · Legendary: 0,42% |
+
+**Leitura:** Rakta Dark Dagger é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Rakta Dark Dagger
 

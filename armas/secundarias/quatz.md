@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "69/153"
+uso_2025_pct: 0.256
 ---
 
 # Quatz
@@ -60,6 +62,19 @@ O blueprint de Quatz é vendido no **Mercado** (por créditos).
 | Recarga (s) | 2,7 |
 | Disposição de Riven | 1,2 |
 | Introduzida | Update 25.4.0 |
+
+## ⭐ Avaliação Popular — Quatz
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,26%** do tempo equipado |
+| Posição em 2025 | **#69 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #91 de 148 (0,18%) → subiu 22 posições |
+| Uso por faixa de MR | MR 0–10: 0,55% · MR 11–20: 0,36% · MR 21–30: 0,16% · Legendary: 0,097% |
+
+**Leitura:** Quatz é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Quatz
 

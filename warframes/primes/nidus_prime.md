@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "58/113"
+uso_2025_pct: 0.565
 ---
 
 # Nidus Prime
@@ -76,6 +78,19 @@ Como conseguir a Warframe Nidus Prime:
 | 4 | **Ravenous** | 3 | Gluttonous maggots swarm nearby enemies, feasting until they are hit with Virulence and burst with Infestation. The maggots benefit from Mutation and each enemy hit adds to the Mutation stack. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
+
+## ⭐ Avaliação Popular — Nidus Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,57%** do tempo equipado |
+| Posição em 2025 | **#58 de 113** Warframes — pouco usado |
+| Posição em 2024 | #40 de 106 (0,83%) → caiu 18 posições |
+| Uso por faixa de MR | MR 0–10: 0,15% · MR 11–20: 0,59% · MR 21–30: 0,69% · Legendary: 0,62% |
+
+**Leitura:** Nidus Prime é pouco usado entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Nidus Prime
 

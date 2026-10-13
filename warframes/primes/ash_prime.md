@@ -20,6 +20,8 @@ estado:
 atualizado: 2026-10-08
 verificado: true
 agente: opus
+uso_2025_rank: "37/113"
+uso_2025_pct: 0.839
 ---
 
 # Ash Prime
@@ -241,6 +243,19 @@ A própria descrição do Códice é honesta sobre o que ele entrega: **"altered
 
 Ele foi lançado no **Update 16.11** e vaulted pouco mais de dois anos depois, em **maio de 2017** — o que faz dele um dos Primes mais antigos e menos acessíveis do jogo.
 
+
+## ⭐ Avaliação Popular — Ash Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,84%** do tempo equipado |
+| Posição em 2025 | **#37 de 113** Warframes — uso médio (top 40%) |
+| Posição em 2024 | #41 de 106 (0,82%) → subiu 4 posições |
+| Uso por faixa de MR | MR 0–10: 0,17% · MR 11–20: 0,75% · MR 21–30: 1,17% · Legendary: 1,16% |
+
+**Leitura:** Ash Prime é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 💡 Curiosidades — Ash Prime
 

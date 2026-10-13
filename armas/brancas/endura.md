@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "191/233"
+uso_2025_pct: 0.074
 ---
 
 # Endura
@@ -57,6 +59,19 @@ O blueprint de Endura é pesquisado no **Tenno Lab** do **Dojo do clã** (depois
 | Disposição de Riven | 1,4 |
 | Polaridades | Madurai |
 | Introduzida | Update 20.6 |
+
+## ⭐ Avaliação Popular — Endura
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,074%** do tempo equipado |
+| Posição em 2025 | **#191 de 233** armas melee — raramente usado |
+| Posição em 2024 | #186 de 220 (0,074%) → caiu 5 posições |
+| Uso por faixa de MR | MR 0–10: 0,028% · MR 11–20: 0,12% · MR 21–30: 0,063% · Legendary: 0,031% |
+
+**Leitura:** Endura é raramente usado entre os armas melee, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Endura
 

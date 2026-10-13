@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "42/195"
+uso_2025_pct: 0.576
 ---
 
 # Tombfinger
@@ -37,6 +39,19 @@ Como conseguir a arma Tombfinger:
 | Munição máxima | 210 |
 | Disposição de Riven | 0,9 |
 | Introduzida | Update 24 |
+
+## ⭐ Avaliação Popular — Tombfinger
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,58%** do tempo equipado |
+| Posição em 2025 | **#42 de 195** armas primárias — uso médio (top 40%) |
+| Posição em 2024 | #83 de 183 (0,24%) → subiu 41 posições |
+| Uso por faixa de MR | MR 0–10: 0,14% · MR 11–20: 0,46% · MR 21–30: 0,77% · Legendary: 0,92% |
+
+**Leitura:** Tombfinger é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Tombfinger
 

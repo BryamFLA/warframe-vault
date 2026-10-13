@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "147/233"
+uso_2025_pct: 0.118
 ---
 
 # Ack & Brunt
@@ -56,6 +58,19 @@ O blueprint de Ack & Brunt é pesquisado no **Chem Lab** do **Dojo do clã** (de
 | Follow-through | 0,6 |
 | Disposição de Riven | 1,35 |
 | Introduzida | Update 17 |
+
+## ⭐ Avaliação Popular — Ack & Brunt
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,12%** do tempo equipado |
+| Posição em 2025 | **#147 de 233** armas melee — pouco usado |
+| Posição em 2024 | #141 de 220 (0,12%) → caiu 6 posições |
+| Uso por faixa de MR | MR 0–10: 0,023% · MR 11–20: 0,079% · MR 21–30: 0,18% · Legendary: 0,21% |
+
+**Leitura:** Ack & Brunt é pouco usado entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Ack & Brunt
 

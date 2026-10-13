@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "40/113"
+uso_2025_pct: 0.785
 ---
 
 # Nezha Prime
@@ -76,6 +78,19 @@ Como conseguir a Warframe Nezha Prime:
 | 4 | **Divine Spears** | 100 | Impale nearby enemies on spears that erupt from the below. Activate again to slam surviving enemies back into the ground. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
+
+## ⭐ Avaliação Popular — Nezha Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,78%** do tempo equipado |
+| Posição em 2025 | **#40 de 113** Warframes — uso médio (top 40%) |
+| Posição em 2024 | #32 de 106 (0,94%) → caiu 8 posições |
+| Uso por faixa de MR | MR 0–10: 0,18% · MR 11–20: 0,74% · MR 21–30: 1,05% · Legendary: 1,05% |
+
+**Leitura:** Nezha Prime é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Nezha Prime
 

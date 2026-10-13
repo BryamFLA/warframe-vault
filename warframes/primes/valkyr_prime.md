@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "15/113"
+uso_2025_pct: 1.903
 ---
 
 # Valkyr Prime
@@ -78,6 +80,19 @@ Diferente da maioria dos itens Prime, Valkyr Prime **nunca é vaultado (permanen
 | 4 | **Hysteria** | 25 | Valkyr bares her deadly claws, unleashing devastating attacks that also heal her. Valkyr becomes immune to Status Effects and her Armor bonus from Warcry is multiplied while using the claws. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/new_loka.md|New Loka]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
+
+## ⭐ Avaliação Popular — Valkyr Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,90%** do tempo equipado |
+| Posição em 2025 | **#15 de 113** Warframes — popular (top 15%) |
+| Posição em 2024 | #56 de 106 (0,51%) → subiu 41 posições |
+| Uso por faixa de MR | MR 0–10: 1,46% · MR 11–20: 1,91% · MR 21–30: 2,29% · Legendary: 2,58% |
+
+**Leitura:** Valkyr Prime é popular (top 15%) entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Valkyr Prime
 

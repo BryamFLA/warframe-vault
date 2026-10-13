@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "213/233"
+uso_2025_pct: 0.052
 ---
 
 # Quassus
@@ -63,6 +65,19 @@ Blueprint nas **bounties tier 5 do Cambion Drift** (Deimos).
 | Follow-through | 0,7 |
 | Disposição de Riven | 1,15 |
 | Introduzida | Update 29 |
+
+## ⭐ Avaliação Popular — Quassus
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,052%** do tempo equipado |
+| Posição em 2025 | **#213 de 233** armas melee — raramente usado |
+| Posição em 2024 | #120 de 220 (0,15%) → caiu 93 posições |
+| Uso por faixa de MR | MR 0–10: 0,018% · MR 11–20: 0,041% · MR 21–30: 0,075% · Legendary: 0,084% |
+
+**Leitura:** Quassus é raramente usado entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Quassus
 

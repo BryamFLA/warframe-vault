@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "9/153"
+uso_2025_pct: 2.96
 ---
 
 # Lex Prime
@@ -65,6 +67,19 @@ Como conseguir a arma Lex Prime:
 | Disposição de Riven | 1,2 |
 | Polaridades | Madurai |
 | Introduzida | Update 13.0 |
+
+## ⭐ Avaliação Popular — Lex Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **2,96%** do tempo equipado |
+| Posição em 2025 | **#9 de 153** armas secundárias — popular (top 15%) |
+| Posição em 2024 | #7 de 148 (3,26%) → caiu 2 posições |
+| Uso por faixa de MR | MR 0–10: 1,70% · MR 11–20: 4,29% · MR 21–30: 2,35% · Legendary: 1,97% |
+
+**Leitura:** Lex Prime é popular (top 15%) entre os armas secundárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Lex Prime
 

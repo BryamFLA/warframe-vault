@@ -20,6 +20,8 @@ estado:
 atualizado: 2026-10-08
 verificado: true
 agente: opus
+uso_2025_rank: "102/113"
+uso_2025_pct: 0.105
 ---
 
 # Ash
@@ -230,6 +232,19 @@ Ash é o **assassino político** dos **[[lore/faccoes/orokin.md|Orokin]]**. A de
 
 O tema é declaradamente **ninja** — fumaça, shuriken, teleporte, execução. O que a ficção não esconde é o desconforto: diferente de um **[[warframes/regular/excalibur.md|Excalibur]]** ou de um **[[warframes/regular/rhino.md|Rhino]]**, que são soldados, o Ash é a ferramenta que os Orokin usavam **uns contra os outros**.
 
+
+## ⭐ Avaliação Popular — Ash
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,11%** do tempo equipado |
+| Posição em 2025 | **#102 de 113** Warframes — raramente usado |
+| Posição em 2024 | #95 de 106 (0,11%) → caiu 7 posições |
+| Uso por faixa de MR | MR 0–10: 0,12% · MR 11–20: 0,16% · MR 21–30: 0,061% · Legendary: 0,011% |
+
+**Leitura:** Ash é raramente usado entre os Warframes, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 💡 Curiosidades — Ash
 

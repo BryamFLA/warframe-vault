@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "115/195"
+uso_2025_pct: 0.142
 ---
 
 # Purgator 1
@@ -63,6 +65,19 @@ Blueprints comprados da **Minerva** (The Hex) — componentes por 5.000 e princi
 | Recarga (s) | 2,7 |
 | Disposição de Riven | 1,2 |
 | Introduzida | Update 38.5 |
+
+## ⭐ Avaliação Popular — Purgator 1
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,14%** do tempo equipado |
+| Posição em 2025 | **#115 de 195** armas primárias — pouco usado |
+| Posição em 2024 | sem dado (item novo ou sem uso registrado) |
+| Uso por faixa de MR | MR 0–10: 0,014% · MR 11–20: 0,059% · MR 21–30: 0,23% · Legendary: 0,31% |
+
+**Leitura:** Purgator 1 é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Purgator 1
 

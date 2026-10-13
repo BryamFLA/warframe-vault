@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "35/195"
+uso_2025_pct: 0.76
 ---
 
 # Gotva Prime
@@ -52,6 +54,19 @@ Vendida pelo **Baro Ki'Teer** por 625.000 créditos e 675 Ducats (estoque varia)
 | Disposição de Riven | 0,85 |
 | Polaridades | Madurai, Madurai, Naramon |
 | Introduzida | Update 33.6.6 |
+
+## ⭐ Avaliação Popular — Gotva Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,76%** do tempo equipado |
+| Posição em 2025 | **#35 de 195** armas primárias — uso médio (top 40%) |
+| Posição em 2024 | #29 de 183 (0,97%) → caiu 6 posições |
+| Uso por faixa de MR | MR 0–10: 0,91% · MR 11–20: 0,86% · MR 21–30: 0,93% · Legendary: 0,53% |
+
+**Leitura:** Gotva Prime é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Gotva Prime
 

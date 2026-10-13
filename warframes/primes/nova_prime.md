@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "8/113"
+uso_2025_pct: 2.641
 ---
 
 # Nova Prime
@@ -76,6 +78,19 @@ Como conseguir a Warframe Nova Prime:
 | 4 | **Molecular Prime** | 100 | Primes all enemies in an expanding radius with volatile antimatter. Press the ability to slow down enemy movement, hold the ability to speed them up. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
+
+## ⭐ Avaliação Popular — Nova Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **2,64%** do tempo equipado |
+| Posição em 2025 | **#8 de 113** Warframes — popular (top 15%) |
+| Posição em 2024 | #20 de 106 (1,35%) → subiu 12 posições |
+| Uso por faixa de MR | MR 0–10: 0,41% · MR 11–20: 1,95% · MR 21–30: 3,98% · Legendary: 4,50% |
+
+**Leitura:** Nova Prime é popular (top 15%) entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Nova Prime
 

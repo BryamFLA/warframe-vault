@@ -12,6 +12,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "56/113"
+uso_2025_pct: 0.611
 ---
 
 # Nokko
@@ -91,6 +93,19 @@ Blueprints nas **bounties do Deepmines** (Fortuna, drop incomum/raro; exige The 
 **Helminth:** a habilidade **Brightbonnet** pode ser subsumida (doada ao Helminth).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/red_veil.md|Red Veil]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
+
+## ⭐ Avaliação Popular — Nokko
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,61%** do tempo equipado |
+| Posição em 2025 | **#56 de 113** Warframes — pouco usado |
+| Posição em 2024 | sem dado (item novo ou sem uso registrado) |
+| Uso por faixa de MR | MR 0–10: 0,26% · MR 11–20: 0,59% · MR 21–30: 0,71% · Legendary: 0,97% |
+
+**Leitura:** Nokko é pouco usado entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Nokko
 

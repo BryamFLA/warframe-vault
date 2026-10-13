@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "11/113"
+uso_2025_pct: 2.461
 ---
 
 # Mesa Prime
@@ -76,6 +78,19 @@ Como conseguir a Warframe Mesa Prime:
 | 4 | **Peacemaker** | 25 | With intense focus, Mesa draws her Regulator pistols, shooting down her foes in rapid succession. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/red_veil.md|Red Veil]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
+
+## ⭐ Avaliação Popular — Mesa Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **2,46%** do tempo equipado |
+| Posição em 2025 | **#11 de 113** Warframes — popular (top 15%) |
+| Posição em 2024 | #11 de 106 (2,78%) → mesma posição |
+| Uso por faixa de MR | MR 0–10: 0,75% · MR 11–20: 2,60% · MR 21–30: 2,92% · Legendary: 2,78% |
+
+**Leitura:** Mesa Prime é popular (top 15%) entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Mesa Prime
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "101/233"
+uso_2025_pct: 0.207
 ---
 
 # Nikana
@@ -57,6 +59,19 @@ O blueprint de Nikana é pesquisado no **Tenno Lab** do **Dojo do clã** (depois
 | Disposição de Riven | 0,95 |
 | Polaridades | Madurai, Vazarin |
 | Introduzida | Update 13.0 |
+
+## ⭐ Avaliação Popular — Nikana
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,21%** do tempo equipado |
+| Posição em 2025 | **#101 de 233** armas melee — pouco usado |
+| Posição em 2024 | #119 de 220 (0,15%) → subiu 18 posições |
+| Uso por faixa de MR | MR 0–10: 0,51% · MR 11–20: 0,22% · MR 21–30: 0,058% · Legendary: 0,009% |
+
+**Leitura:** Nikana é pouco usado entre os armas melee, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Nikana
 

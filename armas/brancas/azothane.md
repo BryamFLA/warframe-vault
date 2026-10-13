@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "62/233"
+uso_2025_pct: 0.393
 ---
 
 # Azothane
@@ -57,6 +59,19 @@ Arma de **Duviri**: blueprint comprado na **Teshin's Cave** por **50 Pathos Clam
 | Disposição de Riven | 1,1 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 33 |
+
+## ⭐ Avaliação Popular — Azothane
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,39%** do tempo equipado |
+| Posição em 2025 | **#62 de 233** armas melee — uso médio (top 40%) |
+| Posição em 2024 | #45 de 220 (0,50%) → caiu 17 posições |
+| Uso por faixa de MR | MR 0–10: 0,33% · MR 11–20: 0,44% · MR 21–30: 0,38% · Legendary: 0,32% |
+
+**Leitura:** Azothane é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Azothane
 

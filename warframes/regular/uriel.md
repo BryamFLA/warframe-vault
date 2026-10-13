@@ -12,6 +12,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "35/113"
+uso_2025_pct: 0.854
 ---
 
 # Uriel
@@ -78,6 +80,19 @@ VYTHELAS: Inscribes demonic runes upon fallen foes that add Fire Rate and <DT_FI
 **Helminth:** a habilidade **Remedium** pode ser subsumida (doada ao Helminth).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
+
+## ⭐ Avaliação Popular — Uriel
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,85%** do tempo equipado |
+| Posição em 2025 | **#35 de 113** Warframes — uso médio (top 40%) |
+| Posição em 2024 | sem dado (item novo ou sem uso registrado) |
+| Uso por faixa de MR | MR 0–10: 0,39% · MR 11–20: 0,88% · MR 21–30: 1,00% · Legendary: 2,88% |
+
+**Leitura:** Uriel é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Uriel
 

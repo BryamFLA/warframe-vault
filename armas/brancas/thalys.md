@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "20/233"
+uso_2025_pct: 1.041
 ---
 
 # Thalys
@@ -53,6 +55,19 @@ Blueprint comprado da **Acrithis** (Dormizone) por **96 Scuttler Husks** do Isle
 | Follow-through | 0,4 |
 | Disposição de Riven | 0,65 |
 | Introduzida | Update 39 |
+
+## ⭐ Avaliação Popular — Thalys
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,04%** do tempo equipado |
+| Posição em 2025 | **#20 de 233** armas melee — popular (top 15%) |
+| Posição em 2024 | sem dado (item novo ou sem uso registrado) |
+| Uso por faixa de MR | MR 0–10: 0,000% · MR 11–20: 1,12% · MR 21–30: 1,44% · Legendary: 1,62% |
+
+**Leitura:** Thalys é popular (top 15%) entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Thalys
 

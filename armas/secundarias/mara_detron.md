@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "102/153"
+uso_2025_pct: 0.144
 ---
 
 # Mara Detron
@@ -45,6 +47,19 @@ Mara Detron é vendida pelo **Baro Ki'Teer** (mercador do Void que visita os Rel
 | Recarga (s) | 1,05 |
 | Disposição de Riven | 1,15 |
 | Introduzida | Update 15.6.3 |
+
+## ⭐ Avaliação Popular — Mara Detron
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,14%** do tempo equipado |
+| Posição em 2025 | **#102 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #92 de 148 (0,18%) → caiu 10 posições |
+| Uso por faixa de MR | MR 0–10: 0,026% · MR 11–20: 0,15% · MR 21–30: 0,22% · Legendary: 0,074% |
+
+**Leitura:** Mara Detron é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Mara Detron
 

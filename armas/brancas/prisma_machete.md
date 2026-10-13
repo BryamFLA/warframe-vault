@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "219/233"
+uso_2025_pct: 0.044
 ---
 
 # Prisma Machete
@@ -44,6 +46,19 @@ Prisma Machete é vendida pelo **Baro Ki'Teer** (mercador do Void que visita os 
 | Follow-through | 0,7 |
 | Disposição de Riven | 1,45 |
 | Introduzida | Update 30.3.5 |
+
+## ⭐ Avaliação Popular — Prisma Machete
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,044%** do tempo equipado |
+| Posição em 2025 | **#219 de 233** armas melee — raramente usado |
+| Posição em 2024 | #200 de 220 (0,052%) → caiu 19 posições |
+| Uso por faixa de MR | MR 0–10: 0,015% · MR 11–20: 0,027% · MR 21–30: 0,080% · Legendary: 0,057% |
+
+**Leitura:** Prisma Machete é raramente usado entre os armas melee, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Prisma Machete
 

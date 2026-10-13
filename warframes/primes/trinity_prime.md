@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "52/113"
+uso_2025_pct: 0.628
 ---
 
 # Trinity Prime
@@ -76,6 +78,19 @@ Como conseguir a Warframe Trinity Prime:
 | 4 | **Blessing** | 100 | Restore the health and shields of allies within <AFFINITY_SHARE>Affinity Range while reducing the damage they take from enemies. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/new_loka.md|New Loka]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
+
+## ⭐ Avaliação Popular — Trinity Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,63%** do tempo equipado |
+| Posição em 2025 | **#52 de 113** Warframes — pouco usado |
+| Posição em 2024 | #59 de 106 (0,49%) → subiu 7 posições |
+| Uso por faixa de MR | MR 0–10: 0,19% · MR 11–20: 0,54% · MR 21–30: 0,86% · Legendary: 0,82% |
+
+**Leitura:** Trinity Prime é pouco usado entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Trinity Prime
 

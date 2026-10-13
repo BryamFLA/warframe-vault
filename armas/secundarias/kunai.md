@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "23/153"
+uso_2025_pct: 0.709
 ---
 
 # Kunai
@@ -64,6 +66,19 @@ O blueprint de Kunai é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 1,51 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 8.0 |
+
+## ⭐ Avaliação Popular — Kunai
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,71%** do tempo equipado |
+| Posição em 2025 | **#23 de 153** armas secundárias — uso médio (top 40%) |
+| Posição em 2024 | #20 de 148 (0,87%) → caiu 3 posições |
+| Uso por faixa de MR | MR 0–10: 9,21% · MR 11–20: 0,26% · MR 21–30: 0,20% · Legendary: 0,32% |
+
+**Leitura:** Kunai é uso médio (top 40%) entre os armas secundárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Kunai
 

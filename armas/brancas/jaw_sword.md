@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "204/233"
+uso_2025_pct: 0.06
 ---
 
 # Jaw Sword
@@ -55,6 +57,19 @@ O blueprint de Jaw Sword é comprado nas **Nightwave Offerings** por **50 Nightw
 | Disposição de Riven | 1,4 |
 | Polaridades | Madurai |
 | Introduzida | Update 5.0 |
+
+## ⭐ Avaliação Popular — Jaw Sword
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,060%** do tempo equipado |
+| Posição em 2025 | **#204 de 233** armas melee — raramente usado |
+| Posição em 2024 | #174 de 220 (0,083%) → caiu 30 posições |
+| Uso por faixa de MR | MR 0–10: 0,090% · MR 11–20: 0,052% · MR 21–30: 0,060% · Legendary: 0,035% |
+
+**Leitura:** Jaw Sword é raramente usado entre os armas melee, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Jaw Sword
 

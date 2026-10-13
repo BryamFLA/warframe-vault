@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "46/233"
+uso_2025_pct: 0.564
 ---
 
 # Gram Prime
@@ -62,6 +64,19 @@ Como conseguir a arma Gram Prime:
 | Disposição de Riven | 0,8 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 23.9 |
+
+## ⭐ Avaliação Popular — Gram Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,56%** do tempo equipado |
+| Posição em 2025 | **#46 de 233** armas melee — uso médio (top 40%) |
+| Posição em 2024 | #31 de 220 (0,75%) → caiu 15 posições |
+| Uso por faixa de MR | MR 0–10: 0,049% · MR 11–20: 0,62% · MR 21–30: 0,79% · Legendary: 0,44% |
+
+**Leitura:** Gram Prime é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Gram Prime
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "10/233"
+uso_2025_pct: 2.011
 ---
 
 # Dual Ichor
@@ -58,6 +60,19 @@ O blueprint de Dual Ichor é pesquisado no **Bio Lab** do **Dojo do clã** (depo
 | Disposição de Riven | 1,25 |
 | Polaridades | Vazarin |
 | Introduzida | Update 10.0 |
+
+## ⭐ Avaliação Popular — Dual Ichor
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **2,01%** do tempo equipado |
+| Posição em 2025 | **#10 de 233** armas melee — muito popular (top 5%) |
+| Posição em 2024 | #9 de 220 (2,05%) → caiu 1 posições |
+| Uso por faixa de MR | MR 0–10: 0,20% · MR 11–20: 1,68% · MR 21–30: 2,84% · Legendary: 3,43% |
+
+**Leitura:** Dual Ichor é muito popular (top 5%) entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Dual Ichor
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "50/195"
+uso_2025_pct: 0.453
 ---
 
 # Hek
@@ -59,6 +61,19 @@ O blueprint de Hek é vendido no **Mercado** (por créditos).
 | Recarga (s) | 2 |
 | Disposição de Riven | 1,2 |
 | Introduzida | Update 5.2 |
+
+## ⭐ Avaliação Popular — Hek
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,45%** do tempo equipado |
+| Posição em 2025 | **#50 de 195** armas primárias — uso médio (top 40%) |
+| Posição em 2024 | #42 de 183 (0,54%) → caiu 8 posições |
+| Uso por faixa de MR | MR 0–10: 1,48% · MR 11–20: 0,33% · MR 21–30: 0,031% · Legendary: 0,004% |
+
+**Leitura:** Hek é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Hek
 

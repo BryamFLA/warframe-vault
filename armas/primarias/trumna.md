@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "136/195"
+uso_2025_pct: 0.111
 ---
 
 # Trumna
@@ -61,6 +63,19 @@ Comprada do **Father** (Entrati, Deimos) no Rank 3: principal por 5.000 e compon
 | Recarga (s) | 5 |
 | Disposição de Riven | 0,85 |
 | Introduzida | Update 29 |
+
+## ⭐ Avaliação Popular — Trumna
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,11%** do tempo equipado |
+| Posição em 2025 | **#136 de 195** armas primárias — pouco usado |
+| Posição em 2024 | #55 de 183 (0,40%) → caiu 81 posições |
+| Uso por faixa de MR | MR 0–10: 0,000% · MR 11–20: 0,10% · MR 21–30: 0,18% · Legendary: 0,11% |
+
+**Leitura:** Trumna é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Trumna
 

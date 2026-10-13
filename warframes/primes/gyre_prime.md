@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "101/113"
+uso_2025_pct: 0.115
 ---
 
 # Gyre Prime
@@ -78,6 +80,19 @@ Como conseguir a Warframe Gyre Prime:
 **Helminth:** a habilidade **Coil Horizon** pode ser subsumida (doada ao Helminth).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
+
+## ⭐ Avaliação Popular — Gyre Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,11%** do tempo equipado |
+| Posição em 2025 | **#101 de 113** Warframes — raramente usado |
+| Posição em 2024 | sem dado (item novo ou sem uso registrado) |
+| Uso por faixa de MR | MR 0–10: 0,021% · MR 11–20: 0,073% · MR 21–30: 0,15% · Legendary: 1,36% |
+
+**Leitura:** Gyre Prime é raramente usado entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Gyre Prime
 

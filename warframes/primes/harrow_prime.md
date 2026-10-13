@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "53/113"
+uso_2025_pct: 0.625
 ---
 
 # Harrow Prime
@@ -77,6 +79,19 @@ Start missions at maximum energy.
 | 4 | **Covenant** | 100 | Protect nearby allies with an energy force that absorbs all damage and converts it to a Critical Chance bonus for all those under the Covenant. Weak Points are amplified even further. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/red_veil.md|Red Veil]].
+
+## ⭐ Avaliação Popular — Harrow Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,63%** do tempo equipado |
+| Posição em 2025 | **#53 de 113** Warframes — pouco usado |
+| Posição em 2024 | #47 de 106 (0,73%) → caiu 6 posições |
+| Uso por faixa de MR | MR 0–10: 0,14% · MR 11–20: 0,72% · MR 21–30: 0,78% · Legendary: 0,68% |
+
+**Leitura:** Harrow Prime é pouco usado entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Harrow Prime
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "45/195"
+uso_2025_pct: 0.506
 ---
 
 # Kuva Kohm
@@ -48,6 +50,19 @@ Kuva Kohm é uma **arma Kuva**: só se obtém **derrotando (vanquish) um Kuva Li
 | Disposição de Riven | 0,9 |
 | Polaridades | Vazarin |
 | Introduzida | Update 26 |
+
+## ⭐ Avaliação Popular — Kuva Kohm
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,51%** do tempo equipado |
+| Posição em 2025 | **#45 de 195** armas primárias — uso médio (top 40%) |
+| Posição em 2024 | #49 de 183 (0,46%) → subiu 4 posições |
+| Uso por faixa de MR | MR 0–10: 0,068% · MR 11–20: 0,40% · MR 21–30: 0,69% · Legendary: 0,79% |
+
+**Leitura:** Kuva Kohm é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Kuva Kohm
 

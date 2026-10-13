@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "185/195"
+uso_2025_pct: 0.032
 ---
 
 # Snipetron
@@ -58,6 +60,19 @@ Blueprint vendido pelo **Nakak** (Cetus) no evento **Plague Star** e pelo **Tick
 | Disposição de Riven | 1,3 |
 | Polaridades | Madurai |
 | Introduzida | Update Vanilla |
+
+## ⭐ Avaliação Popular — Snipetron
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,032%** do tempo equipado |
+| Posição em 2025 | **#185 de 195** armas primárias — raramente usado |
+| Posição em 2024 | #180 de 183 (0,026%) → caiu 5 posições |
+| Uso por faixa de MR | MR 0–10: 0,013% · MR 11–20: 0,032% · MR 21–30: 0,049% · Legendary: 0,015% |
+
+**Leitura:** Snipetron é raramente usado entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Snipetron
 

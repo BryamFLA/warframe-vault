@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "95/153"
+uso_2025_pct: 0.158
 ---
 
 # Spira
@@ -60,6 +62,19 @@ O blueprint de Spira é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 1,35 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 17.4.5 |
+
+## ⭐ Avaliação Popular — Spira
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,16%** do tempo equipado |
+| Posição em 2025 | **#95 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #84 de 148 (0,20%) → caiu 11 posições |
+| Uso por faixa de MR | MR 0–10: 0,30% · MR 11–20: 0,27% · MR 21–30: 0,044% · Legendary: 0,014% |
+
+**Leitura:** Spira é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Spira
 

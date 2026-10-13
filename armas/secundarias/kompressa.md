@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "28/153"
+uso_2025_pct: 0.678
 ---
 
 # Kompressa
@@ -62,6 +64,19 @@ Blueprint e componentes vendidos pela **Roky** (Ventkids, Fortuna) no Rank 5, **
 | Disposição de Riven | 1,15 |
 | Polaridades | Vazarin |
 | Introduzida | Update 30.5 |
+
+## ⭐ Avaliação Popular — Kompressa
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,68%** do tempo equipado |
+| Posição em 2025 | **#28 de 153** armas secundárias — uso médio (top 40%) |
+| Posição em 2024 | #19 de 148 (0,89%) → caiu 9 posições |
+| Uso por faixa de MR | MR 0–10: 0,29% · MR 11–20: 0,48% · MR 21–30: 0,77% · Legendary: 1,01% |
+
+**Leitura:** Kompressa é uso médio (top 40%) entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Kompressa
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "76/153"
+uso_2025_pct: 0.215
 ---
 
 # Aklex Prime
@@ -65,6 +67,19 @@ As Relíquias com as peças do Aklex Prime são vendidas pelo **Baro Ki'Teer** (
 | Recarga (s) | 3 |
 | Disposição de Riven | 0,95 |
 | Introduzida | Update 19.8.1 |
+
+## ⭐ Avaliação Popular — Aklex Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,22%** do tempo equipado |
+| Posição em 2025 | **#76 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #71 de 148 (0,26%) → caiu 5 posições |
+| Uso por faixa de MR | MR 0–10: 0,007% · MR 11–20: 0,14% · MR 21–30: 0,32% · Legendary: 0,28% |
+
+**Leitura:** Aklex Prime é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Aklex Prime
 

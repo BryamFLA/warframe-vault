@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "48/233"
+uso_2025_pct: 0.533
 ---
 
 # Dual Keres Prime
@@ -62,6 +64,19 @@ Como conseguir a arma Dual Keres Prime:
 | Disposição de Riven | 0,8 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 31.7 |
+
+## ⭐ Avaliação Popular — Dual Keres Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,53%** do tempo equipado |
+| Posição em 2025 | **#48 de 233** armas melee — uso médio (top 40%) |
+| Posição em 2024 | #25 de 220 (0,95%) → caiu 23 posições |
+| Uso por faixa de MR | MR 0–10: 0,020% · MR 11–20: 0,50% · MR 21–30: 0,76% · Legendary: 0,74% |
+
+**Leitura:** Dual Keres Prime é uso médio (top 40%) entre os armas melee, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Dual Keres Prime
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "27/195"
+uso_2025_pct: 0.942
 ---
 
 # Kuva Sobek
@@ -47,6 +49,19 @@ Kuva Sobek é uma **arma Kuva**: só se obtém **derrotando (vanquish) um Kuva L
 | Recarga (s) | 2,1 |
 | Disposição de Riven | 0,8 |
 | Introduzida | Update 35.6 |
+
+## ⭐ Avaliação Popular — Kuva Sobek
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,94%** do tempo equipado |
+| Posição em 2025 | **#27 de 195** armas primárias — popular (top 15%) |
+| Posição em 2024 | #61 de 183 (0,38%) → subiu 34 posições |
+| Uso por faixa de MR | MR 0–10: 0,10% · MR 11–20: 0,72% · MR 21–30: 1,26% · Legendary: 1,91% |
+
+**Leitura:** Kuva Sobek é popular (top 15%) entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Kuva Sobek
 

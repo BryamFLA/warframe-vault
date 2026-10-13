@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "130/153"
+uso_2025_pct: 0.095
 ---
 
 # Pox
@@ -58,6 +60,19 @@ O blueprint de Pox é pesquisado no **Bio Lab** do **Dojo do clã** (depois é r
 | Disposição de Riven | 1,2 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update Update: The Silver Grove |
+
+## ⭐ Avaliação Popular — Pox
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,095%** do tempo equipado |
+| Posição em 2025 | **#130 de 153** armas secundárias — raramente usado |
+| Posição em 2024 | #106 de 148 (0,14%) → caiu 24 posições |
+| Uso por faixa de MR | MR 0–10: 0,022% · MR 11–20: 0,098% · MR 21–30: 0,13% · Legendary: 0,066% |
+
+**Leitura:** Pox é raramente usado entre os armas secundárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Pox
 

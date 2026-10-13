@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "201/233"
+uso_2025_pct: 0.065
 ---
 
 # Halikar Wraith
@@ -45,6 +47,19 @@ Halikar Wraith é vendida pelo **Baro Ki'Teer** (mercador do Void que visita os 
 | Disposição de Riven | 1,2 |
 | Polaridades | Madurai, Naramon, Madurai |
 | Introduzida | Update 29.10.10 |
+
+## ⭐ Avaliação Popular — Halikar Wraith
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,065%** do tempo equipado |
+| Posição em 2025 | **#201 de 233** armas melee — raramente usado |
+| Posição em 2024 | #194 de 220 (0,059%) → caiu 7 posições |
+| Uso por faixa de MR | MR 0–10: 0,008% · MR 11–20: 0,037% · MR 21–30: 0,12% · Legendary: 0,12% |
+
+**Leitura:** Halikar Wraith é raramente usado entre os armas melee, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Halikar Wraith
 

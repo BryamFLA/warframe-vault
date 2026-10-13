@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "8/153"
+uso_2025_pct: 3.488
 ---
 
 # Akarius Prime
@@ -64,6 +66,19 @@ Como conseguir a arma Akarius Prime:
 | Disposição de Riven | 0,65 |
 | Polaridades | Naramon, Naramon, Madurai |
 | Introduzida | Update 35.0.9 |
+
+## ⭐ Avaliação Popular — Akarius Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **3,49%** do tempo equipado |
+| Posição em 2025 | **#8 de 153** armas secundárias — popular (top 15%) |
+| Posição em 2024 | #9 de 148 (2,31%) → subiu 1 posições |
+| Uso por faixa de MR | MR 0–10: 0,12% · MR 11–20: 3,17% · MR 21–30: 3,85% · Legendary: 5,04% |
+
+**Leitura:** Akarius Prime é popular (top 15%) entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Akarius Prime
 

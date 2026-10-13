@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "24/233"
+uso_2025_pct: 0.93
 ---
 
 # Bo
@@ -56,6 +58,19 @@ Como conseguir a arma Bo:
 | Disposição de Riven | 1,35 |
 | Polaridades | Vazarin |
 | Introduzida | Update Vanilla |
+
+## ⭐ Avaliação Popular — Bo
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,93%** do tempo equipado |
+| Posição em 2025 | **#24 de 233** armas melee — popular (top 15%) |
+| Posição em 2024 | #32 de 220 (0,74%) → subiu 8 posições |
+| Uso por faixa de MR | MR 0–10: 8,67% · MR 11–20: 0,15% · MR 21–30: 0,035% · Legendary: 0,009% |
+
+**Leitura:** Bo é popular (top 15%) entre os armas melee, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Bo
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "41/153"
+uso_2025_pct: 0.493
 ---
 
 # Synoid Gammacor
@@ -46,6 +48,19 @@ Synoid Gammacor é uma **arma de Sindicato**: compre do **Cephalon Suda** com **
 | Disposição de Riven | 1,1 |
 | Polaridades | Vazarin, Naramon |
 | Introduzida | Update 15.5 |
+
+## ⭐ Avaliação Popular — Synoid Gammacor
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,49%** do tempo equipado |
+| Posição em 2025 | **#41 de 153** armas secundárias — uso médio (top 40%) |
+| Posição em 2024 | #34 de 148 (0,56%) → caiu 7 posições |
+| Uso por faixa de MR | MR 0–10: 0,058% · MR 11–20: 0,41% · MR 21–30: 0,64% · Legendary: 0,65% |
+
+**Leitura:** Synoid Gammacor é uso médio (top 40%) entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Synoid Gammacor
 

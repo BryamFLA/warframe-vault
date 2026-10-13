@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "154/233"
+uso_2025_pct: 0.103
 ---
 
 # Dual Cleavers
@@ -57,6 +59,19 @@ O blueprint de Dual Cleavers é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 1,2 |
 | Polaridades | Madurai |
 | Introduzida | Update 8.0 |
+
+## ⭐ Avaliação Popular — Dual Cleavers
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,10%** do tempo equipado |
+| Posição em 2025 | **#154 de 233** armas melee — pouco usado |
+| Posição em 2024 | #149 de 220 (0,10%) → caiu 5 posições |
+| Uso por faixa de MR | MR 0–10: 0,14% · MR 11–20: 0,16% · MR 21–30: 0,034% · Legendary: 0,004% |
+
+**Leitura:** Dual Cleavers é pouco usado entre os armas melee, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Dual Cleavers
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "9/195"
+uso_2025_pct: 1.817
 ---
 
 # Phenmor
@@ -57,6 +59,19 @@ Blueprint principal comprado do **Cavalero** (The Holdfasts) no Rank 2 por **6.0
 | Disposição de Riven | 0,6 |
 | Polaridades | Madurai, Naramon |
 | Introduzida | Update 31.5 |
+
+## ⭐ Avaliação Popular — Phenmor
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,82%** do tempo equipado |
+| Posição em 2025 | **#9 de 195** armas primárias — muito popular (top 5%) |
+| Posição em 2024 | #9 de 183 (2,29%) → mesma posição |
+| Uso por faixa de MR | MR 0–10: 0,001% · MR 11–20: 1,94% · MR 21–30: 2,41% · Legendary: 1,86% |
+
+**Leitura:** Phenmor é muito popular (top 5%) entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Phenmor
 

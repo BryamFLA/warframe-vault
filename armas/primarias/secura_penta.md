@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "182/195"
+uso_2025_pct: 0.035
 ---
 
 # Secura Penta
@@ -56,6 +58,19 @@ Secura Penta é uma **arma de Sindicato**: compre do **The Perrin Sequence** com
 | Disposição de Riven | 1,3 |
 | Polaridades | Naramon, Vazarin, Madurai |
 | Introduzida | Update 17.3 |
+
+## ⭐ Avaliação Popular — Secura Penta
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,035%** do tempo equipado |
+| Posição em 2025 | **#182 de 195** armas primárias — raramente usado |
+| Posição em 2024 | #172 de 183 (0,040%) → caiu 10 posições |
+| Uso por faixa de MR | MR 0–10: 0,001% · MR 11–20: 0,020% · MR 21–30: 0,062% · Legendary: 0,067% |
+
+**Leitura:** Secura Penta é raramente usado entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Secura Penta
 

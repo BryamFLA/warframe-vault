@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "100/195"
+uso_2025_pct: 0.177
 ---
 
 # Penta
@@ -57,6 +59,19 @@ O blueprint de Penta é vendido no **Mercado**; também é recompensa da **Junç
 | Recarga (s) | 2,5 |
 | Disposição de Riven | 1,35 |
 | Introduzida | Update 11.3 |
+
+## ⭐ Avaliação Popular — Penta
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,18%** do tempo equipado |
+| Posição em 2025 | **#100 de 195** armas primárias — pouco usado |
+| Posição em 2024 | #95 de 183 (0,19%) → caiu 5 posições |
+| Uso por faixa de MR | MR 0–10: 0,52% · MR 11–20: 0,12% · MR 21–30: 0,015% · Legendary: 0,003% |
+
+**Leitura:** Penta é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Penta
 

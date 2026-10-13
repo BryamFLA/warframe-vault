@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "128/195"
+uso_2025_pct: 0.119
 ---
 
 # Kuva Drakgoon
@@ -47,6 +49,19 @@ Kuva Drakgoon é uma **arma Kuva**: só se obtém **derrotando (vanquish) um Kuv
 | Recarga (s) | 2 |
 | Disposição de Riven | 1,15 |
 | Introduzida | Update 26 |
+
+## ⭐ Avaliação Popular — Kuva Drakgoon
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,12%** do tempo equipado |
+| Posição em 2025 | **#128 de 195** armas primárias — pouco usado |
+| Posição em 2024 | #116 de 183 (0,13%) → caiu 12 posições |
+| Uso por faixa de MR | MR 0–10: 0,023% · MR 11–20: 0,072% · MR 21–30: 0,16% · Legendary: 0,26% |
+
+**Leitura:** Kuva Drakgoon é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Kuva Drakgoon
 

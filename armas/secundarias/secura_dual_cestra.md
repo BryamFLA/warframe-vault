@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "120/153"
+uso_2025_pct: 0.113
 ---
 
 # Secura Dual Cestra
@@ -47,6 +49,19 @@ Secura Dual Cestra é uma **arma de Sindicato**: compre do **The Perrin Sequence
 | Disposição de Riven | 1,3 |
 | Polaridades | Madurai, Naramon |
 | Introduzida | Update 15.5 |
+
+## ⭐ Avaliação Popular — Secura Dual Cestra
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,11%** do tempo equipado |
+| Posição em 2025 | **#120 de 153** armas secundárias — raramente usado |
+| Posição em 2024 | #118 de 148 (0,12%) → caiu 2 posições |
+| Uso por faixa de MR | MR 0–10: 0,010% · MR 11–20: 0,097% · MR 21–30: 0,14% · Legendary: 0,16% |
+
+**Leitura:** Secura Dual Cestra é raramente usado entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Secura Dual Cestra
 

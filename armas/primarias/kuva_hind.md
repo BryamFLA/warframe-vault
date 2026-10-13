@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "102/195"
+uso_2025_pct: 0.172
 ---
 
 # Kuva Hind
@@ -48,6 +50,19 @@ Kuva Hind é uma **arma Kuva**: só se obtém **derrotando (vanquish) um Kuva Li
 | Disposição de Riven | 1,1 |
 | Polaridades | Madurai |
 | Introduzida | Update 27.1 |
+
+## ⭐ Avaliação Popular — Kuva Hind
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,17%** do tempo equipado |
+| Posição em 2025 | **#102 de 195** armas primárias — pouco usado |
+| Posição em 2024 | #99 de 183 (0,18%) → caiu 3 posições |
+| Uso por faixa de MR | MR 0–10: 0,042% · MR 11–20: 0,16% · MR 21–30: 0,19% · Legendary: 0,29% |
+
+**Leitura:** Kuva Hind é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Kuva Hind
 

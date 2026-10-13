@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "128/153"
+uso_2025_pct: 0.103
 ---
 
 # Sagek Prime
@@ -76,6 +78,19 @@ Blueprints na rotação A de **The Perita Rebellion** (após The Old Peace). Alt
 | Disposição de Riven | 0,9 |
 | Polaridades | Madurai, Naramon |
 | Introduzida | Update 41.0 |
+
+## ⭐ Avaliação Popular — Sagek Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,10%** do tempo equipado |
+| Posição em 2025 | **#128 de 153** armas secundárias — raramente usado |
+| Posição em 2024 | sem dado (item novo ou sem uso registrado) |
+| Uso por faixa de MR | MR 0–10: 0,000% · MR 11–20: 0,064% · MR 21–30: 0,12% · Legendary: 1,10% |
+
+**Leitura:** Sagek Prime é raramente usado entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Sagek Prime
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "14/233"
+uso_2025_pct: 1.421
 ---
 
 # Skana
@@ -56,6 +58,19 @@ Como conseguir a arma Skana:
 | Follow-through | 0,6 |
 | Disposição de Riven | 1,3 |
 | Introduzida | Update Vanilla |
+
+## ⭐ Avaliação Popular — Skana
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,42%** do tempo equipado |
+| Posição em 2025 | **#14 de 233** armas melee — popular (top 15%) |
+| Posição em 2024 | #20 de 220 (1,22%) → subiu 6 posições |
+| Uso por faixa de MR | MR 0–10: 15,84% · MR 11–20: 0,16% · MR 21–30: 0,045% · Legendary: 0,038% |
+
+**Leitura:** Skana é popular (top 15%) entre os armas melee, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Skana
 

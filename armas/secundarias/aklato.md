@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "37/153"
+uso_2025_pct: 0.53
 ---
 
 # Aklato
@@ -57,6 +59,19 @@ Aklato é vendida **pronta** no **Mercado** por **25,000 créditos**.
 | Recarga (s) | 2,4 |
 | Disposição de Riven | 1,52 |
 | Introduzida | Update Vanilla |
+
+## ⭐ Avaliação Popular — Aklato
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,53%** do tempo equipado |
+| Posição em 2025 | **#37 de 153** armas secundárias — uso médio (top 40%) |
+| Posição em 2024 | #33 de 148 (0,59%) → caiu 4 posições |
+| Uso por faixa de MR | MR 0–10: 3,14% · MR 11–20: 0,24% · MR 21–30: 0,038% · Legendary: 0,025% |
+
+**Leitura:** Aklato é uso médio (top 40%) entre os armas secundárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Aklato
 

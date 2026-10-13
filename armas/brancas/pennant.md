@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "100/233"
+uso_2025_pct: 0.21
 ---
 
 # Pennant
@@ -63,6 +65,19 @@ Blueprint principal: drop de comandantes Grineer (Blite Captain, Glacik Commande
 | Follow-through | 0,7 |
 | Disposição de Riven | 0,95 |
 | Introduzida | Update 27.0 |
+
+## ⭐ Avaliação Popular — Pennant
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,21%** do tempo equipado |
+| Posição em 2025 | **#100 de 233** armas melee — pouco usado |
+| Posição em 2024 | #68 de 220 (0,35%) → caiu 32 posições |
+| Uso por faixa de MR | MR 0–10: 0,032% · MR 11–20: 0,17% · MR 21–30: 0,28% · Legendary: 0,34% |
+
+**Leitura:** Pennant é pouco usado entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Pennant
 

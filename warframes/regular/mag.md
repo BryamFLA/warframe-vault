@@ -11,6 +11,8 @@ fontes: ["https://wiki.warframe.com/w/Mag", "https://wiki.warframe.com/w/Mag/Abi
 atualizado: 2026-10-07
 verificado: false
 agente: gpt
+uso_2025_rank: "29/113"
+uso_2025_pct: 1.131
 ---
 
 # Mag
@@ -192,6 +194,19 @@ Intensify e Augur Secrets fornecem 154% Força, superando os 134% necessários p
 
 O Códice descreve manipulação de campos magnéticos para controlar inimigos e remover defesas. O relato do Prime mostra um soldado Orokin confrontado com a presença de um Tenno numa nave a caminho da guerra.
 
+
+## ⭐ Avaliação Popular — Mag
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,13%** do tempo equipado |
+| Posição em 2025 | **#29 de 113** Warframes — uso médio (top 40%) |
+| Posição em 2024 | #24 de 106 (1,25%) → caiu 5 posições |
+| Uso por faixa de MR | MR 0–10: 7,99% · MR 11–20: 0,34% · MR 21–30: 0,057% · Legendary: 0,015% |
+
+**Leitura:** Mag é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 💡 Curiosidades — Mag
 

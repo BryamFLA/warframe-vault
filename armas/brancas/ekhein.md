@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "152/233"
+uso_2025_pct: 0.104
 ---
 
 # Ekhein
@@ -55,6 +57,19 @@ Blueprint comprado do **Bird 3** (Cavia, Sanctum Anatomica) por 15.000 de Standi
 | Disposição de Riven | 1,2 |
 | Polaridades | Madurai |
 | Introduzida | Update 35 |
+
+## ⭐ Avaliação Popular — Ekhein
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,10%** do tempo equipado |
+| Posição em 2025 | **#152 de 233** armas melee — pouco usado |
+| Posição em 2024 | #94 de 220 (0,21%) → caiu 58 posições |
+| Uso por faixa de MR | MR 0–10: 0,062% · MR 11–20: 0,074% · MR 21–30: 0,17% · Legendary: 0,16% |
+
+**Leitura:** Ekhein é pouco usado entre os armas melee, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Ekhein
 

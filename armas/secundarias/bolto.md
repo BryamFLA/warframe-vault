@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "125/153"
+uso_2025_pct: 0.106
 ---
 
 # Bolto
@@ -59,6 +61,19 @@ O blueprint de Bolto é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 1,51 |
 | Polaridades | Vazarin |
 | Introduzida | Update Vanilla |
+
+## ⭐ Avaliação Popular — Bolto
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,11%** do tempo equipado |
+| Posição em 2025 | **#125 de 153** armas secundárias — raramente usado |
+| Posição em 2024 | #124 de 148 (0,10%) → caiu 1 posições |
+| Uso por faixa de MR | MR 0–10: 0,26% · MR 11–20: 0,17% · MR 21–30: 0,036% · Legendary: 0,011% |
+
+**Leitura:** Bolto é raramente usado entre os armas secundárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Bolto
 

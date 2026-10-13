@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "175/195"
+uso_2025_pct: 0.044
 ---
 
 # Snipetron Vandal
@@ -66,6 +68,19 @@ Blueprint e peças como recompensa de **Invasões**. Peças negociáveis; exige 
 | Disposição de Riven | 1,25 |
 | Polaridades | Madurai |
 | Introduzida | Update 8.3.2 |
+
+## ⭐ Avaliação Popular — Snipetron Vandal
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,044%** do tempo equipado |
+| Posição em 2025 | **#175 de 195** armas primárias — raramente usado |
+| Posição em 2024 | #161 de 183 (0,055%) → caiu 14 posições |
+| Uso por faixa de MR | MR 0–10: 0,010% · MR 11–20: 0,041% · MR 21–30: 0,060% · Legendary: 0,056% |
+
+**Leitura:** Snipetron Vandal é raramente usado entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Snipetron Vandal
 

@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "63/113"
+uso_2025_pct: 0.451
 ---
 
 # Equinox Prime
@@ -76,6 +78,19 @@ Como conseguir a Warframe Equinox Prime:
 | 4 | **Mend & Maim** | 50 | In Night-Form, allies' Shields are replenished with each nearby enemy killed. In Day-Form, enemies are inflicted with <DT_SLASH_COLOR>Slash Status Effect. Deactivate while in Night-Form to restore Health and Shields for Equinox and allies. Deactivate while in Day-Form to cast a wave of slashing force. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/new_loka.md|New Loka]].
+
+## ⭐ Avaliação Popular — Equinox Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,45%** do tempo equipado |
+| Posição em 2025 | **#63 de 113** Warframes — pouco usado |
+| Posição em 2024 | #62 de 106 (0,46%) → caiu 1 posições |
+| Uso por faixa de MR | MR 0–10: 0,085% · MR 11–20: 0,38% · MR 21–30: 0,65% · Legendary: 0,64% |
+
+**Leitura:** Equinox Prime é pouco usado entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Equinox Prime
 

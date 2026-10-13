@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "14/153"
+uso_2025_pct: 1.395
 ---
 
 # Pyrana Prime
@@ -65,6 +67,19 @@ Como conseguir a arma Pyrana Prime:
 | Disposição de Riven | 0,65 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 23.0.3 |
+
+## ⭐ Avaliação Popular — Pyrana Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,39%** do tempo equipado |
+| Posição em 2025 | **#14 de 153** armas secundárias — popular (top 15%) |
+| Posição em 2024 | #14 de 148 (1,54%) → mesma posição |
+| Uso por faixa de MR | MR 0–10: 0,24% · MR 11–20: 1,10% · MR 21–30: 1,85% · Legendary: 1,66% |
+
+**Leitura:** Pyrana Prime é popular (top 15%) entre os armas secundárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Pyrana Prime
 

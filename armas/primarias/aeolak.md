@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "30/195"
+uso_2025_pct: 0.874
 ---
 
 # Aeolak
@@ -79,6 +81,19 @@ Blueprint principal nas **bounties tier 5 do Chrysalith** (Zariman). Barrel: **V
 | Disposição de Riven | 1,2 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 31.5 |
+
+## ⭐ Avaliação Popular — Aeolak
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,87%** do tempo equipado |
+| Posição em 2025 | **#30 de 195** armas primárias — uso médio (top 40%) |
+| Posição em 2024 | #34 de 183 (0,82%) → subiu 4 posições |
+| Uso por faixa de MR | MR 0–10: 4,27% · MR 11–20: 0,55% · MR 21–30: 0,16% · Legendary: 0,24% |
+
+**Leitura:** Aeolak é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Aeolak
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "147/153"
+uso_2025_pct: 0.054
 ---
 
 # Sancti Castanas
@@ -46,6 +48,19 @@ Sancti Castanas é uma **arma de Sindicato**: compre do **New Loka** com **100,0
 | Disposição de Riven | 1,35 |
 | Polaridades | Madurai, Madurai, Vazarin |
 | Introduzida | Update 15.5 |
+
+## ⭐ Avaliação Popular — Sancti Castanas
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,054%** do tempo equipado |
+| Posição em 2025 | **#147 de 153** armas secundárias — raramente usado |
+| Posição em 2024 | #139 de 148 (0,064%) → caiu 8 posições |
+| Uso por faixa de MR | MR 0–10: 0,004% · MR 11–20: 0,040% · MR 21–30: 0,073% · Legendary: 0,082% |
+
+**Leitura:** Sancti Castanas é raramente usado entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Sancti Castanas
 

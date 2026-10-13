@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "112/195"
+uso_2025_pct: 0.146
 ---
 
 # Rubico
@@ -59,6 +61,19 @@ O blueprint de Rubico é vendido no **Mercado** (por créditos).
 | Recarga (s) | 2,4 |
 | Disposição de Riven | 0,95 |
 | Introduzida | Update 18.0 |
+
+## ⭐ Avaliação Popular — Rubico
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,15%** do tempo equipado |
+| Posição em 2025 | **#112 de 195** armas primárias — pouco usado |
+| Posição em 2024 | #92 de 183 (0,20%) → caiu 20 posições |
+| Uso por faixa de MR | MR 0–10: 0,17% · MR 11–20: 0,23% · MR 21–30: 0,050% · Legendary: 0,006% |
+
+**Leitura:** Rubico é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Rubico
 

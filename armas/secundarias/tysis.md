@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "92/153"
+uso_2025_pct: 0.169
 ---
 
 # Tysis
@@ -59,6 +61,19 @@ O blueprint de Tysis é vendido no **Mercado** (por créditos).
 | Recarga (s) | 1,2 |
 | Disposição de Riven | 1,45 |
 | Introduzida | Update 11.7 |
+
+## ⭐ Avaliação Popular — Tysis
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,17%** do tempo equipado |
+| Posição em 2025 | **#92 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #86 de 148 (0,19%) → caiu 6 posições |
+| Uso por faixa de MR | MR 0–10: 0,085% · MR 11–20: 0,32% · MR 21–30: 0,097% · Legendary: 0,064% |
+
+**Leitura:** Tysis é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Tysis
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "18/233"
+uso_2025_pct: 1.121
 ---
 
 # Sun & Moon
@@ -57,6 +59,19 @@ Blueprint ao concluir **The Duviri Paradox**. Extras no Cephalon Simaris (100.00
 | Disposição de Riven | 0,8 |
 | Polaridades | Madurai |
 | Introduzida | Update 33 |
+
+## ⭐ Avaliação Popular — Sun & Moon
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **1,12%** do tempo equipado |
+| Posição em 2025 | **#18 de 233** armas melee — popular (top 15%) |
+| Posição em 2024 | #17 de 220 (1,34%) → caiu 1 posições |
+| Uso por faixa de MR | MR 0–10: 0,91% · MR 11–20: 1,58% · MR 21–30: 0,82% · Legendary: 0,42% |
+
+**Leitura:** Sun & Moon é popular (top 15%) entre os armas melee, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Sun & Moon
 

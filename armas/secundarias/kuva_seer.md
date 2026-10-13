@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "75/153"
+uso_2025_pct: 0.22
 ---
 
 # Kuva Seer
@@ -47,6 +49,19 @@ Kuva Seer é uma **arma Kuva**: só se obtém **derrotando (vanquish) um Kuva Li
 | Recarga (s) | 2,3 |
 | Disposição de Riven | 1,1 |
 | Introduzida | Update 26 |
+
+## ⭐ Avaliação Popular — Kuva Seer
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,22%** do tempo equipado |
+| Posição em 2025 | **#75 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #70 de 148 (0,27%) → caiu 5 posições |
+| Uso por faixa de MR | MR 0–10: 0,052% · MR 11–20: 0,20% · MR 21–30: 0,24% · Legendary: 0,37% |
+
+**Leitura:** Kuva Seer é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Kuva Seer
 

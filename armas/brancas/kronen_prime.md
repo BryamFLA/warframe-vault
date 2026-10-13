@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "25/233"
+uso_2025_pct: 0.902
 ---
 
 # Kronen Prime
@@ -62,6 +64,19 @@ Como conseguir a arma Kronen Prime:
 | Disposição de Riven | 0,7 |
 | Polaridades | Madurai, Naramon |
 | Introduzida | Update 22.16.4 |
+
+## ⭐ Avaliação Popular — Kronen Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,90%** do tempo equipado |
+| Posição em 2025 | **#25 de 233** armas melee — popular (top 15%) |
+| Posição em 2024 | #16 de 220 (1,38%) → caiu 9 posições |
+| Uso por faixa de MR | MR 0–10: 0,078% · MR 11–20: 0,88% · MR 21–30: 1,31% · Legendary: 0,96% |
+
+**Leitura:** Kronen Prime é popular (top 15%) entre os armas melee, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Kronen Prime
 

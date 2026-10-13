@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "33/195"
+uso_2025_pct: 0.8
 ---
 
 # Braton
@@ -47,6 +49,19 @@ Braton é vendida **pronta** no **Mercado** por **25,000 créditos**.
 | Recarga (s) | 2 |
 | Disposição de Riven | 1,35 |
 | Introduzida | Update Vanilla |
+
+## ⭐ Avaliação Popular — Braton
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,80%** do tempo equipado |
+| Posição em 2025 | **#33 de 195** armas primárias — uso médio (top 40%) |
+| Posição em 2024 | #25 de 183 (1,24%) → caiu 8 posições |
+| Uso por faixa de MR | MR 0–10: 9,89% · MR 11–20: 0,096% · MR 21–30: 0,022% · Legendary: 0,022% |
+
+**Leitura:** Braton é uso médio (top 40%) entre os armas primárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Braton
 

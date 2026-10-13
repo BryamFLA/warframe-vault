@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "116/195"
+uso_2025_pct: 0.139
 ---
 
 # Scourge
@@ -58,6 +60,19 @@ O blueprint de Scourge é pesquisado no **Tenno Lab** do **Dojo do clã** (depoi
 | Disposição de Riven | 1,2 |
 | Polaridades | Naramon, Madurai |
 | Introduzida | Update 21.0 |
+
+## ⭐ Avaliação Popular — Scourge
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,14%** do tempo equipado |
+| Posição em 2025 | **#116 de 195** armas primárias — pouco usado |
+| Posição em 2024 | #101 de 183 (0,17%) → caiu 15 posições |
+| Uso por faixa de MR | MR 0–10: 0,14% · MR 11–20: 0,19% · MR 21–30: 0,091% · Legendary: 0,016% |
+
+**Leitura:** Scourge é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Scourge
 

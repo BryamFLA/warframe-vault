@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "121/153"
+uso_2025_pct: 0.112
 ---
 
 # Arca Scisco
@@ -59,6 +61,19 @@ O blueprint de Arca Scisco é pesquisado no **Energy Lab** do **Dojo do clã** (
 | Disposição de Riven | 1,1 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 21.7 |
+
+## ⭐ Avaliação Popular — Arca Scisco
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,11%** do tempo equipado |
+| Posição em 2025 | **#121 de 153** armas secundárias — raramente usado |
+| Posição em 2024 | #110 de 148 (0,13%) → caiu 11 posições |
+| Uso por faixa de MR | MR 0–10: 0,030% · MR 11–20: 0,10% · MR 21–30: 0,15% · Legendary: 0,13% |
+
+**Leitura:** Arca Scisco é raramente usado entre os armas secundárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Arca Scisco
 

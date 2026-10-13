@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "23/233"
+uso_2025_pct: 0.956
 ---
 
 # Heat Sword
@@ -55,6 +57,19 @@ Blueprint ao concluir a quest **Once Awake**. Também nas **Nightwave Offerings*
 | Disposição de Riven | 1,48 |
 | Polaridades | Naramon |
 | Introduzida | Update 5.0 |
+
+## ⭐ Avaliação Popular — Heat Sword
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,96%** do tempo equipado |
+| Posição em 2025 | **#23 de 233** armas melee — popular (top 15%) |
+| Posição em 2024 | #26 de 220 (0,92%) → subiu 3 posições |
+| Uso por faixa de MR | MR 0–10: 4,58% · MR 11–20: 0,12% · MR 21–30: 0,023% · Legendary: 0,016% |
+
+**Leitura:** Heat Sword é popular (top 15%) entre os armas melee, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Heat Sword
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "96/153"
+uso_2025_pct: 0.157
 ---
 
 # Viper
@@ -60,6 +62,19 @@ O blueprint de Viper é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 1,45 |
 | Polaridades | Naramon |
 | Introduzida | Update 7.0 |
+
+## ⭐ Avaliação Popular — Viper
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,16%** do tempo equipado |
+| Posição em 2025 | **#96 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #100 de 148 (0,16%) → subiu 4 posições |
+| Uso por faixa de MR | MR 0–10: 0,44% · MR 11–20: 0,22% · MR 21–30: 0,029% · Legendary: 0,003% |
+
+**Leitura:** Viper é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Viper
 

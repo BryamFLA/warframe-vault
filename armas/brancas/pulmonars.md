@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "214/233"
+uso_2025_pct: 0.048
 ---
 
 # Pulmonars
@@ -56,6 +58,19 @@ O blueprint de Pulmonars' é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 1,2 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 29.5 |
+
+## ⭐ Avaliação Popular — Pulmonars
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,048%** do tempo equipado |
+| Posição em 2025 | **#214 de 233** armas melee — raramente usado |
+| Posição em 2024 | #199 de 220 (0,053%) → caiu 15 posições |
+| Uso por faixa de MR | MR 0–10: 0,019% · MR 11–20: 0,036% · MR 21–30: 0,079% · Legendary: 0,051% |
+
+**Leitura:** Pulmonars é raramente usado entre os armas melee, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Pulmonars
 

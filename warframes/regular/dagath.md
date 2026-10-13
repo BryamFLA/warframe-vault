@@ -12,6 +12,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "70/113"
+uso_2025_pct: 0.358
 ---
 
 # Dagath
@@ -72,6 +74,19 @@ Blueprints no **Dagath's Hollow**, sala do **Dojo do clã** (sem pesquisa). Os c
 **Helminth:** a habilidade **Wyrd Scythes** pode ser subsumida (doada ao Helminth).
 
 **Augments** vendidos por: [[mecanicas/sindicatos/red_veil.md|Red Veil]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
+
+## ⭐ Avaliação Popular — Dagath
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,36%** do tempo equipado |
+| Posição em 2025 | **#70 de 113** Warframes — pouco usado |
+| Posição em 2024 | #51 de 106 (0,60%) → caiu 19 posições |
+| Uso por faixa de MR | MR 0–10: 0,25% · MR 11–20: 0,38% · MR 21–30: 0,39% · Legendary: 0,28% |
+
+**Leitura:** Dagath é pouco usado entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Dagath
 

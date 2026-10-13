@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "89/153"
+uso_2025_pct: 0.182
 ---
 
 # Magnus Prime
@@ -65,6 +67,19 @@ Como conseguir a arma Magnus Prime:
 | Disposição de Riven | 1,25 |
 | Polaridades | Madurai |
 | Introduzida | Update 30.7 |
+
+## ⭐ Avaliação Popular — Magnus Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,18%** do tempo equipado |
+| Posição em 2025 | **#89 de 153** armas secundárias — pouco usado |
+| Posição em 2024 | #82 de 148 (0,20%) → caiu 7 posições |
+| Uso por faixa de MR | MR 0–10: 0,032% · MR 11–20: 0,14% · MR 21–30: 0,25% · Legendary: 0,21% |
+
+**Leitura:** Magnus Prime é pouco usado entre os armas secundárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Magnus Prime
 

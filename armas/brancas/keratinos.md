@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "187/233"
+uso_2025_pct: 0.075
 ---
 
 # Keratinos
@@ -61,6 +63,19 @@ Comprada do **Father** (Entrati) no Rank 0: principal por 1.000 e componentes po
 | Follow-through | 0,8 |
 | Disposição de Riven | 1,05 |
 | Introduzida | Update 29 |
+
+## ⭐ Avaliação Popular — Keratinos
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,075%** do tempo equipado |
+| Posição em 2025 | **#187 de 233** armas melee — raramente usado |
+| Posição em 2024 | #157 de 220 (0,091%) → caiu 30 posições |
+| Uso por faixa de MR | MR 0–10: 0,010% · MR 11–20: 0,054% · MR 21–30: 0,12% · Legendary: 0,15% |
+
+**Leitura:** Keratinos é raramente usado entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Keratinos
 

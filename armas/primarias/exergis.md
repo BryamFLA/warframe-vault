@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "124/195"
+uso_2025_pct: 0.121
 ---
 
 # Exergis
@@ -61,6 +63,19 @@ O blueprint de Exergis é vendido no **Mercado** (por créditos).
 | Disposição de Riven | 1,1 |
 | Polaridades | Vazarin |
 | Introduzida | Update 24.2 |
+
+## ⭐ Avaliação Popular — Exergis
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,12%** do tempo equipado |
+| Posição em 2025 | **#124 de 195** armas primárias — pouco usado |
+| Posição em 2024 | #119 de 183 (0,12%) → caiu 5 posições |
+| Uso por faixa de MR | MR 0–10: 0,016% · MR 11–20: 0,066% · MR 21–30: 0,21% · Legendary: 0,23% |
+
+**Leitura:** Exergis é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Exergis
 

@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "126/195"
+uso_2025_pct: 0.12
 ---
 
 # Hema
@@ -57,6 +59,19 @@ O blueprint de Hema é pesquisado no **Bio Lab** do **Dojo do clã** (depois é 
 | Disposição de Riven | 1,3 |
 | Polaridades | Madurai |
 | Introduzida | Update 19.5 |
+
+## ⭐ Avaliação Popular — Hema
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,12%** do tempo equipado |
+| Posição em 2025 | **#126 de 195** armas primárias — pouco usado |
+| Posição em 2024 | #162 de 183 (0,052%) → subiu 36 posições |
+| Uso por faixa de MR | MR 0–10: 0,40% · MR 11–20: 0,085% · MR 21–30: 0,081% · Legendary: 0,042% |
+
+**Leitura:** Hema é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Hema
 

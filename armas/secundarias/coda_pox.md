@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "61/153"
+uso_2025_pct: 0.298
 ---
 
 # Coda Pox
@@ -46,6 +48,19 @@ Coda Pox é uma **arma Coda**: comprada da **Eleanor** (The Hex, Höllvania Cent
 | Disposição de Riven | 1,05 |
 | Polaridades | Madurai, Madurai |
 | Introduzida | Update 38.5 |
+
+## ⭐ Avaliação Popular — Coda Pox
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,30%** do tempo equipado |
+| Posição em 2025 | **#61 de 153** armas secundárias — uso médio (top 40%) |
+| Posição em 2024 | sem dado (item novo ou sem uso registrado) |
+| Uso por faixa de MR | MR 0–10: 0,000% · MR 11–20: 0,15% · MR 21–30: 0,33% · Legendary: 0,84% |
+
+**Leitura:** Coda Pox é uso médio (top 40%) entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Coda Pox
 

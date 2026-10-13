@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "189/233"
+uso_2025_pct: 0.074
 ---
 
 # Kesheg
@@ -57,6 +59,19 @@ O blueprint de Kesheg é pesquisado no **Chem Lab** do **Dojo do clã** (depois 
 | Disposição de Riven | 1,35 |
 | Polaridades | Madurai |
 | Introduzida | Update 19.0 |
+
+## ⭐ Avaliação Popular — Kesheg
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,074%** do tempo equipado |
+| Posição em 2025 | **#189 de 233** armas melee — raramente usado |
+| Posição em 2024 | #167 de 220 (0,086%) → caiu 22 posições |
+| Uso por faixa de MR | MR 0–10: 0,018% · MR 11–20: 0,086% · MR 21–30: 0,098% · Legendary: 0,050% |
+
+**Leitura:** Kesheg é raramente usado entre os armas melee, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Kesheg
 

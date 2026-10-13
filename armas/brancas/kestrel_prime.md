@@ -14,6 +14,8 @@ atualizado: 2026-10-13
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "225/233"
+uso_2025_pct: 0.031
 ---
 
 # Kestrel Prime
@@ -62,6 +64,19 @@ Como conseguir a arma Kestrel Prime:
 | Disposição de Riven | 0,85 |
 | Polaridades | Madurai, Naramon |
 | Introduzida | Update 41 |
+
+## ⭐ Avaliação Popular — Kestrel Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,031%** do tempo equipado |
+| Posição em 2025 | **#225 de 233** armas melee — raramente usado |
+| Posição em 2024 | sem dado (item novo ou sem uso registrado) |
+| Uso por faixa de MR | MR 0–10: 0,010% · MR 11–20: 0,019% · MR 21–30: 0,031% · Legendary: 0,43% |
+
+**Leitura:** Kestrel Prime é raramente usado entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Kestrel Prime
 

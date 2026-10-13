@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "6/233"
+uso_2025_pct: 3.062
 ---
 
 # Magistar
@@ -60,6 +62,19 @@ O blueprint de Magistar é vendido no **Mercado** (por créditos).
 | Follow-through | 0,4 |
 | Disposição de Riven | 1,35 |
 | Introduzida | Update 11.5 |
+
+## ⭐ Avaliação Popular — Magistar
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **3,06%** do tempo equipado |
+| Posição em 2025 | **#6 de 233** armas melee — muito popular (top 5%) |
+| Posição em 2024 | #13 de 220 (1,62%) → subiu 7 posições |
+| Uso por faixa de MR | MR 0–10: 0,76% · MR 11–20: 3,28% · MR 21–30: 3,55% · Legendary: 3,67% |
+
+**Leitura:** Magistar é muito popular (top 5%) entre os armas melee, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Magistar
 

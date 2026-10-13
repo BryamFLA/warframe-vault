@@ -13,6 +13,8 @@ fontes: ["https://wiki.warframe.com/w/Alternox", "https://wiki.warframe.com/w/Mo
 atualizado: 2026-10-12
 verificado: true
 agente: opus
+uso_2025_rank: "130/195"
+uso_2025_pct: 0.117
 ---
 
 # Alternox
@@ -93,6 +95,19 @@ Na **[[warframes/regular/gyre.md|Gyre]]** ela ganha +20% de Multishot e combina 
 
 **Pontos fortes:** dano em área através de paredes, status alto, disposição de Riven boa.
 **Pontos fracos:** projétil lento com arco, self-stagger na explosão, crítico baixo.
+
+## ⭐ Avaliação Popular — Alternox
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas primárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,12%** do tempo equipado |
+| Posição em 2025 | **#130 de 195** armas primárias — pouco usado |
+| Posição em 2024 | #110 de 183 (0,15%) → caiu 20 posições |
+| Uso por faixa de MR | MR 0–10: 0,061% · MR 11–20: 0,094% · MR 21–30: 0,17% · Legendary: 0,13% |
+
+**Leitura:** Alternox é pouco usado entre os armas primárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Alternox
 

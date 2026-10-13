@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "51/153"
+uso_2025_pct: 0.371
 ---
 
 # Aksomati Prime
@@ -66,6 +68,19 @@ Como conseguir a arma Aksomati Prime:
 | Disposição de Riven | 1,1 |
 | Polaridades | Naramon, Madurai, Madurai |
 | Introduzida | Update 27.0.4 |
+
+## ⭐ Avaliação Popular — Aksomati Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,37%** do tempo equipado |
+| Posição em 2025 | **#51 de 153** armas secundárias — uso médio (top 40%) |
+| Posição em 2024 | #36 de 148 (0,56%) → caiu 15 posições |
+| Uso por faixa de MR | MR 0–10: 0,033% · MR 11–20: 0,31% · MR 21–30: 0,49% · Legendary: 0,45% |
+
+**Leitura:** Aksomati Prime é uso médio (top 40%) entre os armas secundárias, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Aksomati Prime
 

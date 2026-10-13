@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "45/153"
+uso_2025_pct: 0.419
 ---
 
 # Kuva Brakk
@@ -48,6 +50,19 @@ Kuva Brakk é uma **arma Kuva**: só se obtém **derrotando (vanquish) um Kuva L
 | Disposição de Riven | 0,95 |
 | Polaridades | Naramon, Madurai |
 | Introduzida | Update 26 |
+
+## ⭐ Avaliação Popular — Kuva Brakk
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas secundárias **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,42%** do tempo equipado |
+| Posição em 2025 | **#45 de 153** armas secundárias — uso médio (top 40%) |
+| Posição em 2024 | #42 de 148 (0,50%) → caiu 3 posições |
+| Uso por faixa de MR | MR 0–10: 0,053% · MR 11–20: 0,38% · MR 21–30: 0,48% · Legendary: 0,63% |
+
+**Leitura:** Kuva Brakk é uso médio (top 40%) entre os armas secundárias, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Kuva Brakk
 

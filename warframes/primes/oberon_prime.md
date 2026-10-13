@@ -13,6 +13,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "62/113"
+uso_2025_pct: 0.485
 ---
 
 # Oberon Prime
@@ -76,6 +78,19 @@ Como conseguir a Warframe Oberon Prime:
 | 4 | **Reckoning** | 100 | Lifts enemies into the air and then hurls them down with conviction, removing their Armor. Enemies hit by this ability will grant Oberon additional Armor and have a chance to spawn a <HEALTH>Health Orb when they die. |
 
 **Augments** vendidos por: [[mecanicas/sindicatos/new_loka.md|New Loka]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
+
+## ⭐ Avaliação Popular — Oberon Prime
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os Warframes **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,49%** do tempo equipado |
+| Posição em 2025 | **#62 de 113** Warframes — pouco usado |
+| Posição em 2024 | #71 de 106 (0,35%) → subiu 9 posições |
+| Uso por faixa de MR | MR 0–10: 0,092% · MR 11–20: 0,30% · MR 21–30: 0,75% · Legendary: 0,96% |
+
+**Leitura:** Oberon Prime é pouco usado entre os Warframes, e o público que mais usa são os jogadores **Legendary**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Oberon Prime
 

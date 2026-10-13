@@ -14,6 +14,8 @@ atualizado: 2026-10-12
 verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
+uso_2025_rank: "168/233"
+uso_2025_pct: 0.09
 ---
 
 # Tonbo
@@ -57,6 +59,19 @@ O blueprint de Tonbo é pesquisado no **Tenno Lab** do **Dojo do clã** (depois 
 | Disposição de Riven | 1,38 |
 | Polaridades | Madurai |
 | Introduzida | Update 15.15 |
+
+## ⭐ Avaliação Popular — Tonbo
+
+Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.warframe.com/en/community/stats)): % do tempo equipado entre todos os armas melee **rank 30+** em 2025.
+
+| Métrica | Valor |
+|---|---|
+| Uso em 2025 | **0,090%** do tempo equipado |
+| Posição em 2025 | **#168 de 233** armas melee — pouco usado |
+| Posição em 2024 | #152 de 220 (0,100%) → caiu 16 posições |
+| Uso por faixa de MR | MR 0–10: 0,073% · MR 11–20: 0,13% · MR 21–30: 0,065% · Legendary: 0,035% |
+
+**Leitura:** Tonbo é pouco usado entre os armas melee, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🔗 Relacionados — Tonbo
 
