@@ -1,57 +1,85 @@
 ---
 title: Frost
-aliases: [Frost]
+aliases: [Frost, warframe Frost]
 tipo: warframe
-categoria: controle
-resumo: Frost — Controla batalha com gelo e cria globos de defesa.
-status: stub
-rag: false
+resumo: "Frost — Warframe de controle de grupo, sobrevivência. Como conseguir: Blueprint principal no Mercado."
+status: parcial
+rag: true
 tags: [warframe]
-atualizado: 2026-10-07
+progenitor: Cold
+fontes: ["https://wiki.warframe.com/w/Frost", "https://wiki.warframe.com/w/Module:Warframes/data", "https://wiki.warframe.com/w/Module:Blueprints/data", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Void/data"]
+atualizado: 2026-10-12
+verificado: true
 agente: opus
+gerado_de: modulos-da-wiki
 ---
 
 # Frost
 
-> [!info] Visão Geral
-> Controla batalha com gelo e cria globos de defesa
+> [!info] Resumo
+> Warframe de **controle de grupo, sobrevivência**, lançada no **Update 6**.
+> *Descrição no jogo (inglês):* "When Frost steps onto the battlefield, enemies experience a chill. Frost’s attacks control crowds, protect objectives, and increase survivability. Wield the biting cold."
 
-## 🏗️ Como Construir — Frost
+## 🌍 Onde Conseguir — Frost
 
-- Fonte: 
-- Drop location: 
-- Blueprint:
+Como conseguir a Warframe Frost:
 
-## 🔮 Habilidades — Frost
+Blueprint principal no **Mercado**. Componentes: drop dos bosses **Captain Vor e Lieutenant Lech Kril** em **Exta, Ceres**.
 
+| Peça | Fonte (drop) | Chance |
+|---|---|---|
+| Neuroptics | Lech Kril and Vor Assassination Frost Component — rot. A | 38,72% |
+| Chassis | Lech Kril and Vor Assassination Frost Component — rot. A | 38,72% |
+| Systems | Lech Kril and Vor Assassination Frost Component — rot. A | 22,56% |
 
-| # | Nome | Custo | Descrição |
-|---|------|-------|-----------|
-| Passiva | | — | |
-| 1 | | 25 | |
-| 2 | | 50 | |
-| 3 | | 75 | |
-| 4 | | 100 | |
+**Platina:** pronta no Mercado por **375 platina**.
+
+## 🏗️ Como Construir — Frost (passo a passo)
+
+1. **Consiga o blueprint principal** de Frost (seção anterior).
+2. **Consiga os blueprints dos componentes:** Neuroptics, Chassis, Systems.
+3. **Forje cada componente** na Foundry (tabela abaixo).
+4. **Forje a Warframe:** 25.000 créditos + Neuroptics, Chassis, Systems + 1 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]]. Tempo: **3 dia(s)** (pular: 50 platina).
+
+| Componente | Créditos | Recursos | Tempo |
+|---|---|---|---|
+| Neuroptics | 15.000 | 150 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 1 [[recursos/raridades/raro/neural_sensors.md\|Neural Sensors]] + 150 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 500 [[recursos/raridades/comum/rubedo.md\|Rubedo]] | 12 h |
+| Chassis | 15.000 | 1 [[recursos/raridades/raro/morphics.md\|Morphics]] + 1.000 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 300 [[recursos/raridades/comum/rubedo.md\|Rubedo]] | 12 h |
+| Systems | 15.000 | 1 [[recursos/raridades/raro/control_module.md\|Control Module]] + 1 [[recursos/raridades/raro/morphics.md\|Morphics]] + 500 [[recursos/raridades/comum/salvage.md\|Salvage]] + 500 [[recursos/raridades/incomum/plastids.md\|Plastids]] | 12 h |
+| **Frost** (montagem) | 25.000 | Neuroptics, Chassis, Systems + 1 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] | 3 dia(s) |
 
 ## 📊 Stats Base — Frost
 
+| Atributo | Valor |
+|---|---|
+| Vida | 270 |
+| Escudo | 455 |
+| Armadura | 315 |
+| Energia | 100 |
+| Energia inicial | 50 |
+| Velocidade de corrida | 0,95 |
+| Polaridade de Aura | Vazarin |
+| Polaridades | Naramon, Vazarin |
+| Elemento progenitor (Kuva Lich) | Cold |
+| Gênero | Masculino |
+| Introduzida | Update 6 |
 
-| Stat | Valor |
-|------|-------|
-| HP | |
-| Escudo | |
-| Armadura | |
-| Energia | |
-| Sprint | |
-| Polaridades | |
+## 🔮 Habilidades — Frost
 
-## 🛠️ Build — Frost
+**Passiva (inglês):** Cold Status Effects from Frost's Abilities last 100% longer. Frost gains 50 Armor per enemy afflicted with Cold Status within Affinity Range.
 
-> Preencher após obter o Warframe.
-- [ ]
+| # | Habilidade | Energia | Descrição (inglês) |
+|---|---|---|---|
+| 1 | **Freeze** | 25 | A frigid energy blast that freezes targets in their tracks. |
+| 2 | **Ice Wave** | 50 | Sends a wave of razor sharp, crystalized ice toward an enemy, dealing heavy damage. |
+| 3 | **Snow Globe** | 50 | Frost deep freezes any vapor and moisture in the area, creating a protective sphere with brief invulnerability to boost its strength. |
+| 4 | **Avalanche** | 100 | Summons a treacherous landslide of ice that instantly freezes and shatters all enemies in its radius. |
+
+**Helminth:** a habilidade **Ice Wave** pode ser subsumida (doada ao Helminth).
+
+**Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/steel_meridian.md|Steel Meridian]].
 
 ## 🔗 Relacionados — Frost
 
-- Sinergias: 
-- Recursos necessários: 
-- Quests relacionadas:
+- [[warframes/primes/frost_prime.md|Frost Prime]]
+- [[mecanicas/forja.md|Forja]] — como funciona a Foundry

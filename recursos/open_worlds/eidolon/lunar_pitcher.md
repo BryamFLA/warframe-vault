@@ -39,6 +39,8 @@ agente: opus
 
 ## 🌍 Onde Conseguir — Lunar Pitcher
 
+**Como conseguir Lunar Pitcher:** recurso que aparece em **Obtained by gathering Lunar Pitcher plants that grow on Lua**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
+
 
 **Locais que o próprio jogo lista:** Obtained by gathering Lunar Pitcher plants that grow on Lua
 

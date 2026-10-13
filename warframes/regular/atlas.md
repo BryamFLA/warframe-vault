@@ -1,6 +1,6 @@
 ---
 title: Atlas
-aliases: [Atlas]
+aliases: [Atlas, warframe Atlas]
 tipo: warframe
 archetype: [brawler, dps, tank]
 resumo: "Atlas — Brawler de 475 de armadura que soca com Landslide e se cura com Rubble de inimigos petrificados; a passiva o deixa imune a Knockdown enquanto está no chão."
@@ -107,6 +107,12 @@ agente: opus
 > [!warning] Correção do arquivo anterior
 > A versão anterior deste arquivo listava os sindicatos de Augment do Atlas como **"Cephalon Suda e Véu Vermelho"**. Está **errado**: são **Red Veil e Steel Meridian**.
 
+
+## 🌍 Onde Conseguir — Atlas
+
+Como conseguir o Warframe Atlas:
+
+Blueprint principal ao concluir a quest **The Jordas Precept**. Componentes: drop do boss **Jordas Golem** (Jordas Golem Assassinate, **Eris**), liberado pela mesma quest — luta em Archwing. Blueprints extras no **Cephalon Simaris** (50.000 de Standing). Também no **The Circuit** (Duviri) na semana dele: Neuroptics tier 2, Chassis 5, Systems 8, principal 10.
 
 ## 🏗️ Como Construir — Atlas
 

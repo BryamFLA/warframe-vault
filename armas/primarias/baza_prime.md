@@ -1,16 +1,73 @@
 ---
 title: Baza Prime
-aliases: [Baza Prime]
+aliases: [Baza Prime, arma Baza Prime]
 tipo: arma
-subtipo: primaria
-resumo: Baza Prime — conteúdo ainda não preenchido no vault.
-status: stub
-rag: false
-tags: [arma, primaria]
-atualizado: 2026-10-07
+subtipo: primary
+categoria: rifle
+resumo: "Baza Prime — arma primária (Rifle), MR 10. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). Forja: 15.000 créditos + 10 Orokin Cell."
+status: parcial
+rag: true
+tags: [arma, prime]
+mastery_rank: 10
+fontes: ["https://wiki.warframe.com/w/Baza_Prime", "https://wiki.warframe.com/w/Module:Weapons/data", "https://wiki.warframe.com/w/Module:Blueprints/data", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Void/data"]
+atualizado: 2026-10-12
+verificado: true
 agente: opus
+gerado_de: modulos-da-wiki
 ---
 
 # Baza Prime
 
+> [!info] Resumo
+> Arma **primária** (Rifle), **MR 10**, dano principal **Perfuração**, introduzida no Update 27.0.4.
 
+## 🌍 Onde Conseguir — Baza Prime
+
+Como conseguir a arma Baza Prime:
+
+| Peça Prime | Relíquias ativas (raridade) | Ativas / vaultadas |
+|---|---|---|
+| Blueprint | — | 0 / 7 |
+| Barrel | — | 0 / 8 |
+| Receiver | — | 0 / 9 |
+| Stock | — | 0 / 5 |
+
+> Relíquias **vaultadas** não caem mais em missões; só voltam no **Prime Resurgence** (Varzia) ou por troca entre jogadores.
+
+## 🏗️ Como Construir — Baza Prime (passo a passo)
+
+1. **Consiga o blueprint** de Baza Prime (seção anterior).
+2. **Consiga os componentes:** Barrel, Receiver, Stock (Relíquias do Void).
+3. **Junte os recursos e forje na Foundry:** 15.000 créditos + 10 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + Barrel, Receiver, Stock. Tempo: **12 h** (pular: 50 platina).
+4. **Upe a arma até o rank 30** para ganhar Mastery.
+
+| Item | Créditos | Recursos | Tempo |
+|---|---|---|---|
+| **Baza Prime** | 15.000 | 10 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + Barrel, Receiver, Stock | 12 h |
+
+## 📊 Stats Base — Baza Prime
+
+| Atributo | Valor |
+|---|---|
+| Mastery Rank | 10 |
+| Slot / classe | primária / Rifle |
+| Gatilho | Auto |
+| Dano total (Normal Attack) | 16,0 |
+| — Impacto | 5,76 |
+| — Perfuração | 6,72 |
+| — Corte | 3,52 |
+| Chance de crítico | 28% |
+| Multiplicador crítico | 3x |
+| Chance de status | 14% |
+| Cadência | 16,67 |
+| Pente | 60 |
+| Munição máxima | 840 |
+| Recarga (s) | 1,1 |
+| Disposição de Riven | 1 |
+| Polaridades | Madurai, Madurai |
+| Introduzida | Update 27.0.4 |
+
+## 🔗 Relacionados — Baza Prime
+
+- [[armas/primarias/baza.md|Baza]] — mesma família
+- [[mecanicas/forja.md|Forja]] — como funciona a Foundry

@@ -1,6 +1,6 @@
 ---
 title: Ash Prime
-aliases: [Ash Prime]
+aliases: [Ash Prime, warframe Ash Prime]
 tipo: warframe
 archetype: [furtivo, dps, assassino]
 resumo: "Ash Prime — Versão Prime do Ash, vaulted desde 30/05/2017: mesmas habilidades, mas +95 de escudo, +80 de armadura, sprint 1,2 e uma terceira polaridade (Naramon); só se consegue por relíquia vaulted, troca ou Prime Resurgence."
@@ -100,6 +100,12 @@ agente: opus
 > [!note] Os Augments são os mesmos do Ash base
 > Ash e Ash Prime **compartilham os quatro Augments** — não há Augment exclusivo de Prime no jogo. Nenhum dos quatro tem arquivo próprio no vault, por isso os nomes ficam em texto puro (seção 3 do `_CONVENCOES.md`).
 
+
+## 🌍 Onde Conseguir — Ash Prime
+
+Como conseguir o Warframe Ash Prime:
+
+As peças do Ash Prime vêm de **Relíquias do Void**, mas ele está **vaultado desde 30/05/2017** — as Relíquias não caem mais em missões. Formas atuais: **Prime Resurgence** (Varzia, quando ele entra na rotação) ou **troca de peças/Relíquias com outros jogadores**.
 
 ## 🏗️ Como Construir — Ash Prime
 

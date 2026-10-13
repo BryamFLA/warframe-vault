@@ -1,6 +1,6 @@
 ---
 title: Mutagen Sample
-aliases: [Mutagen Sample, Amostra Mutagen]
+aliases: [Mutagen Sample, Amostra Mutagen, Amostra de Mutágeno]
 tipo: recurso
 raridade: incomum
 origem: planeta
@@ -32,6 +32,8 @@ agente: gemini
 
 
 ## 🌍 Onde Conseguir — Mutagen Sample
+
+**Como conseguir Mutagen Sample (Amostra de Mutágeno):** recurso incomum que aparece em **Eris e Deimos**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
 
 
 | Local | Missão / Método | Rendimento | Nota |

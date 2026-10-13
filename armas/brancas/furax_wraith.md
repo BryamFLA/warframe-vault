@@ -1,16 +1,77 @@
 ---
 title: Furax Wraith
-aliases: [Furax Wraith]
+aliases: [Furax Wraith, arma Furax Wraith]
 tipo: arma
-subtipo: branca
-resumo: Furax Wraith — conteúdo ainda não preenchido no vault.
-status: stub
-rag: false
-tags: [arma, branca]
-atualizado: 2026-10-07
+subtipo: melee
+categoria: fist
+resumo: "Furax Wraith — arma melee (Fist), MR 9. Como conseguir: Blueprint e componentes nas bounties de Cetus de tier 5 (nível 40–60). Forja: 25.000 créditos."
+status: parcial
+rag: true
+tags: [arma]
+mastery_rank: 9
+fontes: ["https://wiki.warframe.com/w/Furax_Wraith", "https://wiki.warframe.com/w/Module:Weapons/data", "https://wiki.warframe.com/w/Module:Blueprints/data", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Void/data"]
+atualizado: 2026-10-12
+verificado: true
 agente: opus
+gerado_de: modulos-da-wiki
 ---
 
 # Furax Wraith
 
+> [!info] Resumo
+> Arma **melee** (Fist), **MR 9**, dano principal **Impacto**, introduzida no Update 18.10.
 
+## 🌍 Onde Conseguir — Furax Wraith
+
+Como conseguir a arma Furax Wraith:
+
+Blueprint e componentes nas **bounties de Cetus de tier 5** (nível 40–60). Peças negociáveis (MR 9). No evento Dog Days, vendidos pelo Nakak por Nakak Pearls.
+
+| Peça | Fonte (drop) | Chance |
+|---|---|---|
+| Blueprint | Cetus Bounty Lvl 40-60 Final Stage — rot. C | 8,16% |
+| Blueprint | Steel Path Cetus Bounty Lvl 100-100 Final Stage — rot. C | 8,16% |
+| Blueprint | Cetus Bounty Lvl 40-60 Stage 4 — rot. C | 5,41% |
+| Blueprint | Steel Path Cetus Bounty Lvl 100-100 Stage 4 of 5 — rot. C | 5,41% |
+| Left Gauntlet | Cetus Bounty Lvl 40-60 Final Stage — rot. A | 8,16% |
+| Left Gauntlet | Steel Path Cetus Bounty Lvl 100-100 Final Stage — rot. A | 8,16% |
+| Left Gauntlet | Cetus Bounty Lvl 40-60 Stage 4 — rot. A | 5,41% |
+| Left Gauntlet | Steel Path Cetus Bounty Lvl 100-100 Stage 4 of 5 — rot. A | 5,41% |
+| Right Gauntlet | Cetus Bounty Lvl 40-60 Final Stage — rot. B | 8,16% |
+| Right Gauntlet | Steel Path Cetus Bounty Lvl 100-100 Final Stage — rot. B | 8,16% |
+| Right Gauntlet | Cetus Bounty Lvl 40-60 Stage 4 — rot. B | 5,41% |
+| Right Gauntlet | Steel Path Cetus Bounty Lvl 100-100 Stage 4 of 5 — rot. B | 5,41% |
+
+## 🏗️ Como Construir — Furax Wraith (passo a passo)
+
+1. **Consiga o blueprint** de Furax Wraith (seção anterior).
+2. **Consiga os componentes:** Left Gauntlet, Right Gauntlet.
+3. **Junte os recursos e forje na Foundry:** 25.000 créditos + Left Gauntlet, Right Gauntlet. Tempo: **12 h** (pular: 50 platina).
+4. **Upe a arma até o rank 30** para ganhar Mastery.
+
+| Item | Créditos | Recursos | Tempo |
+|---|---|---|---|
+| **Furax Wraith** | 25.000 | — + Left Gauntlet, Right Gauntlet | 12 h |
+
+## 📊 Stats Base — Furax Wraith
+
+| Atributo | Valor |
+|---|---|
+| Mastery Rank | 9 |
+| Slot / classe | melee / Fist |
+| Dano total (Normal Attack) | 139,0 |
+| — Impacto | 97,3 |
+| — Perfuração | 20,9 |
+| — Corte | 20,8 |
+| Chance de crítico | 30% |
+| Multiplicador crítico | 2,7x |
+| Chance de status | 15% |
+| Cadência | 1,08 |
+| Follow-through | 0,9 |
+| Disposição de Riven | 1,15 |
+| Introduzida | Update 18.10 |
+
+## 🔗 Relacionados — Furax Wraith
+
+- [[armas/brancas/furax.md|Furax]] — mesma família
+- [[mecanicas/forja.md|Forja]] — como funciona a Foundry

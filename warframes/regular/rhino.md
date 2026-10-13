@@ -1,6 +1,6 @@
 ---
 title: Rhino
-aliases: [Rhino]
+aliases: [Rhino, warframe Rhino]
 tipo: warframe
 categoria: tanque
 resumo: "Tanque e suporte de dano: Iron Skin fornece Overguard, Roar fortalece o esquadrão e Rhino Stomp controla grupos."
@@ -73,6 +73,12 @@ Custos-base de energia, antes de Eficiência. A passiva não consome energia; Ef
 
 Os sindicatos principais vendem seus augments no rank máximo de reputação por 25.000 de Standing cada. Augments de Conclave seguem oferta própria; não presumir o mesmo vendedor/preço. Nomes sem wikilink não possuem alvo próprio confirmado no índice do vault.
 
+
+## 🌍 Onde Conseguir — Rhino
+
+Como conseguir o Warframe Rhino:
+
+Blueprint principal no **Mercado**. Componentes: drop do boss **Jackal** em **Fossa, Vênus**. Também no **The Circuit** (Duviri) na semana dele (todos os blueprints no tier 10).
 
 ## 🏗️ Como Construir — Rhino
 

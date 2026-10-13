@@ -1,6 +1,6 @@
 ---
 title: Circuits
-aliases: [Circuits]
+aliases: [Circuits, Circuitos]
 tipo: recurso
 raridade: comum
 origem: planeta
@@ -32,6 +32,8 @@ agente: gemini
 
 
 ## 🌍 Onde Conseguir — Circuits
+
+**Como conseguir Circuits (Circuitos):** recurso incomum que aparece em **Vênus, Ceres, e the Kuva Fortress**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
 
 
 | Local | Missão / Método | Rendimento | Nota |

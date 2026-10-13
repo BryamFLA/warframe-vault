@@ -1,6 +1,6 @@
 ---
 title: Salvage
-aliases: [Salvage]
+aliases: [Salvage, Sucata]
 tipo: recurso
 raridade: comum
 origem: planeta
@@ -32,6 +32,8 @@ agente: gemini
 
 
 ## 🌍 Onde Conseguir — Salvage
+
+**Como conseguir Salvage (Sucata):** recurso comum que aparece em **Marte, Júpiter, e Sedna**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
 
 
 | Local | Missão / Método | Rendimento | Nota |

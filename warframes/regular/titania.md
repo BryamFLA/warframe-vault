@@ -1,57 +1,79 @@
 ---
 title: Titania
-aliases: [Titania]
+aliases: [Titania, warframe Titania]
 tipo: warframe
-categoria: furtivo
-resumo: Titania — Fada que encolhe e voa como Archwing em miniatura.
-status: stub
-rag: false
+resumo: "Titania — Warframe de dano, controle de grupo. Como conseguir: Blueprints da quest The Silver Grove (exige The Second Dream e MR 7)."
+status: parcial
+rag: true
 tags: [warframe]
-atualizado: 2026-10-07
+progenitor: Cold
+fontes: ["https://wiki.warframe.com/w/Titania", "https://wiki.warframe.com/w/Module:Warframes/data", "https://wiki.warframe.com/w/Module:Blueprints/data", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Void/data"]
+atualizado: 2026-10-12
+verificado: true
 agente: opus
+gerado_de: modulos-da-wiki
 ---
 
 # Titania
 
-> [!info] Visão Geral
-> Fada que encolhe e voa como Archwing em miniatura
+> [!info] Resumo
+> Warframe de **dano, controle de grupo**, lançada no **Update The Silver Grove**.
+> *Descrição no jogo (inglês):* "Titania’s fairy-like appearance belies her formidable regal power. The enchantress deals high damage and provides crowd control. She forces opponents to pay homage or perish."
 
-## 🏗️ Como Construir — Titania
+## 🌍 Onde Conseguir — Titania
 
-- Fonte: 
-- Drop location: 
-- Blueprint:
+Como conseguir a Warframe Titania:
 
-## 🔮 Habilidades — Titania
+Blueprints da quest **The Silver Grove** (exige The Second Dream e MR 7). Extras no **Cephalon Simaris** (25.000 por componente, 50.000 pelo principal). Também no **The Circuit** (Duviri) na semana em que ela está na rotação: Neuroptics tier 2, Chassis 5, Systems 8, principal 10.
 
+**Platina:** pronta no Mercado por **275 platina**.
 
-| # | Nome | Custo | Descrição |
-|---|------|-------|-----------|
-| Passiva | | — | |
-| 1 | | 25 | |
-| 2 | | 50 | |
-| 3 | | 75 | |
-| 4 | | 100 | |
+## 🏗️ Como Construir — Titania (passo a passo)
+
+1. **Consiga o blueprint principal** de Titania (seção anterior).
+2. **Consiga os blueprints dos componentes:** Neuroptics, Chassis, Systems.
+3. **Forje cada componente** na Foundry (tabela abaixo).
+4. **Forje a Warframe:** 25.000 créditos + Neuroptics, Chassis, Systems + 3 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]]. Tempo: **3 dia(s)** (pular: 50 platina).
+
+| Componente | Créditos | Recursos | Tempo |
+|---|---|---|---|
+| Neuroptics | 15.000 | 1.500 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 2 [[recursos/raridades/raro/neurodes.md\|Neurodes]] + 2.500 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 700 [[recursos/raridades/comum/circuits.md\|Circuits]] | 12 h |
+| Chassis | 15.000 | 3 [[recursos/raridades/raro/nitain_extract.md\|Nitain Extract]] + 3.000 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 900 [[recursos/raridades/comum/rubedo.md\|Rubedo]] + 1 [[recursos/raridades/raro/tellurium.md\|Tellurium]] | 12 h |
+| Systems | 15.000 | 1 [[recursos/raridades/raro/control_module.md\|Control Module]] + 800 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 2.200 [[recursos/raridades/raro/cryotic.md\|Cryotic]] + 1 [[recursos/raridades/raro/tellurium.md\|Tellurium]] | 12 h |
+| **Titania** (montagem) | 25.000 | Neuroptics, Chassis, Systems + 3 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] | 3 dia(s) |
 
 ## 📊 Stats Base — Titania
 
+| Atributo | Valor |
+|---|---|
+| Vida | 270 |
+| Escudo | 270 |
+| Armadura | 105 |
+| Energia | 175 |
+| Energia inicial | 100 |
+| Velocidade de corrida | 1 |
+| Polaridade de Aura | Madurai |
+| Polaridades | Madurai, Vazarin |
+| Elemento progenitor (Kuva Lich) | Cold |
+| Gênero | Feminino |
+| Introduzida | Update The Silver Grove |
 
-| Stat | Valor |
-|------|-------|
-| HP | |
-| Escudo | |
-| Armadura | |
-| Energia | |
-| Sprint | |
-| Polaridades | |
+## 🔮 Habilidades — Titania
 
-## 🛠️ Build — Titania
+**Passiva (inglês):** Titania generates Health for herself and nearby allies every time she casts an Ability.
 
-> Preencher após obter o Warframe.
-- [ ]
+| # | Habilidade | Energia | Descrição (inglês) |
+|---|---|---|---|
+| 1 | **Spellbind** | 25 | Enemies fumble their weapons as they are whisked into the air. Nearby allies become immune to Status Effects. Hold the ability to cast the immunity onto Titania. |
+| 2 | **Tribute** | 25 | Cycle through and extract one of the four Buffs when cast on an enemy. Thorns reduces incoming damage. Dust degrades enemy accuracy. Full Moon increases companion damage. Entangle slows enemies within range. |
+| 3 | **Lantern** | 75 | Create a swarm of razorflies that transform an enemy into an irresistible floating beacon, attracting witless comrades before exploding on command. |
+| 4 | **Razorwing** | 25 | Shrink down and take flight, while razorflies attack nearby enemies and amplify the damage they take. |
+
+**Helminth:** a habilidade **Spellbind** pode ser subsumida (doada ao Helminth).
+
+**Augments** vendidos por: [[mecanicas/sindicatos/new_loka.md|New Loka]], [[mecanicas/sindicatos/red_veil.md|Red Veil]].
 
 ## 🔗 Relacionados — Titania
 
-- Sinergias: 
-- Recursos necessários: 
-- Quests relacionadas:
+- [[warframes/primes/titania_prime.md|Titania Prime]]
+- [[mecanicas/forja.md|Forja]] — como funciona a Foundry

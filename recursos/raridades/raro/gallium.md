@@ -1,6 +1,6 @@
 ---
 title: Gallium
-aliases: [Gallium]
+aliases: [Gallium, Gálio]
 tipo: recurso
 raridade: raro
 origem: planeta
@@ -38,6 +38,8 @@ agente: opus
 
 
 ## 🌍 Onde Conseguir — Gallium
+
+**Como conseguir Gallium (Gálio):** recurso raro que aparece em **Marte e Urano**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
 
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |

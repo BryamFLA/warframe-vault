@@ -1,16 +1,52 @@
 ---
 title: Telos Boltace
-aliases: [Telos Boltace]
+aliases: [Telos Boltace, arma Telos Boltace]
 tipo: arma
-subtipo: branca
-resumo: Telos Boltace — conteúdo ainda não preenchido no vault.
-status: stub
-rag: false
-tags: [arma, branca]
-atualizado: 2026-10-07
+subtipo: melee
+categoria: tonfa
+resumo: "Telos Boltace — arma melee (Tonfa), MR 11. Como conseguir: Telos Boltace é uma arma de Sindicato: compre do the  Arbiters of Hexis com 125,000 de Standing ao chegar no rank Maxim do sindicato."
+status: parcial
+rag: true
+tags: [arma]
+mastery_rank: 11
+fontes: ["https://wiki.warframe.com/w/Telos_Boltace", "https://wiki.warframe.com/w/Module:Weapons/data", "https://wiki.warframe.com/w/Module:Blueprints/data", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Void/data"]
+atualizado: 2026-10-12
+verificado: true
 agente: opus
+gerado_de: modulos-da-wiki
 ---
 
 # Telos Boltace
 
+> [!info] Resumo
+> Arma **melee** (Tonfa), **MR 11**, dano principal **Perfuração**, introduzida no Update Update: The Silver Grove 2.0.
 
+## 🌍 Onde Conseguir — Telos Boltace
+
+Como conseguir a arma Telos Boltace:
+
+Telos Boltace é uma **arma de Sindicato**: compre do **the  Arbiters of Hexis** com **125,000 de Standing** ao chegar no rank **Maxim** do sindicato. Cópias sem rank, sem Forma e sem Catalyst são negociáveis.
+
+## 📊 Stats Base — Telos Boltace
+
+| Atributo | Valor |
+|---|---|
+| Mastery Rank | 11 |
+| Slot / classe | melee / Tonfa |
+| Dano total (Normal Attack) | 210,0 |
+| — Impacto | 21 |
+| — Perfuração | 178,5 |
+| — Corte | 10,5 |
+| Chance de crítico | 20% |
+| Multiplicador crítico | 2x |
+| Chance de status | 35% |
+| Cadência | 1,08 |
+| Follow-through | 0,6 |
+| Disposição de Riven | 1,1 |
+| Polaridades | Naramon |
+| Introduzida | Update Update: The Silver Grove 2.0 |
+
+## 🔗 Relacionados — Telos Boltace
+
+- [[armas/brancas/boltace.md|Boltace]] — mesma família
+- [[mecanicas/forja.md|Forja]] — como funciona a Foundry

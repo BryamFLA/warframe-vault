@@ -39,6 +39,8 @@ agente: opus
 
 ## 🌍 Onde Conseguir — Ruk's Claw
 
+**Como conseguir Ruk's Claw:** recurso que aparece em **Obtained by gathering Ruk's Claw plants that grow on Marte**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
+
 
 **Locais que o próprio jogo lista:** Obtained by gathering Ruk's Claw plants that grow on Mars
 

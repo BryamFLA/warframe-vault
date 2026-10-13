@@ -1,6 +1,6 @@
 ---
 title: Argon Crystal
-aliases: [Argon Crystal, Cristal Argon]
+aliases: [Argon Crystal, Cristal Argon, Cristal de Argônio]
 tipo: recurso
 raridade: raro
 origem: planeta
@@ -38,6 +38,8 @@ agente: opus
 
 
 ## 🌍 Onde Conseguir — Argon Crystal
+
+**Como conseguir Argon Crystal (Cristal de Argônio):** recurso raro que aparece em **missões em Void**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
 
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |

@@ -38,6 +38,8 @@ agente: opus
 
 ## 🌍 Onde Conseguir — Pustrels
 
+**Como conseguir Pustrels:** recurso que aparece em **Eris**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
+
 
 **Da seção de aquisição da página:** When running Empyrean missions to farm Pustrels, all Pustrels, Carbides, Cubic Diodes, and Copernics were stored in the Railjack's Resource Forge in order to manufacture consumable items. The Forge holds a default of 200 of each resource, after which additional gathering is automatically distributed to the squad, until the mission is completed. Pressing the "Refine" button from one of the Forge station will distribute the resources to the entire squad.
 

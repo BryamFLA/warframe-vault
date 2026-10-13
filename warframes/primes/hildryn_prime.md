@@ -1,37 +1,86 @@
 ---
 title: Hildryn Prime
-aliases: [Hildryn Prime]
+aliases: [Hildryn Prime, warframe Hildryn Prime, Hildryn P]
 tipo: warframe
-resumo: Hildryn Prime — 1.
-status: stub
-rag: false
-atualizado: 2026-10-07
+variante: prime
+resumo: "Hildryn Prime — Warframe de dano, sobrevivência. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento)."
+status: parcial
+rag: true
+tags: [warframe, prime]
+progenitor: Cold
+fontes: ["https://wiki.warframe.com/w/Hildryn_Prime", "https://wiki.warframe.com/w/Module:Warframes/data", "https://wiki.warframe.com/w/Module:Blueprints/data", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Void/data"]
+atualizado: 2026-10-12
+verificado: true
 agente: opus
+gerado_de: modulos-da-wiki
 ---
 
 # Hildryn Prime
 
-> [!info]
+> [!info] Resumo
+> Warframe Prime de **dano, sobrevivência**, lançada no **Update 32.3.6**.
+> *Descrição no jogo (inglês):* "Hildryn Prime proves that power is discipline’s reward."
 
-## 🏗️ Como Construir — Hildryn Prime
+## 🌍 Onde Conseguir — Hildryn Prime
 
+Como conseguir a Warframe Hildryn Prime:
 
-## 🔮 Habilidades — Hildryn Prime
+| Peça Prime | Relíquias ativas (raridade) | Ativas / vaultadas |
+|---|---|---|
+| Blueprint | — | 0 / 5 |
+| Neuroptics Blueprint | — | 0 / 7 |
+| Chassis Blueprint | — | 0 / 6 |
+| Systems Blueprint | — | 0 / 10 |
 
-1. **Passiva:** 
-2. **Habilidade 1:** 
-3. **Habilidade 2:** 
-4. **Habilidade 3:** 
-5. **Habilidade 4:**
+> Relíquias **vaultadas** não caem mais em missões; só voltam no **Prime Resurgence** (Varzia) ou por troca entre jogadores.
+
+## 🏗️ Como Construir — Hildryn Prime (passo a passo)
+
+1. **Consiga o blueprint principal** de Hildryn Prime (seção anterior).
+2. **Consiga os blueprints dos componentes:** Prime Neuroptics, Prime Chassis, Prime Systems.
+3. **Forje cada componente** na Foundry (tabela abaixo).
+4. **Forje a Warframe:** 25.000 créditos + Prime Neuroptics, Prime Chassis, Prime Systems + 5 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]]. Tempo: **3 dia(s)** (pular: 50 platina).
+
+| Componente | Créditos | Recursos | Tempo |
+|---|---|---|---|
+| Prime Neuroptics | 15.000 | 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]] + 600 [[recursos/raridades/raro/cryotic.md\|Cryotic]] + 1.100 [[recursos/raridades/comum/circuits.md\|Circuits]] + 4.975 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]] | 12 h |
+| Prime Chassis | 15.000 | 2 [[recursos/raridades/raro/tellurium.md\|Tellurium]] + 450 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 1.425 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 5.500 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] | 12 h |
+| Prime Systems | 15.000 | 2 [[recursos/raridades/raro/nitain_extract.md\|Nitain Extract]] + 3 [[recursos/raridades/raro/neurodes.md\|Neurodes]] + 1.250 [[recursos/raridades/comum/rubedo.md\|Rubedo]] + 3.800 [[recursos/raridades/comum/salvage.md\|Salvage]] | 12 h |
+| **Hildryn Prime** (montagem) | 25.000 | Prime Neuroptics, Prime Chassis, Prime Systems + 5 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] | 3 dia(s) |
 
 ## 📊 Stats Base — Hildryn Prime
 
-- **Vida:**
-- **Escudos:**
-- **Armadura:**
-- **Energia:**
-- **Velocidade:**
+| Atributo | Valor |
+|---|---|
+| Vida | 270 |
+| Escudo | 1.380 |
+| Armadura | 315 |
+| Energia | 0 |
+| Energia inicial | 0 |
+| Velocidade de corrida | 1,05 |
+| Polaridade de Aura | Naramon |
+| Polaridades | Vazarin, Vazarin, Naramon |
+| Elemento progenitor (Kuva Lich) | Cold |
+| Gênero | Feminino |
+| Introduzida | Update 32.3.6 |
+
+## 🔮 Habilidades — Hildryn Prime
+
+**Passiva (inglês):** Hildryn's full Shield Gate is high. After her Shields are depleted, she is invulnerable to damage up to 3.5s.
+
+| # | Habilidade | Energia | Descrição (inglês) |
+|---|---|---|---|
+| 1 | **Balefire** | 50 | Charge and launch devastating bolts of electricity. |
+| 2 | **Pillage** | 150 | Pillage a percentage of Shields and Armor of nearby enemies to replenish Hildryn's own Shields and Overshields. Also removes Status Effects from Hildryn and her allies. |
+| 3 | **Haven** | 250 | Create a shield aura around allies. Enemies that approach shielded allies will take damage.  |
+| 4 | **Aegis Storm** | 100 | Take the skies and rain Balefire rockets down on the enemy. Nearby enemies are blasted into the air where they will create an Energy Orb every few seconds. When shields run out the enemies are smashed into the ground. |
+
+**Helminth:** a habilidade **Pillage** pode ser subsumida (doada ao Helminth).
+
+**Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
 
 ## 🔗 Relacionados — Hildryn Prime
 
-- **Mascote/Arma Assinatura:**
+- [[warframes/regular/hildryn.md|Hildryn]]
+- [[mecanicas/forja.md|Forja]] — como funciona a Foundry
+- [[mecanicas/trading.md|Trading]] — peças Prime são negociáveis

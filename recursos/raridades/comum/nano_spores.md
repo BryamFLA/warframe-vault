@@ -1,6 +1,6 @@
 ---
 title: Nano Spores
-aliases: [Nano Spores]
+aliases: [Nano Spores, Nanoesporos]
 tipo: recurso
 raridade: comum
 origem: planeta
@@ -32,6 +32,8 @@ agente: gemini
 
 
 ## 🌍 Onde Conseguir — Nano Spores
+
+**Como conseguir Nano Spores (Nanoesporos):** recurso comum que aparece em **Saturno, Netuno, Eris, e Deimos**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
 
 
 | Local | Missão / Método | Rendimento | Nota |

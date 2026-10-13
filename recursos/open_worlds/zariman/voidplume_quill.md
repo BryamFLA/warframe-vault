@@ -39,6 +39,8 @@ agente: opus
 
 ## 🌍 Onde Conseguir — Voidplume Quill
 
+**Como conseguir Voidplume Quill:** recurso comum que aparece em **Zariman**.
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|

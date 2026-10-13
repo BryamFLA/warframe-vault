@@ -1,16 +1,54 @@
 ---
 title: Kuva Twin Stubbas
-aliases: [Kuva Twin Stubbas]
+aliases: [Kuva Twin Stubbas, arma Kuva Twin Stubbas]
 tipo: arma
-subtipo: secundaria
-resumo: Kuva Twin Stubbas — conteúdo ainda não preenchido no vault.
-status: stub
-rag: false
-tags: [arma, secundaria]
-atualizado: 2026-10-07
+subtipo: secondary
+categoria: dual pistols
+resumo: "Kuva Twin Stubbas — arma secundária (Dual Pistols), MR 13. Como conseguir: Kuva Twin Stubbas é uma arma Kuva: só se obtém derrotando (vanquish) um Kuva Lich que tenha sido gerado com ela."
+status: parcial
+rag: true
+tags: [arma]
+mastery_rank: 13
+fontes: ["https://wiki.warframe.com/w/Kuva_Twin_Stubbas", "https://wiki.warframe.com/w/Module:Weapons/data", "https://wiki.warframe.com/w/Module:Blueprints/data", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Void/data"]
+atualizado: 2026-10-12
+verificado: true
 agente: opus
+gerado_de: modulos-da-wiki
 ---
 
 # Kuva Twin Stubbas
 
+> [!info] Resumo
+> Arma **secundária** (Dual Pistols), **MR 13**, dano principal **Corte**, introduzida no Update 26.
 
+## 🌍 Onde Conseguir — Kuva Twin Stubbas
+
+Como conseguir a arma Kuva Twin Stubbas:
+
+Kuva Twin Stubbas é uma **arma Kuva**: só se obtém **derrotando (vanquish) um Kuva Lich** que tenha sido gerado com ela. Depois, ela aparece pronta na Foundry. A arma não é negociável, mas um Lich convertido com ela pode ser trocado no Crimson Branch do Dojo.
+
+## 📊 Stats Base — Kuva Twin Stubbas
+
+| Atributo | Valor |
+|---|---|
+| Mastery Rank | 13 |
+| Slot / classe | secundária / Dual Pistols |
+| Gatilho | Auto |
+| Dano total (Normal Attack) | 27,0 |
+| — Impacto | 11,61 |
+| — Perfuração | 2,7 |
+| — Corte | 12,69 |
+| Chance de crítico | 23% |
+| Multiplicador crítico | 1,9x |
+| Chance de status | 31% |
+| Cadência | 10 |
+| Pente | 114 |
+| Munição máxima | 684 |
+| Recarga (s) | 2,7 |
+| Disposição de Riven | 1 |
+| Polaridades | Madurai |
+| Introduzida | Update 26 |
+
+## 🔗 Relacionados — Kuva Twin Stubbas
+
+- [[mecanicas/forja.md|Forja]] — como funciona a Foundry

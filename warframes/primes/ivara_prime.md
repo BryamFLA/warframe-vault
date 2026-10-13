@@ -1,37 +1,84 @@
 ---
 title: Ivara Prime
-aliases: [Ivara Prime]
+aliases: [Ivara Prime, warframe Ivara Prime, Ivara P]
 tipo: warframe
-resumo: Ivara Prime — 1.
-status: stub
-rag: false
-atualizado: 2026-10-07
+variante: prime
+resumo: "Ivara Prime — Warframe de furtividade. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento)."
+status: parcial
+rag: true
+tags: [warframe, prime]
+progenitor: Toxin
+fontes: ["https://wiki.warframe.com/w/Ivara_Prime", "https://wiki.warframe.com/w/Module:Warframes/data", "https://wiki.warframe.com/w/Module:Blueprints/data", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Void/data"]
+atualizado: 2026-10-12
+verificado: true
 agente: opus
+gerado_de: modulos-da-wiki
 ---
 
 # Ivara Prime
 
-> [!info]
+> [!info] Resumo
+> Warframe Prime de **furtividade**, lançada no **Update 27.0.4**.
+> *Descrição no jogo (inglês):* "As regal and lethal as a nighttime wood, this is the queen of the hunt in her ultimate form."
 
-## 🏗️ Como Construir — Ivara Prime
+## 🌍 Onde Conseguir — Ivara Prime
 
+Como conseguir a Warframe Ivara Prime:
 
-## 🔮 Habilidades — Ivara Prime
+| Peça Prime | Relíquias ativas (raridade) | Ativas / vaultadas |
+|---|---|---|
+| Blueprint | — | 0 / 8 |
+| Neuroptics Blueprint | — | 0 / 9 |
+| Chassis Blueprint | — | 0 / 5 |
+| Systems Blueprint | — | 0 / 7 |
 
-1. **Passiva:** 
-2. **Habilidade 1:** 
-3. **Habilidade 2:** 
-4. **Habilidade 3:** 
-5. **Habilidade 4:**
+> Relíquias **vaultadas** não caem mais em missões; só voltam no **Prime Resurgence** (Varzia) ou por troca entre jogadores.
+
+## 🏗️ Como Construir — Ivara Prime (passo a passo)
+
+1. **Consiga o blueprint principal** de Ivara Prime (seção anterior).
+2. **Consiga os blueprints dos componentes:** Prime Neuroptics, Prime Chassis, Prime Systems.
+3. **Forje cada componente** na Foundry (tabela abaixo).
+4. **Forje a Warframe:** 25.000 créditos + Prime Neuroptics, Prime Chassis, Prime Systems + 5 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]]. Tempo: **3 dia(s)** (pular: 50 platina).
+
+| Componente | Créditos | Recursos | Tempo |
+|---|---|---|---|
+| Prime Neuroptics | 15.000 | 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]] + 600 [[recursos/raridades/raro/cryotic.md\|Cryotic]] + 750 [[recursos/raridades/comum/circuits.md\|Circuits]] + 4.250 [[recursos/raridades/comum/salvage.md\|Salvage]] | 12 h |
+| Prime Chassis | 15.000 | 2 [[recursos/raridades/raro/nitain_extract.md\|Nitain Extract]] + 5 [[recursos/raridades/raro/control_module.md\|Control Module]] + 250 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 1.800 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]] | 12 h |
+| Prime Systems | 15.000 | 4 [[recursos/raridades/raro/neurodes.md\|Neurodes]] + 9 [[recursos/raridades/raro/morphics.md\|Morphics]] + 175 [[recursos/raridades/incomum/oxium.md\|Oxium]] + 3.200 [[recursos/raridades/comum/ferrite.md\|Ferrite]] | 12 h |
+| **Ivara Prime** (montagem) | 25.000 | Prime Neuroptics, Prime Chassis, Prime Systems + 5 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] | 3 dia(s) |
 
 ## 📊 Stats Base — Ivara Prime
 
-- **Vida:**
-- **Escudos:**
-- **Armadura:**
-- **Energia:**
-- **Velocidade:**
+| Atributo | Valor |
+|---|---|
+| Vida | 180 |
+| Escudo | 455 |
+| Armadura | 135 |
+| Energia | 250 |
+| Energia inicial | 100 |
+| Velocidade de corrida | 1,2 |
+| Polaridade de Aura | Naramon |
+| Polaridades | Madurai, Vazarin, Naramon |
+| Elemento progenitor (Kuva Lich) | Toxin |
+| Gênero | Feminino |
+| Introduzida | Update 27.0.4 |
+
+## 🔮 Habilidades — Ivara Prime
+
+**Passiva (inglês):** Senses nearby enemies within 50m.
+
+| # | Habilidade | Energia | Descrição (inglês) |
+|---|---|---|---|
+| 1 | **Quiver** | 25 | Cycle through and shoot one of four tactical arrows. Cloak creates a stationary bubble that cloaks Ivara and allies. Dashwire creates a traversable zipline. Noise emits a high-pitched sound that attracts enemies to it. Sleep temporarily puts nearby enemies into a deep slumber. |
+| 2 | **Navigator** | 25 | Assume control of any projectile launched by Ivara and guide it to the target. |
+| 3 | **Prowl** | 25 | Become invisible and steal loot from unsuspecting enemies or take out prey with deadly headshots. |
+| 4 | **Artemis Bow** | 50 | Summon a mighty bow and unleash a volley of devastating arrows. |
+
+**Augments** vendidos por: [[mecanicas/sindicatos/cephalon_suda.md|Cephalon Suda]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
 
 ## 🔗 Relacionados — Ivara Prime
 
-- **Mascote/Arma Assinatura:**
+- [[warframes/regular/ivara.md|Ivara]]
+- [[mecanicas/forja.md|Forja]] — como funciona a Foundry
+- [[mecanicas/trading.md|Trading]] — peças Prime são negociáveis

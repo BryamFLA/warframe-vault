@@ -41,6 +41,8 @@ agente: opus
 
 ## 🌍 Onde Conseguir — Amarast
 
+**Como conseguir Amarast:** recurso raro que aparece em **Orb Vallis (Vênus) from Blue Mining Veins e Resource Containers**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
+
 
 **Da seção de aquisição da wiki:** The reusable blueprint can be purchased from Smokefinger for 4,000 Standing 4,000, requiring the rank of Rapscallion with Solaris United.
 

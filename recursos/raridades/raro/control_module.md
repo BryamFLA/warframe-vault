@@ -1,6 +1,6 @@
 ---
 title: Control Module
-aliases: [Control Module, Módulo Control, Modulo Control]
+aliases: [Control Module, Módulo Control, Modulo Control, Módulo de Controle]
 tipo: recurso
 raridade: raro
 origem: planeta
@@ -39,6 +39,8 @@ agente: opus
 
 ## 🌍 Onde Conseguir — Control Module
 
+**Como conseguir Control Module (Módulo de Controle):** recurso raro que aparece em **Europa, Netuno, e Void**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -54,7 +56,6 @@ agente: opus
 
 No vault: [[locais/planetas/europa.md|Europa]], [[locais/planetas/neptuno.md|Neptune]], [[locais/planetas/void.md|Void]].
 
-**Melhor rota:** a fonte de maior chance na tabela acima é **Weekly Conclave Challenge Reward ×10 (rot. B) — Weekly Conclave Challenge Reward** (missão), com **12.5%** de chance dentro da tabela dele. Para volume, prefira uma missão **endless** desse mesmo local com [[warframes/regular/nekros.md|Nekros]] no squad e **Resource Booster** ativo.
 
 **Mods e frames que ajudam:**
 

@@ -39,6 +39,8 @@ agente: opus
 
 ## 🌍 Onde Conseguir — Intact Sentient Core
 
+**Como conseguir Intact Sentient Core:** recurso que aparece em **Drops from Vomvalysts on the Plains of Eidolon (Terra) at night, e from Sentients found on Lua e the Veil Proxima**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|

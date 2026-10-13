@@ -1,6 +1,6 @@
 ---
 title: Mag
-aliases: [Mag]
+aliases: [Mag, warframe Mag]
 tipo: warframe
 categoria: controle
 resumo: "Controladora magnética que agrupa inimigos e projéteis com Magnetize, recupera escudos e remove armadura permanentemente com Fracturing Crush."
@@ -73,6 +73,12 @@ Custos-base de energia, antes de Eficiência. A passiva não consome energia; Ef
 
 Os sindicatos principais vendem seus augments no rank máximo de reputação por 25.000 de Standing cada. Augments de Conclave seguem oferta própria; não presumir o mesmo vendedor/preço. Nomes sem wikilink não possuem alvo próprio confirmado no índice do vault.
 
+
+## 🌍 Onde Conseguir — Mag
+
+Como conseguir o Warframe Mag:
+
+É um dos **3 Warframes iniciais** (com Excalibur e Volt) no tutorial **Awakening**. Blueprint principal no **Mercado**. Componentes: drop do boss **The Sergeant** em **Iliad, Phobos**. Também no **The Circuit** (Duviri) na semana dela, e pronta com o **Teshin** por 60.000 de Standing do Conclave (rank Typhoon).
 
 ## 🏗️ Como Construir — Mag
 

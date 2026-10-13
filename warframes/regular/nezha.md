@@ -1,6 +1,6 @@
 ---
 title: Nezha
-aliases: [Nezha]
+aliases: [Nezha, warframe Nezha]
 tipo: warframe
 categoria: suporte
 resumo: "Nezha — Combatente móvel com proteção de Warding Halo, vulnerabilidade e orbes por Blazing Chakram; Divine Retribution espalha status entre alvos empalados."
@@ -74,6 +74,12 @@ Custos-base de energia, antes de Eficiência. A passiva não consome energia; Ef
 
 Os sindicatos principais vendem seus augments no rank máximo de reputação por 25.000 de Standing cada. Augments de Conclave seguem oferta própria; não presumir o mesmo vendedor/preço. Nomes sem wikilink não possuem alvo próprio confirmado no índice do vault.
 
+
+## 🌍 Onde Conseguir — Nezha
+
+Como conseguir o Warframe Nezha:
+
+Os blueprints da Nezha são **pesquisados no Tenno Lab do Dojo do clã**. (Até o Update 19.0, em 2016, o principal era vendido no Mercado e as peças vinham de Sorties.)
 
 ## 🏗️ Como Construir — Nezha
 

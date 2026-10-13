@@ -1,6 +1,6 @@
 ---
 title: Fieldron Sample
-aliases: [Fieldron Sample]
+aliases: [Fieldron Sample, Amostra de Fieldron]
 tipo: recurso
 raridade: comum
 origem: planeta
@@ -32,6 +32,8 @@ agente: gemini
 
 
 ## 🌍 Onde Conseguir — Fieldron Sample
+
+**Como conseguir Fieldron Sample (Amostra de Fieldron):** recurso incomum que aparece em **Vênus, Marte, Júpiter, Europa, Netuno, e Plutão**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
 
 
 | Local | Missão / Método | Rendimento | Nota |

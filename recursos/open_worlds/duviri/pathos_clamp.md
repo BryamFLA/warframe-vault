@@ -38,6 +38,8 @@ agente: opus
 
 ## 🌍 Onde Conseguir — Pathos Clamp
 
+**Como conseguir Pathos Clamp:** recurso que aparece em **Rewarded upon defeating the Orowyrm in Duviri**.
+
 
 **Locais que o próprio jogo lista:** Rewarded upon defeating the Orowyrm in Duviri
 

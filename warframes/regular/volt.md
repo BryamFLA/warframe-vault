@@ -1,6 +1,6 @@
 ---
 title: Volt
-aliases: [Volt]
+aliases: [Volt, warframe Volt]
 tipo: warframe
 categoria: dps
 resumo: "Volt — Suporte elétrico que acelera o esquadrão, fortalece tiros com Electric Shield e usa Discharge para controlar grupos e recuperar escudos com Capacitance."
@@ -74,6 +74,12 @@ Custos-base de energia, antes de Eficiência. A passiva não consome energia; Ef
 
 Os sindicatos principais vendem seus augments no rank máximo de reputação por 25.000 de Standing cada. Augments de Conclave seguem oferta própria; não presumir o mesmo vendedor/preço. Nomes sem wikilink não possuem alvo próprio confirmado no índice do vault.
 
+
+## 🌍 Onde Conseguir — Volt
+
+Como conseguir o Warframe Volt:
+
+É um dos **3 Warframes iniciais** (com Excalibur e Mag) no tutorial **Awakening**. Fora isso, os blueprints são **pesquisados no Tenno Lab do Dojo do clã**. Também pronto com o **Teshin** por 60.000 de Standing do Conclave (rank Typhoon).
 
 ## 🏗️ Como Construir — Volt
 

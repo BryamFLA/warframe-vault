@@ -38,6 +38,8 @@ agente: opus
 
 ## 🌍 Onde Conseguir — Isos
 
+**Como conseguir Isos:** recurso incomum que aparece em **Railjack missões in Vênus, Netuno, e Plutão Proximas**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
+
 
 | Fonte | Tipo | Chance do recurso | Rolagens na tabela |
 |---|---|---|---|

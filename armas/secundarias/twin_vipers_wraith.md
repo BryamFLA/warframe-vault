@@ -1,16 +1,71 @@
 ---
 title: Twin Vipers Wraith
-aliases: [Twin Vipers Wraith]
+aliases: [Twin Vipers Wraith, arma Twin Vipers Wraith]
 tipo: arma
-subtipo: secundaria
-resumo: Twin Vipers Wraith — conteúdo ainda não preenchido no vault.
-status: stub
-rag: false
-tags: [arma, secundaria]
-atualizado: 2026-10-07
+subtipo: secondary
+categoria: dual pistols
+resumo: "Twin Vipers Wraith — arma secundária (Dual Pistols), MR 7. Como conseguir: Blueprint e peças são recompensa de Invasão (Invasions). Forja: 25.000 créditos."
+status: parcial
+rag: true
+tags: [arma]
+mastery_rank: 7
+fontes: ["https://wiki.warframe.com/w/Twin_Vipers_Wraith", "https://wiki.warframe.com/w/Module:Weapons/data", "https://wiki.warframe.com/w/Module:Blueprints/data", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Void/data"]
+atualizado: 2026-10-12
+verificado: true
 agente: opus
+gerado_de: modulos-da-wiki
 ---
 
 # Twin Vipers Wraith
 
+> [!info] Resumo
+> Arma **secundária** (Dual Pistols), **MR 7**, dano principal **Impacto**, introduzida no Update 11.5.
 
+## 🌍 Onde Conseguir — Twin Vipers Wraith
+
+Como conseguir a arma Twin Vipers Wraith:
+
+Blueprint e peças são **recompensa de Invasão** (Invasions). As peças são negociáveis; é preciso **MR 7** para adquirir o blueprint.
+
+| Peça | Fonte (drop) | Chance |
+|---|---|---|
+| Blueprint | Invasion — rot. A | 1,11% |
+| Link | Invasion — rot. A | 1,11% |
+
+## 🏗️ Como Construir — Twin Vipers Wraith (passo a passo)
+
+1. **Consiga o blueprint** de Twin Vipers Wraith (seção anterior).
+2. **Consiga os componentes:** Barrel, Receiver, Link.
+3. **Junte os recursos e forje na Foundry:** 25.000 créditos + Barrel, Receiver, Link. Tempo: **12 h** (pular: 50 platina).
+4. **Upe a arma até o rank 30** para ganhar Mastery.
+
+| Item | Créditos | Recursos | Tempo |
+|---|---|---|---|
+| **Twin Vipers Wraith** | 25.000 | — + Barrel, Receiver, Link | 12 h |
+
+## 📊 Stats Base — Twin Vipers Wraith
+
+| Atributo | Valor |
+|---|---|
+| Mastery Rank | 7 |
+| Slot / classe | secundária / Dual Pistols |
+| Gatilho | Auto |
+| Dano total (Normal Attack) | 18,0 |
+| — Impacto | 14,4 |
+| — Perfuração | 1,8 |
+| — Corte | 1,8 |
+| Chance de crítico | 19% |
+| Multiplicador crítico | 2x |
+| Chance de status | 9% |
+| Cadência | 25 |
+| Pente | 40 |
+| Munição máxima | 440 |
+| Recarga (s) | 2 |
+| Disposição de Riven | 1,41 |
+| Polaridades | Naramon |
+| Introduzida | Update 11.5 |
+
+## 🔗 Relacionados — Twin Vipers Wraith
+
+- [[armas/secundarias/twin_vipers.md|Twin Vipers]] — mesma família
+- [[mecanicas/forja.md|Forja]] — como funciona a Foundry

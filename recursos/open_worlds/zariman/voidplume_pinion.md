@@ -39,6 +39,8 @@ agente: opus
 
 ## 🌍 Onde Conseguir — Voidplume Pinion
 
+**Como conseguir Voidplume Pinion:** recurso raro que aparece em **Zariman**.
+
 
 **Locais que o próprio jogo lista:** Zariman
 

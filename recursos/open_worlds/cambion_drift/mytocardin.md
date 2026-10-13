@@ -41,6 +41,8 @@ agente: opus
 
 ## 🌍 Onde Conseguir — Mytocardia Spore
 
+**Como conseguir Mytocardia Spore:** recurso que aparece em **Orb Vallis on Vênus**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -56,7 +58,6 @@ agente: opus
 
 No vault: [[locais/planetas/venus.md|Venus]], [[locais/open-worlds/fortuna.md|Orb Vallis]].
 
-**Melhor rota:** a fonte de maior chance na tabela acima é **Nokko: Critter Liberation Rewards ×20 (rot. B) — Deepmines Bounty** (missão), com **30%** de chance dentro da tabela dele. Para volume, prefira uma missão **endless** desse mesmo local com [[warframes/regular/nekros.md|Nekros]] no squad e **Resource Booster** ativo.
 
 **Mods e frames que ajudam:**
 

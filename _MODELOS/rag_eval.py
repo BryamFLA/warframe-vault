@@ -44,6 +44,24 @@ Q=[("Onde posso conseguir o warframe Excalibur","warframes/regular/excalibur.md"
 ("Como posso conseguir CRIOTICO","recursos/raridades/raro/cryotic.md"),
 ("Me conte um resumo da historia do game","lore/cronologia/cronologia.md"),
 ("O que da pra fazer e farmar na terra, como missoes, itens e tudo o mais que tiver","locais/planetas/terra.md")]
+if "--geral" in sys.argv:
+    # perguntas geradas para TODA entidade indexavel de warframes/, armas/ e recursos/
+    import random
+    tmpl={"warframes":"Onde posso conseguir o warframe {t}","armas":"Crie um passo a passo de como criar a arma {t}","recursos":"Como posso conseguir {t}"}
+    G=collections.defaultdict(lambda:[0,0]); falhas=[]
+    for rel in sorted(set(c[0] for c in chunks)):
+        top=rel.split("/")[0]
+        if top not in tmpl: continue
+        t0=open(os.path.join(ROOT,rel),encoding="utf-8").read(3000)
+        title=(re.search(r"^title:\s*(.*)$",t0,re.M) or [None,""])[1].strip('" ')
+        if not title or "Indice" in rel: continue
+        hit=[chunks[i][0] for _,i in score(tmpl[top].format(t=title))]
+        G[top][1]+=1
+        if rel in hit: G[top][0]+=1
+        else: falhas.append((rel,hit[0]))
+    for k,(a,b) in G.items(): print(f"{k}: {a}/{b} = {100*a/b:.1f}% no top-{K}")
+    print("exemplos de falha:"); [print("  ",f,"->",h) for f,h in falhas[:25]]
+    sys.exit()
 ok=0
 print(f"chunks indexados: {N}\n")
 for q,exp in Q:

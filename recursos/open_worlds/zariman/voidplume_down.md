@@ -39,6 +39,8 @@ agente: opus
 
 ## 🌍 Onde Conseguir — Voidplume Down
 
+**Como conseguir Voidplume Down:** recurso comum que aparece em **Zariman**.
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -48,7 +50,6 @@ agente: opus
 
 No vault: [[locais/planetas/zariman.md|Zariman]].
 
-**Melhor rota:** a fonte de maior chance na tabela acima é **Zariman Bounty Lvl 50-55 ×1 (rot. A) — Zariman Bounty** (missão), com **13.04%** de chance dentro da tabela dele. Para volume, prefira uma missão **endless** desse mesmo local com [[warframes/regular/nekros.md|Nekros]] no squad e **Resource Booster** ativo.
 
 **Mods e frames que ajudam:**
 

@@ -1,6 +1,6 @@
 ---
 title: Plastids
-aliases: [Plastids]
+aliases: [Plastids, Plastídios]
 tipo: recurso
 raridade: incomum
 origem: planeta
@@ -39,6 +39,8 @@ agente: opus
 
 ## 🌍 Onde Conseguir — Plastids
 
+**Como conseguir Plastids (Plastídios):** recurso incomum que aparece em **Phobos, Saturno, Urano, Plutão, e Eris**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -63,7 +65,6 @@ agente: opus
 
 No vault: [[locais/planetas/phobos.md|Phobos]], [[locais/planetas/saturno.md|Saturn]], [[locais/planetas/urano.md|Uranus]], [[locais/planetas/plutao.md|Pluto]], [[locais/planetas/eris.md|Eris]].
 
-**Melhor rota:** a fonte de maior chance na tabela acima é **Fortuna Bounty Lvl 5-15 Stage 1 ×100 (rot. C) — Fortuna Bounty** (missão), com **25%** de chance dentro da tabela dele. Para volume, prefira uma missão **endless** desse mesmo local com [[warframes/regular/nekros.md|Nekros]] no squad e **Resource Booster** ativo.
 
 **Mods e frames que ajudam:**
 

@@ -39,6 +39,8 @@ agente: opus
 
 ## 🌍 Onde Conseguir — Thaumica
 
+**Como conseguir Thaumica:** recurso raro que aparece em **Cambion Drift (Deimos) from Yellow Mining Lesions, Requiem Obelisks, e Spitia Infested Cysts**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
+
 
 **Locais que o próprio jogo lista:** Cambion Drift (Deimos) from Yellow Mining Lesions, Requiem Obelisks, and Spitia Infested Cysts.
 

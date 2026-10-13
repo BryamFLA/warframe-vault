@@ -1,6 +1,6 @@
 ---
 title: Polymer Bundle
-aliases: [Polymer Bundle, Pacote Polymer]
+aliases: [Polymer Bundle, Pacote Polymer, Pacote de Polímeros]
 tipo: recurso
 raridade: incomum
 origem: planeta
@@ -32,6 +32,8 @@ agente: gemini
 
 
 ## 🌍 Onde Conseguir — Polymer Bundle
+
+**Como conseguir Polymer Bundle (Pacote de Polímeros):** recurso incomum que aparece em **Mercúrio, Vênus, e Urano**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
 
 
 | Local | Missão / Método | Rendimento | Nota |

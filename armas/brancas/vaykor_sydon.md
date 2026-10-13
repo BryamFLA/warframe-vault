@@ -1,16 +1,51 @@
 ---
 title: Vaykor Sydon
-aliases: [Vaykor Sydon]
+aliases: [Vaykor Sydon, arma Vaykor Sydon]
 tipo: arma
-subtipo: branca
-resumo: Vaykor Sydon — conteúdo ainda não preenchido no vault.
-status: stub
-rag: false
-tags: [arma, branca]
-atualizado: 2026-10-07
+subtipo: melee
+categoria: polearm
+resumo: "Vaykor Sydon — arma melee (Polearm), MR 11. Como conseguir: Vaykor Sydon é uma arma de Sindicato: compre do Steel Meridian com 125,000 de Standing ao chegar no rank General do sindicato."
+status: parcial
+rag: true
+tags: [arma]
+mastery_rank: 11
+fontes: ["https://wiki.warframe.com/w/Vaykor_Sydon", "https://wiki.warframe.com/w/Module:Weapons/data", "https://wiki.warframe.com/w/Module:Blueprints/data", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Void/data"]
+atualizado: 2026-10-12
+verificado: true
 agente: opus
+gerado_de: modulos-da-wiki
 ---
 
 # Vaykor Sydon
 
+> [!info] Resumo
+> Arma **melee** (Polearm), **MR 11**, dano principal **Perfuração**, introduzida no Update Update: The Silver Grove 2.0.
 
+## 🌍 Onde Conseguir — Vaykor Sydon
+
+Como conseguir a arma Vaykor Sydon:
+
+Vaykor Sydon é uma **arma de Sindicato**: compre do **Steel Meridian** com **125,000 de Standing** ao chegar no rank **General** do sindicato. Cópias sem rank, sem Forma e sem Catalyst são negociáveis.
+
+## 📊 Stats Base — Vaykor Sydon
+
+| Atributo | Valor |
+|---|---|
+| Mastery Rank | 11 |
+| Slot / classe | melee / Polearm |
+| Dano total (Normal Attack) | 213,0 |
+| — Impacto | 10,65 |
+| — Perfuração | 202,35 |
+| Chance de crítico | 21% |
+| Multiplicador crítico | 2,5x |
+| Chance de status | 33% |
+| Cadência | 1,08 |
+| Follow-through | 0,6 |
+| Disposição de Riven | 1,3 |
+| Polaridades | Madurai |
+| Introduzida | Update Update: The Silver Grove 2.0 |
+
+## 🔗 Relacionados — Vaykor Sydon
+
+- [[armas/brancas/sydon.md|Sydon]] — mesma família
+- [[mecanicas/forja.md|Forja]] — como funciona a Foundry

@@ -1,16 +1,71 @@
 ---
 title: Venka Prime
-aliases: [Venka Prime]
+aliases: [Venka Prime, arma Venka Prime]
 tipo: arma
-subtipo: branca
-resumo: Venka Prime — conteúdo ainda não preenchido no vault.
-status: stub
-rag: false
-tags: [arma, branca]
-atualizado: 2026-10-07
+subtipo: melee
+categoria: claws
+resumo: "Venka Prime — arma melee (Claws), MR 14. Como conseguir: Diferente da maioria dos itens Prime, Venka Prime nunca é vaultado (permanently unvaulted): as Relíquias saem dos Abandoned Derelict Caches em missões de Railjack Corpus. Forja: 15.000 créditos + 15 Orokin Cell."
+status: parcial
+rag: true
+tags: [arma, prime]
+mastery_rank: 14
+fontes: ["https://wiki.warframe.com/w/Venka_Prime", "https://wiki.warframe.com/w/Module:Weapons/data", "https://wiki.warframe.com/w/Module:Blueprints/data", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Void/data"]
+atualizado: 2026-10-12
+verificado: true
 agente: opus
+gerado_de: modulos-da-wiki
 ---
 
 # Venka Prime
 
+> [!info] Resumo
+> Arma **melee** (Claws), **MR 14**, dano principal **Corte**, introduzida no Update 19.0.7.
 
+## 🌍 Onde Conseguir — Venka Prime
+
+Como conseguir a arma Venka Prime:
+
+Diferente da maioria dos itens Prime, Venka Prime **nunca é vaultado (permanently unvaulted)**: as Relíquias saem dos **Abandoned Derelict Caches** em missões de Railjack Corpus.
+
+| Peça Prime | Relíquias ativas (raridade) | Ativas / vaultadas |
+|---|---|---|
+| Blueprint | Axi S8 (Incomum) | 1 / 4 |
+| Blades | Neo V9 (Comum) | 1 / 8 |
+| Gauntlet | Axi V10 (Rara) | 1 / 4 |
+
+> Relíquias **vaultadas** não caem mais em missões; só voltam no **Prime Resurgence** (Varzia) ou por troca entre jogadores.
+
+## 🏗️ Como Construir — Venka Prime (passo a passo)
+
+1. **Consiga o blueprint** de Venka Prime (seção anterior).
+2. **Consiga os componentes:** Blades ×2, Gauntlet ×2 (Relíquias do Void).
+3. **Junte os recursos e forje na Foundry:** 15.000 créditos + 15 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + Blades, Gauntlet. Tempo: **12 h** (pular: 50 platina).
+4. **Upe a arma até o rank 30** para ganhar Mastery.
+
+| Item | Créditos | Recursos | Tempo |
+|---|---|---|---|
+| **Venka Prime** | 15.000 | 15 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + Blades, Gauntlet | 12 h |
+
+## 📊 Stats Base — Venka Prime
+
+| Atributo | Valor |
+|---|---|
+| Mastery Rank | 14 |
+| Slot / classe | melee / Claws |
+| Dano total (Normal Attack) | 188,0 |
+| — Impacto | 9,4 |
+| — Perfuração | 37,6 |
+| — Corte | 141 |
+| Chance de crítico | 32% |
+| Multiplicador crítico | 2,6x |
+| Chance de status | 24% |
+| Cadência | 1,05 |
+| Follow-through | 0,8 |
+| Disposição de Riven | 0,85 |
+| Polaridades | Naramon, Madurai |
+| Introduzida | Update 19.0.7 |
+
+## 🔗 Relacionados — Venka Prime
+
+- [[armas/brancas/venka.md|Venka]] — mesma família
+- [[mecanicas/forja.md|Forja]] — como funciona a Foundry

@@ -1,16 +1,65 @@
 ---
 title: Bolto
-aliases: [Bolto]
+aliases: [Bolto, arma Bolto]
 tipo: arma
-subtipo: secundaria
-resumo: Bolto — conteúdo ainda não preenchido no vault.
-status: stub
-rag: false
-tags: [arma, secundaria]
-atualizado: 2026-10-07
+subtipo: secondary
+categoria: pistol
+resumo: "Bolto — arma secundária (Pistol), MR 7. Como conseguir: O blueprint de Bolto é vendido no Mercado (por créditos). Forja: 20.000 créditos + 1 Lato, 800 Polymer Bundle, 2 Orokin Cell, 2 Neurodes."
+status: parcial
+rag: true
+tags: [arma]
+mastery_rank: 7
+fontes: ["https://wiki.warframe.com/w/Bolto", "https://wiki.warframe.com/w/Module:Weapons/data", "https://wiki.warframe.com/w/Module:Blueprints/data", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Void/data"]
+atualizado: 2026-10-12
+verificado: true
 agente: opus
+gerado_de: modulos-da-wiki
 ---
 
 # Bolto
 
+> [!info] Resumo
+> Arma **secundária** (Pistol), **MR 7**, dano principal **Perfuração**, introduzida no Update Vanilla.
 
+## 🌍 Onde Conseguir — Bolto
+
+Como conseguir a arma Bolto:
+
+O blueprint de Bolto é vendido no **Mercado** (por créditos).
+
+**Mercado:** blueprint no **Mercado por 15.000 créditos**; arma pronta no Mercado por **175 platina**.
+
+## 🏗️ Como Construir — Bolto (passo a passo)
+
+1. **Consiga o blueprint** de Bolto (seção anterior).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 [[armas/secundarias/lato.md\|Lato]] + 800 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 2 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + 2 [[recursos/raridades/raro/neurodes.md\|Neurodes]]. Tempo: **12 h** (pular: 25 platina).
+3. **Upe a arma até o rank 30** para ganhar Mastery.
+
+| Item | Créditos | Recursos | Tempo |
+|---|---|---|---|
+| **Bolto** | 20.000 | 1 [[armas/secundarias/lato.md\|Lato]] + 800 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 2 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + 2 [[recursos/raridades/raro/neurodes.md\|Neurodes]] | 12 h |
+
+## 📊 Stats Base — Bolto
+
+| Atributo | Valor |
+|---|---|
+| Mastery Rank | 7 |
+| Slot / classe | secundária / Pistol |
+| Gatilho | Semi-Auto |
+| Dano total (Normal Attack) | 64,0 |
+| — Impacto | 6,4 |
+| — Perfuração | 57,6 |
+| Chance de crítico | 16% |
+| Multiplicador crítico | 2,4x |
+| Chance de status | 2,2% |
+| Cadência | 3,33 |
+| Pente | 15 |
+| Munição máxima | 210 |
+| Recarga (s) | 1,3 |
+| Disposição de Riven | 1,51 |
+| Polaridades | Vazarin |
+| Introduzida | Update Vanilla |
+
+## 🔗 Relacionados — Bolto
+
+- [[mecanicas/forja.md|Forja]] — como funciona a Foundry

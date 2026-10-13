@@ -1,57 +1,85 @@
 ---
 title: Protea
-aliases: [Protea]
+aliases: [Protea, warframe Protea]
 tipo: warframe
-categoria: suporte
-resumo: "Protea — Suporte com turrets, escudo e reversão no tempo."
-status: stub
-rag: false
+resumo: "Protea — Warframe de dano, suporte. Como conseguir: Blueprint principal da quest The Deadlock Protocol (exige Junção de Saturno e MR 4)."
+status: parcial
+rag: true
 tags: [warframe]
-atualizado: 2026-10-07
+progenitor: Heat
+fontes: ["https://wiki.warframe.com/w/Protea", "https://wiki.warframe.com/w/Module:Warframes/data", "https://wiki.warframe.com/w/Module:Blueprints/data", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Void/data"]
+atualizado: 2026-10-12
+verificado: true
 agente: opus
+gerado_de: modulos-da-wiki
 ---
 
 # Protea
 
-> [!info] Visão Geral
-> Suporte com turrets, escudo e reversão no tempo
+> [!info] Resumo
+> Warframe de **dano, suporte**, lançada no **Update 28**.
+> *Descrição no jogo (inglês):* "Protea knows all about protection. Her vast arsenal inflicts damage and provides ally support. She can even manipulate time itself."
 
-## 🏗️ Como Construir — Protea
+## 🌍 Onde Conseguir — Protea
 
-- Fonte: 
-- Drop location: 
-- Blueprint:
+Como conseguir a Warframe Protea:
 
-## 🔮 Habilidades — Protea
+Blueprint principal da quest **The Deadlock Protocol** (exige Junção de Saturno e MR 4). Componentes no **Granum Void** (tileset Corpus Ship): Neuroptics na rotação C do normal, Chassis no Extended, Systems no Nightmare.
 
+| Peça | Fonte (drop) | Chance |
+|---|---|---|
+| Neuroptics | Granum Void — rot. C | 11,11% |
+| Chassis | Extended Granum Void — rot. C | 11,11% |
+| Systems | Nightmare Granum Void — rot. C | 11,11% |
 
-| # | Nome | Custo | Descrição |
-|---|------|-------|-----------|
-| Passiva | | — | |
-| 1 | | 25 | |
-| 2 | | 50 | |
-| 3 | | 75 | |
-| 4 | | 100 | |
+**Platina:** pronta no Mercado por **325 platina**.
+
+## 🏗️ Como Construir — Protea (passo a passo)
+
+1. **Consiga o blueprint principal** de Protea (seção anterior).
+2. **Consiga os blueprints dos componentes:** Neuroptics, Chassis, Systems.
+3. **Forje cada componente** na Foundry (tabela abaixo).
+4. **Forje a Warframe:** 25.000 créditos + Neuroptics, Chassis, Systems + 3 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]]. Tempo: **3 dia(s)** (pular: 50 platina).
+
+| Componente | Créditos | Recursos | Tempo |
+|---|---|---|---|
+| Neuroptics | 15.000 | 11.500 [[recursos/raridades/comum/salvage.md\|Salvage]] + 5.150 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 1.250 Cubic Diodes + 5 [[recursos/raridades/raro/neural_sensors.md\|Neural Sensors]] | 12 h |
+| Chassis | 15.000 | 20.000 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 2.750 [[recursos/railjack/carbides.md\|Carbides]] + 550 [[recursos/raridades/incomum/oxium.md\|Oxium]] + 12 [[recursos/raridades/raro/morphics.md\|Morphics]] | 12 h |
+| Systems | 15.000 | 13.400 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 1.000 [[recursos/raridades/raro/cryotic.md\|Cryotic]] + 1.750 Titanium + 10 [[recursos/raridades/raro/control_module.md\|Control Module]] | 12 h |
+| **Protea** (montagem) | 25.000 | Neuroptics, Chassis, Systems + 3 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] | 3 dia(s) |
 
 ## 📊 Stats Base — Protea
 
+| Atributo | Valor |
+|---|---|
+| Vida | 270 |
+| Escudo | 455 |
+| Armadura | 135 |
+| Energia | 175 |
+| Energia inicial | 50 |
+| Velocidade de corrida | 1,2 |
+| Polaridade de Aura | Aura |
+| Polaridades | Madurai, Naramon |
+| Elemento progenitor (Kuva Lich) | Heat |
+| Gênero | Feminino |
+| Introduzida | Update 28 |
 
-| Stat | Valor |
-|------|-------|
-| HP | |
-| Escudo | |
-| Armadura | |
-| Energia | |
-| Sprint | |
-| Polaridades | |
+## 🔮 Habilidades — Protea
 
-## 🛠️ Build — Protea
+**Passiva (inglês):** Every 4th Power Cast is granted +100% Ability Strength.
 
-> Preencher após obter o Warframe.
-- [ ]
+| # | Habilidade | Energia | Descrição (inglês) |
+|---|---|---|---|
+| 1 | **Grenade Fan** | 25 | Throw out grenades in an arc.r r (TAP) SHRAPNEL VORTEXr Creates a slashing, staggering swirl of shrapnel.r r (HOLD) SHIELD SATELLITESr Protea reconfigures Grenades to work as overcharging shield generators, protecting her, her allies and companions. When Shields break, a Satellite is destroyed to double minimum Shield Gate invincibility time. |
+| 2 | **Blaze Artillery** | 50 | Deploys an artillery unit to blast plasma charges at enemies it faces. Each enemy hit increases the power of subsequent plasma attacks. |
+| 3 | **Dispensary** | 75 | Deploys a device that generates 3 pickups after a short delay: empowered health orb, universal ammo pack and energy orb. |
+| 4 | **Temporal Anchor** | 100 | Drops a Temporal Anchor which, after a short duration, Protea rewinds to trigger a temporal implosion. Implosion damage increases based on damage dealt between anchor drop and rewind. Everything lost or expended in that time is returned.r Dying while Anchor is active rewinds Protea to the anchor, saving her. Protea is knocked down and the anchor vanishes. |
+
+**Helminth:** a habilidade **Dispensary** pode ser subsumida (doada ao Helminth).
+
+**Augments** vendidos por: [[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
 
 ## 🔗 Relacionados — Protea
 
-- Sinergias: 
-- Recursos necessários: 
-- Quests relacionadas:
+- [[warframes/primes/protea_prime.md|Protea Prime]]
+- [[mecanicas/forja.md|Forja]] — como funciona a Foundry

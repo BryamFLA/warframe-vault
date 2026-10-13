@@ -1,6 +1,6 @@
 ---
 title: Nitain Extract
-aliases: [Nitain Extract, Extrato Nitain]
+aliases: [Nitain Extract, Extrato Nitain, Extrato de Nitain]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: planeta
@@ -39,6 +39,8 @@ agente: opus
 
 ## 🌍 Onde Conseguir — Nitain Extract
 
+**Como conseguir Nitain Extract (Extrato de Nitain):** recurso que aparece em **Nightwave Cred Offerings**.
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -59,7 +61,6 @@ agente: opus
 
 **Locais que o próprio jogo lista:** Nightwave Cred Offerings
 
-**Melhor rota:** a fonte de maior chance na tabela acima é **Ghoul Purge Bounty Lvl 15-25 Final Stage (rot. A) — Ghoul Bounty** (missão), com **4.72%** de chance dentro da tabela dele. Para volume, prefira uma missão **endless** desse mesmo local com [[warframes/regular/nekros.md|Nekros]] no squad e **Resource Booster** ativo.
 
 **Mods e frames que ajudam:**
 

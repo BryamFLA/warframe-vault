@@ -1,6 +1,6 @@
 ---
 title: Ferrite
-aliases: [Ferrite]
+aliases: [Ferrite, Ferrita]
 tipo: recurso
 raridade: comum
 origem: planeta
@@ -32,6 +32,8 @@ agente: gemini
 
 
 ## 🌍 Onde Conseguir — Ferrite
+
+**Como conseguir Ferrite (Ferrita):** recurso comum que aparece em **Mercúrio, Terra, Lua, Netuno, e Void**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
 
 
 | Local | Missão / Método | Rendimento | Nota |

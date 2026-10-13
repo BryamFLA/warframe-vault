@@ -1,16 +1,55 @@
 ---
 title: Telos Boltor
-aliases: [Telos Boltor]
+aliases: [Telos Boltor, arma Telos Boltor]
 tipo: arma
-subtipo: primaria
-resumo: Telos Boltor — conteúdo ainda não preenchido no vault.
-status: stub
-rag: false
-tags: [arma, primaria]
-atualizado: 2026-10-07
+subtipo: primary
+categoria: rifle
+resumo: "Telos Boltor — arma primária (Rifle), MR 12. Como conseguir: Telos Boltor é uma arma de Sindicato: compre do the  Arbiters of Hexis com 125,000 de Standing ao chegar no rank Maxim do sindicato."
+status: parcial
+rag: true
+tags: [arma]
+mastery_rank: 12
+fontes: ["https://wiki.warframe.com/w/Telos_Boltor", "https://wiki.warframe.com/w/Module:Weapons/data", "https://wiki.warframe.com/w/Module:Blueprints/data", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Void/data"]
+atualizado: 2026-10-12
+verificado: true
 agente: opus
+gerado_de: modulos-da-wiki
 ---
 
 # Telos Boltor
 
+> [!info] Resumo
+> Arma **primária** (Rifle), **MR 12**, dano principal **Perfuração**, introduzida no Update 17.3.
 
+## 🌍 Onde Conseguir — Telos Boltor
+
+Como conseguir a arma Telos Boltor:
+
+Telos Boltor é uma **arma de Sindicato**: compre do **the  Arbiters of Hexis** com **125,000 de Standing** ao chegar no rank **Maxim** do sindicato. Cópias sem rank, sem Forma e sem Catalyst são negociáveis.
+
+## 📊 Stats Base — Telos Boltor
+
+| Atributo | Valor |
+|---|---|
+| Mastery Rank | 12 |
+| Slot / classe | primária / Rifle |
+| Gatilho | Auto |
+| Dano total (Normal Attack) | 30 |
+| — Impacto | 3 |
+| — Perfuração | 27 |
+| Chance de crítico | 30% |
+| Multiplicador crítico | 2,4x |
+| Chance de status | 16% |
+| Cadência | 9,33 |
+| Pente | 90 |
+| Munição máxima | 540 |
+| Recarga (s) | 2,4 |
+| Disposição de Riven | 1,2 |
+| Polaridades | Vazarin, Madurai |
+| Introduzida | Update 17.3 |
+
+## 🔗 Relacionados — Telos Boltor
+
+- [[armas/primarias/boltor.md|Boltor]] — mesma família
+- [[armas/primarias/boltor_prime.md|Boltor Prime]] — mesma família
+- [[mecanicas/forja.md|Forja]] — como funciona a Foundry

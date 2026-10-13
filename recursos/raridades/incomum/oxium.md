@@ -1,6 +1,6 @@
 ---
 title: Oxium
-aliases: [Oxium]
+aliases: [Oxium, Óxio]
 tipo: recurso
 raridade: ⚠️ NÃO VERIFICADO
 origem: planeta
@@ -38,6 +38,8 @@ agente: opus
 
 
 ## 🌍 Onde Conseguir — Oxium
+
+**Como conseguir Oxium (Óxio):** recurso que aparece em **Vênus, Júpiter, Marte, Netuno, Plutão, Eris, Europa, e Lua**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
 
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |

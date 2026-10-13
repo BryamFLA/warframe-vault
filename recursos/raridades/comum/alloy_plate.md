@@ -1,6 +1,6 @@
 ---
 title: Alloy Plate
-aliases: [Alloy Plate]
+aliases: [Alloy Plate, Placa de Liga]
 tipo: recurso
 raridade: comum
 origem: planeta
@@ -32,6 +32,8 @@ agente: gemini
 
 
 ## 🌍 Onde Conseguir — Alloy Plate
+
+**Como conseguir Alloy Plate (Placa de Liga):** recurso comum que aparece em **Vênus, Phobos, Ceres, Júpiter, Plutão, e Sedna**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
 
 
 | Local | Missão / Método | Rendimento | Nota |

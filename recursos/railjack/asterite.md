@@ -39,6 +39,8 @@ agente: opus
 
 ## 🌍 Onde Conseguir — Asterite
 
+**Como conseguir Asterite:** recurso incomum que aparece em **Railjack Missions**.
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|

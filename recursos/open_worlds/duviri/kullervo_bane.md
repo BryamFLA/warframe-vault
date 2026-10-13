@@ -41,6 +41,8 @@ agente: opus
 
 ## 🌍 Onde Conseguir — Kullervo's Bane
 
+**Como conseguir Kullervo's Bane:** recurso que aparece em **Earned by confronting Kullervo e defeating the Orowyrm in the same Duviri mission during the Fear, Anger, or Sorrow spiral**.
+
 
 **Locais que o próprio jogo lista:** Earned by confronting Kullervo and defeating the Orowyrm in the same Duviri mission during the Fear, Anger, or Sorrow spiral
 

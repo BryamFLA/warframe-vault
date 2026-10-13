@@ -1,16 +1,80 @@
 ---
 title: Sporothrix
-aliases: [Sporothrix]
+aliases: [Sporothrix, arma Sporothrix]
 tipo: arma
-subtipo: primaria
-resumo: Sporothrix — conteúdo ainda não preenchido no vault.
-status: stub
-rag: false
-tags: [arma, primaria]
-atualizado: 2026-10-07
+subtipo: primary
+categoria: sniper rifle
+resumo: "Sporothrix — arma primária (Sniper Rifle), MR 13. Como conseguir: Blueprint e componentes nas bounties Isolation Vault nível 50–60 (Deimos). Forja: 20.000 créditos + 2 Cranial Foremount."
+status: parcial
+rag: true
+tags: [arma]
+mastery_rank: 13
+fontes: ["https://wiki.warframe.com/w/Sporothrix", "https://wiki.warframe.com/w/Module:Weapons/data", "https://wiki.warframe.com/w/Module:Blueprints/data", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Void/data"]
+atualizado: 2026-10-12
+verificado: true
 agente: opus
+gerado_de: modulos-da-wiki
 ---
 
 # Sporothrix
 
+> [!info] Resumo
+> Arma **primária** (Sniper Rifle), **MR 13**, dano principal **Corte**, introduzida no Update 29.5.
 
+## 🌍 Onde Conseguir — Sporothrix
+
+Como conseguir a arma Sporothrix:
+
+Blueprint e componentes nas bounties **Isolation Vault** nível 50–60 (Deimos). Também comprados do **Loid** no Rank 3 do Necraloid (8.000 pelo principal, 6.000 por componente). Negociáveis.
+
+| Peça | Fonte (drop) | Chance |
+|---|---|---|
+| Blueprint | Arcana Isolation Vault Bounty Lvl 50-60 Stage 1 — rot. A/B/C | 12,5% |
+| Blueprint | Arcana Isolation Vault Bounty Lvl 50-60 Stages 2 & 3 — rot. A/B/C | 7,81% |
+| Blueprint | Isolation Vault Lvl 50-60 — rot. A/B/C | 6,25% |
+| Barrel | Arcana Isolation Vault Bounty Lvl 50-60 Final Stage — rot. A | 7,5% |
+| Barrel | Arcana Isolation Vault Bounty Lvl 50-60 Stages 2 & 3 — rot. A | 4,69% |
+| Barrel | Isolation Vault Lvl 50-60 — rot. A | 3,75% |
+| Receiver | Arcana Isolation Vault Bounty Lvl 50-60 Final Stage — rot. B | 7,5% |
+| Receiver | Arcana Isolation Vault Bounty Lvl 50-60 Stages 2 & 3 — rot. B | 4,69% |
+| Receiver | Isolation Vault Lvl 50-60 — rot. B | 3,75% |
+| Stock | Arcana Isolation Vault Bounty Lvl 50-60 Final Stage — rot. C | 7,5% |
+| Stock | Arcana Isolation Vault Bounty Lvl 50-60 Stages 2 & 3 — rot. C | 4,69% |
+| Stock | Isolation Vault Lvl 50-60 — rot. C | 3,75% |
+
+## 🏗️ Como Construir — Sporothrix (passo a passo)
+
+1. **Consiga o blueprint** de Sporothrix (seção anterior).
+2. **Consiga os componentes:** Barrel, Receiver, Stock.
+3. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2 Cranial Foremount + Barrel, Receiver, Stock. Tempo: **12 h** (pular: 35 platina).
+4. **Upe a arma até o rank 30** para ganhar Mastery.
+
+| Item | Créditos | Recursos | Tempo |
+|---|---|---|---|
+| **Sporothrix** | 20.000 | 2 Cranial Foremount + Barrel, Receiver, Stock | 12 h |
+
+## 📊 Stats Base — Sporothrix
+
+| Atributo | Valor |
+|---|---|
+| Mastery Rank | 13 |
+| Slot / classe | primária / Sniper Rifle |
+| Gatilho | Semi-Auto |
+| Dano total (Normal Attack) | 371,0 |
+| — Impacto | 100,17 |
+| — Perfuração | 115,01 |
+| — Corte | 155,82 |
+| Chance de crítico | 1% |
+| Multiplicador crítico | 3x |
+| Chance de status | 53% |
+| Cadência | 1,83 |
+| Pente | 9 |
+| Munição máxima | 45 |
+| Recarga (s) | 2,7 |
+| Disposição de Riven | 1,3 |
+| Polaridades | Vazarin |
+| Introduzida | Update 29.5 |
+
+## 🔗 Relacionados — Sporothrix
+
+- [[mecanicas/forja.md|Forja]] — como funciona a Foundry

@@ -39,6 +39,8 @@ agente: opus
 
 ## 🌍 Onde Conseguir — Aya
 
+**Como conseguir Aya:** recurso que aparece em **Void Missions e Bounties**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -63,7 +65,6 @@ agente: opus
 
 No vault: [[locais/planetas/void.md|Void]].
 
-**Melhor rota:** a fonte de maior chance na tabela acima é **Necralisk Bounty Lvl 40-60 Final Stage (rot. A) — Necralisk Bounty** (missão), com **43.48%** de chance dentro da tabela dele. Para volume, prefira uma missão **endless** desse mesmo local com [[warframes/regular/nekros.md|Nekros]] no squad e **Resource Booster** ativo.
 
 **Mods e frames que ajudam:**
 

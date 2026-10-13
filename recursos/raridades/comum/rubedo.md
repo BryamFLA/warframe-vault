@@ -33,6 +33,8 @@ agente: gemini
 
 ## 🌍 Onde Conseguir — Rubedo
 
+**Como conseguir Rubedo:** recurso incomum que aparece em **Terra, Lua, Phobos, Europa, Plutão, Sedna, e Void**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
+
 
 | Local | Missão / Método | Rendimento | Nota |
 |---|---|---|---|

@@ -42,6 +42,8 @@ Carbides are also dropped Earth Proxima missions by Grineer, Storage Containers 
 
 ## 🌍 Onde Conseguir — Carbides
 
+**Como conseguir Carbides:** recurso comum que aparece em **Eximus units in the Grineer Shipyard Tileset, e Railjack missões in Terra, Saturno, e Veil Proximas**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
+
 
 | Fonte | Tipo | Chance do recurso | Rolagens na tabela |
 |---|---|---|---|

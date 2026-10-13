@@ -1,57 +1,85 @@
 ---
 title: Trinity
-aliases: [Trinity]
+aliases: [Trinity, warframe Trinity]
 tipo: warframe
-categoria: suporte
-resumo: "Trinity — Suporte puro: cura aliados e restaura energia do time."
-status: stub
-rag: false
+resumo: "Trinity — Warframe de sobrevivência, suporte. Como conseguir: Blueprint principal no Mercado."
+status: parcial
+rag: true
 tags: [warframe]
-atualizado: 2026-10-07
+progenitor: Cold
+fontes: ["https://wiki.warframe.com/w/Trinity", "https://wiki.warframe.com/w/Module:Warframes/data", "https://wiki.warframe.com/w/Module:Blueprints/data", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Void/data"]
+atualizado: 2026-10-12
+verificado: true
 agente: opus
+gerado_de: modulos-da-wiki
 ---
 
 # Trinity
 
-> [!info] Visão Geral
-> Suporte puro: cura aliados e restaura energia do time
+> [!info] Resumo
+> Warframe de **sobrevivência, suporte**, lançada no **Update Vanilla**.
+> *Descrição no jogo (inglês):* "Trinity embodies redemption and health. Her extraordinary healing powers support allies. Where others destroy, she restores."
 
-## 🏗️ Como Construir — Trinity
+## 🌍 Onde Conseguir — Trinity
 
-- Fonte: 
-- Drop location: 
-- Blueprint:
+Como conseguir a Warframe Trinity:
 
-## 🔮 Habilidades — Trinity
+Blueprint principal no **Mercado**. Componentes: drop do boss **Ambulas** em **Hades, Plutão**.
 
+| Peça | Fonte (drop) | Chance |
+|---|---|---|
+| Neuroptics | Ambulas Assassination (Hades, Plutão) — rot. A | 38,72% |
+| Chassis | Ambulas Assassination (Hades, Plutão) — rot. A | 38,72% |
+| Systems | Ambulas Assassination (Hades, Plutão) — rot. A | 22,56% |
 
-| # | Nome | Custo | Descrição |
-|---|------|-------|-----------|
-| Passiva | | — | |
-| 1 | | 25 | |
-| 2 | | 50 | |
-| 3 | | 75 | |
-| 4 | | 100 | |
+**Platina:** pronta no Mercado por **225 platina**.
+
+## 🏗️ Como Construir — Trinity (passo a passo)
+
+1. **Consiga o blueprint principal** de Trinity (seção anterior).
+2. **Consiga os blueprints dos componentes:** Neuroptics, Chassis, Systems.
+3. **Forje cada componente** na Foundry (tabela abaixo).
+4. **Forje a Warframe:** 25.000 créditos + Neuroptics, Chassis, Systems + 1 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]]. Tempo: **3 dia(s)** (pular: 50 platina).
+
+| Componente | Créditos | Recursos | Tempo |
+|---|---|---|---|
+| Neuroptics | 15.000 | 150 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 1 [[recursos/raridades/raro/neural_sensors.md\|Neural Sensors]] + 150 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 500 [[recursos/raridades/comum/rubedo.md\|Rubedo]] | 12 h |
+| Chassis | 15.000 | 1 [[recursos/raridades/raro/morphics.md\|Morphics]] + 1.000 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 300 [[recursos/raridades/comum/rubedo.md\|Rubedo]] | 12 h |
+| Systems | 15.000 | 1 [[recursos/raridades/raro/control_module.md\|Control Module]] + 1 [[recursos/raridades/raro/morphics.md\|Morphics]] + 500 [[recursos/raridades/comum/salvage.md\|Salvage]] + 220 [[recursos/raridades/incomum/plastids.md\|Plastids]] | 12 h |
+| **Trinity** (montagem) | 25.000 | Neuroptics, Chassis, Systems + 1 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] | 3 dia(s) |
 
 ## 📊 Stats Base — Trinity
 
+| Atributo | Valor |
+|---|---|
+| Vida | 270 |
+| Escudo | 270 |
+| Armadura | 105 |
+| Energia | 175 |
+| Energia inicial | 75 |
+| Velocidade de corrida | 1 |
+| Polaridade de Aura | Vazarin |
+| Polaridades | Vazarin, Vazarin |
+| Elemento progenitor (Kuva Lich) | Cold |
+| Gênero | Feminino |
+| Introduzida | Update Vanilla |
 
-| Stat | Valor |
-|------|-------|
-| HP | |
-| Escudo | |
-| Armadura | |
-| Energia | |
-| Sprint | |
-| Polaridades | |
+## 🔮 Habilidades — Trinity
 
-## 🛠️ Build — Trinity
+**Passiva (inglês):** Allies in Affinity Range gain 50% of Trinity's Max Energy as Health.
 
-> Preencher após obter o Warframe.
-- [ ]
+| # | Habilidade | Energia | Descrição (inglês) |
+|---|---|---|---|
+| 1 | **Well of Life** | 25 | Create a well of life on an enemy who will absorb Status Effect damage intended for nearby allies. Allies gain additional Health when they attack the target. If allies die, enemies in the well of life die in their stead. |
+| 2 | **Energy Vampire** | 50 | Allies will gain energy over time when enemies are marked with Energy Vampire. |
+| 3 | **Link** | 75 | Any damage taken while Link is active will be channeled to a nearby enemy. |
+| 4 | **Blessing** | 100 | Restore the health and shields of allies within <AFFINITY_SHARE>Affinity Range while reducing the damage they take from enemies. |
+
+**Helminth:** a habilidade **Well of Life** pode ser subsumida (doada ao Helminth).
+
+**Augments** vendidos por: [[mecanicas/sindicatos/new_loka.md|New Loka]], [[mecanicas/sindicatos/perrin_sequence.md|The Perrin Sequence]].
 
 ## 🔗 Relacionados — Trinity
 
-- Sinergias: 
-- Recursos necessários: 
-- Quests relacionadas:
+- [[warframes/primes/trinity_prime.md|Trinity Prime]]
+- [[mecanicas/forja.md|Forja]] — como funciona a Foundry

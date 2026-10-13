@@ -39,6 +39,8 @@ agente: opus
 
 ## 🌍 Onde Conseguir — Voidplume Crest
 
+**Como conseguir Voidplume Crest:** recurso raro que aparece em **Zariman**.
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -48,7 +50,6 @@ agente: opus
 
 No vault: [[locais/planetas/zariman.md|Zariman]].
 
-**Melhor rota:** a fonte de maior chance na tabela acima é **Zariman Bounty Lvl 70-75 ×1 (rot. A) — Zariman Bounty** (missão), com **11.9%** de chance dentro da tabela dele. Para volume, prefira uma missão **endless** desse mesmo local com [[warframes/regular/nekros.md|Nekros]] no squad e **Resource Booster** ativo.
 
 **Mods e frames que ajudam:**
 

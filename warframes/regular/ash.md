@@ -1,6 +1,6 @@
 ---
 title: Ash
-aliases: [Ash]
+aliases: [Ash, warframe Ash]
 tipo: warframe
 archetype: [furtivo, dps, assassino]
 resumo: "Ash — Warframe furtivo de assassinato que escala por Bleed e Finisher: a passiva dá +25% de dano e +50% de duração aos efeitos de Bleed, e Blade Storm marca alvos a 50 m por 12 de energia cada."
@@ -99,6 +99,12 @@ agente: opus
 >
 > Os quatro são comprados com reputação de **[[mecanicas/sindicatos/red_veil.md|Red Veil]]** ou **[[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]]** — os dois sindicatos que vendem Augment de Ash, segundo o `Module:Warframes/data`.
 
+
+## 🌍 Onde Conseguir — Ash
+
+Como conseguir o Warframe Ash:
+
+Blueprint principal no **Mercado**. Componentes em missões de **Railjack** (Survival, Defense, Exterminate e Volatile): **Systems** na **Venus Proxima**, **Neuroptics** na **Neptune Proxima** e **Chassis** na **Pluto Proxima**. Também no **The Circuit** (Duviri) na semana em que ele está na rotação (todos os blueprints no tier 10). Antes do Update 29.10 (2021), as peças caíam dos Manics.
 
 ## 🏗️ Como Construir — Ash
 

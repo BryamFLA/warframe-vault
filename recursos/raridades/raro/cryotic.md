@@ -36,6 +36,8 @@ agente: opus
 
 ## 🌍 Onde Conseguir — Cryotic
 
+**Como conseguir Cryotic:** recurso que aparece em **Excavation Missions on Vênus, Terra, Phobos, Europa, e Netuno**.
+
 Como conseguir Cryotic (Criótico) — do melhor ao pior:
 
 | # | Fonte | Detalhe |

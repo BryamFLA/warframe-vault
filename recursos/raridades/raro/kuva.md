@@ -38,6 +38,8 @@ agente: opus
 
 ## 🌍 Onde Conseguir — Kuva
 
+**Como conseguir Kuva:** recurso que aparece em **Kuva Siphon Missions e Taveuni (Kuva Fortress)**.
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|

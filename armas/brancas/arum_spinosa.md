@@ -1,16 +1,73 @@
 ---
 title: Arum Spinosa
-aliases: [Arum Spinosa]
+aliases: [Arum Spinosa, arma Arum Spinosa]
 tipo: arma
-subtipo: branca
-resumo: Arum Spinosa — conteúdo ainda não preenchido no vault.
-status: stub
-rag: false
-tags: [arma, branca]
-atualizado: 2026-10-07
+subtipo: melee
+categoria: warfan
+resumo: "Arum Spinosa — arma melee (Warfan), MR 11. Como conseguir: Blueprint e componentes nas bounties Isolation Vault tier 2 (nível 40–50). Forja: 20.000 créditos + 1 Trapezium Xenorhast, 1 Cabochon Embolos."
+status: parcial
+rag: true
+tags: [arma]
+mastery_rank: 11
+fontes: ["https://wiki.warframe.com/w/Arum_Spinosa", "https://wiki.warframe.com/w/Module:Weapons/data", "https://wiki.warframe.com/w/Module:Blueprints/data", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Void/data"]
+atualizado: 2026-10-12
+verificado: true
 agente: opus
+gerado_de: modulos-da-wiki
 ---
 
 # Arum Spinosa
 
+> [!info] Resumo
+> Arma **melee** (Warfan), **MR 11**, dano principal **Corte**, introduzida no Update 29.5.
 
+## 🌍 Onde Conseguir — Arum Spinosa
+
+Como conseguir a arma Arum Spinosa:
+
+Blueprint e componentes nas bounties **Isolation Vault** tier 2 (nível 40–50). Também comprados do **Loid** no Rank 2 do Necraloid (8.000 pelo principal, 6.000 por componente).
+
+| Peça | Fonte (drop) | Chance |
+|---|---|---|
+| Blueprint | Arcana Isolation Vault Bounty Lvl 40-50 Stage 1 — rot. A/B/C | 12,5% |
+| Blueprint | Arcana Isolation Vault Bounty Lvl 40-50 Stages 2 & 3 — rot. A/B/C | 7,81% |
+| Blueprint | Isolation Vault Lvl 40-50 — rot. A/B/C | 6,25% |
+| Guard | Arcana Isolation Vault Bounty Lvl 40-50 Final Stage — rot. A/B/C | 7,5% |
+| Guard | Arcana Isolation Vault Bounty Lvl 40-50 Stages 2 & 3 — rot. A/B/C | 4,69% |
+| Guard | Isolation Vault Lvl 40-50 — rot. A/B/C | 3,75% |
+| Rivet | Arcana Isolation Vault Bounty Lvl 40-50 Final Stage — rot. A/B/C | 4% |
+| Rivet | Isolation Vault Lvl 40-50 — rot. A/B/C | 2% |
+
+## 🏗️ Como Construir — Arum Spinosa (passo a passo)
+
+1. **Consiga o blueprint** de Arum Spinosa (seção anterior).
+2. **Consiga os componentes:** Guard ×2, Rivet.
+3. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 Trapezium Xenorhast + 1 [[recursos/open_worlds/cambion_drift/cabochon_embolos.md\|Cabochon Embolos]] + Guard, Rivet. Tempo: **12 h** (pular: 35 platina).
+4. **Upe a arma até o rank 30** para ganhar Mastery.
+
+| Item | Créditos | Recursos | Tempo |
+|---|---|---|---|
+| **Arum Spinosa** | 20.000 | 1 Trapezium Xenorhast + 1 [[recursos/open_worlds/cambion_drift/cabochon_embolos.md\|Cabochon Embolos]] + Guard, Rivet | 12 h |
+
+## 📊 Stats Base — Arum Spinosa
+
+| Atributo | Valor |
+|---|---|
+| Mastery Rank | 11 |
+| Slot / classe | melee / Warfan |
+| Dano total (Normal Attack) | 297,0 |
+| — Impacto | 35,64 |
+| — Perfuração | 59,4 |
+| — Corte | 201,96 |
+| Chance de crítico | 9% |
+| Multiplicador crítico | 1,9x |
+| Chance de status | 37% |
+| Cadência | 1,08 |
+| Follow-through | 0,7 |
+| Disposição de Riven | 1,25 |
+| Polaridades | Naramon, Madurai |
+| Introduzida | Update 29.5 |
+
+## 🔗 Relacionados — Arum Spinosa
+
+- [[mecanicas/forja.md|Forja]] — como funciona a Foundry

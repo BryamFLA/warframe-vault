@@ -1,6 +1,6 @@
 ---
 title: Neurodes
-aliases: [Neurodes]
+aliases: [Neurodes, Neurodos]
 tipo: recurso
 raridade: raro
 origem: planeta
@@ -38,6 +38,8 @@ agente: opus
 
 
 ## 🌍 Onde Conseguir — Neurodes
+
+**Como conseguir Neurodes (Neurodos):** recurso raro que aparece em **Terra, Lua, Eris, e Deimos**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
 
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |

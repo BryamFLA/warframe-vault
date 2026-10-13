@@ -1,6 +1,6 @@
 ---
 title: Detonite Ampule
-aliases: [Detonite Ampule]
+aliases: [Detonite Ampule, Ampola de Detonite]
 tipo: recurso
 raridade: comum
 origem: planeta
@@ -32,6 +32,8 @@ agente: gemini
 
 
 ## 🌍 Onde Conseguir — Detonite Ampule
+
+**Como conseguir Detonite Ampule (Ampola de Detonite):** recurso incomum que aparece em **Vênus, Terra, Lua, Ceres, Saturno, Sedna, e the Kuva Fortress**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
 
 
 | Local | Missão / Método | Rendimento | Nota |

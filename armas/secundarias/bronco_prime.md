@@ -1,16 +1,71 @@
 ---
 title: Bronco Prime
-aliases: [Bronco Prime]
+aliases: [Bronco Prime, arma Bronco Prime]
 tipo: arma
-subtipo: secundaria
-resumo: Bronco Prime — conteúdo ainda não preenchido no vault.
-status: stub
-rag: false
-tags: [arma, secundaria]
-atualizado: 2026-10-07
+subtipo: secondary
+categoria: shotgun sidearm
+resumo: "Bronco Prime — arma secundária (Shotgun Sidearm), MR 4. Como conseguir: peças Prime saem de Relíquias do Void (disponíveis). Forja: 15.000 créditos + 10 Orokin Cell."
+status: parcial
+rag: true
+tags: [arma, prime]
+mastery_rank: 4
+fontes: ["https://wiki.warframe.com/w/Bronco_Prime", "https://wiki.warframe.com/w/Module:Weapons/data", "https://wiki.warframe.com/w/Module:Blueprints/data", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Void/data"]
+atualizado: 2026-10-12
+verificado: true
 agente: opus
+gerado_de: modulos-da-wiki
 ---
 
 # Bronco Prime
 
+> [!info] Resumo
+> Arma **secundária** (Shotgun Sidearm), **MR 4**, dano principal **Impacto**, introduzida no Update 9.0.
 
+## 🌍 Onde Conseguir — Bronco Prime
+
+Como conseguir a arma Bronco Prime:
+
+| Peça Prime | Relíquias ativas (raridade) | Ativas / vaultadas |
+|---|---|---|
+| Blueprint | Neo K10 (Comum) | 1 / 37 |
+| Barrel | Meso A12 (Incomum), Meso D8 (Comum) | 2 / 21 |
+| Receiver | Lith S19 (Comum), Meso V13 (Comum), Meso Y2 (Comum) | 3 / 38 |
+
+> Relíquias **vaultadas** não caem mais em missões; só voltam no **Prime Resurgence** (Varzia) ou por troca entre jogadores.
+
+## 🏗️ Como Construir — Bronco Prime (passo a passo)
+
+1. **Consiga o blueprint** de Bronco Prime (seção anterior).
+2. **Consiga os componentes:** Barrel, Receiver (Relíquias do Void).
+3. **Junte os recursos e forje na Foundry:** 15.000 créditos + 10 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + Barrel, Receiver. Tempo: **12 h** (pular: 50 platina).
+4. **Upe a arma até o rank 30** para ganhar Mastery.
+
+| Item | Créditos | Recursos | Tempo |
+|---|---|---|---|
+| **Bronco Prime** | 15.000 | 10 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + Barrel, Receiver | 12 h |
+
+## 📊 Stats Base — Bronco Prime
+
+| Atributo | Valor |
+|---|---|
+| Mastery Rank | 4 |
+| Slot / classe | secundária / Shotgun Sidearm |
+| Gatilho | Semi-Auto |
+| Dano total (Normal Attack) | 50 |
+| — Impacto | 40 |
+| — Perfuração | 5 |
+| — Corte | 5 |
+| Chance de crítico | 6% |
+| Multiplicador crítico | 2x |
+| Chance de status | 12,86% |
+| Cadência | 4,17 |
+| Pente | 4 |
+| Munição máxima | 210 |
+| Recarga (s) | 2 |
+| Disposição de Riven | 1,4 |
+| Introduzida | Update 9.0 |
+
+## 🔗 Relacionados — Bronco Prime
+
+- [[armas/secundarias/bronco.md|Bronco]] — mesma família
+- [[mecanicas/forja.md|Forja]] — como funciona a Foundry

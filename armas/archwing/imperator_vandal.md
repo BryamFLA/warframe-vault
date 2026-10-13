@@ -1,16 +1,71 @@
 ---
 title: Imperator Vandal
-aliases: [Imperator Vandal]
+aliases: [Imperator Vandal, arma Imperator Vandal]
 tipo: arma
-subtipo: archwing
-resumo: Imperator Vandal — conteúdo ainda não preenchido no vault.
-status: stub
-rag: false
-tags: [arma, archwing]
-atualizado: 2026-10-07
+subtipo: archgun
+categoria: archgun
+resumo: "Imperator Vandal — arma Archgun (Archwing) (Archgun), MR 5. Como conseguir: Blueprint e peças na invasão do Balor Fomorian (Fomorian Sabotage). Forja: 25.000 créditos + 10 Tellurium."
+status: parcial
+rag: true
+tags: [arma]
+mastery_rank: 5
+fontes: ["https://wiki.warframe.com/w/Imperator_Vandal", "https://wiki.warframe.com/w/Module:Weapons/data", "https://wiki.warframe.com/w/Module:Blueprints/data", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Void/data"]
+atualizado: 2026-10-12
+verificado: true
 agente: opus
+gerado_de: modulos-da-wiki
 ---
 
 # Imperator Vandal
 
+> [!info] Resumo
+> Arma **Archgun (Archwing)** (Archgun), **MR 5**, dano principal **Impacto**, introduzida no Update 15.8.
 
+## 🌍 Onde Conseguir — Imperator Vandal
+
+Como conseguir a arma Imperator Vandal:
+
+Blueprint e peças na invasão do **Balor Fomorian** (Fomorian Sabotage). Peças negociáveis.
+
+| Peça | Fonte (drop) | Chance |
+|---|---|---|
+| Blueprint | Fomorian Sabotage — rot. A | 10% |
+| Barrel | Fomorian Sabotage — rot. A | 10% |
+| Receiver | Fomorian Sabotage — rot. A | 10% |
+
+## 🏗️ Como Construir — Imperator Vandal (passo a passo)
+
+1. **Consiga o blueprint** de Imperator Vandal (seção anterior).
+2. **Consiga os componentes:** Barrel, Receiver.
+3. **Junte os recursos e forje na Foundry:** 25.000 créditos + 10 [[recursos/raridades/raro/tellurium.md\|Tellurium]] + Barrel, Receiver. Tempo: **12 h** (pular: 50 platina).
+4. **Upe a arma até o rank 30** para ganhar Mastery.
+
+| Item | Créditos | Recursos | Tempo |
+|---|---|---|---|
+| **Imperator Vandal** | 25.000 | 10 [[recursos/raridades/raro/tellurium.md\|Tellurium]] + Barrel, Receiver | 12 h |
+
+## 📊 Stats Base — Imperator Vandal
+
+| Atributo | Valor |
+|---|---|
+| Mastery Rank | 5 |
+| Slot / classe | Archgun (Archwing) / Archgun |
+| Gatilho | Auto-Spool |
+| Dano total (Normal Attack) | 50,0 |
+| — Impacto | 20 |
+| — Perfuração | 17,5 |
+| — Corte | 12,5 |
+| Chance de crítico | 28% |
+| Multiplicador crítico | 2,4x |
+| Chance de status | 12% |
+| Cadência | 25 |
+| Pente | 300 |
+| Recarga (s) | 4,25 |
+| Disposição de Riven | 0,95 |
+| Polaridades | Madurai |
+| Introduzida | Update 15.8 |
+
+## 🔗 Relacionados — Imperator Vandal
+
+- [[armas/archwing/imperator.md|Imperator]] — mesma família
+- [[mecanicas/forja.md|Forja]] — como funciona a Foundry

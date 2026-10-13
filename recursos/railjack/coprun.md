@@ -39,6 +39,8 @@ agente: opus
 
 ## 🌍 Onde Conseguir — Coprun
 
+**Como conseguir Coprun:** recurso comum que aparece em **Plains of Eidolon (Terra) from Red Mining Veins**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
+
 
 **Locais que o próprio jogo lista:** Plains of Eidolon (Earth) from Red Mining Veins
 

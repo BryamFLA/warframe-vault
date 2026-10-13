@@ -39,6 +39,8 @@ agente: opus
 
 ## 🌍 Onde Conseguir — Noctrul
 
+**Como conseguir Noctrul:** recurso comum que aparece em **Orb Vallis (Vênus) from Blue Mining Veins e Resource Containers**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
+
 
 **Locais que o próprio jogo lista:** Orb Vallis (Venus) from Blue Mining Veins and Resource Containers
 

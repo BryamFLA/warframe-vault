@@ -39,6 +39,8 @@ agente: opus
 
 ## 🌍 Onde Conseguir — Cetus Wisp
 
+**Como conseguir Cetus Wisp:** recurso que aparece em **Plains of Eidolon on Terra**. Recursos de planeta caem de **inimigos e containers em qualquer missão** desses planetas — missões **endless** (Survival, Defense, Excavation) e Dark Sectors rendem mais; leve **Resource Booster** e um pet com Vacuum/Fetch.
+
 
 | Fonte | Tipo | Chance do recurso na tabela | Chance de a tabela sair |
 |---|---|---|---|
@@ -63,7 +65,6 @@ agente: opus
 
 No vault: [[locais/planetas/terra.md|Earth]], [[locais/open-worlds/cetus.md|Plains of Eidolon]].
 
-**Melhor rota:** a fonte de maior chance na tabela acima é **Cetus Bounty Lvl 20-40 Stage 1 (rot. A) — Cetus Bounty** (missão), com **29.31%** de chance dentro da tabela dele. Para volume, prefira uma missão **endless** desse mesmo local com [[warframes/regular/nekros.md|Nekros]] no squad e **Resource Booster** ativo.
 
 **Mods e frames que ajudam:**
 
