@@ -38,3 +38,27 @@ def tr(s):
         m=re.match(pat,s,re.S)
         if m: return m.expand(rep).replace("researched from the Tenno Lab in the dojo","Tenno Lab do Dojo").replace("purchased from the Market","Mercado")
     return None
+R3=[
+ (r"^([^.]+?) is purchased from Eleanor of\s+The Hex.*?for (\d+)\s+Live Heartcell.*$", r"\1 é uma **arma Coda**: comprada da **Eleanor** (The Hex, Höllvania Central Mall) por **\2 Live Heartcell**, obtidos derrotando (vanquish) um **Technocyte Coda**. O bônus de dano progenitor muda a cada 4 dias e o estoque alterna entre lotes A e B."),
+ (r"^(?:The )?([^.]+?) is automatically acquired (?:upon obtaining|by acquiring)\s+([^.]+?)\..*$", r"Arma robótica que vem **automaticamente** com o Sentinel **\2**. Ocupa 1 slot de companheiro."),
+ (r"^This sentinel weapon is automatically acquired by acquiring\s+([^.]+?)\..*$", r"Arma robótica que vem **automaticamente** com o Sentinel **\1**. Ocupa 1 slot de companheiro."),
+ (r"^This Sentinel weapon is automatically acquired upon obtaining\s+([^.]+?)\..*$", r"Arma robótica que vem **automaticamente** com o Sentinel **\1**. Ocupa 1 slot de companheiro."),
+ (r"^The ([^.]+?)'s blueprint can be purchased from Legs in Fortuna for ([\d,]+) Standing, requiring Rank 5 - Old Mate with Solaris United\..*$", r"Arma robótica: blueprint comprado do **Legs** (Fortuna) por **\2 de Standing** no **Rank 5 (Old Mate)** do Solaris United."),
+ (r"^The Blueprint for ([^.]+?) can be purchased in Teshin's Cave for (\d+)\s+Pathos Clamp or (\d+) Platinum\..*$", r"Arma de **Duviri**: blueprint comprado na **Teshin's Cave** por **\2 Pathos Clamps** (libera a versão do Drifter e o blueprint da versão para Warframe) ou **\3 platina** (libera as duas). Cópias extras no Cephalon Simaris (100.000)."),
+ (r"^(Mk1-[^.]+?) can be purchased from the Market for ([\d,]+) Credits\.$", r"\1 é vendida pronta no **Mercado** por **\2 créditos**."),
+ (r"^A built (Mk1-[^.]+?) can be bought in the Market for ([\d,]+) Credits\.$", r"\1 é vendida pronta no **Mercado** por **\2 créditos**."),
+ (r"^([^.]+?)'s blueprint is available from Chipper of Kahl's Garrison for (\d+)\s+Stock, requiring players to be at Rank (\d) - (\w+) to purchase\.$", r"Blueprint comprado do **Chipper** na **Kahl's Garrison** por **\2 Stock** (ganho nas missões semanais Break Narmer, após a quest Veilbreaker), no **Rank \3 (\4)**."),
+ (r"^The ([^.]+?) was released in commemoration of WARFRAME's (\d+)\w+ Year Anniversary\..*$", r"Arma de **aniversário** (\2º aniversário do Warframe): obtida nos Alertas de aniversário em março, com slot e Catalyst."),
+ (r"^The ([^.]+?) is exclusive to the Daily Tribute system\..*$", r"Exclusiva do **Daily Tribute** (login diário): aparece como recompensa de marco a cada 200 dias. Vem com slot e Catalyst. Extras no Cephalon Simaris (100.000)."),
+ (r"^The ([^.]+?)'s blueprint can be purchased from Cephalon Simaris for ([\d,]+) Standing\.$", r"Blueprint comprado do **Cephalon Simaris** por **\2 de Standing**."),
+ (r"^([^.]+?)'s blueprint is acquired from Narmer Bounties after completion of The New War\.$", r"Blueprint nas **bounties Narmer** (nível 50–70, Cetus/Fortuna/Necralisk), após a quest **The New War**."),
+ (r"^The blueprint for the chamber can be bought from Father for (\d+) Standing at Rank 0 with Entrati\.$", r"É um **Kitgun Infested**: o blueprint do *chamber* é comprado do **Father** (Entrati, Necralisk) por \1 de Standing no Rank 0."),
+]
+_old2=tr
+def tr(s):
+    r=_old2(s)
+    if r is not None: return r
+    for pat,rep in R3:
+        m=re.match(pat,s,re.S)
+        if m: return m.expand(rep)
+    return None

@@ -7,9 +7,10 @@ status: completo
 rag: true
 tags: [index, sindicato, mecanica]
 fontes: ["https://wiki.warframe.com/w/Syndicate", "https://wiki.warframe.com/w/Warframe_Augment_Mods", "https://wiki.warframe.com/w/Conclave"]
-atualizado: 2026-10-07
+atualizado: 2026-10-13
 verificado: true
 agente: opus
+total-notas: 18
 ---
 
 # Sindicatos — Índice
@@ -20,9 +21,7 @@ agente: opus
 > [!warning] Este índice foi reescrito em 2026-10-04
 > A versão anterior continha dados incorretos (teto diário, nomes de rank, atribuição de mods, Warframes "exclusivos" e a descrição da Operational Supply) e **19 wikilinks quebrados** por falta da extensão `.md`. Tudo foi corrigido contra a wiki. Ver `_MODELOS/_STATUS_opus.md`.
 
-
 ## O que são sindicatos — Sindicatos — Índice
-
 
 Sindicatos são grupos de interesse que operam pelo Sistema de Origem, separados do Corpus e do Grineer, e aliados aos Tenno. Cada um tem ideologia e objetivos próprios — alguns inevitavelmente em desacordo com outros. **Existem 18 sindicatos no jogo.**
 
@@ -36,9 +35,7 @@ Eles se dividem em três categorias com regras diferentes:
 | **Neutros** | 10 | Standing **não afeta** nenhum outro sindicato. **Não existe demoção nem Standing negativo**. Cada um tem o seu próprio teto diário e o seu próprio método de ganhar Standing |
 | **De evento** | 2 | Só existem enquanto o evento está no ar |
 
-
 ## Como o Standing funciona (sindicatos de facção) — Sindicatos — Índice
-
 
 | Aspecto | Detalhe |
 |---|---|
@@ -51,9 +48,7 @@ Eles se dividem em três categorias com regras diferentes:
 | **Custo de promoção** | **Todo** o Standing acumulado **+ um sacrifício** (Credits e recursos). Cada promoção dá **1 presente** à escolha — arma exclusiva **não pode** ser o presente |
 | **Death Squad** | Standing negativo faz o sindicato mandar Eximus Squad (3–5 unidades no rank −1) ou Eximus Platoon (5–8 no rank −2) |
 
-
 ## Relações dos 6 sindicatos de facção — Sindicatos — Índice
-
 
 | Sindicato | 🤝 Aliado (+50%) | ⚠️ Oposto (−50%) | ⛔ Inimigo (−100%) |
 |---|---|---|---|
@@ -83,9 +78,7 @@ Cada grupo grande pode ser estendido por **um sindicato de reboque**, farmável 
 
 > **A escolha mais eficiente:** Arbiters + Suda + Steel Meridian com Red Veil de reboque — deixa só 3 frames de fora, e **augments são tradeáveis**, então esses 3 se resolvem no mercado.
 
-
 ## Identidade de equipamento dos 6 de facção — Sindicatos — Índice
-
 
 | Sindicato | Prefixo | Efeito | Dano | Restaura | Buff |
 |---|---|---|---|---|---|
@@ -106,9 +99,7 @@ Cada grupo grande pode ser estendido por **um sindicato de reboque**, farmável 
 | **4** | **Weapon Augment Mods** (que ativam o efeito de sindicato na arma) |
 | **5** | **Warframe Augment Mods** (25.000 cada) · armas exclusivas · Syandana própria · partes de Archweapon |
 
-
 ## Sindicatos neutros — Sindicatos — Índice
-
 
 | Sindicato | Onde | Moeda / como ganhar Standing | O que é exclusivo dele |
 |---|---|---|---|
@@ -131,18 +122,14 @@ Estes sindicatos existem no jogo mas **não têm arquivo** nesta pasta (as conve
 
 O arquivo **[[mecanicas/sindicatos/kaithe.md|kaithe.md]]** existe nesta pasta mas o **Kaithe não é um sindicato** — é a montaria de Duviri. Foi preenchido com o conteúdo correto do que nomeia.
 
-
 ## Sindicatos de evento — Sindicatos — Índice
-
 
 | Sindicato | Quando existe | Moeda | Exclusivo |
 |---|---|---|---|
 | **[[mecanicas/sindicatos/operational_supply.md|Operational Supply]]** | Só durante a **[[mecanicas/eventos/plague_star.md|Operation: Plague Star]]** (Nakak, Cetus). **3 ranks** | Standing **+ Credits** juntos | **Exodia Contagion** e **Exodia Epidemic** (os 2 Exodia Legendary) · peças de **Zaw Plague** · **Ghoulsaw** · **Omni Forma** |
 | **[[mecanicas/nightwave.md|Nightwave]]** | Temporadas contínuas (Nora Night) | **Cred** (expira no fim da Series) | **Nitain Extract** · Catalyst e Reactor prontos · partes do **Vauban** · auras e augments por 20 Cred |
 
-
 ## Erros comuns sobre sindicatos — Sindicatos — Índice
-
 
 - **"O teto diário é 1.000 × MR."** É **16.000 + 500 por MR**, com reset às 00:00 UTC.
 - **"Preciso equipar o Sigil para ganhar Standing."** **Não** desde a Hotfix 18.2.3 (2016-01-08). O que importa é o **Pledge** no terminal da Orbiter, que converte 15% da Affinity.
@@ -155,9 +142,30 @@ O arquivo **[[mecanicas/sindicatos/kaithe.md|kaithe.md]]** existe nesta pasta ma
 - **"Operational Supply é o sindicato do Kahl."** Não. É o sindicato da **Plague Star**, com a Nakak em Cetus. O do Kahl é a **Kahl's Garrison**, que não tem arquivo aqui.
 - **"Simaris tem 5 ranks."** Simaris **não tem rank nenhum** — só um teto de 125.000.
 
+## 📋 Lista — Sindicatos — Índice — geral (18)
+
+| Nome | Tipo | MR | Resumo |
+|---|---|---|---|
+| [[mecanicas/sindicatos/arbiters_of_hexis.md\|Arbiters of Hexis]] | mecanica | — | Arbiters of Hexis — Ordem obcecada pela verdade sobre a natureza do Tenno, convicta de que os Tenno são muito mais do que a história estilha… |
+| [[mecanicas/sindicatos/cavia.md\|Cavia]] | mecanica | — | Cavia — Os três animais que o Albrecht Entrati mandou para o Void e que voltaram com inteligência humana; sindicato neutro do Sanctum Anatom… |
+| [[mecanicas/sindicatos/cephalon_simaris.md\|Cephalon Simaris]] | mecanica | — | Cephalon obcecado por preservar criaturas como dados dentro do Sanctuary; sindicato neutro sem ranks, cujo Standing vem de escanear coisas c… |
+| [[mecanicas/sindicatos/cephalon_suda.md\|Cephalon Suda]] | mecanica | — | Cephalon Suda — Consciência vasta que observa o sistema com curiosidade; aparentemente sem emoção, mas com sede de conhecimento e horror à d… |
+| [[mecanicas/sindicatos/conclave.md\|Conclave]] | mecanica | — | O sistema PvP do Warframe, liderado pelo Teshin Dax no Conclave Hall de cada Relay; sindicato neutro onde o Standing vem de jogar partidas e… |
+| [[mecanicas/sindicatos/entrati.md\|Entrati]] | mecanica | — | Entrati — Família Orokin parcialmente Infestada que vive no Necralisk, em Deimos; sindicato neutro cujo Standing não é ganho direto — você r… |
+| [[mecanicas/sindicatos/kaithe.md\|Kaithe]] | mecanica | — | Kaithe — Montaria de Duviri do Drifter: criatura equina com asas etéreas que voa, corre a 7 m/s (14 m/s em dash) e tem quatro habilidades pr… |
+| [[mecanicas/sindicatos/necraloid.md\|Necraloid]] | mecanica | — | Necraloid — Máquinas Entrati operadas por Cephalons, representadas pelo Loid numa porta dos fundos do Necralisk; sindicato neutro de apenas … |
+| [[mecanicas/sindicatos/new_loka.md\|New Loka]] | mecanica | — | New Loka — Adoradores da forma humana e da Terra pré-corrupção; para eles o conflito só termina com a restauração de uma humanidade pura e o… |
+| [[mecanicas/sindicatos/operational_supply.md\|Operational Supply]] | mecanica | — | Operational Supply — Sindicato exclusivo de evento, ativo somente durante a Operation: Plague Star, administrado pela Nakak em Cetus; só 3 r… |
+| [[mecanicas/sindicatos/ostron.md\|Ostron]] | mecanica | — | Ostron — Mercadores e sobreviventes que vivem em Cetus, em torno de uma torre Orokin; sindicato neutro cujo Standing vem de bounties, pesca,… |
+| [[mecanicas/sindicatos/red_veil.md\|Red Veil]] | mecanica | — | Red Veil — Veem corrupção em tudo e se consideram obrigados por honra a curar o sistema com uma purga grande e violenta — nenhum custo é gra… |
+| [[mecanicas/sindicatos/solaris_united.md\|Solaris United]] | mecanica | — | Grupo rebelde de trabalhadores Solaris em Fortuna lutando para libertar os seus das dívidas com o Nef Anyo; sindicato neutro cuja moeda de r… |
+| [[mecanicas/sindicatos/steel_meridian.md\|Steel Meridian]] | mecanica | — | Steel Meridian — Sindicato liderado por uma desertora Grineer endurecida pela batalha, travando guerra de guerrilha em defesa do que sobrou … |
+| [[mecanicas/sindicatos/the_holdfasts.md\|The Holdfasts]] | mecanica | — | The Holdfasts — Os quatro últimos "sobreviventes" da tripulação adulta do Zariman Ten Zero, ressuscitados pelo Void e operando no Chrysalith… |
+| [[mecanicas/sindicatos/perrin_sequence.md\|The Perrin Sequence]] | mecanica | — | The Perrin Sequence — Coletivo de mercadores brilhantes e poderosos, dissidentes do Corpus, que querem restaurar a ordem trazendo prosperida… |
+| [[mecanicas/sindicatos/the_quills.md\|The Quills]] | mecanica | — | The Quills — Ordem monástica secreta leal à Unum, escondida numa caverna de Cetus; sindicato neutro cujo Standing vem de Sentient Cores — e … |
+| [[mecanicas/sindicatos/vox_solaris.md\|Vox Solaris]] | mecanica | — | Vox Solaris — A camada secreta do Solaris United, conhecida só pela Eudico e pelos Quills: organiza os Heists contra os Orbs e vende, pela L… |
 
 ## 🔗 Relacionados — Sindicatos — Índice
-
 
 - [[mecanicas/augments.md|Augments]] — a tabela completa de Warframe → augment → sindicato, e a lógica dos grupos não-hostis.
 - [[mecanicas/mastery_rank.md|Mastery Rank]] — MR 3 abre os sindicatos de facção; o teto diário sobe 500 por rank; MR 8 para melee de sindicato, MR 12 para primárias.

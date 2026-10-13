@@ -6,7 +6,7 @@ def tokens(s):
         if k: yield k,m.group(k)
 def unq(s):
     s=s[1:-1]
-    return re.sub(r'\\(.)',lambda m:{'n':'\n','t':'\t'}.get(m.group(1),m.group(1)),s)
+    return re.sub(r'\\(.)',lambda m:{'n':'\n','t':'\t','r':''}.get(m.group(1),m.group(1)),s)
 def parse_table_at(src,start):
     """parse lua table literal beginning at src[start]=='{'"""
     toks=list(tokens(src[start:]))

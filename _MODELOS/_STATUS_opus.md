@@ -511,3 +511,13 @@ fa06bd2  preenche(mods/companheiros): 33 arquivos — COMPLETA
 0731c6a  preenche(recursos): 94 arquivos
 c533021  preenche(recursos): 56 arquivos — recursos/ COMPLETA (150/150)
 ```
+
+## Lote "finalização" — 2026-10-13 · estado atual e o que falta
+
+**Feito (commits 6677fc9 → 39ff3aa):** 12 itens inexistentes apagados; 274 itens + 429 recursos criados; Avaliação Popular (dados oficiais DE 2024/2025) em warframes/armas; builds e História em warframes/armas/companheiros; **1410 mods + 166 arcanes** gerados (`mods/**`, `mods/arcanes/`); frontmatter estruturado (`id`, `mastery_rank`, `negociavel`, `vaultado`, `slot`, `classe`, `disposicao_riven`, `fonte_principal`, `rank_max`, `drenagem_base`, `augment_de`); `_MODELOS/dados/itens.json` (exportado por `_MODELOS/exportar_itens.py`).
+
+**Falta (ordem):**
+1. Notas novas de mecânica/missão/local (ver lista em `_MODELOS/_CONVENCOES.md` §convenções; alvos): `mecanicas/{modding,rivens,archon_shards,arcanes,endo_e_creditos,reliquias_do_void,adversarios_lich_sister_coda,rotinas_diarias_e_semanais,archwing,necramech,k_drive,criacao_de_companheiros,guia_de_progressao,atualizacoes_recentes,glossario}.md`, `missoes/tipos/{deep_archimedea,temporal_archimedea,netracells,mirror_defense,alchemy,conjunction_survival,legacyte_harvest,ascension}.md`, `locais/hollvania.md`, `mecanicas/sindicatos/the_hex.md`. Fonte: wiki.warframe.com (action=raw).
+2. `_MODELOS/MODELO_inventario_jogador.md` + `_MODELOS/GUIA_RECOMENDACAO_IA.md`.
+3. Regenerar todos os `_* _Indice.md` a partir do frontmatter (incluir mods/arcanes) e reescrever `_MODELOS/_PENDENCIAS.md` (todas as pendências de arquivo resolvidas).
+4. Verificação: `python3 _MODELOS/rag_eval.py 5` e `--geral`, validador de links, YAML, `git fsck`, rodar `exportar_itens.py`, commit; atualizar `_Warframe _Segunda _Mente.md` (estatísticas).

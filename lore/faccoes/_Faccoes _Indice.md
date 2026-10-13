@@ -7,9 +7,10 @@ status: completo
 rag: true
 tags: [index, lore, faccao]
 fontes: ["https://wiki.warframe.com/w/Factions", "https://wiki.warframe.com/w/Damage_2.0/Overview_Table"]
-atualizado: 2026-10-07
+atualizado: 2026-10-13
 verificado: true
 agente: opus
+total-notas: 8
 ---
 
 # Facções — Índice
@@ -17,9 +18,7 @@ agente: opus
 > [!info] Em uma linha
 > Oito facções documentadas: três que você enfrenta todo dia (Grineer, Corpus, Infested), três que explicam a história (Orokin, Sentient, Tenno) e duas de nicho (Dax, The Murmur).
 
-
 ## A pergunta que todo mundo faz primeiro: qual elemento eu uso? — Facções — Índice
-
 
 | Facção | Saúde | Armadura / defesa | Combinação recomendada |
 |---|---|---|---|
@@ -34,9 +33,7 @@ agente: opus
 
 Detalhe completo por tipo de dano em cada arquivo e em [[mecanicas/dano_e_status.md|Dano e Status]].
 
-
 ## Mapa de conflito — Facções — Índice
-
 
 | Facção | O que é, em uma linha | Criada por | Inimigo principal |
 |---|---|---|---|
@@ -49,9 +46,7 @@ Detalhe completo por tipo de dano em cada arquivo e em [[mecanicas/dano_e_status
 | [[lore/faccoes/dax.md\|Dax]] | Elite militar Orokin, incapaz de desobedecer | Orokin | Extintos; Anarchs contra os Sentients |
 | [[lore/faccoes/murmur.md\|The Murmur]] | Construtos de Void feitos pelo Man in the Wall | The Indifference | O legado de Albrecht Entrati |
 
-
 ## A linha causal, em cinco passos — Facções — Índice
-
 
 1. Os **Orokin** querem colonizar Tau e lançam a nave **Zariman** → nascem os **Tenno**.
 2. Tau exige terraformação → criam os **Sentients**, que ganham consciência e voltam para a guerra.
@@ -61,9 +56,7 @@ Detalhe completo por tipo de dano em cada arquivo e em [[mecanicas/dano_e_status
 
 Detalhe cronológico em [[lore/cronologia/cronologia.md|Cronologia]].
 
-
 ## Facções reais que ainda não têm arquivo — Facções — Índice
-
 
 > [!warning] Pendência para o humano
 > As facções abaixo existem no jogo e **não têm arquivo neste vault**. Pela convenção 2 do [[_MODELOS/_CONVENCOES.md|_CONVENCOES]], nenhum agente pode criar arquivos — alguém precisa criá-los antes de serem preenchidos.
@@ -79,3 +72,16 @@ Detalhe cronológico em [[lore/cronologia/cronologia.md|Cronologia]].
 | Amalgam | Gas City de Júpiter — cobertos em `corpus.md` e `sentient.md` |
 
 ---
+
+## 📋 Lista — Facções — Índice — geral (8)
+
+| Nome | Tipo | MR | Resumo |
+|---|---|---|---|
+| [[lore/faccoes/corpus.md\|Corpus]] | faccao | — | Corpus — Confederação de corporações fundada por Parvos Granum que adora o Lucro, domina Vênus, Júpiter, Europa, Netuno e Plutão, e compensa… |
+| [[lore/faccoes/dax.md\|Dax]] | faccao | — | Dax — O corpo de elite do exército Orokin: soldados aumentados, armados com Nikana e mentalmente incapazes de desobedecer quem portasse Kuva… |
+| [[lore/faccoes/grineer.md\|Grineer]] | faccao | — | Grineer — Império militar de clones geneticamente degradados, fanaticamente leais às Rainhas Gêmeas, que domina Terra, Marte, Ceres, Saturno… |
+| [[lore/faccoes/infested.md\|Infested]] | faccao | — | Infested — Não é um povo, é uma doença: o vírus Technocyte, que os Orokin armaram contra os Sentients, converte Grineer, Corpus, máquinas e … |
+| [[lore/faccoes/orokin.md\|Orokin]] | faccao | — | Orokin — Aristocracia imortal que governou todo o Sistema de Origem, criou Grineer, Sentients, Cephalons e Warframes — e foi exterminada pel… |
+| [[lore/faccoes/sentient.md\|Sentient]] | faccao | — | Sentient — Máquinas terraformadoras que os Orokin enviaram a Tau, ganharam consciência, voltaram para destruir seus criadores — e cuja única… |
+| [[lore/faccoes/tenno.md\|Tenno]] | faccao | — | Tenno — As crianças sobreviventes da nave-colônia Zariman Ten Zero, mutadas pelo Void, que pilotam Warframes por Transference — você é uma d… |
+| [[lore/faccoes/murmur.md\|The Murmur]] | faccao | — | Construtos de pedra com membros humanos, feitos de energia do Void pelo Man in the Wall: pedaços recortados da própria Indifference, que se … |

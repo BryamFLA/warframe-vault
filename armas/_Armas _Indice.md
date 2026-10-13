@@ -7,7 +7,7 @@ resumo: Armas em Warframe são o principal meio de combate do Tenno.
 status: completo
 rag: true
 tags: [index, arma]
-atualizado: 2026-10-07
+atualizado: 2026-10-13
 agente: opus
 total-armas: 380
 total-primarias: 129
@@ -15,6 +15,7 @@ total-secundarias: 93
 total-brancas: 135
 total-archwing: 23
 indices-relacionados: [_Armas _Primarias _Indice, _Armas _Secundarias _Indice, _Armas _Brancas _Indice, _Armas _Archwing _Indice, _Mods _Indice, _Recursos _Indice, _Locais _Indice]
+total-notas: 642
 ---
 
 # Armas — Índice
@@ -22,17 +23,13 @@ indices-relacionados: [_Armas _Primarias _Indice, _Armas _Secundarias _Indice, _
 > [!quote]
 > *"Uma arma é apenas metal. O Tenno que a empunha é o que a torna letal."*
 
-
 ## 📊 Visão Geral — Armas — Índice
-
 
 Armas em Warframe são o principal meio de combate do Tenno. Dividem-se em quatro categorias de slot: **Primária**, **Secundária**, **Branca (Melee)** e **Archwing**. Cada slot é independente — o jogador equipa uma de cada tipo simultaneamente (exceto Archwing, usado apenas em zonas específicas).
 
 O poder real de uma arma vem dos **Mods equipados**, não do nível base. Stats nativos (dano, critical chance, status chance, fire rate) definem o potencial; os mods amplificam ou redirecionam esse potencial.
 
-
 ## 🌍 Onde Conseguir — Armas — Índice
-
 
 A maioria das armas é **construída na Fundição** a partir de blueprints e recursos:
 
@@ -52,9 +49,7 @@ A maioria das armas é **construída na Fundição** a partir de blueprints e re
 
 Tempo de craft: **12 horas** para componentes, **24 horas** para a arma completa (varia por arma).
 
-
 ## Stats e Mecânicas — Armas — Índice
-
 
 | Stat                    | Função                                                 |
 | ----------------------- | ------------------------------------------------------ |
@@ -79,17 +74,13 @@ Tempo de craft: **12 horas** para componentes, **24 horas** para a arma completa
 | Frio + Tóxico      | Viral     |
 | Elétrico + Tóxico  | Corrosivo |
 
-
 ## Mastery — Armas — Índice
-
 
 Cada arma contribui com **Affinity de Mastery** quando levada ao Rank 30 pela primeira vez:
 - **Armas comuns:** 3.000 pontos
 - **Armas Prime:** 6.000 pontos (contam separado da versão base)
 
-
 ## Sub-Índices — Armas — Índice
-
 
 Cada sub-índice cobre mecânicas exclusivas da sua categoria além da lista de armas:
 
@@ -100,9 +91,7 @@ Cada sub-índice cobre mecânicas exclusivas da sua categoria além da lista de 
 | [[armas/brancas/_Armas _Brancas _Indice.md\|Brancas]] | Stances por tipo de arma, combo counter, heavy attacks, finishers, slam attacks |
 | [[armas/archwing/_Armas _Archwing _Indice.md\|Archwing]] | Modos espacial/atmosfera/terrestre, Archgun Deployer, Zenith Crown, pool de mods exclusivo |
 
-
 ## 📋 Lista Completa — Armas — Índice
-
 
 ### Primárias (129)
 
@@ -238,7 +227,6 @@ Cada sub-índice cobre mecânicas exclusivas da sua categoria além da lista de 
 | [[armas/primarias/zhuge.md\|Zhuge]] | Arco | Mercado (blueprint) |
 | [[armas/primarias/zhuge_prime.md\|Zhuge Prime]] | Arco | Relíquias (Prime) |
 
-
 ### Secundárias (93)
 
 | Arma | Tipo | Fonte |
@@ -336,7 +324,6 @@ Cada sub-índice cobre mecânicas exclusivas da sua categoria além da lista de 
 | [[armas/secundarias/zakti.md\|Zakti]] | Arremesso | Mercado (blueprint) |
 | [[armas/secundarias/zakti_prime.md\|Zakti Prime]] | Arremesso | Relíquias (Prime) |
 | [[armas/secundarias/zylok.md\|Zylok]] | Pistola | Nightwave / Evento |
-
 
 ### Brancas — Melee (135)
 
@@ -478,7 +465,6 @@ Cada sub-índice cobre mecânicas exclusivas da sua categoria além da lista de 
 | [[armas/brancas/war.md\|War]] | Espada Pesada | Drop (Stalker) |
 | [[armas/brancas/xoris.md\|Xoris]] | Glaive | Quest (The Deadlock Protocol) |
 
-
 ### Archwing (23)
 
 | Arma | Tipo | Fonte |
@@ -507,9 +493,7 @@ Cada sub-índice cobre mecânicas exclusivas da sua categoria além da lista de 
 | [[armas/archwing/velocitus.md\|Velocitus]] | Arch-Gun | Pesquisa de Clã (Corpus) |
 | [[armas/archwing/veritux.md\|Veritux]] | Arch-Melee | Pesquisa de Clã (Tenno) |
 
-
 ## Por Tipo — Armas — Índice
-
 
 ### Primárias
 **Rifles de Assalto:** [[armas/primarias/braton.md|Braton]] · [[armas/primarias/soma.md|Soma]] · [[armas/primarias/boltor.md|Boltor]] · [[armas/primarias/tiberon.md|Tiberon]] · [[armas/primarias/grakata.md|Grakata]] · [[armas/primarias/tenora.md|Tenora]] · [[armas/primarias/acceltra.md|Acceltra]] · [[armas/primarias/stradavar.md|Stradavar]] · [[armas/primarias/baza.md|Baza]] · [[armas/primarias/karak.md|Karak]] · [[armas/primarias/hind.md|Hind]] · [[armas/primarias/supra.md|Supra]] · [[armas/primarias/gorgon.md|Gorgon]] · [[armas/primarias/amprex.md|Amprex]] · [[armas/primarias/battacor.md|Battacor]] · [[armas/primarias/panthera.md|Panthera]] · [[armas/primarias/veldt.md|Veldt]] · [[armas/primarias/stahlta.md|Stahlta]] · [[armas/primarias/dera.md|Dera]] · [[armas/primarias/glaxion.md|Glaxion]] · [[armas/primarias/flux_rifle.md|Flux Rifle]] · [[armas/primarias/buzlok.md|Buzlok]]
@@ -565,9 +549,7 @@ Cada sub-índice cobre mecânicas exclusivas da sua categoria além da lista de 
 
 **Arch-Melee:** [[armas/archwing/onorix.md|Onorix]] · [[armas/archwing/veritux.md|Veritux]] · [[armas/archwing/kaszas.md|Kaszas]] · [[armas/archwing/knux.md|Knux]] · [[armas/archwing/centaur.md|Centaur]] · [[armas/archwing/prisma_veritux.md|Prisma Veritux]]
 
-
 ## 💡 Curiosidades — Armas — Índice
-
 
 - Braton foi a primeira arma primária disponível no jogo — acompanha o Excalibur no tutorial desde 2013.
 - O Ignis Wraith foi distribuído via evento e só pode ser obtido por troca com outros jogadores ou pesquisa de clã — nunca volta ao mercado diretamente.
@@ -580,9 +562,63 @@ Cada sub-índice cobre mecânicas exclusivas da sua categoria além da lista de 
 - Mausolon foi a primeira Arch-Gun de fogo automático projetada para uso terrestre via Zenith Crown.
 - Skiajati é a espada pessoal do Umbra — dropa apenas em The Sacrifice e tem efeito de invisibilidade ao executar inimigos.
 
+## 📋 Lista — Armas — Índice — Sub-índices
+
+| Sub-índice | Notas |
+|---|---|
+| [[armas/archwing/_Armas _Archwing _Indice.md\|Armas Archwing — Índice]] | 28 |
+| [[armas/brancas/_Armas _Brancas _Indice.md\|Armas Brancas — Índice]] | 225 |
+| [[armas/primarias/_Armas _Primarias _Indice.md\|Armas Primárias — Índice]] | 196 |
+| [[armas/secundarias/_Armas _Secundarias _Indice.md\|Armas Secundárias — Índice]] | 156 |
+
+## 📋 Lista — Armas — Índice — amps · amp (16)
+
+| Nome | Tipo | MR | Resumo |
+|---|---|---|---|
+| [[armas/amps/cantic_prism.md\|Cantic Prism]] | amp | 0 | Cantic Prism — arma Amp (Amp), MR 0. Como conseguir: Peça de Amp de tier alto comprada da Little Duck (Vox Solaris, Fortuna) por 3.000 de St… |
+| [[armas/amps/dissic_scaffold.md\|Dissic Scaffold]] | amp | 0 | Dissic Scaffold — arma Amp (Amp), MR 0. Como conseguir: Peça de Amp de tier alto comprada da Little Duck (Vox Solaris, Fortuna) por 3.000 de… |
+| [[armas/amps/exard_scaffold.md\|Exard Scaffold]] | amp | 0 | Exard Scaffold — arma Amp (Amp), MR 0. Como conseguir: Peça de Amp de tier alto comprada da Little Duck (Vox Solaris, Fortuna) por 3.000 de … |
+| [[armas/amps/granmu_prism.md\|Granmu Prism]] | amp | 0 | Granmu Prism — arma Amp (Amp), MR 0. Como conseguir: Peça de Amp comprada dos Quills (Onkko, Cetus) no Rank 3. |
+| [[armas/amps/klamora_prism.md\|Klamora Prism]] | amp | 0 | Klamora Prism — arma Amp (Amp), MR 0. Como conseguir: Peça de Amp de tier alto comprada da Little Duck (Vox Solaris, Fortuna) por 3.000 de S… |
+| [[armas/amps/klebrik_scaffold.md\|Klebrik Scaffold]] | amp | 0 | Klebrik Scaffold — arma Amp (Amp), MR 0. Como conseguir: Peça de Amp comprada dos Quills (Onkko, Cetus) no Rank 3. |
+| [[armas/amps/lega_prism.md\|Lega Prism]] | amp | 0 | Lega Prism — arma Amp (Amp), MR 0. Como conseguir: Peça de Amp de tier alto comprada da Little Duck (Vox Solaris, Fortuna) por 3.000 de Stan… |
+| [[armas/amps/mote_amp.md\|Mote Amp]] | amp | 0 | Mote Amp — arma Amp (Amp), MR 0. Como conseguir: O primeiro Amp: blueprint dado pelo Onkko (Quills, Cetus) por 500 de Standing no Rank 0, li… |
+| [[armas/amps/pencha_scaffold.md\|Pencha Scaffold]] | amp | 0 | Pencha Scaffold — arma Amp (Amp), MR 0. Como conseguir: Peça de Amp comprada dos Quills (Onkko, Cetus) no Rank 1. |
+| [[armas/amps/phahd_scaffold.md\|Phahd Scaffold]] | amp | 0 | Phahd Scaffold — arma Amp (Amp), MR 0. Como conseguir: Peça de Amp comprada dos Quills (Onkko, Cetus) no Rank 4. |
+| [[armas/amps/propa_scaffold.md\|Propa Scaffold]] | amp | 0 | Propa Scaffold — arma Amp (Amp), MR 0. Como conseguir: Comprado da Little Duck (Vox Solaris) por 3.000 de Standing no Rank 4. |
+| [[armas/amps/rahn_prism.md\|Rahn Prism]] | amp | 0 | Rahn Prism — arma Amp (Amp), MR 0. Como conseguir: Peça de Amp comprada dos Quills (Onkko, Cetus) no Rank 4. |
+| [[armas/amps/raplak_prism.md\|Raplak Prism]] | amp | 0 | Raplak Prism — arma Amp (Amp), MR 0. Como conseguir: Peça de Amp comprada dos Quills (Onkko, Cetus) no Rank 1. |
+| [[armas/amps/shraksun_scaffold.md\|Shraksun Scaffold]] | amp | 0 | Shraksun Scaffold — arma Amp (Amp), MR 0. Como conseguir: Peça de Amp comprada dos Quills (Onkko, Cetus) no Rank 2. |
+| [[armas/amps/shwaak_prism.md\|Shwaak Prism]] | amp | 0 | Shwaak Prism — arma Amp (Amp), MR 0. Como conseguir: Peça de Amp comprada dos Quills (Onkko, Cetus) no Rank 2. |
+| [[armas/amps/sirocco.md\|Sirocco]] | amp | 0 | Sirocco — arma Amp (Amp), MR 0. Como conseguir: Amp do Drifter: dado ao concluir The New War, já gilded. |
+
+## 📋 Lista — Armas — Índice — robotica · robotic (21)
+
+| Nome | Tipo | MR | Resumo |
+|---|---|---|---|
+| [[armas/robotica/artax.md\|Artax]] | robotic | 0 | Artax — arma Robotic (Rifle), MR 0. Como conseguir: Arma robótica que vem automaticamente com o Sentinel Taxon. |
+| [[armas/robotica/burst_laser.md\|Burst Laser]] | robotic | 0 | Burst Laser — arma Robotic (Pistol), MR 0. Como conseguir: Arma robótica que vem automaticamente com o Sentinel Shade. |
+| [[armas/robotica/burst_laser_prime.md\|Burst Laser Prime]] | robotic | 0 | Burst Laser Prime — arma Robotic (Pistol), MR 0. Como conseguir: Arma robótica que vem automaticamente com o Sentinel Shade Prime. |
+| [[armas/robotica/cryotra.md\|Cryotra]] | robotic | 0 | Cryotra — arma Robotic (Rifle), MR 0. Como conseguir: Arma robótica: blueprint comprado do Legs (Fortuna) por 10,000 de Standing no Rank 5 (… |
+| [[armas/robotica/deconstructor.md\|Deconstructor]] | robotic | 0 | Deconstructor — arma Robotic (Glaive), MR 0. Como conseguir: Arma robótica que vem automaticamente com o Sentinel Helios. |
+| [[armas/robotica/deconstructor_prime.md\|Deconstructor Prime]] | robotic | 0 | Deconstructor Prime — arma Robotic (Glaive), MR 0. Como conseguir: Arma robótica que vem automaticamente com o Sentinel Helios Prime. |
+| [[armas/robotica/deth_machine_rifle.md\|Deth Machine Rifle]] | robotic | 0 | Deth Machine Rifle — arma Robotic (Rifle), MR 0. Como conseguir: Arma robótica que vem automaticamente com o Sentinel Dethcube. |
+| [[armas/robotica/deth_machine_rifle_prime.md\|Deth Machine Rifle Prime]] | robotic | 0 | Deth Machine Rifle Prime — arma Robotic (Rifle), MR 0. Como conseguir: Arma robótica que vem automaticamente com o Sentinel Dethcube Prime. |
+| [[armas/robotica/helstrum.md\|Helstrum]] | robotic | 0 | Helstrum — arma Robotic (Rifle), MR 0. Como conseguir: Arma robótica: blueprint comprado do Legs (Fortuna) por 10,000 de Standing no Rank 5 … |
+| [[armas/robotica/laser_rifle.md\|Laser Rifle]] | robotic | 0 | Laser Rifle — arma Robotic (Rifle), MR 0. Como conseguir: Arma robótica que vem automaticamente com o Sentinel Wyrm. |
+| [[armas/robotica/multron.md\|Multron]] | robotic | 3 | Multron — arma Robotic (Rifle), MR 3. Como conseguir: Arma robótica que vem automaticamente com o Sentinel Oxylus. |
+| [[armas/robotica/prime_laser_rifle.md\|Prime Laser Rifle]] | robotic | 0 | Prime Laser Rifle — arma Robotic (Rifle), MR 0. Como conseguir: Arma robótica que vem automaticamente com o Sentinel Wyrm Prime. |
+| [[armas/robotica/prisma_burst_laser.md\|Prisma Burst Laser]] | robotic | 0 | Prisma Burst Laser — arma Robotic (Pistol), MR 0. Como conseguir: Vem com o Prisma Shade, vendido pelo Baro Ki'Teer (300.000 créditos e 500 … |
+| [[armas/robotica/stinger.md\|Stinger]] | robotic | 0 | Stinger — arma Robotic (Rifle), MR 0. Como conseguir: Arma robótica que vem automaticamente com o Sentinel Djinn. |
+| [[armas/robotica/sweeper.md\|Sweeper]] | robotic | 0 | Sweeper — arma Robotic (Shotgun), MR 0. Como conseguir: Arma robótica que vem automaticamente com o Sentinel Carrier. |
+| [[armas/robotica/sweeper_prime.md\|Sweeper Prime]] | robotic | 0 | Sweeper Prime — arma Robotic (Shotgun), MR 0. Como conseguir: Arma robótica que vem automaticamente com o Sentinel Carrier Prime. |
+| [[armas/robotica/tazicor.md\|Tazicor]] | robotic | 3 | Tazicor — arma Robotic (Rifle), MR 3. Como conseguir: Arma robótica: blueprint comprado do Legs (Fortuna) por 10,000 de Standing no Rank 5 (… |
+| [[armas/robotica/verglas.md\|Verglas]] | robotic | 0 | Verglas — arma Robotic (Rifle), MR 0. Como conseguir: Arma robótica que vem automaticamente com o Sentinel Nautilus. |
+| [[armas/robotica/verglas_prime.md\|Verglas Prime]] | robotic | 0 | Verglas Prime — arma Robotic (Rifle), MR 0. Como conseguir: Arma robótica que vem automaticamente com o Sentinel Nautilus Prime. |
+| [[armas/robotica/vulcax.md\|Vulcax]] | robotic | 14 | Vulcax — arma Robotic (Rifle), MR 14. Como conseguir: Arma robótica: blueprint comprado do Legs (Fortuna) por 10,000 de Standing no Rank 5 (… |
+| [[armas/robotica/vulklok.md\|Vulklok]] | robotic | 0 | Vulklok — arma Robotic (Sniper Rifle), MR 0. Como conseguir: Arma robótica que vem automaticamente com o Sentinel Diriga. |
 
 ## 🔗 Relacionados — Armas — Índice
-
 
 | Índice | Relação |
 |---|---|

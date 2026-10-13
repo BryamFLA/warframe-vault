@@ -7,13 +7,14 @@ resumo: Todos os Warframes Prime são obtidos via Relíquias do Void em missões
 status: completo
 rag: true
 tags: [index, warframe]
-atualizado: 2026-10-07
+atualizado: 2026-10-13
 agente: opus
 total-warframes: 115
 total-base: 64
 total-prime: 50
 total-umbra: 1
 indices-relacionados: ["[[mods/warframe/_Mods Warframe _Indice.md|Mods Warframe  Indice]]", "[[missoes/_Missoes _Indice.md|Missoes  Indice]]", "[[mecanicas/_Mecanicas _Indice.md|Mecanicas  Indice]]", "[[locais/_Locais _Indice.md|Locais  Indice]]", "[[lore/chefes/_Chefes _Indice.md|Chefes  Indice]]"]
+total-notas: 120
 ---
 
 # Warframes — Índice
@@ -21,15 +22,11 @@ indices-relacionados: ["[[mods/warframe/_Mods Warframe _Indice.md|Mods Warframe 
 > [!quote]
 > *"Nós construímos um quadro ao redor da Infestação... canalizamos sua aflição... a transformamos em força."* — Ballas
 
-
 ## 📊 Visão Geral — Warframes — Índice
-
 
 Warframes são exoesqueletos biomecânicos letais controlados pelos **Tenno** através de uma simbiose chamada **Transferência**. Forjados a partir do vírus Helminth combinado à tecnologia Orokin, surgiram durante a Antiga Guerra como resposta contra os Sentients. Cada frame canaliza energias elementais, distorcionais ou físicas únicas — definindo um papel distinto em combate.
 
-
 ## 🌍 Onde Conseguir — Warframes — Índice
-
 
 Warframes não são dropados prontos — são construídos na **Fundição** a partir de quatro diagramas:
 
@@ -57,9 +54,7 @@ Todo Warframe nasce no Rank 0 e avança até o Rank 30 via Afinidade. Cada rank 
 
 Após Rank 30, versões base (não-Prime) podem ser **sacrificadas ao Helminth**. O Helminth aprende uma habilidade predefinida do frame consumido — disponível para ser injetada em qualquer outro Warframe do arsenal, permitindo builds híbridas.
 
-
 ## Mecânicas Base — Warframes — Índice
-
 
 | Atributo | Função |
 |---|---|
@@ -68,9 +63,7 @@ Após Rank 30, versões base (não-Prime) podem ser **sacrificadas ao Helminth**
 | **Armadura** | Reduz dano recebido na Vida (não nos Escudos, salvo exceções) |
 | **Energia** | Combustível das habilidades — recuperada com Orbes Azuis ou passivas de Aura |
 
-
 ## Mods e Polaridades — Warframes — Índice
-
 
 O poder real de um Warframe vem dos **Mods** equipados, não do nível base. Quatro vetores de customização:
 
@@ -83,9 +76,7 @@ O poder real de um Warframe vem dos **Mods** equipados, não do nível base. Qua
 
 **Formas e Polaridades:** aplicar uma Forma reseta o rank para 0 mas adiciona uma polaridade ao slot. Mods na polaridade correta custam metade da capacidade. O slot de **Aura**, quando alinhado, concede capacidade extra em vez de consumir.
 
-
 ## 📋 Lista Completa — Warframes — Índice
-
 
 ### Warframes Base
 
@@ -156,7 +147,6 @@ O poder real de um Warframe vem dos **Mods** equipados, não do nível base. Qua
 | [[warframes/regular/yareli.md\|Yareli]] | Aquático / K-Drive | Quest — The Waverider | — | Heart of Deimos |
 | [[warframes/regular/zephyr.md\|Zephyr]] | Aéreo / Mobilidade | Pesquisa de Clã (Tenno Lab) | Dojo | — |
 
-
 ### Warframes Prime
 
 > [!info] Aquisição
@@ -215,7 +205,6 @@ O poder real de um Warframe vem dos **Mods** equipados, não do nível base. Qua
 | [[warframes/primes/yareli_prime.md\|Yareli Prime]]       | Aquático / K-Drive        | Normal                                 |
 | [[warframes/primes/zephyr_prime.md\|Zephyr Prime]]       | Aéreo / Mobilidade        | Normal                                 |
 
-
 ### Warframe Umbra
 
 > [!info] Aquisição
@@ -225,9 +214,7 @@ O poder real de um Warframe vem dos **Mods** equipados, não do nível base. Qua
 |---|---|---|---|
 | [[warframes/umbra/excalibur_umbra.md\|Excalibur Umbra]] | Melee / Anti-Sentient | Quest — The Sacrifice | The War Within |
 
-
 ## Por Função — Warframes — Índice
-
 
 ### Tanques e Bruisers
 [[warframes/regular/rhino.md\|Rhino]] · [[warframes/primes/rhino_prime.md\|Rhino Prime]] · [[warframes/regular/inaros.md\|Inaros]] · [[warframes/primes/inaros_prime.md\|Inaros Prime]] · [[warframes/regular/nidus.md\|Nidus]] · [[warframes/primes/nidus_prime.md\|Nidus Prime]] · [[warframes/regular/hildryn.md\|Hildryn]] · [[warframes/primes/hildryn_prime.md\|Hildryn Prime]] · [[warframes/regular/valkyr.md\|Valkyr]] · [[warframes/primes/valkyr_prime.md\|Valkyr Prime]] · [[warframes/regular/grendel.md\|Grendel]] · [[warframes/primes/grendel_prime.md\|Grendel Prime]] · [[warframes/regular/styanax.md\|Styanax]] · [[warframes/regular/chroma.md\|Chroma]] · [[warframes/primes/chroma_prime.md\|Chroma Prime]] · [[warframes/regular/revenant.md\|Revenant]] · [[warframes/primes/revenant_prime.md\|Revenant Prime]] · [[warframes/regular/qorvex.md\|Qorvex]] · [[warframes/regular/temple.md\|Temple]] · [[warframes/regular/wukong.md\|Wukong]] · [[warframes/primes/wukong_prime.md\|Wukong Prime]]
@@ -247,9 +234,142 @@ O poder real de um Warframe vem dos **Mods** equipados, não do nível base. Qua
 ### Melee e Híbridos
 [[warframes/regular/atlas.md\|Atlas]] · [[warframes/primes/atlas_prime.md\|Atlas Prime]] · [[warframes/regular/baruuk.md\|Baruuk]] · [[warframes/primes/baruuk_prime.md\|Baruuk Prime]] · [[warframes/regular/kullervo.md\|Kullervo]] · [[warframes/regular/caliban.md\|Caliban]] · [[warframes/primes/caliban_prime.md\|Caliban Prime]] · [[warframes/regular/follie.md\|Follie]] · [[warframes/regular/sevagoth.md\|Sevagoth]] · [[warframes/primes/sevagoth_prime.md\|Sevagoth Prime]] · [[warframes/regular/gauss.md\|Gauss]] · [[warframes/primes/gauss_prime.md\|Gauss Prime]] · [[warframes/umbra/excalibur_umbra.md\|Excalibur Umbra]]
 
+## 📋 Lista — Warframes — Índice — primes (52)
+
+| Nome | Tipo | MR | Resumo |
+|---|---|---|---|
+| [[warframes/primes/ash_prime.md\|Ash Prime]] | warframe | 0 | Ash Prime — Versão Prime do Ash, vaulted desde 30/05/2017: mesmas habilidades, mas +95 de escudo, +80 de armadura, sprint 1,2 e uma terceira… |
+| [[warframes/primes/atlas_prime.md\|Atlas Prime]] | warframe | — | Atlas Prime — Warframe de dano, sobrevivência. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/banshee_prime.md\|Banshee Prime]] | warframe | — | Banshee Prime — Warframe de controle de grupo. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/baruuk_prime.md\|Baruuk Prime]] | warframe | — | Baruuk Prime — Warframe de dano, controle de grupo. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/caliban_prime.md\|Caliban Prime]] | warframe | — | Caliban Prime — Warframe de controle de grupo. Como conseguir: peças Prime saem de Relíquias do Void (disponíveis). |
+| [[warframes/primes/chroma_prime.md\|Chroma Prime]] | warframe | — | Chroma Prime — Warframe de sobrevivência, dano. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/citrine_prime.md\|Citrine Prime]] | warframe | — | Citrine Prime — Warframe de suporte. Como conseguir: peças Prime saem de Relíquias do Void (disponíveis). |
+| [[warframes/primes/ember_prime.md\|Ember Prime]] | warframe | — | Ember Prime — Warframe de dano. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/equinox_prime.md\|Equinox Prime]] | warframe | — | Equinox Prime — Warframe de suporte. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/excalibur_prime.md\|Excalibur Prime]] | warframe | — | Excalibur Prime — Warframe de dano. Como conseguir: Excalibur Prime só podia ser obtido comprando o pacote Founders (Hunter ou superior), en… |
+| [[warframes/primes/frost_prime.md\|Frost Prime]] | warframe | — | Frost Prime — Warframe de controle de grupo, sobrevivência. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no moment… |
+| [[warframes/primes/gara_prime.md\|Gara Prime]] | warframe | — | Gara Prime — Warframe de dano, sobrevivência, controle de grupo. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no m… |
+| [[warframes/primes/garuda_prime.md\|Garuda Prime]] | warframe | — | Garuda Prime — Warframe de dano. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/gauss_prime.md\|Gauss Prime]] | warframe | — | Gauss Prime — Warframe de dano, sobrevivência. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/grendel_prime.md\|Grendel Prime]] | warframe | — | Grendel Prime — Warframe de sobrevivência. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/gyre_prime.md\|Gyre Prime]] | warframe | — | Gyre Prime — Warframe de dano, controle de grupo. Como conseguir: peças Prime saem de Relíquias do Void (disponíveis). |
+| [[warframes/primes/harrow_prime.md\|Harrow Prime]] | warframe | — | Harrow Prime — Warframe de sobrevivência, suporte. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/hildryn_prime.md\|Hildryn Prime]] | warframe | — | Hildryn Prime — Warframe de dano, sobrevivência. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/hydroid_prime.md\|Hydroid Prime]] | warframe | — | Hydroid Prime — Warframe de controle de grupo. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/inaros_prime.md\|Inaros Prime]] | warframe | — | Inaros Prime — Warframe de sobrevivência, controle de grupo. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momen… |
+| [[warframes/primes/ivara_prime.md\|Ivara Prime]] | warframe | — | Ivara Prime — Warframe de furtividade. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/khora_prime.md\|Khora Prime]] | warframe | — | Khora Prime — Warframe de controle de grupo, dano. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/lavos_prime.md\|Lavos Prime]] | warframe | — | Lavos Prime — Warframe de dano. Como conseguir: peças Prime saem de Relíquias do Void (disponíveis). |
+| [[warframes/primes/limbo_prime.md\|Limbo Prime]] | warframe | — | Limbo Prime — Warframe de controle de grupo. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/loki_prime.md\|Loki Prime]] | warframe | — | Loki Prime — Warframe de furtividade. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/mag_prime.md\|Mag Prime]] | warframe | — | Mag Prime — Warframe de controle de grupo. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/mesa_prime.md\|Mesa Prime]] | warframe | — | Mesa Prime — Warframe de dano. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/mirage_prime.md\|Mirage Prime]] | warframe | — | Mirage Prime — Warframe de dano. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/nekros_prime.md\|Nekros Prime]] | warframe | — | Nekros Prime — Warframe de controle de grupo. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/nezha_prime.md\|Nezha Prime]] | warframe | — | Nezha Prime — Warframe de sobrevivência, controle de grupo. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no moment… |
+| [[warframes/primes/nidus_prime.md\|Nidus Prime]] | warframe | — | Nidus Prime — Warframe de dano, sobrevivência, controle de grupo. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no … |
+| [[warframes/primes/nova_prime.md\|Nova Prime]] | warframe | — | Nova Prime — Warframe de dano, controle de grupo. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/nyx_prime.md\|Nyx Prime]] | warframe | — | Nyx Prime — Warframe de controle de grupo. Como conseguir: Diferente da maioria dos itens Prime, Nyx Prime nunca é vaultado (permanently unv… |
+| [[warframes/primes/oberon_prime.md\|Oberon Prime]] | warframe | — | Oberon Prime — Warframe de suporte. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/octavia_prime.md\|Octavia Prime]] | warframe | — | Octavia Prime — Warframe de suporte, dano, controle de grupo. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no mome… |
+| [[warframes/primes/protea_prime.md\|Protea Prime]] | warframe | — | Protea Prime — Warframe de dano, suporte. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/revenant_prime.md\|Revenant Prime]] | warframe | — | Revenant Prime — Warframe de dano, sobrevivência. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/rhino_prime.md\|Rhino Prime]] | warframe | — | Rhino Prime — Warframe de sobrevivência, controle de grupo. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no moment… |
+| [[warframes/primes/saryn_prime.md\|Saryn Prime]] | warframe | — | Saryn Prime — Warframe de dano. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/sevagoth_prime.md\|Sevagoth Prime]] | warframe | — | Sevagoth Prime — Warframe de dano, sobrevivência. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/styanax_prime.md\|Styanax Prime]] | warframe | — | Styanax Prime — Warframe de dano, suporte. Como conseguir: peças Prime saem de Relíquias do Void (disponíveis). |
+| [[warframes/primes/titania_prime.md\|Titania Prime]] | warframe | — | Titania Prime — Warframe de dano, controle de grupo. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/trinity_prime.md\|Trinity Prime]] | warframe | — | Trinity Prime — Warframe de sobrevivência, suporte. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/valkyr_prime.md\|Valkyr Prime]] | warframe | — | Valkyr Prime — Warframe de dano, sobrevivência. Como conseguir: Diferente da maioria dos itens Prime, Valkyr Prime nunca é vaultado (permane… |
+| [[warframes/primes/vauban_prime.md\|Vauban Prime]] | warframe | — | Vauban Prime — Warframe de controle de grupo. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/volt_prime.md\|Volt Prime]] | warframe | — | Volt Prime — Warframe de dano. Como conseguir: peças Prime saem de Relíquias do Void (disponíveis). |
+| [[warframes/primes/voruna_prime.md\|Voruna Prime]] | warframe | — | Voruna Prime — Warframe de dano, furtividade. Como conseguir: peças Prime saem de Relíquias do Void (disponíveis). |
+| [[warframes/primes/wisp_prime.md\|Wisp Prime]] | warframe | — | Wisp Prime — Warframe de suporte. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/wukong_prime.md\|Wukong Prime]] | warframe | — | Wukong Prime — Warframe de dano, sobrevivência. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/xaku_prime.md\|Xaku Prime]] | warframe | — | Xaku Prime — Warframe de dano. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+| [[warframes/primes/yareli_prime.md\|Yareli Prime]] | warframe | — | Yareli Prime — Warframe de dano, controle de grupo. Como conseguir: peças Prime saem de Relíquias do Void (disponíveis). |
+| [[warframes/primes/zephyr_prime.md\|Zephyr Prime]] | warframe | — | Zephyr Prime — Warframe de dano, controle de grupo. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). |
+
+## 📋 Lista — Warframes — Índice — regular (66)
+
+| Nome | Tipo | MR | Resumo |
+|---|---|---|---|
+| [[warframes/regular/ash.md\|Ash]] | warframe | 0 | Ash — Warframe furtivo de assassinato que escala por Bleed e Finisher: a passiva dá +25% de dano e +50% de duração aos efeitos de Bleed, e B… |
+| [[warframes/regular/atlas.md\|Atlas]] | warframe | 0 | Atlas — Brawler de 475 de armadura que soca com Landslide e se cura com Rubble de inimigos petrificados; a passiva o deixa imune a Knockdown… |
+| [[warframes/regular/banshee.md\|Banshee]] | warframe | — | Banshee — Warframe de controle de grupo. Como conseguir: Blueprints pesquisados no Tenno Lab do Dojo do clã. |
+| [[warframes/regular/baruuk.md\|Baruuk]] | warframe | — | Baruuk — Warframe de dano, controle de grupo. Como conseguir: Blueprints comprados da Little Duck (Vox Solaris, Fortuna): principal no Rank … |
+| [[warframes/regular/caliban.md\|Caliban]] | warframe | — | Caliban — Warframe de controle de grupo. Como conseguir: Blueprint principal no Mercado. |
+| [[warframes/regular/chroma.md\|Chroma]] | warframe | — | Chroma — Warframe de sobrevivência, dano. Como conseguir: Blueprint principal da quest The New Strange. |
+| [[warframes/regular/citrine.md\|Citrine]] | warframe | — | Citrine — Warframe de suporte. Como conseguir: Blueprints na rotação C do Mirror Defense Tyana Pass, Marte (exige Heart of Deimos). |
+| [[warframes/regular/cyte_09.md\|Cyte-09]] | warframe | — | Cyte-09 — Warframe de dano, furtividade. Como conseguir: Blueprint principal ao concluir a quest The Hex. |
+| [[warframes/regular/dagath.md\|Dagath]] | warframe | — | Dagath — Warframe de dano. Como conseguir: Blueprints no Dagath's Hollow, sala do Dojo do clã (sem pesquisa). |
+| [[warframes/regular/dante.md\|Dante]] | warframe | — | Dante — Warframe de dano, suporte, sobrevivência. Como conseguir: Blueprints na rotação C do Disruption Armatus (Deimos; exige The Deadlock … |
+| [[warframes/regular/ember.md\|Ember]] | warframe | — | Ember — Warframe de dano. Como conseguir: Blueprint principal no Mercado. |
+| [[warframes/regular/equinox.md\|Equinox]] | warframe | — | Equinox — Warframe de suporte. Como conseguir: Equinox exige forjar dois Aspects (Night e Day), cada um com seus Neuroptics, Chassis e Syste… |
+| [[warframes/regular/excalibur.md\|Excalibur]] | melee | — | Excalibur — Warframe inicial (escolha no Awakening; blueprint no Mercado por 35.000 créditos e peças do Lech Kril em War, Marte). Combatente… |
+| [[warframes/regular/follie.md\|Follie]] | warframe | — | Follie — Warframe de controle de grupo. Como conseguir: Blueprints na rotação A do Follie's Hunt em Vesper Relay, Vênus (exige Chains of Har… |
+| [[warframes/regular/frost.md\|Frost]] | warframe | — | Frost — Warframe de controle de grupo, sobrevivência. Como conseguir: Blueprint principal no Mercado. |
+| [[warframes/regular/gara.md\|Gara]] | warframe | — | Gara — Warframe de dano, sobrevivência, controle de grupo. Como conseguir: Blueprint principal ao concluir a quest Saya's Vigil (Cetus). |
+| [[warframes/regular/garuda.md\|Garuda]] | warframe | — | Garuda — Warframe de dano. Como conseguir: Blueprint principal ao concluir a quest Vox Solaris (Fortuna). |
+| [[warframes/regular/gauss.md\|Gauss]] | warframe | — | Gauss — Warframe de dano, sobrevivência. Como conseguir: Blueprint principal no Mercado. |
+| [[warframes/regular/grendel.md\|Grendel]] | warframe | — | Grendel — Warframe de sobrevivência. Como conseguir: Blueprint principal no Mercado. |
+| [[warframes/regular/gyre.md\|Gyre]] | warframe | — | Gyre — Warframe de dano, controle de grupo. Como conseguir: Blueprint principal e componentes da Gyre vêm das bounties do The Holdfasts no C… |
+| [[warframes/regular/harrow.md\|Harrow]] | warframe | — | Harrow — Warframe de sobrevivência, suporte. Como conseguir: Blueprint principal ao concluir a quest Chains of Harrow. |
+| [[warframes/regular/hildryn.md\|Hildryn]] | warframe | — | Hildryn — Warframe de dano, sobrevivência. Como conseguir: Blueprint principal comprado da Little Duck (Vox Solaris, Fortuna) por 5.000 de S… |
+| [[warframes/regular/hydroid.md\|Hydroid]] | warframe | — | Hydroid — Warframe de controle de grupo. Como conseguir: Blueprint principal no Mercado. |
+| [[warframes/regular/inaros.md\|Inaros]] | warframe | — | Inaros — Warframe de sobrevivência, controle de grupo. Como conseguir: Blueprints da quest Sands of Inaros (o blueprint da quest é negociáve… |
+| [[warframes/regular/ivara.md\|Ivara]] | warframe | — | Ivara — Warframe de furtividade. Como conseguir: Blueprint principal no Mercado. |
+| [[warframes/regular/jade.md\|Jade]] | warframe | — | Jade — Warframe de suporte. Como conseguir: Blueprint principal ao concluir a quest Jade Shadows. |
+| [[warframes/regular/khora.md\|Khora]] | warframe | — | Khora — Warframe de controle de grupo, dano. Como conseguir: Blueprint principal no Mercado. |
+| [[warframes/regular/koumei.md\|Koumei]] | warframe | — | Koumei — Warframe de dano, controle de grupo. Como conseguir: Blueprints no Shrine Defense de Saya's Visions, Terra (saindo de Cetus). |
+| [[warframes/regular/kullervo.md\|Kullervo]] | warframe | — | Kullervo — Warframe de dano. Como conseguir: Blueprints comprados da Acrithis (Dormizone, Duviri) com Kullervo's Bane: 15 pelo principal e 9… |
+| [[warframes/regular/lavos.md\|Lavos]] | warframe | — | Lavos — Warframe de dano. Como conseguir: Blueprints comprados do Father (Necralisk, Deimos) com Standing Entrati: principal no Rank 2, comp… |
+| [[warframes/regular/limbo.md\|Limbo]] | warframe | — | Limbo — Warframe de controle de grupo. Como conseguir: Blueprint principal no Mercado. |
+| [[warframes/regular/loki.md\|Loki]] | warframe | — | Loki — Warframe de furtividade. Como conseguir: Blueprint principal no Mercado. |
+| [[warframes/regular/mag.md\|Mag]] | controle | — | Controladora magnética que agrupa inimigos e projéteis com Magnetize, recupera escudos e remove armadura permanentemente com Fracturing Crus… |
+| [[warframes/regular/mesa.md\|Mesa]] | warframe | — | Mesa — Warframe de dano. Como conseguir: Blueprint principal no Mercado. |
+| [[warframes/regular/mirage.md\|Mirage]] | warframe | — | Mirage — Warframe de dano. Como conseguir: Blueprint principal no Mercado. |
+| [[warframes/regular/narin.md\|Narin]] | warframe | — | Narin — Warframe de dano, controle de grupo. Como conseguir: Blueprints como recompensa de missões no Zariman Ten Zero. |
+| [[warframes/regular/nekros.md\|Nekros]] | warframe | — | Nekros — Warframe de controle de grupo. Como conseguir: Blueprint principal no Mercado. |
+| [[warframes/regular/nezha.md\|Nezha]] | suporte | — | Nezha — Combatente móvel com proteção de Warding Halo, vulnerabilidade e orbes por Blazing Chakram; Divine Retribution espalha status entre … |
+| [[warframes/regular/nidus.md\|Nidus]] | warframe | — | Nidus — Warframe de dano, sobrevivência, controle de grupo. Como conseguir: Blueprint principal da quest The Glast Gambit (extras no Cephalo… |
+| [[warframes/regular/nokko.md\|Nokko]] | warframe | — | Nokko — Warframe de dano, controle de grupo. Como conseguir: Blueprints nas bounties do Deepmines (Fortuna, drop incomum/raro; exige The New… |
+| [[warframes/regular/nova.md\|Nova]] | warframe | — | Nova — Warframe de dano, controle de grupo. Como conseguir: Blueprint principal no Mercado. |
+| [[warframes/regular/nyx.md\|Nyx]] | warframe | — | Nyx — Warframe de controle de grupo. Como conseguir: Blueprint principal no Mercado. |
+| [[warframes/regular/oberon.md\|Oberon]] | warframe | — | Oberon — Warframe de suporte. Como conseguir: Blueprint principal no Mercado. |
+| [[warframes/regular/octavia.md\|Octavia]] | warframe | — | Octavia — Warframe de suporte, dano, controle de grupo. Como conseguir: Blueprint principal e Mandachord da quest Octavia's Anthem. |
+| [[warframes/regular/oraxia.md\|Oraxia]] | warframe | — | Oraxia — Warframe de dano, furtividade. Como conseguir: Blueprints no Isleweaver (Duviri; exige a quest The Hex). |
+| [[warframes/regular/protea.md\|Protea]] | warframe | — | Protea — Warframe de dano, suporte. Como conseguir: Blueprint principal da quest The Deadlock Protocol (exige Junção de Saturno e MR 4). |
+| [[warframes/regular/qorvex.md\|Qorvex]] | warframe | — | Qorvex — Warframe de sobrevivência, controle de grupo. Como conseguir: Blueprint principal ao concluir a quest Whispers in the Walls. |
+| [[warframes/regular/revenant.md\|Revenant]] | warframe | — | Revenant — Warframe de dano, sobrevivência. Como conseguir: Blueprint principal ao concluir a quest Mask of the Revenant (liberada no Rank 2… |
+| [[warframes/regular/rhino.md\|Rhino]] | tanque | — | Tanque e suporte de dano: Iron Skin fornece Overguard, Roar fortalece o esquadrão e Rhino Stomp controla grupos. |
+| [[warframes/regular/saryn.md\|Saryn]] | warframe | — | Saryn — Warframe de dano. Como conseguir: Blueprint principal no Mercado. |
+| [[warframes/regular/sevagoth.md\|Sevagoth]] | warframe | — | Sevagoth — Warframe de dano, sobrevivência. Como conseguir: Blueprint principal ao concluir a quest Call of the Tempestarii. |
+| [[warframes/regular/sirius_e_orion.md\|Sirius & Orion]] | warframe | — | Sirius & Orion — Warframe de dano, suporte, controle de grupo. Como conseguir: Blueprint principal ao concluir a quest Jade Shadows: Constel… |
+| [[warframes/regular/styanax.md\|Styanax]] | warframe | — | Styanax — Warframe de dano, suporte. Como conseguir: Blueprints comprados do Chipper na Kahl's Garrison com Stock, ganho nas missões semanai… |
+| [[warframes/regular/temple.md\|Temple]] | warframe | — | Temple — Warframe de dano, suporte. Como conseguir: Blueprints no Stage Defense em Solstice Square, Höllvania (exige a quest The Hex e Rank … |
+| [[warframes/regular/titania.md\|Titania]] | warframe | — | Titania — Warframe de dano, controle de grupo. Como conseguir: Blueprints da quest The Silver Grove (exige The Second Dream e MR 7). |
+| [[warframes/regular/trinity.md\|Trinity]] | warframe | — | Trinity — Warframe de sobrevivência, suporte. Como conseguir: Blueprint principal no Mercado. |
+| [[warframes/regular/uriel.md\|Uriel]] | warframe | — | Uriel — Warframe de dano. Como conseguir: Blueprint principal ao concluir a quest The Old Peace. |
+| [[warframes/regular/valkyr.md\|Valkyr]] | warframe | — | Valkyr — Warframe de dano, sobrevivência. Como conseguir: Blueprint principal no Mercado. |
+| [[warframes/regular/vauban.md\|Vauban]] | warframe | — | Vauban — Warframe de controle de grupo. Como conseguir: Blueprint principal no Mercado. |
+| [[warframes/regular/volt.md\|Volt]] | dps | — | Volt — Suporte elétrico que acelera o esquadrão, fortalece tiros com Electric Shield e usa Discharge para controlar grupos e recuperar escud… |
+| [[warframes/regular/voruna.md\|Voruna]] | warframe | — | Voruna — Warframe de dano, furtividade. Como conseguir: Blueprints na rotação C do Conjunction Survival em Yuvarium e Circulus, Lua (exige T… |
+| [[warframes/regular/wisp.md\|Wisp]] | warframe | — | Wisp — Warframe de suporte. Como conseguir: Blueprint principal e componentes: drop do boss Ropalolyst, Júpiter. |
+| [[warframes/regular/wukong.md\|Wukong]] | warframe | — | Wukong — Warframe de dano, sobrevivência. Como conseguir: Os blueprints de Wukong são pesquisados no Tenno Lab do Dojo do clã. |
+| [[warframes/regular/xaku.md\|Xaku]] | warframe | — | Xaku — Warframe de dano. Como conseguir: Blueprint principal ao concluir a quest Heart of Deimos. |
+| [[warframes/regular/yareli.md\|Yareli]] | warframe | — | Yareli — Warframe de dano, controle de grupo. Como conseguir: Blueprint principal da quest The Waverider. |
+| [[warframes/regular/zephyr.md\|Zephyr]] | warframe | — | Zephyr — Warframe de dano, controle de grupo. Como conseguir: Os blueprints de Zephyr são pesquisados no Tenno Lab do Dojo do clã. |
+
+## 📋 Lista — Warframes — Índice — umbra (2)
+
+| Nome | Tipo | MR | Resumo |
+|---|---|---|---|
+| [[warframes/umbra/excalibur_umbra.md\|Excalibur Umbra]] | warframe | — | Excalibur Umbra — Warframe de dano. Como conseguir: O blueprint do Excalibur Umbra é dado na 1ª missão da quest The Sacrifice, e a forja é l… |
+| [[warframes/umbra/excalibur_umbra_prime.md\|Excalibur Umbra Prime]] | warframe | — | Excalibur Umbra Prime — Warframe de dano. Como conseguir: Foi vendido apenas no pacote China Founders do Warframe China, encerrado em 11/04/… |
 
 ## 🔗 Relacionados — Warframes — Índice
-
 
 | Sistema | Índice |
 |---|---|
@@ -259,9 +379,7 @@ O poder real de um Warframe vem dos **Mods** equipados, não do nível base. Qua
 | Missões e jornadas | [[missoes/_Missoes _Indice.md\|Missões]] |
 | Sistemas de progressão | [[mecanicas/_Mecanicas _Indice.md\|Mecânicas]] |
 
-
 ## 💡 Curiosidades — Warframes — Índice
-
 
 - Excalibur foi o primeiro Warframe jogável — presente desde o alpha interno em 2012.
 - Loki era o frame mais popular no early game por anos pela invisibilidade e utilidade universal — perdeu relevância com powercreep de frames mais recentes.

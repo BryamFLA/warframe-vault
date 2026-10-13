@@ -43,6 +43,8 @@ for m in ['Lambeo Moa','Oloro Moa','Para Moa']: A[m]=MOA+f" O **Model {m.split()
 TIPO={'Kavat':'Kavat','Kubrow':'Kubrow','Sentinel':'Sentinel','Hound':'Hound','MOA':'MOA','Moa':'MOA','Predasite':'Predasite (Infested)','Vulpaphyla':'Vulpaphyla (Infested)'}
 def gen_comp(title,path,modname=None):
     nm=modname or title; c=C.get(nm)
+    if nm not in A and nm in ACQ: A[nm]=ACQ[nm]
+    if nm=='Prisma Shade': A[nm]='Vendido pelo **Baro Ki\'Teer** por 300.000 créditos e 500 Ducats (estoque varia), junto com a arma Prisma Burst Laser. Exige 2 slots de companheiro.'
     if not c or nm not in A: return None
     prime='Prime' in nm; ty=TIPO.get(c.get('Type',''),c.get('Type',''))
     acq=A[nm]; how=strip_md(acq.split('. ')[0]).rstrip('.')

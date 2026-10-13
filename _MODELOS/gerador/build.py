@@ -1,6 +1,6 @@
 import data,json,re,os,collections,sys
 ACQ=json.load(open(os.path.expanduser('~/gen/acq_pt.json')))
-TODAY='2026-10-12'
+TODAY='2026-10-13'
 def n(x):
     if isinstance(x,float) and not x.is_integer(): return f"{x:,.2f}".replace(',','X').replace('.',',').replace('X','.')
     return f"{int(x):,}".replace(',','.')
