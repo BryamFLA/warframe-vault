@@ -6,7 +6,7 @@ resumo: Warframe — Segunda Mente é o arquivo raiz deste vault Obsidian; ele r
 status: completo
 rag: true
 tags: [home, index, roteamento, agente]
-atualizado: 2026-10-07
+atualizado: 2026-10-12
 agente: opus
 fontes: ["https://wiki.warframe.com — fonte canônica de todo dado de jogo deste vault"]
 jogo: Warframe
@@ -62,32 +62,45 @@ Este é o **arquivo raiz** do vault *Warframe — Segunda Mente*, uma wiki pesso
 
 | Pasta | Conteúdo | Arquivos | Com dado real |
 |---|---|---|---|
-| `warframes/` | Um arquivo por frame — base, Prime e Umbra | 116 | 9 |
-| `armas/` | Primárias, secundárias, brancas, Archwing | 385 | 5 |
+| `warframes/` | Um arquivo por frame — base, Prime e Umbra | 116 | 116 |
+| `armas/` | Primárias, secundárias, brancas, Archwing | 386 | 382 |
 | `mods/` | Warframe, armas, companheiros, especiais | 221 | 216 |
 | `recursos/` | Materiais por raridade e sistema de origem | 161 | 154 |
 | `missoes/` | Tipos, jornadas, Junctions, bounties | 95 | 95 |
 | `mecanicas/` | Sistemas transversais, sindicatos, eventos | 47 | 47 |
-| `locais/` | Planetas do mapa estelar e open worlds | 25 | 6 |
+| `locais/` | Planetas do mapa estelar e open worlds | 25 | 25 |
 | `lore/` | Cronologia, facções, personagens, chefes | 73 | 73 |
-| `companheiros/` | Sentinels, Kubrows, Kavats, MOAs, Hounds | 46 | 1 |
+| `companheiros/` | Sentinels, Kubrows, Kavats, MOAs, Hounds | 46 | 38 |
 | `cosmeticos/` | Catálogo temático de cosméticos | 11 | 11 |
 
 ## 📊 Estado de Cobertura — Warframe — Segunda Mente
 
-Medido em 2026-10-07 sobre os 1.181 arquivos `.md` do vault (fora de `_MODELOS/`).
+Medido em 2026-10-12 sobre os 1.182 arquivos `.md` do vault (fora de `_MODELOS/`).
 
 | Métrica | Valor |
 |---|---|
-| Arquivos `.md` | **1.181** |
-| `status: completo` | **578** |
-| `status: parcial` | **40** |
-| `status: stub` (sem dado real) | **563** |
-| `rag: true` (indexáveis) | **618** |
-| `rag: false` (stubs blindados) | **563** |
+| Arquivos `.md` | **1.182** |
+| `status: completo` | **600** (escritos/revisados à mão) |
+| `status: parcial` | **558** (gerados dos módulos de dados da wiki: aquisição, forja, stats — sem build nem lore) |
+| `status: stub` | **24** (quase todos itens que **não existem** no jogo — ver `_MODELOS/_PENDENCIAS.md`) |
+| `rag: true` (indexáveis) | **1.158** |
 
-**Pastas fechadas:** `mecanicas/`, `lore/`, `missoes/`, `mods/`, `recursos/`, `cosmeticos/`.
-**Lacuna principal:** `armas/` (380 stubs), `warframes/` (107 stubs), `companheiros/` (45 stubs), `locais/` (19 stubs).
+**Pastas fechadas:** todas. Os arquivos `parcial` de `warframes/`, `armas/` e `companheiros/` respondem *onde conseguir*, *como construir (passo a passo)* e *stats*, mas ainda não têm **Build**, **Avaliação de Uso** nem **História**.
+
+## 🧪 Teste de Recuperação (RAG) — Warframe — Segunda Mente
+
+`_MODELOS/rag_eval.py` indexa os arquivos `rag: true` em chunks por heading `##` (prefixados com título e aliases), roda BM25 e mede se o arquivo certo volta no top-k. BM25 é um **piso**: um retriever com embeddings deve ir igual ou melhor.
+
+| Teste (2026-10-12) | Resultado |
+|---|---|
+| 8 perguntas-alvo (Excalibur, Cetus, Fortuna, Corpus, Alternox, Criótico, história do jogo, Terra) | **8/8 no top-3** |
+| "Onde consigo o warframe X?" para todo warframe | **115/115 (100%) no top-5** |
+| "Passo a passo para criar a arma X" para toda arma | **376/377 (99,7%) no top-5** |
+| "Como consigo o recurso X?" para todo recurso | **149/153 (97,4%) no top-5** |
+
+Rodar: `python3 _MODELOS/rag_eval.py 5` (perguntas-alvo) e `python3 _MODELOS/rag_eval.py 5 --geral`.
+
+**Recomendação para o pipeline RAG:** indexar só `rag: true`; chunk por heading `##` com o título do arquivo prefixado; guardar `tipo`, `status` e caminho como metadado; quando o chunk vencedor for de um arquivo `parcial`, a resposta deve avisar que build/lore não estão no vault.
 
 ## 🏷️ Vocabulário de Headings — Warframe — Segunda Mente
 

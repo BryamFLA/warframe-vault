@@ -361,6 +361,36 @@ Com as 6 perguntas-teste do usuário, **as 6 falharam** no estado original. Caus
 
 ---
 
+---
+
+## 🧪 SESSÃO 2026-10-12 — revisão para RAG (8 perguntas-alvo)
+
+**Resultado:** as 8 perguntas-alvo voltam o arquivo certo no **top-3** (antes: 2/8). Teste reproduzível em `_MODELOS/rag_eval.py`.
+
+| Pergunta | Arquivo que responde |
+|---|---|
+| Onde conseguir o Excalibur | `warframes/regular/excalibur.md` → `🌍 Onde Conseguir — Excalibur` (nova) |
+| O que farmar em Cetus | `locais/open-worlds/cetus.md` (era stub) |
+| Tudo o que fazer em Fortuna | `locais/open-worlds/fortuna.md` (era stub) |
+| História dos Corpus | `lore/faccoes/corpus.md` |
+| Passo a passo do Alternox | `armas/primarias/alternox.md` (não existia) |
+| Como conseguir Criótico | `recursos/raridades/raro/cryotic.md` (rota corrigida para Excavation, alias PT) |
+| Resumo da história do jogo | `lore/cronologia/cronologia.md` → `📖 Resumo da História do Jogo` (nova) |
+| O que fazer/farmar na Terra | `locais/planetas/terra.md` → `🎁 O Que Farmar na Terra` + Earth Proxima (novas; bônus de Dark Sector corrigidos) |
+
+**Generalização:** 483 stubs de `warframes/` e `armas/` + 37 de `companheiros/` gerados dos módulos da wiki (`status: parcial`, `gerado_de: modulos-da-wiki`), `duviri.md` escrito, lead "Como conseguir" em 70 recursos. Eval geral no top-5: warframes **100%**, armas **99,7%**, recursos **97,4%**. Gerador salvo em `_MODELOS/gerador/`.
+
+**Commits:** `e339f52` (ash/atlas pendentes) · `adc96c9` (8 perguntas) · `119f295` (483 gerados) · `52847dd` (companheiros + Duviri) · fix de pipes.
+
+### Fila nova (qualidade, por prioridade)
+1. **Build / Avaliação de Uso / História** nos 558 arquivos `parcial` — começar pelos warframes e armas mais populares.
+2. Traduzir as descrições de habilidade (hoje em inglês) nos warframes gerados.
+3. Limpar `recursos/open_worlds/` (pastas erradas, peças de peixe com fonte errada — ver `_PENDENCIAS.md`).
+4. Decisão humana: 12 arquivos de itens inexistentes em `armas/` e `companheiros/` (ver `_PENDENCIAS.md`).
+5. Arquivos faltando: Nychus Moa, Sly Vulpaphyla, Prisma Shade, Venari Prime.
+
+---
+
 ## ⚙️ PROTOCOLO DE EXECUÇÃO — opus (definido em 2026-10-04)
 
 Regras operacionais que eu mesmo sigo. Elas existem para que a sessão nunca

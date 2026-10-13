@@ -238,3 +238,27 @@ agente: opus
 
 ---
 
+
+---
+
+## 2026-10-12 — Revisão RAG (opus): itens inexistentes encontrados em `armas/` e `companheiros/`
+
+Nenhum destes nomes existe na wiki nem nos módulos de dados (`Module:Weapons/data`, `Module:Companions/data`). Ficaram `status: stub` / `rag: false`. **Decisão humana:** apagar o arquivo ou renomear para o item real.
+
+| Arquivo | Provável intenção |
+|---|---|
+| `armas/brancas/magistar_wraith.md` | não existe Wraith; há **Sancti Magistar** |
+| `armas/brancas/stiletto_prime.md` | só existe **Akstiletto Prime** (secundária) |
+| `armas/brancas/broken_sword.md` | não existe; talvez **Broken War** ou **Broken Scepter** |
+| `armas/brancas/nami_duo.md` | não existe; há **Nami Solo** e **Nami Skyla** |
+| `companheiros/kavat/hyena_predasite.md` | não existe; Predasites: **Medjay, Pharaoh, Vizier** |
+| `companheiros/hound/voca.md`, `lega.md`, `tauga.md`, `orm.md` | não existem; Models de Hound: **Bhaira, Dorma, Hec** |
+| `companheiros/moa/drex.md`, `stratus.md`, `balla.md` | não existem; Models de MOA: **Lambeo, Oloro, Para, Nychus** |
+
+Também corrigido: `companheiros/kavat/pharaoh_vulpaphyla.md` foi preenchido como **Pharaoh Predasite** (o nome do arquivo está errado; renomear é decisão humana). Faltam arquivos para **Nychus Moa**, **Sly Vulpaphyla**, **Prisma Shade** e **Venari Prime**.
+
+### Problemas de qualidade conhecidos em `recursos/open_worlds/` (não corrigidos nesta sessão)
+- Arquivos em pasta errada: `orbe_vallis/nyth.md`, `orbe_vallis/sentirum.md`, `orbe_vallis/coprun.md` são das **Plains of Eidolon**.
+- Títulos trocados: `eidolon/murkray_bladder.md` tem título "Murkray Liver".
+- Peças de peixe com "melhor fonte: Narmer Thumper" geradas automaticamente — a fonte real é **pesca** (cortar o peixe no vendedor).
+- `eidolon/glappid_scale.md` diz que o item não existe, mas **Glappid** é um peixe lendário das Plains (confirmar o nome da parte).
