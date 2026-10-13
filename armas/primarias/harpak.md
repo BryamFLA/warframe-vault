@@ -32,7 +32,7 @@ O blueprint de Harpak é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Harpak (passo a passo)
 
 1. **Consiga o blueprint** de Harpak (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]] + 5 [[recursos/raridades/raro/gallium.md\|Gallium]] + 6.000 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]] + 3.600 [[recursos/raridades/comum/rubedo.md\|Rubedo]]. Tempo: **1 dia(s)** (pular: 25 platina).
+2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 2 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]] + 5 [[recursos/raridades/raro/gallium.md|Gallium]] + 6.000 [[recursos/raridades/comum/nano_spores.md|Nano Spores]] + 3.600 [[recursos/raridades/comum/rubedo.md|Rubedo]]. Tempo: **1 dia(s)** (pular: 25 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

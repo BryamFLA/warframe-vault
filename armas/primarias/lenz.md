@@ -32,7 +32,7 @@ O blueprint de Lenz é pesquisado no **Energy Lab** do **Dojo do clã** (depois 
 ## 🏗️ Como Construir — Lenz (passo a passo)
 
 1. **Consiga o blueprint** de Lenz (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 10 Fieldron + 8.200 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 2.400 [[recursos/raridades/raro/cryotic.md\|Cryotic]] + 3 [[recursos/raridades/raro/nitain_extract.md\|Nitain Extract]]. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 10 Fieldron + 8.200 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]] + 2.400 [[recursos/raridades/raro/cryotic.md|Cryotic]] + 3 [[recursos/raridades/raro/nitain_extract.md|Nitain Extract]]. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

@@ -39,7 +39,7 @@ Diferente da maioria dos itens Prime, Hikou Prime **nunca é vaultado (permanent
 
 1. **Consiga o blueprint** de Hikou Prime (seção anterior).
 2. **Consiga os componentes:** Pouch ×2, Stars ×2 (Relíquias do Void).
-3. **Junte os recursos e forje na Foundry:** 15.000 créditos + 8 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + Pouch, Stars. Tempo: **12 h** (pular: 50 platina).
+3. **Junte os recursos e forje na Foundry:** 15.000 créditos + 8 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]] + Pouch, Stars. Tempo: **12 h** (pular: 50 platina).
 4. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

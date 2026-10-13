@@ -37,7 +37,7 @@ Arma de Archwing. Blueprint no **Mercado**; peças compradas de **Sindicatos**, 
 
 1. **Consiga o blueprint** de Phaedra (seção anterior).
 2. **Consiga os componentes:** Barrel, Receiver, Stock.
-3. **Junte os recursos e forje na Foundry:** 45.000 créditos + 2 [[recursos/raridades/raro/tellurium.md\|Tellurium]] + Barrel, Receiver, Stock. Tempo: **12 h** (pular: 50 platina).
+3. **Junte os recursos e forje na Foundry:** 45.000 créditos + 2 [[recursos/raridades/raro/tellurium.md|Tellurium]] + Barrel, Receiver, Stock. Tempo: **12 h** (pular: 50 platina).
 4. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

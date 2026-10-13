@@ -36,7 +36,7 @@ O blueprint de Orthos é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Orthos (passo a passo)
 
 1. **Consiga o blueprint** de Orthos (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 4 [[recursos/raridades/raro/morphics.md\|Morphics]] + 500 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 850 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 700 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 4 [[recursos/raridades/raro/morphics.md|Morphics]] + 500 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 850 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 700 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

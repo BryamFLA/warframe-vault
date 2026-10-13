@@ -36,7 +36,7 @@ O blueprint de Furis é vendido no **Mercado**; também é recompensa da **Junç
 ## 🏗️ Como Construir — Furis (passo a passo)
 
 1. **Consiga o blueprint** de Furis (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 750 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 300 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 400 [[recursos/raridades/comum/salvage.md\|Salvage]] + 4 [[recursos/raridades/raro/neurodes.md\|Neurodes]]. Tempo: **12 h** (pular: 25 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 750 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 300 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]] + 400 [[recursos/raridades/comum/salvage.md|Salvage]] + 4 [[recursos/raridades/raro/neurodes.md|Neurodes]]. Tempo: **12 h** (pular: 25 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

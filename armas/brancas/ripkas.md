@@ -32,7 +32,7 @@ O blueprint de Ripkas é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Ripkas (passo a passo)
 
 1. **Consiga o blueprint** de Ripkas (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 40.000 créditos + 1 Ankyros + 1 [[armas/brancas/dual_cleavers.md\|Dual Cleavers]] + 2 [[recursos/raridades/raro/tellurium.md\|Tellurium]] + 1 [[recursos/raridades/especial/forma.md\|Forma]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 40.000 créditos + 1 Ankyros + 1 [[armas/brancas/dual_cleavers.md|Dual Cleavers]] + 2 [[recursos/raridades/raro/tellurium.md|Tellurium]] + 1 [[recursos/raridades/especial/forma.md|Forma]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

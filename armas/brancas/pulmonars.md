@@ -32,7 +32,7 @@ O blueprint de Pulmonars' é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Pulmonars (passo a passo)
 
 1. **Consiga o blueprint** de Pulmonars (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]] + 24 Parasitic Tethermaw + 60 Devolved Namalon + 24.000 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 2 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]] + 24 Parasitic Tethermaw + 60 Devolved Namalon + 24.000 [[recursos/raridades/comum/nano_spores.md|Nano Spores]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

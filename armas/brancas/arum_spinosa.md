@@ -42,7 +42,7 @@ Blueprint e componentes nas bounties **Isolation Vault** tier 2 (nível 40–50)
 
 1. **Consiga o blueprint** de Arum Spinosa (seção anterior).
 2. **Consiga os componentes:** Guard ×2, Rivet.
-3. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 Trapezium Xenorhast + 1 [[recursos/open_worlds/cambion_drift/cabochon_embolos.md\|Cabochon Embolos]] + Guard, Rivet. Tempo: **12 h** (pular: 35 platina).
+3. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 Trapezium Xenorhast + 1 [[recursos/open_worlds/cambion_drift/cabochon_embolos.md|Cabochon Embolos]] + Guard, Rivet. Tempo: **12 h** (pular: 35 platina).
 4. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

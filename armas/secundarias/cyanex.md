@@ -32,7 +32,7 @@ O blueprint de Cyanex é pesquisado no **Energy Lab** do **Dojo do clã** (depoi
 ## 🏗️ Como Construir — Cyanex (passo a passo)
 
 1. **Consiga o blueprint** de Cyanex (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 5 Fieldron + 8.750 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]] + 250 [[recursos/raridades/incomum/hexenon.md\|Hexenon]] + 1 [[recursos/raridades/especial/forma.md\|Forma]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 5 Fieldron + 8.750 [[recursos/raridades/comum/nano_spores.md|Nano Spores]] + 250 [[recursos/raridades/incomum/hexenon.md|Hexenon]] + 1 [[recursos/raridades/especial/forma.md|Forma]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

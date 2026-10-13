@@ -32,7 +32,7 @@ O blueprint de Tatsu é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Tatsu (passo a passo)
 
 1. **Consiga o blueprint** de Tatsu (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 5.000 créditos + 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]] + 1.200 [[recursos/raridades/raro/kuva.md\|Kuva]] + 100 Auroxium Alloy + 100 [[recursos/open_worlds/orbe_vallis/hespazym_alloy.md\|Hespazym Alloy]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 5.000 créditos + 2 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]] + 1.200 [[recursos/raridades/raro/kuva.md|Kuva]] + 100 Auroxium Alloy + 100 [[recursos/open_worlds/orbe_vallis/hespazym_alloy.md|Hespazym Alloy]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

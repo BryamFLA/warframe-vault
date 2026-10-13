@@ -32,7 +32,7 @@ O blueprint de Akbolto é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Akbolto (passo a passo)
 
 1. **Consiga o blueprint** de Akbolto (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 [[armas/secundarias/bolto.md\|Bolto]] + 1 [[armas/secundarias/bolto.md\|Bolto]] + 1 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]]. Tempo: **12 h** (pular: 25 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 [[armas/secundarias/bolto.md|Bolto]] + 1 [[armas/secundarias/bolto.md|Bolto]] + 1 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]]. Tempo: **12 h** (pular: 25 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

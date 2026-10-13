@@ -32,7 +32,7 @@ O blueprint de Scourge é pesquisado no **Tenno Lab** do **Dojo do clã** (depoi
 ## 🏗️ Como Construir — Scourge (passo a passo)
 
 1. **Consiga o blueprint** de Scourge (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 2 [[recursos/raridades/raro/nitain_extract.md\|Nitain Extract]] + 2.500 [[recursos/raridades/comum/circuits.md\|Circuits]] + 350 [[recursos/raridades/incomum/oxium.md\|Oxium]] + 2.500 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 2 [[recursos/raridades/raro/nitain_extract.md|Nitain Extract]] + 2.500 [[recursos/raridades/comum/circuits.md|Circuits]] + 350 [[recursos/raridades/incomum/oxium.md|Oxium]] + 2.500 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

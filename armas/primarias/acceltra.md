@@ -39,7 +39,7 @@ Blueprint principal: drop dos **Demolisher Infested** no Dark Sector **Ur, Urano
 ## 🏗️ Como Construir — Acceltra (passo a passo)
 
 1. **Consiga o blueprint** de Acceltra (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 4 [[recursos/raridades/raro/neurodes.md\|Neurodes]] + 200 [[recursos/raridades/incomum/hexenon.md\|Hexenon]] + 925 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 8.000 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]]. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 4 [[recursos/raridades/raro/neurodes.md|Neurodes]] + 200 [[recursos/raridades/incomum/hexenon.md|Hexenon]] + 925 [[recursos/raridades/incomum/plastids.md|Plastids]] + 8.000 [[recursos/raridades/comum/nano_spores.md|Nano Spores]]. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

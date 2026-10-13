@@ -32,7 +32,7 @@ O blueprint de Hirudo é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Hirudo (passo a passo)
 
 1. **Consiga o blueprint** de Hirudo (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 1 Kogake + 3 [[recursos/raridades/raro/nitain_extract.md\|Nitain Extract]] + 1.100 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 4.600 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 1 Kogake + 3 [[recursos/raridades/raro/nitain_extract.md|Nitain Extract]] + 1.100 [[recursos/raridades/incomum/plastids.md|Plastids]] + 4.600 [[recursos/raridades/comum/nano_spores.md|Nano Spores]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

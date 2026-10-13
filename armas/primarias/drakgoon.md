@@ -32,7 +32,7 @@ O blueprint de Drakgoon é vendido no **Mercado**; também é recompensa da **Ju
 ## 🏗️ Como Construir — Drakgoon (passo a passo)
 
 1. **Consiga o blueprint** de Drakgoon (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 5 [[recursos/raridades/raro/morphics.md\|Morphics]] + 950 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 5.500 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]] + 1.100 [[recursos/raridades/comum/circuits.md\|Circuits]]. Tempo: **1 dia(s)** (pular: 40 platina).
+2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 5 [[recursos/raridades/raro/morphics.md|Morphics]] + 950 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]] + 5.500 [[recursos/raridades/comum/nano_spores.md|Nano Spores]] + 1.100 [[recursos/raridades/comum/circuits.md|Circuits]]. Tempo: **1 dia(s)** (pular: 40 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

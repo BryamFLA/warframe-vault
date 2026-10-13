@@ -30,7 +30,7 @@ Recebida **pronta** ao forjar o Archwing **Odonata** na quest **The Archwing**. 
 ## 🏗️ Como Construir — Veritux (passo a passo)
 
 1. **Consiga o blueprint** de Veritux (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 500 [[recursos/raridades/comum/rubedo.md\|Rubedo]] + 1.000 [[recursos/raridades/comum/salvage.md\|Salvage]] + 2 [[recursos/raridades/raro/neurodes.md\|Neurodes]] + 500 [[recursos/raridades/comum/circuits.md\|Circuits]]. Tempo: **1 dia(s)**.
+2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 500 [[recursos/raridades/comum/rubedo.md|Rubedo]] + 1.000 [[recursos/raridades/comum/salvage.md|Salvage]] + 2 [[recursos/raridades/raro/neurodes.md|Neurodes]] + 500 [[recursos/raridades/comum/circuits.md|Circuits]]. Tempo: **1 dia(s)**.
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

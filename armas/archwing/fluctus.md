@@ -33,7 +33,7 @@ Fluctus é uma arma de **Archwing**: o blueprint vem do Tenno Lab do Dojo, e as 
 
 1. **Consiga o blueprint** de Fluctus (seção anterior).
 2. **Consiga os componentes:** Barrel, Limbs, Stock.
-3. **Junte os recursos e forje na Foundry:** 45.000 créditos + 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]] + Barrel, Limbs, Stock. Tempo: **12 h** (pular: 50 platina).
+3. **Junte os recursos e forje na Foundry:** 45.000 créditos + 2 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]] + Barrel, Limbs, Stock. Tempo: **12 h** (pular: 50 platina).
 4. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

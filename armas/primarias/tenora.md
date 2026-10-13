@@ -32,7 +32,7 @@ O blueprint de Tenora é pesquisado no **Tenno Lab** do **Dojo do clã** (depois
 ## 🏗️ Como Construir — Tenora (passo a passo)
 
 1. **Consiga o blueprint** de Tenora (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 5 [[recursos/raridades/raro/neurodes.md\|Neurodes]] + 15.000 [[recursos/raridades/comum/salvage.md\|Salvage]] + 4.000 [[recursos/raridades/comum/rubedo.md\|Rubedo]] + 1 [[recursos/raridades/especial/forma.md\|Forma]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 5 [[recursos/raridades/raro/neurodes.md|Neurodes]] + 15.000 [[recursos/raridades/comum/salvage.md|Salvage]] + 4.000 [[recursos/raridades/comum/rubedo.md|Rubedo]] + 1 [[recursos/raridades/especial/forma.md|Forma]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

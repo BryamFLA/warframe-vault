@@ -32,7 +32,7 @@ O blueprint de Vasto é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Vasto (passo a passo)
 
 1. **Consiga o blueprint** de Vasto (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 4 [[recursos/raridades/raro/neurodes.md\|Neurodes]] + 1.200 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 700 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 1.000 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]]. Tempo: **12 h** (pular: 25 platina).
+2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 4 [[recursos/raridades/raro/neurodes.md|Neurodes]] + 1.200 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]] + 700 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 1.000 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]]. Tempo: **12 h** (pular: 25 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

@@ -37,7 +37,7 @@ Como conseguir a arma Ninkondi Prime:
 
 1. **Consiga o blueprint** de Ninkondi Prime (seção anterior).
 2. **Consiga os componentes:** Handle ×2, Chain (Relíquias do Void).
-3. **Junte os recursos e forje na Foundry:** 15.000 créditos + 15 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + Handle, Chain. Tempo: **12 h** (pular: 50 platina).
+3. **Junte os recursos e forje na Foundry:** 15.000 créditos + 15 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]] + Handle, Chain. Tempo: **12 h** (pular: 50 platina).
 4. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

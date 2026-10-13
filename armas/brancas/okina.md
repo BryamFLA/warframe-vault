@@ -32,7 +32,7 @@ O blueprint de Okina é pesquisado no **Tenno Lab** do **Dojo do clã** (depois 
 ## 🏗️ Como Construir — Okina (passo a passo)
 
 1. **Consiga o blueprint** de Okina (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2 [[recursos/raridades/raro/tellurium.md\|Tellurium]] + 4.200 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 3.400 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 1.800 [[recursos/raridades/incomum/oxium.md\|Oxium]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2 [[recursos/raridades/raro/tellurium.md|Tellurium]] + 4.200 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]] + 3.400 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 1.800 [[recursos/raridades/incomum/oxium.md|Oxium]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

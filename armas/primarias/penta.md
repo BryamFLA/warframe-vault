@@ -32,7 +32,7 @@ O blueprint de Penta é vendido no **Mercado**; também é recompensa da **Junç
 ## 🏗️ Como Construir — Penta (passo a passo)
 
 1. **Consiga o blueprint** de Penta (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 3 [[recursos/raridades/raro/control_module.md\|Control Module]] + 1.000 [[recursos/raridades/comum/circuits.md\|Circuits]] + 1.200 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 400 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]]. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 3 [[recursos/raridades/raro/control_module.md|Control Module]] + 1.000 [[recursos/raridades/comum/circuits.md|Circuits]] + 1.200 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 400 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]]. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

@@ -32,7 +32,7 @@ Como conseguir a arma Bo:
 ## 🏗️ Como Construir — Bo (passo a passo)
 
 1. **Consiga o blueprint** de Bo (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 1 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + 900 [[recursos/raridades/comum/salvage.md\|Salvage]] + 600 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 150 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]]. Tempo: **12 h** (pular: 25 platina).
+2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 1 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]] + 900 [[recursos/raridades/comum/salvage.md|Salvage]] + 600 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 150 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]]. Tempo: **12 h** (pular: 25 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

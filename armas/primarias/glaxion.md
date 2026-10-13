@@ -32,7 +32,7 @@ O blueprint de Glaxion é pesquisado no **Energy Lab** do **Dojo do clã** (depo
 ## 🏗️ Como Construir — Glaxion (passo a passo)
 
 1. **Consiga o blueprint** de Glaxion (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 Fieldron + 550 [[recursos/raridades/comum/circuits.md\|Circuits]] + 2.500 [[recursos/raridades/raro/cryotic.md\|Cryotic]] + 1 [[recursos/raridades/especial/forma.md\|Forma]]. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 Fieldron + 550 [[recursos/raridades/comum/circuits.md|Circuits]] + 2.500 [[recursos/raridades/raro/cryotic.md|Cryotic]] + 1 [[recursos/raridades/especial/forma.md|Forma]]. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

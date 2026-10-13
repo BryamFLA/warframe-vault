@@ -32,7 +32,7 @@ O blueprint de Sydon é pesquisado no **Chem Lab** do **Dojo do clã** (depois �
 ## 🏗️ Como Construir — Sydon (passo a passo)
 
 1. **Consiga o blueprint** de Sydon (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 5 Detonite Injector + 1.100 [[recursos/raridades/comum/circuits.md\|Circuits]] + 4.000 [[recursos/raridades/comum/salvage.md\|Salvage]] + 1 Amphis. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 5 Detonite Injector + 1.100 [[recursos/raridades/comum/circuits.md|Circuits]] + 4.000 [[recursos/raridades/comum/salvage.md|Salvage]] + 1 Amphis. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

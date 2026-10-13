@@ -32,7 +32,7 @@ O blueprint de Bubonico é pesquisado no **Bio Lab** do **Dojo do clã** (depois
 ## 🏗️ Como Construir — Bubonico (passo a passo)
 
 1. **Consiga o blueprint** de Bubonico (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 10 Mutagen Mass + 3 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]] + 1.200 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 22.000 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]]. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 10 Mutagen Mass + 3 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]] + 1.200 [[recursos/raridades/incomum/plastids.md|Plastids]] + 22.000 [[recursos/raridades/comum/nano_spores.md|Nano Spores]]. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

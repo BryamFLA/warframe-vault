@@ -32,7 +32,7 @@ O blueprint de Staticor é pesquisado no **Energy Lab** do **Dojo do clã** (dep
 ## 🏗️ Como Construir — Staticor (passo a passo)
 
 1. **Consiga o blueprint** de Staticor (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 10 Fieldron + 6.000 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 9.000 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 3 [[recursos/raridades/raro/nitain_extract.md\|Nitain Extract]]. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 10 Fieldron + 6.000 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]] + 9.000 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 3 [[recursos/raridades/raro/nitain_extract.md|Nitain Extract]]. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

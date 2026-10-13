@@ -32,7 +32,7 @@ O blueprint de Volnus é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Volnus (passo a passo)
 
 1. **Consiga o blueprint** de Volnus (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 225 [[recursos/raridades/incomum/oxium.md\|Oxium]] + 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]] + 11.000 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 875 [[recursos/raridades/raro/cryotic.md\|Cryotic]]. Tempo: **12 h** (pular: 45 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 225 [[recursos/raridades/incomum/oxium.md|Oxium]] + 2 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]] + 11.000 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]] + 875 [[recursos/raridades/raro/cryotic.md|Cryotic]]. Tempo: **12 h** (pular: 45 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

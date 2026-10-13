@@ -32,7 +32,7 @@ O blueprint de Redeemer é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Redeemer (passo a passo)
 
 1. **Consiga o blueprint** de Redeemer (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 [[armas/secundarias/vasto.md\|Vasto]] + 1 [[armas/brancas/dual_skana.md\|Dual Skana]] + 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 [[armas/secundarias/vasto.md|Vasto]] + 1 [[armas/brancas/dual_skana.md|Dual Skana]] + 2 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

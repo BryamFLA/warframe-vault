@@ -32,7 +32,7 @@ O blueprint de Atterax é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Atterax (passo a passo)
 
 1. **Consiga o blueprint** de Atterax (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1.500 [[recursos/raridades/comum/salvage.md\|Salvage]] + 800 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 200 [[recursos/raridades/comum/rubedo.md\|Rubedo]] + 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1.500 [[recursos/raridades/comum/salvage.md|Salvage]] + 800 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 200 [[recursos/raridades/comum/rubedo.md|Rubedo]] + 2 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

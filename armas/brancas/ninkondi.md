@@ -32,7 +32,7 @@ O blueprint de Ninkondi é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Ninkondi (passo a passo)
 
 1. **Consiga o blueprint** de Ninkondi (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 4.000 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 1.200 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 800 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 4.000 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 1.200 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 800 [[recursos/raridades/incomum/plastids.md|Plastids]] + 2 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

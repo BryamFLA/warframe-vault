@@ -32,7 +32,7 @@ O blueprint de Twin Basolk é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Twin Basolk (passo a passo)
 
 1. **Consiga o blueprint** de Twin Basolk (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 1 [[armas/brancas/dual_zoren.md\|Dual Zoren]] + 1 [[armas/secundarias/atomos.md\|Atomos]] + 2 [[recursos/raridades/raro/control_module.md\|Control Module]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 1 [[armas/brancas/dual_zoren.md|Dual Zoren]] + 1 [[armas/secundarias/atomos.md|Atomos]] + 2 [[recursos/raridades/raro/control_module.md|Control Module]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

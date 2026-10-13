@@ -30,7 +30,7 @@ Blueprint principal comprado do **Cavalero** (The Holdfasts) no Rank 1 por **5.5
 ## 🏗️ Como Construir — Innodem (passo a passo)
 
 1. **Consiga o blueprint** de Innodem (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 5 [[recursos/open_worlds/zariman/voidplume_pinion.md\|Voidplume Pinion]] + 10 [[recursos/open_worlds/zariman/voidplume_quill.md\|Voidplume Quill]] + 15 Entrati Lanthorn + 20 Thrax Plasm. Tempo: **1 dia(s)** (pular: 25 platina).
+2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 5 [[recursos/open_worlds/zariman/voidplume_pinion.md|Voidplume Pinion]] + 10 [[recursos/open_worlds/zariman/voidplume_quill.md|Voidplume Quill]] + 15 Entrati Lanthorn + 20 Thrax Plasm. Tempo: **1 dia(s)** (pular: 25 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

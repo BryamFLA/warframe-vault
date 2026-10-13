@@ -30,7 +30,7 @@ O blueprint de Pangolin Sword é comprado nas **Nightwave Offerings** por **50 N
 ## 🏗️ Como Construir — Pangolin Sword (passo a passo)
 
 1. **Consiga o blueprint** de Pangolin Sword (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 [[recursos/raridades/raro/control_module.md\|Control Module]] + 750 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 300 [[recursos/raridades/comum/circuits.md\|Circuits]] + 80 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]]. Tempo: **12 h** (pular: 25 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 [[recursos/raridades/raro/control_module.md|Control Module]] + 750 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 300 [[recursos/raridades/comum/circuits.md|Circuits]] + 80 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]]. Tempo: **12 h** (pular: 25 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

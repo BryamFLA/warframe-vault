@@ -32,7 +32,7 @@ Blueprint nas **Nightwave Offerings** por 50 Creds.
 ## 🏗️ Como Construir — Glaive (passo a passo)
 
 1. **Consiga o blueprint** de Glaive (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 10 [[recursos/raridades/raro/morphics.md\|Morphics]] + 5.000 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 6.000 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]] + 4.500 [[recursos/raridades/comum/salvage.md\|Salvage]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 10 [[recursos/raridades/raro/morphics.md|Morphics]] + 5.000 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 6.000 [[recursos/raridades/comum/nano_spores.md|Nano Spores]] + 4.500 [[recursos/raridades/comum/salvage.md|Salvage]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

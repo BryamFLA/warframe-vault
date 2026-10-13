@@ -32,7 +32,7 @@ O blueprint de Guandao é pesquisado no **Tenno Lab** do **Dojo do clã** (depoi
 ## 🏗️ Como Construir — Guandao (passo a passo)
 
 1. **Consiga o blueprint** de Guandao (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 3 [[recursos/raridades/raro/gallium.md\|Gallium]] + 65 [[recursos/raridades/incomum/oxium.md\|Oxium]] + 750 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 2.500 [[recursos/raridades/comum/ferrite.md\|Ferrite]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 3 [[recursos/raridades/raro/gallium.md|Gallium]] + 65 [[recursos/raridades/incomum/oxium.md|Oxium]] + 750 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 2.500 [[recursos/raridades/comum/ferrite.md|Ferrite]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

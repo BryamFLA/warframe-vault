@@ -30,7 +30,7 @@ Blueprint ao concluir a quest **Once Awake**. Também nas **Nightwave Offerings*
 ## 🏗️ Como Construir — Heat Sword (passo a passo)
 
 1. **Consiga o blueprint** de Heat Sword (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 [[recursos/raridades/raro/neurodes.md\|Neurodes]] + 500 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 300 [[recursos/raridades/comum/circuits.md\|Circuits]] + 300 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]]. Tempo: **12 h** (pular: 25 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 [[recursos/raridades/raro/neurodes.md|Neurodes]] + 500 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 300 [[recursos/raridades/comum/circuits.md|Circuits]] + 300 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]]. Tempo: **12 h** (pular: 25 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

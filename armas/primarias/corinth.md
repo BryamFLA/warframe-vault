@@ -32,7 +32,7 @@ O blueprint de Corinth é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Corinth (passo a passo)
 
 1. **Consiga o blueprint** de Corinth (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2 [[recursos/raridades/raro/nitain_extract.md\|Nitain Extract]] + 13.000 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 6 [[recursos/raridades/raro/gallium.md\|Gallium]] + 725 [[recursos/raridades/raro/cryotic.md\|Cryotic]]. Tempo: **12 h** (pular: 40 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2 [[recursos/raridades/raro/nitain_extract.md|Nitain Extract]] + 13.000 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]] + 6 [[recursos/raridades/raro/gallium.md|Gallium]] + 725 [[recursos/raridades/raro/cryotic.md|Cryotic]]. Tempo: **12 h** (pular: 40 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

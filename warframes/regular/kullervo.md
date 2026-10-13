@@ -33,7 +33,7 @@ Blueprints comprados da **Acrithis** (Dormizone, Duviri) com **Kullervo's Bane**
 1. **Consiga o blueprint principal** de Kullervo (seção anterior).
 2. **Consiga os blueprints dos componentes:** Neuroptics, Chassis, Systems.
 3. **Forje cada componente** na Foundry (tabela abaixo).
-4. **Forje a Warframe:** 30.000 créditos + Neuroptics, Chassis, Systems + 10 [[recursos/open_worlds/duviri/pathos_clamp.md\|Pathos Clamp]]. Tempo: **3 dia(s)** (pular: 50 platina).
+4. **Forje a Warframe:** 30.000 créditos + Neuroptics, Chassis, Systems + 10 [[recursos/open_worlds/duviri/pathos_clamp.md|Pathos Clamp]]. Tempo: **3 dia(s)** (pular: 50 platina).
 
 | Componente | Créditos | Recursos | Tempo |
 |---|---|---|---|

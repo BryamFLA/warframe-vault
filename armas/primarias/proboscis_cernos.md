@@ -32,7 +32,7 @@ O blueprint de Proboscis Cernos é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Proboscis Cernos (passo a passo)
 
 1. **Consiga o blueprint** de Proboscis Cernos (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 1 Mutalist Cernos + 1.600 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 5 [[recursos/raridades/raro/nitain_extract.md\|Nitain Extract]] + 25.000 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]]. Tempo: **12 h** (pular: 45 platina).
+2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 1 Mutalist Cernos + 1.600 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 5 [[recursos/raridades/raro/nitain_extract.md|Nitain Extract]] + 25.000 [[recursos/raridades/comum/nano_spores.md|Nano Spores]]. Tempo: **12 h** (pular: 45 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

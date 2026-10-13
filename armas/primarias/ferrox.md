@@ -32,7 +32,7 @@ O blueprint de Ferrox é pesquisado no **Energy Lab** do **Dojo do clã** (depoi
 ## 🏗️ Como Construir — Ferrox (passo a passo)
 
 1. **Consiga o blueprint** de Ferrox (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 5 Fieldron + 30.000 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 35.000 [[recursos/raridades/comum/salvage.md\|Salvage]] + 1 [[recursos/raridades/especial/forma.md\|Forma]]. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 5 Fieldron + 30.000 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]] + 35.000 [[recursos/raridades/comum/salvage.md|Salvage]] + 1 [[recursos/raridades/especial/forma.md|Forma]]. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

@@ -32,7 +32,7 @@ O blueprint de Tigris é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Tigris (passo a passo)
 
 1. **Consiga o blueprint** de Tigris (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 3 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + 900 [[recursos/raridades/comum/circuits.md\|Circuits]] + 1.200 [[recursos/raridades/comum/salvage.md\|Salvage]] + 1.200 [[recursos/raridades/comum/rubedo.md\|Rubedo]]. Tempo: **1 dia(s)** (pular: 25 platina).
+2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 3 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]] + 900 [[recursos/raridades/comum/circuits.md|Circuits]] + 1.200 [[recursos/raridades/comum/salvage.md|Salvage]] + 1.200 [[recursos/raridades/comum/rubedo.md|Rubedo]]. Tempo: **1 dia(s)** (pular: 25 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

@@ -37,7 +37,7 @@ Como conseguir a arma Volnus Prime:
 
 1. **Consiga o blueprint** de Volnus Prime (seção anterior).
 2. **Consiga os componentes:** Head, Handle (Relíquias do Void).
-3. **Junte os recursos e forje na Foundry:** 20.000 créditos + 15 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + Head, Handle. Tempo: **12 h** (pular: 45 platina).
+3. **Junte os recursos e forje na Foundry:** 20.000 créditos + 15 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]] + Head, Handle. Tempo: **12 h** (pular: 45 platina).
 4. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

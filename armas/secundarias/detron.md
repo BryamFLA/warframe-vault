@@ -37,7 +37,7 @@ Blueprint e componentes: drop do **Zanuka Hunter** (pode ser invocado com o Zanu
 
 1. **Consiga o blueprint** de Detron (seção anterior).
 2. **Consiga os componentes:** Barrel, Receiver.
-3. **Junte os recursos e forje na Foundry:** 15.000 créditos + 10 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + Barrel, Receiver. Tempo: **12 h** (pular: 50 platina).
+3. **Junte os recursos e forje na Foundry:** 15.000 créditos + 10 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]] + Barrel, Receiver. Tempo: **12 h** (pular: 50 platina).
 4. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

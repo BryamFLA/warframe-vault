@@ -33,7 +33,7 @@ Blueprints comprados do **Father** (Necralisk, Deimos) com Standing **Entrati**:
 1. **Consiga o blueprint principal** de Lavos (seção anterior).
 2. **Consiga os blueprints dos componentes:** Neuroptics, Chassis, Systems.
 3. **Forje cada componente** na Foundry (tabela abaixo).
-4. **Forje a Warframe:** 25.000 créditos + Neuroptics, Chassis, Systems + 3 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]]. Tempo: **3 dia(s)** (pular: 50 platina).
+4. **Forje a Warframe:** 25.000 créditos + Neuroptics, Chassis, Systems + 3 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]]. Tempo: **3 dia(s)** (pular: 50 platina).
 
 | Componente | Créditos | Recursos | Tempo |
 |---|---|---|---|

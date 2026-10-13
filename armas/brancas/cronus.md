@@ -36,7 +36,7 @@ Blueprint principal: drop do boss **Captain Vor** em **Tolstoj, Mercúrio**.
 ## 🏗️ Como Construir — Cronus (passo a passo)
 
 1. **Consiga o blueprint** de Cronus (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 1 [[recursos/raridades/raro/morphics.md\|Morphics]] + 500 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 75 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]]. Tempo: **12 h** (pular: 25 platina).
+2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 1 [[recursos/raridades/raro/morphics.md|Morphics]] + 500 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 75 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]]. Tempo: **12 h** (pular: 25 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

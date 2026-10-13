@@ -30,7 +30,7 @@ Blueprint principal comprado do **Cavalero** (The Holdfasts) no Rank 4 por **9.0
 ## 🏗️ Como Construir — Praedos (passo a passo)
 
 1. **Consiga o blueprint** de Praedos (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 15 [[recursos/open_worlds/zariman/voidplume_pinion.md\|Voidplume Pinion]] + 30 [[recursos/open_worlds/zariman/voidplume_quill.md\|Voidplume Quill]] + 8.000 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 100 Thrax Plasm. Tempo: **1 dia(s)** (pular: 25 platina).
+2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 15 [[recursos/open_worlds/zariman/voidplume_pinion.md|Voidplume Pinion]] + 30 [[recursos/open_worlds/zariman/voidplume_quill.md|Voidplume Quill]] + 8.000 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 100 Thrax Plasm. Tempo: **1 dia(s)** (pular: 25 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

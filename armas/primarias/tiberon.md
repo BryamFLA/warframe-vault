@@ -32,7 +32,7 @@ O blueprint de Tiberon é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Tiberon (passo a passo)
 
 1. **Consiga o blueprint** de Tiberon (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 [[armas/primarias/latron.md\|Latron]] + 650 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 600 [[recursos/raridades/comum/rubedo.md\|Rubedo]] + 1 [[recursos/raridades/especial/forma.md\|Forma]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 [[armas/primarias/latron.md|Latron]] + 650 [[recursos/raridades/incomum/plastids.md|Plastids]] + 600 [[recursos/raridades/comum/rubedo.md|Rubedo]] + 1 [[recursos/raridades/especial/forma.md|Forma]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

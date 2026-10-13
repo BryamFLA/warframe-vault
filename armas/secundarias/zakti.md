@@ -32,7 +32,7 @@ O blueprint de Zakti é pesquisado no **Tenno Lab** do **Dojo do clã** (depois 
 ## 🏗️ Como Construir — Zakti (passo a passo)
 
 1. **Consiga o blueprint** de Zakti (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 8 [[recursos/raridades/raro/control_module.md\|Control Module]] + 350 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 6.500 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 5.000 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 8 [[recursos/raridades/raro/control_module.md|Control Module]] + 350 [[recursos/raridades/incomum/plastids.md|Plastids]] + 6.500 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]] + 5.000 [[recursos/raridades/comum/nano_spores.md|Nano Spores]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

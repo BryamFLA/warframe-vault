@@ -32,7 +32,7 @@ O blueprint de Kulstar é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Kulstar (passo a passo)
 
 1. **Consiga o blueprint** de Kulstar (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 1 Kraken + 2 [[recursos/raridades/raro/tellurium.md\|Tellurium]] + 4.800 [[recursos/raridades/raro/cryotic.md\|Cryotic]] + 3.600 [[recursos/raridades/incomum/plastids.md\|Plastids]]. Tempo: **1 dia(s)**.
+2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 1 Kraken + 2 [[recursos/raridades/raro/tellurium.md|Tellurium]] + 4.800 [[recursos/raridades/raro/cryotic.md|Cryotic]] + 3.600 [[recursos/raridades/incomum/plastids.md|Plastids]]. Tempo: **1 dia(s)**.
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

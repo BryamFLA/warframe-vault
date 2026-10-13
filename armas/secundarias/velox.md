@@ -38,7 +38,7 @@ Peças no **Granum Void**: Barrel na rotação C do normal, Receiver na rotaçã
 
 1. **Consiga o blueprint** de Velox (seção anterior).
 2. **Consiga os componentes:** Barrel, Receiver.
-3. **Junte os recursos e forje na Foundry:** 20.000 créditos + 3 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + Barrel, Receiver. Tempo: **12 h** (pular: 35 platina).
+3. **Junte os recursos e forje na Foundry:** 20.000 créditos + 3 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]] + Barrel, Receiver. Tempo: **12 h** (pular: 35 platina).
 4. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

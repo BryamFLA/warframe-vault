@@ -32,7 +32,7 @@ O blueprint de Dual Cleavers é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Dual Cleavers (passo a passo)
 
 1. **Consiga o blueprint** de Dual Cleavers (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 5 [[recursos/raridades/raro/gallium.md\|Gallium]] + 1.000 [[recursos/raridades/comum/salvage.md\|Salvage]] + 800 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 1.200 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]]. Tempo: **12 h** (pular: 40 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 5 [[recursos/raridades/raro/gallium.md|Gallium]] + 1.000 [[recursos/raridades/comum/salvage.md|Salvage]] + 800 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 1.200 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]]. Tempo: **12 h** (pular: 40 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

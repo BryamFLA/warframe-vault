@@ -33,7 +33,7 @@ Blueprint e componentes comprados do **Father** (Entrati, Deimos): principal no 
 
 1. **Consiga o blueprint** de Cedo (seção anterior).
 2. **Consiga os componentes:** Barrel, Stock, Receiver.
-3. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 [[recursos/raridades/especial/forma.md\|Forma]] + Barrel, Stock, Receiver. Tempo: **12 h** (pular: 35 platina).
+3. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 [[recursos/raridades/especial/forma.md|Forma]] + Barrel, Stock, Receiver. Tempo: **12 h** (pular: 35 platina).
 4. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

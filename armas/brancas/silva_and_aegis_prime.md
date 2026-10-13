@@ -38,7 +38,7 @@ Como conseguir a arma Silva & Aegis Prime:
 
 1. **Consiga o blueprint** de Silva & Aegis Prime (seção anterior).
 2. **Consiga os componentes:** Blade, Guard, Hilt (Relíquias do Void).
-3. **Junte os recursos e forje na Foundry:** 20.000 créditos + 10 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + Blade, Guard, Hilt. Tempo: **12 h** (pular: 50 platina).
+3. **Junte os recursos e forje na Foundry:** 20.000 créditos + 10 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]] + Blade, Guard, Hilt. Tempo: **12 h** (pular: 50 platina).
 4. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

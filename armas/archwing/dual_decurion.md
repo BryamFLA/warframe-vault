@@ -33,7 +33,7 @@ Dual Decurion é uma arma de **Archwing**: o blueprint vem do Mercado, e as peç
 
 1. **Consiga o blueprint** de Dual Decurion (seção anterior).
 2. **Consiga os componentes:** Barrel ×2, Receiver ×2.
-3. **Junte os recursos e forje na Foundry:** 45.000 créditos + 2 [[recursos/raridades/raro/control_module.md\|Control Module]] + Barrel, Receiver. Tempo: **12 h** (pular: 50 platina).
+3. **Junte os recursos e forje na Foundry:** 45.000 créditos + 2 [[recursos/raridades/raro/control_module.md|Control Module]] + Barrel, Receiver. Tempo: **12 h** (pular: 50 platina).
 4. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

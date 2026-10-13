@@ -32,7 +32,7 @@ O blueprint de Fulmin é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Fulmin (passo a passo)
 
 1. **Consiga o blueprint** de Fulmin (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 2.100 [[recursos/raridades/comum/rubedo.md\|Rubedo]] + 7.500 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]] + 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]] + 350 [[recursos/raridades/incomum/hexenon.md\|Hexenon]]. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 2.100 [[recursos/raridades/comum/rubedo.md|Rubedo]] + 7.500 [[recursos/raridades/comum/nano_spores.md|Nano Spores]] + 2 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]] + 350 [[recursos/raridades/incomum/hexenon.md|Hexenon]]. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

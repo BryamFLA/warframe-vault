@@ -32,7 +32,7 @@ O blueprint de Shaku é pesquisado no **Tenno Lab** do **Dojo do clã** (depois 
 ## 🏗️ Como Construir — Shaku (passo a passo)
 
 1. **Consiga o blueprint** de Shaku (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 [[armas/brancas/ninkondi.md\|Ninkondi]] + 1 [[recursos/raridades/especial/forma.md\|Forma]] + 1.100 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 10 [[recursos/raridades/raro/morphics.md\|Morphics]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 [[armas/brancas/ninkondi.md|Ninkondi]] + 1 [[recursos/raridades/especial/forma.md|Forma]] + 1.100 [[recursos/raridades/incomum/plastids.md|Plastids]] + 10 [[recursos/raridades/raro/morphics.md|Morphics]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

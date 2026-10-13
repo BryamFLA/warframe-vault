@@ -32,7 +32,7 @@ O blueprint de Larkspur é pesquisado no **Tenno Lab** do **Dojo do clã** (depo
 ## 🏗️ Como Construir — Larkspur (passo a passo)
 
 1. **Consiga o blueprint** de Larkspur (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2 [[recursos/open_worlds/orbe_vallis/crisma_toroid.md\|Crisma Toroid]] + 80 [[recursos/open_worlds/orbe_vallis/venerdo.md\|Venerdo Alloy]] + 5 Radiant Zodian + 5 [[recursos/open_worlds/orbe_vallis/synathid_casing.md\|Synathid Ecosynth Analyzer]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2 [[recursos/open_worlds/orbe_vallis/crisma_toroid.md|Crisma Toroid]] + 80 [[recursos/open_worlds/orbe_vallis/venerdo.md|Venerdo Alloy]] + 5 Radiant Zodian + 5 [[recursos/open_worlds/orbe_vallis/synathid_casing.md|Synathid Ecosynth Analyzer]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

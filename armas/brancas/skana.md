@@ -32,7 +32,7 @@ Como conseguir a arma Skana:
 ## 🏗️ Como Construir — Skana (passo a passo)
 
 1. **Consiga o blueprint** de Skana (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 750 [[recursos/raridades/comum/salvage.md\|Salvage]] + 500 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 1.100 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 3 [[recursos/raridades/raro/morphics.md\|Morphics]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 750 [[recursos/raridades/comum/salvage.md|Salvage]] + 500 [[recursos/raridades/incomum/plastids.md|Plastids]] + 1.100 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]] + 3 [[recursos/raridades/raro/morphics.md|Morphics]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

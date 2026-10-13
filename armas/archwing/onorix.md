@@ -33,7 +33,7 @@ Onorix é uma arma de **Archwing**: o blueprint vem do Mercado, e as peças são
 
 1. **Consiga o blueprint** de Onorix (seção anterior).
 2. **Consiga os componentes:** Blade ×2, Handle.
-3. **Junte os recursos e forje na Foundry:** 25.000 créditos + 3 [[recursos/raridades/raro/neurodes.md\|Neurodes]] + Blade, Handle. Tempo: **12 h** (pular: 50 platina).
+3. **Junte os recursos e forje na Foundry:** 25.000 créditos + 3 [[recursos/raridades/raro/neurodes.md|Neurodes]] + Blade, Handle. Tempo: **12 h** (pular: 50 platina).
 4. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

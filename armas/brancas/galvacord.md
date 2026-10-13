@@ -32,7 +32,7 @@ O blueprint de Galvacord é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Galvacord (passo a passo)
 
 1. **Consiga o blueprint** de Galvacord (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]] + 5 [[recursos/open_worlds/orbe_vallis/atmo_systems.md\|Atmo Systems]] + 3.600 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 1.000 [[recursos/raridades/comum/circuits.md\|Circuits]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]] + 5 [[recursos/open_worlds/orbe_vallis/atmo_systems.md|Atmo Systems]] + 3.600 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 1.000 [[recursos/raridades/comum/circuits.md|Circuits]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

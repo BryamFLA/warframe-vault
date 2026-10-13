@@ -32,7 +32,7 @@ O blueprint de Mios é pesquisado no **Bio Lab** do **Dojo do clã** (depois é 
 ## 🏗️ Como Construir — Mios (passo a passo)
 
 1. **Consiga o blueprint** de Mios (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 4 Mutagen Mass + 15.000 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]] + 1.200 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 1 [[recursos/raridades/especial/forma.md\|Forma]]. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 4 Mutagen Mass + 15.000 [[recursos/raridades/comum/nano_spores.md|Nano Spores]] + 1.200 [[recursos/raridades/incomum/plastids.md|Plastids]] + 1 [[recursos/raridades/especial/forma.md|Forma]]. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

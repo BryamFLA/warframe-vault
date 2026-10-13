@@ -36,7 +36,7 @@ O blueprint de Fang é vendido no **Mercado**; também é recompensa da **Junç�
 ## 🏗️ Como Construir — Fang (passo a passo)
 
 1. **Consiga o blueprint** de Fang (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 600 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 600 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 900 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]] + 1 [[recursos/raridades/raro/morphics.md\|Morphics]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 600 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 600 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 900 [[recursos/raridades/comum/nano_spores.md|Nano Spores]] + 1 [[recursos/raridades/raro/morphics.md|Morphics]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

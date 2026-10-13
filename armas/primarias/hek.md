@@ -32,7 +32,7 @@ O blueprint de Hek é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Hek (passo a passo)
 
 1. **Consiga o blueprint** de Hek (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 5 [[recursos/raridades/raro/neurodes.md\|Neurodes]] + 900 [[recursos/raridades/comum/circuits.md\|Circuits]] + 1.200 [[recursos/raridades/comum/salvage.md\|Salvage]] + 1.000 [[recursos/raridades/comum/rubedo.md\|Rubedo]]. Tempo: **1 dia(s)** (pular: 25 platina).
+2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 5 [[recursos/raridades/raro/neurodes.md|Neurodes]] + 900 [[recursos/raridades/comum/circuits.md|Circuits]] + 1.200 [[recursos/raridades/comum/salvage.md|Salvage]] + 1.000 [[recursos/raridades/comum/rubedo.md|Rubedo]]. Tempo: **1 dia(s)** (pular: 25 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

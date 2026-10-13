@@ -36,7 +36,7 @@ O blueprint de Hind é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Hind (passo a passo)
 
 1. **Consiga o blueprint** de Hind (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 6 [[recursos/raridades/raro/neurodes.md\|Neurodes]] + 700 [[recursos/raridades/comum/circuits.md\|Circuits]] + 1.000 [[recursos/raridades/comum/salvage.md\|Salvage]] + 1.200 [[recursos/raridades/comum/rubedo.md\|Rubedo]]. Tempo: **1 dia(s)** (pular: 25 platina).
+2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 6 [[recursos/raridades/raro/neurodes.md|Neurodes]] + 700 [[recursos/raridades/comum/circuits.md|Circuits]] + 1.000 [[recursos/raridades/comum/salvage.md|Salvage]] + 1.200 [[recursos/raridades/comum/rubedo.md|Rubedo]]. Tempo: **1 dia(s)** (pular: 25 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

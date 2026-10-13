@@ -38,7 +38,7 @@ Como conseguir a arma Corinth Prime:
 
 1. **Consiga o blueprint** de Corinth Prime (seção anterior).
 2. **Consiga os componentes:** Receiver, Barrel, Stock (Relíquias do Void).
-3. **Junte os recursos e forje na Foundry:** 15.000 créditos + 10 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + Receiver, Barrel, Stock. Tempo: **12 h** (pular: 50 platina).
+3. **Junte os recursos e forje na Foundry:** 15.000 créditos + 10 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]] + Receiver, Barrel, Stock. Tempo: **12 h** (pular: 50 platina).
 4. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

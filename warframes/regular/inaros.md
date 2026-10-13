@@ -33,7 +33,7 @@ Blueprints da quest **Sands of Inaros** (o blueprint da quest é negociável ou 
 1. **Consiga o blueprint principal** de Inaros (seção anterior).
 2. **Consiga os blueprints dos componentes:** Neuroptics, Chassis, Systems.
 3. **Forje cada componente** na Foundry (tabela abaixo).
-4. **Forje a Warframe:** 25.000 créditos + Neuroptics, Chassis, Systems + 1 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]]. Tempo: **3 dia(s)** (pular: 50 platina).
+4. **Forje a Warframe:** 25.000 créditos + Neuroptics, Chassis, Systems + 1 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]]. Tempo: **3 dia(s)** (pular: 50 platina).
 
 | Componente | Créditos | Recursos | Tempo |
 |---|---|---|---|

@@ -32,7 +32,7 @@ O blueprint de Battacor é pesquisado no **Energy Lab** do **Dojo do clã** (dep
 ## 🏗️ Como Construir — Battacor (passo a passo)
 
 1. **Consiga o blueprint** de Battacor (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 10 Fieldron + 40 Tepa Nodule + 25 Heart Noctrul + 20 [[recursos/open_worlds/orbe_vallis/tromyzon_fragment.md\|Tromyzon Entroplasma]]. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 10 Fieldron + 40 Tepa Nodule + 25 Heart Noctrul + 20 [[recursos/open_worlds/orbe_vallis/tromyzon_fragment.md|Tromyzon Entroplasma]]. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

@@ -31,7 +31,7 @@ Equinox exige forjar dois **Aspects** (Night e Day), cada um com seus Neuroptics
 1. **Consiga o blueprint principal** de Equinox (seção anterior).
 2. **Consiga os blueprints dos componentes:** Equinox Night Aspect, Equinox Day Aspect.
 3. **Forje cada componente** na Foundry (tabela abaixo).
-4. **Forje a Warframe:** 25.000 créditos + Equinox Night Aspect, Equinox Day Aspect + 1 [[recursos/raridades/especial/forma.md\|Forma]]. Tempo: **3 dia(s)** (pular: 50 platina).
+4. **Forje a Warframe:** 25.000 créditos + Equinox Night Aspect, Equinox Day Aspect + 1 [[recursos/raridades/especial/forma.md|Forma]]. Tempo: **3 dia(s)** (pular: 50 platina).
 
 | Componente | Créditos | Recursos | Tempo |
 |---|---|---|---|

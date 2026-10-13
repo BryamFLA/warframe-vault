@@ -32,7 +32,7 @@ O blueprint de Atomos é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Atomos (passo a passo)
 
 1. **Consiga o blueprint** de Atomos (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 60.000 créditos + 1.500 [[recursos/raridades/comum/salvage.md\|Salvage]] + 1.300 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 800 [[recursos/raridades/comum/rubedo.md\|Rubedo]] + 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]]. Tempo: **1 dia(s)** (pular: 45 platina).
+2. **Junte os recursos e forje na Foundry:** 60.000 créditos + 1.500 [[recursos/raridades/comum/salvage.md|Salvage]] + 1.300 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 800 [[recursos/raridades/comum/rubedo.md|Rubedo]] + 2 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]]. Tempo: **1 dia(s)** (pular: 45 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

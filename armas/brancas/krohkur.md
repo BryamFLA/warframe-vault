@@ -32,7 +32,7 @@ O blueprint de Krohkur é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Krohkur (passo a passo)
 
 1. **Consiga o blueprint** de Krohkur (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 5 [[recursos/raridades/raro/tellurium.md\|Tellurium]] + 8 [[recursos/raridades/raro/morphics.md\|Morphics]] + 125 [[recursos/raridades/incomum/oxium.md\|Oxium]] + 4.375 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]]. Tempo: **1 dia(s)** (pular: 45 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 5 [[recursos/raridades/raro/tellurium.md|Tellurium]] + 8 [[recursos/raridades/raro/morphics.md|Morphics]] + 125 [[recursos/raridades/incomum/oxium.md|Oxium]] + 4.375 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]]. Tempo: **1 dia(s)** (pular: 45 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

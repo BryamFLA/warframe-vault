@@ -32,7 +32,7 @@ O blueprint de Lesion é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Lesion (passo a passo)
 
 1. **Consiga o blueprint** de Lesion (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 1 [[armas/brancas/tipedo.md\|Tipedo]] + 1.400 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 4 [[recursos/raridades/raro/neurodes.md\|Neurodes]] + 2.300 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 1 [[armas/brancas/tipedo.md|Tipedo]] + 1.400 [[recursos/raridades/incomum/plastids.md|Plastids]] + 4 [[recursos/raridades/raro/neurodes.md|Neurodes]] + 2.300 [[recursos/raridades/comum/nano_spores.md|Nano Spores]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

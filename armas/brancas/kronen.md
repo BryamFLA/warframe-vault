@@ -32,7 +32,7 @@ O blueprint de Kronen é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Kronen (passo a passo)
 
 1. **Consiga o blueprint** de Kronen (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1.500 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 2.000 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]] + 1.000 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1.500 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 2.000 [[recursos/raridades/comum/nano_spores.md|Nano Spores]] + 1.000 [[recursos/raridades/incomum/plastids.md|Plastids]] + 2 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

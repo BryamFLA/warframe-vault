@@ -30,7 +30,7 @@ Primeira cópia pelo **Daily Tribute** (login diário). Depois, blueprint no Cep
 ## 🏗️ Como Construir — Machete (passo a passo)
 
 1. **Consiga o blueprint** de Machete (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 4 [[recursos/raridades/raro/gallium.md\|Gallium]] + 750 [[recursos/raridades/comum/salvage.md\|Salvage]] + 800 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 900 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]]. Tempo: **12 h** (pular: 40 platina).
+2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 4 [[recursos/raridades/raro/gallium.md|Gallium]] + 750 [[recursos/raridades/comum/salvage.md|Salvage]] + 800 [[recursos/raridades/incomum/plastids.md|Plastids]] + 900 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]]. Tempo: **12 h** (pular: 40 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

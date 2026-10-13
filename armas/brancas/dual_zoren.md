@@ -36,7 +36,7 @@ O blueprint de Dual Zoren é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Dual Zoren (passo a passo)
 
 1. **Consiga o blueprint** de Dual Zoren (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 4 [[recursos/raridades/raro/morphics.md\|Morphics]] + 900 [[recursos/raridades/comum/salvage.md\|Salvage]] + 1.100 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 800 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 4 [[recursos/raridades/raro/morphics.md|Morphics]] + 900 [[recursos/raridades/comum/salvage.md|Salvage]] + 1.100 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 800 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

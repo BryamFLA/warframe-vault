@@ -31,7 +31,7 @@ O blueprint do Excalibur Umbra é dado na **1ª missão da quest The Sacrifice**
 
 1. **Consiga o blueprint principal** de Excalibur Umbra (seção anterior).
 3. **Forje cada componente** na Foundry (tabela abaixo).
-4. **Forje a Warframe:** 10.000 créditos +  + 1 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + 60 [[recursos/raridades/raro/kuva.md\|Kuva]] + 1.200 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]] + 1.600 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]]. Tempo: **0,00277778 h**.
+4. **Forje a Warframe:** 10.000 créditos +  + 1 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]] + 60 [[recursos/raridades/raro/kuva.md|Kuva]] + 1.200 [[recursos/raridades/comum/nano_spores.md|Nano Spores]] + 1.600 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]]. Tempo: **0,00277778 h**.
 
 | Componente | Créditos | Recursos | Tempo |
 |---|---|---|---|

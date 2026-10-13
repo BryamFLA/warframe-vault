@@ -32,7 +32,7 @@ O blueprint de Tipedo é vendido no **Mercado** por **20,000 créditos**.
 ## 🏗️ Como Construir — Tipedo (passo a passo)
 
 1. **Consiga o blueprint** de Tipedo (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2 [[recursos/raridades/raro/neural_sensors.md\|Neural Sensors]] + 1.600 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 1 Kunai + 1 [[armas/brancas/bo.md\|Bo]]. Tempo: **12 h** (pular: 30 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2 [[recursos/raridades/raro/neural_sensors.md|Neural Sensors]] + 1.600 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 1 Kunai + 1 [[armas/brancas/bo.md|Bo]]. Tempo: **12 h** (pular: 30 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

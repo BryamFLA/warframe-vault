@@ -37,7 +37,7 @@ Como conseguir a arma Guandao Prime:
 
 1. **Consiga o blueprint** de Guandao Prime (seção anterior).
 2. **Consiga os componentes:** Blade ×2, Handle (Relíquias do Void).
-3. **Junte os recursos e forje na Foundry:** 5.000 créditos + 15 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + Blade, Handle. Tempo: **12 h** (pular: 35 platina).
+3. **Junte os recursos e forje na Foundry:** 5.000 créditos + 15 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]] + Blade, Handle. Tempo: **12 h** (pular: 35 platina).
 4. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

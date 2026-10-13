@@ -37,7 +37,7 @@ Blueprint dropado por **Heavy Gunners**, Arid Heavy Gunners, Grineer Wardens e G
 ## 🏗️ Como Construir — Gorgon (passo a passo)
 
 1. **Consiga o blueprint** de Gorgon (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 5 [[recursos/raridades/raro/morphics.md\|Morphics]] + 5.000 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 6.000 [[recursos/raridades/comum/salvage.md\|Salvage]] + 1.000 [[recursos/raridades/comum/circuits.md\|Circuits]]. Tempo: **12 h** (pular: 50 platina).
+2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 5 [[recursos/raridades/raro/morphics.md|Morphics]] + 5.000 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 6.000 [[recursos/raridades/comum/salvage.md|Salvage]] + 1.000 [[recursos/raridades/comum/circuits.md|Circuits]]. Tempo: **12 h** (pular: 50 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

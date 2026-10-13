@@ -32,7 +32,7 @@ O blueprint de Dual Ichor é pesquisado no **Bio Lab** do **Dojo do clã** (depo
 ## 🏗️ Como Construir — Dual Ichor (passo a passo)
 
 1. **Consiga o blueprint** de Dual Ichor (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 4 Mutagen Mass + 1.200 [[recursos/raridades/comum/circuits.md\|Circuits]] + 15.000 [[recursos/raridades/comum/salvage.md\|Salvage]] + 1 [[recursos/raridades/especial/forma.md\|Forma]]. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 4 Mutagen Mass + 1.200 [[recursos/raridades/comum/circuits.md|Circuits]] + 15.000 [[recursos/raridades/comum/salvage.md|Salvage]] + 1 [[recursos/raridades/especial/forma.md|Forma]]. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

@@ -32,7 +32,7 @@ O blueprint de Grattler é pesquisado no **Chem Lab** do **Dojo do clã** (depoi
 ## 🏗️ Como Construir — Grattler (passo a passo)
 
 1. **Consiga o blueprint** de Grattler (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 65.000 créditos + 5 [[recursos/raridades/raro/tellurium.md\|Tellurium]] + 6.000 [[recursos/raridades/comum/salvage.md\|Salvage]] + 3.500 [[recursos/raridades/incomum/oxium.md\|Oxium]] + 1 [[recursos/raridades/especial/forma.md\|Forma]]. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 65.000 créditos + 5 [[recursos/raridades/raro/tellurium.md|Tellurium]] + 6.000 [[recursos/raridades/comum/salvage.md|Salvage]] + 3.500 [[recursos/raridades/incomum/oxium.md|Oxium]] + 1 [[recursos/raridades/especial/forma.md|Forma]]. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

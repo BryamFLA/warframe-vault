@@ -38,7 +38,7 @@ Blueprint como recompensa das bounties especiais **Ghoul Purge** (Cetus) ou drop
 ## 🏗️ Como Construir — Stubba (passo a passo)
 
 1. **Consiga o blueprint** de Stubba (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 45 [[recursos/open_worlds/eidolon/grokdrul.md\|Grokdrul]] + 25 [[recursos/open_worlds/eidolon/coprite.md\|Coprite Alloy]] + 4.485 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 2 [[recursos/raridades/raro/neurodes.md\|Neurodes]]. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 45 [[recursos/open_worlds/eidolon/grokdrul.md|Grokdrul]] + 25 [[recursos/open_worlds/eidolon/coprite.md|Coprite Alloy]] + 4.485 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 2 [[recursos/raridades/raro/neurodes.md|Neurodes]]. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

@@ -32,7 +32,7 @@ O blueprint de Rubico é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Rubico (passo a passo)
 
 1. **Consiga o blueprint** de Rubico (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 3.800 [[recursos/raridades/comum/salvage.md\|Salvage]] + 1.300 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 900 [[recursos/raridades/comum/rubedo.md\|Rubedo]] + 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 3.800 [[recursos/raridades/comum/salvage.md|Salvage]] + 1.300 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 900 [[recursos/raridades/comum/rubedo.md|Rubedo]] + 2 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

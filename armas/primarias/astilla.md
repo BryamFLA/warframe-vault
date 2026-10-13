@@ -32,7 +32,7 @@ O blueprint de Astilla é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Astilla (passo a passo)
 
 1. **Consiga o blueprint** de Astilla (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 4 [[recursos/raridades/raro/tellurium.md\|Tellurium]] + 875 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 175 [[recursos/raridades/incomum/oxium.md\|Oxium]] + 7.500 [[recursos/raridades/comum/ferrite.md\|Ferrite]]. Tempo: **12 h** (pular: 45 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 4 [[recursos/raridades/raro/tellurium.md|Tellurium]] + 875 [[recursos/raridades/incomum/plastids.md|Plastids]] + 175 [[recursos/raridades/incomum/oxium.md|Oxium]] + 7.500 [[recursos/raridades/comum/ferrite.md|Ferrite]]. Tempo: **12 h** (pular: 45 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

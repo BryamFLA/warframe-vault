@@ -30,7 +30,7 @@ O blueprint de Dark Sword é comprado nas **Nightwave Offerings** por **50 Night
 ## 🏗️ Como Construir — Dark Sword (passo a passo)
 
 1. **Consiga o blueprint** de Dark Sword (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2 [[recursos/raridades/raro/neurodes.md\|Neurodes]] + 800 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 200 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 75 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]]. Tempo: **12 h** (pular: 25 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2 [[recursos/raridades/raro/neurodes.md|Neurodes]] + 800 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 200 [[recursos/raridades/incomum/plastids.md|Plastids]] + 75 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]]. Tempo: **12 h** (pular: 25 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

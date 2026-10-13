@@ -32,7 +32,7 @@ O blueprint de Jat Kittag é pesquisado no **Chem Lab** do **Dojo do clã** (dep
 ## 🏗️ Como Construir — Jat Kittag (passo a passo)
 
 1. **Consiga o blueprint** de Jat Kittag (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 5 Detonite Injector + 5.000 [[recursos/raridades/comum/salvage.md\|Salvage]] + 600 [[recursos/raridades/comum/rubedo.md\|Rubedo]] + 1 [[recursos/raridades/especial/forma.md\|Forma]]. Tempo: **1 dia(s)** (pular: 30 platina).
+2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 5 Detonite Injector + 5.000 [[recursos/raridades/comum/salvage.md|Salvage]] + 600 [[recursos/raridades/comum/rubedo.md|Rubedo]] + 1 [[recursos/raridades/especial/forma.md|Forma]]. Tempo: **1 dia(s)** (pular: 30 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

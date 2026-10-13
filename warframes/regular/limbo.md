@@ -33,7 +33,7 @@ Blueprint principal no **Mercado**. Componentes da quest **The Limbo Theorem** (
 1. **Consiga o blueprint principal** de Limbo (seção anterior).
 2. **Consiga os blueprints dos componentes:** Neuroptics, Chassis, Systems.
 3. **Forje cada componente** na Foundry (tabela abaixo).
-4. **Forje a Warframe:** 25.000 créditos + Neuroptics, Chassis, Systems + 3 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]]. Tempo: **0,0166667 h** (pular: 50 platina).
+4. **Forje a Warframe:** 25.000 créditos + Neuroptics, Chassis, Systems + 3 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]]. Tempo: **0,0166667 h** (pular: 50 platina).
 
 | Componente | Créditos | Recursos | Tempo |
 |---|---|---|---|

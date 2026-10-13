@@ -30,7 +30,7 @@ O blueprint de Jaw Sword é comprado nas **Nightwave Offerings** por **50 Nightw
 ## 🏗️ Como Construir — Jaw Sword (passo a passo)
 
 1. **Consiga o blueprint** de Jaw Sword (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 500 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 1 [[recursos/raridades/raro/morphics.md\|Morphics]] + 75 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 300 [[recursos/raridades/comum/rubedo.md\|Rubedo]]. Tempo: **12 h** (pular: 25 platina).
+2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 500 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 1 [[recursos/raridades/raro/morphics.md|Morphics]] + 75 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 300 [[recursos/raridades/comum/rubedo.md|Rubedo]]. Tempo: **12 h** (pular: 25 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

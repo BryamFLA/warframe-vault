@@ -37,7 +37,7 @@ Como conseguir a arma Okina Prime:
 
 1. **Consiga o blueprint** de Okina Prime (seção anterior).
 2. **Consiga os componentes:** Handle ×2, Blade ×2 (Relíquias do Void).
-3. **Junte os recursos e forje na Foundry:** 15.000 créditos + 15 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + Handle, Blade. Tempo: **12 h** (pular: 10 platina).
+3. **Junte os recursos e forje na Foundry:** 15.000 créditos + 15 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]] + Handle, Blade. Tempo: **12 h** (pular: 10 platina).
 4. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

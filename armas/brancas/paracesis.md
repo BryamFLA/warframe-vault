@@ -30,7 +30,7 @@ Blueprint dado ao concluir a quest **Chimera Prologue**.
 ## 🏗️ Como Construir — Paracesis (passo a passo)
 
 1. **Consiga o blueprint** de Paracesis (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 1.000 [[recursos/raridades/especial/orokin_ducats.md\|Orokin Ducats]] + 1 [[armas/brancas/galatine.md\|Galatine]] + 5 [[recursos/open_worlds/eidolon/eidolon_shard.md\|Eidolon Shard]] + 15 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]]. Tempo: **12 h** (pular: 30 platina).
+2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 1.000 [[recursos/raridades/especial/orokin_ducats.md|Orokin Ducats]] + 1 [[armas/brancas/galatine.md|Galatine]] + 5 [[recursos/open_worlds/eidolon/eidolon_shard.md|Eidolon Shard]] + 15 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]]. Tempo: **12 h** (pular: 30 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

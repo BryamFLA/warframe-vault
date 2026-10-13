@@ -32,7 +32,7 @@ O blueprint de Kesheg é pesquisado no **Chem Lab** do **Dojo do clã** (depois 
 ## 🏗️ Como Construir — Kesheg (passo a passo)
 
 1. **Consiga o blueprint** de Kesheg (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 5 Detonite Injector + 1.400 [[recursos/raridades/raro/kuva.md\|Kuva]] + 6.000 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 8.000 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]]. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 5 Detonite Injector + 1.400 [[recursos/raridades/raro/kuva.md|Kuva]] + 6.000 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 8.000 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]]. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

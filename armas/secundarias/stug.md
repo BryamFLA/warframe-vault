@@ -36,7 +36,7 @@ O blueprint de Stug é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Stug (passo a passo)
 
 1. **Consiga o blueprint** de Stug (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 3 [[recursos/raridades/raro/neurodes.md\|Neurodes]] + 4 [[recursos/raridades/raro/gallium.md\|Gallium]] + 3.000 [[recursos/raridades/comum/salvage.md\|Salvage]] + 1.200 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]]. Tempo: **1 dia(s)** (pular: 25 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 3 [[recursos/raridades/raro/neurodes.md|Neurodes]] + 4 [[recursos/raridades/raro/gallium.md|Gallium]] + 3.000 [[recursos/raridades/comum/salvage.md|Salvage]] + 1.200 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]]. Tempo: **1 dia(s)** (pular: 25 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

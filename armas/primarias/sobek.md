@@ -32,7 +32,7 @@ O blueprint de Sobek é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Sobek (passo a passo)
 
 1. **Consiga o blueprint** de Sobek (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 5 [[recursos/raridades/raro/neurodes.md\|Neurodes]] + 500 [[recursos/raridades/comum/circuits.md\|Circuits]] + 900 [[recursos/raridades/comum/salvage.md\|Salvage]] + 400 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]]. Tempo: **1 dia(s)** (pular: 25 platina).
+2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 5 [[recursos/raridades/raro/neurodes.md|Neurodes]] + 500 [[recursos/raridades/comum/circuits.md|Circuits]] + 900 [[recursos/raridades/comum/salvage.md|Salvage]] + 400 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]]. Tempo: **1 dia(s)** (pular: 25 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

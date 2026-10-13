@@ -32,7 +32,7 @@ O blueprint de Quanta é pesquisado no **Energy Lab** do **Dojo do clã** (depoi
 ## 🏗️ Como Construir — Quanta (passo a passo)
 
 1. **Consiga o blueprint** de Quanta (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 7 Fieldron + 1.000 [[recursos/raridades/comum/circuits.md\|Circuits]] + 7.000 [[recursos/raridades/comum/salvage.md\|Salvage]] + 1 [[recursos/raridades/especial/forma.md\|Forma]]. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 7 Fieldron + 1.000 [[recursos/raridades/comum/circuits.md|Circuits]] + 7.000 [[recursos/raridades/comum/salvage.md|Salvage]] + 1 [[recursos/raridades/especial/forma.md|Forma]]. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

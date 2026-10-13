@@ -32,7 +32,7 @@ O blueprint de Fusilai é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Fusilai (passo a passo)
 
 1. **Consiga o blueprint** de Fusilai (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2.950 [[recursos/raridades/comum/rubedo.md\|Rubedo]] + 10.000 [[recursos/raridades/comum/salvage.md\|Salvage]] + 1.350 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 2 [[recursos/raridades/raro/nitain_extract.md\|Nitain Extract]]. Tempo: **12 h** (pular: 45 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2.950 [[recursos/raridades/comum/rubedo.md|Rubedo]] + 10.000 [[recursos/raridades/comum/salvage.md|Salvage]] + 1.350 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 2 [[recursos/raridades/raro/nitain_extract.md|Nitain Extract]]. Tempo: **12 h** (pular: 45 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

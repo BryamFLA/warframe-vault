@@ -32,7 +32,7 @@ O blueprint de Zhuge é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Zhuge (passo a passo)
 
 1. **Consiga o blueprint** de Zhuge (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2.800 [[recursos/raridades/raro/cryotic.md\|Cryotic]] + 900 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 2 [[recursos/raridades/raro/nitain_extract.md\|Nitain Extract]] + 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]]. Tempo: **12 h** (pular: 30 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2.800 [[recursos/raridades/raro/cryotic.md|Cryotic]] + 900 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 2 [[recursos/raridades/raro/nitain_extract.md|Nitain Extract]] + 2 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]]. Tempo: **12 h** (pular: 30 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

@@ -33,7 +33,7 @@ Corvas é uma arma de **Archwing**: o blueprint vem do Mercado, e as peças são
 
 1. **Consiga o blueprint** de Corvas (seção anterior).
 2. **Consiga os componentes:** Barrel, Receiver, Stock.
-3. **Junte os recursos e forje na Foundry:** 45.000 créditos + 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]] + Barrel, Receiver, Stock. Tempo: **12 h** (pular: 50 platina).
+3. **Junte os recursos e forje na Foundry:** 45.000 créditos + 2 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]] + Barrel, Receiver, Stock. Tempo: **12 h** (pular: 50 platina).
 4. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

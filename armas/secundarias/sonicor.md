@@ -36,7 +36,7 @@ O blueprint de Sonicor é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Sonicor (passo a passo)
 
 1. **Consiga o blueprint** de Sonicor (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 6.500 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 600 [[recursos/raridades/incomum/oxium.md\|Oxium]] + 2.600 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 6.500 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]] + 600 [[recursos/raridades/incomum/oxium.md|Oxium]] + 2.600 [[recursos/raridades/incomum/plastids.md|Plastids]] + 2 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

@@ -38,7 +38,7 @@ Como conseguir a arma Corvas Prime:
 
 1. **Consiga o blueprint** de Corvas Prime (seção anterior).
 2. **Consiga os componentes:** Barrel, Receiver, Stock (Relíquias do Void).
-3. **Junte os recursos e forje na Foundry:** 45.000 créditos + 10 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + Barrel, Receiver, Stock. Tempo: **1 dia(s)** (pular: 25 platina).
+3. **Junte os recursos e forje na Foundry:** 45.000 créditos + 10 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]] + Barrel, Receiver, Stock. Tempo: **1 dia(s)** (pular: 25 platina).
 4. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

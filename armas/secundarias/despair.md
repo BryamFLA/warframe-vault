@@ -36,7 +36,7 @@ Blueprint dropado pelo **Stalker** e **Shadow Stalker**. Também no pacote *What
 ## 🏗️ Como Construir — Despair (passo a passo)
 
 1. **Consiga o blueprint** de Despair (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 10 [[recursos/raridades/raro/morphics.md\|Morphics]] + 5.000 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 800 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 4.500 [[recursos/raridades/comum/salvage.md\|Salvage]]. Tempo: **12 h** (pular: 50 platina).
+2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 10 [[recursos/raridades/raro/morphics.md|Morphics]] + 5.000 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 800 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]] + 4.500 [[recursos/raridades/comum/salvage.md|Salvage]]. Tempo: **12 h** (pular: 50 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

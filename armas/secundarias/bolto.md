@@ -32,7 +32,7 @@ O blueprint de Bolto é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Bolto (passo a passo)
 
 1. **Consiga o blueprint** de Bolto (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 [[armas/secundarias/lato.md\|Lato]] + 800 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 2 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + 2 [[recursos/raridades/raro/neurodes.md\|Neurodes]]. Tempo: **12 h** (pular: 25 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 [[armas/secundarias/lato.md|Lato]] + 800 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 2 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]] + 2 [[recursos/raridades/raro/neurodes.md|Neurodes]]. Tempo: **12 h** (pular: 25 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

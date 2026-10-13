@@ -32,7 +32,7 @@ O blueprint de Phantasma é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Phantasma (passo a passo)
 
 1. **Consiga o blueprint** de Phantasma (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]] + 10 [[recursos/open_worlds/eidolon/intact_sentient_core.md\|Intact Sentient Core]] + 650 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 12.500 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]]. Tempo: **12 h** (pular: 25 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]] + 10 [[recursos/open_worlds/eidolon/intact_sentient_core.md|Intact Sentient Core]] + 650 [[recursos/raridades/incomum/plastids.md|Plastids]] + 12.500 [[recursos/raridades/comum/nano_spores.md|Nano Spores]]. Tempo: **12 h** (pular: 25 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

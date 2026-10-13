@@ -32,7 +32,7 @@ O blueprint de Twin Grakata é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Twin Grakata (passo a passo)
 
 1. **Consiga o blueprint** de Twin Grakata (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 1 [[armas/primarias/grakata.md\|Grakata]] + 1 [[armas/primarias/grakata.md\|Grakata]] + 1 [[recursos/raridades/especial/forma.md\|Forma]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 1 [[armas/primarias/grakata.md|Grakata]] + 1 [[armas/primarias/grakata.md|Grakata]] + 1 [[recursos/raridades/especial/forma.md|Forma]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

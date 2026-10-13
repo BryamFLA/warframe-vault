@@ -36,7 +36,7 @@ O blueprint de Ballistica é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Ballistica (passo a passo)
 
 1. **Consiga o blueprint** de Ballistica (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 3 [[recursos/raridades/raro/neurodes.md\|Neurodes]] + 4 [[recursos/raridades/raro/gallium.md\|Gallium]] + 3.000 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]] + 1.200 [[recursos/raridades/comum/rubedo.md\|Rubedo]]. Tempo: **1 dia(s)** (pular: 25 platina).
+2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 3 [[recursos/raridades/raro/neurodes.md|Neurodes]] + 4 [[recursos/raridades/raro/gallium.md|Gallium]] + 3.000 [[recursos/raridades/comum/nano_spores.md|Nano Spores]] + 1.200 [[recursos/raridades/comum/rubedo.md|Rubedo]]. Tempo: **1 dia(s)** (pular: 25 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

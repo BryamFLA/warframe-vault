@@ -30,7 +30,7 @@ Blueprint ao derrotar o **Nihil**: a luta exige a **Nihil's Oubliette Key** e a 
 ## 🏗️ Como Construir — Vitrica (passo a passo)
 
 1. **Consiga o blueprint** de Vitrica (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 15 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + 925 [[recursos/raridades/incomum/oxium.md\|Oxium]] + 60 Tempered Bapholite + 10 Purified Heciphron. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 15 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]] + 925 [[recursos/raridades/incomum/oxium.md|Oxium]] + 60 Tempered Bapholite + 10 Purified Heciphron. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

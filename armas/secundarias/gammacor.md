@@ -36,7 +36,7 @@ O blueprint de Gammacor é vendido no **Mercado**; também é recompensa da **Ju
 ## 🏗️ Como Construir — Gammacor (passo a passo)
 
 1. **Consiga o blueprint** de Gammacor (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2.500 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 650 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 400 [[recursos/raridades/comum/circuits.md\|Circuits]] + 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]]. Tempo: **12 h** (pular: 45 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2.500 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]] + 650 [[recursos/raridades/incomum/plastids.md|Plastids]] + 400 [[recursos/raridades/comum/circuits.md|Circuits]] + 2 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]]. Tempo: **12 h** (pular: 45 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

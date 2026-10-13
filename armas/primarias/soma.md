@@ -32,7 +32,7 @@ O blueprint de Soma é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Soma (passo a passo)
 
 1. **Consiga o blueprint** de Soma (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 7 [[recursos/raridades/raro/morphics.md\|Morphics]] + 850 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 1.200 [[recursos/raridades/comum/rubedo.md\|Rubedo]] + 8.000 [[recursos/raridades/comum/salvage.md\|Salvage]]. Tempo: **12 h** (pular: 50 platina).
+2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 7 [[recursos/raridades/raro/morphics.md|Morphics]] + 850 [[recursos/raridades/incomum/plastids.md|Plastids]] + 1.200 [[recursos/raridades/comum/rubedo.md|Rubedo]] + 8.000 [[recursos/raridades/comum/salvage.md|Salvage]]. Tempo: **12 h** (pular: 50 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

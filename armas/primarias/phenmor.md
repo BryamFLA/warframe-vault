@@ -30,7 +30,7 @@ Blueprint principal comprado do **Cavalero** (The Holdfasts) no Rank 2 por **6.0
 ## 🏗️ Como Construir — Phenmor (passo a passo)
 
 1. **Consiga o blueprint** de Phenmor (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 15 [[recursos/open_worlds/zariman/voidplume_pinion.md\|Voidplume Pinion]] + 20 [[recursos/open_worlds/zariman/voidplume_quill.md\|Voidplume Quill]] + 6.000 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 15 Entrati Lanthorn. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 15 [[recursos/open_worlds/zariman/voidplume_pinion.md|Voidplume Pinion]] + 20 [[recursos/open_worlds/zariman/voidplume_quill.md|Voidplume Quill]] + 6.000 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]] + 15 Entrati Lanthorn. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

@@ -36,7 +36,7 @@ O blueprint de Hikou é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Hikou (passo a passo)
 
 1. **Consiga o blueprint** de Hikou (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 5 [[recursos/raridades/raro/morphics.md\|Morphics]] + 500 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 600 [[recursos/raridades/comum/rubedo.md\|Rubedo]] + 4.000 [[recursos/raridades/comum/salvage.md\|Salvage]]. Tempo: **12 h** (pular: 50 platina).
+2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 5 [[recursos/raridades/raro/morphics.md|Morphics]] + 500 [[recursos/raridades/incomum/plastids.md|Plastids]] + 600 [[recursos/raridades/comum/rubedo.md|Rubedo]] + 4.000 [[recursos/raridades/comum/salvage.md|Salvage]]. Tempo: **12 h** (pular: 50 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

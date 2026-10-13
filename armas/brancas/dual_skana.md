@@ -36,7 +36,7 @@ O blueprint de Dual Skana é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Dual Skana (passo a passo)
 
 1. **Consiga o blueprint** de Dual Skana (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2 [[recursos/raridades/raro/morphics.md\|Morphics]] + 300 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 850 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 300 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]]. Tempo: **12 h** (pular: 30 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2 [[recursos/raridades/raro/morphics.md|Morphics]] + 300 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 850 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 300 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]]. Tempo: **12 h** (pular: 30 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

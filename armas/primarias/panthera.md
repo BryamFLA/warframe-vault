@@ -32,7 +32,7 @@ O blueprint de Panthera é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Panthera (passo a passo)
 
 1. **Consiga o blueprint** de Panthera (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + 600 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 1 [[armas/secundarias/hikou.md\|Hikou]] + 1 [[armas/primarias/miter.md\|Miter]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]] + 600 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 1 [[armas/secundarias/hikou.md|Hikou]] + 1 [[armas/primarias/miter.md|Miter]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

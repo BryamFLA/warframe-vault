@@ -32,7 +32,7 @@ O blueprint de Paris é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Paris (passo a passo)
 
 1. **Consiga o blueprint** de Paris (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 3 [[recursos/raridades/raro/morphics.md\|Morphics]] + 600 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 700 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 2.000 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]]. Tempo: **12 h** (pular: 45 platina).
+2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 3 [[recursos/raridades/raro/morphics.md|Morphics]] + 600 [[recursos/raridades/incomum/plastids.md|Plastids]] + 700 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 2.000 [[recursos/raridades/comum/nano_spores.md|Nano Spores]]. Tempo: **12 h** (pular: 45 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

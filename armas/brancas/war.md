@@ -35,7 +35,7 @@ Blueprint dropado pelo **Protector Stalker** ou **Shadow Stalker**. Também no p
 ## 🏗️ Como Construir — War (passo a passo)
 
 1. **Consiga o blueprint** de War (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2.300 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 1.400 [[recursos/raridades/comum/rubedo.md\|Rubedo]] + 5 [[recursos/raridades/raro/nitain_extract.md\|Nitain Extract]] + 1 [[armas/brancas/broken_war.md\|Broken War]]. Tempo: **12 h** (pular: 45 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2.300 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 1.400 [[recursos/raridades/comum/rubedo.md|Rubedo]] + 5 [[recursos/raridades/raro/nitain_extract.md|Nitain Extract]] + 1 [[armas/brancas/broken_war.md|Broken War]]. Tempo: **12 h** (pular: 45 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

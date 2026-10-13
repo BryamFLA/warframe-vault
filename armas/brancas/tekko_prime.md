@@ -37,7 +37,7 @@ Como conseguir a arma Tekko Prime:
 
 1. **Consiga o blueprint** de Tekko Prime (seção anterior).
 2. **Consiga os componentes:** Blade ×2, Gauntlet ×2 (Relíquias do Void).
-3. **Junte os recursos e forje na Foundry:** 20.000 créditos + 15 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + Blade, Gauntlet. Tempo: **12 h** (pular: 30 platina).
+3. **Junte os recursos e forje na Foundry:** 20.000 créditos + 15 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]] + Blade, Gauntlet. Tempo: **12 h** (pular: 30 platina).
 4. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

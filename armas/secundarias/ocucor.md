@@ -32,7 +32,7 @@ O blueprint de Ocucor é pesquisado no **Energy Lab** do **Dojo do clã** (depoi
 ## 🏗️ Como Construir — Ocucor (passo a passo)
 
 1. **Consiga o blueprint** de Ocucor (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 10 Fieldron + 40 [[recursos/open_worlds/orbe_vallis/thermal_sludge.md\|Thermal Sludge]] + 55 [[recursos/open_worlds/orbe_vallis/venerdo.md\|Venerdo Alloy]] + 20 [[recursos/open_worlds/orbe_vallis/charamote_shard.md\|Charamote Sagan Module]]. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 10 Fieldron + 40 [[recursos/open_worlds/orbe_vallis/thermal_sludge.md|Thermal Sludge]] + 55 [[recursos/open_worlds/orbe_vallis/venerdo.md|Venerdo Alloy]] + 20 [[recursos/open_worlds/orbe_vallis/charamote_shard.md|Charamote Sagan Module]]. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

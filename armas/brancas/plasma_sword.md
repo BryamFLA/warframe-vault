@@ -30,7 +30,7 @@ O blueprint de Plasma Sword é comprado nas **Nightwave Offerings** por **50 Nig
 ## 🏗️ Como Construir — Plasma Sword (passo a passo)
 
 1. **Consiga o blueprint** de Plasma Sword (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + 500 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 450 [[recursos/raridades/comum/salvage.md\|Salvage]] + 50 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]]. Tempo: **12 h** (pular: 25 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]] + 500 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 450 [[recursos/raridades/comum/salvage.md|Salvage]] + 50 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]]. Tempo: **12 h** (pular: 25 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

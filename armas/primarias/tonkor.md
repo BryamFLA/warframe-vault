@@ -32,7 +32,7 @@ O blueprint de Tonkor é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Tonkor (passo a passo)
 
 1. **Consiga o blueprint** de Tonkor (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 60.000 créditos + 1.500 [[recursos/raridades/comum/salvage.md\|Salvage]] + 200 [[recursos/raridades/incomum/oxium.md\|Oxium]] + 800 [[recursos/raridades/raro/cryotic.md\|Cryotic]] + 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]]. Tempo: **1 dia(s)** (pular: 45 platina).
+2. **Junte os recursos e forje na Foundry:** 60.000 créditos + 1.500 [[recursos/raridades/comum/salvage.md|Salvage]] + 200 [[recursos/raridades/incomum/oxium.md|Oxium]] + 800 [[recursos/raridades/raro/cryotic.md|Cryotic]] + 2 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]]. Tempo: **1 dia(s)** (pular: 45 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

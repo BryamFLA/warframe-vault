@@ -32,7 +32,7 @@ O blueprint de Destreza é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Destreza (passo a passo)
 
 1. **Consiga o blueprint** de Destreza (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 10.000 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 1.700 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 5 [[recursos/raridades/raro/nitain_extract.md\|Nitain Extract]] + 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 10.000 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]] + 1.700 [[recursos/raridades/incomum/plastids.md|Plastids]] + 5 [[recursos/raridades/raro/nitain_extract.md|Nitain Extract]] + 2 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

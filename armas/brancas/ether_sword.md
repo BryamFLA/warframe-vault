@@ -32,7 +32,7 @@ O blueprint de Ether Sword é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Ether Sword (passo a passo)
 
 1. **Consiga o blueprint** de Ether Sword (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 4 [[recursos/raridades/raro/morphics.md\|Morphics]] + 700 [[recursos/raridades/comum/rubedo.md\|Rubedo]] + 900 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 700 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 4 [[recursos/raridades/raro/morphics.md|Morphics]] + 700 [[recursos/raridades/comum/rubedo.md|Rubedo]] + 900 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 700 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

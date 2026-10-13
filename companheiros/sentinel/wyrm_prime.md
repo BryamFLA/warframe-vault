@@ -35,7 +35,7 @@ Como conseguir o companheiro Wyrm Prime:
 
 ## 🏗️ Como Construir — Wyrm Prime
 
-Forja: **15.000 créditos** + 1 Prime Cerebrum, 1 Prime Carapace, 1 Prime Systems, 6 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]]. Tempo: **1 dia(s)**.
+Forja: **15.000 créditos** + 1 Prime Cerebrum, 1 Prime Carapace, 1 Prime Systems, 6 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]]. Tempo: **1 dia(s)**.
 
 ## 📊 Stats Base — Wyrm Prime
 

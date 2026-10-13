@@ -32,7 +32,7 @@ O blueprint de Silva & Aegis é pesquisado no **Tenno Lab** do **Dojo do clã** 
 ## 🏗️ Como Construir — Silva & Aegis (passo a passo)
 
 1. **Consiga o blueprint** de Silva & Aegis (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 3 [[recursos/raridades/raro/gallium.md\|Gallium]] + 600 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 1.200 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 1 [[recursos/raridades/especial/forma.md\|Forma]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 3 [[recursos/raridades/raro/gallium.md|Gallium]] + 600 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]] + 1.200 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 1 [[recursos/raridades/especial/forma.md|Forma]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

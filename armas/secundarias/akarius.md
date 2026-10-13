@@ -39,7 +39,7 @@ Blueprint principal: drop dos **Demolisher Infested** no Dark Sector **Ur, Urano
 ## 🏗️ Como Construir — Akarius (passo a passo)
 
 1. **Consiga o blueprint** de Akarius (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 3 [[recursos/raridades/raro/neurodes.md\|Neurodes]] + 150 [[recursos/raridades/incomum/hexenon.md\|Hexenon]] + 1.600 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 7.500 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]]. Tempo: **1 dia(s)** (pular: 25 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 3 [[recursos/raridades/raro/neurodes.md|Neurodes]] + 150 [[recursos/raridades/incomum/hexenon.md|Hexenon]] + 1.600 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 7.500 [[recursos/raridades/comum/nano_spores.md|Nano Spores]]. Tempo: **1 dia(s)** (pular: 25 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

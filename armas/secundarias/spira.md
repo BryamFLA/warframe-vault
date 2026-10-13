@@ -32,7 +32,7 @@ O blueprint de Spira é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Spira (passo a passo)
 
 1. **Consiga o blueprint** de Spira (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 5 [[recursos/raridades/raro/gallium.md\|Gallium]] + 2.500 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 800 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 4.000 [[recursos/raridades/comum/salvage.md\|Salvage]]. Tempo: **12 h** (pular: 45 platina).
+2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 5 [[recursos/raridades/raro/gallium.md|Gallium]] + 2.500 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 800 [[recursos/raridades/incomum/plastids.md|Plastids]] + 4.000 [[recursos/raridades/comum/salvage.md|Salvage]]. Tempo: **12 h** (pular: 45 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

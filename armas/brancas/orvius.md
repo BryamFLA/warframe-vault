@@ -36,7 +36,7 @@ Blueprint ao concluir a quest **The War Within**. Blade: drop dos **Kuva Guardia
 
 1. **Consiga o blueprint** de Orvius (seção anterior).
 2. **Consiga os componentes:** Blade ×2, Disc.
-3. **Junte os recursos e forje na Foundry:** 15.000 créditos + 10 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + 4.000 [[recursos/raridades/raro/kuva.md\|Kuva]] + Blade, Disc. Tempo: **12 h** (pular: 50 platina).
+3. **Junte os recursos e forje na Foundry:** 15.000 créditos + 10 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]] + 4.000 [[recursos/raridades/raro/kuva.md|Kuva]] + Blade, Disc. Tempo: **12 h** (pular: 50 platina).
 4. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

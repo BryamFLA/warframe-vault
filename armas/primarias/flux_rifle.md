@@ -32,7 +32,7 @@ O blueprint de Flux Rifle é pesquisado no **Energy Lab** do **Dojo do clã** (d
 ## 🏗️ Como Construir — Flux Rifle (passo a passo)
 
 1. **Consiga o blueprint** de Flux Rifle (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 5 Fieldron + 900 [[recursos/raridades/comum/circuits.md\|Circuits]] + 6.000 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 1 [[recursos/raridades/especial/forma.md\|Forma]]. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 5 Fieldron + 900 [[recursos/raridades/comum/circuits.md|Circuits]] + 6.000 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 1 [[recursos/raridades/especial/forma.md|Forma]]. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

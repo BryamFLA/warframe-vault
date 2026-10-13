@@ -36,7 +36,7 @@ O blueprint de Bronco é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Bronco (passo a passo)
 
 1. **Consiga o blueprint** de Bronco (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2 [[recursos/raridades/raro/neurodes.md\|Neurodes]] + 1.200 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 700 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 800 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]]. Tempo: **12 h** (pular: 25 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2 [[recursos/raridades/raro/neurodes.md|Neurodes]] + 1.200 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]] + 700 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 800 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]]. Tempo: **12 h** (pular: 25 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

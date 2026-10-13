@@ -32,7 +32,7 @@ O blueprint de Kohm é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Kohm (passo a passo)
 
 1. **Consiga o blueprint** de Kohm (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2.500 [[recursos/raridades/comum/salvage.md\|Salvage]] + 500 [[recursos/raridades/incomum/oxium.md\|Oxium]] + 500 [[recursos/raridades/raro/cryotic.md\|Cryotic]] + 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2.500 [[recursos/raridades/comum/salvage.md|Salvage]] + 500 [[recursos/raridades/incomum/oxium.md|Oxium]] + 500 [[recursos/raridades/raro/cryotic.md|Cryotic]] + 2 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

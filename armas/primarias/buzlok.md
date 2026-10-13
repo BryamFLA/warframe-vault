@@ -32,7 +32,7 @@ O blueprint de Buzlok é pesquisado no **Chem Lab** do **Dojo do clã** (depois 
 ## 🏗️ Como Construir — Buzlok (passo a passo)
 
 1. **Consiga o blueprint** de Buzlok (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 2 Detonite Injector + 5.000 [[recursos/raridades/comum/salvage.md\|Salvage]] + 600 [[recursos/raridades/comum/circuits.md\|Circuits]] + 1 [[recursos/raridades/especial/forma.md\|Forma]]. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 2 Detonite Injector + 5.000 [[recursos/raridades/comum/salvage.md|Salvage]] + 600 [[recursos/raridades/comum/circuits.md|Circuits]] + 1 [[recursos/raridades/especial/forma.md|Forma]]. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

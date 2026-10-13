@@ -30,7 +30,7 @@ Exclusiva do **Daily Tribute** (login diário): aparece a cada 200 dias a partir
 ## 🏗️ Como Construir — Azima (passo a passo)
 
 1. **Consiga o blueprint** de Azima (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 4 [[recursos/raridades/raro/morphics.md\|Morphics]] + 450 [[recursos/raridades/comum/circuits.md\|Circuits]] + 500 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 2.750 [[recursos/raridades/comum/salvage.md\|Salvage]]. Tempo: **1 dia(s)**.
+2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 4 [[recursos/raridades/raro/morphics.md|Morphics]] + 450 [[recursos/raridades/comum/circuits.md|Circuits]] + 500 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 2.750 [[recursos/raridades/comum/salvage.md|Salvage]]. Tempo: **1 dia(s)**.
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

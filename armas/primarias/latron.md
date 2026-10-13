@@ -36,7 +36,7 @@ O blueprint de Latron é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Latron (passo a passo)
 
 1. **Consiga o blueprint** de Latron (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 5 [[recursos/raridades/raro/morphics.md\|Morphics]] + 800 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 1.000 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 900 [[recursos/raridades/comum/salvage.md\|Salvage]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 5 [[recursos/raridades/raro/morphics.md|Morphics]] + 800 [[recursos/raridades/incomum/plastids.md|Plastids]] + 1.000 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]] + 900 [[recursos/raridades/comum/salvage.md|Salvage]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

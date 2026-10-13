@@ -32,7 +32,7 @@ O blueprint de Castana é pesquisado no **Tenno Lab** do **Dojo do clã** (depoi
 ## 🏗️ Como Construir — Castanas (passo a passo)
 
 1. **Consiga o blueprint** de Castanas (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2 [[recursos/raridades/raro/control_module.md\|Control Module]] + 800 [[recursos/raridades/comum/salvage.md\|Salvage]] + 200 [[recursos/raridades/comum/circuits.md\|Circuits]] + 1 [[recursos/raridades/especial/forma.md\|Forma]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2 [[recursos/raridades/raro/control_module.md|Control Module]] + 800 [[recursos/raridades/comum/salvage.md|Salvage]] + 200 [[recursos/raridades/comum/circuits.md|Circuits]] + 1 [[recursos/raridades/especial/forma.md|Forma]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

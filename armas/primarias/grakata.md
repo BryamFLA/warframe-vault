@@ -32,7 +32,7 @@ O blueprint de Grakata é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Grakata (passo a passo)
 
 1. **Consiga o blueprint** de Grakata (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 2 [[recursos/raridades/raro/neurodes.md\|Neurodes]] + 400 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 900 [[recursos/raridades/comum/salvage.md\|Salvage]] + 100 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]]. Tempo: **1 dia(s)** (pular: 30 platina).
+2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 2 [[recursos/raridades/raro/neurodes.md|Neurodes]] + 400 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]] + 900 [[recursos/raridades/comum/salvage.md|Salvage]] + 100 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]]. Tempo: **1 dia(s)** (pular: 30 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

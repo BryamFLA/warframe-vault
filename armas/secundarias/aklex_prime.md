@@ -38,7 +38,7 @@ As Relíquias com as peças do Aklex Prime são vendidas pelo **Baro Ki'Teer** (
 
 1. **Consiga o blueprint** de Aklex Prime (seção anterior).
 2. **Consiga os componentes:** Link (Relíquias do Void).
-3. **Junte os recursos e forje na Foundry:** 15.000 créditos + 1 [[armas/secundarias/lex_prime.md\|Lex Prime]] + 1 [[armas/secundarias/lex_prime.md\|Lex Prime]] + Link. Tempo: **12 h** (pular: 50 platina).
+3. **Junte os recursos e forje na Foundry:** 15.000 créditos + 1 [[armas/secundarias/lex_prime.md|Lex Prime]] + 1 [[armas/secundarias/lex_prime.md|Lex Prime]] + Link. Tempo: **12 h** (pular: 50 platina).
 4. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

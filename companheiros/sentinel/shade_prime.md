@@ -37,7 +37,7 @@ As peças vêm de **Relíquias do Void** (ver tabela). Exige **2 slots de compan
 
 ## 🏗️ Como Construir — Shade Prime
 
-Forja: **15.000 créditos** + 1 Cerebrum, 1 Carapace, 1 Systems, 6 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]]. Tempo: **1 dia(s)**.
+Forja: **15.000 créditos** + 1 Cerebrum, 1 Carapace, 1 Systems, 6 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]]. Tempo: **1 dia(s)**.
 
 ## 📊 Stats Base — Shade Prime
 

@@ -32,7 +32,7 @@ O blueprint de Ether Reaper é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Ether Reaper (passo a passo)
 
 1. **Consiga o blueprint** de Ether Reaper (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 1.000 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 1.000 [[recursos/raridades/comum/rubedo.md\|Rubedo]] + 10 [[recursos/raridades/raro/morphics.md\|Morphics]] + 1.000 [[recursos/raridades/comum/ferrite.md\|Ferrite]]. Tempo: **12 h** (pular: 50 platina).
+2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 1.000 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 1.000 [[recursos/raridades/comum/rubedo.md|Rubedo]] + 10 [[recursos/raridades/raro/morphics.md|Morphics]] + 1.000 [[recursos/raridades/comum/ferrite.md|Ferrite]]. Tempo: **12 h** (pular: 50 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

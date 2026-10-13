@@ -32,7 +32,7 @@ O blueprint de Vulkar é vendido no **Mercado**; também é recompensa da **Jun�
 ## 🏗️ Como Construir — Vulkar (passo a passo)
 
 1. **Consiga o blueprint** de Vulkar (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 5 [[recursos/raridades/raro/morphics.md\|Morphics]] + 800 [[recursos/raridades/comum/circuits.md\|Circuits]] + 1.200 [[recursos/raridades/comum/salvage.md\|Salvage]] + 800 [[recursos/raridades/incomum/plastids.md\|Plastids]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 5 [[recursos/raridades/raro/morphics.md|Morphics]] + 800 [[recursos/raridades/comum/circuits.md|Circuits]] + 1.200 [[recursos/raridades/comum/salvage.md|Salvage]] + 800 [[recursos/raridades/incomum/plastids.md|Plastids]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

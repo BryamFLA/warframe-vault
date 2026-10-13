@@ -32,7 +32,7 @@ O blueprint de Dera é pesquisado no **Energy Lab** do **Dojo do clã** (depois 
 ## 🏗️ Como Construir — Dera (passo a passo)
 
 1. **Consiga o blueprint** de Dera (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 2 Fieldron + 600 [[recursos/raridades/comum/circuits.md\|Circuits]] + 4.500 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 1 [[recursos/raridades/especial/forma.md\|Forma]]. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 2 Fieldron + 600 [[recursos/raridades/comum/circuits.md|Circuits]] + 4.500 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 1 [[recursos/raridades/especial/forma.md|Forma]]. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

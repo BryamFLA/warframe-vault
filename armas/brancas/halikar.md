@@ -32,7 +32,7 @@ O blueprint de Halikar é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Halikar (passo a passo)
 
 1. **Consiga o blueprint** de Halikar (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]] + 4.800 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 5.000 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]] + 500 [[recursos/raridades/incomum/oxium.md\|Oxium]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 2 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]] + 4.800 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 5.000 [[recursos/raridades/comum/nano_spores.md|Nano Spores]] + 500 [[recursos/raridades/incomum/oxium.md|Oxium]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

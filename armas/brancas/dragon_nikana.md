@@ -32,7 +32,7 @@ O blueprint de Dragon Nikana é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Dragon Nikana (passo a passo)
 
 1. **Consiga o blueprint** de Dragon Nikana (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 5.000 créditos + 1 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]] + 75 [[recursos/raridades/incomum/oxium.md\|Oxium]] + 1 [[armas/brancas/nikana.md\|Nikana]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 5.000 créditos + 1 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]] + 75 [[recursos/raridades/incomum/oxium.md|Oxium]] + 1 [[armas/brancas/nikana.md|Nikana]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

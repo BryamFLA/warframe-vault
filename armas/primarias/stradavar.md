@@ -32,7 +32,7 @@ Blueprint no **Mercado**. Se não tiver sido masterizada, pode aparecer como rec
 ## 🏗️ Como Construir — Stradavar (passo a passo)
 
 1. **Consiga o blueprint** de Stradavar (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 15.000 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 8.000 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 3 [[recursos/raridades/raro/neural_sensors.md\|Neural Sensors]] + 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 15.000 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 8.000 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 3 [[recursos/raridades/raro/neural_sensors.md|Neural Sensors]] + 2 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

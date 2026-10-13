@@ -32,7 +32,7 @@ O blueprint de Opticor é pesquisado no **Energy Lab** do **Dojo do clã** (depo
 ## 🏗️ Como Construir — Opticor (passo a passo)
 
 1. **Consiga o blueprint** de Opticor (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 5 Fieldron + 20 [[recursos/raridades/raro/gallium.md\|Gallium]] + 600 [[recursos/raridades/raro/cryotic.md\|Cryotic]] + 1 [[recursos/raridades/especial/forma.md\|Forma]]. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 5 Fieldron + 20 [[recursos/raridades/raro/gallium.md|Gallium]] + 600 [[recursos/raridades/raro/cryotic.md|Cryotic]] + 1 [[recursos/raridades/especial/forma.md|Forma]]. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

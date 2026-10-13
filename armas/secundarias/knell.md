@@ -32,7 +32,7 @@ O blueprint de Knell é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Knell (passo a passo)
 
 1. **Consiga o blueprint** de Knell (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]] + 5.200 [[recursos/raridades/comum/rubedo.md\|Rubedo]] + 3.800 [[recursos/raridades/raro/cryotic.md\|Cryotic]] + 20.000 [[recursos/raridades/comum/salvage.md\|Salvage]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 2 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]] + 5.200 [[recursos/raridades/comum/rubedo.md|Rubedo]] + 3.800 [[recursos/raridades/raro/cryotic.md|Cryotic]] + 20.000 [[recursos/raridades/comum/salvage.md|Salvage]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

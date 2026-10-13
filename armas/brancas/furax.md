@@ -32,7 +32,7 @@ O blueprint de Furax é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Furax (passo a passo)
 
 1. **Consiga o blueprint** de Furax (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 1.000 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]] + 900 [[recursos/raridades/comum/salvage.md\|Salvage]] + 600 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 500 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]]. Tempo: **12 h** (pular: 30 platina).
+2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 1.000 [[recursos/raridades/comum/nano_spores.md|Nano Spores]] + 900 [[recursos/raridades/comum/salvage.md|Salvage]] + 600 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 500 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]]. Tempo: **12 h** (pular: 30 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

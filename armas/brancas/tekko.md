@@ -32,7 +32,7 @@ O blueprint de Tekko é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Tekko (passo a passo)
 
 1. **Consiga o blueprint** de Tekko (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 5 [[recursos/raridades/raro/gallium.md\|Gallium]] + 700 [[recursos/raridades/comum/rubedo.md\|Rubedo]] + 3.300 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 1 Ankyros. Tempo: **12 h** (pular: 30 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 5 [[recursos/raridades/raro/gallium.md|Gallium]] + 700 [[recursos/raridades/comum/rubedo.md|Rubedo]] + 3.300 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 1 Ankyros. Tempo: **12 h** (pular: 30 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

@@ -32,7 +32,7 @@ O blueprint de Boltace é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Boltace (passo a passo)
 
 1. **Consiga o blueprint** de Boltace (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 [[armas/primarias/boltor.md\|Boltor]] + 1 [[armas/brancas/kronen.md\|Kronen]] + 2 [[recursos/raridades/raro/gallium.md\|Gallium]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 [[armas/primarias/boltor.md|Boltor]] + 1 [[armas/brancas/kronen.md|Kronen]] + 2 [[recursos/raridades/raro/gallium.md|Gallium]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

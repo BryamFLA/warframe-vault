@@ -32,7 +32,7 @@ O blueprint de Amprex é pesquisado no **Energy Lab** do **Dojo do clã** (depoi
 ## 🏗️ Como Construir — Amprex (passo a passo)
 
 1. **Consiga o blueprint** de Amprex (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 8 Fieldron + 600 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 9.000 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 3 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]]. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 8 Fieldron + 600 [[recursos/raridades/incomum/plastids.md|Plastids]] + 9.000 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 3 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]]. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

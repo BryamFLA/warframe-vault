@@ -38,7 +38,7 @@ Void Relics containing the Akvasto Prime components é vendida pelo **Baro Ki'Te
 
 1. **Consiga o blueprint** de Akvasto Prime (seção anterior).
 2. **Consiga os componentes:** Link (Relíquias do Void).
-3. **Junte os recursos e forje na Foundry:** 15.000 créditos + 1 [[armas/secundarias/vasto_prime.md\|Vasto Prime]] + 1 [[armas/secundarias/vasto_prime.md\|Vasto Prime]] + Link. Tempo: **12 h** (pular: 50 platina).
+3. **Junte os recursos e forje na Foundry:** 15.000 créditos + 1 [[armas/secundarias/vasto_prime.md|Vasto Prime]] + 1 [[armas/secundarias/vasto_prime.md|Vasto Prime]] + Link. Tempo: **12 h** (pular: 50 platina).
 4. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

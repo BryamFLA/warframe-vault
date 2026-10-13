@@ -37,7 +37,7 @@ Como conseguir a arma Nikana Prime:
 
 1. **Consiga o blueprint** de Nikana Prime (seção anterior).
 2. **Consiga os componentes:** Blade, Hilt (Relíquias do Void).
-3. **Junte os recursos e forje na Foundry:** 15.000 créditos + 15 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + Blade, Hilt. Tempo: **12 h** (pular: 50 platina).
+3. **Junte os recursos e forje na Foundry:** 15.000 créditos + 15 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]] + Blade, Hilt. Tempo: **12 h** (pular: 50 platina).
 4. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

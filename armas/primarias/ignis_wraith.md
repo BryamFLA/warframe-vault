@@ -36,7 +36,7 @@ Blueprint nos **Abandoned Derelict Caches** de missões Grineer na **Veil Proxim
 ## 🏗️ Como Construir — Ignis Wraith (passo a passo)
 
 1. **Consiga o blueprint** de Ignis Wraith (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 5 Detonite Injector + 10.000 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 5.000 [[recursos/raridades/comum/rubedo.md\|Rubedo]] + 3 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]]. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 5 Detonite Injector + 10.000 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 5.000 [[recursos/raridades/comum/rubedo.md|Rubedo]] + 3 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]]. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

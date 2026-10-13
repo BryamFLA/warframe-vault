@@ -32,7 +32,7 @@ O blueprint de Ignis é pesquisado no **Chem Lab** do **Dojo do clã** (depois �
 ## 🏗️ Como Construir — Ignis (passo a passo)
 
 1. **Consiga o blueprint** de Ignis (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 2 Detonite Injector + 5.000 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]] + 5.000 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 1 [[recursos/raridades/especial/forma.md\|Forma]]. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 2 Detonite Injector + 5.000 [[recursos/raridades/comum/nano_spores.md|Nano Spores]] + 5.000 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 1 [[recursos/raridades/especial/forma.md|Forma]]. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

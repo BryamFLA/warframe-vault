@@ -36,7 +36,7 @@ Blueprint no **Mercado**. Também dada **pronta** ao concluir a **Junção de Me
 ## 🏗️ Como Construir — Boltor (passo a passo)
 
 1. **Consiga o blueprint** de Boltor (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 2 [[recursos/raridades/raro/neurodes.md\|Neurodes]] + 100 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 900 [[recursos/raridades/comum/salvage.md\|Salvage]] + 600 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]]. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 2 [[recursos/raridades/raro/neurodes.md|Neurodes]] + 100 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]] + 900 [[recursos/raridades/comum/salvage.md|Salvage]] + 600 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]]. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

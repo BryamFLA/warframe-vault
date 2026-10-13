@@ -32,7 +32,7 @@ O blueprint de Daikyu é pesquisado no **Tenno Lab** do **Dojo do clã** (depois
 ## 🏗️ Como Construir — Daikyu (passo a passo)
 
 1. **Consiga o blueprint** de Daikyu (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2 [[recursos/raridades/raro/neurodes.md\|Neurodes]] + 1 [[recursos/raridades/especial/forma.md\|Forma]] + 300 [[recursos/raridades/comum/rubedo.md\|Rubedo]] + 1.200 [[recursos/raridades/comum/salvage.md\|Salvage]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2 [[recursos/raridades/raro/neurodes.md|Neurodes]] + 1 [[recursos/raridades/especial/forma.md|Forma]] + 300 [[recursos/raridades/comum/rubedo.md|Rubedo]] + 1.200 [[recursos/raridades/comum/salvage.md|Salvage]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

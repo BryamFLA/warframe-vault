@@ -32,7 +32,7 @@ O blueprint de Zarr é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Zarr (passo a passo)
 
 1. **Consiga o blueprint** de Zarr (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 1.800 [[recursos/raridades/raro/kuva.md\|Kuva]] + 2.400 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 5.500 [[recursos/raridades/comum/salvage.md\|Salvage]] + 1 [[armas/primarias/drakgoon.md\|Drakgoon]]. Tempo: **1 dia(s)** (pular: 40 platina).
+2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 1.800 [[recursos/raridades/raro/kuva.md|Kuva]] + 2.400 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]] + 5.500 [[recursos/raridades/comum/salvage.md|Salvage]] + 1 [[armas/primarias/drakgoon.md|Drakgoon]]. Tempo: **1 dia(s)** (pular: 40 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

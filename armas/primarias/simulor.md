@@ -32,7 +32,7 @@ Blueprint comprado do **Cephalon Simaris** por **75.000 de Standing**.
 ## 🏗️ Como Construir — Simulor (passo a passo)
 
 1. **Consiga o blueprint** de Simulor (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1.200 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 850 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 1 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + 1 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1.200 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 850 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 1 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]] + 1 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

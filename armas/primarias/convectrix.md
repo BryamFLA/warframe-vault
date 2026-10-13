@@ -32,7 +32,7 @@ O blueprint de Convectrix é pesquisado no **Energy Lab** do **Dojo do clã** (d
 ## 🏗️ Como Construir — Convectrix (passo a passo)
 
 1. **Consiga o blueprint** de Convectrix (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 5 Fieldron + 10 [[recursos/raridades/raro/control_module.md\|Control Module]] + 900 [[recursos/raridades/incomum/oxium.md\|Oxium]] + 1 [[recursos/raridades/especial/forma.md\|Forma]]. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 30.000 créditos + 5 Fieldron + 10 [[recursos/raridades/raro/control_module.md|Control Module]] + 900 [[recursos/raridades/incomum/oxium.md|Oxium]] + 1 [[recursos/raridades/especial/forma.md|Forma]]. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

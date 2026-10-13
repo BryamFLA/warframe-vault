@@ -30,7 +30,7 @@ Blueprint ao concluir a quest **Stolen Dreams**. Extras no Cephalon Simaris (100
 ## 🏗️ Como Construir — Ether Daggers (passo a passo)
 
 1. **Consiga o blueprint** de Ether Daggers (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 5 [[recursos/raridades/raro/morphics.md\|Morphics]] + 600 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 600 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 1.200 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]]. Tempo: **12 h** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 5 [[recursos/raridades/raro/morphics.md|Morphics]] + 600 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 600 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 1.200 [[recursos/raridades/comum/nano_spores.md|Nano Spores]]. Tempo: **12 h** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

@@ -32,7 +32,7 @@ O blueprint de Arca Plasmor é pesquisado no **Energy Lab** do **Dojo do clã** 
 ## 🏗️ Como Construir — Arca Plasmor (passo a passo)
 
 1. **Consiga o blueprint** de Arca Plasmor (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 5 Fieldron + 25 [[recursos/raridades/raro/control_module.md\|Control Module]] + 925 [[recursos/raridades/raro/cryotic.md\|Cryotic]] + 1 [[recursos/raridades/especial/forma.md\|Forma]]. Tempo: **1 dia(s)** (pular: 35 platina).
+2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 5 Fieldron + 25 [[recursos/raridades/raro/control_module.md|Control Module]] + 925 [[recursos/raridades/raro/cryotic.md|Cryotic]] + 1 [[recursos/raridades/especial/forma.md|Forma]]. Tempo: **1 dia(s)** (pular: 35 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

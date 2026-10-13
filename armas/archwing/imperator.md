@@ -30,7 +30,7 @@ Recebida **pronta** ao forjar o Archwing **Odonata** na quest **The Archwing**. 
 ## 🏗️ Como Construir — Imperator (passo a passo)
 
 1. **Consiga o blueprint** de Imperator (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 2 [[recursos/raridades/raro/morphics.md\|Morphics]] + 1.500 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 150 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 300 [[recursos/raridades/comum/circuits.md\|Circuits]]. Tempo: **1 dia(s)**.
+2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 2 [[recursos/raridades/raro/morphics.md|Morphics]] + 1.500 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 150 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 300 [[recursos/raridades/comum/circuits.md|Circuits]]. Tempo: **1 dia(s)**.
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

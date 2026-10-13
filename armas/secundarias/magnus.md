@@ -32,7 +32,7 @@ O blueprint de Magnus é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Magnus (passo a passo)
 
 1. **Consiga o blueprint** de Magnus (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 2 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + 400 [[recursos/raridades/comum/alloy_plate.md\|Alloy Plate]] + 900 [[recursos/raridades/comum/salvage.md\|Salvage]] + 100 [[recursos/raridades/comum/ferrite.md\|Ferrite]]. Tempo: **1 dia(s)** (pular: 30 platina).
+2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 2 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]] + 400 [[recursos/raridades/comum/alloy_plate.md|Alloy Plate]] + 900 [[recursos/raridades/comum/salvage.md|Salvage]] + 100 [[recursos/raridades/comum/ferrite.md|Ferrite]]. Tempo: **1 dia(s)** (pular: 30 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

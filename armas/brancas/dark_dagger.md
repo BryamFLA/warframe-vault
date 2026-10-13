@@ -30,7 +30,7 @@ O blueprint de Dark Dagger é comprado nas **Nightwave Offerings** por **50 Nigh
 ## 🏗️ Como Construir — Dark Dagger (passo a passo)
 
 1. **Consiga o blueprint** de Dark Dagger (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 2 [[recursos/raridades/raro/neurodes.md\|Neurodes]] + 500 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 500 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 300 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]]. Tempo: **12 h** (pular: 25 platina).
+2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 2 [[recursos/raridades/raro/neurodes.md|Neurodes]] + 500 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 500 [[recursos/raridades/incomum/plastids.md|Plastids]] + 300 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]]. Tempo: **12 h** (pular: 25 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

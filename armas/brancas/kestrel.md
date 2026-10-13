@@ -36,7 +36,7 @@ O blueprint de Kestrel é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Kestrel (passo a passo)
 
 1. **Consiga o blueprint** de Kestrel (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 8 [[recursos/raridades/raro/morphics.md\|Morphics]] + 4.800 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 5.000 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]] + 4.000 [[recursos/raridades/comum/salvage.md\|Salvage]]. Tempo: **12 h** (pular: 50 platina).
+2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 8 [[recursos/raridades/raro/morphics.md|Morphics]] + 4.800 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 5.000 [[recursos/raridades/comum/nano_spores.md|Nano Spores]] + 4.000 [[recursos/raridades/comum/salvage.md|Salvage]]. Tempo: **12 h** (pular: 50 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

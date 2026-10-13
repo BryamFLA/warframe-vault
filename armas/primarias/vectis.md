@@ -36,7 +36,7 @@ O blueprint de Vectis é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Vectis (passo a passo)
 
 1. **Consiga o blueprint** de Vectis (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 4 [[recursos/raridades/raro/neurodes.md\|Neurodes]] + 4 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + 3.000 [[recursos/raridades/comum/nano_spores.md\|Nano Spores]] + 2.500 [[recursos/raridades/comum/rubedo.md\|Rubedo]]. Tempo: **1 dia(s)** (pular: 25 platina).
+2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 4 [[recursos/raridades/raro/neurodes.md|Neurodes]] + 4 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]] + 3.000 [[recursos/raridades/comum/nano_spores.md|Nano Spores]] + 2.500 [[recursos/raridades/comum/rubedo.md|Rubedo]]. Tempo: **1 dia(s)** (pular: 25 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

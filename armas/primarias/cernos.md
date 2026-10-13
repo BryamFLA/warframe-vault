@@ -32,7 +32,7 @@ O blueprint de Cernos é vendido no **Mercado** (por créditos).
 ## 🏗️ Como Construir — Cernos (passo a passo)
 
 1. **Consiga o blueprint** de Cernos (seção anterior).
-2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 3 [[recursos/raridades/raro/gallium.md\|Gallium]] + 700 [[recursos/raridades/incomum/plastids.md\|Plastids]] + 600 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 1.750 [[recursos/raridades/comum/ferrite.md\|Ferrite]]. Tempo: **12 h** (pular: 45 platina).
+2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 3 [[recursos/raridades/raro/gallium.md|Gallium]] + 700 [[recursos/raridades/incomum/plastids.md|Plastids]] + 600 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 1.750 [[recursos/raridades/comum/ferrite.md|Ferrite]]. Tempo: **12 h** (pular: 45 platina).
 3. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

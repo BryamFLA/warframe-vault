@@ -36,7 +36,7 @@ Dada ao concluir a quest **The Second Dream**, com slot e Catalyst. Para forjar 
 
 1. **Consiga o blueprint** de Broken War (seção anterior).
 2. **Consiga os componentes:** Hilt, Blade ×2.
-3. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 [[recursos/raridades/especial/forma.md\|Forma]] + 2 [[recursos/raridades/raro/nitain_extract.md\|Nitain Extract]] + Hilt, Blade. Tempo: **12 h** (pular: 25 platina).
+3. **Junte os recursos e forje na Foundry:** 20.000 créditos + 1 [[recursos/raridades/especial/forma.md|Forma]] + 2 [[recursos/raridades/raro/nitain_extract.md|Nitain Extract]] + Hilt, Blade. Tempo: **12 h** (pular: 25 platina).
 4. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

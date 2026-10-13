@@ -37,7 +37,7 @@ Blueprint e peças na invasão do **Balor Fomorian** (Fomorian Sabotage). Peças
 
 1. **Consiga o blueprint** de Imperator Vandal (seção anterior).
 2. **Consiga os componentes:** Barrel, Receiver.
-3. **Junte os recursos e forje na Foundry:** 25.000 créditos + 10 [[recursos/raridades/raro/tellurium.md\|Tellurium]] + Barrel, Receiver. Tempo: **12 h** (pular: 50 platina).
+3. **Junte os recursos e forje na Foundry:** 25.000 créditos + 10 [[recursos/raridades/raro/tellurium.md|Tellurium]] + Barrel, Receiver. Tempo: **12 h** (pular: 50 platina).
 4. **Upe a arma até o rank 30** para ganhar Mastery.
 
 | Item | Créditos | Recursos | Tempo |

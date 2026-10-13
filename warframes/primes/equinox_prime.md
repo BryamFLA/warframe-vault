@@ -39,7 +39,7 @@ Como conseguir a Warframe Equinox Prime:
 1. **Consiga o blueprint principal** de Equinox Prime (seção anterior).
 2. **Consiga os blueprints dos componentes:** Prime Neuroptics, Prime Chassis, Prime Systems.
 3. **Forje cada componente** na Foundry (tabela abaixo).
-4. **Forje a Warframe:** 25.000 créditos + Prime Neuroptics, Prime Chassis, Prime Systems + 5 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]]. Tempo: **3 dia(s)** (pular: 50 platina).
+4. **Forje a Warframe:** 25.000 créditos + Prime Neuroptics, Prime Chassis, Prime Systems + 5 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]]. Tempo: **3 dia(s)** (pular: 50 platina).
 
 | Componente | Créditos | Recursos | Tempo |
 |---|---|---|---|
