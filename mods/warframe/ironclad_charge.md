@@ -1,0 +1,46 @@
+---
+title: Ironclad Charge
+aliases: [Ironclad Charge]
+tipo: mod
+subtipo: rhino
+raridade: raro
+polaridade: Zenurik
+resumo: "Ironclad Charge — mod de Rhino (raro). Efeito no rank máximo: Rhino Charge Augment: Each enemy hit increases Rhino's Armor Rating by 50% for 10s."
+status: parcial
+rag: true
+tags: [mod, rhino]
+fontes: ["https://wiki.warframe.com/w/Ironclad_Charge", "https://wiki.warframe.com/w/Module:Mods/data", "https://wiki.warframe.com/w/Module:DropTables/data"]
+atualizado: 2026-10-13
+verificado: true
+agente: opus
+gerado_de: modulos-da-wiki
+---
+
+# Ironclad Charge
+
+> [!info] Resumo
+> Mod de **Rhino**, raridade **raro**.
+> **Efeito (rank máximo, texto do jogo):** Rhino Charge Augment: Each enemy hit increases Rhino's Armor Rating by 50% for 10s.
+
+## 📊 Ficha — Ironclad Charge
+
+| Item | Valor |
+|---|---|
+| Tipo | Rhino |
+| Raridade | raro |
+| Polaridade | Zenurik |
+| Drenagem base | 6 (sobe 1 por rank) |
+| Rank máximo | 3 |
+| Augment | Sim — modifica uma habilidade |
+| Negociável | Sim |
+| Introduzido | Update 15 |
+
+## 🌍 Onde Conseguir — Ironclad Charge
+
+Como conseguir Ironclad Charge:
+
+- **Augment** de Rhino: vendido pelos sindicatos Steel Meridian, The Perrin Sequence (exige rank e Standing).
+
+## 🛠️ Uso — Ironclad Charge
+
+Mod de **Rhino**: equipe no slot correspondente; a drenagem diminui pela metade com a polaridade igual (Zenurik). Upe com **Endo** e **créditos**.

@@ -1,0 +1,46 @@
+---
+title: Gastro
+aliases: [Gastro]
+tipo: mod
+subtipo: grendel
+raridade: raro
+polaridade: Zenurik
+resumo: "Gastro — mod de Grendel (raro). Efeito no rank máximo: Regurgitate Augment: Regurgitated enemies bounce up to 3 times, creating gas clouds that last 8s and inflict nearby enemies with <DT_GAS_COLOR> Gas Status Effect."
+status: parcial
+rag: true
+tags: [mod, grendel]
+fontes: ["https://wiki.warframe.com/w/Gastro", "https://wiki.warframe.com/w/Module:Mods/data", "https://wiki.warframe.com/w/Module:DropTables/data"]
+atualizado: 2026-10-13
+verificado: true
+agente: opus
+gerado_de: modulos-da-wiki
+---
+
+# Gastro
+
+> [!info] Resumo
+> Mod de **Grendel**, raridade **raro**.
+> **Efeito (rank máximo, texto do jogo):** Regurgitate Augment: Regurgitated enemies bounce up to 3 times, creating gas clouds that last 8s and inflict nearby enemies with <DT_GAS_COLOR> Gas Status Effect.
+
+## 📊 Ficha — Gastro
+
+| Item | Valor |
+|---|---|
+| Tipo | Grendel |
+| Raridade | raro |
+| Polaridade | Zenurik |
+| Drenagem base | 6 (sobe 1 por rank) |
+| Rank máximo | 3 |
+| Augment | Sim — modifica uma habilidade |
+| Negociável | Sim |
+| Introduzido | Update 37 |
+
+## 🌍 Onde Conseguir — Gastro
+
+Como conseguir Gastro:
+
+- **Augment** de Grendel: vendido pelos sindicatos Red Veil, Steel Meridian (exige rank e Standing).
+
+## 🛠️ Uso — Gastro
+
+Mod de **Grendel**: equipe no slot correspondente; a drenagem diminui pela metade com a polaridade igual (Zenurik). Upe com **Endo** e **créditos**.
