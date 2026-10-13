@@ -1,0 +1,65 @@
+---
+title: Dual Cestra
+aliases: [Dual Cestra, arma Dual Cestra]
+tipo: arma
+subtipo: secondary
+categoria: dual pistols
+resumo: "Dual Cestra — arma secundária (Dual Pistols), MR 7. Como conseguir: O blueprint de Dual Cestra é pesquisado no Energy Lab do Dojo do clã (depois é replicado e forjado). Forja: 25.000 créditos + 1 Cestra, 1 Cestra, 2 Fieldron, 1 Forma."
+status: parcial
+rag: true
+tags: [arma]
+mastery_rank: 7
+fontes: ["https://wiki.warframe.com/w/Dual_Cestra", "https://wiki.warframe.com/w/Module:Weapons/data", "https://wiki.warframe.com/w/Module:Blueprints/data", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Void/data"]
+atualizado: 2026-10-13
+verificado: true
+agente: opus
+gerado_de: modulos-da-wiki
+---
+
+# Dual Cestra
+
+> [!info] Resumo
+> Arma **secundária** (Dual Pistols), **MR 7**, dano principal **Perfuração**, introduzida no Update 12.0.
+
+## 🌍 Onde Conseguir — Dual Cestra
+
+Como conseguir a arma Dual Cestra:
+
+O blueprint de Dual Cestra é pesquisado no **Energy Lab** do **Dojo do clã** (depois é replicado e forjado).
+
+**Mercado:** blueprint no **Mercado por 15.000 créditos**; arma pronta no Mercado por **225 platina**.
+
+## 🏗️ Como Construir — Dual Cestra (passo a passo)
+
+1. **Consiga o blueprint** de Dual Cestra (seção anterior).
+2. **Junte os recursos e forje na Foundry:** 25.000 créditos + 1 Cestra + 1 Cestra + 2 [[recursos/raridades/especial/fieldron.md|Fieldron]] + 1 [[recursos/raridades/especial/forma.md|Forma]]. Tempo: **1 dia(s)** (pular: 25 platina).
+3. **Upe a arma até o rank 30** para ganhar Mastery.
+
+| Item | Créditos | Recursos | Tempo |
+|---|---|---|---|
+| **Dual Cestra** | 25.000 | 1 Cestra + 1 Cestra + 2 [[recursos/raridades/especial/fieldron.md\|Fieldron]] + 1 [[recursos/raridades/especial/forma.md\|Forma]] | 1 dia(s) |
+
+## 📊 Stats Base — Dual Cestra
+
+| Atributo | Valor |
+|---|---|
+| Mastery Rank | 7 |
+| Slot / classe | secundária / Dual Pistols |
+| Gatilho | Auto |
+| Dano total (Normal Attack) | 26,0 |
+| — Impacto | 5,2 |
+| — Perfuração | 20,8 |
+| Chance de crítico | 6% |
+| Multiplicador crítico | 1,6x |
+| Chance de status | 20% |
+| Cadência | 18,75 |
+| Pente | 120 |
+| Munição máxima | 480 |
+| Recarga (s) | 3,5 |
+| Disposição de Riven | 1,35 |
+| Polaridades | Madurai |
+| Introduzida | Update 12.0 |
+
+## 🔗 Relacionados — Dual Cestra
+
+- [[mecanicas/forja.md|Forja]] — como funciona a Foundry

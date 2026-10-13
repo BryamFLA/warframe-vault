@@ -1,0 +1,73 @@
+---
+title: Steflos
+aliases: [Steflos, arma Steflos]
+tipo: arma
+subtipo: primary
+categoria: shotgun
+resumo: "Steflos — arma primária (Shotgun), MR 8. Como conseguir: Blueprint na rotação A e peças na rotação B do Mirror Defense em Tyana Pass, Marte (exige Heart of Deimos). Forja: 20.000 créditos + 4 Neurodes."
+status: parcial
+rag: true
+tags: [arma]
+mastery_rank: 8
+fontes: ["https://wiki.warframe.com/w/Steflos", "https://wiki.warframe.com/w/Module:Weapons/data", "https://wiki.warframe.com/w/Module:Blueprints/data", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Void/data"]
+atualizado: 2026-10-13
+verificado: true
+agente: opus
+gerado_de: modulos-da-wiki
+---
+
+# Steflos
+
+> [!info] Resumo
+> Arma **primária** (Shotgun), **MR 8**, dano principal **Calor**, introduzida no Update 32.3.
+
+## 🌍 Onde Conseguir — Steflos
+
+Como conseguir a arma Steflos:
+
+Blueprint na rotação A e peças na rotação B do **Mirror Defense** em **Tyana Pass, Marte** (exige Heart of Deimos). Alternativa: comprar do **Otak** (Necralisk) com Belric e Rania Crystal Fragments.
+
+| Peça | Fonte (drop) | Chance |
+|---|---|---|
+| Blueprint | Mirror Defense (Tyana Pass, Marte) — rot. A | 10% |
+| Barrel | Mirror Defense (Tyana Pass, Marte) — rot. B | 8% |
+| Receiver | Mirror Defense (Tyana Pass, Marte) — rot. B | 8% |
+| Stock | Mirror Defense (Tyana Pass, Marte) — rot. B | 8% |
+
+**Mercado:** arma pronta no Mercado por **240 platina**.
+
+## 🏗️ Como Construir — Steflos (passo a passo)
+
+1. **Consiga o blueprint** de Steflos (seção anterior).
+2. **Consiga os componentes:** Barrel, Receiver, Stock.
+3. **Junte os recursos e forje na Foundry:** 20.000 créditos + 4 [[recursos/raridades/raro/neurodes.md|Neurodes]] + Barrel, Receiver, Stock. Tempo: **12 h** (pular: 50 platina).
+4. **Upe a arma até o rank 30** para ganhar Mastery.
+
+| Item | Créditos | Recursos | Tempo |
+|---|---|---|---|
+| **Steflos** | 20.000 | 4 [[recursos/raridades/raro/neurodes.md\|Neurodes]] + Barrel, Receiver, Stock | 12 h |
+
+## 📊 Stats Base — Steflos
+
+| Atributo | Valor |
+|---|---|
+| Mastery Rank | 8 |
+| Slot / classe | primária / Shotgun |
+| Gatilho | Semi-Auto |
+| Dano total (Normal Attack) | 320 |
+| — Calor | 190 |
+| — Impacto | 130 |
+| Chance de crítico | 14% |
+| Multiplicador crítico | 2,2x |
+| Chance de status | 22% |
+| Cadência | 3 |
+| Pente | 12 |
+| Munição máxima | 36 |
+| Recarga (s) | 2,4 |
+| Disposição de Riven | 1,25 |
+| Polaridades | Madurai |
+| Introduzida | Update 32.3 |
+
+## 🔗 Relacionados — Steflos
+
+- [[mecanicas/forja.md|Forja]] — como funciona a Foundry

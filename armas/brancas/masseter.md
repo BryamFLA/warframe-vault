@@ -1,0 +1,61 @@
+---
+title: Masseter
+aliases: [Masseter, arma Masseter]
+tipo: arma
+subtipo: melee
+categoria: heavy blade
+resumo: "Masseter — arma melee (Heavy Blade), MR 8. Como conseguir: O blueprint de Masseter é pesquisado no Tenno Lab do Dojo do clã (depois é replicado e forjado). Forja: 20.000 créditos + 2 Argon Crystal, 650 Cryotic, 225 Oxium, 8.600 Salvage."
+status: parcial
+rag: true
+tags: [arma]
+mastery_rank: 8
+fontes: ["https://wiki.warframe.com/w/Masseter", "https://wiki.warframe.com/w/Module:Weapons/data", "https://wiki.warframe.com/w/Module:Blueprints/data", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Void/data"]
+atualizado: 2026-10-13
+verificado: true
+agente: opus
+gerado_de: modulos-da-wiki
+---
+
+# Masseter
+
+> [!info] Resumo
+> Arma **melee** (Heavy Blade), **MR 8**, dano principal **Impacto**, introduzida no Update 26.
+
+## 🌍 Onde Conseguir — Masseter
+
+Como conseguir a arma Masseter:
+
+O blueprint de Masseter é pesquisado no **Tenno Lab** do **Dojo do clã** (depois é replicado e forjado).
+
+**Mercado:** blueprint no **Mercado por 15.000 créditos**; arma pronta no Mercado por **175 platina**.
+
+## 🏗️ Como Construir — Masseter (passo a passo)
+
+1. **Consiga o blueprint** de Masseter (seção anterior).
+2. **Junte os recursos e forje na Foundry:** 20.000 créditos + 2 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]] + 650 [[recursos/raridades/raro/cryotic.md|Cryotic]] + 225 [[recursos/raridades/incomum/oxium.md|Oxium]] + 8.600 [[recursos/raridades/comum/salvage.md|Salvage]]. Tempo: **12 h** (pular: 35 platina).
+3. **Upe a arma até o rank 30** para ganhar Mastery.
+
+| Item | Créditos | Recursos | Tempo |
+|---|---|---|---|
+| **Masseter** | 20.000 | 2 [[recursos/raridades/raro/argon_crystal.md\|Argon Crystal]] + 650 [[recursos/raridades/raro/cryotic.md\|Cryotic]] + 225 [[recursos/raridades/incomum/oxium.md\|Oxium]] + 8.600 [[recursos/raridades/comum/salvage.md\|Salvage]] | 12 h |
+
+## 📊 Stats Base — Masseter
+
+| Atributo | Valor |
+|---|---|
+| Mastery Rank | 8 |
+| Slot / classe | melee / Heavy Blade |
+| Dano total (Normal Attack) | 241,0 |
+| — Impacto | 134,96 |
+| — Corte | 106,04 |
+| Chance de crítico | 24% |
+| Multiplicador crítico | 2x |
+| Chance de status | 28% |
+| Cadência | 1 |
+| Follow-through | 0,6 |
+| Disposição de Riven | 1,25 |
+| Introduzida | Update 26 |
+
+## 🔗 Relacionados — Masseter
+
+- [[mecanicas/forja.md|Forja]] — como funciona a Foundry

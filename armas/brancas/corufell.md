@@ -1,0 +1,68 @@
+---
+title: Corufell
+aliases: [Corufell, arma Corufell]
+tipo: arma
+subtipo: melee
+categoria: heavy scythe
+resumo: "Corufell — arma melee (Heavy Scythe), MR 8. Como conseguir: Blueprint na rotação A e peças na rotação B do Mirror Defense em Tyana Pass, Marte. Forja: 15.000 créditos + 3 Orokin Cell."
+status: parcial
+rag: true
+tags: [arma]
+mastery_rank: 8
+fontes: ["https://wiki.warframe.com/w/Corufell", "https://wiki.warframe.com/w/Module:Weapons/data", "https://wiki.warframe.com/w/Module:Blueprints/data", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Void/data"]
+atualizado: 2026-10-13
+verificado: true
+agente: opus
+gerado_de: modulos-da-wiki
+---
+
+# Corufell
+
+> [!info] Resumo
+> Arma **melee** (Heavy Scythe), **MR 8**, dano principal **Impacto**, introduzida no Update 32.3.
+
+## 🌍 Onde Conseguir — Corufell
+
+Como conseguir a arma Corufell:
+
+Blueprint na rotação A e peças na rotação B do **Mirror Defense** em **Tyana Pass, Marte**. Alternativa: comprar do **Otak** com Crystal Fragments.
+
+| Peça | Fonte (drop) | Chance |
+|---|---|---|
+| Blueprint | Mirror Defense (Tyana Pass, Marte) — rot. A | 10% |
+
+**Mercado:** arma pronta no Mercado por **175 platina**.
+
+## 🏗️ Como Construir — Corufell (passo a passo)
+
+1. **Consiga o blueprint** de Corufell (seção anterior).
+2. **Consiga os componentes:** Corufell Barrel, Corufell Handle, Corufell Receiver.
+3. **Junte os recursos e forje na Foundry:** 15.000 créditos + 3 [[recursos/raridades/raro/orokin_cell.md|Orokin Cell]] + Corufell Barrel, Corufell Handle, Corufell Receiver. Tempo: **12 h** (pular: 50 platina).
+4. **Upe a arma até o rank 30** para ganhar Mastery.
+
+| Item | Créditos | Recursos | Tempo |
+|---|---|---|---|
+| **Corufell** | 15.000 | 3 [[recursos/raridades/raro/orokin_cell.md\|Orokin Cell]] + Corufell Barrel, Corufell Handle, Corufell Receiver | 12 h |
+
+## 📊 Stats Base — Corufell
+
+| Atributo | Valor |
+|---|---|
+| Mastery Rank | 8 |
+| Slot / classe | melee / Heavy Scythe |
+| Dano total (Normal Attack) | 200 |
+| — Impacto | 96 |
+| — Perfuração | 68 |
+| — Corte | 36 |
+| Chance de crítico | 26% |
+| Multiplicador crítico | 2,4x |
+| Chance de status | 14% |
+| Cadência | 1 |
+| Follow-through | 0,4 |
+| Disposição de Riven | 1,05 |
+| Polaridades | Madurai |
+| Introduzida | Update 32.3 |
+
+## 🔗 Relacionados — Corufell
+
+- [[mecanicas/forja.md|Forja]] — como funciona a Foundry

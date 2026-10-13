@@ -1,0 +1,52 @@
+---
+title: Prisma Ohma
+aliases: [Prisma Ohma, arma Prisma Ohma]
+tipo: arma
+subtipo: melee
+categoria: tonfa
+resumo: "Prisma Ohma — arma melee (Tonfa), MR 12. Como conseguir: Prisma Ohma é vendida pelo Baro Ki'Teer (mercador do Void que visita os Relays a cada 2 semanas) por 175,000 créditos e 450 Ducats."
+status: parcial
+rag: true
+tags: [arma]
+mastery_rank: 12
+fontes: ["https://wiki.warframe.com/w/Prisma_Ohma", "https://wiki.warframe.com/w/Module:Weapons/data", "https://wiki.warframe.com/w/Module:Blueprints/data", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Void/data"]
+atualizado: 2026-10-13
+verificado: true
+agente: opus
+gerado_de: modulos-da-wiki
+---
+
+# Prisma Ohma
+
+> [!info] Resumo
+> Arma **melee** (Tonfa), **MR 12**, dano principal **Eletricidade**, introduzida no Update 33.6.3.
+
+## 🌍 Onde Conseguir — Prisma Ohma
+
+Como conseguir a arma Prisma Ohma:
+
+Prisma Ohma é vendida pelo **Baro Ki'Teer** (mercador do Void que visita os Relays a cada 2 semanas) por **175,000 créditos e 450 Ducats**. O estoque muda a cada visita. Cópias sem rank, sem Forma e sem Catalyst são negociáveis.
+
+## 📊 Stats Base — Prisma Ohma
+
+| Atributo | Valor |
+|---|---|
+| Mastery Rank | 12 |
+| Slot / classe | melee / Tonfa |
+| Dano total (Normal Attack) | 250 |
+| — Eletricidade | 124 |
+| — Impacto | 82 |
+| — Corte | 44 |
+| Chance de crítico | 30% |
+| Multiplicador crítico | 2,2x |
+| Chance de status | 20% |
+| Cadência | 1 |
+| Follow-through | 0,6 |
+| Disposição de Riven | 0,95 |
+| Polaridades | Naramon, Madurai |
+| Introduzida | Update 33.6.3 |
+
+## 🔗 Relacionados — Prisma Ohma
+
+- [[armas/brancas/ohma.md|Ohma]] — mesma família
+- [[mecanicas/forja.md|Forja]] — como funciona a Foundry

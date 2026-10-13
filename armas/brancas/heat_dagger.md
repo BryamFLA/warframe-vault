@@ -1,0 +1,64 @@
+---
+title: Heat Dagger
+aliases: [Heat Dagger, arma Heat Dagger]
+tipo: arma
+subtipo: melee
+categoria: dagger
+resumo: "Heat Dagger — arma melee (Dagger), MR 3. Como conseguir: O blueprint de Heat Dagger é comprado nas Nightwave Offerings por 50 Nightwave Creds. Forja: 15.000 créditos + 500 Ferrite, 150 Circuits, 75 Polymer Bundle, 1 Neural Sensors."
+status: parcial
+rag: true
+tags: [arma]
+mastery_rank: 3
+fontes: ["https://wiki.warframe.com/w/Heat_Dagger", "https://wiki.warframe.com/w/Module:Weapons/data", "https://wiki.warframe.com/w/Module:Blueprints/data", "https://wiki.warframe.com/w/Module:DropTables/data", "https://wiki.warframe.com/w/Module:Void/data"]
+atualizado: 2026-10-13
+verificado: true
+agente: opus
+gerado_de: modulos-da-wiki
+---
+
+# Heat Dagger
+
+> [!info] Resumo
+> Arma **melee** (Dagger), **MR 3**, dano principal **Perfuração**, introduzida no Update 5.0.
+
+## 🌍 Onde Conseguir — Heat Dagger
+
+Como conseguir a arma Heat Dagger:
+
+O blueprint de Heat Dagger é comprado nas **Nightwave Offerings** por **50 Nightwave Creds**.
+
+**Mercado:** arma pronta no Mercado por **75 platina**.
+
+## 🏗️ Como Construir — Heat Dagger (passo a passo)
+
+1. **Consiga o blueprint** de Heat Dagger (seção anterior).
+2. **Junte os recursos e forje na Foundry:** 15.000 créditos + 500 [[recursos/raridades/comum/ferrite.md|Ferrite]] + 150 [[recursos/raridades/comum/circuits.md|Circuits]] + 75 [[recursos/raridades/comum/polymer_bundle.md|Polymer Bundle]] + 1 [[recursos/raridades/raro/neural_sensors.md|Neural Sensors]]. Tempo: **12 h** (pular: 25 platina).
+3. **Upe a arma até o rank 30** para ganhar Mastery.
+
+| Item | Créditos | Recursos | Tempo |
+|---|---|---|---|
+| **Heat Dagger** | 15.000 | 500 [[recursos/raridades/comum/ferrite.md\|Ferrite]] + 150 [[recursos/raridades/comum/circuits.md\|Circuits]] + 75 [[recursos/raridades/comum/polymer_bundle.md\|Polymer Bundle]] + 1 [[recursos/raridades/raro/neural_sensors.md\|Neural Sensors]] | 12 h |
+
+## 📊 Stats Base — Heat Dagger
+
+| Atributo | Valor |
+|---|---|
+| Mastery Rank | 3 |
+| Slot / classe | melee / Dagger |
+| Dano total (Normal Attack) | 208 |
+| — Calor | 62 |
+| — Impacto | 14 |
+| — Perfuração | 76 |
+| — Corte | 56 |
+| Chance de crítico | 14% |
+| Multiplicador crítico | 1,6x |
+| Chance de status | 14% |
+| Cadência | 0,75 |
+| Follow-through | 0,9 |
+| Disposição de Riven | 1,44 |
+| Polaridades | Naramon |
+| Introduzida | Update 5.0 |
+
+## 🔗 Relacionados — Heat Dagger
+
+- [[mecanicas/forja.md|Forja]] — como funciona a Foundry
