@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "120/195"
 uso_2025_pct: 0.131
 id: arma:tenet_ferrox
-negociavel: "não"
+negociavel: false
 slot: Primary
 classe: Speargun
 disposicao_riven: 1.15

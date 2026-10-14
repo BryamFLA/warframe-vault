@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "11/233"
 uso_2025_pct: 1.908
 id: arma:nikana_prime
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Melee
 classe: Nikana
 disposicao_riven: 0.6

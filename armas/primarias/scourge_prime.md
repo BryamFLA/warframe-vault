@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "92/195"
 uso_2025_pct: 0.205
 id: arma:scourge_prime
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Primary
 classe: Speargun
 disposicao_riven: 1.1

@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "35/233"
 uso_2025_pct: 0.728
 id: arma:vastilok
-negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+negociavel: true
 slot: Melee
 classe: Gunblade
 disposicao_riven: 0.9

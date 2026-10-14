@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "55/195"
 uso_2025_pct: 0.393
 id: arma:kuva_chakkhurr
-negociavel: "indireto — via troca de Lich/Sister"
+negociavel: true
 slot: Primary
 classe: Rifle
 disposicao_riven: 0.95

@@ -58,7 +58,14 @@ Q=[("Onde posso conseguir o warframe Excalibur","warframes/regular/excalibur.md"
 ("Quais as novidades do ultimo update","mecanicas/atualizacoes_recentes.md"),
 ("Como chocar um Kubrow na incubadora","mecanicas/criacao_de_companheiros.md"),
 ("Como funciona a Netracell","missoes/tipos/netracells.md"),
-("Como aumentar a capacidade de mod e polaridade","mecanicas/modding.md")]
+("Como aumentar a capacidade de mod e polaridade","mecanicas/modding.md"),
+("Qual a historia da quest The Old Peace","missoes/jornadas/principais/the_old_peace.md"),
+("Como conseguir a Gara","missoes/jornadas/secundarios/sayas_vigil.md"),
+("O que e Omni Forma e onde conseguir","recursos/raridades/especial/omni_forma.md"),
+("Onde fica o Nightcap e como subir de rank","mecanicas/sindicatos/nightcap.md"),
+("Como conseguir o Sevagoth","missoes/jornadas/secundarios/call_of_the_tempestarii.md"),
+("O que acontece em Jade Shadows","missoes/jornadas/principais/jade_shadows.md"),
+("Lista de todas as quests em ordem","missoes/jornadas/_Jornadas _Indice.md")]
 if "--geral" in sys.argv:
     # perguntas geradas para TODA entidade indexavel de warframes/, armas/ e recursos/
     import random

@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "23/195"
 uso_2025_pct: 1.099
 id: arma:kuva_zarr
-negociavel: "indireto — via troca de Lich/Sister"
+negociavel: true
 slot: Primary
 classe: Launcher
 disposicao_riven: 0.7

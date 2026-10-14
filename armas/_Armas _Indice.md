@@ -15,7 +15,7 @@ total-secundarias: 93
 total-brancas: 135
 total-archwing: 23
 indices-relacionados: [_Armas _Primarias _Indice, _Armas _Secundarias _Indice, _Armas _Brancas _Indice, _Armas _Archwing _Indice, _Mods _Indice, _Recursos _Indice, _Locais _Indice]
-total-notas: 642
+total-notas: 643
 ---
 
 # Armas — Índice
@@ -568,7 +568,7 @@ Cada sub-índice cobre mecânicas exclusivas da sua categoria além da lista de 
 |---|---|
 | [[armas/archwing/_Armas _Archwing _Indice.md\|Armas Archwing — Índice]] | 28 |
 | [[armas/brancas/_Armas _Brancas _Indice.md\|Armas Brancas — Índice]] | 225 |
-| [[armas/primarias/_Armas _Primarias _Indice.md\|Armas Primárias — Índice]] | 196 |
+| [[armas/primarias/_Armas _Primarias _Indice.md\|Armas Primárias — Índice]] | 197 |
 | [[armas/secundarias/_Armas _Secundarias _Indice.md\|Armas Secundárias — Índice]] | 156 |
 
 ## 📋 Lista — Armas — Índice — amps · amp (16)

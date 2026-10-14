@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "129/233"
 uso_2025_pct: 0.148
 id: arma:synoid_heliocor
-negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+negociavel: true
 slot: Melee
 classe: Hammer
 disposicao_riven: 1.35

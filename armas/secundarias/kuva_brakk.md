@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "45/153"
 uso_2025_pct: 0.419
 id: arma:kuva_brakk
-negociavel: "indireto — via troca de Lich/Sister"
+negociavel: true
 slot: Secondary
 classe: Shotgun Sidearm
 disposicao_riven: 0.95

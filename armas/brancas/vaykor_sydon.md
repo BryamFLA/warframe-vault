@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "157/233"
 uso_2025_pct: 0.099
 id: arma:vaykor_sydon
-negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+negociavel: true
 slot: Melee
 classe: Polearm
 disposicao_riven: 1.3

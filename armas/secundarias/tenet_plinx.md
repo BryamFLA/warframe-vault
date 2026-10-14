@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "24/153"
 uso_2025_pct: 0.7
 id: arma:tenet_plinx
-negociavel: "indireto — via troca de Lich/Sister"
+negociavel: true
 slot: Secondary
 classe: Pistol
 disposicao_riven: 0.8

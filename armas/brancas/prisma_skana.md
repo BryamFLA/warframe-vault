@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "33/233"
 uso_2025_pct: 0.738
 id: arma:prisma_skana
-negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+negociavel: true
 slot: Melee
 classe: Sword
 disposicao_riven: 1.2

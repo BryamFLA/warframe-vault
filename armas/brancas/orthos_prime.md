@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "13/233"
 uso_2025_pct: 1.441
 id: arma:orthos_prime
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Melee
 classe: Polearm
 disposicao_riven: 0.7

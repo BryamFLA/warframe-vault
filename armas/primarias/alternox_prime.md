@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "178/195"
 uso_2025_pct: 0.04
 id: arma:alternox_prime
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Primary
 classe: Rifle
 disposicao_riven: 0.95

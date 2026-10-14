@@ -15,7 +15,7 @@ verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
 id: arma:morgha
-negociavel: "só componentes construídos"
+negociavel: true
 slot: Archgun
 classe: Archgun
 disposicao_riven: 1

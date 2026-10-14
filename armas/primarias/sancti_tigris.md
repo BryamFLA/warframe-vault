@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "167/195"
 uso_2025_pct: 0.054
 id: arma:sancti_tigris
-negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+negociavel: true
 slot: Primary
 classe: Shotgun
 disposicao_riven: 1

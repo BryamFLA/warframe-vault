@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "14/153"
 uso_2025_pct: 1.395
 id: arma:pyrana_prime
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Secondary
 classe: Shotgun Sidearm
 disposicao_riven: 0.65

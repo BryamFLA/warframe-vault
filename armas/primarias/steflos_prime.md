@@ -15,7 +15,7 @@ verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
 id: arma:steflos_prime
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Primary
 classe: Shotgun
 disposicao_riven: 0.5

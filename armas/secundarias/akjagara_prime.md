@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "47/153"
 uso_2025_pct: 0.399
 id: arma:akjagara_prime
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Secondary
 classe: Dual Pistols
 disposicao_riven: 1

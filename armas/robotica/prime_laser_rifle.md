@@ -15,7 +15,7 @@ verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
 id: arma:prime_laser_rifle
-negociavel: "indireto — vem com o companheiro"
+negociavel: true
 slot: Robotic
 classe: Rifle
 disposicao_riven: 1.21

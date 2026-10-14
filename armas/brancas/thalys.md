@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "20/233"
 uso_2025_pct: 1.041
 id: arma:thalys
-negociavel: "não"
+negociavel: false
 slot: Melee
 classe: Heavy Scythe
 disposicao_riven: 0.65

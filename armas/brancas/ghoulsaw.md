@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "175/233"
 uso_2025_pct: 0.083
 id: arma:ghoulsaw
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Melee
 classe: Assault Saw
 disposicao_riven: 1.25

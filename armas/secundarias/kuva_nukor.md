@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "1/153"
 uso_2025_pct: 8.611
 id: arma:kuva_nukor
-negociavel: "indireto — via troca de Lich/Sister"
+negociavel: true
 slot: Secondary
 classe: Pistol
 disposicao_riven: 0.5

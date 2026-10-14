@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "125/195"
 uso_2025_pct: 0.121
 id: arma:vaykor_hek
-negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+negociavel: true
 slot: Primary
 classe: Shotgun
 disposicao_riven: 1.15

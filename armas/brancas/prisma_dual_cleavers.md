@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "150/233"
 uso_2025_pct: 0.105
 id: arma:prisma_dual_cleavers
-negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+negociavel: true
 slot: Melee
 classe: Dual Swords
 disposicao_riven: 1.1

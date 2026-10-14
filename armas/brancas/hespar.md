@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "89/233"
 uso_2025_pct: 0.256
 id: arma:hespar
-negociavel: "não"
+negociavel: false
 slot: Melee
 classe: Heavy Scythe
 disposicao_riven: 1.05

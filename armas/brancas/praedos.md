@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "3/233"
 uso_2025_pct: 4.453
 id: arma:praedos
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Melee
 classe: Tonfa
 disposicao_riven: 0.6

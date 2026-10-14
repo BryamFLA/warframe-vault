@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "95/195"
 uso_2025_pct: 0.193
 id: arma:prisma_gorgon
-negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+negociavel: true
 slot: Primary
 classe: Rifle
 disposicao_riven: 1.3

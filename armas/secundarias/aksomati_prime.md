@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "51/153"
 uso_2025_pct: 0.371
 id: arma:aksomati_prime
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Secondary
 classe: Dual Pistols
 disposicao_riven: 1.1

@@ -48,6 +48,12 @@ MOAs usam mods de companheiro robótico; Mecha Empowered e Overdrive fazem parte
 
 > Build de referência (curadoria do agente). Os precepts exclusivos do companheiro vêm equipados de fábrica — mantenha-os.
 
+## 📖 História — Nychus Moa
+
+MOAs são os bípedes robóticos dos **[[lore/faccoes/corpus.md|Corpus]]**. **Codex:** "MOAs are versatile robotic allies that specialize in indirect support both in and outside of combat."
+
+Em [[locais/open-worlds/fortuna.md|Fortuna]], os Solaris reaproveitam peças Corpus roubadas no Orb Vallis para montar MOAs de companhia — uma das formas da resistência Solaris United de virar a tecnologia de Nef Anyo contra ele. O **Model** Nychus foi adicionado depois, no Update 28. Ver [[mecanicas/criacao_de_companheiros.md|Criação de Companheiros]].
+
 ## 🔗 Relacionados — Nychus Moa
 
 - [[mecanicas/forja.md|Forja]]

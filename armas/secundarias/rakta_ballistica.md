@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "141/153"
 uso_2025_pct: 0.071
 id: arma:rakta_ballistica
-negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+negociavel: true
 slot: Secondary
 classe: Crossbow
 disposicao_riven: 1.2

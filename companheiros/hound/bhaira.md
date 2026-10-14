@@ -47,6 +47,12 @@ Hounds são companheiros robóticos montados com peças das Sisters of Parvos; o
 
 > Build de referência (curadoria do agente). Os precepts exclusivos do companheiro vêm equipados de fábrica — mantenha-os.
 
+## 📖 História — Bhaira Hound
+
+Hounds são companheiros robóticos **[[lore/faccoes/corpus.md|Corpus]]** construídos para o combate. **Codex:** "Hounds are powerful robotic companions optimized for combat. They are programmed to excel at battlefield control and can be configured for countless scenarios."
+
+Chegaram com o sistema das **Sisters of Parvos** (Update 30.5, 2021): no jogo, cada Sister de Parvos caça o Tenno acompanhada de Hounds, e o jogador monta o seu próprio Hound a partir de componentes obtidos desse sistema (ver Onde Conseguir). O **Model** (Bhaira) define o visual e a habilidade-base; os outros componentes (Core, Bracket, Stabilizer) definem os precepts. Ver [[mecanicas/adversarios_lich_sister_coda.md|Adversários]] e [[mecanicas/criacao_de_companheiros.md|Criação de Companheiros]].
+
 ## 🔗 Relacionados — Bhaira Hound
 
 - [[mecanicas/forja.md|Forja]]

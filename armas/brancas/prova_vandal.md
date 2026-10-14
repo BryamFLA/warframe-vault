@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "223/233"
 uso_2025_pct: 0.038
 id: arma:prova_vandal
-negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+negociavel: true
 slot: Melee
 classe: Machete
 disposicao_riven: 1.35

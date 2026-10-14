@@ -15,7 +15,7 @@ verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
 id: arma:deth_machine_rifle_prime
-negociavel: "indireto — vem com o companheiro"
+negociavel: true
 slot: Robotic
 classe: Rifle
 disposicao_riven: 1.455

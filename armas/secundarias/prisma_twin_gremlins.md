@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "84/153"
 uso_2025_pct: 0.195
 id: arma:prisma_twin_gremlins
-negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+negociavel: true
 slot: Secondary
 classe: Dual Pistols
 disposicao_riven: 1.15

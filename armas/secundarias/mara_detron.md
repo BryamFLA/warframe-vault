@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "102/153"
 uso_2025_pct: 0.144
 id: arma:mara_detron
-negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+negociavel: true
 slot: Secondary
 classe: Shotgun Sidearm
 disposicao_riven: 1.15

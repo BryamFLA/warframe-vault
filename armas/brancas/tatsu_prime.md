@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "58/233"
 uso_2025_pct: 0.419
 id: arma:tatsu_prime
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Melee
 classe: Two-Handed Nikana
 disposicao_riven: 0.9

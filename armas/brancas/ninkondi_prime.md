@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "130/233"
 uso_2025_pct: 0.148
 id: arma:ninkondi_prime
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Melee
 classe: Nunchaku
 disposicao_riven: 1.1

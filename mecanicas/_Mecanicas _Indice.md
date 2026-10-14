@@ -8,7 +8,7 @@ rag: true
 tags: [index, mecanica]
 atualizado: 2026-10-13
 agente: opus
-total-notas: 63
+total-notas: 66
 ---
 
 # Mecânicas — Índice
@@ -100,7 +100,7 @@ Conteúdo de tempo limitado que retorna periodicamente com mecânicas próprias 
 | Sub-índice | Notas |
 |---|---|
 | [[mecanicas/eventos/_Eventos _Indice.md\|Eventos — Índice]] | 7 |
-| [[mecanicas/sindicatos/_Sindicatos _Indice.md\|Sindicatos — Índice]] | 19 |
+| [[mecanicas/sindicatos/_Sindicatos _Indice.md\|Sindicatos — Índice]] | 22 |
 
 ## 📋 Lista — Mecânicas — Índice — geral (37)
 

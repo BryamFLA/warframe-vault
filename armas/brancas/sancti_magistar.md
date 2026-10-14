@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "9/233"
 uso_2025_pct: 2.52
 id: arma:sancti_magistar
-negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+negociavel: true
 slot: Melee
 classe: Hammer
 disposicao_riven: 1.25

@@ -15,7 +15,7 @@ verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
 id: arma:kuva_ayanga
-negociavel: "indireto — via troca de Lich/Sister"
+negociavel: true
 slot: Archgun
 classe: Archgun
 disposicao_riven: 0.95

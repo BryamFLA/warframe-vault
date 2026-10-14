@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "104/195"
 uso_2025_pct: 0.17
 id: arma:tenet_flux_rifle
-negociavel: "indireto — via troca de Lich/Sister"
+negociavel: true
 slot: Primary
 classe: Rifle
 disposicao_riven: 1.2

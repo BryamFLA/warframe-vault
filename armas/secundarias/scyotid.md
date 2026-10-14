@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "20/153"
 uso_2025_pct: 0.891
 id: arma:scyotid
-negociavel: "não"
+negociavel: false
 slot: Secondary
 classe: Thrown
 disposicao_riven: 0.75

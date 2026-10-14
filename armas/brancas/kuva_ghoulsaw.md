@@ -15,7 +15,7 @@ verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
 id: arma:kuva_ghoulsaw
-negociavel: "indireto — via troca de Lich/Sister"
+negociavel: true
 slot: Melee
 classe: Assault Saw
 disposicao_riven: 0.8

@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "127/233"
 uso_2025_pct: 0.15
 id: arma:cobra_e_crane_prime
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Melee
 classe: Sword and Shield
 disposicao_riven: 1.2

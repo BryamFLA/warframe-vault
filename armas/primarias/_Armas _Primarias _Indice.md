@@ -11,7 +11,7 @@ atualizado: 2026-10-13
 agente: opus
 total-primarias: 129
 indices-relacionados: [_Armas _Indice, _Mods Armas _Indice, _Recursos _Indice, _Locais _Indice]
-total-notas: 196
+total-notas: 197
 ---
 
 # Armas Primárias — Índice
@@ -197,7 +197,7 @@ Armas primárias ocupam o slot principal do Tenno e são a primeira linha de com
 | [[armas/primarias/zhuge.md\|Zhuge]] | Arco | Mercado (blueprint) |
 | [[armas/primarias/zhuge_prime.md\|Zhuge Prime]] | Arco | Relíquias (Prime) |
 
-## 📋 Lista — Armas Primárias — Índice — geral (196)
+## 📋 Lista — Armas Primárias — Índice — geral (197)
 
 | Nome | Tipo | MR | Resumo |
 |---|---|---|---|
@@ -391,6 +391,7 @@ Armas primárias ocupam o slot principal do Tenno e são a primeira linha de com
 | [[armas/primarias/vectis_prime.md\|Vectis Prime]] | primary | 14 | Vectis Prime — arma primária (Sniper Rifle), MR 14. Como conseguir: peças Prime saem de Relíquias do Void (todas vaultadas no momento). Forj… |
 | [[armas/primarias/veldt.md\|Veldt]] | primary | 8 | Veldt — arma primária (Rifle), MR 8. Como conseguir: O blueprint de Veldt é pesquisado no Tenno Lab do Dojo do clã (depois é replicado e for… |
 | [[armas/primarias/vermisplicer.md\|Vermisplicer]] | primary | 0 | Vermisplicer — arma primária (Rifle), MR 0. Como conseguir: É um Kitgun Infested: o blueprint do *chamber* é comprado do Father (Entrati) po… |
+| [[armas/primarias/vinquibus_primary.md\|Vinquibus (Primary)]] | primary | 14 | Vinquibus (Primary) — arma primária (Rifle), MR 14. Como conseguir: blueprints no Roathe's Oblivion (Descendia, após The Old Peace) ou com o… |
 | [[armas/primarias/vulkar.md\|Vulkar]] | primary | 3 | Vulkar — arma primária (Sniper Rifle), MR 3. Como conseguir: O blueprint de Vulkar é vendido no Mercado; também é recompensa da Junção Mars … |
 | [[armas/primarias/vulkar_wraith.md\|Vulkar Wraith]] | primary | 7 | Vulkar Wraith — arma primária (Sniper Rifle), MR 7. Como conseguir: Vulkar Wraith é vendida pelo Baro Ki'Teer (mercador do Void que visita o… |
 | [[armas/primarias/zarr.md\|Zarr]] | primary | 7 | Zarr — arma primária (Launcher), MR 7. Como conseguir: O blueprint de Zarr é vendido no Mercado (por créditos). Forja: 30.000 créditos + 1.8… |

@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "77/195"
 uso_2025_pct: 0.276
 id: arma:efv_5_jupiter
-negociavel: "não"
+negociavel: false
 slot: Primary
 classe: Rifle
 disposicao_riven: 1.05

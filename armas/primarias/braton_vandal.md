@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "165/195"
 uso_2025_pct: 0.056
 id: arma:braton_vandal
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Primary
 classe: Rifle
 disposicao_riven: 1.3

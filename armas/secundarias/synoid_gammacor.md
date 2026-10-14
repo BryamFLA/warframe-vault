@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "41/153"
 uso_2025_pct: 0.493
 id: arma:synoid_gammacor
-negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+negociavel: true
 slot: Secondary
 classe: Pistol
 disposicao_riven: 1.1

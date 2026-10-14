@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "219/233"
 uso_2025_pct: 0.044
 id: arma:prisma_machete
-negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+negociavel: true
 slot: Melee
 classe: Machete
 disposicao_riven: 1.45

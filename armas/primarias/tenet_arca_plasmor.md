@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "8/195"
 uso_2025_pct: 2.185
 id: arma:tenet_arca_plasmor
-negociavel: "indireto — via troca de Lich/Sister"
+negociavel: true
 slot: Primary
 classe: Shotgun
 disposicao_riven: 0.6

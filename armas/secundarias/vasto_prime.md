@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "44/153"
 uso_2025_pct: 0.422
 id: arma:vasto_prime
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Secondary
 classe: Pistol
 disposicao_riven: 1.35

@@ -15,7 +15,7 @@ verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
 id: arma:athodai_prime
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Secondary
 classe: Pistol
 disposicao_riven: 0.65

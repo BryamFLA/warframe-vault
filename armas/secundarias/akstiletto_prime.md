@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "42/153"
 uso_2025_pct: 0.473
 id: arma:akstiletto_prime
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Secondary
 classe: Dual Pistols
 disposicao_riven: 0.85

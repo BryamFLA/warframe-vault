@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "133/195"
 uso_2025_pct: 0.115
 id: arma:glaxion_vandal
-negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+negociavel: true
 slot: Primary
 classe: Rifle
 disposicao_riven: 1.25

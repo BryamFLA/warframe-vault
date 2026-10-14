@@ -26,7 +26,7 @@ agente: opus
 
 ## ⏳ Em aberto
 
-- **Entidades sem arquivo próprio** (citadas em texto puro nas notas novas): Warframe **Sirius & Orion** (Update 43); arma **Vinquibus** (Update 41); quests **The Teacher**, **The Old Peace**, **Jade Shadows**, **Jade Shadows: Constellations**, **The Lotus Eaters**, **Awakening**, **Vox Solaris** (quest), **Call of the Tempestarii**; sindicatos **Ventkids**, **Kahl's Garrison**, **Nightcap**; itens **Melee Arcane Adapter**, **Omni Forma**, **Elemental Vice**; índice `missoes/jornadas/_Jornadas _Indice.md`. Criar se quiser cobertura completa.
+- ✅ (2026-10-14) Entidades que faltavam criadas: quests The Teacher, Awakening, Vox Solaris, The Lotus Eaters, The Old Peace, Jade Shadows, Jade Shadows: Constellations, Call of the Tempestarii, Saya's Vigil; sindicatos Ventkids, Kahl's Garrison, Nightcap; itens Omni Forma, Melee Arcane Adapter, Elemental Vice; arma Vinquibus (Primary); índice `missoes/jornadas/_Jornadas _Indice.md`; História nos 9 companheiros que faltavam.
 - Conteúdo pós-2026-10-14 (Epoch Operation: Taubound, quest prólogo de Tau, Warframe: Tau) ainda não está no vault — atualizar `mecanicas/atualizacoes_recentes.md` quando sair.
 
 - Overframe bloqueia acesso automatizado (Cloudflare); a avaliação popular usa os **dados oficiais de uso da DE** (ver `mecanicas/popularidade_uso.md`). Se quiser notas de tier list da comunidade, exporte manualmente.

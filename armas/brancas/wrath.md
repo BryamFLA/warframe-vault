@@ -15,7 +15,7 @@ verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
 id: arma:wrath
-negociavel: "não"
+negociavel: false
 slot: Melee
 classe: Heavy Scythe
 disposicao_riven: 0.7

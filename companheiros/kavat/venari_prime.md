@@ -62,6 +62,12 @@ Kavats e Predasites/Vulpaphylas são feras: os mods Link copiam sua vida/armadur
 
 > Build de referência (curadoria do agente). Os precepts exclusivos do companheiro vêm equipados de fábrica — mantenha-os.
 
+## 📖 História — Venari Prime
+
+**Codex:** "Khora's will, Venari's fangs and claws." — a vontade da Khora, as presas e garras da Venari.
+
+A Venari Prime chegou com o Prime Access da [[warframes/primes/khora_prime.md|Khora Prime]] (Update 31.7, 2022), na versão dourada Orokin. Como a Venari comum, faz parte do kit da Khora Prime (habilidade **Venari**) e não é criada na Incubadora.
+
 ## 🔗 Relacionados — Venari Prime
 
 - [[mecanicas/forja.md|Forja]]

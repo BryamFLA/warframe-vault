@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "28/233"
 uso_2025_pct: 0.861
 id: arma:coda_pathocyst
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Melee
 classe: Glaive
 disposicao_riven: 0.65

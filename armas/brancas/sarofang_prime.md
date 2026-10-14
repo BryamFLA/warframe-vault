@@ -15,7 +15,7 @@ verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
 id: arma:sarofang_prime
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Melee
 classe: Heavy Blade
 disposicao_riven: 0.75

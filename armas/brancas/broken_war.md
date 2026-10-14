@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "1/233"
 uso_2025_pct: 5.417
 id: arma:broken_war
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Melee
 classe: Sword
 disposicao_riven: 1.15

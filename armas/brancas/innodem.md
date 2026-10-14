@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "22/233"
 uso_2025_pct: 0.985
 id: arma:innodem
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Melee
 classe: Dagger
 disposicao_riven: 0.65

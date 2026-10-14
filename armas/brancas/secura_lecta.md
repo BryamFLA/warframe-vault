@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "144/233"
 uso_2025_pct: 0.123
 id: arma:secura_lecta
-negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+negociavel: true
 slot: Melee
 classe: Whip
 disposicao_riven: 1.2

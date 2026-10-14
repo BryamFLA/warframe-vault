@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "117/153"
 uso_2025_pct: 0.116
 id: arma:spira_prime
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Secondary
 classe: Thrown
 disposicao_riven: 1.25

@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "147/153"
 uso_2025_pct: 0.054
 id: arma:sancti_castanas
-negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+negociavel: true
 slot: Secondary
 classe: Thrown
 disposicao_riven: 1.35

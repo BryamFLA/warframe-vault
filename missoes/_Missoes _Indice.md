@@ -8,7 +8,7 @@ rag: true
 tags: [index, missao]
 atualizado: 2026-10-13
 agente: opus
-total-notas: 101
+total-notas: 110
 ---
 
 # Missões — Índice
@@ -229,6 +229,12 @@ Bounties são missões encadeadas oferecidas pelos sindicatos dos Open Worlds. C
 - O Void foi o único bioma do jogo por muito tempo onde Warframes Prime podiam ser farmados — o sistema de Void Relics que o substituiu foi adicionado em 2016, tornando o acesso mais acessível mas retirando a exclusividade do Void como destino de farm.
 - Caça de Eidolons à noite nas Planícies é um dos conteúdos mais elaborados do jogo em termos de coordenação — runs de Tridolon (três Eidolons em uma noite) exigem squads especializados com builds de Operator específicas, Arcanes de alta raridade e execução coordenada.
 
+## 📋 Lista — Missões — Índice — Sub-índices
+
+| Sub-índice | Notas |
+|---|---|
+| [[missoes/jornadas/_Jornadas _Indice.md\|Jornadas (Quests) — Índice]] | 45 |
+
 ## 📋 Lista — Missões — Índice — bounties (4)
 
 | Nome | Tipo | MR | Resumo |
@@ -237,52 +243,6 @@ Bounties são missões encadeadas oferecidas pelos sindicatos dos Open Worlds. C
 | [[missoes/bounties/orbe_vallis.md\|Bounties de Fortuna (Orb Vallis)]] | bounty | — | Bounties de Fortuna (Orb Vallis) — Missões multi-estágio dadas pela Eudico em locais/open-worlds/fortuna.md\|Fortuna ou por Solaris United Ag… |
 | [[missoes/bounties/zariman.md\|Bounties do Chrysalith (Zariman Ten Zero)]] | bounty | — | As bounties do Quinn no locais/open-worlds/zariman.md\|Chrysalith não têm estágios: são missões normais do Zariman com um objetivo de bounty … |
 | [[missoes/bounties/cambion_drift.md\|Bounties do Necralisk (Cambion Drift)]] | bounty | — | Bounties do Necralisk (Cambion Drift) — Missões multi-estágio dadas pela Mother no locais/open-worlds/deimos.md\|Necralisk ou no locais/plane… |
-
-## 📋 Lista — Missões — Índice — jornadas/principais (24)
-
-| Nome | Tipo | MR | Resumo |
-|---|---|---|---|
-| [[missoes/jornadas/principais/1999.md\|1999 — The Hex]] | jornada | — | O arco de Höllvania: o Drifter viaja ao ano 1999 na véspera do Ano Novo e se junta aos Protoframes conhecidos como The Hex para localizar Al… |
-| [[missoes/jornadas/principais/angels_of_the_zariman.md\|Angels of the Zariman]] | jornada | — | Angels of the Zariman — A volta à nave onde os Tenno nasceram: o Zariman Ten Zero emergiu do Void, e Grineer, Corpus e algo que canta nas pa… |
-| [[missoes/jornadas/principais/apostasy_prologue.md\|Apostasy Prologue]] | jornada | — | Apostasy Prologue — A quest curta em que Ballas leva a Lotus: revivendo os últimos momentos de Margulis antes da execução, o Tenno assiste a… |
-| [[missoes/jornadas/principais/chains_of_harrow.md\|Chains of Harrow]] | jornada | — | Chains of Harrow — A quest de terror do jogo: uma transmissão de uma nave abandonada do Steel Meridian leva ao Tenno Rell, expulso pelos seu… |
-| [[missoes/jornadas/principais/chimera_prologue.md\|Chimera Prologue]] | jornada | — | Chimera Prologue — A quest curta em que Ballas reaparece virado Sentient: o primeiro ato do Prelude to War, e o momento em que ele entrega a… |
-| [[missoes/jornadas/principais/erra.md\|Erra]] | jornada | — | Erra — O segundo ato do Prelude to War: a bordo de um Murex no Veil Proxima, o Operator assiste a uma reunião entre Ballas, Natah, o irmão d… |
-| [[missoes/jornadas/principais/heart_of_deimos.md\|Heart of Deimos]] | jornada | — | Heart of Deimos — A quest que abre o Cambion Drift: a família Entrati, Orokin parcialmente Infested, precisa consertar o Heart — o artefato … |
-| [[missoes/jornadas/principais/natah.md\|Natah]] | jornada | — | Natah — A quest que revela que a Lotus é Sentient: drones estranhos em Urano levam o Tenno a um destroço da Antiga Guerra — e a um segredo q… |
-| [[missoes/jornadas/principais/octavias_anthem.md\|Octavia's Anthem]] | jornada | — | Octavia's Anthem — A quest da Warframe musical: Cephalon Suda pede ao Tenno que construa um Mandachord e então começa a apresentar glitches … |
-| [[missoes/jornadas/principais/once_awake.md\|Once Awake]] | jornada | — | Once Awake — A quest que apresenta os Infested: Dr. |
-| [[missoes/jornadas/principais/prelude_to_war.md\|Prelude to War]] | jornada | — | Prelude to War — Não é uma quest única: é o arco narrativo que prepara a Nova Guerra, feito de mini-quests e cutscenes — Chimera Prologue, E… |
-| [[missoes/jornadas/principais/rising_tide.md\|Rising Tide]] | jornada | — | Rising Tide — A quest de construção do Railjack: o Tenno reconstrói Cephalon Cy e caça pelo Sistema as peças de uma nave de guerra Orokin da… |
-| [[missoes/jornadas/principais/sands_of_inaros.md\|Sands of Inaros]] | jornada | — | Sands of Inaros — Baro Ki'Teer manda o Tenno escavar um túmulo em Marte: é a tumba de Inaros, o Warframe que protegeu uma colônia dos Golden… |
-| [[missoes/jornadas/principais/the_archwing.md\|The Archwing]] | jornada | — | The Archwing — A quest que destrava combate espacial: com uma Balor Fomorian ameaçando o equilíbrio de poder, o Tenno precisa construir um A… |
-| [[missoes/jornadas/principais/the_deadlock_protocol.md\|The Deadlock Protocol]] | jornada | — | The Deadlock Protocol — Nef Anyo tenta provar que é herdeiro de Parvos Granum para tomar a Corpus Board — e a busca leva ao Granum Void, ond… |
-| [[missoes/jornadas/principais/the_duviri_paradox.md\|The Duviri Paradox]] | jornada | — | The Duviri Paradox — A quest que explica o Drifter: preso num loop infinito sendo executado por um rei que reseta o tempo, ele descobre que … |
-| [[missoes/jornadas/principais/the_new_war.md\|The New War]] | jornada | — | The New War — A maior quest do jogo: os Sentients invadem, Tenno, Grineer e Corpus se aliam, e você perde a Warframe, o Operator e a Lotus —… |
-| [[missoes/jornadas/principais/the_sacrifice.md\|The Sacrifice]] | jornada | — | The Sacrifice — A quest que revela o que as Warframes são: com a Lotus levada por Ballas, o Tenno encontra Excalibur Umbra — uma Warframe co… |
-| [[missoes/jornadas/principais/the_second_dream.md\|The Second Dream]] | jornada | — | The Second Dream — A quest que revela que você não é a Warframe. |
-| [[missoes/jornadas/principais/the_war_within.md\|The War Within]] | jornada | — | The War Within — A quest em que você perde a Warframe e precisa sobreviver como Operator: rastreando Teshin até a Kuva Fortress, o Tenno rec… |
-| [[missoes/jornadas/principais/the_waverider.md\|The Waverider]] | jornada | — | The Waverider — A quest de Yareli, contada em quadrinhos: destravar as páginas de uma Graphica cumprindo desafios de K-Drive, enquanto a his… |
-| [[missoes/jornadas/principais/veilbreaker.md\|Veilbreaker]] | jornada | — | Veilbreaker — A quest de Kahl-175: um Lancer Grineer arranca a própria Narmer Veil num Murex sobre Deimos e começa uma campanha para liberta… |
-| [[missoes/jornadas/principais/vors_prize.md\|Vor's Prize]] | jornada | — | Vor's Prize — A segunda quest do jogo e o tutorial de verdade: você acorda da criostase com Captain Vor atrás de você e monta o Orbiter peça… |
-| [[missoes/jornadas/principais/whispers_in_the_walls.md\|Whispers in the Walls]] | jornada | — | Whispers in the Walls — A descida aos laboratórios subterrâneos de Albrecht Entrati: com a Indifference inquieta depois dos portais de Balla… |
-
-## 📋 Lista — Missões — Índice — jornadas/secundarios (12)
-
-| Nome | Tipo | MR | Resumo |
-|---|---|---|---|
-| [[missoes/jornadas/secundarios/a_man_of_few_words.md\|A Man of Few Words]] | jornada | — | A quest do Clem: Darvo pede ao Tenno que resgate um "contratado" dele — um Grineer que só diz "Clem" e que vira o companheiro mais querido d… |
-| [[missoes/jornadas/secundarios/hidden_messages.md\|Hidden Messages]] | jornada | — | Hidden Messages — A quest de enigmas da Mirage: três partes, três atos, três enigmas — Ordis recita poemas cifrados e o Tenno precisa decifr… |
-| [[missoes/jornadas/secundarios/howl_of_the_kubrow.md\|Howl of the Kubrow]] | jornada | — | Howl of the Kubrow — A quest do primeiro companheiro: um Corpus cobrando de um doutor um Kubrow "digno de um príncipe Orokin" leva o Tenno a… |
-| [[missoes/jornadas/secundarios/mask_of_the_revenant.md\|Mask of the Revenant]] | jornada | — | Mask of the Revenant — A vendedora Nakak vende ao Tenno uma máscara estranha dada por Onkko: ela conta a história de um Warframe deixado par… |
-| [[missoes/jornadas/secundarios/patient_zero.md\|Patient Zero]] | jornada | — | Patient Zero — A quest que apresenta Mutalist Alad V: sabotando naves Infested para triangular a posição dele, o Tenno destrói o laboratório… |
-| [[missoes/jornadas/secundarios/stolen_dreams.md\|Stolen Dreams]] | jornada | — | Stolen Dreams — A caça aos Arcane Codices: Grineer querem usá-los para curar a Cloning Decay Syndrome, o Corpus quer enriquecer com eles — e… |
-| [[missoes/jornadas/secundarios/the_glast_gambit.md\|The Glast Gambit]] | jornada | — | The Glast Gambit — A quest do Nidus: Ergo Glast conta a história da Mycona Colony, que prospera colhendo matéria Infested — e Nef Anyo quer … |
-| [[missoes/jornadas/secundarios/the_index_preview.md\|The Index Preview]] | jornada | — | A introdução ao The Index: a arena de apostas de Nef Anyo em Netuno, hospedada por Cephalon Sark, onde Tenno e Corpus de elite lutam por cré… |
-| [[missoes/jornadas/secundarios/the_jordas_precept.md\|The Jordas Precept]] | jornada | — | The Jordas Precept — Um Cephalon em pânico pede socorro: "PRECEPT 44 CEPHALON STRANDED. |
-| [[missoes/jornadas/secundarios/the_limbo_theorem.md\|The Limbo Theorem]] | jornada | — | The Limbo Theorem — A quest de puzzle do Limbo: Ordis fica confuso com um teorema incompleto, e o Tenno precisa montar as três Theorem Keys … |
-| [[missoes/jornadas/secundarios/the_new_strange.md\|The New Strange]] | jornada | — | The New Strange — Continuação de Stolen Dreams: o Tenno ajuda Cephalon Simaris a libertar os Sentinels dele dos Grineer — e encontra "fragme… |
-| [[missoes/jornadas/secundarios/the_silver_grove.md\|The Silver Grove]] | jornada | — | The Silver Grove — A quest da Titania: trabalhando com a New Loka, o Tenno protege o lugar mais puro da Terra de ser profanado pelos Grineer… |
 
 ## 📋 Lista — Missões — Índice — juncoes (18)
 

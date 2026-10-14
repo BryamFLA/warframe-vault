@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "52/195"
 uso_2025_pct: 0.45
 id: arma:kuva_hek
-negociavel: "indireto — via troca de Lich/Sister"
+negociavel: true
 slot: Primary
 classe: Shotgun
 disposicao_riven: 1

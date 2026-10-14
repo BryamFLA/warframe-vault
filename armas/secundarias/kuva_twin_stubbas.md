@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "43/153"
 uso_2025_pct: 0.445
 id: arma:kuva_twin_stubbas
-negociavel: "indireto — via troca de Lich/Sister"
+negociavel: true
 slot: Secondary
 classe: Dual Pistols
 disposicao_riven: 1

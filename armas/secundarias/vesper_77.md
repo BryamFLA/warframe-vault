@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "18/153"
 uso_2025_pct: 0.985
 id: arma:vesper_77
-negociavel: "só componentes construídos"
+negociavel: true
 slot: Secondary
 classe: Pistol
 disposicao_riven: 0.8

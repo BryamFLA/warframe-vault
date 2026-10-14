@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "207/233"
 uso_2025_pct: 0.056
 id: arma:galariak_prime
-negociavel: "não"
+negociavel: false
 slot: Melee
 classe: Scythe
 disposicao_riven: 0.9

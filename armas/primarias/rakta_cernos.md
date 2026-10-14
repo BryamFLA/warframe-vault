@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "169/195"
 uso_2025_pct: 0.053
 id: arma:rakta_cernos
-negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+negociavel: true
 slot: Primary
 classe: Bow
 disposicao_riven: 1.25

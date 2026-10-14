@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "88/153"
 uso_2025_pct: 0.183
 id: arma:vaykor_marelok
-negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+negociavel: true
 slot: Secondary
 classe: Pistol
 disposicao_riven: 1.1

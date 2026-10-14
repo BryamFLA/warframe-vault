@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "38/153"
 uso_2025_pct: 0.527
 id: arma:riot_848
-negociavel: "não"
+negociavel: false
 slot: Secondary
 classe: Pistol
 disposicao_riven: 1

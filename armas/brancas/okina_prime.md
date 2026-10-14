@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "7/233"
 uso_2025_pct: 2.897
 id: arma:okina_prime
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Melee
 classe: Dual Daggers
 disposicao_riven: 0.7

@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "27/195"
 uso_2025_pct: 0.942
 id: arma:kuva_sobek
-negociavel: "indireto — via troca de Lich/Sister"
+negociavel: true
 slot: Primary
 classe: Shotgun
 disposicao_riven: 0.8

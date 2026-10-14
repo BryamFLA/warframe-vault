@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "15/153"
 uso_2025_pct: 1.356
 id: arma:epitaph
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Secondary
 classe: Pistol
 disposicao_riven: 0.6

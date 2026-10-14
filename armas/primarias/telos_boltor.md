@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "85/195"
 uso_2025_pct: 0.242
 id: arma:telos_boltor
-negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+negociavel: true
 slot: Primary
 classe: Rifle
 disposicao_riven: 1.2

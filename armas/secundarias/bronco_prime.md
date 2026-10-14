@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "35/153"
 uso_2025_pct: 0.567
 id: arma:bronco_prime
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Secondary
 classe: Shotgun Sidearm
 disposicao_riven: 1.4

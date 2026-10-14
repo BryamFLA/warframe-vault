@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "13/195"
 uso_2025_pct: 1.77
 id: arma:braton_prime
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Primary
 classe: Rifle
 disposicao_riven: 1.25

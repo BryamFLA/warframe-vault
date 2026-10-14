@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "10/153"
 uso_2025_pct: 2.474
 id: arma:tenet_cycron
-negociavel: "indireto — via troca de Lich/Sister"
+negociavel: true
 slot: Secondary
 classe: Pistol
 disposicao_riven: 0.7

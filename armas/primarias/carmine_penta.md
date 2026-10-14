@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "194/195"
 uso_2025_pct: 0.015
 id: arma:carmine_penta
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Primary
 classe: Launcher
 disposicao_riven: 1.3

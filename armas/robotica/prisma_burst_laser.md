@@ -15,7 +15,7 @@ verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
 id: arma:prisma_burst_laser
-negociavel: "indireto — vem com o companheiro"
+negociavel: true
 slot: Robotic
 classe: Pistol
 disposicao_riven: 1.45

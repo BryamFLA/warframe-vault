@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "188/195"
 uso_2025_pct: 0.031
 id: arma:sporothrix
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Primary
 classe: Sniper Rifle
 disposicao_riven: 1.3

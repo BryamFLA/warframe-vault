@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "120/153"
 uso_2025_pct: 0.113
 id: arma:secura_dual_cestra
-negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+negociavel: true
 slot: Secondary
 classe: Dual Pistols
 disposicao_riven: 1.3

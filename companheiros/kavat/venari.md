@@ -54,6 +54,12 @@ Kavats e Predasites/Vulpaphylas são feras: os mods Link copiam sua vida/armadur
 
 > Build de referência (curadoria do agente). Os precepts exclusivos do companheiro vêm equipados de fábrica — mantenha-os.
 
+## 📖 História — Venari
+
+**Codex:** "Khora's loyal Kavat. Her constant companion and protector." — a Kavat leal da [[warframes/regular/khora.md|Khora]], sua companheira e protetora constante.
+
+Venari chegou ao jogo junto com a Khora (Update 22.18, 2018). Ela não é criada na Incubadora como as outras Kavats: existe como parte do kit da Khora e é invocada pela habilidade **Venari**, por isso aparece no vault junto das Kavats apenas como referência. A relação "Warframe e fera" reforça o tema da Khora como domadora e caçadora.
+
 ## 🔗 Relacionados — Venari
 
 - [[mecanicas/forja.md|Forja]]

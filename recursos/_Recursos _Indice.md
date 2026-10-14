@@ -11,7 +11,7 @@ atualizado: 2026-10-13
 agente: opus
 total-recursos: 147
 indices-relacionados: ["[[warframes/_Warframes _Indice.md| Warframes  Indice]]", "[[armas/_Armas _Indice.md| Armas  Indice]]", "[[missoes/_Missoes _Indice.md| Missoes  Indice]]", "[[locais/_Locais _Indice.md| Locais  Indice]]", "[[mecanicas/_Mecanicas _Indice.md| Mecanicas  Indice]]"]
-total-notas: 562
+total-notas: 565
 ---
 
 # Recursos — Índice
@@ -859,7 +859,7 @@ Cada Open World tem ecossistema próprio — coletados por coleta manual, minera
 | [[recursos/raridades/especial/zenith_granum_crown.md\|Zenith Granum Crown]] | resource | — | Zenith Granum Crown — recurso. |
 | [[recursos/raridades/especial/zenurik_lens.md\|Zenurik Lens]] | resource | — | Zenurik Lens — recurso. Melhor fonte: Fortuna Bounty Lvl 30-50 Stage 1 — rot. B (33,33%). |
 
-## 📋 Lista — Recursos — Índice — raridades/especial (23)
+## 📋 Lista — Recursos — Índice — raridades/especial (26)
 
 | Nome | Tipo | MR | Resumo |
 |---|---|---|---|
@@ -872,11 +872,14 @@ Cada Open World tem ecossistema próprio — coletados por coleta manual, minera
 | [[recursos/raridades/especial/archon_shard_azure.md\|Azure Archon Shard]] | recurso | — | Azure Archon Shard — Recurso do tipo item, cuja melhor fonte confirmada é Boreal Archon Hunt (rot. |
 | [[recursos/raridades/especial/cephalon_fragment.md\|Cephalon]] | recurso | — | Cephalon Fragments are fragments of data found all around the Origin system, usually hidden in rooms during missions, visualized as hovering… |
 | [[recursos/raridades/especial/archon_shard_crimson.md\|Crimson Archon Shard]] | recurso | — | Crimson Archon Shard — Recurso do tipo item, cuja melhor fonte confirmada é Amar Archon Hunt (rot. |
+| [[recursos/raridades/especial/elemental_vice.md\|Elemental Vice]] | recurso | — | Elemental Vice — item (Update 38.5, 19/03/2025) que permite Valence Override em armas Kuva, Tenet e Coda (trocar o tipo do bônus elemental);… |
 | [[recursos/raridades/especial/archon_shard_teal.md\|Emerald Archon Shard]] | recurso | — | Emerald Archon Shard — Recurso do tipo item, cuja melhor fonte confirmada é Temporal Archimedea (rot. |
 | [[recursos/raridades/especial/endo.md\|Endo]] | recurso | — | Endo — Recurso do tipo currency, cuja melhor fonte confirmada é Operation: Scarlet Spear Ground Assault ×500 (rot. |
 | [[recursos/raridades/especial/warframe_exilus_adapter.md\|Exilus Warframe Adapter]] | recurso | — | Exilus Warframe Adapter — Recurso do tipo item. |
 | [[recursos/raridades/especial/exilus_adapter.md\|Exilus Weapon Adapter]] | recurso | — | Exilus Weapon Adapter — Recurso do tipo item. |
 | [[recursos/raridades/especial/forma.md\|Forma]] | recurso | — | Forma — Recurso, cuja melhor fonte confirmada é Ancient Molted Cask. |
+| [[recursos/raridades/especial/melee_arcane_adapter.md\|Melee Arcane Adapter]] | recurso | — | Melee Arcane Adapter — item (Update 35.0, 13/12/2023) que libera o slot de Arcane de uma arma Melee; vem da Cavia (Bird 3, Rank 3, 50.000 St… |
+| [[recursos/raridades/especial/omni_forma.md\|Omni Forma]] | recurso | — | Omni Forma — variante de Forma (Update 38.5, 19/03/2025, substituiu a Aura Forma) que deixa um slot de mod compatível com qualquer polaridad… |
 | [[recursos/raridades/especial/orokin_catalyst.md\|Orokin Catalyst]] | recurso | — | Orokin Catalyst — Recurso do tipo item. |
 | [[recursos/raridades/especial/orokin_ducats.md\|Orokin Ducats]] | recurso | — | Orokin Ducats — Recurso do tipo currency. |
 | [[recursos/raridades/especial/orokin_reactor.md\|Orokin Reactor]] | recurso | — | Orokin Reactor — Recurso do tipo item. |

@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "12/153"
 uso_2025_pct: 1.817
 id: arma:kompressa_prime
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Secondary
 classe: Pistol
 disposicao_riven: 0.6

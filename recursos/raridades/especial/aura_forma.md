@@ -2,9 +2,8 @@
 title: Aura Forma
 aliases: [Aura Forma]
 tipo: recurso
-raridade: ⚠️ NÃO VERIFICADO
 origem: planeta
-resumo: Aura Forma — Recurso do tipo item.
+resumo: "Aura Forma — variante de Forma para o slot de Aura; substituída pela Omni Forma no Update 38.5 (19/03/2025)."
 status: completo
 rag: true
 tags: [recurso, planeta, item]
@@ -64,3 +63,6 @@ id: recurso:aura_forma
 | ⚠️ NÃO VERIFICADO | Nenhuma receita do `Module:Resources/data` lista este item como componente e a página da wiki não traz Item Checklist parseável. Ele pode ser usado em **trocas de sindicato** ou **consumido direto** — usos que não estão nesses dados. Confira em https://wiki.warframe.com/w/Aura_Forma |
 
 ---
+
+> [!note] Substituída
+> Desde o Update 38.5 (19/03/2025) a Aura Forma foi substituída pela [[recursos/raridades/especial/omni_forma.md|Omni Forma]].

@@ -10,7 +10,7 @@ fontes: ["https://wiki.warframe.com/w/Syndicate", "https://wiki.warframe.com/w/W
 atualizado: 2026-10-13
 verificado: true
 agente: opus
-total-notas: 19
+total-notas: 22
 ---
 
 # Sindicatos — Índice
@@ -142,7 +142,7 @@ O arquivo **[[mecanicas/sindicatos/kaithe.md|kaithe.md]]** existe nesta pasta ma
 - **"Operational Supply é o sindicato do Kahl."** Não. É o sindicato da **Plague Star**, com a Nakak em Cetus. O do Kahl é a **Kahl's Garrison**, que não tem arquivo aqui.
 - **"Simaris tem 5 ranks."** Simaris **não tem rank nenhum** — só um teto de 125.000.
 
-## 📋 Lista — Sindicatos — Índice — geral (19)
+## 📋 Lista — Sindicatos — Índice — geral (22)
 
 | Nome | Tipo | MR | Resumo |
 |---|---|---|---|
@@ -152,9 +152,11 @@ O arquivo **[[mecanicas/sindicatos/kaithe.md|kaithe.md]]** existe nesta pasta ma
 | [[mecanicas/sindicatos/cephalon_suda.md\|Cephalon Suda]] | mecanica | — | Cephalon Suda — Consciência vasta que observa o sistema com curiosidade; aparentemente sem emoção, mas com sede de conhecimento e horror à d… |
 | [[mecanicas/sindicatos/conclave.md\|Conclave]] | mecanica | — | O sistema PvP do Warframe, liderado pelo Teshin Dax no Conclave Hall de cada Relay; sindicato neutro onde o Standing vem de jogar partidas e… |
 | [[mecanicas/sindicatos/entrati.md\|Entrati]] | mecanica | — | Entrati — Família Orokin parcialmente Infestada que vive no Necralisk, em Deimos; sindicato neutro cujo Standing não é ganho direto — você r… |
+| [[mecanicas/sindicatos/kahls_garrison.md\|Kahl's Garrison]] | sindicato | — | Kahl's Garrison — 'sindicato' do Kahl-175 (após Veilbreaker) sem Standing: sobe de rank com a missão semanal Break Narmer e compra com Stock… |
 | [[mecanicas/sindicatos/kaithe.md\|Kaithe]] | mecanica | — | Kaithe — Montaria de Duviri do Drifter: criatura equina com asas etéreas que voa, corre a 7 m/s (14 m/s em dash) e tem quatro habilidades pr… |
 | [[mecanicas/sindicatos/necraloid.md\|Necraloid]] | mecanica | — | Necraloid — Máquinas Entrati operadas por Cephalons, representadas pelo Loid numa porta dos fundos do Necralisk; sindicato neutro de apenas … |
 | [[mecanicas/sindicatos/new_loka.md\|New Loka]] | mecanica | — | New Loka — Adoradores da forma humana e da Terra pré-corrupção; para eles o conflito só termina com a restauração de uma humanidade pura e o… |
+| [[mecanicas/sindicatos/nightcap.md\|Nightcap]] | sindicato | — | Nightcap — Solaris que pesquisa as Deepmines sob o Orb Vallis (requer The New War): sindicato sem Standing, sobe analisando cogumelos das De… |
 | [[mecanicas/sindicatos/operational_supply.md\|Operational Supply]] | mecanica | — | Operational Supply — Sindicato exclusivo de evento, ativo somente durante a Operation: Plague Star, administrado pela Nakak em Cetus; só 3 r… |
 | [[mecanicas/sindicatos/ostron.md\|Ostron]] | mecanica | — | Ostron — Mercadores e sobreviventes que vivem em Cetus, em torno de uma torre Orokin; sindicato neutro cujo Standing vem de bounties, pesca,… |
 | [[mecanicas/sindicatos/red_veil.md\|Red Veil]] | mecanica | — | Red Veil — Veem corrupção em tudo e se consideram obrigados por honra a curar o sistema com uma purga grande e violenta — nenhum custo é gra… |
@@ -164,6 +166,7 @@ O arquivo **[[mecanicas/sindicatos/kaithe.md|kaithe.md]]** existe nesta pasta ma
 | [[mecanicas/sindicatos/the_holdfasts.md\|The Holdfasts]] | mecanica | — | The Holdfasts — Os quatro últimos "sobreviventes" da tripulação adulta do Zariman Ten Zero, ressuscitados pelo Void e operando no Chrysalith… |
 | [[mecanicas/sindicatos/perrin_sequence.md\|The Perrin Sequence]] | mecanica | — | The Perrin Sequence — Coletivo de mercadores brilhantes e poderosos, dissidentes do Corpus, que querem restaurar a ordem trazendo prosperida… |
 | [[mecanicas/sindicatos/the_quills.md\|The Quills]] | mecanica | — | The Quills — Ordem monástica secreta leal à Unum, escondida numa caverna de Cetus; sindicato neutro cujo Standing vem de Sentient Cores — e … |
+| [[mecanicas/sindicatos/ventkids.md\|Ventkids]] | sindicato | — | Ventkids — sindicato de crianças Solaris em Fortuna que corre de K-Drive no Orb Vallis; libera com a quest Vox Solaris, standing vem de tric… |
 | [[mecanicas/sindicatos/vox_solaris.md\|Vox Solaris]] | mecanica | — | Vox Solaris — A camada secreta do Solaris United, conhecida só pela Eudico e pelos Quills: organiza os Heists contra os Orbs e vende, pela L… |
 
 ## 🔗 Relacionados — Sindicatos — Índice

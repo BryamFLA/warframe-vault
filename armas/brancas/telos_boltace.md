@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "136/233"
 uso_2025_pct: 0.133
 id: arma:telos_boltace
-negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+negociavel: true
 slot: Melee
 classe: Tonfa
 disposicao_riven: 1.1

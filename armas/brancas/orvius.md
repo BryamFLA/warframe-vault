@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "111/233"
 uso_2025_pct: 0.179
 id: arma:orvius
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Melee
 classe: Glaive
 disposicao_riven: 1.35

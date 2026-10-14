@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "113/195"
 uso_2025_pct: 0.145
 id: arma:ambassador
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Primary
 classe: Rifle
 disposicao_riven: 1.15

@@ -528,3 +528,8 @@ c533021  preenche(recursos): 56 arquivos — recursos/ COMPLETA (150/150)
 **Armadilhas desta sessão:** git precisa de permissão de deleção na pasta (lock files); `nohup` em `device_bash` morre quando a chamada termina — rodar tudo em < 180 s.
 
 **Próxima fila sugerida (qualidade):** criar as entidades listadas em `_PENDENCIAS.md`; atualizar `atualizacoes_recentes.md` após a Operation Taubound (15/10/2026); curadoria de texto dos 2.653 arquivos `parcial`.
+
+## Lote "lacunas" — 2026-10-14
+
+Criados da wiki: quests `principais/{the_teacher,awakening,vox_solaris,the_lotus_eaters,the_old_peace,jade_shadows,jade_shadows_constellations}.md`, `secundarios/{call_of_the_tempestarii,sayas_vigil}.md`; `missoes/jornadas/_Jornadas _Indice.md` (ordem oficial dos 4 arcos); sindicatos `ventkids`, `kahls_garrison`, `nightcap`; itens `recursos/raridades/especial/{omni_forma,melee_arcane_adapter,elemental_vice}.md`; `armas/primarias/vinquibus_primary.md`; seção História em venari, venari_prime, 3 Hounds e 4 MOAs. Todas as quests listadas na página Quest da wiki agora têm nota. Verificação: links 0 quebrados, YAML 0 erros, rag_eval 27/27, --geral 100% / 99,7% / 98,4%, itens.json 3.294 entidades.
+Pendente: conteúdo da Warframe Tau (15/10/2026) e curadoria das notas `parcial`.

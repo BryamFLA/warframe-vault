@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "77/233"
 uso_2025_pct: 0.296
 id: arma:venka_prime
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Melee
 classe: Claws
 disposicao_riven: 0.85

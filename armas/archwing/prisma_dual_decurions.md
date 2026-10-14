@@ -15,7 +15,7 @@ verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
 id: arma:prisma_dual_decurions
-negociavel: "sim — arma sem rank, sem Forma/Catalyst"
+negociavel: true
 slot: Archgun
 classe: Archgun
 disposicao_riven: 1.25

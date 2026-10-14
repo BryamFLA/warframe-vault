@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "74/195"
 uso_2025_pct: 0.282
 id: arma:astilla_prime
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Primary
 classe: Shotgun
 disposicao_riven: 1.2

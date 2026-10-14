@@ -15,7 +15,7 @@ verificado: true
 agente: opus
 gerado_de: modulos-da-wiki
 id: arma:larkspur_prime
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Archgun
 classe: Archgun
 disposicao_riven: 0.8

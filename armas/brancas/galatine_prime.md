@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "64/233"
 uso_2025_pct: 0.387
 id: arma:galatine_prime
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Melee
 classe: Heavy Blade
 disposicao_riven: 0.9

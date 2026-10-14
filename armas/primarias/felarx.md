@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "10/195"
 uso_2025_pct: 1.806
 id: arma:felarx
-negociavel: "só peças/blueprint"
+negociavel: true
 slot: Primary
 classe: Shotgun
 disposicao_riven: 0.6

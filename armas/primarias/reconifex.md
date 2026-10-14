@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "38/195"
 uso_2025_pct: 0.626
 id: arma:reconifex
-negociavel: "só componentes construídos"
+negociavel: true
 slot: Primary
 classe: Rifle
 disposicao_riven: 1

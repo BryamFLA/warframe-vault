@@ -17,7 +17,7 @@ gerado_de: modulos-da-wiki
 uso_2025_rank: "105/195"
 uso_2025_pct: 0.168
 id: arma:tenet_tetra
-negociavel: "indireto — via troca de Lich/Sister"
+negociavel: true
 slot: Primary
 classe: Rifle
 disposicao_riven: 1.25
