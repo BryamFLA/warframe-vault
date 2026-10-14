@@ -90,6 +90,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Equinox
 
+**Melhor build recomendada para Equinox** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Equinox.
+
 Build de referência para **Equinox** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Alcance e Força para Mend & Maim (forma Dia) — build de limpeza de mapa.

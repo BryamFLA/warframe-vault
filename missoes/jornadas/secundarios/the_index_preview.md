@@ -1,6 +1,6 @@
 ---
 title: The Index Preview
-aliases: [The Index Preview]
+aliases: [The Index Preview, jornada The Index Preview, quest The Index Preview, missão The Index Preview]
 tipo: missao
 subtipo: jornada
 resumo: "A introdução ao The Index: a arena de apostas de Nef Anyo em Netuno, hospedada por Cephalon Sark, onde Tenno e Corpus de elite lutam por créditos."

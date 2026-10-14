@@ -1,6 +1,6 @@
 ---
 title: The New War
-aliases: [The New War]
+aliases: [The New War, jornada The New War, quest The New War, missão The New War]
 tipo: missao
 subtipo: jornada
 resumo: "The New War — A maior quest do jogo: os Sentients invadem, Tenno, Grineer e Corpus se aliam, e você perde a Warframe, o Operator e a Lotus — e joga como outras três pessoas."

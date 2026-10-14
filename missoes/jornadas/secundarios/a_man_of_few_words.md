@@ -1,6 +1,6 @@
 ---
 title: A Man of Few Words
-aliases: [A Man of Few Words]
+aliases: [A Man of Few Words, jornada A Man of Few Words, quest A Man of Few Words, missão A Man of Few Words]
 tipo: missao
 subtipo: jornada
 resumo: "A quest do Clem: Darvo pede ao Tenno que resgate um \"contratado\" dele — um Grineer que só diz \"Clem\" e que vira o companheiro mais querido do jogo."

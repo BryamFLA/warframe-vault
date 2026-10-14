@@ -22,9 +22,7 @@ elemento_progenitor: Magnetic
 > [!info] Resumo em uma linha
 > Controladora magnética que agrupa inimigos e projéteis com Magnetize, recupera escudos e remove armadura permanentemente com Fracturing Crush.
 
-
 ## 📊 Stats Base — Mag
-
 
 Valores sem mods. Os bônus das habilidades abaixo usam o rank máximo da habilidade, salvo indicação contrária.
 
@@ -45,9 +43,7 @@ Valores sem mods. Os bônus das habilidades abaixo usam o rank máximo da habili
 
 **Versão Prime:** [[warframes/primes/mag_prime.md|Mag Prime]] — Mag Prime tem 370 de vida, 555 de escudo, 135 de armadura e 265 de energia no rank 30; a regular tem 280, 555, 105 e 190. Conserva o conjunto de habilidades, com polarização adicional.
 
-
 ## 🔮 Habilidades — Mag
-
 
 Custos-base de energia, antes de Eficiência. A passiva não consome energia; Eficiência reduz os custos de ativação de todas as habilidades.
 
@@ -77,7 +73,6 @@ Custos-base de energia, antes de Eficiência. A passiva não consome energia; Ef
 
 Os sindicatos principais vendem seus augments no rank máximo de reputação por 25.000 de Standing cada. Augments de Conclave seguem oferta própria; não presumir o mesmo vendedor/preço. Nomes sem wikilink não possuem alvo próprio confirmado no índice do vault.
 
-
 ## 🌍 Onde Conseguir — Mag
 
 Como conseguir o Warframe Mag:
@@ -85,7 +80,6 @@ Como conseguir o Warframe Mag:
 É um dos **3 Warframes iniciais** (com Excalibur e Volt) no tutorial **Awakening**. Blueprint principal no **Mercado**. Componentes: drop do boss **The Sergeant** em **Iliad, Phobos**. Também no **The Circuit** (Duviri) na semana dela, e pronta com o **Teshin** por 60.000 de Standing do Conclave (rank Typhoon).
 
 ## 🏗️ Como Construir — Mag
-
 
 **Fonte principal do blueprint:** Escolha inicial em Awakening ou blueprint principal no Mercado por 25.000 créditos. Os blueprints dos três componentes vêm de The Sergeant, em Iliad, Phobos.
 
@@ -119,9 +113,9 @@ As peças são fabricadas separadamente e depois consumidas pela montagem final.
 - O Circuito (Duviri): Na rotação correspondente do Circuito normal, selecionar Mag permite obter neurovisor, chassi, sistemas e blueprint principal ao avançar a trilha.
 - Relíquias (só para Prime): não fornecem peças do Mag regular. A versão Prime possui aquisição separada.
 
-
 ## 🛠️ Build — Mag
 
+**Melhor build recomendada para Mag** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Mag.
 
 Sugestões editoriais baseadas nas mecânicas verificadas; não são builds medidas em jogo. A geral usa mods de sobrevivência e Equilibrium em ranks intermediários para conter o custo. As contas de Forma pressupõem Warframe rank 30 com Reator Orokin, aura no rank indicado e os mods exatamente nos ranks das tabelas.
 
@@ -165,10 +159,7 @@ Intensify e Augur Secrets fornecem 154% Força, superando os 134% necessários p
 
 **Prioridade de Forma:** Geral: 0 Forma com Reator e Steel Charge; use Stretch e Flow nos Naramon. Avançada: 0 Forma com Reator, Steel Charge e Mobilize; Stretch e Flow nos Naramon. Cálculo: 68 de 78 pontos usados na avançada. A aura favorece capacidade e dano da melee de apoio, não aumenta Magnetize diretamente.
 
-
-
 ## 🧬 Helminth — Mag
-
 
 | Item | Valor |
 |---|---|
@@ -178,9 +169,7 @@ Intensify e Augur Secrets fornecem 154% Força, superando os 134% necessários p
 
 [[mecanicas/helminth.md|Helminth]] permite substituir uma habilidade da configuração. A subsunção sacrifica o Warframe regular; não sacrifica a variante Prime. As recomendações acima são alternativas às builds com kit original, e não trocas já realizadas no inventário do jogador.
 
-
 ## 🔗 Sinergias e Uso — Mag
-
 
 **Funciona bem em:** [[missoes/tipos/defense.md|Defense]], [[missoes/tipos/survival.md|Survival]] e [[missoes/tipos/interception.md|Interception]]: agrupa entradas, concentra disparos em Magnetize e combina remoção de armadura com restauração de escudos.
 
@@ -190,12 +179,9 @@ Intensify e Augur Secrets fornecem 154% Força, superando os 134% necessários p
 
 **Armas que combinam:** Armas de projétil como Nataruk e Lanka são opções para alimentar Magnetize; teste a trajetória e mire considerando o centro da bolha. O dano absorvido não recebe bônus crítico e dano de explosão de arma não é absorvido.
 
-
 ## 📖 História — Mag
 
-
 O Códice descreve manipulação de campos magnéticos para controlar inimigos e remover defesas. O relato do Prime mostra um soldado Orokin confrontado com a presença de um Tenno numa nave a caminho da guerra.
-
 
 ## ⭐ Avaliação Popular — Mag
 
@@ -212,12 +198,9 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 💡 Curiosidades — Mag
 
-
 - Mag foi a primeira Warframe feminina a receber uma variante Prime. A cor de energia controla o efeito visual do capacete.
 
-
 ## 🎨 Fashion Frame — Mag
-
 
 | Item | Opções |
 |---|---|

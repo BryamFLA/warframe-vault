@@ -22,9 +22,7 @@ elemento_progenitor: Electricity
 > [!info] Resumo em uma linha
 > Suporte elétrico que acelera o esquadrão, fortalece tiros com Electric Shield e usa Discharge para controlar grupos e recuperar escudos com Capacitance.
 
-
 ## 📊 Stats Base — Volt
-
 
 Valores sem mods. Os bônus das habilidades abaixo usam o rank máximo da habilidade, salvo indicação contrária.
 
@@ -45,9 +43,7 @@ Valores sem mods. Os bônus das habilidades abaixo usam o rank máximo da habili
 
 **Versão Prime:** [[warframes/primes/volt_prime.md|Volt Prime]] — Volt Prime mantém 370 de vida e 555 de escudo no rank 30; aumenta armadura de 105 para 135 e energia de 150 para 300. As habilidades são as mesmas; o Prime acrescenta uma polaridade.
 
-
 ## 🔮 Habilidades — Volt
-
 
 Custos-base de energia, antes de Eficiência. A passiva não consome energia; Eficiência reduz os custos de ativação de todas as habilidades.
 
@@ -78,7 +74,6 @@ Custos-base de energia, antes de Eficiência. A passiva não consome energia; Ef
 
 Os sindicatos principais vendem seus augments no rank máximo de reputação por 25.000 de Standing cada. Augments de Conclave seguem oferta própria; não presumir o mesmo vendedor/preço. Nomes sem wikilink não possuem alvo próprio confirmado no índice do vault.
 
-
 ## 🌍 Onde Conseguir — Volt
 
 Como conseguir o Warframe Volt:
@@ -86,7 +81,6 @@ Como conseguir o Warframe Volt:
 É um dos **3 Warframes iniciais** (com Excalibur e Mag) no tutorial **Awakening**. Fora isso, os blueprints são **pesquisados no Tenno Lab do Dojo do clã**. Também pronto com o **Teshin** por 60.000 de Standing do Conclave (rank Typhoon).
 
 ## 🏗️ Como Construir — Volt
-
 
 **Fonte principal do blueprint:** Escolha inicial em Awakening ou pesquisa/replicação no Tenno Lab do Dojo. O blueprint principal custa 35.000 créditos; neurovisor, chassi e sistemas também são replicados no laboratório, depois de suas pesquisas. Não há chefe para farmar essas peças.
 
@@ -120,9 +114,9 @@ As peças são fabricadas separadamente e depois consumidas pela montagem final.
 - O Circuito (Duviri): ⚠️ NAO VERIFICADO: disponibilidade como recompensa de blueprint. A página principal não a lista e a tabela do Circuito consultada não apresentou Volt entre as escolhas de recompensa. Não confundir o frame emprestado em Duviri com um blueprint recebido.
 - Relíquias (só para Prime): não fornecem peças do Volt regular. A versão Prime possui aquisição separada.
 
-
 ## 🛠️ Build — Volt
 
+**Melhor build recomendada para Volt** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Volt.
 
 Sugestões editoriais baseadas nas mecânicas verificadas; não são builds medidas em jogo. A geral usa mods de sobrevivência e Equilibrium em ranks intermediários para conter o custo. As contas de Forma pressupõem Warframe rank 30 com Reator Orokin, aura no rank indicado e os mods exatamente nos ranks das tabelas.
 
@@ -166,10 +160,7 @@ Use Electric Shield antes de Discharge; Capacitance converte o dano ao grupo em 
 
 **Prioridade de Forma:** Geral: 0 Forma com Reator e Steel Charge; use Intensify no Madurai e Flow no Naramon. Avançada: 0 Forma com Reator, Steel Charge e Mobilize; Primed Continuity no Madurai, Stretch ou Flow no Naramon. Cálculo: 74 de 78 pontos usados na avançada. Adicionar mods mais caros pode exigir novas polarizações; não há número universal de Forma para Volt.
 
-
-
 ## 🧬 Helminth — Volt
-
 
 | Item | Valor |
 |---|---|
@@ -179,9 +170,7 @@ Use Electric Shield antes de Discharge; Capacitance converte o dano ao grupo em 
 
 [[mecanicas/helminth.md|Helminth]] permite substituir uma habilidade da configuração. A subsunção sacrifica o Warframe regular; não sacrifica a variante Prime. As recomendações acima são alternativas às builds com kit original, e não trocas já realizadas no inventário do jogador.
 
-
 ## 🔗 Sinergias e Uso — Volt
-
 
 **Funciona bem em:** [[missoes/tipos/capture.md|Capture]] e [[missoes/tipos/exterminate.md|Exterminate]]: Speed encurta deslocamentos; [[missoes/tipos/defense.md|Defense]] e [[missoes/tipos/survival.md|Survival]]: grupos próximos alimentam Discharge/Capacitance e podem ser atacados através de Electric Shield.
 
@@ -191,12 +180,9 @@ Use Electric Shield antes de Discharge; Capacitance converte o dano ao grupo em 
 
 **Armas que combinam:** Rubico Prime combina com o bônus crítico de Electric Shield. Melee como Nikana Prime aproveita Speed; golpes melee comuns não recebem o bônus por atravessar o escudo.
 
-
 ## 📖 História — Volt
 
-
 O Códice apresenta Volt como um Warframe de eletricidade e alto dano. É uma das escolhas iniciais de Awakening; sua função combina mobilidade do time, proteção contra tiros e controle elétrico.
-
 
 ## ⭐ Avaliação Popular — Volt
 
@@ -213,12 +199,9 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 💡 Curiosidades — Volt
 
-
 - Seu nome vem da unidade de potencial elétrico. O neurovisor de Volt também é usado na fabricação de Chroma; não descarte automaticamente uma cópia extra.
 
-
 ## 🎨 Fashion Frame — Volt
-
 
 | Item | Opções |
 |---|---|

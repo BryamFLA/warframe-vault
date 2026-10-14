@@ -108,6 +108,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Temple
 
+**Melhor build recomendada para Temple** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Temple.
+
 Build de referência para **Temple** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Duração; usar habilidades no Backbeat.

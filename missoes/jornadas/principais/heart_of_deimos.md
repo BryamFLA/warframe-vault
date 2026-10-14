@@ -1,6 +1,6 @@
 ---
 title: Heart of Deimos
-aliases: [Heart of Deimos]
+aliases: [Heart of Deimos, jornada Heart of Deimos, quest Heart of Deimos, missão Heart of Deimos]
 tipo: missao
 subtipo: jornada
 resumo: "Heart of Deimos — A quest que abre o Cambion Drift: a família Entrati, Orokin parcialmente Infested, precisa consertar o Heart — o artefato que alimenta todo dispositivo de Void do Sistema, Warframes incluídas."

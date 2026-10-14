@@ -864,7 +864,7 @@ Cada Open World tem ecossistema próprio — coletados por coleta manual, minera
 | Nome | Tipo | MR | Resumo |
 |---|---|---|---|
 | [[recursos/raridades/especial/archon_shard_amber.md\|Amber Archon Shard]] | recurso | — | Amber Archon Shard — Recurso do tipo item, cuja melhor fonte confirmada é Nira Archon Hunt (rot. |
-| [[recursos/raridades/especial/aura_forma.md\|Aura Forma]] | recurso | — | Aura Forma — Recurso do tipo item. |
+| [[recursos/raridades/especial/aura_forma.md\|Aura Forma]] | recurso | — | Aura Forma — variante de Forma para o slot de Aura; substituída pela Omni Forma no Update 38.5 (19/03/2025). |
 | [[recursos/raridades/especial/aya.md\|Aya]] | recurso | — | Aya — Recurso do tipo currency, farmado em Void Missions and Bounties, 1 por drop. |
 | [[recursos/raridades/especial/ayatan_amber_star.md\|Ayatan Amber Star]] | recurso | — | Ayatan Amber Star — Recurso, cuja melhor fonte confirmada é Necralisk Bounty Lvl 25-30 Stage 1 (rot. |
 | [[recursos/raridades/especial/ayatan_cyan_star.md\|Ayatan Cyan Star]] | recurso | — | Ayatan Cyan Star — Recurso. |

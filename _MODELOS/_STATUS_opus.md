@@ -533,3 +533,8 @@ c533021  preenche(recursos): 56 arquivos — recursos/ COMPLETA (150/150)
 
 Criados da wiki: quests `principais/{the_teacher,awakening,vox_solaris,the_lotus_eaters,the_old_peace,jade_shadows,jade_shadows_constellations}.md`, `secundarios/{call_of_the_tempestarii,sayas_vigil}.md`; `missoes/jornadas/_Jornadas _Indice.md` (ordem oficial dos 4 arcos); sindicatos `ventkids`, `kahls_garrison`, `nightcap`; itens `recursos/raridades/especial/{omni_forma,melee_arcane_adapter,elemental_vice}.md`; `armas/primarias/vinquibus_primary.md`; seção História em venari, venari_prime, 3 Hounds e 4 MOAs. Todas as quests listadas na página Quest da wiki agora têm nota. Verificação: links 0 quebrados, YAML 0 erros, rag_eval 27/27, --geral 100% / 99,7% / 98,4%, itens.json 3.294 entidades.
 Pendente: conteúdo da Warframe Tau (15/10/2026) e curadoria das notas `parcial`.
+
+## Testes — 2ª rodada — 2026-10-14
+
+`python3 _MODELOS/rag_eval2.py` (perguntas por template sobre todas as entidades): jornada "o que faz" 45/45; "dicas para terminar" (seção certa) 45/45; história do jogo 5/5; melhor build warframe 120/120; melhor build arma 627/628; listar itens de hub (seção de itens no top-5) 21/24; completude das listas de Cetus/Fortuna/Deimos/Zariman/Duviri/Höllvania 6/6. `rag_eval.py` 27/27; `--geral` 100% / 99,7% / 98,6%.
+Mudanças: aliases "jornada/quest X" nas 45 quests; linha "Melhor build recomendada para X" em todas as builds (também no gerador `enrich_weap.py`); Dicas em Jade Shadows e Constellations; nota `armas/brancas/zaw.md`; listas completas "📦 Itens de <hub>" (gerador `itens_local.py`); chunking com sub-chunks por `###` e sem Relacionados/Fontes (`rag_core.py`).

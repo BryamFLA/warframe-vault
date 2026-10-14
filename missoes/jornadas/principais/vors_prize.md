@@ -1,6 +1,6 @@
 ---
 title: Vor's Prize
-aliases: [Vor's Prize, vors prize]
+aliases: [Vor's Prize, vors prize, jornada Vor's Prize, quest Vor's Prize, missão Vor's Prize]
 tipo: missao
 subtipo: jornada
 resumo: "Vor's Prize — A segunda quest do jogo e o tutorial de verdade: você acorda da criostase com Captain Vor atrás de você e monta o Orbiter peça por peça."

@@ -88,6 +88,8 @@ Blueprints como recompensa de missões no **Zariman Ten Zero**. Alternativa: com
 
 ## 🛠️ Build — Narin
 
+**Melhor build recomendada para Narin** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Narin.
+
 Build de referência para **Narin** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Duração; acumular Gelo para Nurinarim.

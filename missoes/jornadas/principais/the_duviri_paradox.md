@@ -1,6 +1,6 @@
 ---
 title: The Duviri Paradox
-aliases: [The Duviri Paradox]
+aliases: [The Duviri Paradox, jornada The Duviri Paradox, quest The Duviri Paradox, missão The Duviri Paradox]
 tipo: missao
 subtipo: jornada
 resumo: "The Duviri Paradox — A quest que explica o Drifter: preso num loop infinito sendo executado por um rei que reseta o tempo, ele descobre que Duviri e todos nela foram criados por ele mesmo."

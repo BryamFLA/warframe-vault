@@ -1,6 +1,6 @@
 ---
 title: The Sacrifice
-aliases: [The Sacrifice]
+aliases: [The Sacrifice, jornada The Sacrifice, quest The Sacrifice, missão The Sacrifice]
 tipo: missao
 subtipo: jornada
 resumo: "The Sacrifice — A quest que revela o que as Warframes são: com a Lotus levada por Ballas, o Tenno encontra Excalibur Umbra — uma Warframe com consciência e com memórias que não deveriam existir."

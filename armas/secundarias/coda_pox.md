@@ -70,19 +70,21 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Coda Pox
 
+**Melhor build recomendada para Coda Pox** (arma): mods, polaridades, arcanes e dicas de uso para montar o Coda Pox.
+
 Build de referência gerada pelas estatísticas da arma (perfil **status**: crítico 10% ×2,2, status 45%). Ajuste ao seu conteúdo e aos mods que você tem.
 
 | # | Mod |
 |---|---|
 | 1 | [[mods/armas/hornet_strike.md\|Hornet Strike]] |
-| 2 | Galvanized Diffusion (ou a versão comum) |
-| 3 | Galvanized Shot |
-| 4 | Sure Shot |
-| 5 | Pistol Pestilence |
-| 6 | Jolt |
+| 2 | [[mods/armas/galvanized_diffusion.md\|Galvanized Diffusion (ou a versão comum)]] |
+| 3 | [[mods/armas/galvanized_shot.md\|Galvanized Shot]] |
+| 4 | [[mods/armas/sure_shot.md\|Sure Shot]] |
+| 5 | [[mods/armas/pistol_pestilence.md\|Pistol Pestilence]] |
+| 6 | [[mods/armas/jolt.md\|Jolt]] |
 | 7 | [[mods/armas/lethal_torrent.md\|Lethal Torrent]] |
 | 8 | [[mods/armas/augur_pact.md\|Augur Pact]] |
-| Exilus | Hollowed Bullets |
+| Exilus | [[mods/especiais/hollowed_bullets.md\|Hollowed Bullets]] |
 
 **Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
 **Arcanes:** Secondary Encumber, Secondary Merciless.

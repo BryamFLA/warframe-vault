@@ -86,17 +86,19 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Pangolin Prime
 
+**Melhor build recomendada para Pangolin Prime** (arma): mods, polaridades, arcanes e dicas de uso para montar o Pangolin Prime.
+
 Build de referência gerada pelas estatísticas da arma (perfil **híbrida**: crítico 26% ×2,2, status 30%). Ajuste ao seu conteúdo e aos mods que você tem.
 
 | # | Mod |
 |---|---|
 | 1 | [[mods/armas/primed_pressure_point.md\|Primed Pressure Point]] |
-| 2 | Primed Reach |
+| 2 | [[mods/armas/primed_reach.md\|Primed Reach]] |
 | 3 | [[mods/armas/blood_rush.md\|Blood Rush]] |
 | 4 | [[mods/armas/organ_shatter.md\|Organ Shatter]] |
-| 5 | Gladiator Might |
+| 5 | [[mods/armas/gladiator_might.md\|Gladiator Might]] |
 | 6 | [[mods/armas/berserker_fury.md\|Berserker Fury]] |
-| 7 | Virulent Scourge |
+| 7 | [[mods/armas/virulent_scourge.md\|Virulent Scourge]] |
 | 8 | [[mods/armas/primed_fever_strike.md\|Primed Fever Strike]] |
 
 **Elementos:** Viral + Calor (geral) ou Corrosivo (armadura). Builds de status usam Condition Overload; builds de crítico usam Blood Rush + combo alto.

@@ -97,6 +97,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Nezha Prime
 
+**Melhor build recomendada para Nezha Prime** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Nezha Prime.
+
 Build de referência para **Nezha Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Duração para Warding Halo.

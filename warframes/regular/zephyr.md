@@ -93,6 +93,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Zephyr
 
+**Melhor build recomendada para Zephyr** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Zephyr.
+
 Build de referência para **Zephyr** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Alcance para Tornado; Turbulence para defesa.

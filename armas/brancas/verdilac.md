@@ -87,18 +87,20 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Verdilac
 
+**Melhor build recomendada para Verdilac** (arma): mods, polaridades, arcanes e dicas de uso para montar o Verdilac.
+
 Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 30% ×2,5, status 21%). Ajuste ao seu conteúdo e aos mods que você tem.
 
 | # | Mod |
 |---|---|
 | 1 | [[mods/armas/primed_pressure_point.md\|Primed Pressure Point]] |
-| 2 | Primed Reach |
+| 2 | [[mods/armas/primed_reach.md\|Primed Reach]] |
 | 3 | [[mods/armas/blood_rush.md\|Blood Rush]] |
 | 4 | [[mods/armas/organ_shatter.md\|Organ Shatter]] |
-| 5 | Gladiator Might |
+| 5 | [[mods/armas/gladiator_might.md\|Gladiator Might]] |
 | 6 | [[mods/armas/berserker_fury.md\|Berserker Fury]] |
 | 7 | [[mods/armas/primed_fever_strike.md\|Primed Fever Strike]] |
-| 8 | Vicious Frost |
+| 8 | [[mods/armas/vicious_frost.md\|Vicious Frost]] |
 
 **Elementos:** Viral + Calor (geral) ou Corrosivo (armadura). Builds de status usam Condition Overload; builds de crítico usam Blood Rush + combo alto.
 **Arcanes:** Melee Exposure, Melee Influence.

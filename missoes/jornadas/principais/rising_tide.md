@@ -1,6 +1,6 @@
 ---
 title: Rising Tide
-aliases: [Rising Tide]
+aliases: [Rising Tide, jornada Rising Tide, quest Rising Tide, missão Rising Tide]
 tipo: missao
 subtipo: jornada
 resumo: "Rising Tide — A quest de construção do Railjack: o Tenno reconstrói Cephalon Cy e caça pelo Sistema as peças de uma nave de guerra Orokin da Antiga Guerra."

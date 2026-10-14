@@ -84,18 +84,20 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Corinth
 
+**Melhor build recomendada para Corinth** (arma): mods, polaridades, arcanes e dicas de uso para montar o Corinth.
+
 Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 30% ×2,8, status 6%). Ajuste ao seu conteúdo e aos mods que você tem.
 
 | # | Mod |
 |---|---|
-| 1 | Primed Point Blank |
-| 2 | Galvanized Hell (ou a versão comum) |
-| 3 | Primed Ravage |
-| 4 | Blunderbuss |
-| 5 | Toxic Barrage |
-| 6 | Frigid Blast |
-| 7 | Shotgun Barrage |
-| 8 | Seeking Fury |
+| 1 | [[mods/armas/primed_point_blank.md\|Primed Point Blank]] |
+| 2 | [[mods/armas/galvanized_hell.md\|Galvanized Hell (ou a versão comum)]] |
+| 3 | [[mods/armas/primed_ravage.md\|Primed Ravage]] |
+| 4 | [[mods/armas/blunderbuss.md\|Blunderbuss]] |
+| 5 | [[mods/armas/toxic_barrage.md\|Toxic Barrage]] |
+| 6 | [[mods/armas/frigid_blast.md\|Frigid Blast]] |
+| 7 | [[mods/armas/shotgun_barrage.md\|Shotgun Barrage]] |
+| 8 | [[mods/armas/seeking_fury.md\|Seeking Fury]] |
 | Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
 
 **Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).

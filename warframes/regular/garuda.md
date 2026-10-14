@@ -1,6 +1,6 @@
 ---
 title: Garuda
-aliases: [Garuda, warframe Garuda]
+aliases: [Garuda, warframe Garuda, como conseguir Garuda, farm da Garuda]
 tipo: warframe
 resumo: "Garuda — Warframe de dano. Como conseguir: Blueprint principal ao concluir a quest Vox Solaris (Fortuna)."
 status: parcial
@@ -101,6 +101,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 **Leitura:** Garuda é raramente usado entre os Warframes, e o público que mais usa são os jogadores **iniciantes (MR 0–10)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 🛠️ Build — Garuda
+
+**Melhor build recomendada para Garuda** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Garuda.
 
 Build de referência para **Garuda** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 

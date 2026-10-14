@@ -99,6 +99,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Loki
 
+**Melhor build recomendada para Loki** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Loki.
+
 Build de referência para **Loki** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Duração para Invisibility; Alcance para Radial Disarm.

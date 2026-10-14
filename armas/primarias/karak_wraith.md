@@ -90,17 +90,19 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Karak Wraith
 
+**Melhor build recomendada para Karak Wraith** (arma): mods, polaridades, arcanes e dicas de uso para montar o Karak Wraith.
+
 Build de referência gerada pelas estatísticas da arma (perfil **status**: crítico 13% ×2, status 25%). Ajuste ao seu conteúdo e aos mods que você tem.
 
 | # | Mod |
 |---|---|
 | 1 | [[mods/armas/serration.md\|Serration]] |
-| 2 | Galvanized Chamber (ou a versão comum) |
-| 3 | Galvanized Aptitude |
-| 4 | Hammer Shot |
-| 5 | Malignant Force |
+| 2 | [[mods/armas/galvanized_chamber.md\|Galvanized Chamber (ou a versão comum)]] |
+| 3 | [[mods/armas/galvanized_aptitude.md\|Galvanized Aptitude]] |
+| 4 | [[mods/armas/hammer_shot.md\|Hammer Shot]] |
+| 5 | [[mods/armas/malignant_force.md\|Malignant Force]] |
 | 6 | [[mods/armas/high_voltage.md\|High Voltage]] |
-| 7 | Primed Shred |
+| 7 | [[mods/armas/primed_shred.md\|Primed Shred]] |
 | Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
 
 **Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).

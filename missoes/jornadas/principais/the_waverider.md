@@ -1,6 +1,6 @@
 ---
 title: The Waverider
-aliases: [The Waverider]
+aliases: [The Waverider, jornada The Waverider, quest The Waverider, missão The Waverider]
 tipo: missao
 subtipo: jornada
 resumo: "The Waverider — A quest de Yareli, contada em quadrinhos: destravar as páginas de uma Graphica cumprindo desafios de K-Drive, enquanto a história de Yareli contra um escravocrata se revela."

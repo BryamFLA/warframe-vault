@@ -1,6 +1,6 @@
 ---
 title: Call of the Tempestarii
-aliases: ["Call of the Tempestarii", "quest Tempestarii", "quest do Sevagoth", "Tempestarii", "como conseguir Sevagoth"]
+aliases: ["Call of the Tempestarii", "quest Tempestarii", "quest do Sevagoth", "Tempestarii", "como conseguir Sevagoth", jornada Call of the Tempestarii, quest Call of the Tempestarii, missão Call of the Tempestarii]
 tipo: missao
 subtipo: jornada
 resumo: "Call of the Tempestarii — quest secundária de Railjack (Update 30.0, 13/04/2021): com Cephalon Cy, investigue o navio fantasma Tempestarii e a Vala Glarios; exige The Deadlock Protocol, Railjack e MR 4; dá o blueprint do Sevagoth e libera as Sisters of Parvos."

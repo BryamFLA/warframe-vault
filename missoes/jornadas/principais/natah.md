@@ -1,6 +1,6 @@
 ---
 title: Natah
-aliases: [Natah]
+aliases: [Natah, jornada Natah, quest Natah, missão Natah]
 tipo: missao
 subtipo: jornada
 resumo: "Natah — A quest que revela que a Lotus é Sentient: drones estranhos em Urano levam o Tenno a um destroço da Antiga Guerra — e a um segredo que ela escondeu desde o início."

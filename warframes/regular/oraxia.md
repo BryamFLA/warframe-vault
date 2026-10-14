@@ -104,6 +104,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Oraxia
 
+**Melhor build recomendada para Oraxia** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Oraxia.
+
 Build de referência para **Oraxia** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Duração; Silken Stride.

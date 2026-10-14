@@ -68,18 +68,20 @@ O blueprint de Grattler é pesquisado no **Chem Lab** do **Dojo do clã** (depoi
 
 ## 🛠️ Build — Grattler
 
+**Melhor build recomendada para Grattler** (arma): mods, polaridades, arcanes e dicas de uso para montar o Grattler.
+
 Build de referência gerada pelas estatísticas da arma (perfil **híbrida**: crítico 25% ×2, status 25%). Ajuste ao seu conteúdo e aos mods que você tem.
 
 | # | Mod |
 |---|---|
-| 1 | Rubedo-Lined Barrel |
-| 2 | Dual Rounds |
-| 3 | Parallax Scope |
-| 4 | Critical Focus |
-| 5 | Magazine Extension |
-| 6 | Ammo Chain |
-| 7 | Charged Bullets |
-| 8 | Combustion Rounds |
+| 1 | [[mods/especiais/rubedo_lined_barrel.md\|Rubedo-Lined Barrel]] |
+| 2 | [[mods/especiais/dual_rounds.md\|Dual Rounds]] |
+| 3 | [[mods/especiais/parallax_scope.md\|Parallax Scope]] |
+| 4 | [[mods/especiais/critical_focus.md\|Critical Focus]] |
+| 5 | [[mods/especiais/magazine_extension.md\|Magazine Extension]] |
+| 6 | [[mods/especiais/ammo_chain.md\|Ammo Chain]] |
+| 7 | [[mods/especiais/charged_bullets.md\|Charged Bullets]] |
+| 8 | [[mods/especiais/combustion_rounds.md\|Combustion Rounds]] |
 
 **Riven:** disposição 1.1 — Riven ajuda moderadamente.
 

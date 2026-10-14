@@ -97,6 +97,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Wukong Prime
 
+**Melhor build recomendada para Wukong Prime** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Wukong Prime.
+
 Build de referência para **Wukong Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Duração; Celestial Twin + Primal Fury.

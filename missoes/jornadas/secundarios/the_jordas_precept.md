@@ -1,6 +1,6 @@
 ---
 title: The Jordas Precept
-aliases: [The Jordas Precept]
+aliases: [The Jordas Precept, jornada The Jordas Precept, quest The Jordas Precept, missão The Jordas Precept]
 tipo: missao
 subtipo: jornada
 resumo: "The Jordas Precept — Um Cephalon em pânico pede socorro: \"PRECEPT 44 CEPHALON STRANDED."

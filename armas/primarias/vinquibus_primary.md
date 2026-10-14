@@ -53,6 +53,34 @@ Blueprints no **Roathe's Oblivion** (Infernium 21 da Descendia, após [[missoes/
 | Polaridades | Madurai, Aura |
 | Introduzida | Update 41 |
 
+## 🛠️ Build — Vinquibus (Primary)
+
+**Melhor build recomendada para Vinquibus (Primary)** (arma): mods, polaridades, arcanes e dicas de uso para montar o Vinquibus (Primary).
+
+Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 40% ×3,2, status 20%). Ajuste ao seu conteúdo e aos mods que você tem.
+
+| # | Mod |
+|---|---|
+| 1 | [[mods/armas/serration.md\|Serration]] |
+| 2 | [[mods/armas/galvanized_chamber.md\|Galvanized Chamber (ou a versão comum)]] |
+| 3 | [[mods/armas/point_strike.md\|Point Strike]] |
+| 4 | [[mods/armas/vital_sense.md\|Vital Sense]] |
+| 5 | [[mods/armas/malignant_force.md\|Malignant Force]] |
+| 6 | [[mods/armas/cryo_rounds.md\|Cryo Rounds]] |
+| 7 | [[mods/armas/hammer_shot.md\|Hammer Shot]] |
+| 8 | [[mods/armas/primed_shred.md\|Primed Shred]] |
+| Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
+
+**Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
+**Arcanes:** Primary Merciless, Primary Deadhead.
+**Riven:** disposição 0.7 — Riven ajuda pouco.
+
+**Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.
+
+## 📖 História e Origem — Vinquibus (Primary)
+
+**Introduzida:** Update 41.
+
 ## 🔗 Relacionados — Vinquibus (Primary)
 
 - [[armas/brancas/vinquibus_melee.md|Vinquibus (Melee)]] — mesma família

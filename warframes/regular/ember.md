@@ -99,6 +99,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Ember
 
+**Melhor build recomendada para Ember** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Ember.
+
 Build de referência para **Ember** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Alcance para Inferno/Fire Blast; Eficiência.

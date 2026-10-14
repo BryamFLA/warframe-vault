@@ -101,6 +101,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Gyre
 
+**Melhor build recomendada para Gyre** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Gyre.
+
 Build de referência para **Gyre** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Alcance para Rotorswell/Cathode Grace (crítico).

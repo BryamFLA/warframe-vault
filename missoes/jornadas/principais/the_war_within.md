@@ -1,6 +1,6 @@
 ---
 title: The War Within
-aliases: [The War Within]
+aliases: [The War Within, jornada The War Within, quest The War Within, missão The War Within]
 tipo: missao
 subtipo: jornada
 resumo: "The War Within — A quest em que você perde a Warframe e precisa sobreviver como Operator: rastreando Teshin até a Kuva Fortress, o Tenno recupera memórias suprimidas e os poderes originais do Void."

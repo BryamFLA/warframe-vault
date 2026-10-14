@@ -1,6 +1,6 @@
 ---
 title: The New Strange
-aliases: [The New Strange]
+aliases: [The New Strange, jornada The New Strange, quest The New Strange, missão The New Strange]
 tipo: missao
 subtipo: jornada
 resumo: "The New Strange — Continuação de Stolen Dreams: o Tenno ajuda Cephalon Simaris a libertar os Sentinels dele dos Grineer — e encontra \"fragmentos de uma assinatura biológica\" nos logs da prisão."

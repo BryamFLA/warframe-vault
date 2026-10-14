@@ -1,6 +1,6 @@
 ---
 title: Sands of Inaros
-aliases: [Sands of Inaros]
+aliases: [Sands of Inaros, jornada Sands of Inaros, quest Sands of Inaros, missão Sands of Inaros]
 tipo: missao
 subtipo: jornada
 resumo: "Sands of Inaros — Baro Ki'Teer manda o Tenno escavar um túmulo em Marte: é a tumba de Inaros, o Warframe que protegeu uma colônia dos Golden Skymen e dos Infested — e morreu fazendo isso."

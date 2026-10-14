@@ -82,6 +82,8 @@ Como conseguir a Warframe Styanax Prime:
 
 ## 🛠️ Build — Styanax Prime
 
+**Melhor build recomendada para Styanax Prime** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Styanax Prime.
+
 Build de referência para **Styanax Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Alcance para Final Stand; Rally Point.

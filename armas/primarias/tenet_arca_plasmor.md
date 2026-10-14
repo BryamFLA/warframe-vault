@@ -70,18 +70,20 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Tenet Arca Plasmor
 
+**Melhor build recomendada para Tenet Arca Plasmor** (arma): mods, polaridades, arcanes e dicas de uso para montar o Tenet Arca Plasmor.
+
 Build de referência gerada pelas estatísticas da arma (perfil **status**: crítico 22% ×2, status 34%). Ajuste ao seu conteúdo e aos mods que você tem.
 
 | # | Mod |
 |---|---|
-| 1 | Primed Point Blank |
-| 2 | Galvanized Hell (ou a versão comum) |
-| 3 | Galvanized Savvy |
-| 4 | Shotgun Savvy |
-| 5 | Toxic Barrage |
-| 6 | Shell Shock |
-| 7 | Shotgun Barrage |
-| 8 | Seeking Fury |
+| 1 | [[mods/armas/primed_point_blank.md\|Primed Point Blank]] |
+| 2 | [[mods/armas/galvanized_hell.md\|Galvanized Hell (ou a versão comum)]] |
+| 3 | [[mods/armas/galvanized_savvy.md\|Galvanized Savvy]] |
+| 4 | [[mods/armas/shotgun_savvy.md\|Shotgun Savvy]] |
+| 5 | [[mods/armas/toxic_barrage.md\|Toxic Barrage]] |
+| 6 | [[mods/armas/shell_shock.md\|Shell Shock]] |
+| 7 | [[mods/armas/shotgun_barrage.md\|Shotgun Barrage]] |
+| 8 | [[mods/armas/seeking_fury.md\|Seeking Fury]] |
 | Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
 
 **Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).

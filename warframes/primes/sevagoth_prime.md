@@ -98,6 +98,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Sevagoth Prime
 
+**Melhor build recomendada para Sevagoth Prime** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Sevagoth Prime.
+
 Build de referência para **Sevagoth Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Alcance para Gloom e Sow.

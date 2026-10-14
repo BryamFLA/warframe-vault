@@ -76,6 +76,8 @@ disposicao_riven: 1.2
 
 ## 🛠️ Build — Alternox
 
+**Melhor build recomendada para Alternox** (arma): mods, polaridades, arcanes e dicas de uso para montar o Alternox.
+
 > Sugestão do agente (não é dado da wiki). Firestorm e Cautious Shot são os dois mods que a wiki cita como sinérgicos.
 
 | Slot | Mod | Função |

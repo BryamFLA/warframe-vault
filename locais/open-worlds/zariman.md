@@ -1,6 +1,6 @@
 ---
 title: Zariman Ten Zero
-aliases: [Zariman Ten Zero, zariman]
+aliases: [Zariman Ten Zero, zariman, o que conseguir em Zariman, itens de Zariman, o que farmar em Zariman]
 tipo: local
 subtipo: open-world
 faccao: neutro
@@ -19,9 +19,7 @@ agente: opus
 > [!info] Resumo
 > A nave-colônia perdida no Void que criou os Tenno, de volta ao Origin System. **Não é uma landscape aberta** como Plains ou Orb Vallis: é um **tileset de 5 nós** com hub no **[[mecanicas/sindicatos/the_holdfasts.md|Chrysalith]]**. A facção invasora **sorteia a cada 150 minutos** entre Kuva [[lore/faccoes/grineer.md|Grineer]] e Juno [[lore/faccoes/corpus.md|Corpus]]. Exige **[[missoes/jornadas/principais/angels_of_the_zariman.md|Angels of the Zariman]]**.
 
-
 ## 📊 Ficha — Zariman Ten Zero
-
 
 | Item | Valor |
 |---|---|
@@ -35,9 +33,7 @@ agente: opus
 | Tileset | **Zariman** |
 | Sindicato local | **[[mecanicas/sindicatos/the_holdfasts.md\|The Holdfasts]]** — reputação paga em **Voidplumes** |
 
-
 ## 🗺️ Conteúdo Especial — Zariman Ten Zero
-
 
 | Item | Detalhe |
 |---|---|
@@ -86,9 +82,7 @@ Além dos Kuva Grineer e Juno Corpus que se alternam, o Zariman tem entidades de
 
 **Dormant Angels**, **Lohk Surge**, **Lost Spirits**, **Locked Storage Rooms**, **Secret Areas**, **Log Tablets**, **Lunaro Arena** e a **Melica's Lab Room** — uma sala antes selada, com **chance aleatória de aparecer** nas missões, com uma máquina central grande cercada de alcovas onde o Cephalon Melica fazia experimentos. ⚠️ **NÃO VERIFICADO:** os detalhes de cada uma dessas features não foram consultados nesta sessão.
 
-
 ## 💎 Recursos — Zariman Ten Zero
-
 
 | Recurso | Raridade | Melhor nó |
 |---|---|---|
@@ -100,9 +94,7 @@ Além dos Kuva Grineer e Juno Corpus que se alternam, o Zariman tem entidades de
 | **Entropic Kuva** | Especial | Dropado pelos **Entropic Eximus**; trocado com o Cephalon Melica |
 | **Mawfish Bones** e fillets | Pesca | Pesca no Zariman |
 
-
 ## 🗺️ Missões — Zariman Ten Zero
-
 
 | Nó | Tipo de missão | Nível | Por que importa |
 |---|---|---|---|
@@ -116,9 +108,91 @@ Além dos Kuva Grineer e Juno Corpus que se alternam, o Zariman tem entidades de
 
 **Melhor nó para farmar:** **Halako Perimeter** (Exterminate) quando o objetivo é **Voidplume** — é o nó mais curto, e os 8 Voidplumes escondidos estão em qualquer missão independente do tipo. Para **Voidplume Pinion**, uma **[[missoes/bounties/zariman.md|Bounty]] de tier 3–5 que role WAKE AND BANISH**, porque ela marca o Dormant Void Angel com ícone global e o Pinion é drop garantido.
 
+## 📦 Itens de Zariman / Chrysalith — Resumo: tudo o que dá para adquirir
+
+**Todos os itens que você pode adquirir, conseguir ou farmar em Zariman / Chrysalith: 48 itens** — 13 warframes, armas, amps e companheiros, 1 mods, 15 arcanes, 19 recursos, peixes e minérios.
+
+**Warframes, armas e equipamentos de Zariman:** Aeolak, Alternox, Felarx, Gyre, Hespar, Innodem, Laetum, Narin, Nunchasa, Perigale, Phenmor, Praedos, Sarofang.
+
+A lista completa, item por item e com a forma de conseguir, está nas seções "📦 Itens de Zariman / Chrysalith" abaixo (geradas da seção Onde Conseguir de cada nota).
+
+## 📦 Itens de Zariman / Chrysalith — Warframes, Armas, Amps e Companheiros (Aeolak … Sarofang)
+
+Itens (warframes, armas, amps e companheiros) que podem ser adquiridos em Zariman / Chrysalith:
+
+| Item | Como conseguir |
+|---|---|
+| [[armas/primarias/aeolak.md\|Aeolak]] | Blueprint principal nas **bounties tier 5 do Chrysalith** (Zariman). Barrel: **Void Cascade**; Receiver e Stock: **Void Flood**. Peças negociáveis (o blueprint  |
+| [[armas/primarias/alternox.md\|Alternox]] | Blueprint** · **Zariman Bounty nível 70–75** (Chrysalith, Quinn) — **7,94%** por recompensa |
+| [[armas/primarias/felarx.md\|Felarx]] | Blueprint principal comprado do **Cavalero** (The Holdfasts) no Rank 3 por **8.000 de Standing**. Negociável. Arma **Incarnon**. |
+| [[warframes/regular/gyre.md\|Gyre]] | Blueprint principal e componentes da Gyre vêm das **bounties do The Holdfasts no Chrysalith** (Zariman). |
+| [[armas/brancas/hespar.md\|Hespar]] | Blueprint principal nas **bounties tier 4 do Chrysalith**. Blade: **Void Armageddon**; Handle: **Void Cascade**. Peças negociáveis. |
+| [[armas/brancas/innodem.md\|Innodem]] | Blueprint principal comprado do **Cavalero** (The Holdfasts) no Rank 1 por **5.500 de Standing**. Arma **Incarnon**. |
+| [[armas/secundarias/laetum.md\|Laetum]] | Blueprint principal comprado do **Cavalero** (The Holdfasts, Chrysalith) no Rank 0 por **3.000 de Standing**. Negociável. É uma arma **Incarnon**. |
+| [[warframes/regular/narin.md\|Narin]] | Blueprints como recompensa de missões no **Zariman Ten Zero**. Alternativa: comprar da **Cephalon Melica** (Yuvan Peak ou entrada do Chrysalith) com **Entropic  |
+| [[armas/primarias/nunchasa.md\|Nunchasa]] | Blueprints comprados da **Cephalon Melica** (Yuvan Peak ou Chrysalith) com **Entropic Kuva** — 200 pelo principal e 50 por peça (400 no total). |
+| [[armas/primarias/perigale.md\|Perigale]] | Blueprint na rotação A e peças na rotação B do **Conjunction Survival** em **Yuvarium/Circulus, Lua** (exige The War Within). Alternativa: comprar do **Archimed |
+| [[armas/primarias/phenmor.md\|Phenmor]] | Blueprint principal comprado do **Cavalero** (The Holdfasts) no Rank 2 por **6.000 de Standing**. Negociável. Arma **Incarnon**. |
+| [[armas/brancas/praedos.md\|Praedos]] | Blueprint principal comprado do **Cavalero** (The Holdfasts) no Rank 4 por **9.000 de Standing**. Arma **Incarnon**. |
+| [[armas/brancas/sarofang.md\|Sarofang]] | Blueprint na rotação A e peças na rotação B do **Conjunction Survival** (Lua). Alternativa: **Archimedean Yonta** (Chrysalith) com Lua Thrax Plasm. |
+
+## 📦 Itens de Zariman / Chrysalith — Mods (Galeforce Dawn … Galeforce Dawn)
+
+Itens (mods) que podem ser adquiridos em Zariman / Chrysalith:
+
+| Item | Como conseguir |
+|---|---|
+| [[mods/armas/galeforce_dawn.md\|Galeforce Dawn]] | Void Armageddon (Oro Works, Zariman) — rot. C · 8,33% |
+
+## 📦 Itens de Zariman / Chrysalith — Arcanes (Cascadia Accuracy … Molt Vigor)
+
+Itens (arcanes) que podem ser adquiridos em Zariman / Chrysalith:
+
+| Item | Como conseguir |
+|---|---|
+| [[mods/arcanes/cascadia_accuracy.md\|Cascadia Accuracy]] | Void Angel (inimigo) · 1,67% |
+| [[mods/arcanes/cascadia_empowered.md\|Cascadia Empowered]] | Void Angel (inimigo) · 1,67% |
+| [[mods/arcanes/cascadia_flare.md\|Cascadia Flare]] | Void Angel (inimigo) · 1,67% |
+| [[mods/arcanes/cascadia_overcharge.md\|Cascadia Overcharge]] | Void Angel (inimigo) · 1,67% |
+| [[mods/arcanes/emergence_dissipate.md\|Emergence Dissipate]] | Void Angel (inimigo) · 1,67% |
+| [[mods/arcanes/emergence_renewed.md\|Emergence Renewed]] | Void Angel (inimigo) · 1,67% |
+| [[mods/arcanes/emergence_savior.md\|Emergence Savior]] | Void Angel (inimigo) · 1,67% |
+| [[mods/arcanes/eternal_eradicate.md\|Eternal Eradicate]] | Void Angel (inimigo) · 1,67% |
+| [[mods/arcanes/eternal_logistics.md\|Eternal Logistics]] | Void Angel (inimigo) · 1,67% |
+| [[mods/arcanes/eternal_onslaught.md\|Eternal Onslaught]] | Void Angel (inimigo) · 1,67% |
+| [[mods/arcanes/fractalized_reset.md\|Fractalized Reset]] | Void Angel (inimigo) · 1,67% |
+| [[mods/arcanes/molt_augmented.md\|Molt Augmented]] | Void Angel (inimigo) · 1,67% |
+| [[mods/arcanes/molt_efficiency.md\|Molt Efficiency]] | Void Angel (inimigo) · 1,67% |
+| [[mods/arcanes/molt_reconstruct.md\|Molt Reconstruct]] | Void Angel (inimigo) · 1,67% |
+| [[mods/arcanes/molt_vigor.md\|Molt Vigor]] | Void Angel (inimigo) · 1,67% |
+
+## 📦 Itens de Zariman / Chrysalith — Recursos, Peixes e Minérios (Credits … Zenurik Lens)
+
+Itens (recursos, peixes e minérios) que podem ser adquiridos em Zariman / Chrysalith:
+
+| Item | Como conseguir |
+|---|---|
+| [[recursos/moedas/credits.md\|Credits]] | Zariman Bounty Lvl 50-55 — rot. A · 17,39% |
+| [[recursos/raridades/raro/entrati_lanthorn.md\|Entrati Lanthorn]] | Como conseguir Entrati Lanthorn:** aparece em **Albrecht's Laboratories (Deimos) e Zariman**. |
+| [[recursos/raridades/especial/greater_madurai_lens.md\|Greater Madurai Lens]] | Zariman Bounty Lvl 70-75 — rot. A · 11,9% |
+| [[recursos/raridades/especial/greater_naramon_lens.md\|Greater Naramon Lens]] | Zariman Bounty Lvl 110-115 — rot. A · 11,36% |
+| [[recursos/raridades/especial/greater_unairu_lens.md\|Greater Unairu Lens]] | Zariman Bounty Lvl 110-115 — rot. A · 11,36% |
+| [[recursos/raridades/especial/greater_vazarin_lens.md\|Greater Vazarin Lens]] | Zariman Bounty Lvl 110-115 — rot. A · 11,36% |
+| [[recursos/raridades/especial/greater_zenurik_lens.md\|Greater Zenurik Lens]] | Zariman Bounty Lvl 70-75 — rot. A · 13,89% |
+| [[recursos/raridades/especial/madurai_lens.md\|Madurai Lens]] | Void Flood (Everview Arc, Zariman) — rot. C · 15% |
+| [[recursos/raridades/especial/naramon_lens.md\|Naramon Lens]] | Void Flood (Everview Arc, Zariman) — rot. C · 15% |
+| [[recursos/raridades/especial/thrax_plasm.md\|Thrax Plasm]] | Como conseguir Thrax Plasm:** aparece em **Zariman**. |
+| [[recursos/raridades/especial/unairu_lens.md\|Unairu Lens]] | Void Flood (Everview Arc, Zariman) — rot. C · 15% |
+| [[recursos/raridades/especial/vazarin_lens.md\|Vazarin Lens]] | Void Flood (Everview Arc, Zariman) — rot. C · 15% |
+| [[recursos/raridades/incomum/voidgel_orb.md\|Voidgel Orb]] | Como conseguir Voidgel Orb:** aparece em **Zariman**. |
+| [[recursos/open_worlds/zariman/voidplume_crest.md\|Voidplume Crest]] | Como conseguir Voidplume Crest:** recurso raro que aparece em **Zariman**. |
+| [[recursos/open_worlds/zariman/voidplume_down.md\|Voidplume Down]] | Como conseguir Voidplume Down:** recurso comum que aparece em **Zariman**. |
+| [[recursos/open_worlds/zariman/voidplume_pinion.md\|Voidplume Pinion]] | Como conseguir Voidplume Pinion:** recurso raro que aparece em **Zariman**. |
+| [[recursos/open_worlds/zariman/voidplume_quill.md\|Voidplume Quill]] | Como conseguir Voidplume Quill:** recurso comum que aparece em **Zariman**. |
+| [[recursos/raridades/incomum/voidplume_vane.md\|Voidplume Vane]] | Como conseguir Voidplume Vane:** aparece em **Zariman**. |
+| [[recursos/raridades/especial/zenurik_lens.md\|Zenurik Lens]] | Void Flood (Everview Arc, Zariman) — rot. C · 15% |
 
 ## 📖 História — Zariman Ten Zero
-
 
 O **Zariman Ten Zero** era uma nave-colônia que desapareceu num **salto de Void** malfeito, levando a tripulação e as crianças a bordo. O Void não as matou — transformou-as. As crianças sobreviventes, cuidadas por **[[lore/personagens/margulis.md|Margulis]]** depois do resgate, viriam a ser os **Tenno**, e o acidente é a origem literal do poder de Transference.
 

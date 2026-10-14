@@ -93,6 +93,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Titania
 
+**Melhor build recomendada para Titania** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Titania.
+
 Build de referência para **Titania** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Duração para Razorwing.

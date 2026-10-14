@@ -97,6 +97,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Lavos Prime
 
+**Melhor build recomendada para Lavos Prime** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Lavos Prime.
+
 Build de referência para **Lavos Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Alcance (não usa energia, usa recarga); Duração.

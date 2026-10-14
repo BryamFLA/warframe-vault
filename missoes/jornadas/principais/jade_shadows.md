@@ -1,6 +1,6 @@
 ---
 title: Jade Shadows
-aliases: ["Jade Shadows", "quest Jade Shadows", "Sombras de Jade", "quest do Stalker", "quest da Jade"]
+aliases: ["Jade Shadows", "quest Jade Shadows", "Sombras de Jade", "quest do Stalker", "quest da Jade", jornada Jade Shadows, missão Jade Shadows]
 tipo: missao
 subtipo: jornada
 resumo: "Jade Shadows — quest principal solo (Update 36.0, 18/06/2024) após The New War: jogando como Stalker, tente salvar Jade; ela morre no parto e o filho dele (Sirius ou Orion) nasce. Dá o blueprint da Jade."
@@ -39,6 +39,15 @@ Ao aplicar o Cortichrome, descobre-se que Jade está **grávida**; ela morre no 
 
 - **Blueprint da [[warframes/regular/jade.md|Jade]]** (Warframe).
 - Cena Captura **Stalker's Lair** e retratos Alone / United / Protector (só na 1ª conclusão).
+
+## 💡 Dicas para Terminar — Jade Shadows
+
+- Reserve **30–40 minutos**: a quest é solo e bloqueia o resto do jogo até terminar (confirme digitando SHADOWS).
+- No Spy de Fobos, o Stalker tem **Auto Breach 100%** e a invisibilidade dele ignora lasers — dá para fazer os 4 cofres sem alarme.
+- O Stalker usa armas e habilidades próprias (Dread, Despair, Hate); não é preciso preparar loadout.
+- Contra o **Juggernaut Behemoth** em Eris, mire nos pontos fracos expostos e mantenha distância dos ataques em área.
+- Na fuga final, a Hate ganha ondas de energia mas o Stalker perde as outras habilidades: avance rápido e use cobertura.
+- A escolha do nome (Sirius ou Orion) influencia diálogos da sequência [[missoes/jornadas/principais/jade_shadows_constellations.md|Constellations]].
 
 ## 🔗 Relacionados — Jade Shadows
 

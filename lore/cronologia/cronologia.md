@@ -1,6 +1,6 @@
 ---
 title: Cronologia do Universo Warframe
-aliases: [Cronologia do Universo Warframe, cronologia, História do Warframe, Resumo da história do jogo, Resumo da história do game, Lore do Warframe, Enredo do Warframe, História do jogo]
+aliases: [Cronologia do Universo Warframe, cronologia, História do Warframe, Resumo da história do jogo, Resumo da história do game, Lore do Warframe, Enredo do Warframe, História do jogo, história completa do Warframe, história do começo ao fim, lore completo, história do game, resumo da lore]
 tipo: lore
 subtipo: cronologia
 resumo: "Cronologia do Universo Warframe — Cinco eras: o Império Orokin que criou tudo, a Antiga Guerra que o quebrou, o Colapso que dividiu o Sistema, o Despertar dos Tenno, e a Nova Guerra — mais os Ecos do Vazio, que não são uma era e sim o que sempre esteve lá."

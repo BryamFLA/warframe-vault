@@ -69,19 +69,21 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Tenet Detron
 
+**Melhor build recomendada para Tenet Detron** (arma): mods, polaridades, arcanes e dicas de uso para montar o Tenet Detron.
+
 Build de referência gerada pelas estatísticas da arma (perfil **dano bruto (baseline)**: crítico 18% ×2, status 10%). Ajuste ao seu conteúdo e aos mods que você tem.
 
 | # | Mod |
 |---|---|
 | 1 | [[mods/armas/hornet_strike.md\|Hornet Strike]] |
-| 2 | Galvanized Diffusion (ou a versão comum) |
-| 3 | Galvanized Shot |
-| 4 | Sure Shot |
-| 5 | Pistol Pestilence |
+| 2 | [[mods/armas/galvanized_diffusion.md\|Galvanized Diffusion (ou a versão comum)]] |
+| 3 | [[mods/armas/galvanized_shot.md\|Galvanized Shot]] |
+| 4 | [[mods/armas/sure_shot.md\|Sure Shot]] |
+| 5 | [[mods/armas/pistol_pestilence.md\|Pistol Pestilence]] |
 | 6 | [[mods/armas/deep_freeze.md\|Deep Freeze]] |
 | 7 | [[mods/armas/lethal_torrent.md\|Lethal Torrent]] |
 | 8 | [[mods/armas/augur_pact.md\|Augur Pact]] |
-| Exilus | Hollowed Bullets |
+| Exilus | [[mods/especiais/hollowed_bullets.md\|Hollowed Bullets]] |
 
 **Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).
 **Arcanes:** Secondary Encumber, Secondary Merciless.

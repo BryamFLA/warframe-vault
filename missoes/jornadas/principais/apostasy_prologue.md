@@ -1,6 +1,6 @@
 ---
 title: Apostasy Prologue
-aliases: [Apostasy Prologue]
+aliases: [Apostasy Prologue, jornada Apostasy Prologue, quest Apostasy Prologue, missão Apostasy Prologue]
 tipo: missao
 subtipo: jornada
 resumo: "Apostasy Prologue — A quest curta em que Ballas leva a Lotus: revivendo os últimos momentos de Margulis antes da execução, o Tenno assiste ao encontro dos dois na câmara dela."

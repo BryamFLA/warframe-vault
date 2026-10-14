@@ -1,6 +1,6 @@
 ---
 title: The Limbo Theorem
-aliases: [The Limbo Theorem]
+aliases: [The Limbo Theorem, jornada The Limbo Theorem, quest The Limbo Theorem, missão The Limbo Theorem]
 tipo: missao
 subtipo: jornada
 resumo: "The Limbo Theorem — A quest de puzzle do Limbo: Ordis fica confuso com um teorema incompleto, e o Tenno precisa montar as três Theorem Keys para desenterrar a Warframe que vive entre dois planos."

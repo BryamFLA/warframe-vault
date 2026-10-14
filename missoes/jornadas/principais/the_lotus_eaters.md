@@ -1,6 +1,6 @@
 ---
 title: The Lotus Eaters
-aliases: ["The Lotus Eaters", "quest The Lotus Eaters", "Lotus Eaters", "prólogo do 1999", "prologo The Hex"]
+aliases: ["The Lotus Eaters", "quest The Lotus Eaters", "Lotus Eaters", "prólogo do 1999", "prologo The Hex", jornada The Lotus Eaters, missão The Lotus Eaters]
 tipo: missao
 subtipo: jornada
 resumo: "The Lotus Eaters — quest principal curta e solo (Update 36.1, 21/08/2024) após Whispers in the Walls: o Drifter atende um KinePage tocando no Void e cria o elo com Höllvania em 1999; prólogo de The Hex."

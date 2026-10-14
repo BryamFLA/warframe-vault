@@ -32,9 +32,7 @@ elemento_progenitor: Radiation
 > Warframe **furtivo de assassinato**. A mecânica central é **Bleed**: a passiva dá **+25% de dano** e **+50% de duração** a todo efeito de Bleed que ele aplica, e as quatro habilidades alimentam isso.
 > **Blade Storm** não tem custo de ativação — ele **marca** inimigos a até **50 m** por **12 de energia cada** e envia clones para executá-los. É o Warframe de limpar sala sem ser visto, forte em **[[missoes/tipos/exterminate.md|Exterminate]]** e **[[missoes/tipos/spy.md|Spy]]**, e fraco onde há objetivo a defender.
 
-
 ## 📊 Estatísticas Base — Ash
-
 
 | Atributo | Rank 0 | Rank 30 |
 |---|---|---|
@@ -62,9 +60,7 @@ elemento_progenitor: Radiation
 | Versão Prime | **[[warframes/primes/ash_prime.md\|Ash Prime]]** — mais escudo (365), mais armadura (185), sprint 1,2 e 3 polaridades. **Vaulted desde 30/05/2017** |
 | Tema | Assassino, Ninja |
 
-
 ## 🔮 Habilidades — Ash
-
 
 | # | Nome | Custo | Efeito |
 |---|---|---|---|
@@ -103,7 +99,6 @@ elemento_progenitor: Radiation
 >
 > Os quatro são comprados com reputação de **[[mecanicas/sindicatos/red_veil.md|Red Veil]]** ou **[[mecanicas/sindicatos/arbiters_of_hexis.md|Arbiters of Hexis]]** — os dois sindicatos que vendem Augment de Ash, segundo o `Module:Warframes/data`.
 
-
 ## 🌍 Onde Conseguir — Ash
 
 Como conseguir o Warframe Ash:
@@ -111,7 +106,6 @@ Como conseguir o Warframe Ash:
 Blueprint principal no **Mercado**. Componentes em missões de **Railjack** (Survival, Defense, Exterminate e Volatile): **Systems** na **Venus Proxima**, **Neuroptics** na **Neptune Proxima** e **Chassis** na **Pluto Proxima**. Também no **The Circuit** (Duviri) na semana em que ele está na rotação (todos os blueprints no tier 10). Antes do Update 29.10 (2021), as peças caíam dos Manics.
 
 ## 🏗️ Como Construir — Ash
-
 
 > [!danger] A fonte de drop mudou — guia antigo está errado
 > **Os componentes do Ash NÃO caem mais de Manics.** Isso mudou no **Update 29.10 (19/03/2021)**. Antes do **Update 17.0 (31/07/2015)**, caíam do **[[lore/chefes/tyl_regor.md|Tyl Regor]]**, em Titania, **[[locais/planetas/urano.md|Urano]]**.
@@ -138,9 +132,9 @@ Blueprint principal no **Mercado**. Componentes em missões de **Railjack** (Sur
 
 **Custo total de recurso (os 4 blueprints):** 70.000 créditos, 150 Alloy Plate, 1 Neural Sensors, 150 Polymer Bundle, 800 Rubedo, 2 Morphics, 1.000 Ferrite, 1 Control Module, 500 Salvage, 500 Plastids, 1 Orokin Cell — e **3 dias e 12 horas** de forja somados (os componentes podem ser forjados em paralelo).
 
-
 ## 🛠️ Build — Ash
 
+**Melhor build recomendada para Ash** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Ash.
 
 ### Build geral — Blade Storm na estrela do mapa
 
@@ -184,9 +178,7 @@ Então a build é de **sobrevivência + Eficiência**, e o dano vem da **arma**:
 
 **Prioridade de Forma:** as 3 do set Umbral consomem muita capacidade — conte **4 a 5 Forma** mais um **Orokin Reactor**, e use os **Umbral Forma** se tiver.
 
-
 ## 🧬 Helminth — Ash
-
 
 | Item | Valor |
 |---|---|
@@ -198,9 +190,7 @@ Então a build é de **sobrevivência + Eficiência**, e o dano vem da **arma**:
 > [!note] Subsumir o Ash entrega o Shuriken
 > Alimentar um Ash ao **[[mecanicas/helminth.md|Helminth]]** libera **Shuriken** para instalar em qualquer outro frame. Como o Ash é de **MR 0** e tem blueprint de 35.000 créditos no Mercado, ele é um dos frames mais baratos de farmar só para subsumir.
 
-
 ## 🔗 Sinergias e Uso — Ash
-
 
 **Funciona bem em:**
 
@@ -224,16 +214,13 @@ Então a build é de **sobrevivência + Eficiência**, e o dano vem da **arma**:
 
 **Armas que combinam:** o Ash quer **Slash** alto, porque a passiva dele multiplica Bleed. **[[armas/brancas/glaive_prime.md|Glaive Prime]]**, **[[armas/brancas/kronen_prime.md|Kronen Prime]]** e qualquer rifle com **[[mods/especiais/hunter_munitions.md|Hunter Munitions]]** aproveitam direto. Armas de puro **Impact** ou de dano elemental sem Slash **não** usam a passiva dele.
 
-
 ## 📖 História — Ash
-
 
 > *"Behold the patron saint of the Orokin school of political assassination. Ash specializes in stealth. The edge of his blade is sooner felt than seen."* — Códice
 
 Ash é o **assassino político** dos **[[lore/faccoes/orokin.md|Orokin]]**. A descrição do Códice é direta sobre isso: ele não foi feito para guerra aberta, foi feito para resolver problemas internos do império sem que ninguém visse. É um dos **frames originais** do jogo, disponível desde o lançamento.
 
 O tema é declaradamente **ninja** — fumaça, shuriken, teleporte, execução. O que a ficção não esconde é o desconforto: diferente de um **[[warframes/regular/excalibur.md|Excalibur]]** ou de um **[[warframes/regular/rhino.md|Rhino]]**, que são soldados, o Ash é a ferramenta que os Orokin usavam **uns contra os outros**.
-
 
 ## ⭐ Avaliação Popular — Ash
 
@@ -249,7 +236,6 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 **Leitura:** Ash é raramente usado entre os Warframes, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 💡 Curiosidades — Ash
-
 
 - **O `InternalName` do Ash é `/Lotus/Powersuits/Ninja/Ninja`.** O nome de desenvolvimento dele era literalmente "Ninja" — o tema veio antes do nome.
 - **Blade Storm custa 0 de energia para ativar.** Toda a energia é gasta **por marca (12 cada)**. É por isso que Eficiência rende mais que Força numa build de Blade Storm, e por isso que o número de alvos, não o dano, é o limite da habilidade.

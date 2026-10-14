@@ -99,6 +99,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Jade
 
+**Melhor build recomendada para Jade** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Jade.
+
 Build de referência para **Jade** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Alcance para Light's Judgment e Symphony of Mercy.

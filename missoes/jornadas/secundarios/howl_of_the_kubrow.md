@@ -1,6 +1,6 @@
 ---
 title: Howl of the Kubrow
-aliases: [Howl of the Kubrow]
+aliases: [Howl of the Kubrow, jornada Howl of the Kubrow, quest Howl of the Kubrow, missão Howl of the Kubrow]
 tipo: missao
 subtipo: jornada
 resumo: "Howl of the Kubrow — A quest do primeiro companheiro: um Corpus cobrando de um doutor um Kubrow \"digno de um príncipe Orokin\" leva o Tenno a roubar o Incubator Segment."

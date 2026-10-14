@@ -97,6 +97,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Mag Prime
 
+**Melhor build recomendada para Mag Prime** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Mag Prime.
+
 Build de referência para **Mag Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Alcance para Magnetize/Polarize.

@@ -22,9 +22,7 @@ elemento_progenitor: Impact
 > [!info] Resumo em uma linha
 > Tanque e suporte de dano: Iron Skin fornece Overguard, Roar fortalece o esquadrão e Rhino Stomp controla grupos.
 
-
 ## 📊 Stats Base — Rhino
-
 
 Valores sem mods. Os bônus das habilidades abaixo usam o rank máximo da habilidade, salvo indicação contrária.
 
@@ -45,9 +43,7 @@ Valores sem mods. Os bônus das habilidades abaixo usam o rank máximo da habili
 
 **Versão Prime:** [[warframes/primes/rhino_prime.md|Rhino Prime]] — Rhino Prime aumenta armadura de 240 para 290 e sprint de 0,95 para 1,00. Vida, escudo e energia no rank 30 continuam 370, 555 e 150; a armadura extra também aumenta a reserva inicial de Iron Skin.
 
-
 ## 🔮 Habilidades — Rhino
-
 
 Custos-base de energia, antes de Eficiência. A passiva não consome energia; Eficiência reduz os custos de ativação de todas as habilidades.
 
@@ -77,7 +73,6 @@ Custos-base de energia, antes de Eficiência. A passiva não consome energia; Ef
 
 Os sindicatos principais vendem seus augments no rank máximo de reputação por 25.000 de Standing cada. Augments de Conclave seguem oferta própria; não presumir o mesmo vendedor/preço. Nomes sem wikilink não possuem alvo próprio confirmado no índice do vault.
 
-
 ## 🌍 Onde Conseguir — Rhino
 
 Como conseguir o Warframe Rhino:
@@ -85,7 +80,6 @@ Como conseguir o Warframe Rhino:
 Blueprint principal no **Mercado**. Componentes: drop do boss **Jackal** em **Fossa, Vênus**. Também no **The Circuit** (Duviri) na semana dele (todos os blueprints no tier 10).
 
 ## 🏗️ Como Construir — Rhino
-
 
 **Fonte principal do blueprint:** Blueprint principal no Mercado por 35.000 créditos. Neurovisor, chassi e sistemas vêm de Jackal, em Fossa, Vênus. A recompensa é o blueprint: ainda é necessário fabricar cada componente.
 
@@ -115,9 +109,9 @@ As peças são fabricadas separadamente e depois consumidas pela montagem final.
 - O Circuito (Duviri): Na rotação correspondente do Circuito normal, selecionar Rhino e concluir a trilha fornece seus blueprints. É alternativa ao Jackal, dependente de rotação.
 - Relíquias (só para Prime): não fornecem peças do Rhino regular. A versão Prime possui aquisição separada.
 
-
 ## 🛠️ Build — Rhino
 
+**Melhor build recomendada para Rhino** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Rhino.
 
 Sugestões editoriais baseadas nas mecânicas verificadas; não são builds medidas em jogo. A geral usa mods de sobrevivência e Equilibrium em ranks intermediários para conter o custo. As contas de Forma pressupõem Warframe rank 30 com Reator Orokin, aura no rank indicado e os mods exatamente nos ranks das tabelas.
 
@@ -161,10 +155,7 @@ Use Iron Skin, mantenha Roar e acerte grupos com Stomp para recuperar a proteç�
 
 **Prioridade de Forma:** Geral: 0 Forma com Reator e Steel Charge; Vitality e Steel Fiber nos Vazarin. Avançada: 1 Forma Madurai em slot neutro para Transient Fortitude; Steel Fiber e Rolling Guard nos Vazarin originais. Cálculo: 78 de 78 pontos com Mobilize.
 
-
-
 ## 🧬 Helminth — Rhino
-
 
 | Item | Valor |
 |---|---|
@@ -174,9 +165,7 @@ Use Iron Skin, mantenha Roar e acerte grupos com Stomp para recuperar a proteç�
 
 [[mecanicas/helminth.md|Helminth]] permite substituir uma habilidade da configuração. A subsunção sacrifica o Warframe regular; não sacrifica a variante Prime. As recomendações acima são alternativas às builds com kit original, e não trocas já realizadas no inventário do jogador.
 
-
 ## 🔗 Sinergias e Uso — Rhino
-
 
 **Funciona bem em:** [[missoes/tipos/assassination.md|Assassination]] e [[missoes/tipos/exterminate.md|Exterminate]]: Roar aumenta o dano das armas enquanto Iron Skin protege. [[missoes/tipos/defense.md|Defense]] e [[missoes/tipos/survival.md|Survival]]: Stomp controla grupos suscetíveis e, com augment, repara Iron Skin.
 
@@ -186,12 +175,9 @@ Use Iron Skin, mantenha Roar e acerte grupos com Stomp para recuperar a proteç�
 
 **Armas que combinam:** Rubico Prime para disparos concentrados e Nikana Prime para melee são opções: ambas recebem Roar. O bônus do tipo facção também participa do cálculo de dano de status, favorecendo armas que aplicam procs de dano.
 
-
 ## 📖 História — Rhino
 
-
 O Códice regular destaca sobrevivência e controle de grupo. O relato de Rhino Prime descreve uma criatura que escapa de experimentos, persegue pesquisadores; é um relato narrativo, não uma descrição de habilidades de jogo.
-
 
 ## ⭐ Avaliação Popular — Rhino
 
@@ -208,12 +194,9 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 💡 Curiosidades — Rhino
 
-
 - Iron Skin tem opções de aparência em Auxiliary, incluindo uma opção invisível. A skin Palatine é uma das aparências que podem fornecer um override próprio da proteção.
 
-
 ## 🎨 Fashion Frame — Rhino
-
 
 | Item | Opções |
 |---|---|

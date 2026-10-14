@@ -93,6 +93,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Mirage
 
+**Melhor build recomendada para Mirage** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Mirage.
+
 Build de referência para **Mirage** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Duração e Força para Hall of Mirrors e Eclipse.

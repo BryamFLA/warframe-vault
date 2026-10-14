@@ -99,6 +99,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Saryn
 
+**Melhor build recomendada para Saryn** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Saryn.
+
 Build de referência para **Saryn** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força, Duração e Alcance para Spores/Miasma.

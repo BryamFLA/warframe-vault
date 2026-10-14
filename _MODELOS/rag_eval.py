@@ -24,7 +24,15 @@ for dp,dn,fn in os.walk(ROOT):
         rel=os.path.relpath(p,ROOT)
         for part in re.split(r"\n(?=## )",b):
             head=part.split("\n",1)[0].strip("# ").strip()
-            chunks.append((rel,head,f"{title} {al} {part}"))
+            if re.match(r"(🔗 Relacionados|📚 Fontes)",head): continue  # secoes so de links: nao indexar
+            subs=re.split(r"\n(?=### )",part)
+            if len(part)>2500 and len(subs)>1:
+                # secao longa: sub-chunks por '### ' mantendo o heading '## ' pai como contexto
+                chunks.append((rel,head,f"{title} {al} {subs[0]}"))
+                for sp in subs[1:]:
+                    chunks.append((rel,head+" > "+sp.split("\n",1)[0].strip("# ").strip(),f"{title} {al} {head} {sp}"))
+            else:
+                chunks.append((rel,head,f"{title} {al} {part}"))
 docs=[norm(c[2]) for c in chunks]; N=len(docs); avg=sum(map(len,docs))/N
 df=collections.Counter(w for d in docs for w in set(d)); tfs=[collections.Counter(d) for d in docs]
 inv=collections.defaultdict(list)

@@ -97,6 +97,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Frost Prime
 
+**Melhor build recomendada para Frost Prime** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Frost Prime.
+
 Build de referência para **Frost Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Alcance para Avalanche; Armadura para Snow Globe.

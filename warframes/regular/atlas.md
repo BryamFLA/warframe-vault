@@ -32,9 +32,7 @@ elemento_progenitor: Toxin
 > **Brawler de punho.** O frame de maior armadura entre os iniciais: **475** — mais que o quádruplo do **[[warframes/regular/ash.md|Ash]]**. A passiva o deixa **imune a Knockdown enquanto estiver no chão**, o que é raro no jogo e muda como ele joga: ele não é derrubado por Bombard nem por explosão.
 > O ciclo dele é fechado: **Petrify** fossiliza inimigos e aumenta o dano que eles tomam, **Landslide** ou melee os estilhaça, e os estilhaços viram **Rubble** — que **cura o Atlas e lhe dá armadura extra**. Ele se sustenta matando.
 
-
 ## 📊 Estatísticas Base — Atlas
-
 
 | Atributo | Rank 0 | Rank 30 |
 |---|---|---|
@@ -64,9 +62,7 @@ elemento_progenitor: Toxin
 | Versão Prime | **[[warframes/primes/atlas_prime.md\|Atlas Prime]]** (Update 25.8) — 550 de vida, 500 de armadura, 215 de energia, 75 de energia inicial e **4 polaridades** |
 | Tema | Brawler, Elemental de Terra |
 
-
 ## 🔮 Habilidades — Atlas
-
 
 | # | Nome | Custo | Efeito |
 |---|---|---|---|
@@ -111,7 +107,6 @@ elemento_progenitor: Toxin
 > [!warning] Correção do arquivo anterior
 > A versão anterior deste arquivo listava os sindicatos de Augment do Atlas como **"Cephalon Suda e Véu Vermelho"**. Está **errado**: são **Red Veil e Steel Meridian**.
 
-
 ## 🌍 Onde Conseguir — Atlas
 
 Como conseguir o Warframe Atlas:
@@ -119,7 +114,6 @@ Como conseguir o Warframe Atlas:
 Blueprint principal ao concluir a quest **The Jordas Precept**. Componentes: drop do boss **Jordas Golem** (Jordas Golem Assassinate, **Eris**), liberado pela mesma quest — luta em Archwing. Blueprints extras no **Cephalon Simaris** (50.000 de Standing). Também no **The Circuit** (Duviri) na semana dele: Neuroptics tier 2, Chassis 5, Systems 8, principal 10.
 
 ## 🏗️ Como Construir — Atlas
-
 
 **Blueprint principal:** é **recompensa da jornada [[missoes/jornadas/secundarios/the_jordas_precept.md|The Jordas Precept]]** — não é vendido por créditos no Mercado. Cópias adicionais podem ser compradas do **[[mecanicas/sindicatos/cephalon_simaris.md|Cephalon Simaris]]** por **50.000 de reputação**. O frame pronto custa **275 platina**.
 
@@ -143,9 +137,9 @@ Blueprint principal ao concluir a quest **The Jordas Precept**. Componentes: dro
 
 **Custo total de recurso (os 4 blueprints):** 75.000 créditos, 3.100 Polymer Bundle, 1.100 Alloy Plate, 800 Circuits, 5 Neurodes, 1.800 Nano Spores, 1.300 Cryotic, 700 Rubedo, 2 Argon Crystal, 4.600 Ferrite, 5 Morphics, 2 Orokin Cell — e **3 dias e 12 horas** de forja. **É um frame caro em recurso comum**, bem mais que o Ash.
 
-
 ## 🛠️ Build — Atlas
 
+**Melhor build recomendada para Atlas** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Atlas.
 
 ### Build geral — Landslide e Rubble na estrela do mapa
 
@@ -191,9 +185,7 @@ Blueprint principal ao concluir a quest **The Jordas Precept**. Componentes: dro
 
 **Prioridade de Forma:** **4 a 5 Forma** mais **Orokin Reactor**. Com dois mods Umbral e Primed Vigor, a capacidade é o limite real.
 
-
 ## 🧬 Helminth — Atlas
-
 
 | Item | Valor |
 |---|---|
@@ -207,9 +199,7 @@ Blueprint principal ao concluir a quest **The Jordas Precept**. Componentes: dro
 >
 > O Atlas é, por isso, um dos frames que mais vale **farmar duas vezes**: um para jogar, um para alimentar o **[[mecanicas/helminth.md|Helminth]]**. Mas note o custo: o segundo Atlas exige outra rodada de **[[lore/chefes/jordas_golem.md|Jordas Golem]]** em Archwing, mais **1.300 [[recursos/raridades/raro/cryotic.md|Cryotic]]** e **2 [[recursos/raridades/raro/argon_crystal.md|Argon Crystal]]** — ou uma semana dele na rotação do The Circuit.
 
-
 ## 🔗 Sinergias e Uso — Atlas
-
 
 **Funciona bem em:**
 
@@ -233,9 +223,7 @@ Blueprint principal ao concluir a quest **The Jordas Precept**. Componentes: dro
 
 **Armas que combinam:** o Atlas quer **melee**, pela sinergia de estilhaçar inimigo petrificado de perto. **[[armas/brancas/tekko_prime.md|Tekko Prime]]** é a escolha temática e mecânica — são manoplas, como os punhos dele. **[[armas/brancas/kronen_prime.md|Kronen Prime]]** e **[[armas/brancas/glaive_prime.md|Glaive Prime]]** também funcionam. Para arma de tiro, qualquer coisa que aproveite o bônus de dano recebido do Petrify serve; **[[armas/secundarias/kuva_nukor.md|Kuva Nukor]]** é boa porque aplica status em vários alvos de uma vez.
 
-
 ## 📖 História — Atlas
-
 
 > *"Enemies tremble before the brawler with fists as hard as stone. Atlas deals high damage. Command terrestrial elements that form the foundation of any battlefield."* — Códice
 
@@ -244,7 +232,6 @@ Atlas é o Warframe **elemental de terra** — pedra, não metal. O nome vem do 
 Ele foi introduzido no **Update 17.5**, junto da jornada **[[missoes/jornadas/secundarios/the_jordas_precept.md|The Jordas Precept]]** — a história do **[[lore/chefes/jordas_golem.md|Jordas Golem]]**, um Cephalon enlouquecido fundido a uma nave infestada em **[[locais/planetas/eris.md|Eris]]**. Que o frame da terra firme só se consiga vencendo uma criatura no espaço, em Archwing, é uma das decisões de design mais estranhas do jogo.
 
 A versão **[[warframes/primes/atlas_prime.md|Atlas Prime]]** chegou no **Update 25.8**, com 550 de vida, 500 de armadura, 215 de energia e **quatro polaridades**.
-
 
 ## ⭐ Avaliação Popular — Atlas
 
@@ -260,7 +247,6 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 **Leitura:** Atlas é raramente usado entre os Warframes, e o público que mais usa são os jogadores **intermediários (MR 11–20)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 💡 Curiosidades — Atlas
-
 
 - **O `InternalName` do Atlas é `/Lotus/Powersuits/Brawler/Brawler`.** Como o Ash (cujo nome interno é "Ninja"), o nome de desenvolvimento era o arquétipo puro.
 - **Landslide é uma das poucas habilidades do jogo que aceitam mods de arma.** Os **Landslide Fists** são tratados como arma própria, com stats próprios — é por isso que o dano dele não depende só de Força de Habilidade.

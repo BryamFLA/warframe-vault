@@ -93,6 +93,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Dagath
 
+**Melhor build recomendada para Dagath** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Dagath.
+
 Build de referência para **Dagath** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Duração para Doom e Wyrd Scythes.

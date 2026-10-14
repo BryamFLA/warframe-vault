@@ -1,6 +1,6 @@
 ---
 title: The Second Dream
-aliases: [The Second Dream]
+aliases: [The Second Dream, jornada The Second Dream, quest The Second Dream, missão The Second Dream]
 tipo: missao
 subtipo: jornada
 resumo: The Second Dream — A quest que revela que você não é a Warframe.

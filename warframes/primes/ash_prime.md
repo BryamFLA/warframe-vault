@@ -33,9 +33,7 @@ vaultado: true
 > Versão **Prime** do **[[warframes/regular/ash.md|Ash]]**. As **habilidades são idênticas** — Shuriken, Smoke Screen, Teleport e Blade Storm, com os mesmos custos — e a passiva de **Bleed (+25% de dano, +50% de duração)** é a mesma.
 > O que muda são os números e a capacidade de build: **+95 de escudo**, **+80 de armadura**, **sprint 1,2** em vez de 1,15, e uma **terceira polaridade (Naramon)**. **Está vaulted desde 30/05/2017** — não cai de relíquia nova.
 
-
 ## 📊 Estatísticas Base — Ash Prime
-
 
 | Atributo | Rank 0 | Rank 30 |
 |---|---|---|
@@ -66,9 +64,7 @@ vaultado: true
 | Introduzido em | **Update 16.11** |
 | Versão base | **[[warframes/regular/ash.md\|Ash]]** — MR 0, blueprint de 35.000 créditos no Mercado, componentes nos Proximas de Railjack |
 
-
 ## 🔮 Habilidades — Ash Prime
-
 
 | # | Nome | Custo | Efeito |
 |---|---|---|---|
@@ -105,7 +101,6 @@ vaultado: true
 > [!note] Os Augments são os mesmos do Ash base
 > Ash e Ash Prime **compartilham os quatro Augments** — não há Augment exclusivo de Prime no jogo. Nenhum dos quatro tem arquivo próprio no vault, por isso os nomes ficam em texto puro (seção 3 do `_CONVENCOES.md`).
 
-
 ## 🌍 Onde Conseguir — Ash Prime
 
 Como conseguir o Warframe Ash Prime:
@@ -113,7 +108,6 @@ Como conseguir o Warframe Ash Prime:
 As peças do Ash Prime vêm de **Relíquias do Void**, mas ele está **vaultado desde 30/05/2017** — as Relíquias não caem mais em missões. Formas atuais: **Prime Resurgence** (Varzia, quando ele entra na rotação) ou **troca de peças/Relíquias com outros jogadores**.
 
 ## 🏗️ Como Construir — Ash Prime
-
 
 > [!danger] Ash Prime está no Prime Vault
 > **Em 24/05/2017 foi anunciado que o Ash Prime entraria no Prime Vault, e em 30/05/2017 ele saiu das tabelas de recompensa.** Componentes e frames já construídos **continuam funcionando** — quem tinha, manteve.
@@ -146,9 +140,9 @@ As peças do Ash Prime vêm de **Relíquias do Void**, mas ele está **vaultado 
 
 **Custo total de recurso (os 4 blueprints):** 70.000 créditos, 150 Alloy Plate, 2 Neural Sensors, 1.000 Salvage, 1.150 Rubedo, 3 Gallium, 1.000 Nano Spores, 3 Control Module, 2 Orokin Cell, 1.000 Ferrite, 500 Circuits — e **3 dias e 12 horas** de forja somados.
 
-
 ## 🛠️ Build — Ash Prime
 
+**Melhor build recomendada para Ash Prime** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Ash Prime.
 
 ### Build geral — Blade Storm na estrela do mapa
 
@@ -192,9 +186,7 @@ Mesma lógica do **[[warframes/regular/ash.md|Ash]]** base: no **[[mecanicas/ste
 
 **Prioridade de Forma:** com o set Umbral, conte **3 a 4 Forma** mais um **Orokin Reactor** — uma a menos que o Ash base, por causa da polaridade Naramon inata.
 
-
 ## 🧬 Helminth — Ash Prime
-
 
 | Item | Valor |
 |---|---|
@@ -208,9 +200,7 @@ Mesma lógica do **[[warframes/regular/ash.md|Ash]]** base: no **[[mecanicas/ste
 >
 > Regra geral: **subsuma a versão base, guarde a Prime.**
 
-
 ## 🔗 Sinergias e Uso — Ash Prime
-
 
 **Funciona bem em:**
 
@@ -234,9 +224,7 @@ Mesma lógica do **[[warframes/regular/ash.md|Ash]]** base: no **[[mecanicas/ste
 
 **Armas que combinam:** o Ash quer **Slash** alto, porque a passiva dele multiplica Bleed. **[[armas/brancas/glaive_prime.md|Glaive Prime]]**, **[[armas/brancas/kronen_prime.md|Kronen Prime]]** e qualquer rifle com **[[mods/especiais/hunter_munitions.md|Hunter Munitions]]** aproveitam direto. Armas de puro **Impact** ou de dano elemental sem Slash **não** usam a passiva dele.
 
-
 ## 📖 História — Ash Prime
-
 
 > *"Distraction and subterfuge become lethal weapons with Ash Prime. Featuring altered mod polarities for greater customization."* — Códice
 
@@ -245,7 +233,6 @@ O Ash Prime é a versão **de fabricação Orokin original** do **[[warframes/re
 A própria descrição do Códice é honesta sobre o que ele entrega: **"altered mod polarities for greater customization"**. O Ash Prime não é um Warframe diferente — é o mesmo assassino com mais folga de build. Isso vale para quase todo Prime do jogo, mas é especialmente literal aqui, já que vida, energia e habilidades são idênticas às do base.
 
 Ele foi lançado no **Update 16.11** e vaulted pouco mais de dois anos depois, em **maio de 2017** — o que faz dele um dos Primes mais antigos e menos acessíveis do jogo.
-
 
 ## ⭐ Avaliação Popular — Ash Prime
 
@@ -261,7 +248,6 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 **Leitura:** Ash Prime é uso médio (top 40%) entre os Warframes, e o público que mais usa são os jogadores **veteranos (MR 21–30)**. A DE avisa que uso **não é tier list**: mede preferência e conveniência, não poder.
 
 ## 💡 Curiosidades — Ash Prime
-
 
 - **Vida e Energia do Ash Prime são idênticas às do Ash base** (455 e 100). O Prime ganha apenas escudo, armadura, sprint e uma polaridade. É um dos Primes com menor ganho de stat do jogo.
 - **Ash Prime, [[companheiros/sentinel/carrier_prime.md|Carrier Prime]] e [[armas/primarias/vectis_prime.md|Vectis Prime]] compartilham as mesmas relíquias.** Quando um deles volta no Prime Resurgence, os três voltam juntos — farmar um é farmar os três.

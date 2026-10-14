@@ -88,6 +88,8 @@ Blueprint principal ao concluir a quest **Jade Shadows: Constellations**. Compon
 
 ## 🛠️ Build — Sirius & Orion
 
+**Melhor build recomendada para Sirius & Orion** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Sirius & Orion.
+
 Build de referência para **Sirius & Orion** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Duração; alternar entre os dois para eficiência.

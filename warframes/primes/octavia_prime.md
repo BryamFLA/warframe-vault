@@ -97,6 +97,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Octavia Prime
 
+**Melhor build recomendada para Octavia Prime** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Octavia Prime.
+
 Build de referência para **Octavia Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Duração e Alcance; Força para Amp.

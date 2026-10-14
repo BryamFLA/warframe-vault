@@ -1,6 +1,6 @@
 ---
 title: Once Awake
-aliases: [Once Awake]
+aliases: [Once Awake, jornada Once Awake, quest Once Awake, missão Once Awake]
 tipo: missao
 subtipo: jornada
 resumo: "Once Awake — A quest que apresenta os Infested: Dr."

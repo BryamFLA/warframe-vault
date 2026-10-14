@@ -1,6 +1,6 @@
 ---
 title: The Old Peace
-aliases: ["The Old Peace", "quest The Old Peace", "A Velha Paz", "quest do Uriel", "quest Tau", "Adis", "Tauron Academy"]
+aliases: ["The Old Peace", "quest The Old Peace", "A Velha Paz", "quest do Uriel", "quest Tau", "Adis", "Tauron Academy", jornada The Old Peace, missão The Old Peace]
 tipo: missao
 subtipo: jornada
 resumo: "The Old Peace — quest principal (Update 41.0, 10/12/2025) após The Lotus Eaters: o Operator revive memórias da Antiga Guerra no Sistema Tau, a amizade com o Sentient Adis e a traição de Ballas; dá o blueprint do Uriel e libera Dark Refractory e The Descendia."

@@ -1,6 +1,6 @@
 ---
 title: Hidden Messages
-aliases: [Hidden Messages]
+aliases: [Hidden Messages, jornada Hidden Messages, quest Hidden Messages, missão Hidden Messages]
 tipo: missao
 subtipo: jornada
 resumo: "Hidden Messages — A quest de enigmas da Mirage: três partes, três atos, três enigmas — Ordis recita poemas cifrados e o Tenno precisa decifrar onde a Warframe foi escondida."

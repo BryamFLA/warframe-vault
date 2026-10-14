@@ -22,9 +22,7 @@ elemento_progenitor: Electricity
 > [!info] Resumo em uma linha
 > Combatente melee com espada exaltada, cegueira e Slash Dash invulnerável; acessível no início e dependente de uma espada bem modificada no conteúdo avançado.
 
-
 ## 📊 Stats Base — Excalibur
-
 
 Valores sem mods. Os bônus das habilidades abaixo usam o rank máximo da habilidade, salvo indicação contrária.
 
@@ -45,9 +43,7 @@ Valores sem mods. Os bônus das habilidades abaixo usam o rank máximo da habili
 
 **Versão Prime:** [[warframes/primes/excalibur_prime.md|Excalibur Prime]] — Excalibur Prime existe, mas é exclusivo de Founders, sem farm por relíquias. Tem 315 de armadura e 225 de energia no rank 30, contra 240 e 150 do regular; vida e escudo permanecem 370. Excalibur Umbra é outra variante, distinta do Prime.
 
-
 ## 🔮 Habilidades — Excalibur
-
 
 Custos-base de energia, antes de Eficiência. A passiva não consome energia; Eficiência reduz os custos de ativação de todas as habilidades.
 
@@ -78,7 +74,6 @@ Custos-base de energia, antes de Eficiência. A passiva não consome energia; Ef
 
 Os sindicatos principais vendem seus augments no rank máximo de reputação por 25.000 de Standing cada. Augments de Conclave seguem oferta própria; não presumir o mesmo vendedor/preço. Nomes sem wikilink não possuem alvo próprio confirmado no índice do vault.
 
-
 ## 🌍 Onde Conseguir — Excalibur
 
 Como conseguir o Warframe Excalibur — todas as formas:
@@ -97,7 +92,6 @@ Como conseguir o Warframe Excalibur — todas as formas:
 Depois de juntar as 3 peças e o blueprint, forje na Foundry (custos e recursos na seção abaixo). Antes do Hotfix 22.8.3 (jan/2018) as peças caíam do Ambulas, em Plutão.
 
 ## 🏗️ Como Construir — Excalibur
-
 
 **Fonte principal do blueprint:** Escolha inicial em Awakening ou blueprint principal no Mercado por 35.000 créditos. Os três blueprints de componentes vêm de Lieutenant Lech Kril, em War, Marte.
 
@@ -131,9 +125,9 @@ As peças são fabricadas separadamente e depois consumidas pela montagem final.
 - O Circuito (Duviri): Disponível na rotação de recompensas do Circuito normal: selecionar Excalibur e avançar a trilha entrega neurovisor, chassi, sistemas e blueprint principal. Não confundir com a seleção aleatória de equipamentos emprestados.
 - Relíquias (só para Prime): não fornecem peças do Excalibur regular. A versão Prime possui aquisição separada.
 
-
 ## 🛠️ Build — Excalibur
 
+**Melhor build recomendada para Excalibur** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Excalibur.
 
 Sugestões editoriais baseadas nas mecânicas verificadas; não são builds medidas em jogo. A geral usa mods de sobrevivência e Equilibrium em ranks intermediários para conter o custo. As contas de Forma pressupõem Warframe rank 30 com Reator Orokin, aura no rank indicado e os mods exatamente nos ranks das tabelas.
 
@@ -177,7 +171,6 @@ Cegue o grupo, acerte vários inimigos com Radial Javelin para ativar Furious Ja
 
 **Prioridade de Forma:** Geral: 0 Forma, com Reator, Steel Charge e Mobilize; encaixe Steel Fiber no Vazarin e Intensify no Madurai. Avançada: 2 Forma adicionais em slots neutros, primeiro Madurai para Primed Continuity e depois Naramon para Flow; use o Madurai original para Transient Fortitude e Vazarin para Rolling Guard. Cálculo de capacidade: 69 disponíveis, 69 usados com Mobilize nessa distribuição. A espada tem polarização própria, tratada abaixo.
 
-
 **Exalted Blade: equipamento separado (sugestão para acompanhar as duas builds).** Os oito slots abaixo são da espada, não do Warframe. Comece com os mods disponíveis e aumente seus ranks conforme capacidade/Endo; a configuração completa já usa todos os slots.
 
 | Mod | Efeito no rank indicado |
@@ -195,9 +188,7 @@ Mantenha Toxin e Cold antes de Heat na ordem de combinação para formar Viral +
 
 **Forma da espada:** ⚠️ NAO VERIFICADO: quantidade exata, pois não foi auditada a polarização inicial da Exalted Blade e sua capacidade nesta sessão. Priorize compatibilidade nos slots de Molten Impact e dos mods Madurai mais caros. A contagem de Forma do Warframe não inclui a espada.
 
-
 ## 🧬 Helminth — Excalibur
-
 
 | Item | Valor |
 |---|---|
@@ -207,9 +198,7 @@ Mantenha Toxin e Cold antes de Heat na ordem de combinação para formar Viral +
 
 [[mecanicas/helminth.md|Helminth]] permite substituir uma habilidade da configuração. A subsunção sacrifica o Warframe regular; não sacrifica a variante Prime. As recomendações acima são alternativas às builds com kit original, e não trocas já realizadas no inventário do jogador.
 
-
 ## 🔗 Sinergias e Uso — Excalibur
-
 
 **Funciona bem em:** [[missoes/tipos/exterminate.md|Exterminate]] e [[missoes/tipos/survival.md|Survival]]: a espada atravessa grupos com ondas e Radial Blind cria oportunidades de ataque. No Steel Path, o controle e os mods da espada precisam acompanhar o dano inimigo.
 
@@ -219,12 +208,9 @@ Mantenha Toxin e Cold antes de Heat na ordem de combinação para formar Viral +
 
 **Armas que combinam:** Skana ou Nikana Prime aproveitam Swordsmanship; a passiva melhora dano e velocidade dessas categorias. A principal arma da configuração proposta é a própria Exalted Blade, cujo equipamento de mods é independente da melee comum.
 
-
 ## 📖 História — Excalibur
 
-
 O Códice do regular apresenta um espadachim. O arquivo Orokin do Prime narra a adoção dos Tenno contra os Sentients, que voltavam a tecnologia Orokin contra seus criadores; encerra identificando Excalibur como o primeiro.
-
 
 ## ⭐ Avaliação Popular — Excalibur
 
@@ -241,12 +227,9 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 💡 Curiosidades — Excalibur
 
-
 - O nome remete à espada de Rei Arthur. A aparência Proto-Armor faz referência ao traje de Hayden Tenno em Dark Sector.
 
-
 ## 🎨 Fashion Frame — Excalibur
-
 
 | Item | Opções |
 |---|---|

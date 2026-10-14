@@ -97,6 +97,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Nova Prime
 
+**Melhor build recomendada para Nova Prime** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Nova Prime.
+
 Build de referência para **Nova Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Alcance e baixa Força (velocidade) ou alta Força (lentidão) para Molecular Prime.

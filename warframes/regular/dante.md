@@ -100,6 +100,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Dante
 
+**Melhor build recomendada para Dante** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Dante.
+
 Build de referência para **Dante** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Alcance para os Verses; Duração moderada.

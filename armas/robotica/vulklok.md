@@ -54,18 +54,20 @@ Arma robótica que vem **automaticamente** com o Sentinel **Diriga**. Ocupa 1 sl
 
 ## 🛠️ Build — Vulklok
 
+**Melhor build recomendada para Vulklok** (arma): mods, polaridades, arcanes e dicas de uso para montar o Vulklok.
+
 Build de referência gerada pelas estatísticas da arma (perfil **híbrida**: crítico 35% ×2,5, status 25%). Ajuste ao seu conteúdo e aos mods que você tem.
 
 | # | Mod |
 |---|---|
 | 1 | [[mods/armas/serration.md\|Serration]] |
-| 2 | Galvanized Chamber (ou a versão comum) |
+| 2 | [[mods/armas/galvanized_chamber.md\|Galvanized Chamber (ou a versão comum)]] |
 | 3 | [[mods/armas/point_strike.md\|Point Strike]] |
 | 4 | [[mods/armas/vital_sense.md\|Vital Sense]] |
-| 5 | Malignant Force |
+| 5 | [[mods/armas/malignant_force.md\|Malignant Force]] |
 | 6 | [[mods/armas/cryo_rounds.md\|Cryo Rounds]] |
-| 7 | Hammer Shot |
-| 8 | Primed Shred |
+| 7 | [[mods/armas/hammer_shot.md\|Hammer Shot]] |
+| 8 | [[mods/armas/primed_shred.md\|Primed Shred]] |
 | Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
 
 **Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).

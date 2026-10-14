@@ -1,6 +1,6 @@
 ---
 title: "Jade Shadows: Constellations"
-aliases: ["Jade Shadows: Constellations", "Constellations", "quest Constellations", "quest Sirius e Orion", "Sirius & Orion quest"]
+aliases: ["Jade Shadows: Constellations", "Constellations", "quest Constellations", "quest Sirius e Orion", "Sirius & Orion quest", "jornada Jade Shadows: Constellations", "quest Jade Shadows: Constellations", "missão Jade Shadows: Constellations"]
 tipo: missao
 subtipo: jornada
 resumo: "Jade Shadows: Constellations — quest principal solo (Update 43.0, 17/06/2026): o Stalker enfrenta os filhos Sirius & Orion vindos do futuro no Orb Vallis e, com Hunhow e Excalibur Umbra, encerra a guerra entre eles; dá o blueprint de Sirius & Orion."
@@ -35,6 +35,15 @@ O [[lore/chefes/stalker.md|Stalker]] deu ao filho de Jade o nome **Sirius** ou *
 ## 🎁 Recompensas — Jade Shadows: Constellations
 
 - **Blueprint principal de [[warframes/regular/sirius_e_orion.md|Sirius & Orion]]** (as demais peças: ver a nota da Warframe).
+
+## 💡 Dicas para Terminar — Jade Shadows: Constellations
+
+- Reserve **30–40 minutos** (solo; confirme digitando FATHER) e conclua antes [[missoes/jornadas/principais/jade_shadows.md|Jade Shadows]].
+- O Stalker tem **revives infinitos** e passiva de **300% de chance crítica** contra inimigos que não o veem: ataque pelas costas/invisível.
+- No chefe duplo **Emerald X Crimson**, quando uma barra de vida zera o inimigo fica invulnerável: aperte o botão de interação e depois o de **melee** no QTE. Alterne o alvo até zerar os dois.
+- Os chefes avançam com foices e recuam para lançar lâminas: esquive no avanço e contra-ataque na pausa.
+- Na etapa com o Excalibur Umbra (Interception de uma rodada em Vênus), segure os pontos mais próximos primeiro.
+- Ao terminar, construa [[warframes/regular/sirius_e_orion.md|Sirius & Orion]] com o blueprint ganho.
 
 ## 🔗 Relacionados — Jade Shadows: Constellations
 

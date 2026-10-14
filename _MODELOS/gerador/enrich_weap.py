@@ -69,7 +69,7 @@ for dp,dn,fn in os.walk(os.path.join(V,'armas')):
             k,ar,cc,cm,sc,mods,arc,exi=bt
             cmtxt=(str(cm)[:-2] if str(cm).endswith('.0') else str(cm)).replace('.',',')
             mods=[m for m in mods if '?' not in m]
-            L=[f"## 🛠️ Build — {title}",'',f"Build de referência gerada pelas estatísticas da arma (perfil **{ar}**: crítico {round(cc*100)}% ×{cmtxt}, status {round(sc*100)}%). Ajuste ao seu conteúdo e aos mods que você tem.",'','| # | Mod |','|---|---|']
+            L=[f"## 🛠️ Build — {title}",'',f"**Melhor build recomendada para {title}** (arma): mods, polaridades, arcanes e dicas de uso para montar o {title}.",'',f"Build de referência gerada pelas estatísticas da arma (perfil **{ar}**: crítico {round(cc*100)}% ×{cmtxt}, status {round(sc*100)}%). Ajuste ao seu conteúdo e aos mods que você tem.",'','| # | Mod |','|---|---|']
             for i,m in enumerate(mods[:8],1): L.append(f"| {i} | {lk(m)} |")
             if exi and exi!='—': L.append(f"| Exilus | {lk(exi)} |")
             L.append('')

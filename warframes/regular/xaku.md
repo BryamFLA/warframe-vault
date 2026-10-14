@@ -105,6 +105,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Xaku
 
+**Melhor build recomendada para Xaku** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Xaku.
+
 Build de referência para **Xaku** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Alcance para The Lost (Deny) e Xata's Whisper.

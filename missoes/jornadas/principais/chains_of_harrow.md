@@ -1,6 +1,6 @@
 ---
 title: Chains of Harrow
-aliases: [Chains of Harrow]
+aliases: [Chains of Harrow, jornada Chains of Harrow, quest Chains of Harrow, missão Chains of Harrow]
 tipo: missao
 subtipo: jornada
 resumo: "Chains of Harrow — A quest de terror do jogo: uma transmissão de uma nave abandonada do Steel Meridian leva ao Tenno Rell, expulso pelos seus, que mantinha algo à distância — e que aparece pela primeira vez aqui."

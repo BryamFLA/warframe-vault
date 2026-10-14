@@ -1,6 +1,6 @@
 ---
 title: Mask of the Revenant
-aliases: [Mask of the Revenant]
+aliases: [Mask of the Revenant, jornada Mask of the Revenant, quest Mask of the Revenant, missão Mask of the Revenant]
 tipo: missao
 subtipo: jornada
 resumo: "Mask of the Revenant — A vendedora Nakak vende ao Tenno uma máscara estranha dada por Onkko: ela conta a história de um Warframe deixado para trás para impedir o retorno de um Eidolon Sentient."

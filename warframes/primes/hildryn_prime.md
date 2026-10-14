@@ -99,6 +99,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Hildryn Prime
 
+**Melhor build recomendada para Hildryn Prime** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Hildryn Prime.
+
 Build de referência para **Hildryn Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Escudo máximo e Força para Pillage/Haven.

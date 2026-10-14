@@ -1,6 +1,6 @@
 ---
 title: Vox Solaris (Quest)
-aliases: ["Vox Solaris", "quest Vox Solaris", "Vox Solaris quest", "quest de Fortuna", "quest da Eudico", "como liberar Fortuna"]
+aliases: ["Vox Solaris", "quest Vox Solaris", "Vox Solaris quest", "quest de Fortuna", "quest da Eudico", "como liberar Fortuna", jornada Vox Solaris (Quest), quest Vox Solaris (Quest), missão Vox Solaris (Quest)]
 tipo: missao
 subtipo: jornada
 resumo: "Vox Solaris — quest principal de Fortuna (Update 24.0, 08/11/2018): ajude Eudico a reacender a rebelião Solaris United contra Nef Anyo; dá o blueprint da Garuda, o K-Drive Launcher e libera as bounties de Fortuna."

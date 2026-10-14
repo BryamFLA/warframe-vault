@@ -1,6 +1,6 @@
 ---
 title: Erra
-aliases: [Erra]
+aliases: [Erra, jornada Erra, quest Erra, missão Erra]
 tipo: missao
 subtipo: jornada
 resumo: "Erra — O segundo ato do Prelude to War: a bordo de um Murex no Veil Proxima, o Operator assiste a uma reunião entre Ballas, Natah, o irmão dela Erra e o exército Sentient."

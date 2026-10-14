@@ -53,17 +53,19 @@ Mk1-Bo é vendida pronta no **Mercado** por **15,000 créditos**.
 
 ## 🛠️ Build — Mk1-Bo
 
+**Melhor build recomendada para Mk1-Bo** (arma): mods, polaridades, arcanes e dicas de uso para montar o Mk1-Bo.
+
 Build de referência gerada pelas estatísticas da arma (perfil **dano bruto (baseline)**: crítico 10% ×2, status 10%). Ajuste ao seu conteúdo e aos mods que você tem.
 
 | # | Mod |
 |---|---|
 | 1 | [[mods/armas/primed_pressure_point.md\|Primed Pressure Point]] |
-| 2 | Primed Reach |
+| 2 | [[mods/armas/primed_reach.md\|Primed Reach]] |
 | 3 | [[mods/armas/condition_overload.md\|Condition Overload]] |
 | 4 | [[mods/armas/weeping_wounds.md\|Weeping Wounds]] |
-| 5 | Primed Fury |
+| 5 | [[mods/armas/primed_fury.md\|Primed Fury]] |
 | 6 | [[mods/armas/berserker_fury.md\|Berserker Fury]] |
-| 7 | Virulent Scourge |
+| 7 | [[mods/armas/virulent_scourge.md\|Virulent Scourge]] |
 | 8 | [[mods/armas/primed_fever_strike.md\|Primed Fever Strike]] |
 
 **Elementos:** Viral + Calor (geral) ou Corrosivo (armadura). Builds de status usam Condition Overload; builds de crítico usam Blood Rush + combo alto.

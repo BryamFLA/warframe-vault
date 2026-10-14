@@ -1,6 +1,6 @@
 ---
 title: Angels of the Zariman
-aliases: [Angels of the Zariman]
+aliases: [Angels of the Zariman, jornada Angels of the Zariman, quest Angels of the Zariman, missão Angels of the Zariman]
 tipo: missao
 subtipo: jornada
 resumo: "Angels of the Zariman — A volta à nave onde os Tenno nasceram: o Zariman Ten Zero emergiu do Void, e Grineer, Corpus e algo que canta nas paredes estão todos lá dentro."

@@ -97,6 +97,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Cyte-09
 
+**Melhor build recomendada para Cyte-09** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Cyte-09.
+
 Build de referência para **Cyte-09** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Duração; foco em armas de ponto fraco.

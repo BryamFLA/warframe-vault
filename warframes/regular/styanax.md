@@ -93,6 +93,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Styanax
 
+**Melhor build recomendada para Styanax** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Styanax.
+
 Build de referência para **Styanax** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Alcance para Final Stand; Rally Point.

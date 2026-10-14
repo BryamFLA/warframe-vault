@@ -11,7 +11,7 @@ atualizado: 2026-10-13
 agente: opus
 total-brancas: 135
 indices-relacionados: [_Armas _Indice, _Mods Armas _Indice, _Mods _Indice]
-total-notas: 225
+total-notas: 226
 ---
 
 # Armas Brancas — Índice
@@ -255,7 +255,7 @@ Zaws são brancas modulares montadas em **Cetus** (Planície de Eidolon) pelo NP
 | [[armas/brancas/war.md\|War]] | Espada Pesada | Drop (Stalker) |
 | [[armas/brancas/xoris.md\|Xoris]] | Glaive | Quest (The Deadlock Protocol) |
 
-## 📋 Lista — Armas Brancas — Índice — geral (225)
+## 📋 Lista — Armas Brancas — Índice — geral (226)
 
 | Nome | Tipo | MR | Resumo |
 |---|---|---|---|
@@ -483,6 +483,7 @@ Zaws são brancas modulares montadas em **Cetus** (Planície de Eidolon) pelo NP
 | [[armas/brancas/wolf_sledge.md\|Wolf Sledge]] | melee | 7 | Wolf Sledge — arma melee (Hammer), MR 7. Como conseguir: Blueprint e peças: drop aleatório do Wolf of Saturn Six (evento/Nightwave). Forja: … |
 | [[armas/brancas/wrath.md\|Wrath]] | melee | 14 | Wrath — arma melee (Heavy Scythe), MR 14. Como conseguir: Blueprints na missão Scoria's Angel (Uranus Proxima). Forja: 20.000 créditos. |
 | [[armas/brancas/xoris.md\|Xoris]] | melee | 4 | Xoris — arma melee (Glaive), MR 4. Como conseguir: Blueprint e peças (core, handle, blade) obtidos na quest The Deadlock Protocol. Forja: 5.… |
+| [[armas/brancas/zaw.md\|Zaw]] | melee | — | Zaw — armas melee modulares montadas no Hok's Anvil em Cetus: Strike (cabeça, define dano/tipo), Grip (1 ou 2 mãos, velocidade/dano) e Link … |
 | [[armas/brancas/zenistar.md\|Zenistar]] | melee | 6 | Zenistar — arma melee (Heavy Blade), MR 6. Como conseguir: Exclusiva do Daily Tribute (login diário): aparece como recompensa de marco a cad… |
 
 ## 🔗 Relacionados — Armas Brancas — Índice

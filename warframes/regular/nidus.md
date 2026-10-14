@@ -102,6 +102,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Nidus
 
+**Melhor build recomendada para Nidus** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Nidus.
+
 Build de referência para **Nidus** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Alcance; acumular Mutation.

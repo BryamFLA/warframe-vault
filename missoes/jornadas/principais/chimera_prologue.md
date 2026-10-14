@@ -1,6 +1,6 @@
 ---
 title: Chimera Prologue
-aliases: [Chimera Prologue]
+aliases: [Chimera Prologue, jornada Chimera Prologue, quest Chimera Prologue, missão Chimera Prologue]
 tipo: missao
 subtipo: jornada
 resumo: "Chimera Prologue — A quest curta em que Ballas reaparece virado Sentient: o primeiro ato do Prelude to War, e o momento em que ele entrega ao Tenno a ideia da Paracesis — a \"Sentient slayer\"."

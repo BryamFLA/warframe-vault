@@ -1,6 +1,6 @@
 ---
 title: Octavia's Anthem
-aliases: [Octavia's Anthem, octavias anthem]
+aliases: [Octavia's Anthem, octavias anthem, jornada Octavia's Anthem, quest Octavia's Anthem, missão Octavia's Anthem]
 tipo: missao
 subtipo: jornada
 resumo: "Octavia's Anthem — A quest da Warframe musical: Cephalon Suda pede ao Tenno que construa um Mandachord e então começa a apresentar glitches estranhos — com implicações perigosas para ela."

@@ -99,6 +99,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Protea
 
+**Melhor build recomendada para Protea** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Protea.
+
 Build de referência para **Protea** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Duração; Dispensary e Temporal Anchor.

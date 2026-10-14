@@ -1,6 +1,6 @@
 ---
 title: Prelude to War
-aliases: [Prelude to War]
+aliases: [Prelude to War, jornada Prelude to War, quest Prelude to War, missão Prelude to War]
 tipo: missao
 subtipo: jornada
 resumo: "Prelude to War — Não é uma quest única: é o arco narrativo que prepara a Nova Guerra, feito de mini-quests e cutscenes — Chimera Prologue, Erra e The Maker — intercalados com dois eventos."

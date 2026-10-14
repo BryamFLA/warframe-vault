@@ -1,6 +1,6 @@
 ---
 title: The Teacher
-aliases: ["The Teacher", "quest The Teacher", "O Professor", "quest do Teshin", "tutorial de mods"]
+aliases: ["The Teacher", "quest The Teacher", "O Professor", "quest do Teshin", "tutorial de mods", jornada The Teacher, missão The Teacher]
 tipo: missao
 subtipo: jornada
 resumo: "The Teacher — terceira quest principal (Update 40.0, 15/10/2025), logo após Vor's Prize: Teshin captura o Tenno, ensina o sistema de Mods e libera o acesso a Cetus."

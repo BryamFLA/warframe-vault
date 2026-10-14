@@ -93,6 +93,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Kullervo
 
+**Melhor build recomendada para Kullervo** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Kullervo.
+
 Build de referência para **Kullervo** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Duração; build melee de Heavy Attack.

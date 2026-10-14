@@ -93,6 +93,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Banshee
 
+**Melhor build recomendada para Banshee** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Banshee.
+
 Build de referência para **Banshee** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força (Sonar) e Alcance; build de suporte para squad.

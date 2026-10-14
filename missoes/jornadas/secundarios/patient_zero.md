@@ -1,6 +1,6 @@
 ---
 title: Patient Zero
-aliases: [Patient Zero]
+aliases: [Patient Zero, jornada Patient Zero, quest Patient Zero, missão Patient Zero]
 tipo: missao
 subtipo: jornada
 resumo: "Patient Zero — A quest que apresenta Mutalist Alad V: sabotando naves Infested para triangular a posição dele, o Tenno destrói o laboratório — e ele revela uma Mesa controlada pela Infestação."

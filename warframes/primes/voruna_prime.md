@@ -82,6 +82,8 @@ Como conseguir a Warframe Voruna Prime:
 
 ## 🛠️ Build — Voruna Prime
 
+**Melhor build recomendada para Voruna Prime** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Voruna Prime.
+
 Build de referência para **Voruna Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Duração; build melee/crítico.

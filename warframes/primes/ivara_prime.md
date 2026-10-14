@@ -97,6 +97,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Ivara Prime
 
+**Melhor build recomendada para Ivara Prime** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Ivara Prime.
+
 Build de referência para **Ivara Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Duração e Eficiência para Prowl (furtividade e roubo).

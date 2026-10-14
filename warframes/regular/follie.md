@@ -87,6 +87,8 @@ Blueprints na **rotação A** do **Follie's Hunt** em **Vesper Relay, Vênus** (
 
 ## 🛠️ Build — Follie
 
+**Melhor build recomendada para Follie** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Follie.
+
 Build de referência para **Follie** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Duração e Alcance para Inkblot e Self Portrait.

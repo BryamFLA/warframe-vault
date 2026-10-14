@@ -100,6 +100,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Wisp
 
+**Melhor build recomendada para Wisp** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Wisp.
+
 Build de referência para **Wisp** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Duração e Força para os Reservoirs (Haste e Vitality).

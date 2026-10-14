@@ -70,18 +70,20 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Kuva Zarr
 
+**Melhor build recomendada para Kuva Zarr** (arma): mods, polaridades, arcanes e dicas de uso para montar o Kuva Zarr.
+
 Build de referência gerada pelas estatísticas da arma (perfil **híbrida**: crítico 25% ×2,5, status 31%). Ajuste ao seu conteúdo e aos mods que você tem.
 
 | # | Mod |
 |---|---|
 | 1 | [[mods/armas/serration.md\|Serration]] |
-| 2 | Galvanized Chamber (ou a versão comum) |
+| 2 | [[mods/armas/galvanized_chamber.md\|Galvanized Chamber (ou a versão comum)]] |
 | 3 | [[mods/armas/point_strike.md\|Point Strike]] |
 | 4 | [[mods/armas/vital_sense.md\|Vital Sense]] |
-| 5 | Malignant Force |
+| 5 | [[mods/armas/malignant_force.md\|Malignant Force]] |
 | 6 | [[mods/armas/cryo_rounds.md\|Cryo Rounds]] |
-| 7 | Firestorm |
-| 8 | Hammer Shot |
+| 7 | [[mods/armas/firestorm.md\|Firestorm]] |
+| 8 | [[mods/armas/hammer_shot.md\|Hammer Shot]] |
 | Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
 
 **Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).

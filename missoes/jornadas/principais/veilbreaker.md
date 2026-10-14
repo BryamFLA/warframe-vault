@@ -1,6 +1,6 @@
 ---
 title: Veilbreaker
-aliases: [Veilbreaker]
+aliases: [Veilbreaker, jornada Veilbreaker, quest Veilbreaker, missão Veilbreaker]
 tipo: missao
 subtipo: jornada
 resumo: "Veilbreaker — A quest de Kahl-175: um Lancer Grineer arranca a própria Narmer Veil num Murex sobre Deimos e começa uma campanha para libertar os irmãos — jogada inteiramente como ele."

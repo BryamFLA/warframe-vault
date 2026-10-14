@@ -1,6 +1,6 @@
 ---
 title: The Silver Grove
-aliases: [The Silver Grove]
+aliases: [The Silver Grove, jornada The Silver Grove, quest The Silver Grove, missão The Silver Grove]
 tipo: missao
 subtipo: jornada
 resumo: "The Silver Grove — A quest da Titania: trabalhando com a New Loka, o Tenno protege o lugar mais puro da Terra de ser profanado pelos Grineer — e descobre quem era Silvana."

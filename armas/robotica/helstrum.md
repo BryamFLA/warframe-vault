@@ -56,17 +56,19 @@ Arma robótica: blueprint comprado do **Legs** (Fortuna) por **10,000 de Standin
 
 ## 🛠️ Build — Helstrum
 
+**Melhor build recomendada para Helstrum** (arma): mods, polaridades, arcanes e dicas de uso para montar o Helstrum.
+
 Build de referência gerada pelas estatísticas da arma (perfil **status**: crítico 5% ×1,5, status 30%). Ajuste ao seu conteúdo e aos mods que você tem.
 
 | # | Mod |
 |---|---|
 | 1 | [[mods/armas/serration.md\|Serration]] |
-| 2 | Galvanized Chamber (ou a versão comum) |
-| 3 | Galvanized Aptitude |
-| 4 | Hammer Shot |
-| 5 | Malignant Force |
+| 2 | [[mods/armas/galvanized_chamber.md\|Galvanized Chamber (ou a versão comum)]] |
+| 3 | [[mods/armas/galvanized_aptitude.md\|Galvanized Aptitude]] |
+| 4 | [[mods/armas/hammer_shot.md\|Hammer Shot]] |
+| 5 | [[mods/armas/malignant_force.md\|Malignant Force]] |
 | 6 | [[mods/armas/high_voltage.md\|High Voltage]] |
-| 7 | Primed Shred |
+| 7 | [[mods/armas/primed_shred.md\|Primed Shred]] |
 | Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
 
 **Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).

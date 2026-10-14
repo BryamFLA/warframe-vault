@@ -82,6 +82,8 @@ Como conseguir a Warframe Citrine Prime:
 
 ## 🛠️ Build — Citrine Prime
 
+**Melhor build recomendada para Citrine Prime** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Citrine Prime.
+
 Build de referência para **Citrine Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Duração e Força para Prismatic Gem e Preserving Shell.

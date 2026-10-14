@@ -1,6 +1,6 @@
 ---
 title: Saya's Vigil
-aliases: ["Saya's Vigil", "Sayas Vigil", "quest da Saya", "quest da Gara", "como conseguir Gara", "Shatter-Lock"]
+aliases: ["Saya's Vigil", "Sayas Vigil", "quest da Saya", "quest da Gara", "como conseguir Gara", "Shatter-Lock", jornada Saya's Vigil, quest Saya's Vigil, missão Saya's Vigil]
 tipo: missao
 subtipo: jornada
 resumo: "Saya's Vigil — quest secundária solo de Cetus (Update 22.0, 12/10/2017): ajude Saya a descobrir o destino do marido Onkko montando a Shatter-Lock; exige Vor's Prize e 1 bounty, dá o blueprint da Gara."

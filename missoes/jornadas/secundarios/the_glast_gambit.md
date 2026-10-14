@@ -1,6 +1,6 @@
 ---
 title: The Glast Gambit
-aliases: [The Glast Gambit]
+aliases: [The Glast Gambit, jornada The Glast Gambit, quest The Glast Gambit, missão The Glast Gambit]
 tipo: missao
 subtipo: jornada
 resumo: "The Glast Gambit — A quest do Nidus: Ergo Glast conta a história da Mycona Colony, que prospera colhendo matéria Infested — e Nef Anyo quer tomar o lugar."

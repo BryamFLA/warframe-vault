@@ -22,9 +22,7 @@ elemento_progenitor: Heat
 > [!info] Resumo em uma linha
 > Combatente móvel com proteção de Warding Halo, vulnerabilidade e orbes por Blazing Chakram; Divine Retribution espalha status entre alvos empalados.
 
-
 ## 📊 Stats Base — Nezha
-
 
 Valores sem mods. Os bônus das habilidades abaixo usam o rank máximo da habilidade, salvo indicação contrária.
 
@@ -45,9 +43,7 @@ Valores sem mods. Os bônus das habilidades abaixo usam o rank máximo da habili
 
 **Versão Prime:** [[warframes/primes/nezha_prime.md|Nezha Prime]] — Nezha Prime aumenta armadura de 200 para 265 e sprint de 1,15 para 1,20. Vida, escudo e energia no rank 30 continuam 465, 185 e 225; mantém as habilidades e acrescenta uma polaridade.
 
-
 ## 🔮 Habilidades — Nezha
-
 
 Custos-base de energia, antes de Eficiência. A passiva não consome energia; Eficiência reduz os custos de ativação de todas as habilidades.
 
@@ -78,7 +74,6 @@ Custos-base de energia, antes de Eficiência. A passiva não consome energia; Ef
 
 Os sindicatos principais vendem seus augments no rank máximo de reputação por 25.000 de Standing cada. Augments de Conclave seguem oferta própria; não presumir o mesmo vendedor/preço. Nomes sem wikilink não possuem alvo próprio confirmado no índice do vault.
 
-
 ## 🌍 Onde Conseguir — Nezha
 
 Como conseguir o Warframe Nezha:
@@ -86,7 +81,6 @@ Como conseguir o Warframe Nezha:
 Os blueprints da Nezha são **pesquisados no Tenno Lab do Dojo do clã**. (Até o Update 19.0, em 2016, o principal era vendido no Mercado e as peças vinham de Sorties.)
 
 ## 🏗️ Como Construir — Nezha
-
 
 **Fonte principal do blueprint:** Blueprint principal e componentes por pesquisa/replicação no Tenno Lab do Dojo. O principal custa 35.000 créditos. Não listar Sorties ou troca entre jogadores como fonte atual das peças regulares: são formas históricas removidas.
 
@@ -120,9 +114,9 @@ As peças são fabricadas separadamente e depois consumidas pela montagem final.
 - O Circuito (Duviri): ⚠️ NAO VERIFICADO: disponibilidade como recompensa de blueprint. A página principal não lista essa rota e a tabela consultada do Circuito não apresentou Nezha entre as recompensas; encontrar Nezha como equipamento emprestado não concede seus blueprints.
 - Relíquias (só para Prime): não fornecem peças do Nezha regular. A versão Prime possui aquisição separada.
 
-
 ## 🛠️ Build — Nezha
 
+**Melhor build recomendada para Nezha** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Nezha.
 
 Sugestões editoriais baseadas nas mecânicas verificadas; não são builds medidas em jogo. A geral usa mods de sobrevivência e Equilibrium em ranks intermediários para conter o custo. As contas de Forma pressupõem Warframe rank 30 com Reator Orokin, aura no rank indicado e os mods exatamente nos ranks das tabelas.
 
@@ -166,10 +160,7 @@ Empale o grupo, aplique Chakram e status com armas a um alvo. Divine Retribution
 
 **Prioridade de Forma:** Geral: 0 Forma com Reator, Energy Siphon e Mobilize; use Steel Fiber no Vazarin e Intensify no Madurai. Avançada: 2 Forma Naramon em slots neutros, primeiro Equilibrium e depois Stretch; use Vitality no Vazarin e Intensify no Madurai originais. Cálculo: 74 de 74 pontos com Mobilize. Essas contas usam Equilibrium/Vitality no rank 10 apenas na avançada.
 
-
-
 ## 🧬 Helminth — Nezha
-
 
 | Item | Valor |
 |---|---|
@@ -179,9 +170,7 @@ Empale o grupo, aplique Chakram e status com armas a um alvo. Divine Retribution
 
 [[mecanicas/helminth.md|Helminth]] permite substituir uma habilidade da configuração. A subsunção sacrifica o Warframe regular; não sacrifica a variante Prime. As recomendações acima são alternativas às builds com kit original, e não trocas já realizadas no inventário do jogador.
 
-
 ## 🔗 Sinergias e Uso — Nezha
-
 
 **Funciona bem em:** [[missoes/tipos/survival.md|Survival]] e [[missoes/tipos/exterminate.md|Exterminate]]: mobilidade, Halo e geração de orbes sustentam combate contínuo. Divine Spears/Divine Retribution funcionam melhor quando é possível empalar vários inimigos e aplicar status ao grupo.
 
@@ -191,12 +180,9 @@ Empale o grupo, aplique Chakram e status com armas a um alvo. Divine Retribution
 
 **Armas que combinam:** Armas capazes de aplicar Slash, Heat ou Toxin fortes combinam com Divine Retribution: o status aplicado a um alvo empalado é distribuído aos demais. Nikana Prime é uma opção melee; a recomendação depende dos mods e dos procs efetivamente aplicados, não só do nome da arma.
 
-
 ## 📖 História — Nezha
 
-
 O Leverian narra Reshantur, onde crianças sob opressão Corpus adotaram Nezha como protetor. Um sobrevivente relata que ele surgiu entre chamas, derrotou soldados e levou as outras crianças consigo; preserve a atribuição ao relato, sem tratar cada detalhe como registro independente.
-
 
 ## ⭐ Avaliação Popular — Nezha
 
@@ -213,12 +199,9 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 💡 Curiosidades — Nezha
 
-
 - O tema vem da divindade chinesa Nezha, o Third Lotus Prince. O Universe Ring nas costas e os anéis dos tornozelos remetem a seus artefatos mitológicos.
 
-
 ## 🎨 Fashion Frame — Nezha
-
 
 | Item | Opções |
 |---|---|

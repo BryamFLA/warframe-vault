@@ -89,17 +89,19 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — EFV-5 Jupiter
 
+**Melhor build recomendada para EFV-5 Jupiter** (arma): mods, polaridades, arcanes e dicas de uso para montar o EFV-5 Jupiter.
+
 Build de referência gerada pelas estatísticas da arma (perfil **status**: crítico 21% ×2,3, status 25%). Ajuste ao seu conteúdo e aos mods que você tem.
 
 | # | Mod |
 |---|---|
 | 1 | [[mods/armas/serration.md\|Serration]] |
-| 2 | Galvanized Chamber (ou a versão comum) |
-| 3 | Galvanized Aptitude |
-| 4 | Hammer Shot |
-| 5 | Malignant Force |
+| 2 | [[mods/armas/galvanized_chamber.md\|Galvanized Chamber (ou a versão comum)]] |
+| 3 | [[mods/armas/galvanized_aptitude.md\|Galvanized Aptitude]] |
+| 4 | [[mods/armas/hammer_shot.md\|Hammer Shot]] |
+| 5 | [[mods/armas/malignant_force.md\|Malignant Force]] |
 | 6 | [[mods/armas/high_voltage.md\|High Voltage]] |
-| 7 | Primed Shred |
+| 7 | [[mods/armas/primed_shred.md\|Primed Shred]] |
 | Exilus | [[mods/armas/vigilante_armaments.md\|Vigilante Armaments]] |
 
 **Elementos:** Viral (Frio + Tóxico) + Calor para conteúdo geral e Steel Path; Corrosivo (Elétrico + Tóxico) contra armadura (Grineer); Magnético ou Tóxico contra escudos (Corpus).

@@ -64,18 +64,20 @@ Onorix é uma arma de **Archwing**: o blueprint vem do Mercado, e as peças são
 
 ## 🛠️ Build — Onorix
 
+**Melhor build recomendada para Onorix** (arma): mods, polaridades, arcanes e dicas de uso para montar o Onorix.
+
 Build de referência gerada pelas estatísticas da arma (perfil **dano bruto (baseline)**: crítico 15% ×1,3, status 5%). Ajuste ao seu conteúdo e aos mods que você tem.
 
 | # | Mod |
 |---|---|
-| 1 | Rubedo-Lined Barrel |
-| 2 | Dual Rounds |
-| 3 | Parallax Scope |
-| 4 | Critical Focus |
-| 5 | Magazine Extension |
-| 6 | Ammo Chain |
-| 7 | Charged Bullets |
-| 8 | Combustion Rounds |
+| 1 | [[mods/especiais/rubedo_lined_barrel.md\|Rubedo-Lined Barrel]] |
+| 2 | [[mods/especiais/dual_rounds.md\|Dual Rounds]] |
+| 3 | [[mods/especiais/parallax_scope.md\|Parallax Scope]] |
+| 4 | [[mods/especiais/critical_focus.md\|Critical Focus]] |
+| 5 | [[mods/especiais/magazine_extension.md\|Magazine Extension]] |
+| 6 | [[mods/especiais/ammo_chain.md\|Ammo Chain]] |
+| 7 | [[mods/especiais/charged_bullets.md\|Charged Bullets]] |
+| 8 | [[mods/especiais/combustion_rounds.md\|Combustion Rounds]] |
 
 
 **Sem mods Primed/Galvanized:** troque Primed Point Blank → Point Blank, Galvanized Chamber → Split Chamber, Primed Shred → Shred, Primed Pressure Point → Pressure Point, Primed Reach → Reach.

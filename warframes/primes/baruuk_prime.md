@@ -97,6 +97,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Baruuk Prime
 
+**Melhor build recomendada para Baruuk Prime** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Baruuk Prime.
+
 Build de referência para **Baruuk Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Duração para Serene Storm (Desert Wind) e redução de dano.

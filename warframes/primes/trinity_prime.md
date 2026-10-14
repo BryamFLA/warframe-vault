@@ -97,6 +97,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Trinity Prime
 
+**Melhor build recomendada para Trinity Prime** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Trinity Prime.
+
 Build de referência para **Trinity Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Duração para Blessing e Energy Vampire.

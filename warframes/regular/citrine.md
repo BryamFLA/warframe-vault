@@ -100,6 +100,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Citrine
 
+**Melhor build recomendada para Citrine** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Citrine.
+
 Build de referência para **Citrine** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Duração e Força para Prismatic Gem e Preserving Shell.

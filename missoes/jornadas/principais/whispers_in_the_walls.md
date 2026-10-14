@@ -1,6 +1,6 @@
 ---
 title: Whispers in the Walls
-aliases: [Whispers in the Walls]
+aliases: [Whispers in the Walls, jornada Whispers in the Walls, quest Whispers in the Walls, missão Whispers in the Walls]
 tipo: missao
 subtipo: jornada
 resumo: "Whispers in the Walls — A descida aos laboratórios subterrâneos de Albrecht Entrati: com a Indifference inquieta depois dos portais de Ballas, Loid acorda a Kalymos Sequence e chama o Tenno."

@@ -55,3 +55,10 @@ agente: opus
 
 - Notas geradas dos módulos da wiki trazem `gerado_de: modulos-da-wiki`; os geradores estão em `_MODELOS/gerador/`.
 - Avaliação de busca: `python3 _MODELOS/rag_eval.py 5` (8 perguntas-alvo) e `--geral` (amostra de entidades).
+
+## 6. Chunking recomendado (validado em `rag_eval.py` e `rag_eval2.py`)
+
+- Cortar por `## `; seções com mais de ~2.500 caracteres são subdivididas por `### `, mantendo o heading `## ` pai no texto do sub-chunk.
+- **Não indexar** as seções `🔗 Relacionados` e `📚 Fontes` (só links; atrapalham o ranking).
+- Prefixar todo chunk com `title` + `aliases`.
+- Perguntas do tipo "liste tudo de X" (ex.: itens de Cetus): recuperar o chunk `📦 Itens de X — Resumo` e depois carregar **todas** as seções `📦 Itens de X` da mesma nota (parent-document retrieval). As listas de hubs são geradas por `_MODELOS/gerador/itens_local.py all --write`.

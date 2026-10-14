@@ -100,6 +100,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Koumei
 
+**Melhor build recomendada para Koumei** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Koumei.
+
 Build de referência para **Koumei** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Duração e Força para Omamori e Kumihimo.

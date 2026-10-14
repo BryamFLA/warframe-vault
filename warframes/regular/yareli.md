@@ -93,6 +93,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Yareli
 
+**Melhor build recomendada para Yareli** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Yareli.
+
 Build de referência para **Yareli** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Duração; Merulina + secundária de crítico.

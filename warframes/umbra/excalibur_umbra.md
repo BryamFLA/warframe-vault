@@ -86,6 +86,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Excalibur Umbra
 
+**Melhor build recomendada para Excalibur Umbra** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Excalibur Umbra.
+
 Build de referência para **Excalibur Umbra** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Duração para Exalted Blade.

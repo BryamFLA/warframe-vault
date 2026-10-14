@@ -103,6 +103,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Harrow
 
+**Melhor build recomendada para Harrow** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Harrow.
+
 Build de referência para **Harrow** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Duração para Thurible e Covenant.

@@ -93,6 +93,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Chroma
 
+**Melhor build recomendada para Chroma** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Chroma.
+
 Build de referência para **Chroma** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força máxima e Duração para Vex Armor.

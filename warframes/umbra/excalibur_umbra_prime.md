@@ -71,6 +71,8 @@ Foi vendido apenas no pacote **China Founders** do Warframe China, encerrado em 
 
 ## 🛠️ Build — Excalibur Umbra Prime
 
+**Melhor build recomendada para Excalibur Umbra Prime** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Excalibur Umbra Prime.
+
 Build de referência para **Excalibur Umbra Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Duração para Exalted Blade.

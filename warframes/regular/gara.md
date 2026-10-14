@@ -104,6 +104,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Gara
 
+**Melhor build recomendada para Gara** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Gara.
+
 Build de referência para **Gara** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Duração para Splinter Storm (redução de dano) e Mass Vitrify.

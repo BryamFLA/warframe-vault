@@ -1,6 +1,6 @@
 ---
 title: Awakening
-aliases: ["Awakening", "quest Awakening", "Despertar", "quest inicial", "tutorial", "primeira missão"]
+aliases: ["Awakening", "quest Awakening", "Despertar", "quest inicial", "tutorial", "primeira missão", jornada Awakening, missão Awakening]
 tipo: missao
 subtipo: jornada
 resumo: "Awakening — quest introdutória (Update 29.0, 25/08/2020): o Tenno desperta na Terra, escolhe Excalibur, Mag ou Volt, foge do Captain Vor e restaura a nave com Ordis."

@@ -1,6 +1,6 @@
 ---
 title: Stolen Dreams
-aliases: [Stolen Dreams]
+aliases: [Stolen Dreams, jornada Stolen Dreams, quest Stolen Dreams, missão Stolen Dreams]
 tipo: missao
 subtipo: jornada
 resumo: "Stolen Dreams — A caça aos Arcane Codices: Grineer querem usá-los para curar a Cloning Decay Syndrome, o Corpus quer enriquecer com eles — e uma ladra chamada Maroo roubou uma peça."

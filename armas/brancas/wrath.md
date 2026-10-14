@@ -75,18 +75,20 @@ Blueprints na missão **Scoria's Angel** (Uranus Proxima). Alternativa: comprar 
 
 ## 🛠️ Build — Wrath
 
+**Melhor build recomendada para Wrath** (arma): mods, polaridades, arcanes e dicas de uso para montar o Wrath.
+
 Build de referência gerada pelas estatísticas da arma (perfil **crítico**: crítico 30% ×2, status 15%). Ajuste ao seu conteúdo e aos mods que você tem.
 
 | # | Mod |
 |---|---|
 | 1 | [[mods/armas/primed_pressure_point.md\|Primed Pressure Point]] |
-| 2 | Primed Reach |
+| 2 | [[mods/armas/primed_reach.md\|Primed Reach]] |
 | 3 | [[mods/armas/blood_rush.md\|Blood Rush]] |
 | 4 | [[mods/armas/organ_shatter.md\|Organ Shatter]] |
-| 5 | Gladiator Might |
+| 5 | [[mods/armas/gladiator_might.md\|Gladiator Might]] |
 | 6 | [[mods/armas/berserker_fury.md\|Berserker Fury]] |
 | 7 | [[mods/armas/primed_fever_strike.md\|Primed Fever Strike]] |
-| 8 | Vicious Frost |
+| 8 | [[mods/armas/vicious_frost.md\|Vicious Frost]] |
 
 **Elementos:** Viral + Calor (geral) ou Corrosivo (armadura). Builds de status usam Condition Overload; builds de crítico usam Blood Rush + combo alto.
 **Arcanes:** Melee Exposure, Melee Influence.

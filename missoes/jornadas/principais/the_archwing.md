@@ -1,6 +1,6 @@
 ---
 title: The Archwing
-aliases: [The Archwing]
+aliases: [The Archwing, jornada The Archwing, quest The Archwing, missão The Archwing]
 tipo: missao
 subtipo: jornada
 resumo: "The Archwing — A quest que destrava combate espacial: com uma Balor Fomorian ameaçando o equilíbrio de poder, o Tenno precisa construir um Archwing com recursos de Orokin Sabotage e Excavation."

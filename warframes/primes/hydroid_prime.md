@@ -97,6 +97,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Hydroid Prime
 
+**Melhor build recomendada para Hydroid Prime** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Hydroid Prime.
+
 Build de referência para **Hydroid Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Alcance; Plunder para remover armadura.

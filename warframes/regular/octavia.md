@@ -98,6 +98,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Octavia
 
+**Melhor build recomendada para Octavia** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Octavia.
+
 Build de referência para **Octavia** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Duração e Alcance; Força para Amp.

@@ -6693,6 +6693,35 @@
 "caminho": "armas/brancas/xoris.md"
 },
 {
+"title": "Zaw",
+"aliases": [
+"Zaw",
+"Zaws",
+"arma modular Cetus",
+"Hok",
+"Hok's Anvil",
+"como fazer Zaw",
+"melee modular",
+"Strike Grip Link",
+"Gild Zaw"
+],
+"tipo": "arma",
+"subtipo": "melee",
+"resumo": "Zaw — armas melee modulares montadas no Hok's Anvil em Cetus: Strike (cabeça, define dano/tipo), Grip (1 ou 2 mãos, velocidade/dano) e Link (bônus); blueprints com Standing Ostron, montagem por 4.000 créditos e Gild (Ostron Trusted, rank 30, 2 Cetus Wisps + 5.000 Standing) para Mastery, Forma e Exodia Arcanes.",
+"status": "completo",
+"fonte_principal": "Peças (Strike, Grip, Link) compradas do Hok (Hok's Anvil, Cetus) com Standing Ostron; montagem por 4.000 créditos.",
+"tags": [
+"arma",
+"melee",
+"modular",
+"zaw",
+"cetus",
+"ostron"
+],
+"caminho": "armas/brancas/zaw.md",
+"id": "arma:zaw"
+},
+{
 "id": "arma:zenistar",
 "title": "Zenistar",
 "aliases": [
@@ -17011,7 +17040,9 @@
 "Hex Treasure",
 "Scaldra Supply Cache",
 "o que fazer em Höllvania",
-"o que farmar em Höllvania"
+"o que farmar em Höllvania",
+"o que conseguir em Höllvania",
+"itens de Höllvania"
 ],
 "tipo": "local",
 "subtipo": "open-world",
@@ -17039,7 +17070,13 @@
 "Planicies de Eidolon",
 "Cetus / Plains of Eidolon",
 "Karifamil",
-"Ostron"
+"Ostron",
+"o que conseguir em Cetus",
+"itens de Cetus",
+"o que farmar em Cetus",
+"o que conseguir em Plains of Eidolon",
+"itens de Plains of Eidolon",
+"o que farmar em Plains of Eidolon"
 ],
 "tipo": "local",
 "subtipo": "open-world",
@@ -17063,7 +17100,16 @@
 "title": "Cambion Drift (Deimos)",
 "aliases": [
 "Cambion Drift (Deimos)",
-"deimos"
+"deimos",
+"o que conseguir em Deimos",
+"itens de Deimos",
+"o que farmar em Deimos",
+"o que conseguir em Necralisk",
+"itens de Necralisk",
+"o que farmar em Necralisk",
+"o que conseguir em Cambion Drift",
+"itens de Cambion Drift",
+"o que farmar em Cambion Drift"
 ],
 "tipo": "local",
 "subtipo": "open-world",
@@ -17087,7 +17133,10 @@
 "The Circuit",
 "O Circuito",
 "Drifter's Camp",
-"Dormizone"
+"Dormizone",
+"o que conseguir em Duviri",
+"itens de Duviri",
+"o que farmar em Duviri"
 ],
 "tipo": "local",
 "subtipo": "open-world",
@@ -17114,7 +17163,13 @@
 "Vale Orbe",
 "Fortuna / Orb Vallis",
 "Solaris United",
-"Vox Solaris"
+"Vox Solaris",
+"o que conseguir em Fortuna",
+"itens de Fortuna",
+"o que farmar em Fortuna",
+"o que conseguir em Orb Vallis",
+"itens de Orb Vallis",
+"o que farmar em Orb Vallis"
 ],
 "tipo": "local",
 "subtipo": "open-world",
@@ -17138,7 +17193,10 @@
 "title": "Zariman Ten Zero",
 "aliases": [
 "Zariman Ten Zero",
-"zariman"
+"zariman",
+"o que conseguir em Zariman",
+"itens de Zariman",
+"o que farmar em Zariman"
 ],
 "tipo": "local",
 "subtipo": "open-world",
@@ -18083,7 +18141,12 @@
 "Resumo da história do game",
 "Lore do Warframe",
 "Enredo do Warframe",
-"História do jogo"
+"História do jogo",
+"história completa do Warframe",
+"história do começo ao fim",
+"lore completo",
+"história do game",
+"resumo da lore"
 ],
 "tipo": "lore",
 "subtipo": "cronologia",
@@ -20526,7 +20589,10 @@
 "title": "1999 — The Hex",
 "aliases": [
 "1999 — The Hex",
-1999
+1999,
+"jornada 1999 — The Hex",
+"quest 1999 — The Hex",
+"missão 1999 — The Hex"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -20543,7 +20609,10 @@
 {
 "title": "Angels of the Zariman",
 "aliases": [
-"Angels of the Zariman"
+"Angels of the Zariman",
+"jornada Angels of the Zariman",
+"quest Angels of the Zariman",
+"missão Angels of the Zariman"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -20560,7 +20629,10 @@
 {
 "title": "Apostasy Prologue",
 "aliases": [
-"Apostasy Prologue"
+"Apostasy Prologue",
+"jornada Apostasy Prologue",
+"quest Apostasy Prologue",
+"missão Apostasy Prologue"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -20582,7 +20654,9 @@
 "Despertar",
 "quest inicial",
 "tutorial",
-"primeira missão"
+"primeira missão",
+"jornada Awakening",
+"missão Awakening"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -20602,7 +20676,10 @@
 {
 "title": "Chains of Harrow",
 "aliases": [
-"Chains of Harrow"
+"Chains of Harrow",
+"jornada Chains of Harrow",
+"quest Chains of Harrow",
+"missão Chains of Harrow"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -20619,7 +20696,10 @@
 {
 "title": "Chimera Prologue",
 "aliases": [
-"Chimera Prologue"
+"Chimera Prologue",
+"jornada Chimera Prologue",
+"quest Chimera Prologue",
+"missão Chimera Prologue"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -20636,7 +20716,10 @@
 {
 "title": "Erra",
 "aliases": [
-"Erra"
+"Erra",
+"jornada Erra",
+"quest Erra",
+"missão Erra"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -20653,7 +20736,10 @@
 {
 "title": "Heart of Deimos",
 "aliases": [
-"Heart of Deimos"
+"Heart of Deimos",
+"jornada Heart of Deimos",
+"quest Heart of Deimos",
+"missão Heart of Deimos"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -20674,7 +20760,9 @@
 "quest Jade Shadows",
 "Sombras de Jade",
 "quest do Stalker",
-"quest da Jade"
+"quest da Jade",
+"jornada Jade Shadows",
+"missão Jade Shadows"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -20698,7 +20786,10 @@
 "Constellations",
 "quest Constellations",
 "quest Sirius e Orion",
-"Sirius & Orion quest"
+"Sirius & Orion quest",
+"jornada Jade Shadows: Constellations",
+"quest Jade Shadows: Constellations",
+"missão Jade Shadows: Constellations"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -20719,7 +20810,10 @@
 {
 "title": "Natah",
 "aliases": [
-"Natah"
+"Natah",
+"jornada Natah",
+"quest Natah",
+"missão Natah"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -20737,7 +20831,10 @@
 "title": "Octavia's Anthem",
 "aliases": [
 "Octavia's Anthem",
-"octavias anthem"
+"octavias anthem",
+"jornada Octavia's Anthem",
+"quest Octavia's Anthem",
+"missão Octavia's Anthem"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -20754,7 +20851,10 @@
 {
 "title": "Once Awake",
 "aliases": [
-"Once Awake"
+"Once Awake",
+"jornada Once Awake",
+"quest Once Awake",
+"missão Once Awake"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -20771,7 +20871,10 @@
 {
 "title": "Prelude to War",
 "aliases": [
-"Prelude to War"
+"Prelude to War",
+"jornada Prelude to War",
+"quest Prelude to War",
+"missão Prelude to War"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -20788,7 +20891,10 @@
 {
 "title": "Rising Tide",
 "aliases": [
-"Rising Tide"
+"Rising Tide",
+"jornada Rising Tide",
+"quest Rising Tide",
+"missão Rising Tide"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -20805,7 +20911,10 @@
 {
 "title": "Sands of Inaros",
 "aliases": [
-"Sands of Inaros"
+"Sands of Inaros",
+"jornada Sands of Inaros",
+"quest Sands of Inaros",
+"missão Sands of Inaros"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -20822,7 +20931,10 @@
 {
 "title": "The Archwing",
 "aliases": [
-"The Archwing"
+"The Archwing",
+"jornada The Archwing",
+"quest The Archwing",
+"missão The Archwing"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -20839,7 +20951,10 @@
 {
 "title": "The Deadlock Protocol",
 "aliases": [
-"The Deadlock Protocol"
+"The Deadlock Protocol",
+"jornada The Deadlock Protocol",
+"quest The Deadlock Protocol",
+"missão The Deadlock Protocol"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -20856,7 +20971,10 @@
 {
 "title": "The Duviri Paradox",
 "aliases": [
-"The Duviri Paradox"
+"The Duviri Paradox",
+"jornada The Duviri Paradox",
+"quest The Duviri Paradox",
+"missão The Duviri Paradox"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -20877,7 +20995,9 @@
 "quest The Lotus Eaters",
 "Lotus Eaters",
 "prólogo do 1999",
-"prologo The Hex"
+"prologo The Hex",
+"jornada The Lotus Eaters",
+"missão The Lotus Eaters"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -20897,7 +21017,10 @@
 {
 "title": "The New War",
 "aliases": [
-"The New War"
+"The New War",
+"jornada The New War",
+"quest The New War",
+"missão The New War"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -20920,7 +21043,9 @@
 "quest do Uriel",
 "quest Tau",
 "Adis",
-"Tauron Academy"
+"Tauron Academy",
+"jornada The Old Peace",
+"missão The Old Peace"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -20941,7 +21066,10 @@
 {
 "title": "The Sacrifice",
 "aliases": [
-"The Sacrifice"
+"The Sacrifice",
+"jornada The Sacrifice",
+"quest The Sacrifice",
+"missão The Sacrifice"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -20958,7 +21086,10 @@
 {
 "title": "The Second Dream",
 "aliases": [
-"The Second Dream"
+"The Second Dream",
+"jornada The Second Dream",
+"quest The Second Dream",
+"missão The Second Dream"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -20979,7 +21110,9 @@
 "quest The Teacher",
 "O Professor",
 "quest do Teshin",
-"tutorial de mods"
+"tutorial de mods",
+"jornada The Teacher",
+"missão The Teacher"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -20999,7 +21132,10 @@
 {
 "title": "The War Within",
 "aliases": [
-"The War Within"
+"The War Within",
+"jornada The War Within",
+"quest The War Within",
+"missão The War Within"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -21016,7 +21152,10 @@
 {
 "title": "The Waverider",
 "aliases": [
-"The Waverider"
+"The Waverider",
+"jornada The Waverider",
+"quest The Waverider",
+"missão The Waverider"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -21033,7 +21172,10 @@
 {
 "title": "Veilbreaker",
 "aliases": [
-"Veilbreaker"
+"Veilbreaker",
+"jornada Veilbreaker",
+"quest Veilbreaker",
+"missão Veilbreaker"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -21051,7 +21193,10 @@
 "title": "Vor's Prize",
 "aliases": [
 "Vor's Prize",
-"vors prize"
+"vors prize",
+"jornada Vor's Prize",
+"quest Vor's Prize",
+"missão Vor's Prize"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -21073,7 +21218,10 @@
 "Vox Solaris quest",
 "quest de Fortuna",
 "quest da Eudico",
-"como liberar Fortuna"
+"como liberar Fortuna",
+"jornada Vox Solaris (Quest)",
+"quest Vox Solaris (Quest)",
+"missão Vox Solaris (Quest)"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -21093,7 +21241,10 @@
 {
 "title": "Whispers in the Walls",
 "aliases": [
-"Whispers in the Walls"
+"Whispers in the Walls",
+"jornada Whispers in the Walls",
+"quest Whispers in the Walls",
+"missão Whispers in the Walls"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -21110,7 +21261,10 @@
 {
 "title": "A Man of Few Words",
 "aliases": [
-"A Man of Few Words"
+"A Man of Few Words",
+"jornada A Man of Few Words",
+"quest A Man of Few Words",
+"missão A Man of Few Words"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -21131,7 +21285,10 @@
 "quest Tempestarii",
 "quest do Sevagoth",
 "Tempestarii",
-"como conseguir Sevagoth"
+"como conseguir Sevagoth",
+"jornada Call of the Tempestarii",
+"quest Call of the Tempestarii",
+"missão Call of the Tempestarii"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -21151,7 +21308,10 @@
 {
 "title": "Hidden Messages",
 "aliases": [
-"Hidden Messages"
+"Hidden Messages",
+"jornada Hidden Messages",
+"quest Hidden Messages",
+"missão Hidden Messages"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -21168,7 +21328,10 @@
 {
 "title": "Howl of the Kubrow",
 "aliases": [
-"Howl of the Kubrow"
+"Howl of the Kubrow",
+"jornada Howl of the Kubrow",
+"quest Howl of the Kubrow",
+"missão Howl of the Kubrow"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -21185,7 +21348,10 @@
 {
 "title": "Mask of the Revenant",
 "aliases": [
-"Mask of the Revenant"
+"Mask of the Revenant",
+"jornada Mask of the Revenant",
+"quest Mask of the Revenant",
+"missão Mask of the Revenant"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -21202,7 +21368,10 @@
 {
 "title": "Patient Zero",
 "aliases": [
-"Patient Zero"
+"Patient Zero",
+"jornada Patient Zero",
+"quest Patient Zero",
+"missão Patient Zero"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -21224,7 +21393,10 @@
 "quest da Saya",
 "quest da Gara",
 "como conseguir Gara",
-"Shatter-Lock"
+"Shatter-Lock",
+"jornada Saya's Vigil",
+"quest Saya's Vigil",
+"missão Saya's Vigil"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -21244,7 +21416,10 @@
 {
 "title": "Stolen Dreams",
 "aliases": [
-"Stolen Dreams"
+"Stolen Dreams",
+"jornada Stolen Dreams",
+"quest Stolen Dreams",
+"missão Stolen Dreams"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -21261,7 +21436,10 @@
 {
 "title": "The Glast Gambit",
 "aliases": [
-"The Glast Gambit"
+"The Glast Gambit",
+"jornada The Glast Gambit",
+"quest The Glast Gambit",
+"missão The Glast Gambit"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -21278,7 +21456,10 @@
 {
 "title": "The Index Preview",
 "aliases": [
-"The Index Preview"
+"The Index Preview",
+"jornada The Index Preview",
+"quest The Index Preview",
+"missão The Index Preview"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -21295,7 +21476,10 @@
 {
 "title": "The Jordas Precept",
 "aliases": [
-"The Jordas Precept"
+"The Jordas Precept",
+"jornada The Jordas Precept",
+"quest The Jordas Precept",
+"missão The Jordas Precept"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -21312,7 +21496,10 @@
 {
 "title": "The Limbo Theorem",
 "aliases": [
-"The Limbo Theorem"
+"The Limbo Theorem",
+"jornada The Limbo Theorem",
+"quest The Limbo Theorem",
+"missão The Limbo Theorem"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -21329,7 +21516,10 @@
 {
 "title": "The New Strange",
 "aliases": [
-"The New Strange"
+"The New Strange",
+"jornada The New Strange",
+"quest The New Strange",
+"missão The New Strange"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -21346,7 +21536,10 @@
 {
 "title": "The Silver Grove",
 "aliases": [
-"The Silver Grove"
+"The Silver Grove",
+"jornada The Silver Grove",
+"quest The Silver Grove",
+"missão The Silver Grove"
 ],
 "tipo": "missao",
 "subtipo": "jornada",
@@ -61665,8 +61858,7 @@
 "Aura Forma"
 ],
 "tipo": "recurso",
-"raridade": "⚠️ NÃO VERIFICADO",
-"resumo": "Aura Forma — Recurso do tipo item.",
+"resumo": "Aura Forma — variante de Forma para o slot de Aura; substituída pela Omni Forma no Update 38.5 (19/03/2025).",
 "status": "completo",
 "tags": [
 "recurso",

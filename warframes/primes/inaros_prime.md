@@ -97,6 +97,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Inaros Prime
 
+**Melhor build recomendada para Inaros Prime** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Inaros Prime.
+
 Build de referência para **Inaros Prime** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Vida máxima, Força para Scarab Swarm/Shell.

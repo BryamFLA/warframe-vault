@@ -104,6 +104,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Voruna
 
+**Melhor build recomendada para Voruna** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Voruna.
+
 Build de referência para **Voruna** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Força e Duração; build melee/crítico.

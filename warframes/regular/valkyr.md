@@ -99,6 +99,8 @@ Dados **oficiais** da Digital Extremes ([Global Community Stats](https://www.war
 
 ## 🛠️ Build — Valkyr
 
+**Melhor build recomendada para Valkyr** (Warframe): mods, polaridades, arcanes e dicas de uso para montar o Valkyr.
+
 Build de referência para **Valkyr** (curadoria do agente com base no meta 2025–2026 — ajuste ao conteúdo e aos mods que você tem).
 
 **Foco:** Armadura e Duração para Warcry; build melee com Hysteria.

@@ -1,6 +1,6 @@
 ---
 title: The Deadlock Protocol
-aliases: [The Deadlock Protocol]
+aliases: [The Deadlock Protocol, jornada The Deadlock Protocol, quest The Deadlock Protocol, missão The Deadlock Protocol]
 tipo: missao
 subtipo: jornada
 resumo: "The Deadlock Protocol — Nef Anyo tenta provar que é herdeiro de Parvos Granum para tomar a Corpus Board — e a busca leva ao Granum Void, onde o próprio fundador estava preso há milênios."
