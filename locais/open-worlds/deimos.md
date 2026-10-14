@@ -1,6 +1,6 @@
 ---
 title: Cambion Drift (Deimos)
-aliases: [Cambion Drift (Deimos), deimos, o que conseguir em Deimos, itens de Deimos, o que farmar em Deimos, o que conseguir em Necralisk, itens de Necralisk, o que farmar em Necralisk, o que conseguir em Cambion Drift, itens de Cambion Drift, o que farmar em Cambion Drift]
+aliases: [Cambion Drift (Deimos), deimos, Necralisk, Cambion Drift, o que conseguir em Deimos, itens de Deimos, o que farmar em Deimos, o que conseguir em Necralisk, itens de Necralisk, o que farmar em Necralisk, o que conseguir em Cambion Drift, itens de Cambion Drift, o que farmar em Cambion Drift]
 tipo: local
 subtipo: open-world
 faccao: infested

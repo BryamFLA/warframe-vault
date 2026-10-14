@@ -1,6 +1,6 @@
 ---
 title: Railjack
-aliases: [Railjack, nave Railjack, Empyrean, Dry Dock, Cephalon Cy]
+aliases: [Railjack, nave Railjack, Empyrean, Dry Dock, Cephalon Cy, nave]
 tipo: mecanica
 resumo: "Railjack — nave de combate Orokin pilotada por até 4 Tenno nas missões Empyrean (Proximas). Construída na quest Rising Tide (exige The War Within e MR 3) ou comprada no Starter Railjack Bundle (175 platina). Componentes das Casas Lavan, Vidar e Zetki vêm como destroços (wreckage); as versões Sigma vêm da pesquisa do Dojo."
 status: completo

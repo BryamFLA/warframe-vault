@@ -1,6 +1,6 @@
 ---
 title: Baro Ki'Teer
-aliases: [Baro Ki'Teer, baro ki teer]
+aliases: [Baro Ki'Teer, baro ki teer, Baro, Void Trader, Ducats, mercador do void]
 tipo: mecanica
 resumo: "Baro Ki'Teer — O Void Trader: aparece em um Relay a cada 2 semanas por 48 horas vendendo Primed Mods, armas Prisma/Wraith/Vandal e cosméticos exclusivos, pagos em Orokin Ducats + Credits."
 status: completo

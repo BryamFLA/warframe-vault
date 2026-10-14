@@ -1,6 +1,6 @@
 ---
 title: Crítico
-aliases: [Crítico, Critico]
+aliases: [Crítico, Critico, chance crítica, dano crítico, crit]
 tipo: mecanica
 resumo: "Crítico — Um dos dois eixos de escala de dano do jogo (o outro é status): chance crítica decide com que frequência o acerto é crítico, multiplicador crítico decide quanto ele multiplica — e acima de 100% de chance o Warframe entra em camadas de críti."
 status: completo

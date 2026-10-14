@@ -1,6 +1,6 @@
 ---
 title: Forma e Polaridades
-aliases: [Forma e Polaridades]
+aliases: [Forma e Polaridades, Forma, polaridade, polarizar, forma na arma]
 tipo: mecanica
 resumo: "Forma e Polaridades — Polaridade é o símbolo em cada slot de mod; casar a polaridade do mod com a do slot corta a drenagem pela metade, e a Forma é o item que troca a polaridade de um slot — ao custo de zerar o rank do equipamento."
 status: completo

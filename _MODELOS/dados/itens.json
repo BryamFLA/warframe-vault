@@ -17101,6 +17101,8 @@
 "aliases": [
 "Cambion Drift (Deimos)",
 "deimos",
+"Necralisk",
+"Cambion Drift",
 "o que conseguir em Deimos",
 "itens de Deimos",
 "o que farmar em Deimos",
@@ -18948,7 +18950,11 @@
 {
 "title": "Arbitrations",
 "aliases": [
-"Arbitrations"
+"Arbitrations",
+"Arbitração",
+"arbitrações",
+"Vitus Essence",
+"Arbitration Honors"
 ],
 "tipo": "mecanica",
 "resumo": "Arbitrations — Variante \"elite\" de Alert hospedada pelos Arbiters of Hexis: só missões endless a partir do nível 60–80, sem bleedout e sem auto-revive, com Shield Drones que tornam inimigos invulneráveis, pagando em Vitus Essence.",
@@ -19116,7 +19122,11 @@
 "title": "Baro Ki'Teer",
 "aliases": [
 "Baro Ki'Teer",
-"baro ki teer"
+"baro ki teer",
+"Baro",
+"Void Trader",
+"Ducats",
+"mercador do void"
 ],
 "tipo": "mecanica",
 "resumo": "Baro Ki'Teer — O Void Trader: aparece em um Relay a cada 2 semanas por 48 horas vendendo Primed Mods, armas Prisma/Wraith/Vandal e cosméticos exclusivos, pagos em Orokin Ducats + Credits.",
@@ -19136,7 +19146,11 @@
 "title": "Clã e Dojo",
 "aliases": [
 "Clã e Dojo",
-"Cla e Dojo"
+"Cla e Dojo",
+"clã",
+"dojo",
+"pesquisa do clã",
+"laboratório do dojo"
 ],
 "tipo": "mecanica",
 "resumo": "O clã é a estrutura social do jogo e o Dojo é a base dele: salas de Research que replicam equipamento por Credits, Trading Post com taxa configurável, Dry Dock para Railjack — tudo pago em recursos multiplicados pelo Clan Tier.",
@@ -19217,7 +19231,10 @@
 "title": "Crítico",
 "aliases": [
 "Crítico",
-"Critico"
+"Critico",
+"chance crítica",
+"dano crítico",
+"crit"
 ],
 "tipo": "mecanica",
 "resumo": "Crítico — Um dos dois eixos de escala de dano do jogo (o outro é status): chance crítica decide com que frequência o acerto é crítico, multiplicador crítico decide quanto ele multiplica — e acima de 100% de chance o Warframe entra em camadas de críti.",
@@ -19234,7 +19251,16 @@
 {
 "title": "Dano e Status",
 "aliases": [
-"Dano e Status"
+"Dano e Status",
+"dano",
+"tipos de dano",
+"status",
+"elementos",
+"combinar elementos",
+"Viral",
+"Corrosive",
+"Heat",
+"Slash"
 ],
 "tipo": "mecanica",
 "resumo": "Sistema que decide quanto dano cada tipo causa contra cada facção e que efeito de status cada tipo aplica.",
@@ -19437,7 +19463,11 @@
 "title": "Forja (Foundry)",
 "aliases": [
 "Forja (Foundry)",
-"forja"
+"forja",
+"Foundry",
+"fundição",
+"construir item",
+"craftar"
 ],
 "tipo": "mecanica",
 "resumo": "Forja (Foundry) — Seção da Orbiter onde todo equipamento do jogo é construído: blueprint + componentes + Credits + tempo real de espera, com opção de rush por Platinum.",
@@ -19455,7 +19485,11 @@
 {
 "title": "Forma e Polaridades",
 "aliases": [
-"Forma e Polaridades"
+"Forma e Polaridades",
+"Forma",
+"polaridade",
+"polarizar",
+"forma na arma"
 ],
 "tipo": "mecanica",
 "resumo": "Forma e Polaridades — Polaridade é o símbolo em cada slot de mod; casar a polaridade do mod com a do slot corta a drenagem pela metade, e a Forma é o item que troca a polaridade de um slot — ao custo de zerar o rank do equipamento.",
@@ -19547,7 +19581,12 @@
 {
 "title": "Helminth",
 "aliases": [
-"Helminth"
+"Helminth",
+"infundir habilidade",
+"subsumir",
+"subsume",
+"sala do helminth",
+"trocar habilidade de warframe"
 ],
 "tipo": "mecanica",
 "resumo": "Criatura Infestada na Helminth Infirmary da Orbiter que come recursos, converte em Secretions e permite trocar uma habilidade de qualquer Warframe por outra, aplicar Archon Shards e injetar buffs semanais (Invigoration).",
@@ -19566,7 +19605,12 @@
 {
 "title": "Incarnon",
 "aliases": [
-"Incarnon"
+"Incarnon",
+"Incarnon Genesis",
+"evolução incarnon",
+"arma incarnon",
+"adaptador incarnon",
+"Cavalero"
 ],
 "tipo": "mecanica",
 "resumo": "Incarnon — Sistema de evolução de armas que as toca com o Void: desafios liberam Evolutions, e o Alt Fire ativa a Incarnon Form — um modo com munição, dano e comportamento próprios.",
@@ -19613,7 +19657,14 @@
 {
 "title": "Mastery Rank",
 "aliases": [
-"Mastery Rank"
+"Mastery Rank",
+"MR",
+"rank de maestria",
+"maestria",
+"nível de maestria",
+"subir de rank",
+"teste de maestria",
+"mastery test"
 ],
 "tipo": "mecanica",
 "resumo": "Mastery Rank — Medida de quanto do conteúdo do jogo você já experimentou: sobe com Affinity gasta em equipamentos novos, nós do Star Chart, Junctions e Intrinsics, e é a tranca de praticamente todo conteúdo e limite do jogo.",
@@ -19694,7 +19745,10 @@
 {
 "title": "Nightwave",
 "aliases": [
-"Nightwave"
+"Nightwave",
+"onda noturna",
+"Nora Night",
+"Cred"
 ],
 "tipo": "mecanica",
 "resumo": "Nightwave — Rádio pirata da Nora Night que funciona como battle pass: desafios diários e semanais dão Standing, o Standing dá ranks, e cada rank dá recompensa e Cred — a moeda que compra Nitain Extract, Catalyst, Reactor, auras, augments e cosméticos.",
@@ -19713,7 +19767,15 @@
 {
 "title": "Operator e Focus",
 "aliases": [
-"Operator e Focus"
+"Operator e Focus",
+"Operator",
+"operador",
+"Focus",
+"foco",
+"escolas de focus",
+"Focus Lens",
+"Drifter e Operator",
+"amp do operador"
 ],
 "tipo": "mecanica",
 "resumo": "Operator e Focus — Focus 3.0 é a árvore de poderes do Tenno dentro do Warframe: cinco escolas (Madurai, Vazarin, Naramon, Unairu, Zenurik), cada uma com 10 Ways, duas delas desvinculáveis (Way-Bound) para valer em qualquer escola.",
@@ -19734,7 +19796,9 @@
 "title": "Parkour (Maneuvers)",
 "aliases": [
 "Parkour (Maneuvers)",
-"parkour"
+"parkour",
+"bullet jump",
+"movimentação"
 ],
 "tipo": "mecanica",
 "resumo": "Parkour (Maneuvers) — Sistema de movimentação do Warframe — Bullet Jump, Aim Glide, Wall Dash, Roll e combinações — que é mais rápido que correr e é a principal defesa do jogo, já que inimigo não acerta quem está em movimento.",
@@ -19752,7 +19816,11 @@
 {
 "title": "Platinum",
 "aliases": [
-"Platinum"
+"Platinum",
+"platina",
+"plat",
+"ganhar platina",
+"moeda premium"
 ],
 "tipo": "mecanica",
 "resumo": "Platinum — Moeda premium do Warframe: comprada com dinheiro real ou obtida tradeando com outros jogadores, e a única forma de pagar slots, cosméticos exclusivos, boosters e rush de forja.",
@@ -19796,7 +19864,8 @@
 "nave Railjack",
 "Empyrean",
 "Dry Dock",
-"Cephalon Cy"
+"Cephalon Cy",
+"nave"
 ],
 "tipo": "mecanica",
 "resumo": "Railjack — nave de combate Orokin pilotada por até 4 Tenno nas missões Empyrean (Proximas). Construída na quest Rising Tide (exige The War Within e MR 3) ou comprada no Starter Railjack Bundle (175 platina). Componentes das Casas Lavan, Vidar e Zetki vêm como destroços (wreckage); as versões Sigma vêm da pesquisa do Dojo.",
@@ -20399,7 +20468,11 @@
 {
 "title": "Stealth e Finishers",
 "aliases": [
-"Stealth e Finishers"
+"Stealth e Finishers",
+"stealth",
+"furtividade",
+"finisher",
+"execução"
 ],
 "tipo": "mecanica",
 "resumo": "Stealth e Finishers — Inimigo que não te viu morre por um multiplicador que chega a 128x o dano da arma, e dá até +500% de Affinity; Finisher converte todo o dano em Finisher Damage, que ignora armadura e escudo.",
@@ -20419,7 +20492,11 @@
 "title": "The Steel Path",
 "aliases": [
 "The Steel Path",
-"steel path"
+"steel path",
+"Caminho de Aço",
+"modo difícil",
+"Steel Essence",
+"Teshin Steel Path"
 ],
 "tipo": "mecanica",
 "resumo": "The Steel Path — Modificador de dificuldade do Sistema de Origem hospedado por Teshin: inimigos +100 de nível e 250% de vida/escudo, em troca de +100% de drop de recurso e mod, Steel Essence e a loja Steel Path Honors.",
@@ -20458,7 +20535,14 @@
 {
 "title": "Trading",
 "aliases": [
-"Trading"
+"Trading",
+"troca",
+"trocar itens",
+"trocas entre jogadores",
+"vender para jogadores",
+"Maroo's Bazaar",
+"trade chat",
+"negociar"
 ],
 "tipo": "mecanica",
 "resumo": "Sistema de troca entre jogadores feito no Trading Post do Dojo ou no Maroo's Bazaar: exige Mastery Rank 2 e 2FA, cobra taxa em Credits de quem recebe o item, e é a única rota de Platinum dentro do jogo.",
@@ -67274,7 +67358,9 @@
 "title": "Garuda",
 "aliases": [
 "Garuda",
-"warframe Garuda"
+"warframe Garuda",
+"como conseguir Garuda",
+"farm da Garuda"
 ],
 "tipo": "warframe",
 "resumo": "Garuda — Warframe de dano. Como conseguir: Blueprint principal ao concluir a quest Vox Solaris (Fortuna).",

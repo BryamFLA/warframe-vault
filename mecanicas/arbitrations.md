@@ -1,6 +1,6 @@
 ---
 title: Arbitrations
-aliases: [Arbitrations]
+aliases: [Arbitrations, Arbitração, arbitrações, Vitus Essence, Arbitration Honors]
 tipo: mecanica
 resumo: "Arbitrations — Variante \"elite\" de Alert hospedada pelos Arbiters of Hexis: só missões endless a partir do nível 60–80, sem bleedout e sem auto-revive, com Shield Drones que tornam inimigos invulneráveis, pagando em Vitus Essence."
 status: completo

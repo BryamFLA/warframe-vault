@@ -1,6 +1,6 @@
 ---
 title: Dano e Status
-aliases: [Dano e Status]
+aliases: [Dano e Status, dano, tipos de dano, status, elementos, combinar elementos, Viral, Corrosive, Heat, Slash]
 tipo: mecanica
 resumo: Sistema que decide quanto dano cada tipo causa contra cada facção e que efeito de status cada tipo aplica.
 status: completo

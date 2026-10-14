@@ -1,6 +1,6 @@
 ---
 title: Parkour (Maneuvers)
-aliases: [Parkour (Maneuvers), parkour]
+aliases: [Parkour (Maneuvers), parkour, bullet jump, movimentação]
 tipo: mecanica
 resumo: "Parkour (Maneuvers) — Sistema de movimentação do Warframe — Bullet Jump, Aim Glide, Wall Dash, Roll e combinações — que é mais rápido que correr e é a principal defesa do jogo, já que inimigo não acerta quem está em movimento."
 status: completo

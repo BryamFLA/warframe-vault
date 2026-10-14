@@ -1,6 +1,6 @@
 ---
 title: Platinum
-aliases: [Platinum]
+aliases: [Platinum, platina, plat, ganhar platina, moeda premium]
 tipo: mecanica
 resumo: "Platinum — Moeda premium do Warframe: comprada com dinheiro real ou obtida tradeando com outros jogadores, e a única forma de pagar slots, cosméticos exclusivos, boosters e rush de forja."
 status: completo

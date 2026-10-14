@@ -1,6 +1,6 @@
 ---
 title: Stealth e Finishers
-aliases: [Stealth e Finishers]
+aliases: [Stealth e Finishers, stealth, furtividade, finisher, execução]
 tipo: mecanica
 resumo: "Stealth e Finishers — Inimigo que não te viu morre por um multiplicador que chega a 128x o dano da arma, e dá até +500% de Affinity; Finisher converte todo o dano em Finisher Damage, que ignora armadura e escudo."
 status: completo

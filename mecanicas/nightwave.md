@@ -1,6 +1,6 @@
 ---
 title: Nightwave
-aliases: [Nightwave]
+aliases: [Nightwave, onda noturna, Nora Night, Cred]
 tipo: mecanica
 resumo: "Nightwave — Rádio pirata da Nora Night que funciona como battle pass: desafios diários e semanais dão Standing, o Standing dá ranks, e cada rank dá recompensa e Cred — a moeda que compra Nitain Extract, Catalyst, Reactor, auras, augments e cosméticos."
 status: completo

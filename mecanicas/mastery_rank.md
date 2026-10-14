@@ -1,6 +1,6 @@
 ---
 title: Mastery Rank
-aliases: [Mastery Rank]
+aliases: [Mastery Rank, MR, rank de maestria, maestria, nível de maestria, subir de rank, teste de maestria, mastery test]
 tipo: mecanica
 resumo: "Mastery Rank — Medida de quanto do conteúdo do jogo você já experimentou: sobe com Affinity gasta em equipamentos novos, nós do Star Chart, Junctions e Intrinsics, e é a tranca de praticamente todo conteúdo e limite do jogo."
 status: completo

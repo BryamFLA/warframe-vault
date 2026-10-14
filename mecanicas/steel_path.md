@@ -1,6 +1,6 @@
 ---
 title: The Steel Path
-aliases: [The Steel Path, steel path]
+aliases: [The Steel Path, steel path, Caminho de Aço, modo difícil, Steel Essence, Teshin Steel Path]
 tipo: mecanica
 resumo: "The Steel Path — Modificador de dificuldade do Sistema de Origem hospedado por Teshin: inimigos +100 de nível e 250% de vida/escudo, em troca de +100% de drop de recurso e mod, Steel Essence e a loja Steel Path Honors."
 status: completo

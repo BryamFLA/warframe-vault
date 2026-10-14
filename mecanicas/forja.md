@@ -1,6 +1,6 @@
 ---
 title: Forja (Foundry)
-aliases: [Forja (Foundry), forja]
+aliases: [Forja (Foundry), forja, Foundry, fundição, construir item, craftar]
 tipo: mecanica
 resumo: "Forja (Foundry) — Seção da Orbiter onde todo equipamento do jogo é construído: blueprint + componentes + Credits + tempo real de espera, com opção de rush por Platinum."
 status: completo

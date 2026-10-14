@@ -1,6 +1,6 @@
 ---
 title: Trading
-aliases: [Trading]
+aliases: [Trading, troca, trocar itens, trocas entre jogadores, vender para jogadores, "Maroo's Bazaar", trade chat, negociar]
 tipo: mecanica
 resumo: "Sistema de troca entre jogadores feito no Trading Post do Dojo ou no Maroo's Bazaar: exige Mastery Rank 2 e 2FA, cobra taxa em Credits de quem recebe o item, e é a única rota de Platinum dentro do jogo."
 status: completo

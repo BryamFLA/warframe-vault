@@ -1,6 +1,6 @@
 ---
 title: Incarnon
-aliases: [Incarnon]
+aliases: [Incarnon, Incarnon Genesis, evolução incarnon, arma incarnon, adaptador incarnon, Cavalero]
 tipo: mecanica
 resumo: "Incarnon — Sistema de evolução de armas que as toca com o Void: desafios liberam Evolutions, e o Alt Fire ativa a Incarnon Form — um modo com munição, dano e comportamento próprios."
 status: completo

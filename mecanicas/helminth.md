@@ -1,6 +1,6 @@
 ---
 title: Helminth
-aliases: [Helminth]
+aliases: [Helminth, infundir habilidade, subsumir, subsume, sala do helminth, trocar habilidade de warframe]
 tipo: mecanica
 resumo: "Criatura Infestada na Helminth Infirmary da Orbiter que come recursos, converte em Secretions e permite trocar uma habilidade de qualquer Warframe por outra, aplicar Archon Shards e injetar buffs semanais (Invigoration)."
 status: completo

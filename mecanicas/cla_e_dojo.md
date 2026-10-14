@@ -1,6 +1,6 @@
 ---
 title: Clã e Dojo
-aliases: [Clã e Dojo, Cla e Dojo]
+aliases: [Clã e Dojo, Cla e Dojo, clã, dojo, pesquisa do clã, laboratório do dojo]
 tipo: mecanica
 resumo: "O clã é a estrutura social do jogo e o Dojo é a base dele: salas de Research que replicam equipamento por Credits, Trading Post com taxa configurável, Dry Dock para Railjack — tudo pago em recursos multiplicados pelo Clan Tier."
 status: completo

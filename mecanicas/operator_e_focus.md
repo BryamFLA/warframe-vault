@@ -1,6 +1,6 @@
 ---
 title: Operator e Focus
-aliases: [Operator e Focus]
+aliases: [Operator e Focus, Operator, operador, Focus, foco, escolas de focus, Focus Lens, Drifter e Operator, amp do operador]
 tipo: mecanica
 resumo: "Operator e Focus — Focus 3.0 é a árvore de poderes do Tenno dentro do Warframe: cinco escolas (Madurai, Vazarin, Naramon, Unairu, Zenurik), cada uma com 10 Ways, duas delas desvinculáveis (Way-Bound) para valer em qualquer escola."
 status: completo
