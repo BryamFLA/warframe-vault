@@ -27,15 +27,18 @@ for dp,dn,fn in os.walk(ROOT):
             chunks.append((rel,head,f"{title} {al} {part}"))
 docs=[norm(c[2]) for c in chunks]; N=len(docs); avg=sum(map(len,docs))/N
 df=collections.Counter(w for d in docs for w in set(d)); tfs=[collections.Counter(d) for d in docs]
+inv=collections.defaultdict(list)
+for _i,_tf in enumerate(tfs):
+    for _w,_c in _tf.items(): inv[_w].append((_i,_c))
 def score(q):
-    qs=norm(q); out=[]
-    for i,tf in enumerate(tfs):
-        s=0; L=len(docs[i])
-        for w in qs:
-            if w in tf:
-                idf=math.log(1+(N-df[w]+.5)/(df[w]+.5)); s+=idf*tf[w]*2.2/(tf[w]+1.2*(1-.75+.75*L/avg))
-        out.append((s,i))
-    return sorted(out,reverse=True)[:K]
+    # BM25 com indice invertido (mesmo resultado do laco completo, ~100x mais rapido)
+    acc=collections.Counter()
+    for w in norm(q):
+        if w not in df: continue
+        idf=math.log(1+(N-df[w]+.5)/(df[w]+.5))
+        for i,c in inv[w]:
+            L=len(docs[i]); acc[i]+=idf*c*2.2/(c+1.2*(1-.75+.75*L/avg))
+    return sorted(((v,i) for i,v in acc.items()),reverse=True)[:K]
 Q=[("Onde posso conseguir o warframe Excalibur","warframes/regular/excalibur.md"),
 ("O que posso farmar em CETUS","locais/open-worlds/cetus.md"),
 ("Me liste tudo o que posso fazer em FORTUNA","locais/open-worlds/fortuna.md"),
@@ -43,7 +46,19 @@ Q=[("Onde posso conseguir o warframe Excalibur","warframes/regular/excalibur.md"
 ("Crie um passo a passo de como criar a arma Alternox","armas/primarias/alternox.md"),
 ("Como posso conseguir CRIOTICO","recursos/raridades/raro/cryotic.md"),
 ("Me conte um resumo da historia do game","lore/cronologia/cronologia.md"),
-("O que da pra fazer e farmar na terra, como missoes, itens e tudo o mais que tiver","locais/planetas/terra.md")]
+("O que da pra fazer e farmar na terra, como missoes, itens e tudo o mais que tiver","locais/planetas/terra.md"),
+("O que fazer e farmar em Hollvania","locais/hollvania.md"),
+("Como funciona Riven e quanto custa rolar com Kuva","mecanicas/rivens.md"),
+("Como conseguir Archon Shard Tauforged","mecanicas/archon_shards.md"),
+("Como matar meu Kuva Lich de vez","mecanicas/adversarios_lich_sister_coda.md"),
+("O que fazer toda semana no Warframe","mecanicas/rotinas_diarias_e_semanais.md"),
+("Melhor lugar para farmar Endo","mecanicas/endo_e_creditos.md"),
+("Qual a ordem das quests","mecanicas/guia_de_progressao.md"),
+("O que significa Potato","mecanicas/glossario.md"),
+("Quais as novidades do ultimo update","mecanicas/atualizacoes_recentes.md"),
+("Como chocar um Kubrow na incubadora","mecanicas/criacao_de_companheiros.md"),
+("Como funciona a Netracell","missoes/tipos/netracells.md"),
+("Como aumentar a capacidade de mod e polaridade","mecanicas/modding.md")]
 if "--geral" in sys.argv:
     # perguntas geradas para TODA entidade indexavel de warframes/, armas/ e recursos/
     import random

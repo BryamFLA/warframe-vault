@@ -10,7 +10,7 @@ fontes: ["https://wiki.warframe.com/w/Syndicate", "https://wiki.warframe.com/w/W
 atualizado: 2026-10-13
 verificado: true
 agente: opus
-total-notas: 18
+total-notas: 19
 ---
 
 # Sindicatos — Índice
@@ -142,7 +142,7 @@ O arquivo **[[mecanicas/sindicatos/kaithe.md|kaithe.md]]** existe nesta pasta ma
 - **"Operational Supply é o sindicato do Kahl."** Não. É o sindicato da **Plague Star**, com a Nakak em Cetus. O do Kahl é a **Kahl's Garrison**, que não tem arquivo aqui.
 - **"Simaris tem 5 ranks."** Simaris **não tem rank nenhum** — só um teto de 125.000.
 
-## 📋 Lista — Sindicatos — Índice — geral (18)
+## 📋 Lista — Sindicatos — Índice — geral (19)
 
 | Nome | Tipo | MR | Resumo |
 |---|---|---|---|
@@ -160,6 +160,7 @@ O arquivo **[[mecanicas/sindicatos/kaithe.md|kaithe.md]]** existe nesta pasta ma
 | [[mecanicas/sindicatos/red_veil.md\|Red Veil]] | mecanica | — | Red Veil — Veem corrupção em tudo e se consideram obrigados por honra a curar o sistema com uma purga grande e violenta — nenhum custo é gra… |
 | [[mecanicas/sindicatos/solaris_united.md\|Solaris United]] | mecanica | — | Grupo rebelde de trabalhadores Solaris em Fortuna lutando para libertar os seus das dívidas com o Nef Anyo; sindicato neutro cuja moeda de r… |
 | [[mecanicas/sindicatos/steel_meridian.md\|Steel Meridian]] | mecanica | — | Steel Meridian — Sindicato liderado por uma desertora Grineer endurecida pela batalha, travando guerra de guerrilha em defesa do que sobrou … |
+| [[mecanicas/sindicatos/the_hex.md\|The Hex]] | mecanica | — | The Hex é o sindicato dos Protoframes (humanos com traços de Warframe criados por Albrecht Entrati) em Höllvania, 1999: Standing por bountie… |
 | [[mecanicas/sindicatos/the_holdfasts.md\|The Holdfasts]] | mecanica | — | The Holdfasts — Os quatro últimos "sobreviventes" da tripulação adulta do Zariman Ten Zero, ressuscitados pelo Void e operando no Chrysalith… |
 | [[mecanicas/sindicatos/perrin_sequence.md\|The Perrin Sequence]] | mecanica | — | The Perrin Sequence — Coletivo de mercadores brilhantes e poderosos, dissidentes do Corpus, que querem restaurar a ordem trazendo prosperida… |
 | [[mecanicas/sindicatos/the_quills.md\|The Quills]] | mecanica | — | The Quills — Ordem monástica secreta leal à Unum, escondida numa caverna de Cetus; sindicato neutro cujo Standing vem de Sentient Cores — e … |

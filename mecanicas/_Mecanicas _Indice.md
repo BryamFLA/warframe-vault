@@ -8,7 +8,7 @@ rag: true
 tags: [index, mecanica]
 atualizado: 2026-10-13
 agente: opus
-total-notas: 47
+total-notas: 63
 ---
 
 # Mecânicas — Índice
@@ -100,30 +100,45 @@ Conteúdo de tempo limitado que retorna periodicamente com mecânicas próprias 
 | Sub-índice | Notas |
 |---|---|
 | [[mecanicas/eventos/_Eventos _Indice.md\|Eventos — Índice]] | 7 |
-| [[mecanicas/sindicatos/_Sindicatos _Indice.md\|Sindicatos — Índice]] | 18 |
+| [[mecanicas/sindicatos/_Sindicatos _Indice.md\|Sindicatos — Índice]] | 19 |
 
-## 📋 Lista — Mecânicas — Índice — geral (22)
+## 📋 Lista — Mecânicas — Índice — geral (37)
 
 | Nome | Tipo | MR | Resumo |
 |---|---|---|---|
+| [[mecanicas/adversarios_lich_sister_coda.md\|Adversários — Kuva Lich, Sisters of Parvos e Technocyte Coda]] | mecanica | — | Sistema de Adversários: Kuva Lich (Grineer, armas Kuva), Sister of Parvos (Corpus, armas Tenet) e Technocyte Coda (Techrot, armas Coda); só … |
 | [[mecanicas/arbitrations.md\|Arbitrations]] | mecanica | — | Arbitrations — Variante "elite" de Alert hospedada pelos Arbiters of Hexis: só missões endless a partir do nível 60–80, sem bleedout e sem a… |
+| [[mecanicas/arcanes.md\|Arcanes (Arcane Enhancements)]] | mecanica | — | Arcanes são upgrades com gatilho (ex.: ao pegar energia, ao critar) equipados à parte dos mods: 2 por Warframe/Operator/Amp e 1 por arma; so… |
+| [[mecanicas/archon_shards.md\|Archon Shards]] | mecanica | — | Archon Shards são upgrades permanentes de Warframe imbuídos pelo Helminth (5 slots por frame): Crimson, Amber e Azure vêm de Archon Hunt/Net… |
+| [[mecanicas/archwing.md\|Archwing]] | mecanica | — | Archwing é o equipamento de voo do Tenno (Odonata, Amesha, Elytron, Itzal e Primes): liberado na quest The Archwing, usado em missões espaci… |
+| [[mecanicas/atualizacoes_recentes.md\|Atualizações Recentes]] | mecanica | — | Resumo dos updates de dez/2025 a out/2026: 41 The Old Peace (Uriel, Tektolyst Artifacts), 42 The Shadowgrapher (Follie, Switch 2, Requiem Et… |
 | [[mecanicas/augments.md\|Augments]] | mecanica | — | Augments — Mods exclusivos que alteram uma habilidade específica de um Warframe específico, vendidos por 25.000 Standing no Rank 5 de cada s… |
 | [[mecanicas/baro_ki_teer.md\|Baro Ki'Teer]] | mecanica | — | Baro Ki'Teer — O Void Trader: aparece em um Relay a cada 2 semanas por 48 horas vendendo Primed Mods, armas Prisma/Wraith/Vandal e cosmético… |
 | [[mecanicas/cla_e_dojo.md\|Clã e Dojo]] | mecanica | — | O clã é a estrutura social do jogo e o Dojo é a base dele: salas de Research que replicam equipamento por Credits, Trading Post com taxa con… |
 | [[mecanicas/combo_counter.md\|Combo Counter]] | mecanica | — | Combo Counter — Contador de acertos consecutivos de arma branca que multiplica o dano de melee de 2× até 12× — e, com Blood Rush e Weeping W… |
+| [[mecanicas/criacao_de_companheiros.md\|Criação de Companheiros]] | mecanica | — | Como obter cada classe de companheiro: Sentinels por blueprint; Kubrow e Kavat por incubação no Orbiter (Howl of the Kubrow, 48 h ou 24 h co… |
 | [[mecanicas/critico.md\|Crítico]] | mecanica | — | Crítico — Um dos dois eixos de escala de dano do jogo (o outro é status): chance crítica decide com que frequência o acerto é crítico, multi… |
 | [[mecanicas/dano_e_status.md\|Dano e Status]] | mecanica | — | Sistema que decide quanto dano cada tipo causa contra cada facção e que efeito de status cada tipo aplica. |
+| [[mecanicas/endo_e_creditos.md\|Endo e Credits]] | mecanica | — | Endo (fusão de mods) e Credits (moeda de crafting/fusão/trade) são os gargalos de recurso do jogador médio; Endo vem de Arbitration, Sortie,… |
 | [[mecanicas/forja.md\|Forja (Foundry)]] | mecanica | — | Forja (Foundry) — Seção da Orbiter onde todo equipamento do jogo é construído: blueprint + componentes + Credits + tempo real de espera, com… |
 | [[mecanicas/forma_e_polaridades.md\|Forma e Polaridades]] | mecanica | — | Forma e Polaridades — Polaridade é o símbolo em cada slot de mod; casar a polaridade do mod com a do slot corta a drenagem pela metade, e a … |
+| [[mecanicas/glossario.md\|Glossário]] | mecanica | — | Glossário de siglas, termos e gírias da comunidade de Warframe traduzidos para PT-BR: abreviações de stats (Str, Dur, Eff), formas de polari… |
+| [[mecanicas/guia_de_progressao.md\|Guia de Progressão]] | mecanica | — | Roteiro de progressão do Warframe: ordem oficial das quests em 4 arcos (Awakening → The Old Peace e Jade Shadows), marcos de Mastery Rank (2… |
 | [[mecanicas/helminth.md\|Helminth]] | mecanica | — | Criatura Infestada na Helminth Infirmary da Orbiter que come recursos, converte em Secretions e permite trocar uma habilidade de qualquer Wa… |
 | [[mecanicas/incarnon.md\|Incarnon]] | mecanica | — | Incarnon — Sistema de evolução de armas que as toca com o Void: desafios liberam Evolutions, e o Alt Fire ativa a Incarnon Form — um modo co… |
+| [[mecanicas/k_drive.md\|K-Drive]] | mecanica | — | K-Drive é o hoverboard das open worlds: o Bondi vem grátis na quest Vox Solaris (sem Mastery); os modulares (Board, Reactor, Nose, Jet) são … |
 | [[mecanicas/mastery_rank.md\|Mastery Rank]] | mecanica | — | Mastery Rank — Medida de quanto do conteúdo do jogo você já experimentou: sobe com Affinity gasta em equipamentos novos, nós do Star Chart, … |
+| [[mecanicas/modding.md\|Modding (Mods, Capacidade e Polaridade)]] | mecanica | — | Mods são cartas instaladas no Arsenal que alteram stats; cada item tem 8 slots gerais (+Exilus/Aura/Stance), capacidade igual ao rank (até 3… |
+| [[mecanicas/necramech.md\|Necramech]] | mecanica | — | Necramechs são robôs de guerra Entrati da Old War: dá para pilotar os abandonados no Cambion Drift via Transference ou construir o seu (Void… |
 | [[mecanicas/nightwave.md\|Nightwave]] | mecanica | — | Nightwave — Rádio pirata da Nora Night que funciona como battle pass: desafios diários e semanais dão Standing, o Standing dá ranks, e cada … |
 | [[mecanicas/operator_e_focus.md\|Operator e Focus]] | mecanica | — | Operator e Focus — Focus 3.0 é a árvore de poderes do Tenno dentro do Warframe: cinco escolas (Madurai, Vazarin, Naramon, Unairu, Zenurik), … |
 | [[mecanicas/parkour.md\|Parkour (Maneuvers)]] | mecanica | — | Parkour (Maneuvers) — Sistema de movimentação do Warframe — Bullet Jump, Aim Glide, Wall Dash, Roll e combinações — que é mais rápido que co… |
 | [[mecanicas/platinum.md\|Platinum]] | mecanica | — | Platinum — Moeda premium do Warframe: comprada com dinheiro real ou obtida tradeando com outros jogadores, e a única forma de pagar slots, c… |
 | [[mecanicas/popularidade_uso.md\|Popularidade e Uso dos Itens (dados oficiais DE)]] | mecanica | — | Ranking oficial de uso (tempo equipado, itens rank 30+) publicado pela Digital Extremes: em 2025 o Warframe mais usado foi Wukong Prime; as … |
 | [[mecanicas/railjack.md\|Railjack]] | mecanica | — | Railjack — nave de combate Orokin pilotada por até 4 Tenno nas missões Empyrean (Proximas). Construída na quest Rising Tide (exige The War W… |
+| [[mecanicas/reliquias_do_void.md\|Relíquias do Void]] | mecanica | — | Void Relics são itens Orokin abertos em Void Fissures (10 Reactant) que dão partes Prime e Forma; eras Lith/Meso/Neo/Axi (+ Requiem para Req… |
+| [[mecanicas/rivens.md\|Riven Mods]] | mecanica | — | Riven Mods são mods aleatórios presos a uma arma: chegam velados (desafio para revelar), têm 2–3 bônus e talvez 1 penalidade, força ditada p… |
+| [[mecanicas/rotinas_diarias_e_semanais.md\|Rotinas Diárias e Semanais]] | mecanica | — | Checklist de atividades com reset: diárias às 00:00 UTC (Daily Tribute, First Win, teto de Standing 16.000 + 500×MR, Nightwave, Incursions d… |
 | [[mecanicas/stealth_e_finishers.md\|Stealth e Finishers]] | mecanica | — | Stealth e Finishers — Inimigo que não te viu morre por um multiplicador que chega a 128x o dano da arma, e dá até +500% de Affinity; Finishe… |
 | [[mecanicas/the_circuit.md\|The Circuit]] | mecanica | — | The Circuit — modo endless no Undercroft de Duviri (exige The Duviri Paradox). O Circuit normal dá blueprints de 1 Warframe escolhida entre … |
 | [[mecanicas/steel_path.md\|The Steel Path]] | mecanica | — | The Steel Path — Modificador de dificuldade do Sistema de Origem hospedado por Teshin: inimigos +100 de nível e 250% de vida/escudo, em troc… |

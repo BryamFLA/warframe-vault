@@ -3,7 +3,7 @@ title: Pendências para o Humano
 tipo: protocolo
 rag: false
 tags: [protocolo, pendencia]
-atualizado: 2026-10-13
+atualizado: 2026-10-14
 agente: opus
 ---
 
@@ -22,7 +22,12 @@ agente: opus
 - Itens que faltavam (Nychus Moa, Sly Vulpaphyla, Prisma Shade, Venari Prime, Narin, Gallos Rods, Voidplume Vane etc.) criados — 274 itens novos.
 - Mods e Arcanes: 1410 notas novas (todos os mods não-Flawed e 166 Arcanes do `Module:Mods/data` e `Module:Arcane/data`).
 
+- **Lote finalização (2026-10-14):** 25 notas novas de mecânica/missão/local escritas a partir da wiki (`mecanicas/{modding,rivens,archon_shards,arcanes,endo_e_creditos,reliquias_do_void,adversarios_lich_sister_coda,rotinas_diarias_e_semanais,archwing,necramech,k_drive,criacao_de_companheiros,guia_de_progressao,atualizacoes_recentes,glossario}.md`, 8 tipos em `missoes/tipos/`, `locais/hollvania.md`, `mecanicas/sindicatos/the_hex.md`). `_INDICE_DE_CAMINHOS.md` regenerado (3277 arquivos). 0 wikilinks quebrados.
+
 ## ⏳ Em aberto
+
+- **Entidades sem arquivo próprio** (citadas em texto puro nas notas novas): Warframe **Sirius & Orion** (Update 43); arma **Vinquibus** (Update 41); quests **The Teacher**, **The Old Peace**, **Jade Shadows**, **Jade Shadows: Constellations**, **The Lotus Eaters**, **Awakening**, **Vox Solaris** (quest), **Call of the Tempestarii**; sindicatos **Ventkids**, **Kahl's Garrison**, **Nightcap**; itens **Melee Arcane Adapter**, **Omni Forma**, **Elemental Vice**; índice `missoes/jornadas/_Jornadas _Indice.md`. Criar se quiser cobertura completa.
+- Conteúdo pós-2026-10-14 (Epoch Operation: Taubound, quest prólogo de Tau, Warframe: Tau) ainda não está no vault — atualizar `mecanicas/atualizacoes_recentes.md` quando sair.
 
 - Overframe bloqueia acesso automatizado (Cloudflare); a avaliação popular usa os **dados oficiais de uso da DE** (ver `mecanicas/popularidade_uso.md`). Se quiser notas de tier list da comunidade, exporte manualmente.
 - Notas geradas automaticamente têm `status: parcial` — conteúdo verificado contra os módulos da wiki, mas sem curadoria manual de texto.

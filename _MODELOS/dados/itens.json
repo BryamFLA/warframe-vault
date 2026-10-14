@@ -16977,6 +16977,38 @@
 "id": "index:_locais_indice"
 },
 {
+"title": "Höllvania",
+"aliases": [
+"Höllvania",
+"Hollvania",
+"Höllvania 1999",
+1999,
+"Höllvania Central Mall",
+"Backroom",
+"Techrot Safe",
+"Hex Treasure",
+"Scaldra Supply Cache",
+"o que fazer em Höllvania",
+"o que farmar em Höllvania"
+],
+"tipo": "local",
+"subtipo": "open-world",
+"resumo": "Höllvania é a cidade-estado na Terra de 1999 (após a quest The Hex): 10 nós de nível 65–70 contra Scaldra e Techrot, hub no Höllvania Central Mall, estações semanais que mudam o Eximus dominante, Techrot Safes de 100.000 Credits + Arcane, Hex Treasures para Standing e as atividades da Technocyte Coda e da Temporal Archimedea.",
+"status": "completo",
+"tags": [
+"local",
+"hollvania",
+1999,
+"terra",
+"the-hex",
+"scaldra",
+"techrot",
+"open-world"
+],
+"caminho": "locais/hollvania.md",
+"id": "local:hollvania"
+},
+{
 "title": "Cetus / Plains of Eidolon",
 "aliases": [
 "Cetus",
@@ -18789,6 +18821,46 @@
 "id": "index:_mecanicas_indice"
 },
 {
+"title": "Adversários — Kuva Lich, Sisters of Parvos e Technocyte Coda",
+"aliases": [
+"Adversary",
+"Adversários",
+"Kuva Lich",
+"Lich",
+"Sister of Parvos",
+"Sisters of Parvos",
+"Sister",
+"Technocyte Coda",
+"Coda",
+"Requiem Mods",
+"Requiem",
+"Antivirus Mods",
+"Potency Mods",
+"Kuva Larvling",
+"Candidate",
+"Valence Fusion",
+"arma Kuva",
+"arma Tenet",
+"arma Coda",
+"converter lich"
+],
+"tipo": "mecanica",
+"resumo": "Sistema de Adversários: Kuva Lich (Grineer, armas Kuva), Sister of Parvos (Corpus, armas Tenet) e Technocyte Coda (Techrot, armas Coda); só um ativo por vez. Lich e Sister são derrotados descobrindo a sequência de 3 Requiem Mods; a Coda, achando 1 Antivirus Mod certo. Vencer dá a arma com bônus elemental (até 60% via Valence Fusion).",
+"status": "completo",
+"tags": [
+"mecanica",
+"adversario",
+"kuva-lich",
+"sister-of-parvos",
+"technocyte-coda",
+"requiem",
+"endgame",
+"armas"
+],
+"caminho": "mecanicas/adversarios_lich_sister_coda.md",
+"id": "mecanica:adversarios_lich_sister_coda"
+},
+{
 "title": "Arbitrations",
 "aliases": [
 "Arbitrations"
@@ -18805,6 +18877,137 @@
 ],
 "caminho": "mecanicas/arbitrations.md",
 "id": "mecanica:arbitrations"
+},
+{
+"title": "Arcanes (Arcane Enhancements)",
+"aliases": [
+"Arcane",
+"Arcanes",
+"Arcane Enhancement",
+"arcano",
+"arcanos",
+"rank de arcane",
+"Vosfor",
+"dissolver arcane",
+"Arcane Dissolution",
+"Loid arcanes",
+"Exodia",
+"Virtuos",
+"Pax",
+"Residual"
+],
+"tipo": "mecanica",
+"resumo": "Arcanes são upgrades com gatilho (ex.: ao pegar energia, ao critar) equipados à parte dos mods: 2 por Warframe/Operator/Amp e 1 por arma; sobem de rank fundindo cópias (21 cópias para rank 5) e podem ser dissolvidos em Vosfor com Loid.",
+"status": "completo",
+"tags": [
+"mecanica",
+"arcanes",
+"build",
+"endgame",
+"vosfor",
+"eidolon"
+],
+"caminho": "mecanicas/arcanes.md",
+"id": "mecanica:arcanes"
+},
+{
+"title": "Archon Shards",
+"aliases": [
+"Archon Shard",
+"Archon Shards",
+"shard",
+"shards",
+"fragmento de archon",
+"Tauforged",
+"Tauforged Archon Shard",
+"Crimson Shard",
+"Amber Shard",
+"Azure Shard",
+"Topaz Shard",
+"Violet Shard",
+"Emerald Shard",
+"Coalescent Fusion",
+"Ascent Fusion",
+"imbuir shard"
+],
+"tipo": "mecanica",
+"resumo": "Archon Shards são upgrades permanentes de Warframe imbuídos pelo Helminth (5 slots por frame): Crimson, Amber e Azure vêm de Archon Hunt/Netracells/Archimedea; Topaz, Violet e Emerald saem de fusão; Tauforged dá 1,5× o bônus.",
+"status": "completo",
+"tags": [
+"mecanica",
+"archon-shard",
+"helminth",
+"endgame",
+"build",
+"warframe"
+],
+"caminho": "mecanicas/archon_shards.md",
+"id": "mecanica:archon_shards"
+},
+{
+"title": "Archwing",
+"aliases": [
+"Archwing",
+"Archwings",
+"asas",
+"Odonata",
+"Amesha",
+"Elytron",
+"Itzal",
+"Archgun",
+"Archmelee",
+"missão de Archwing",
+"combate espacial"
+],
+"tipo": "mecanica",
+"resumo": "Archwing é o equipamento de voo do Tenno (Odonata, Amesha, Elytron, Itzal e Primes): liberado na quest The Archwing, usado em missões espaciais e submarinas, no Railjack/Empyrean e nas open worlds via Archwing Launcher; tem 8 slots de mod e armas próprias (Archgun e Archmelee).",
+"status": "completo",
+"tags": [
+"mecanica",
+"archwing",
+"veiculo",
+"archgun",
+"espaco",
+"railjack"
+],
+"caminho": "mecanicas/archwing.md",
+"id": "mecanica:archwing"
+},
+{
+"title": "Atualizações Recentes",
+"aliases": [
+"Atualizações Recentes",
+"updates",
+"update",
+"patch",
+"patch notes",
+"última atualização",
+"novidades",
+"o que tem de novo",
+"Update 41",
+"Update 42",
+"Update 43",
+"Update 44",
+"Iceblade of Narin",
+"The Icebind",
+"Taubound",
+"Warframe Tau",
+"The Old Peace",
+"The Shadowgrapher"
+],
+"tipo": "mecanica",
+"resumo": "Resumo dos updates de dez/2025 a out/2026: 41 The Old Peace (Uriel, Tektolyst Artifacts), 42 The Shadowgrapher (Follie, Switch 2, Requiem Eterna), 43 Jade Shadows: Constellations (Sirius & Orion, Uranus Proxima), 43.5 Amir's Shockwave, 44 Iceblade of Narin (Narin, Citrine Prime, rework da Banshee, Yuvan Peak), 44.1 The Icebind (Riven Splicing) e a Operation Taubound a partir de 15/10/2026.",
+"status": "completo",
+"tags": [
+"mecanica",
+"atualizacoes",
+"updates",
+"patch",
+"novidades",
+2026
+],
+"caminho": "mecanicas/atualizacoes_recentes.md",
+"id": "mecanica:atualizacoes_recentes"
 },
 {
 "title": "Augments",
@@ -18883,6 +19086,49 @@
 "id": "mecanica:combo_counter"
 },
 {
+"title": "Criação de Companheiros",
+"aliases": [
+"Companheiros",
+"Companions",
+"companion",
+"pet",
+"pets",
+"como conseguir pet",
+"chocar kubrow",
+"incubar kavat",
+"Incubator",
+"Incubadora",
+"Gilding",
+"gild",
+"dourar",
+"MOA",
+"Hound",
+"Predasite",
+"Vulpaphyla",
+"Sentinel",
+"Kubrow",
+"Kavat",
+"Precept"
+],
+"tipo": "mecanica",
+"resumo": "Como obter cada classe de companheiro: Sentinels por blueprint; Kubrow e Kavat por incubação no Orbiter (Howl of the Kubrow, 48 h ou 24 h com upgrade); MOA com Legs em Fortuna; Hound ao vencer Sister of Parvos; Predasite e Vulpaphyla com Son no Necralisk. Os modulares só dão Mastery depois do Gilding no rank 30.",
+"status": "completo",
+"tags": [
+"mecanica",
+"companheiros",
+"kubrow",
+"kavat",
+"moa",
+"hound",
+"predasite",
+"vulpaphyla",
+"sentinel",
+"incubator"
+],
+"caminho": "mecanicas/criacao_de_companheiros.md",
+"id": "mecanica:criacao_de_companheiros"
+},
+{
 "title": "Crítico",
 "aliases": [
 "Crítico",
@@ -18918,6 +19164,36 @@
 ],
 "caminho": "mecanicas/dano_e_status.md",
 "id": "mecanica:dano_e_status"
+},
+{
+"title": "Endo e Credits",
+"aliases": [
+"Endo",
+"Credits",
+"créditos",
+"creditos",
+"farm de endo",
+"farm de credits",
+"farmar endo",
+"farmar créditos",
+"dinheiro",
+"Ayatan",
+"Credit Booster",
+"The Index"
+],
+"tipo": "mecanica",
+"resumo": "Endo (fusão de mods) e Credits (moeda de crafting/fusão/trade) são os gargalos de recurso do jogador médio; Endo vem de Arbitration, Sortie, Ayatan, Rathuum SP e dissolução; Credits de The Index, Profit-Taker, Techrot Safes, Sortie e Arbitration.",
+"status": "completo",
+"tags": [
+"mecanica",
+"endo",
+"credits",
+"farm",
+"recursos",
+"economia"
+],
+"caminho": "mecanicas/endo_e_creditos.md",
+"id": "mecanica:endo_e_creditos"
 },
 {
 "title": "Eventos — Índice",
@@ -19111,6 +19387,79 @@
 "id": "mecanica:forma_e_polaridades"
 },
 {
+"title": "Glossário",
+"aliases": [
+"Glossário",
+"glossario",
+"gírias",
+"girias",
+"jargão",
+"termos",
+"abreviações",
+"siglas",
+"o que significa",
+"slang",
+"Potato",
+"Proc",
+"Radshare",
+"Meta",
+"Stat Stick",
+"Primer",
+"Tridolon",
+"WTB",
+"WTS",
+"VPol",
+"DPol"
+],
+"tipo": "mecanica",
+"resumo": "Glossário de siglas, termos e gírias da comunidade de Warframe traduzidos para PT-BR: abreviações de stats (Str, Dur, Eff), formas de polaridade (V, D, Bar, Scratch, Y, r, u), apelidos de itens (Potato, Cell, Shard), atividades (Arby, SP, Tridolon, Radshare, Iso Vault) e gírias (Meta, Proc, Primer, Stat Stick, Mastery Fodder, Taxi).",
+"status": "completo",
+"tags": [
+"mecanica",
+"glossario",
+"girias",
+"siglas",
+"iniciante",
+"referencia"
+],
+"caminho": "mecanicas/glossario.md",
+"id": "mecanica:glossario"
+},
+{
+"title": "Guia de Progressão",
+"aliases": [
+"Guia de Progressão",
+"progressão",
+"ordem das quests",
+"ordem de quests",
+"o que fazer agora",
+"roteiro",
+"roadmap",
+"iniciante",
+"new player",
+"early game",
+"mid game",
+"end game",
+"endgame",
+"próximo passo",
+"como progredir"
+],
+"tipo": "mecanica",
+"resumo": "Roteiro de progressão do Warframe: ordem oficial das quests em 4 arcos (Awakening → The Old Peace e Jade Shadows), marcos de Mastery Rank (2 trade, 5 Sortie/Lich, 8 Rivens, 16 Tenet, 17 Coda, 30 True Master) e o que priorizar em cada fase (Star Chart, Forma/Reactor, Helminth, Steel Path, Archon Shards, Archimedea).",
+"status": "completo",
+"tags": [
+"mecanica",
+"progressao",
+"guia",
+"quests",
+"mastery-rank",
+"iniciante",
+"endgame"
+],
+"caminho": "mecanicas/guia_de_progressao.md",
+"id": "mecanica:guia_de_progressao"
+},
+{
 "title": "Helminth",
 "aliases": [
 "Helminth"
@@ -19149,6 +19498,34 @@
 "id": "mecanica:incarnon"
 },
 {
+"title": "K-Drive",
+"aliases": [
+"K-Drive",
+"K-Drives",
+"kdrive",
+"hoverboard",
+"prancha",
+"Ventkids",
+"Bondi",
+"Velocipod",
+"Merulina",
+"truques de K-Drive"
+],
+"tipo": "mecanica",
+"resumo": "K-Drive é o hoverboard das open worlds: o Bondi vem grátis na quest Vox Solaris (sem Mastery); os modulares (Board, Reactor, Nose, Jet) são comprados com Standing dos Ventkids em Fortuna. Truques dão Affinity (25% vira Standing dos Ventkids, teto de 3.000 por cadeia) e cada Board dá 6.000 de Mastery no rank 30.",
+"status": "completo",
+"tags": [
+"mecanica",
+"k-drive",
+"veiculo",
+"fortuna",
+"ventkids",
+"open-world"
+],
+"caminho": "mecanicas/k_drive.md",
+"id": "mecanica:k_drive"
+},
+{
 "title": "Mastery Rank",
 "aliases": [
 "Mastery Rank"
@@ -19164,6 +19541,70 @@
 ],
 "caminho": "mecanicas/mastery_rank.md",
 "id": "mecanica:mastery_rank"
+},
+{
+"title": "Modding (Mods, Capacidade e Polaridade)",
+"aliases": [
+"Modding",
+"Mods",
+"mod",
+"modar",
+"como modar",
+"Mod Capacity",
+"capacidade de mod",
+"drenagem",
+"drain",
+"Fusion",
+"fusão de mod",
+"Transmutation",
+"transmutar mod",
+"Primed Mods",
+"Flawed Mods",
+"Exilus",
+"Aura",
+"Stance"
+],
+"tipo": "mecanica",
+"resumo": "Mods são cartas instaladas no Arsenal que alteram stats; cada item tem 8 slots gerais (+Exilus/Aura/Stance), capacidade igual ao rank (até 30, dobrada por Orokin Reactor/Catalyst), polaridade igual corta a drenagem pela metade e a fusão com Endo segue 10 × raridade × (2^rank − 1).",
+"status": "completo",
+"tags": [
+"mecanica",
+"mods",
+"modding",
+"capacidade",
+"polaridade",
+"fusao",
+"endo",
+"build"
+],
+"caminho": "mecanicas/modding.md",
+"id": "mecanica:modding"
+},
+{
+"title": "Necramech",
+"aliases": [
+"Necramech",
+"Necramechs",
+"mech",
+"Voidrig",
+"Bonewidow",
+"Necramech Summon",
+"Mausolon",
+"Isolation Vault"
+],
+"tipo": "mecanica",
+"resumo": "Necramechs são robôs de guerra Entrati da Old War: dá para pilotar os abandonados no Cambion Drift via Transference ou construir o seu (Voidrig, Bonewidow) com blueprints do Father após Heart of Deimos; têm 12 slots de mod, vão a rank 40 com Forma e são invocados em open worlds, Empyrean e Albrecht's Laboratories.",
+"status": "completo",
+"tags": [
+"mecanica",
+"necramech",
+"veiculo",
+"deimos",
+"entrati",
+"cambion-drift"
+],
+"caminho": "mecanicas/necramech.md",
+"id": "mecanica:necramech"
 },
 {
 "title": "Nightwave",
@@ -19283,6 +19724,113 @@
 ],
 "caminho": "mecanicas/railjack.md",
 "id": "mecanica:railjack"
+},
+{
+"title": "Relíquias do Void",
+"aliases": [
+"Void Relics",
+"Void Relic",
+"relíquias",
+"reliquia",
+"relic",
+"relics",
+"Lith",
+"Meso",
+"Neo",
+"Axi",
+"Requiem Relic",
+"Requiem Eterna",
+"refinamento de relíquia",
+"Radiant",
+"radshare",
+"relíquia vaultada",
+"vaulted relic",
+"abrir relíquia",
+"como conseguir prime"
+],
+"tipo": "mecanica",
+"resumo": "Void Relics são itens Orokin abertos em Void Fissures (10 Reactant) que dão partes Prime e Forma; eras Lith/Meso/Neo/Axi (+ Requiem para Requiem Mods), refináveis com Void Traces de Intact (2% raro) a Radiant (10% raro); relíquias vaultadas voltam via Prime Resurgence (Varzia, Aya) e partes Prime viram Ducats para o Baro Ki'Teer.",
+"status": "completo",
+"tags": [
+"mecanica",
+"reliquias",
+"void-relic",
+"prime",
+"void-fissure",
+"ducats",
+"farm"
+],
+"caminho": "mecanicas/reliquias_do_void.md",
+"id": "mecanica:reliquias_do_void"
+},
+{
+"title": "Riven Mods",
+"aliases": [
+"Riven",
+"Rivens",
+"Riven Mod",
+"riven mod",
+"mod riven",
+"disposition",
+"disposição de riven",
+"reroll",
+"rolar riven",
+"cycle riven",
+"Veiled Riven",
+"riven velado",
+"Riven Transmuter",
+"Riven Sliver",
+"Riven Splicer",
+"trait lock"
+],
+"tipo": "mecanica",
+"resumo": "Riven Mods são mods aleatórios presos a uma arma: chegam velados (desafio para revelar), têm 2–3 bônus e talvez 1 penalidade, força ditada pela Disposition da arma (0,5–1,55) e atributos rerroláveis com Kuva (900 a 3.500 por ciclo).",
+"status": "completo",
+"tags": [
+"mecanica",
+"mods",
+"riven",
+"kuva",
+"disposition",
+"endgame",
+"trading"
+],
+"caminho": "mecanicas/rivens.md",
+"id": "mecanica:rivens"
+},
+{
+"title": "Rotinas Diárias e Semanais",
+"aliases": [
+"rotina diária",
+"rotina semanal",
+"dailies",
+"weeklies",
+"checklist diário",
+"checklist semanal",
+"o que fazer todo dia",
+"o que fazer toda semana",
+"reset diário",
+"reset semanal",
+"daily reset",
+"weekly reset",
+"Search Pulse",
+"Search Pulses",
+"horário de reset"
+],
+"tipo": "mecanica",
+"resumo": "Checklist de atividades com reset: diárias às 00:00 UTC (Daily Tribute, First Win, teto de Standing 16.000 + 500×MR, Nightwave, Incursions do Steel Path) e Sortie ao meio-dia de Toronto; semanais na segunda 00:00 UTC (Archon Hunt, 5 Search Pulses para Netracells/Archimedea, Circuit, Nightwave, Palladino, Kahl); Baro a cada 2 semanas; Varzia a cada 28 dias.",
+"status": "completo",
+"tags": [
+"mecanica",
+"rotina",
+"diario",
+"semanal",
+"reset",
+"endgame",
+"checklist"
+],
+"caminho": "mecanicas/rotinas_diarias_e_semanais.md",
+"id": "mecanica:rotinas_diarias_e_semanais"
 },
 {
 "title": "Sindicatos — Índice",
@@ -19588,6 +20136,45 @@
 ],
 "caminho": "mecanicas/sindicatos/steel_meridian.md",
 "id": "mecanica:steel_meridian"
+},
+{
+"title": "The Hex",
+"aliases": [
+"The Hex",
+"Hex",
+"sindicato The Hex",
+"Protoframes",
+"Protoframe",
+"Höllvania Central Mall",
+"KIM",
+"Kinemantik Instant Messaging",
+"Arthur",
+"Aoi",
+"Amir",
+"Quincy",
+"Leticia",
+"Lettie",
+"Eleanor",
+"Flare",
+"Minerva",
+"Velimir",
+"Kaya",
+"Pizza Party"
+],
+"tipo": "mecanica",
+"resumo": "The Hex é o sindicato dos Protoframes (humanos com traços de Warframe criados por Albrecht Entrati) em Höllvania, 1999: Standing por bounties, Hex Treasures e Temporal Archimedea; 5 ranks até Pizza Party (que libera a Temporal Archimedea); lojas vendem Cyte-09, Temple, armas de 1999, Arcanes e armas Coda; o KIM permite namorar os membros.",
+"status": "completo",
+"tags": [
+"mecanica",
+"sindicato",
+"the-hex",
+"hollvania",
+1999,
+"protoframes",
+"neutro"
+],
+"caminho": "mecanicas/sindicatos/the_hex.md",
+"id": "mecanica:the_hex"
 },
 {
 "title": "The Holdfasts",
@@ -20758,6 +21345,32 @@
 "id": "missao:zariman_junction"
 },
 {
+"title": "Alchemy",
+"aliases": [
+"Alchemy",
+"alquimia",
+"Crucible",
+"Amphor",
+"Amphors",
+"Cambire",
+"Elementa"
+],
+"tipo": "missao",
+"subtipo": "tipo",
+"resumo": "Alchemy é uma missão endless de Albrecht's Laboratories (Cambire, Deimos): enemies dropam Amphors de elementos primários que você joga num Crucible para fabricar um elemento combinado e depois controla a pressão atirando em canos; cada Crucible é uma rotação (AABC). Dá Tome Mods, Mandonel, Endo e relíquias.",
+"status": "completo",
+"tags": [
+"missao",
+"tipo",
+"endless",
+"deimos",
+"albrecht",
+"tome-mods"
+],
+"caminho": "missoes/tipos/alchemy.md",
+"id": "missao:alchemy"
+},
+{
 "title": "Arbitration",
 "aliases": [
 "Arbitration"
@@ -20788,6 +21401,32 @@
 ],
 "caminho": "missoes/tipos/archon_hunt.md",
 "id": "missao:archon_hunt"
+},
+{
+"title": "Ascension",
+"aliases": [
+"Ascension",
+"Brutus",
+"Vestigial Motes",
+"Mote Collector",
+"Ionic Charge",
+"Juno Sapper",
+"farm Jade"
+],
+"tipo": "missao",
+"subtipo": "tipo",
+"resumo": "Ascension é a missão de Brutus (Urano, Corpus, nível 45–50, exige Jade Shadows): defenda um Mote Collector por 1 min, acelere um elevador com Ionic Charges, opcionalmente invoque uma Sister of Parvos com 3 Beacons e escolte a cápsula; dá Vestigial Motes para comprar Jade, Harmony, Cantare, Evensong e 5 Arcanes com o Ordis.",
+"status": "completo",
+"tags": [
+"missao",
+"tipo",
+"urano",
+"corpus",
+"jade",
+"farm"
+],
+"caminho": "missoes/tipos/ascension.md",
+"id": "missao:ascension"
 },
 {
 "title": "Assassination",
@@ -20855,6 +21494,59 @@
 ],
 "caminho": "missoes/tipos/capture.md",
 "id": "missao:capture"
+},
+{
+"title": "Conjunction Survival",
+"aliases": [
+"Conjunction Survival",
+"Conjunction",
+"Yuvarium",
+"Circulus",
+"Lone Guardian",
+"Thrax Centurion",
+"Thrax Legatus",
+"Lua Thrax Plasm"
+],
+"tipo": "missao",
+"subtipo": "tipo",
+"resumo": "Conjunction Survival é a Survival especial da Lua (Yuvarium e Circulus, exige The War Within): um Void Dax \"Lone Guardian\" dá +100% Ability Strength e +50% Casting Speed perto dele, e a cada 5 min surgem Thrax que aceleram a perda de life support; cada rotação garante Lua Thrax Plasm.",
+"status": "completo",
+"tags": [
+"missao",
+"tipo",
+"survival",
+"lua",
+"endless",
+"thrax"
+],
+"caminho": "missoes/tipos/conjunction_survival.md",
+"id": "missao:conjunction_survival"
+},
+{
+"title": "Deep Archimedea",
+"aliases": [
+"Deep Archimedea",
+"Archimedea",
+"Elite Archimedea",
+"Elite Deep Archimedea",
+"Research Points",
+"Necraloid Archimedea"
+],
+"tipo": "missao",
+"subtipo": "tipo",
+"resumo": "Desafio semanal de 3 missões seguidas contra a Murmur em Albrecht's Laboratories (nível 250–275, Elite 375–400), liberado com Cavia rank 5; Research Points por loadout e debuffs pessoais destravam Archon Shards (inclusive Tauforged), Melee Crescendo/Duplicate e Vosfor.",
+"status": "completo",
+"tags": [
+"missao",
+"tipo",
+"archimedea",
+"deimos",
+"endgame",
+"archon-shard",
+"semanal"
+],
+"caminho": "missoes/tipos/deep_archimedea.md",
+"id": "missao:deep_archimedea"
 },
 {
 "title": "Defection",
@@ -21022,6 +21714,59 @@
 "id": "missao:interception"
 },
 {
+"title": "Legacyte Harvest",
+"aliases": [
+"Legacyte Harvest",
+"Legacyte",
+"Legacytes",
+"Kalymos",
+"Köbinn West",
+"Pheroglands",
+"Techrot Umbilix"
+],
+"tipo": "missao",
+"subtipo": "tipo",
+"resumo": "Legacyte Harvest é a Capture de Höllvania (Köbinn West, nível 65–70, exige The Hex): siga a Kalymos até um ponto, encha um medidor de 100 (Pheroglands +15), derrube o Legacyte antes que ele fuja para um Umbilix e capture; cada captura é uma rotação AABC com Endo, relíquias e peças de Reconifex e Vesper 77.",
+"status": "completo",
+"tags": [
+"missao",
+"tipo",
+"capture",
+"hollvania",
+1999,
+"techrot"
+],
+"caminho": "missoes/tipos/legacyte_harvest.md",
+"id": "missao:legacyte_harvest"
+},
+{
+"title": "Mirror Defense",
+"aliases": [
+"Mirror Defense",
+"defesa espelhada",
+"Tyana Pass",
+"Munio",
+"Citrine farm",
+"Citrine's Remnants",
+"Vosphene Glyphs"
+],
+"tipo": "missao",
+"subtipo": "tipo",
+"resumo": "Mirror Defense é uma Defense dupla: dois objetivos em lados opostos de um túnel do Void, 2,5 min cada com 30 s de travessia, rotações AABC. Tyana Pass (Marte, 25–30) é a fonte da Citrine, Steflos, Corufell e de 5 Arcanes; Munio (Deimos, 55–60) dá Tome Mods, Mandonel e Stela.",
+"status": "completo",
+"tags": [
+"missao",
+"tipo",
+"defense",
+"marte",
+"deimos",
+"citrine",
+"farm"
+],
+"caminho": "missoes/tipos/mirror_defense.md",
+"id": "missao:mirror_defense"
+},
+{
 "title": "Mobile Defense",
 "aliases": [
 "Mobile Defense",
@@ -21037,6 +21782,34 @@
 ],
 "caminho": "missoes/tipos/mobile_defense.md",
 "id": "missao:mobile_defense"
+},
+{
+"title": "Netracells",
+"aliases": [
+"Netracell",
+"Netracells",
+"Keyglyph",
+"Keyglyphs",
+"Anchorhold",
+"Search Pulse",
+"cofre do Albrecht",
+"Tagfer"
+],
+"tipo": "missao",
+"subtipo": "tipo",
+"resumo": "Netracells são cofres de Albrecht Entrati em Albrecht's Laboratories (Deimos): o squad carrega 4 Keyglyphs com debuffs, acha o cofre, mata inimigos na zona até zerar a segurança e abre o cache garantido (Archon Shard, Melee Crescendo/Duplicate ou Melee Arcane Adapter). Gasta 1 dos 5 Search Pulses semanais.",
+"status": "completo",
+"tags": [
+"missao",
+"tipo",
+"netracell",
+"deimos",
+"endgame",
+"archon-shard",
+"semanal"
+],
+"caminho": "missoes/tipos/netracells.md",
+"id": "missao:netracells"
 },
 {
 "title": "Nightmare Mode",
@@ -21260,6 +22033,33 @@
 ],
 "caminho": "missoes/tipos/survival_railjack.md",
 "id": "missao:survival_railjack"
+},
+{
+"title": "Temporal Archimedea",
+"aliases": [
+"Temporal Archimedea",
+"Archimedea de Höllvania",
+"Elite Temporal Archimedea",
+"Kaya",
+"Peely Pix",
+"Pix Chip"
+],
+"tipo": "missao",
+"subtipo": "tipo",
+"resumo": "Versão de Höllvania da Archimedea: 3 missões seguidas contra Scaldra e Techrot (nível 350–375, Elite 475–500), liberada com The Hex rank 5; Research Points destravam Archon Shards de todas as cores (inclusive Tauforged), Omni Forma, Elemental Vice e as Arcanes Escapist, Hot Shot e Universal Fallout.",
+"status": "completo",
+"tags": [
+"missao",
+"tipo",
+"archimedea",
+"hollvania",
+1999,
+"endgame",
+"archon-shard",
+"semanal"
+],
+"caminho": "missoes/tipos/temporal_archimedea.md",
+"id": "missao:temporal_archimedea"
 },
 {
 "title": "Void Armageddon",

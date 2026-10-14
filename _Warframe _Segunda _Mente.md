@@ -6,7 +6,7 @@ resumo: Warframe — Segunda Mente é o arquivo raiz deste vault Obsidian; ele r
 status: completo
 rag: true
 tags: [home, index, roteamento, agente]
-atualizado: 2026-10-12
+atualizado: 2026-10-14
 agente: opus
 fontes: ["https://wiki.warframe.com — fonte canônica de todo dado de jogo deste vault"]
 jogo: Warframe
@@ -62,41 +62,44 @@ Este é o **arquivo raiz** do vault *Warframe — Segunda Mente*, uma wiki pesso
 
 | Pasta | Conteúdo | Arquivos | Com dado real |
 |---|---|---|---|
-| `warframes/` | Um arquivo por frame — base, Prime e Umbra | 116 | 116 |
-| `armas/` | Primárias, secundárias, brancas, Archwing | 386 | 382 |
-| `mods/` | Warframe, armas, companheiros, especiais | 221 | 216 |
-| `recursos/` | Materiais por raridade e sistema de origem | 161 | 154 |
-| `missoes/` | Tipos, jornadas, Junctions, bounties | 95 | 95 |
-| `mecanicas/` | Sistemas transversais, sindicatos, eventos | 47 | 47 |
-| `locais/` | Planetas do mapa estelar e open worlds | 25 | 25 |
+| `warframes/` | Um arquivo por frame — base, Prime e Umbra | 121 | 121 |
+| `armas/` | Primárias, secundárias, brancas, Archwing | 647 | 647 |
+| `mods/` | Warframe, armas, companheiros, especiais e Arcanes | 1625 | 1625 |
+| `recursos/` | Materiais por raridade e sistema de origem | 563 | 563 |
+| `missoes/` | Tipos, jornadas, Junctions, bounties | 102 | 102 |
+| `mecanicas/` | Sistemas transversais, guias, sindicatos, eventos | 66 | 66 |
+| `locais/` | Planetas, open worlds e Höllvania | 26 | 26 |
 | `lore/` | Cronologia, facções, personagens, chefes | 73 | 73 |
-| `companheiros/` | Sentinels, Kubrows, Kavats, MOAs, Hounds | 46 | 38 |
+| `companheiros/` | Sentinels, Kubrows, Kavats, MOAs, Hounds | 42 | 42 |
 | `cosmeticos/` | Catálogo temático de cosméticos | 11 | 11 |
 
 ## 📊 Estado de Cobertura — Warframe — Segunda Mente
 
-Medido em 2026-10-12 sobre os 1.182 arquivos `.md` do vault (fora de `_MODELOS/`).
+Medido em 2026-10-14 sobre os 3.277 arquivos `.md` do vault (fora de `_MODELOS/`).
 
 | Métrica | Valor |
 |---|---|
-| Arquivos `.md` | **1.182** |
-| `status: completo` | **600** (escritos/revisados à mão) |
-| `status: parcial` | **558** (gerados dos módulos de dados da wiki: aquisição, forja, stats — sem build nem lore) |
-| `status: stub` | **24** (quase todos itens que **não existem** no jogo — ver `_MODELOS/_PENDENCIAS.md`) |
-| `rag: true` (indexáveis) | **1.158** |
+| Arquivos `.md` | **3.277** |
+| `status: completo` | **624** (escritos/revisados à mão) |
+| `status: parcial` | **2.653** (gerados dos módulos de dados da wiki: aquisição, forja, stats, efeito de mod/arcane) |
+| `status: stub` | **0** |
+| `rag: true` (indexáveis) | **3.277** |
+| Wikilinks quebrados | **0** |
 
-**Pastas fechadas:** todas. Os arquivos `parcial` de `warframes/`, `armas/` e `companheiros/` respondem *onde conseguir*, *como construir (passo a passo)* e *stats*, mas ainda não têm **Build**, **Avaliação de Uso** nem **História**.
+**Guias transversais (2026-10-14):** [[mecanicas/guia_de_progressao.md|Guia de Progressão]] · [[mecanicas/rotinas_diarias_e_semanais.md|Rotinas Diárias e Semanais]] · [[mecanicas/modding.md|Modding]] · [[mecanicas/rivens.md|Rivens]] · [[mecanicas/archon_shards.md|Archon Shards]] · [[mecanicas/arcanes.md|Arcanes]] · [[mecanicas/endo_e_creditos.md|Endo e Credits]] · [[mecanicas/reliquias_do_void.md|Relíquias do Void]] · [[mecanicas/adversarios_lich_sister_coda.md|Adversários]] · [[mecanicas/atualizacoes_recentes.md|Atualizações Recentes]] · [[mecanicas/glossario.md|Glossário]] · [[locais/hollvania.md|Höllvania]].
+
+Para a IA: [[_MODELOS/GUIA_RECOMENDACAO_IA.md|Guia de Recomendação]], [[_MODELOS/MODELO_inventario_jogador.md|Modelo de Inventário do Jogador]] e `_MODELOS/dados/itens.json` (3.277 entidades com frontmatter estruturado).
 
 ## 🧪 Teste de Recuperação (RAG) — Warframe — Segunda Mente
 
 `_MODELOS/rag_eval.py` indexa os arquivos `rag: true` em chunks por heading `##` (prefixados com título e aliases), roda BM25 e mede se o arquivo certo volta no top-k. BM25 é um **piso**: um retriever com embeddings deve ir igual ou melhor.
 
-| Teste (2026-10-12) | Resultado |
+| Teste (2026-10-14) | Resultado |
 |---|---|
-| 8 perguntas-alvo (Excalibur, Cetus, Fortuna, Corpus, Alternox, Criótico, história do jogo, Terra) | **8/8 no top-3** |
-| "Onde consigo o warframe X?" para todo warframe | **115/115 (100%) no top-5** |
-| "Passo a passo para criar a arma X" para toda arma | **376/377 (99,7%) no top-5** |
-| "Como consigo o recurso X?" para todo recurso | **149/153 (97,4%) no top-5** |
+| 20 perguntas-alvo (Excalibur, Cetus, Fortuna, Corpus, Alternox, Criótico, história, Terra + Höllvania, Rivens, Archon Shards, Kuva Lich, rotina semanal, Endo, ordem das quests, glossário, último update, Kubrow, Netracell, Modding) | **20/20 no top-5** |
+| "Onde consigo o warframe X?" para todo warframe | **120/120 (100%) no top-5** |
+| "Passo a passo para criar a arma X" para toda arma | **640/642 (99,7%) no top-5** |
+| "Como consigo o recurso X?" para todo recurso | **553/562 (98,4%) no top-5** |
 
 Rodar: `python3 _MODELOS/rag_eval.py 5` (perguntas-alvo) e `python3 _MODELOS/rag_eval.py 5 --geral`.
 

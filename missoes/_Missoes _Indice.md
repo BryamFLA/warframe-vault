@@ -8,7 +8,7 @@ rag: true
 tags: [index, missao]
 atualizado: 2026-10-13
 agente: opus
-total-notas: 93
+total-notas: 101
 ---
 
 # Missões — Índice
@@ -307,16 +307,20 @@ Bounties são missões encadeadas oferecidas pelos sindicatos dos Open Worlds. C
 | [[missoes/juncoes/void_junction.md\|Void — acesso (sem Junção)]] | juncao | — | O Void não tem Junção: todos os caminhos que levam a ele são livres, bastando ter os nós das duas pontas desbloqueados. |
 | [[missoes/juncoes/zariman_junction.md\|Zariman — acesso (sem Junção)]] | juncao | — | O Zariman é único: apesar de ficar num ponto fixo, o Tenno chega lá sem precisar de uma Solar Rail Junction — porque, na linha do tempo de T… |
 
-## 📋 Lista — Missões — Índice — tipos (35)
+## 📋 Lista — Missões — Índice — tipos (43)
 
 | Nome | Tipo | MR | Resumo |
 |---|---|---|---|
+| [[missoes/tipos/alchemy.md\|Alchemy]] | tipo | — | Alchemy é uma missão endless de Albrecht's Laboratories (Cambire, Deimos): enemies dropam Amphors de elementos primários que você joga num C… |
 | [[missoes/tipos/arbitration.md\|Arbitration]] | tipo | — | Arbitration — A dificuldade elevada dos endless: nível 60–80 para cima, drones que dão imunidade aos inimigos, e morte sem bleedout — sem re… |
 | [[missoes/tipos/archon_hunt.md\|Archon Hunt]] | tipo | — | A caçada semanal aos três Archons: três missões em sequência contra o Narmer, com um Archon nível 150 no fim e um Archon Shard como prêmio. |
+| [[missoes/tipos/ascension.md\|Ascension]] | tipo | — | Ascension é a missão de Brutus (Urano, Corpus, nível 45–50, exige Jade Shadows): defenda um Mote Collector por 1 min, acelere um elevador co… |
 | [[missoes/tipos/assassination.md\|Assassination]] | tipo | — | Assassination — Caçar e matar o chefe de um planeta. |
 | [[missoes/tipos/assassination_railjack.md\|Assassination (Railjack)]] | tipo | — | Os nós de Assassination do Empyrean são ocultos: só aparecem quando existe um alvo ativo. |
 | [[missoes/tipos/assault.md\|Assault]] | tipo | — | Assault — Tipo de missão com um único nó no jogo: uma sabotagem em cinco etapas dentro da locais/planetas/kuva_fortress.md\|Kuva Fortress — a… |
 | [[missoes/tipos/capture.md\|Capture]] | tipo | — | Capture — Localizar um alvo que corre mais rápido que a maioria das Warframes, derrubá-lo e capturá-lo antes que ele chegue ao ponto de fuga… |
+| [[missoes/tipos/conjunction_survival.md\|Conjunction Survival]] | tipo | — | Conjunction Survival é a Survival especial da Lua (Yuvarium e Circulus, exige The War Within): um Void Dax "Lone Guardian" dá +100% Ability … |
+| [[missoes/tipos/deep_archimedea.md\|Deep Archimedea]] | tipo | — | Desafio semanal de 3 missões seguidas contra a Murmur em Albrecht's Laboratories (nível 250–275, Elite 375–400), liberado com Cavia rank 5; … |
 | [[missoes/tipos/defection.md\|Defection]] | tipo | — | Defection — Escoltar grupos de desertores Kavor até a baía de embarque, mantendo Med Boosters energizados — se 10 Kavor morrerem, a Lotus ab… |
 | [[missoes/tipos/defense.md\|Defense]] | tipo | — | Defense — Proteger um objetivo (cryopod ou reator Orokin) por ondas sucessivas, com recompensa a cada 5 ondas e opção de sair ou continuar. |
 | [[missoes/tipos/defense_railjack.md\|Defense (Railjack)]] | tipo | — | Defense (Railjack) — Nó Empyrean lore/faccoes/corpus.md\|Corpus em duas fases: limpar os objetivos espaciais com o Railjack, abordar a nave c… |
@@ -327,7 +331,10 @@ Bounties são missões encadeadas oferecidas pelos sindicatos dos Open Worlds. C
 | [[missoes/tipos/hijack.md\|Hijack]] | tipo | — | Hijack — Escoltar um objetivo que se move drenando o SEU escudo: sem escudo por perto, ele para; parado tempo demais, volta atrás; e perde 1… |
 | [[missoes/tipos/infested_salvage.md\|Infested Salvage]] | tipo | — | Liberar três consoles de dados cobertos por crescimento Infested usando bolhas de vaporizador alimentadas por Antiserum Charges — enquanto o… |
 | [[missoes/tipos/interception.md\|Interception]] | tipo | — | Interception — Controlar quatro torres de comunicação (A, B, C, D) e chegar a 100 Capture Points antes do inimigo — pontos entram proporcion… |
+| [[missoes/tipos/legacyte_harvest.md\|Legacyte Harvest]] | tipo | — | Legacyte Harvest é a Capture de Höllvania (Köbinn West, nível 65–70, exige The Hex): siga a Kalymos até um ponto, encha um medidor de 100 (P… |
+| [[missoes/tipos/mirror_defense.md\|Mirror Defense]] | tipo | — | Mirror Defense é uma Defense dupla: dois objetivos em lados opostos de um túnel do Void, 2,5 min cada com 30 s de travessia, rotações AABC. … |
 | [[missoes/tipos/mobile_defense.md\|Mobile Defense]] | tipo | — | Mobile Defense — Proteger 3 terminais de dados em salas diferentes, 60 a 80 segundos cada, com o datamass sendo carregado de um para o outro… |
+| [[missoes/tipos/netracells.md\|Netracells]] | tipo | — | Netracells são cofres de Albrecht Entrati em Albrecht's Laboratories (Deimos): o squad carrega 4 Keyglyphs com debuffs, acha o cofre, mata i… |
 | [[missoes/tipos/nightmare.md\|Nightmare Mode]] | tipo | — | Nightmare Mode — Um nó aleatório por planeta com fundo escarlate: inimigos muito mais fortes, Ciphers proibidos, Specters hostis — e mods qu… |
 | [[missoes/tipos/orphix.md\|Orphix]] | missao | — | Orphix — tipo de missão (Railjack/Proxima e Archimedea) contra as Orphix, naves-drop Sentient que forçam o jogador a sair da Warframe e luta… |
 | [[missoes/tipos/pursuit.md\|Pursuit]] | tipo | — | Pursuit — Missão de Archwing com um único nó no jogo: perseguir um Grineer Courier em fuga, derrubar seus 4 geradores de escudo, desabilitar… |
@@ -340,6 +347,7 @@ Bounties são missões encadeadas oferecidas pelos sindicatos dos Open Worlds. C
 | [[missoes/tipos/spy.md\|Spy]] | tipo | — | Spy — Invadir três Data Vaults e hackear os consoles sem acionar o alarme — porque o alarme inicia um cronômetro de 20 a 50 segundos até os … |
 | [[missoes/tipos/survival.md\|Survival]] | tipo | — | Survival — Hackear o terminal e sobreviver enquanto o suporte de vida decai 1% a cada 1,5 segundo — com recompensa a cada 5 minutos e cápsul… |
 | [[missoes/tipos/survival_railjack.md\|Survival (Railjack)]] | tipo | — | Survival (Railjack) — Nó Empyrean lore/faccoes/corpus.md\|Corpus em duas fases: limpar os objetivos espaciais com o Railjack, abordar a nave … |
+| [[missoes/tipos/temporal_archimedea.md\|Temporal Archimedea]] | tipo | — | Versão de Höllvania da Archimedea: 3 missões seguidas contra Scaldra e Techrot (nível 350–375, Elite 475–500), liberada com The Hex rank 5; … |
 | [[missoes/tipos/steel_path.md\|The Steel Path]] | tipo | — | The Steel Path — Não é um tipo de missão: é um modo alternativo do Star Chart inteiro, que sobe todo inimigo em +100 níveis e dá +150% de vi… |
 | [[missoes/tipos/void_armageddon.md\|Void Armageddon]] | tipo | — | Void Armageddon — Modo endless do locais/open-worlds/zariman.md\|Zariman Ten Zero: defender dois Exodampers e a Eternal Relic por 3 ondas, co… |
 | [[missoes/tipos/void_cascade.md\|Void Cascade]] | tipo | — | Void Cascade — Modo endless do locais/open-worlds/zariman.md\|Zariman Ten Zero: purgar Exolizers possuídos pelo Void usando o Operator/Drifte… |

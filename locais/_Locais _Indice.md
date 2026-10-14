@@ -8,7 +8,7 @@ rag: true
 tags: [index, local]
 atualizado: 2026-10-13
 agente: opus
-total-notas: 24
+total-notas: 25
 ---
 
 # Locais — Índice
@@ -102,6 +102,12 @@ Uma dimensão do Void governada pela psique fragmentada de Dominus Thrax — um 
 - A Fortaleza Kuva era considerada irrelevante por anos antes de The War Within — após a quest, tornou-se destino regular de farm por Kuva e o único lugar com Siphons e Floods.
 - Zariman foi o nome da nave antes de ser um local jogável — mencionado no lore desde o início do jogo como o evento que criou os Tenno. Chegar fisicamente à nave em 2022 foi um momento de fechamento narrativo para veteranos.
 - O Void é o único bioma que não tem facção dominante no sentido convencional — os Corrupted são Orokin reanimados controlados pelo próprio ambiente, não uma civilização organizada.
+
+## 📋 Lista — Locais — Índice — geral (1)
+
+| Nome | Tipo | MR | Resumo |
+|---|---|---|---|
+| [[locais/hollvania.md\|Höllvania]] | open-world | — | Höllvania é a cidade-estado na Terra de 1999 (após a quest The Hex): 10 nós de nível 65–70 contra Scaldra e Techrot, hub no Höllvania Centra… |
 
 ## 📋 Lista — Locais — Índice — open-worlds (5)
 
