@@ -516,8 +516,15 @@ c533021  preenche(recursos): 56 arquivos — recursos/ COMPLETA (150/150)
 
 **Feito (commits 6677fc9 → 39ff3aa):** 12 itens inexistentes apagados; 274 itens + 429 recursos criados; Avaliação Popular (dados oficiais DE 2024/2025) em warframes/armas; builds e História em warframes/armas/companheiros; **1410 mods + 166 arcanes** gerados (`mods/**`, `mods/arcanes/`); frontmatter estruturado (`id`, `mastery_rank`, `negociavel`, `vaultado`, `slot`, `classe`, `disposicao_riven`, `fonte_principal`, `rank_max`, `drenagem_base`, `augment_de`); `_MODELOS/dados/itens.json` (exportado por `_MODELOS/exportar_itens.py`).
 
-**Falta (ordem):**
-1. Notas novas de mecânica/missão/local (ver lista em `_MODELOS/_CONVENCOES.md` §convenções; alvos): `mecanicas/{modding,rivens,archon_shards,arcanes,endo_e_creditos,reliquias_do_void,adversarios_lich_sister_coda,rotinas_diarias_e_semanais,archwing,necramech,k_drive,criacao_de_companheiros,guia_de_progressao,atualizacoes_recentes,glossario}.md`, `missoes/tipos/{deep_archimedea,temporal_archimedea,netracells,mirror_defense,alchemy,conjunction_survival,legacyte_harvest,ascension}.md`, `locais/hollvania.md`, `mecanicas/sindicatos/the_hex.md`. Fonte: wiki.warframe.com (action=raw).
-2. `_MODELOS/MODELO_inventario_jogador.md` + `_MODELOS/GUIA_RECOMENDACAO_IA.md`.
-3. Regenerar todos os `_* _Indice.md` a partir do frontmatter (incluir mods/arcanes) e reescrever `_MODELOS/_PENDENCIAS.md` (todas as pendências de arquivo resolvidas).
-4. Verificação: `python3 _MODELOS/rag_eval.py 5` e `--geral`, validador de links, YAML, `git fsck`, rodar `exportar_itens.py`, commit; atualizar `_Warframe _Segunda _Mente.md` (estatísticas).
+**Status 2026-10-14: LOTE FINALIZAÇÃO CONCLUÍDO** (commits 29db289 → 6ef8a10).
+
+1. ✅ 25 notas novas escritas da wiki (action=raw / API parse): `mecanicas/{modding,rivens,archon_shards,arcanes,endo_e_creditos,reliquias_do_void,adversarios_lich_sister_coda,rotinas_diarias_e_semanais,archwing,necramech,k_drive,criacao_de_companheiros,guia_de_progressao,atualizacoes_recentes,glossario}.md`, `missoes/tipos/{deep_archimedea,temporal_archimedea,netracells,mirror_defense,alchemy,conjunction_survival,legacyte_harvest,ascension}.md`, `locais/hollvania.md`, `mecanicas/sindicatos/the_hex.md`. Todas `status: completo`, `verificado: true`, sem ⚠️. (`reliquias_do_void.md` tinha ficado por engano em `Claude outputs/` — movido.)
+2. ✅ `MODELO_inventario_jogador.md` + `GUIA_RECOMENDACAO_IA.md` (já existiam, commit 1e2c34f).
+3. ✅ `_* _Indice.md` regenerados (`gerador/indices.py`); `_INDICE_DE_CAMINHOS.md` regenerado (3.277 arquivos — estava parado em 1.181); `_PENDENCIAS.md` reescrito com as entidades que ainda não têm arquivo (Sirius & Orion, Vinquibus, quests The Teacher/The Old Peace/Jade Shadows/Constellations etc.).
+4. ✅ Verificação: links 0 quebrados; YAML 0 erros; `rag_eval.py 5` **20/20** (12 perguntas novas para as notas deste lote); `--geral` warframes 100% · armas 99,7% · recursos 98,4%; `exportar_itens.py` → 3.277 entidades; home atualizada; `git fsck` ok.
+
+**Mudanças de ferramenta:** `rag_eval.py` agora usa índice invertido (o `--geral` roda em ~5 s em vez de >15 min, mesmo resultado). Gerador de notas desta sessão: script `mk.py` (resolve `[[?base|Alias]]` contra a lista de caminhos e escapa o pipe em tabelas) — recriar em `$HOME/w/` se precisar.
+
+**Armadilhas desta sessão:** git precisa de permissão de deleção na pasta (lock files); `nohup` em `device_bash` morre quando a chamada termina — rodar tudo em < 180 s.
+
+**Próxima fila sugerida (qualidade):** criar as entidades listadas em `_PENDENCIAS.md`; atualizar `atualizacoes_recentes.md` após a Operation Taubound (15/10/2026); curadoria de texto dos 2.653 arquivos `parcial`.
