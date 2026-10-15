@@ -1,13 +1,13 @@
 ---
 title: Sindicatos — Índice
-aliases: [Sindicatos — Índice, Sindicatos — Indice, Sindicatos  Indice]
+aliases: [Sindicatos — Índice, Sindicatos — Indice, Sindicatos  Indice, quantos sindicatos, quantas sindicatos, quantidade de sindicatos, número de sindicatos, lista de sindicatos, todos os sindicatos, todas as sindicatos, total de sindicatos]
 tipo: index
 resumo: "Sindicatos são grupos de interesse que operam pelo Sistema de Origem, separados do Corpus e do Grineer, e aliados aos Tenno."
 status: completo
 rag: true
 tags: [index, sindicato, mecanica]
 fontes: ["https://wiki.warframe.com/w/Syndicate", "https://wiki.warframe.com/w/Warframe_Augment_Mods", "https://wiki.warframe.com/w/Conclave"]
-atualizado: 2026-10-13
+atualizado: 2026-10-15
 verificado: true
 agente: opus
 total-notas: 22
@@ -20,6 +20,15 @@ total-notas: 22
 
 > [!warning] Este índice foi reescrito em 2026-10-04
 > A versão anterior continha dados incorretos (teto diário, nomes de rank, atribuição de mods, Warframes "exclusivos" e a descrição da Operational Supply) e **19 wikilinks quebrados** por falta da extensão `.md`. Tudo foi corrigido contra a wiki. Ver `_MODELOS/_STATUS_opus.md`.
+
+## 🔢 Contagem — Sindicatos — Índice
+
+Total de sindicatos no vault: **22**.
+
+| Grupo | Quantidade |
+|---|---|
+| gerais | 22 |
+| **Total** | **22** |
 
 ## O que são sindicatos — Sindicatos — Índice
 

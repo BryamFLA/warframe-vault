@@ -1,13 +1,13 @@
 ---
 title: Mods de Armas — Índice
-aliases: [Mods de Armas — Índice, Mods de Armas — Indice, Mods Armas  Indice]
+aliases: [Mods de Armas — Índice, Mods de Armas — Indice, Mods Armas  Indice, quantos mods de armas, quantas mods de armas, quantidade de mods de armas, número de mods de armas, lista de mods de armas, todos os mods de armas, todas as mods de armas, total de mods de armas]
 tipo: index
 categoria: mod-arma
 resumo: "Mods de armas modificam dano, velocidade, crítico, status e elementos de armas primárias, secundárias, brancas e archwing."
 status: completo
 rag: true
 tags: [index, mod, arma]
-atualizado: 2026-10-13
+atualizado: 2026-10-15
 agente: opus
 indices-relacionados: [_Mods _Indice, _Armas _Indice, _Armas _Brancas _Indice, _Mods Especiais _Indice]
 total-notas: 715
@@ -24,6 +24,15 @@ Mods de armas modificam **dano, velocidade, crítico, status e elementos** de ar
 
 **Slots:** 8 normais + 1 Exilus (requer Exilus Weapon Adapter) + 1 Arcane (armas com slot arcane)
 **Capacidade base:** 30 (rank 30) → 60 com Orokin Catalyst
+
+## 🔢 Contagem — Mods de Armas — Índice
+
+Total de mods de armas no vault: **715**.
+
+| Grupo | Quantidade |
+|---|---|
+| gerais | 715 |
+| **Total** | **715** |
 
 ## Combinações de Dano Elemental — Mods de Armas — Índice
 

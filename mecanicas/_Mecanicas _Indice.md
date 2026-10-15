@@ -1,12 +1,12 @@
 ---
 title: Mecânicas — Índice
-aliases: [Mecânicas — Índice, Mecanicas — Indice, Mecanicas  Indice]
+aliases: [Mecânicas — Índice, Mecanicas — Indice, Mecanicas  Indice, quantos mecânicas, quantas mecânicas, quantidade de mecânicas, número de mecânicas, lista de mecânicas, todos os mecânicas, todas as mecânicas, total de mecânicas]
 tipo: index
 resumo: "Mecânicas são os sistemas transversais do Warframe — camadas de jogo que se aplicam a todo o conteúdo independentemente de planeta, missão ou Warframe escolhido."
 status: completo
 rag: true
 tags: [index, mecanica]
-atualizado: 2026-10-13
+atualizado: 2026-10-15
 agente: opus
 total-notas: 66
 ---
@@ -15,6 +15,17 @@ total-notas: 66
 
 > [!quote]
 > *"Warframe não é um jogo que você aprende em horas. É um jogo que você aprende em anos."*
+
+## 🔢 Contagem — Mecânicas — Índice
+
+Total de mecânicas no vault: **66** — 37 gerais, 22 sindicatos, 7 eventos.
+
+| Grupo | Quantidade |
+|---|---|
+| gerais | 37 |
+| sindicatos | 22 |
+| eventos | 7 |
+| **Total** | **66** |
 
 ## O que são Mecânicas? — Mecânicas — Índice
 

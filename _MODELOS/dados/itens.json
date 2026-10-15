@@ -1,32 +1,18 @@
 [
 {
-"title": "Warframe — Segunda Mente",
-"aliases": [
-"Warframe — Segunda Mente",
-"Warframe Segunda Mente",
-"Segunda Mente",
-"Indice Raiz",
-"Index Raiz",
-"Home"
-],
-"tipo": "home",
-"resumo": "Warframe — Segunda Mente é o arquivo raiz deste vault Obsidian; ele roteia para os 23 índices por pilar (warframes, armas, mods, recursos, missões, mecânicas, locais, lore, companheiros, cosméticos) e não guarda conteúdo de jogo.",
-"status": "completo",
-"tags": [
-"home",
-"index",
-"roteamento",
-"agente"
-],
-"caminho": "_Warframe _Segunda _Mente.md",
-"id": "home:_warframe_segunda_mente"
-},
-{
 "title": "Armas — Índice",
 "aliases": [
 "Armas — Índice",
 "Armas — Indice",
-"Armas  Indice"
+"Armas  Indice",
+"quantos armas",
+"quantas armas",
+"quantidade de armas",
+"número de armas",
+"lista de armas",
+"todos os armas",
+"todas as armas",
+"total de armas"
 ],
 "tipo": "index",
 "categoria": "arma",
@@ -396,7 +382,15 @@
 "aliases": [
 "Armas Archwing — Índice",
 "Armas Archwing — Indice",
-"Armas  Archwing  Indice"
+"Armas  Archwing  Indice",
+"quantos armas archwing",
+"quantas armas archwing",
+"quantidade de armas archwing",
+"número de armas archwing",
+"lista de armas archwing",
+"todos os armas archwing",
+"todas as armas archwing",
+"total de armas archwing"
 ],
 "tipo": "index",
 "categoria": "arma-archwing",
@@ -1053,7 +1047,15 @@
 "aliases": [
 "Armas Brancas — Índice",
 "Armas Brancas — Indice",
-"Armas  Brancas  Indice"
+"Armas  Brancas  Indice",
+"quantos armas brancas",
+"quantas armas brancas",
+"quantidade de armas brancas",
+"número de armas brancas",
+"lista de armas brancas",
+"todos os armas brancas",
+"todas as armas brancas",
+"total de armas brancas"
 ],
 "tipo": "index",
 "categoria": "arma-branca",
@@ -6751,7 +6753,15 @@
 "aliases": [
 "Armas Primárias — Índice",
 "Armas Primarias — Indice",
-"Armas  Primarias  Indice"
+"Armas  Primarias  Indice",
+"quantos armas primárias",
+"quantas armas primárias",
+"quantidade de armas primárias",
+"número de armas primárias",
+"lista de armas primárias",
+"todos os armas primárias",
+"todas as armas primárias",
+"total de armas primárias"
 ],
 "tipo": "index",
 "categoria": "arma-primaria",
@@ -12192,7 +12202,15 @@
 "aliases": [
 "Armas Secundárias — Índice",
 "Armas Secundarias — Indice",
-"Armas  Secundarias  Indice"
+"Armas  Secundarias  Indice",
+"quantos armas secundárias",
+"quantas armas secundárias",
+"quantidade de armas secundárias",
+"número de armas secundárias",
+"lista de armas secundárias",
+"todos os armas secundárias",
+"todas as armas secundárias",
+"total de armas secundárias"
 ],
 "tipo": "index",
 "categoria": "arma-secundaria",
@@ -16112,7 +16130,15 @@
 "aliases": [
 "Companheiros - Índice",
 "Companheiros - Indice",
-"Companheiros  Indice"
+"Companheiros  Indice",
+"quantos companheiros",
+"quantas companheiros",
+"quantidade de companheiros",
+"número de companheiros",
+"lista de companheiros",
+"todos os companheiros",
+"todas as companheiros",
+"total de companheiros"
 ],
 "tipo": "index",
 "resumo": "Companheiros - Índice — nao-obtido · incubado · maximizado · vendido.",
@@ -16834,7 +16860,15 @@
 "aliases": [
 "Cosméticos - Índice",
 "Cosmeticos - Indice",
-"Cosmeticos  Indice"
+"Cosmeticos  Indice",
+"quantos cosméticos",
+"quantas cosméticos",
+"quantidade de cosméticos",
+"número de cosméticos",
+"lista de cosméticos",
+"todos os cosméticos",
+"todas as cosméticos",
+"total de cosméticos"
 ],
 "tipo": "index",
 "resumo": "Cosméticos - Índice — Warframe tem um dos sistemas de customização visual mais abrangentes entre jogos live-service.",
@@ -17015,7 +17049,15 @@
 "aliases": [
 "Locais — Índice",
 "Locais — Indice",
-"Locais  Indice"
+"Locais  Indice",
+"quantos locais",
+"quantas locais",
+"quantidade de locais",
+"número de locais",
+"lista de locais",
+"todos os locais",
+"todas as locais",
+"total de locais"
 ],
 "tipo": "index",
 "resumo": "Locais — Índice — O Sistema Origem é o nome dado ao Sistema Solar no universo de Warframe — o palco de todas as guerras, descobertas e tragédias que compõem a narrativa do jogo.",
@@ -17563,7 +17605,15 @@
 "aliases": [
 "Lore — Índice",
 "Lore — Indice",
-"Lore  Indice"
+"Lore  Indice",
+"quantos lore",
+"quantas lore",
+"quantidade de lore",
+"número de lore",
+"lista de lore",
+"todos os lore",
+"todas as lore",
+"total de lore"
 ],
 "tipo": "index",
 "resumo": "Lore — Índice — Quatro pastas: facções (quem existe e qual elemento usar), cronologia (o que aconteceu e em que ordem), personagens (quem causou) e chefes (como derrotar).",
@@ -17580,7 +17630,15 @@
 "aliases": [
 "Chefes — Índice",
 "Chefes — Indice",
-"Chefes  Indice"
+"Chefes  Indice",
+"quantos chefes",
+"quantas chefes",
+"quantidade de chefes",
+"número de chefes",
+"lista de chefes",
+"todos os chefes",
+"todas as chefes",
+"total de chefes"
 ],
 "tipo": "index",
 "resumo": "29 chefes.",
@@ -18243,7 +18301,15 @@
 "aliases": [
 "Facções — Índice",
 "Faccoes — Indice",
-"Faccoes  Indice"
+"Faccoes  Indice",
+"quantos facções",
+"quantas facções",
+"quantidade de facções",
+"número de facções",
+"lista de facções",
+"todos os facções",
+"todas as facções",
+"total de facções"
 ],
 "tipo": "index",
 "resumo": "Oito facções documentadas: três que você enfrenta todo dia (Grineer, Corpus, Infested), três que explicam a história (Orokin, Sentient, Tenno) e duas de nicho (Dax, The Murmur).",
@@ -18405,7 +18471,15 @@
 "aliases": [
 "Personagens — Índice",
 "Personagens — Indice",
-"Personagens  Indice"
+"Personagens  Indice",
+"quantos personagens",
+"quantas personagens",
+"quantidade de personagens",
+"número de personagens",
+"lista de personagens",
+"todos os personagens",
+"todas as personagens",
+"total de personagens"
 ],
 "tipo": "index",
 "resumo": "26 personagens: o núcleo narrativo que explica por que o Sistema de Origem está do jeito que está, a família Entrati, os Cephalons, e os NPCs que você usa como loja todo dia.",
@@ -18895,7 +18969,15 @@
 "aliases": [
 "Mecânicas — Índice",
 "Mecanicas — Indice",
-"Mecanicas  Indice"
+"Mecanicas  Indice",
+"quantos mecânicas",
+"quantas mecânicas",
+"quantidade de mecânicas",
+"número de mecânicas",
+"lista de mecânicas",
+"todos os mecânicas",
+"todas as mecânicas",
+"total de mecânicas"
 ],
 "tipo": "index",
 "resumo": "Mecânicas são os sistemas transversais do Warframe — camadas de jogo que se aplicam a todo o conteúdo independentemente de planeta, missão ou Warframe escolhido.",
@@ -19311,7 +19393,15 @@
 "aliases": [
 "Eventos — Índice",
 "Eventos — Indice",
-"Eventos  Indice"
+"Eventos  Indice",
+"quantos eventos",
+"quantas eventos",
+"quantidade de eventos",
+"número de eventos",
+"lista de eventos",
+"todos os eventos",
+"todas as eventos",
+"total de eventos"
 ],
 "tipo": "index",
 "resumo": "Os eventos recorrentes do Warframe: dois de calendário fixo (Anniversary em março, Tennobaum em dezembro, Naberus em outubro) e quatro que voltam por world state ou por ciclo de Invasion.",
@@ -19991,7 +20081,15 @@
 "aliases": [
 "Sindicatos — Índice",
 "Sindicatos — Indice",
-"Sindicatos  Indice"
+"Sindicatos  Indice",
+"quantos sindicatos",
+"quantas sindicatos",
+"quantidade de sindicatos",
+"número de sindicatos",
+"lista de sindicatos",
+"todos os sindicatos",
+"todas as sindicatos",
+"total de sindicatos"
 ],
 "tipo": "index",
 "resumo": "Sindicatos são grupos de interesse que operam pelo Sistema de Origem, separados do Corpus e do Grineer, e aliados aos Tenno.",
@@ -20562,7 +20660,15 @@
 "aliases": [
 "Missões — Índice",
 "Missoes — Indice",
-"Missoes  Indice"
+"Missoes  Indice",
+"quantos missões",
+"quantas missões",
+"quantidade de missões",
+"número de missões",
+"lista de missões",
+"todos os missões",
+"todas as missões",
+"total de missões"
 ],
 "tipo": "index",
 "resumo": "Missões são a unidade fundamental de jogo no Warframe.",
@@ -20655,7 +20761,15 @@
 "ordem das quests",
 "ordem da história",
 "quests principais",
-"quests secundárias"
+"quests secundárias",
+"quantos jornadas (quests)",
+"quantas jornadas (quests)",
+"quantidade de jornadas (quests)",
+"número de jornadas (quests)",
+"lista de jornadas (quests)",
+"todos os jornadas (quests)",
+"todas as jornadas (quests)",
+"total de jornadas (quests)"
 ],
 "tipo": "index",
 "resumo": "Índice de todas as quests do Warframe na ordem oficial dos arcos: Arco 1 (Awakening→The Archwing), Arco 2 (Natah→The Sacrifice), Arco 3 (Prelude to War→The Duviri Paradox), Arco 4 Void War Saga (Whispers in the Walls→Jade Shadows: Constellations), mais quests secundárias e de Warframe.",
@@ -22773,7 +22887,15 @@
 "aliases": [
 "Mods — Índice",
 "Mods — Indice",
-"Mods  Indice"
+"Mods  Indice",
+"quantos mods",
+"quantas mods",
+"quantidade de mods",
+"número de mods",
+"lista de mods",
+"todos os mods",
+"todas as mods",
+"total de mods"
 ],
 "tipo": "index",
 "categoria": "mod",
@@ -25779,7 +25901,15 @@
 "aliases": [
 "Mods de Armas — Índice",
 "Mods de Armas — Indice",
-"Mods Armas  Indice"
+"Mods Armas  Indice",
+"quantos mods de armas",
+"quantas mods de armas",
+"quantidade de mods de armas",
+"número de mods de armas",
+"lista de mods de armas",
+"todos os mods de armas",
+"todas as mods de armas",
+"total de mods de armas"
 ],
 "tipo": "index",
 "categoria": "mod-arma",
@@ -40820,7 +40950,15 @@
 "aliases": [
 "Mods de Companheiros — Índice",
 "Mods de Companheiros — Indice",
-"Mods Companheiros  Indice"
+"Mods Companheiros  Indice",
+"quantos mods de companheiros",
+"quantas mods de companheiros",
+"quantidade de mods de companheiros",
+"número de mods de companheiros",
+"lista de mods de companheiros",
+"todos os mods de companheiros",
+"todas as mods de companheiros",
+"total de mods de companheiros"
 ],
 "tipo": "index",
 "categoria": "mod-companheiro",
@@ -42714,7 +42852,15 @@
 "aliases": [
 "Mods Especiais — Índice",
 "Mods Especiais — Indice",
-"Mods Especiais  Indice"
+"Mods Especiais  Indice",
+"quantos mods especiais",
+"quantas mods especiais",
+"quantidade de mods especiais",
+"número de mods especiais",
+"lista de mods especiais",
+"todos os mods especiais",
+"todas as mods especiais",
+"total de mods especiais"
 ],
 "tipo": "index",
 "categoria": "mod-especial",
@@ -47902,7 +48048,15 @@
 "aliases": [
 "Mods de Warframe — Índice",
 "Mods de Warframe — Indice",
-"Mods Warframe  Indice"
+"Mods Warframe  Indice",
+"quantos mods de warframe",
+"quantas mods de warframe",
+"quantidade de mods de warframe",
+"número de mods de warframe",
+"lista de mods de warframe",
+"todos os mods de warframe",
+"todas as mods de warframe",
+"total de mods de warframe"
 ],
 "tipo": "index",
 "categoria": "mod-warframe",
@@ -56653,7 +56807,15 @@
 "aliases": [
 "Recursos — Índice",
 "Recursos — Indice",
-"Recursos  Indice"
+"Recursos  Indice",
+"quantos recursos",
+"quantas recursos",
+"quantidade de recursos",
+"número de recursos",
+"lista de recursos",
+"todos os recursos",
+"todas as recursos",
+"total de recursos"
 ],
 "tipo": "index",
 "categoria": "recurso",
@@ -65936,7 +66098,15 @@
 "aliases": [
 "Warframes — Índice",
 "Warframes — Indice",
-"Warframes  Indice"
+"Warframes  Indice",
+"quantos warframes",
+"quantas warframes",
+"quantidade de warframes",
+"número de warframes",
+"lista de warframes",
+"todos os warframes",
+"todas as warframes",
+"total de warframes"
 ],
 "tipo": "index",
 "categoria": "warframe",

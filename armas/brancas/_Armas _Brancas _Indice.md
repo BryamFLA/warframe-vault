@@ -1,13 +1,13 @@
 ---
 title: Armas Brancas — Índice
-aliases: [Armas Brancas — Índice, Armas Brancas — Indice, Armas  Brancas  Indice]
+aliases: [Armas Brancas — Índice, Armas Brancas — Indice, Armas  Brancas  Indice, quantos armas brancas, quantas armas brancas, quantidade de armas brancas, número de armas brancas, lista de armas brancas, todos os armas brancas, todas as armas brancas, total de armas brancas]
 tipo: index
 categoria: arma-branca
 resumo: Armas brancas (melee) são o slot de combate corpo-a-corpo do Tenno.
 status: completo
 rag: true
 tags: [index, arma, branca, melee]
-atualizado: 2026-10-13
+atualizado: 2026-10-15
 agente: opus
 total-brancas: 135
 indices-relacionados: [_Armas _Indice, _Mods Armas _Indice, _Mods _Indice]
@@ -24,6 +24,15 @@ total-notas: 226
 Armas brancas (melee) são o slot de combate corpo-a-corpo do Tenno. São as armas com mecânicas mais profundas do jogo — **stances** que substituem completamente os ataques básicos, um **combo counter** que amplifica o dano progressivamente e **heavy attacks** devastadores que consomem o contador acumulado.
 
 **Slot:** Melee · **Mods:** 8 slots + slot de Stance (exclusivo) + Exilus (com adaptador)
+
+## 🔢 Contagem — Armas Brancas — Índice
+
+Total de armas brancas no vault: **226**.
+
+| Grupo | Quantidade |
+|---|---|
+| gerais | 226 |
+| **Total** | **226** |
 
 ## Sistema de Stances — Armas Brancas — Índice
 

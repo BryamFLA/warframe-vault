@@ -1,13 +1,13 @@
 ---
 title: Armas Primárias — Índice
-aliases: [Armas Primárias — Índice, Armas Primarias — Indice, Armas  Primarias  Indice]
+aliases: [Armas Primárias — Índice, Armas Primarias — Indice, Armas  Primarias  Indice, quantos armas primárias, quantas armas primárias, quantidade de armas primárias, número de armas primárias, lista de armas primárias, todos os armas primárias, todas as armas primárias, total de armas primárias]
 tipo: index
 categoria: arma-primaria
 resumo: Armas primárias ocupam o slot principal do Tenno e são a primeira linha de combate à distância.
 status: completo
 rag: true
 tags: [index, arma, primaria]
-atualizado: 2026-10-13
+atualizado: 2026-10-15
 agente: opus
 total-primarias: 129
 indices-relacionados: [_Armas _Indice, _Mods Armas _Indice, _Recursos _Indice, _Locais _Indice]
@@ -24,6 +24,15 @@ total-notas: 197
 Armas primárias ocupam o slot principal do Tenno e são a primeira linha de combate à distância. São as armas com maior variedade de mecânicas do jogo — de rifles automáticos a arcos de carga, lança-chamas, snipers e lançadores de projéteis explosivos.
 
 **Slot:** Primário · **Mods:** 8 slots + Exilus (com adaptador) + Arcane (com adaptador)
+
+## 🔢 Contagem — Armas Primárias — Índice
+
+Total de armas primárias no vault: **197**.
+
+| Grupo | Quantidade |
+|---|---|
+| gerais | 197 |
+| **Total** | **197** |
 
 ## Modos de Disparo — Armas Primárias — Índice
 

@@ -1,12 +1,12 @@
 ---
 title: Missões — Índice
-aliases: [Missões — Índice, Missoes — Indice, Missoes  Indice]
+aliases: [Missões — Índice, Missoes — Indice, Missoes  Indice, quantos missões, quantas missões, quantidade de missões, número de missões, lista de missões, todos os missões, todas as missões, total de missões]
 tipo: index
 resumo: Missões são a unidade fundamental de jogo no Warframe.
 status: completo
 rag: true
 tags: [index, missao]
-atualizado: 2026-10-13
+atualizado: 2026-10-15
 agente: opus
 total-notas: 110
 ---
@@ -15,6 +15,18 @@ total-notas: 110
 
 > [!quote]
 > *"Cada missão é um contrato. Cada contrato, uma oportunidade de crescer."*
+
+## 🔢 Contagem — Missões — Índice
+
+Total de missões no vault: **110** — 45 jornadas, 43 tipos, 18 juncoes, 4 bounties.
+
+| Grupo | Quantidade |
+|---|---|
+| jornadas | 45 |
+| tipos | 43 |
+| juncoes | 18 |
+| bounties | 4 |
+| **Total** | **110** |
 
 ## O que são Missões? — Missões — Índice
 

@@ -1,13 +1,13 @@
 ---
 title: Mods — Índice
-aliases: [Mods — Índice, Mods — Indice, Mods  Indice]
+aliases: [Mods — Índice, Mods — Indice, Mods  Indice, quantos mods, quantas mods, quantidade de mods, número de mods, lista de mods, todos os mods, todas as mods, total de mods]
 tipo: index
 categoria: mod
 resumo: Mods são o sistema central de progressão e customização do Warframe.
 status: completo
 rag: true
 tags: [index, mod]
-atualizado: 2026-10-13
+atualizado: 2026-10-15
 agente: opus
 indices-relacionados: [_Mods Warframe _Indice, _Mods Armas _Indice, _Mods Companheiros _Indice, _Mods Especiais _Indice, _Warframes _Indice, _Armas _Indice, _Companheiros _Indice]
 total-notas: 1620
@@ -23,6 +23,19 @@ total-notas: 1620
 Mods são o **sistema central de progressão e customização** do Warframe. Cada mod é um cartão equipável que modifica atributos de Warframes, armas ou companheiros — aumentando dano, defesa, velocidade de habilidades, alcance e dezenas de outros parâmetros. Sem mods, um Warframe é apenas uma casca; com o conjunto certo, o mesmo frame pode ter desempenhos radicalmente diferentes dependendo do conteúdo.
 
 Mods são obtidos de diversas fontes: drops de inimigos, recompensas de missão, sindicatos, Nightwave e vendedores especiais. Cada mod tem um **custo de capacidade** que consome o pool de mod capacity do equipamento — e pode ser rankiado com **Endo** e **Créditos** para aumentar seus efeitos (e custo) simultaneamente.
+
+## 🔢 Contagem — Mods — Índice
+
+Total de mods no vault: **1454** — 715 mods de armas, 405 mods de Warframe, 245 mods especiais, 89 mods de companheiros. Além disso, **166 Arcanes** (não são mods, mas ficam nesta seção do vault).
+
+| Grupo | Quantidade |
+|---|---|
+| mods de armas | 715 |
+| mods de Warframe | 405 |
+| mods especiais | 245 |
+| Arcanes | 166 |
+| mods de companheiros | 89 |
+| **Total** | **1620** |
 
 ## Como Adquirir — Mods — Índice
 

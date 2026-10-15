@@ -1,13 +1,13 @@
 ---
 title: Armas Secundárias — Índice
-aliases: [Armas Secundárias — Índice, Armas Secundarias — Indice, Armas  Secundarias  Indice]
+aliases: [Armas Secundárias — Índice, Armas Secundarias — Indice, Armas  Secundarias  Indice, quantos armas secundárias, quantas armas secundárias, quantidade de armas secundárias, número de armas secundárias, lista de armas secundárias, todos os armas secundárias, todas as armas secundárias, total de armas secundárias]
 tipo: index
 categoria: arma-secundaria
 resumo: Armas secundárias ocupam o slot de pistola do Tenno.
 status: completo
 rag: true
 tags: [index, arma, secundaria]
-atualizado: 2026-10-13
+atualizado: 2026-10-15
 agente: opus
 total-secundarias: 93
 indices-relacionados: [_Armas _Indice, _Mods Armas _Indice, _Recursos _Indice, _Locais _Indice]
@@ -24,6 +24,15 @@ total-notas: 156
 Armas secundárias ocupam o slot de pistola do Tenno. São mais compactas que as primárias mas cobrem funções diversas — pistolas de precisão, armas de arremesso, espingardas secundárias, kits modulares e canhões de braço.
 
 **Slot:** Secundário · **Mods:** 8 slots + Exilus (com adaptador) + Arcane (com adaptador)
+
+## 🔢 Contagem — Armas Secundárias — Índice
+
+Total de armas secundárias no vault: **156**.
+
+| Grupo | Quantidade |
+|---|---|
+| gerais | 156 |
+| **Total** | **156** |
 
 ## Sistema Kitgun — Armas Secundárias — Índice
 

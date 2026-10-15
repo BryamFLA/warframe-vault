@@ -1,13 +1,13 @@
 ---
 title: Lore — Índice
-aliases: [Lore — Índice, Lore — Indice, Lore  Indice]
+aliases: [Lore — Índice, Lore — Indice, Lore  Indice, quantos lore, quantas lore, quantidade de lore, número de lore, lista de lore, todos os lore, todas as lore, total de lore]
 tipo: index
 resumo: "Lore — Índice — Quatro pastas: facções (quem existe e qual elemento usar), cronologia (o que aconteceu e em que ordem), personagens (quem causou) e chefes (como derrotar)."
 status: completo
 rag: true
 tags: [index, lore]
 fontes: ["https://wiki.warframe.com/w/Lore"]
-atualizado: 2026-10-13
+atualizado: 2026-10-15
 verificado: true
 agente: opus
 total-notas: 69
@@ -17,6 +17,18 @@ total-notas: 69
 
 > [!info] Em uma linha
 > Quatro pastas: **facções** (quem existe e qual elemento usar), **cronologia** (o que aconteceu e em que ordem), **personagens** (quem causou) e **chefes** (como derrotar).
+
+## 🔢 Contagem — Lore — Índice
+
+Total de lore no vault: **69** — 28 chefes, 26 personagens, 8 faccoes, 7 cronologia.
+
+| Grupo | Quantidade |
+|---|---|
+| chefes | 28 |
+| personagens | 26 |
+| faccoes | 8 |
+| cronologia | 7 |
+| **Total** | **69** |
 
 ## Por onde começar — Lore — Índice
 

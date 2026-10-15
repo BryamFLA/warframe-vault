@@ -1,12 +1,12 @@
 ---
 title: Locais — Índice
-aliases: [Locais — Índice, Locais — Indice, Locais  Indice]
+aliases: [Locais — Índice, Locais — Indice, Locais  Indice, quantos locais, quantas locais, quantidade de locais, número de locais, lista de locais, todos os locais, todas as locais, total de locais]
 tipo: index
 resumo: "Locais — Índice — O Sistema Origem é o nome dado ao Sistema Solar no universo de Warframe — o palco de todas as guerras, descobertas e tragédias que compõem a narrativa do jogo."
 status: completo
 rag: true
 tags: [index, local]
-atualizado: 2026-10-13
+atualizado: 2026-10-15
 agente: opus
 total-notas: 25
 ---
@@ -15,6 +15,17 @@ total-notas: 25
 
 > [!quote]
 > *"O Sistema Origem é vasto. E cada canto dele ainda sangra."*
+
+## 🔢 Contagem — Locais — Índice
+
+Total de locais no vault: **25** — 19 planetas, 5 open-worlds, 1 gerais.
+
+| Grupo | Quantidade |
+|---|---|
+| planetas | 19 |
+| open-worlds | 5 |
+| gerais | 1 |
+| **Total** | **25** |
 
 ## O Sistema Origem — Locais — Índice
 

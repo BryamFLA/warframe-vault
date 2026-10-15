@@ -1,13 +1,13 @@
 ---
 title: Mods de Companheiros — Índice
-aliases: [Mods de Companheiros — Índice, Mods de Companheiros — Indice, Mods Companheiros  Indice]
+aliases: [Mods de Companheiros — Índice, Mods de Companheiros — Indice, Mods Companheiros  Indice, quantos mods de companheiros, quantas mods de companheiros, quantidade de mods de companheiros, número de mods de companheiros, lista de mods de companheiros, todos os mods de companheiros, todas as mods de companheiros, total de mods de companheiros]
 tipo: index
 categoria: mod-companheiro
 resumo: "Mods de companheiros modificam os atributos e comportamentos de Sentinels, Kavats, Kubrows, MOAs e Hounds."
 status: completo
 rag: true
 tags: [index, mod, companheiro]
-atualizado: 2026-10-13
+atualizado: 2026-10-15
 agente: opus
 indices-relacionados: [_Mods _Indice, _Companheiros _Indice]
 total-notas: 89
@@ -24,6 +24,15 @@ Mods de companheiros modificam os **atributos e comportamentos** de Sentinels, K
 
 **Slots:** 8 slots normais (companheiro) + 10 slots de arma do companheiro
 **Capacidade base:** 30 → 60 com Orokin Reactor (companheiro) ou Orokin Catalyst (arma do companheiro)
+
+## 🔢 Contagem — Mods de Companheiros — Índice
+
+Total de mods de companheiros no vault: **89**.
+
+| Grupo | Quantidade |
+|---|---|
+| gerais | 89 |
+| **Total** | **89** |
 
 ## Precept Mods — Mods de Companheiros — Índice
 

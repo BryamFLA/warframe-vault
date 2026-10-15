@@ -30,7 +30,7 @@ Cada pasta tem um índice `_<Pasta> _Indice.md` gerado automaticamente.
 | `_CONVENCOES.md` + `MODELO_*.md` | Padrão obrigatório de escrita (frontmatter, headings com o nome da entidade, wikilinks com caminho completo) |
 | `dados/itens.json` | Todas as entidades com `id`, `title`, `aliases`, `caminho`… **O agente usa este arquivo** para reconhecer nomes. Regenere sempre que criar/renomear notas |
 | `exportar_itens.py` | Regenera `dados/itens.json` |
-| `gerador/` | Scripts: `indices.py` (índices), `links.py` (valida/corrige links), `itens_local.py all --write` (listas de itens dos hubs), `gen_*`/`enrich_*` (notas a partir dos módulos de dados da wiki; baixe os dados com `fetch_all.py`) |
+| `gerador/` | Scripts: `indices.py` (índices), `contagens.py` (seção 🔢 Contagem dos índices: "quantos warframes tem?"), `links.py` (valida/corrige links), `itens_local.py all --write` (listas de itens dos hubs), `gen_*`/`enrich_*` (notas a partir dos módulos de dados da wiki; baixe os dados com `fetch_all.py`) |
 | `rag_core.py`, `rag_eval.py`, `rag_eval2.py` | Testes de busca. Rode depois de mudanças grandes: `python3 _MODELOS/rag_eval.py 5`, `python3 _MODELOS/rag_eval.py 5 --geral`, `python3 _MODELOS/rag_eval2.py` |
 | `MODELO_inventario_jogador.md`, `GUIA_RECOMENDACAO_IA.md` | Formato do inventário do jogador e regras para a IA recomendar ações |
 | `_PENDENCIAS.md`, `_STATUS_opus.md` | O que falta e histórico do trabalho |
@@ -38,6 +38,6 @@ Cada pasta tem um índice `_<Pasta> _Indice.md` gerado automaticamente.
 ## Rotina de atualização (ex.: novo update do jogo)
 
 1. Escreva/atualize as notas seguindo `_CONVENCOES.md` e o `MODELO_*.md` da pasta; fonte: wiki.warframe.com.
-2. `python3 _MODELOS/exportar_itens.py` → `python3 _MODELOS/gerador/indices.py` → `python3 _MODELOS/gerador/itens_local.py all --write`.
+2. `python3 _MODELOS/exportar_itens.py` → `python3 _MODELOS/gerador/indices.py` → `python3 _MODELOS/gerador/contagens.py` → `python3 _MODELOS/exportar_itens.py` → `python3 _MODELOS/gerador/itens_local.py all --write`.
 3. `python3 _MODELOS/gerador/links.py` (0 quebrados) e os testes de busca acima.
 4. Commit e push. No Mac, reinicie a API do agente para ele reler o vault.

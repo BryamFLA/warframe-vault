@@ -1,12 +1,12 @@
 ---
 title: Companheiros - Índice
-aliases: [Companheiros - Índice, Companheiros - Indice, Companheiros  Indice]
+aliases: [Companheiros - Índice, Companheiros - Indice, Companheiros  Indice, quantos companheiros, quantas companheiros, quantidade de companheiros, número de companheiros, lista de companheiros, todos os companheiros, todas as companheiros, total de companheiros]
 tipo: index
 resumo: Companheiros - Índice — nao-obtido · incubado · maximizado · vendido.
 status: completo
 rag: true
 tags: [index, companheiro]
-atualizado: 2026-10-13
+atualizado: 2026-10-15
 agente: opus
 total-companheiros: 45
 total-sentinels: 16
@@ -21,6 +21,19 @@ total-notas: 41
 
 > [!quote]
 > *"Um Tenno nunca luta verdadeiramente sozinho."*
+
+## 🔢 Contagem — Companheiros - Índice
+
+Total de companheiros no vault: **41** — 17 sentinel, 11 kavat, 6 kubrow, 4 moa, 3 hound.
+
+| Grupo | Quantidade |
+|---|---|
+| sentinel | 17 |
+| kavat | 11 |
+| kubrow | 6 |
+| moa | 4 |
+| hound | 3 |
+| **Total** | **41** |
 
 ## O que são Companheiros? — Companheiros - Índice
 

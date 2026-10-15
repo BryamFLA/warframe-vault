@@ -1,13 +1,13 @@
 ---
 title: Armas Archwing — Índice
-aliases: [Armas Archwing — Índice, Armas Archwing — Indice, Armas  Archwing  Indice]
+aliases: [Armas Archwing — Índice, Armas Archwing — Indice, Armas  Archwing  Indice, quantos armas archwing, quantas armas archwing, quantidade de armas archwing, número de armas archwing, lista de armas archwing, todos os armas archwing, todas as armas archwing, total de armas archwing]
 tipo: index
 categoria: arma-archwing
 resumo: "Armas Archwing são equipamentos exclusivos para combate espacial e atmosférico, equipados no exoesqueleto Archwing."
 status: completo
 rag: true
 tags: [index, arma, archwing]
-atualizado: 2026-10-13
+atualizado: 2026-10-15
 agente: opus
 total-archwing: 23
 indices-relacionados: [_Armas _Indice, _Mods _Indice, _Locais _Indice]
@@ -26,6 +26,15 @@ Armas Archwing são equipamentos exclusivos para combate espacial e atmosférico
 **Slot Arch-Gun:** Slot de arma principal do Archwing
 **Slot Arch-Melee:** Slot melee exclusivo do Archwing
 **Mods:** 8 slots exclusivos — mods de Arch-Gun ou Arch-Melee (não compartilhados com armas terrestres)
+
+## 🔢 Contagem — Armas Archwing — Índice
+
+Total de armas archwing no vault: **28**.
+
+| Grupo | Quantidade |
+|---|---|
+| gerais | 28 |
+| **Total** | **28** |
 
 ## Modos de Uso — Armas Archwing — Índice
 

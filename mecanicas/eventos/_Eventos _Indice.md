@@ -1,13 +1,13 @@
 ---
 title: Eventos — Índice
-aliases: [Eventos — Índice, Eventos — Indice, Eventos  Indice]
+aliases: [Eventos — Índice, Eventos — Indice, Eventos  Indice, quantos eventos, quantas eventos, quantidade de eventos, número de eventos, lista de eventos, todos os eventos, todas as eventos, total de eventos]
 tipo: index
 resumo: "Os eventos recorrentes do Warframe: dois de calendário fixo (Anniversary em março, Tennobaum em dezembro, Naberus em outubro) e quatro que voltam por world state ou por ciclo de Invasion."
 status: completo
 rag: true
 tags: [index, evento, mecanica]
 fontes: ["https://wiki.warframe.com/w/Operation:_Plague_Star"]
-atualizado: 2026-10-13
+atualizado: 2026-10-15
 verificado: true
 agente: opus
 total-notas: 7
@@ -17,6 +17,15 @@ total-notas: 7
 
 > [!info] Em uma linha
 > Os eventos **recorrentes** do Warframe: dois de calendário fixo (Anniversary em março, Tennobaum em dezembro, Naberus em outubro) e quatro que voltam por world state ou por ciclo de Invasion.
+
+## 🔢 Contagem — Eventos — Índice
+
+Total de eventos no vault: **7**.
+
+| Grupo | Quantidade |
+|---|---|
+| gerais | 7 |
+| **Total** | **7** |
 
 ## Como pensar os eventos — Eventos — Índice
 

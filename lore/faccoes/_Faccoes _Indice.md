@@ -1,13 +1,13 @@
 ---
 title: Facções — Índice
-aliases: [Facções — Índice, Faccoes — Indice, Faccoes  Indice]
+aliases: [Facções — Índice, Faccoes — Indice, Faccoes  Indice, quantos facções, quantas facções, quantidade de facções, número de facções, lista de facções, todos os facções, todas as facções, total de facções]
 tipo: index
 resumo: "Oito facções documentadas: três que você enfrenta todo dia (Grineer, Corpus, Infested), três que explicam a história (Orokin, Sentient, Tenno) e duas de nicho (Dax, The Murmur)."
 status: completo
 rag: true
 tags: [index, lore, faccao]
 fontes: ["https://wiki.warframe.com/w/Factions", "https://wiki.warframe.com/w/Damage_2.0/Overview_Table"]
-atualizado: 2026-10-13
+atualizado: 2026-10-15
 verificado: true
 agente: opus
 total-notas: 8
@@ -17,6 +17,15 @@ total-notas: 8
 
 > [!info] Em uma linha
 > Oito facções documentadas: três que você enfrenta todo dia (Grineer, Corpus, Infested), três que explicam a história (Orokin, Sentient, Tenno) e duas de nicho (Dax, The Murmur).
+
+## 🔢 Contagem — Facções — Índice
+
+Total de facções no vault: **8**.
+
+| Grupo | Quantidade |
+|---|---|
+| gerais | 8 |
+| **Total** | **8** |
 
 ## A pergunta que todo mundo faz primeiro: qual elemento eu uso? — Facções — Índice
 

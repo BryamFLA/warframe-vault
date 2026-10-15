@@ -1,13 +1,13 @@
 ---
 title: Jornadas (Quests) — Índice
-aliases: [Quests, Jornadas, lista de quests, ordem das quests, ordem da história, quests principais, quests secundárias]
+aliases: [Quests, Jornadas, lista de quests, ordem das quests, ordem da história, quests principais, quests secundárias, quantos jornadas (quests), quantas jornadas (quests), quantidade de jornadas (quests), número de jornadas (quests), lista de jornadas (quests), todos os jornadas (quests), todas as jornadas (quests), total de jornadas (quests)]
 tipo: index
 resumo: "Índice de todas as quests do Warframe na ordem oficial dos arcos: Arco 1 (Awakening→The Archwing), Arco 2 (Natah→The Sacrifice), Arco 3 (Prelude to War→The Duviri Paradox), Arco 4 Void War Saga (Whispers in the Walls→Jade Shadows: Constellations), mais quests secundárias e de Warframe."
 status: completo
 rag: true
 tags: [index, missao, quest, jornada]
 fontes: ["https://wiki.warframe.com/w/Quest"]
-atualizado: 2026-10-13
+atualizado: 2026-10-15
 agente: opus
 total-notas: 45
 ---
@@ -16,6 +16,16 @@ total-notas: 45
 
 > [!info] Resumo
 > Todas as quests, na ordem oficial dos arcos da wiki. As **principais** contam a história central; as **secundárias** revelam lore e liberam recursos (ex.: Incubadora); as **de Warframe** dão blueprints. Para a história completa em ordem, ver [[lore/cronologia/cronologia.md|Cronologia]].
+
+## 🔢 Contagem — Jornadas (Quests) — Índice
+
+Total de jornadas (quests) no vault: **45** — 31 principais, 14 secundárias.
+
+| Grupo | Quantidade |
+|---|---|
+| principais | 31 |
+| secundárias | 14 |
+| **Total** | **45** |
 
 ## 🧭 Ordem das Quests Principais — Jornadas (Quests) — Índice
 

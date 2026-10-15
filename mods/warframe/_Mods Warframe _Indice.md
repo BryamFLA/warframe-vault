@@ -1,13 +1,13 @@
 ---
 title: Mods de Warframe — Índice
-aliases: [Mods de Warframe — Índice, Mods de Warframe — Indice, Mods Warframe  Indice]
+aliases: [Mods de Warframe — Índice, Mods de Warframe — Indice, Mods Warframe  Indice, quantos mods de warframe, quantas mods de warframe, quantidade de mods de warframe, número de mods de warframe, lista de mods de warframe, todos os mods de warframe, todas as mods de warframe, total de mods de warframe]
 tipo: index
 categoria: mod-warframe
 resumo: Mods de Warframe modificam as habilidades e atributos base do frame.
 status: completo
 rag: true
 tags: [index, mod, warframe]
-atualizado: 2026-10-13
+atualizado: 2026-10-15
 agente: opus
 indices-relacionados: [_Mods _Indice, _Warframes _Indice, _Mods Especiais _Indice]
 total-notas: 405
@@ -24,6 +24,15 @@ Mods de Warframe modificam as **habilidades e atributos base** do frame. Cada fr
 
 **Slots:** 8 normais + 1 Aura + 1 Exilus (requer Warframe Exilus Adapter)
 **Capacidade base:** 30 (rank 30) → 60 com Orokin Reactor
+
+## 🔢 Contagem — Mods de Warframe — Índice
+
+Total de mods de warframe no vault: **405**.
+
+| Grupo | Quantidade |
+|---|---|
+| gerais | 405 |
+| **Total** | **405** |
 
 ## Os 4 Pilares de Build — Mods de Warframe — Índice
 

@@ -1,13 +1,13 @@
 ---
 title: Recursos — Índice
-aliases: [Recursos — Índice, Recursos — Indice, Recursos  Indice]
+aliases: [Recursos — Índice, Recursos — Indice, Recursos  Indice, quantos recursos, quantas recursos, quantidade de recursos, número de recursos, lista de recursos, todos os recursos, todas as recursos, total de recursos]
 tipo: index
 categoria: recurso
 resumo: "Recursos são materiais coletados em missões e usados na Fundição para craftar Warframes, armas, componentes e itens de progressão."
 status: completo
 rag: true
 tags: [index, recurso]
-atualizado: 2026-10-13
+atualizado: 2026-10-15
 agente: opus
 total-recursos: 147
 indices-relacionados: ["[[warframes/_Warframes _Indice.md| Warframes  Indice]]", "[[armas/_Armas _Indice.md| Armas  Indice]]", "[[missoes/_Missoes _Indice.md| Missoes  Indice]]", "[[locais/_Locais _Indice.md| Locais  Indice]]", "[[mecanicas/_Mecanicas _Indice.md| Mecanicas  Indice]]"]
@@ -24,6 +24,23 @@ total-notas: 565
 Recursos são materiais coletados em missões e usados na **Fundição** para craftar Warframes, armas, componentes e itens de progressão. Cada recurso tem origem específica — planeta, facção ou modo de jogo — e uma raridade que determina com que frequência dropa.
 
 O loop de progressão depende diretamente dos recursos: toda peça craftável exige uma combinação específica, e receitas avançadas frequentemente pedem materiais de várias regiões diferentes. Recursos são coletados automaticamente ao passar sobre eles no mapa. Cada planeta tem um conjunto de recursos nativos com drop mais frequente, mais um pool de raros compartilhados. Alguns recursos especiais só existem em sistemas específicos — Open Worlds, Nightwave, Sorties — e não aparecem em missões convencionais.
+
+## 🔢 Contagem — Recursos — Índice
+
+Total de recursos no vault: **565** — 279 raridades, 75 open_worlds, 75 peixes, 38 mineracao, 36 componentes, 27 moedas, 13 plantas, 11 chaves, 11 railjack.
+
+| Grupo | Quantidade |
+|---|---|
+| raridades | 279 |
+| open_worlds | 75 |
+| peixes | 75 |
+| mineracao | 38 |
+| componentes | 36 |
+| moedas | 27 |
+| plantas | 13 |
+| chaves | 11 |
+| railjack | 11 |
+| **Total** | **565** |
 
 ## Como Farmar — Recursos — Índice
 

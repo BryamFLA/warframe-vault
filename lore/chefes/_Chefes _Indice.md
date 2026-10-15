@@ -1,13 +1,13 @@
 ---
 title: Chefes — Índice
-aliases: [Chefes — Índice, Chefes — Indice, Chefes  Indice]
+aliases: [Chefes — Índice, Chefes — Indice, Chefes  Indice, quantos chefes, quantas chefes, quantidade de chefes, número de chefes, lista de chefes, todos os chefes, todas as chefes, total de chefes]
 tipo: index
 resumo: 29 chefes.
 status: completo
 rag: true
 tags: [index, lore, chefe]
 fontes: ["https://wiki.warframe.com/w/Boss"]
-atualizado: 2026-10-13
+atualizado: 2026-10-15
 verificado: true
 agente: opus
 total-notas: 28
@@ -17,6 +17,15 @@ total-notas: 28
 
 > [!info] Em uma linha
 > 29 chefes. Quase nenhum morre no dano: a maioria tem um **gate mecânico** — ponto fraco que só abre em certo momento, escudo que só cai com um tipo específico, ou um objeto no cenário que precisa ser usado primeiro.
+
+## 🔢 Contagem — Chefes — Índice
+
+Total de chefes no vault: **28**.
+
+| Grupo | Quantidade |
+|---|---|
+| gerais | 28 |
+| **Total** | **28** |
 
 ## A tabela que resolve a maioria das dúvidas — Chefes — Índice
 

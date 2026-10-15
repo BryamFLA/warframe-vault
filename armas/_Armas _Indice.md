@@ -1,13 +1,13 @@
 ---
 title: Armas — Índice
-aliases: [Armas — Índice, Armas — Indice, Armas  Indice]
+aliases: [Armas — Índice, Armas — Indice, Armas  Indice, quantos armas, quantas armas, quantidade de armas, número de armas, lista de armas, todos os armas, todas as armas, total de armas]
 tipo: index
 categoria: arma
 resumo: Armas em Warframe são o principal meio de combate do Tenno.
 status: completo
 rag: true
 tags: [index, arma]
-atualizado: 2026-10-13
+atualizado: 2026-10-15
 agente: opus
 total-armas: 380
 total-primarias: 129
@@ -28,6 +28,20 @@ total-notas: 644
 Armas em Warframe são o principal meio de combate do Tenno. Dividem-se em quatro categorias de slot: **Primária**, **Secundária**, **Branca (Melee)** e **Archwing**. Cada slot é independente — o jogador equipa uma de cada tipo simultaneamente (exceto Archwing, usado apenas em zonas específicas).
 
 O poder real de uma arma vem dos **Mods equipados**, não do nível base. Stats nativos (dano, critical chance, status chance, fire rate) definem o potencial; os mods amplificam ou redirecionam esse potencial.
+
+## 🔢 Contagem — Armas — Índice
+
+Total de armas no vault: **644** — 226 armas corpo a corpo (melee), 197 armas primárias, 156 armas secundárias, 28 armas de Archwing, 21 armas de companheiros robóticos, 16 Amps.
+
+| Grupo | Quantidade |
+|---|---|
+| armas corpo a corpo (melee) | 226 |
+| armas primárias | 197 |
+| armas secundárias | 156 |
+| armas de Archwing | 28 |
+| armas de companheiros robóticos | 21 |
+| Amps | 16 |
+| **Total** | **644** |
 
 ## 🌍 Onde Conseguir — Armas — Índice
 

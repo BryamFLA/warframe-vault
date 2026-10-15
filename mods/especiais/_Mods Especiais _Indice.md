@@ -1,13 +1,13 @@
 ---
 title: Mods Especiais — Índice
-aliases: [Mods Especiais — Índice, Mods Especiais — Indice, Mods Especiais  Indice]
+aliases: [Mods Especiais — Índice, Mods Especiais — Indice, Mods Especiais  Indice, quantos mods especiais, quantas mods especiais, quantidade de mods especiais, número de mods especiais, lista de mods especiais, todos os mods especiais, todas as mods especiais, total de mods especiais]
 tipo: index
 categoria: mod-especial
 resumo: Mods Especiais são categorias de mods com origens e mecânicas distintas das variantes comuns.
 status: completo
 rag: true
 tags: [index, mod, especial, primed, corrupted, syndicate, riven]
-atualizado: 2026-10-13
+atualizado: 2026-10-15
 agente: opus
 indices-relacionados: [_Mods _Indice, _Mods Warframe _Indice, _Mods Armas _Indice, _Sindicatos _Indice]
 total-notas: 245
@@ -30,6 +30,15 @@ Mods Especiais são categorias de mods com **origens e mecânicas distintas** da
 | **Syndicate** | Seis Sindicatos | Efeito especial adicional — proc único ao matar |
 | **Amalgam** | Drop de inimigos Amalgam | Set mods com bônus exclusivo de mecânica de jogo |
 | **Riven** | Sorties / Nightwave | Atributos aleatórios por arma específica |
+
+## 🔢 Contagem — Mods Especiais — Índice
+
+Total de mods especiais no vault: **245**.
+
+| Grupo | Quantidade |
+|---|---|
+| gerais | 245 |
+| **Total** | **245** |
 
 ## Mods Primed — Mods Especiais — Índice
 

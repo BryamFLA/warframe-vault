@@ -1,12 +1,12 @@
 ---
 title: Cosméticos - Índice
-aliases: [Cosméticos - Índice, Cosmeticos - Indice, Cosmeticos  Indice]
+aliases: [Cosméticos - Índice, Cosmeticos - Indice, Cosmeticos  Indice, quantos cosméticos, quantas cosméticos, quantidade de cosméticos, número de cosméticos, lista de cosméticos, todos os cosméticos, todas as cosméticos, total de cosméticos]
 tipo: index
 resumo: Cosméticos - Índice — Warframe tem um dos sistemas de customização visual mais abrangentes entre jogos live-service.
 status: completo
 rag: true
 tags: [index, cosmetico]
-atualizado: 2026-10-13
+atualizado: 2026-10-15
 agente: opus
 total-notas: 10
 ---
@@ -15,6 +15,15 @@ total-notas: 10
 
 > [!quote]
 > *"A aparência do Tenno é sua assinatura no Sistema Solar."*
+
+## 🔢 Contagem — Cosméticos - Índice
+
+Total de cosméticos no vault: **10**.
+
+| Grupo | Quantidade |
+|---|---|
+| gerais | 10 |
+| **Total** | **10** |
 
 ## O Sistema de Estilização — Cosméticos - Índice
 

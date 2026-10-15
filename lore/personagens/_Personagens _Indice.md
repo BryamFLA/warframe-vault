@@ -1,13 +1,13 @@
 ---
 title: Personagens — Índice
-aliases: [Personagens — Índice, Personagens — Indice, Personagens  Indice]
+aliases: [Personagens — Índice, Personagens — Indice, Personagens  Indice, quantos personagens, quantas personagens, quantidade de personagens, número de personagens, lista de personagens, todos os personagens, todas as personagens, total de personagens]
 tipo: index
 resumo: "26 personagens: o núcleo narrativo que explica por que o Sistema de Origem está do jeito que está, a família Entrati, os Cephalons, e os NPCs que você usa como loja todo dia."
 status: completo
 rag: true
 tags: [index, lore, personagem]
 fontes: ["https://wiki.warframe.com/w/Category:Characters"]
-atualizado: 2026-10-13
+atualizado: 2026-10-15
 verificado: true
 agente: opus
 total-notas: 26
@@ -17,6 +17,15 @@ total-notas: 26
 
 > [!info] Em uma linha
 > 26 personagens: o núcleo narrativo que explica por que o Sistema de Origem está do jeito que está, a família Entrati, os Cephalons, e os NPCs que você usa como loja todo dia.
+
+## 🔢 Contagem — Personagens — Índice
+
+Total de personagens no vault: **26**.
+
+| Grupo | Quantidade |
+|---|---|
+| gerais | 26 |
+| **Total** | **26** |
 
 ## O núcleo narrativo — leia nesta ordem — Personagens — Índice
 

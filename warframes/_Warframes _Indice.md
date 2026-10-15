@@ -1,18 +1,18 @@
 ---
 title: Warframes — Índice
-aliases: [Warframes — Índice, Warframes — Indice, Warframes  Indice]
+aliases: [Warframes — Índice, Warframes — Indice, Warframes  Indice, quantos warframes, quantas warframes, quantidade de warframes, número de warframes, lista de warframes, todos os warframes, todas as warframes, total de warframes]
 tipo: index
 categoria: warframe
 resumo: Todos os Warframes Prime são obtidos via Relíquias do Void em missões de Fissura.
 status: completo
 rag: true
 tags: [index, warframe]
-atualizado: 2026-10-13
+atualizado: 2026-10-15
 agente: opus
-total-warframes: 115
-total-base: 64
-total-prime: 50
-total-umbra: 1
+total-warframes: 120
+total-base: 66
+total-prime: 52
+total-umbra: 2
 indices-relacionados: ["[[mods/warframe/_Mods Warframe _Indice.md|Mods Warframe  Indice]]", "[[missoes/_Missoes _Indice.md|Missoes  Indice]]", "[[mecanicas/_Mecanicas _Indice.md|Mecanicas  Indice]]", "[[locais/_Locais _Indice.md|Locais  Indice]]", "[[lore/chefes/_Chefes _Indice.md|Chefes  Indice]]"]
 total-notas: 120
 ---
@@ -25,6 +25,21 @@ total-notas: 120
 ## 📊 Visão Geral — Warframes — Índice
 
 Warframes são exoesqueletos biomecânicos letais controlados pelos **Tenno** através de uma simbiose chamada **Transferência**. Forjados a partir do vírus Helminth combinado à tecnologia Orokin, surgiram durante a Antiga Guerra como resposta contra os Sentients. Cada frame canaliza energias elementais, distorcionais ou físicas únicas — definindo um papel distinto em combate.
+
+## 🔢 Contagem — Warframes — Índice
+
+O jogo tem **66 Warframes base** (cada personagem jogável diferente), **52 versões Prime** e **2 Umbra** (Excalibur Umbra e Excalibur Umbra Prime): **120 Warframes no total** contando as variantes. 52 dos 66 Warframes base já têm versão Prime.
+
+Sem versão Prime ainda (14): Cyte-09, Dagath, Dante, Follie, Jade, Koumei, Kullervo, Narin, Nokko, Oraxia, Qorvex, Sirius & Orion, Temple, Uriel.
+
+(A wiki oficial pode mostrar um total ligeiramente diferente por contar só alguns modelos; contagem feita sobre as notas do vault em 2026-10-15.)
+
+| Grupo | Quantidade |
+|---|---|
+| Warframes base | 66 |
+| Warframes Prime | 52 |
+| Umbra | 2 |
+| **Total** | **120** |
 
 ## 🌍 Onde Conseguir — Warframes — Índice
 
