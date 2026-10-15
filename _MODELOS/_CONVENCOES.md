@@ -41,7 +41,7 @@ O vault já tem **1181 arquivos** `.md` criados e estruturados. Sua tarefa é **
 
 ## 3. Links: só para alvos que existem
 
-Esta é a regra que mais foi violada. Antes de escrever qualquer `[[link]]`, confirme o caminho em **[[_MODELOS/_INDICE_DE_CAMINHOS.md|_INDICE_DE_CAMINHOS.md]]**.
+Esta é a regra que mais foi violada. Antes de escrever qualquer `[[link]]`, confirme o caminho no campo `caminho` de `_MODELOS/dados/itens.json` (regenerar com `python3 _MODELOS/exportar_itens.py`) e, ao terminar, rode `python3 _MODELOS/gerador/links.py` (0 links quebrados).
 
 **Formato obrigatório** — caminho completo a partir da raiz do vault, com extensão, com alias legível:
 
@@ -152,7 +152,7 @@ Sem fonte, o arquivo não é considerado concluído.
 2. Abra o modelo da pasta correspondente em `_MODELOS/`.
 3. Consulte a wiki para os dados. Uma aba por entidade.
 4. Preencha seguindo o modelo, seção por seção.
-5. Valide cada `[[link]]` contra `_INDICE_DE_CAMINHOS.md`.
+5. Valide os links com `python3 _MODELOS/gerador/links.py`.
 6. Preencha `## 📚 Fontes`.
 7. Ajuste o YAML (`atualizado`, `verificado`, `agente`).
 

@@ -1,69 +1,43 @@
 ---
-title: Operação Multiagente — Leia Primeiro
+title: Leia Primeiro — como este vault funciona
 tipo: protocolo
+rag: false
 tags: [protocolo, agente, indice]
-atualizado: 2026-09-09
+atualizado: 2026-10-14
 ---
 
-# 🎛️ Operação Multiagente — Painel
+# 🎛️ Leia Primeiro
 
-Três agentes de IA preenchendo o vault em paralelo, cada um em pastas disjuntas.
+Este vault é a **base de conhecimento (second brain) do Warframe** em PT-BR, usada pelo agente de IA local do repositório [`warframe-agent`](https://github.com/BryamFLA/warframe-agent) (busca RAG + `gemma4:12b` no Ollama). Qualquer IA ou pessoa que for **atualizar o vault** deve ler este arquivo e [[_MODELOS/_CONVENCOES.md|_CONVENCOES]] antes de escrever.
 
-## Divisão
+## Estrutura
 
-| Agente | Pastas | Arquivos | Prompt |
-|---|---|---|---|
-| **Gemini 3.1 Pro** (Antigravity) | `recursos/`, `missoes/`, `companheiros/` | 302 | [[_MODELOS/PROMPT_gemini.md\|PROMPT_gemini]] |
-| **GPT 6 Astra** (Desktop, Work) | `warframes/` | 116 | [[_MODELOS/PROMPT_gpt.md\|PROMPT_gpt]] |
-| **Claude Opus 5** | `mecanicas/`, `lore/` | 120 | [[_MODELOS/PROMPT_opus.md\|PROMPT_opus]] |
-| _Rodada 2 — a definir_ | `armas/` (385), `mods/` (221), `cosmeticos/` (11), `locais/` (25) | 642 | — |
-
-**Por que `armas/` e `mods/` ficam para a rodada 2:** dependem de `mecanicas/dano_e_status.md` e `mecanicas/critico.md` existirem, senão cada agente inventa a própria terminologia de dano.
-
-## Documentos do sistema
-
-| Arquivo | Para quê |
+| Pasta | Conteúdo |
 |---|---|
-| [[_MODELOS/_CONVENCOES.md\|_CONVENCOES]] | O contrato. Todo agente lê antes de escrever. |
-| [[_MODELOS/_INDICE_DE_CAMINHOS.md\|_INDICE_DE_CAMINHOS]] | Os 1181 caminhos reais. Fonte da verdade para links. |
-| `MODELO_*.md` | Estrutura obrigatória, uma por tipo de pasta. |
-| `_STATUS_*.md` | Registro de lote por agente. |
+| `warframes/`, `armas/`, `companheiros/`, `mods/` (inclui `mods/arcanes/`), `recursos/`, `cosmeticos/` | Uma nota por item do jogo |
+| `missoes/` | Tipos de missão, quests (`jornadas/`), junções, bounties |
+| `locais/` | Planetas e mundos abertos (com listas completas "📦 Itens de …") |
+| `mecanicas/` | Sistemas do jogo, sindicatos, eventos, guia de progressão, rotinas, glossário |
+| `lore/` | Facções, personagens, chefes, cronologia |
+| `_MODELOS/` | Infraestrutura (não é conteúdo do jogo; o agente não indexa esta pasta) |
 
-## Modelos por pasta
+Cada pasta tem um índice `_<Pasta> _Indice.md` gerado automaticamente.
 
-| Pasta do vault | Modelo |
+## `_MODELOS/`
+
+| Item | Para quê |
 |---|---|
-| `warframes/` | `MODELO_warframe.md` |
-| `armas/` | `MODELO_arma.md` |
-| `mods/` | `MODELO_mod.md` |
-| `recursos/` | `MODELO_recurso.md` |
-| `missoes/` | `MODELO_missao.md` |
-| `mecanicas/` | `MODELO_mecanica.md` |
-| `locais/` | `MODELO_local.md` |
-| `lore/` | `MODELO_lore.md` |
-| `companheiros/` | `MODELO_companheiro.md` |
-| `cosmeticos/` | `MODELO_cosmetico.md` |
+| `_CONVENCOES.md` + `MODELO_*.md` | Padrão obrigatório de escrita (frontmatter, headings com o nome da entidade, wikilinks com caminho completo) |
+| `dados/itens.json` | Todas as entidades com `id`, `title`, `aliases`, `caminho`… **O agente usa este arquivo** para reconhecer nomes. Regenere sempre que criar/renomear notas |
+| `exportar_itens.py` | Regenera `dados/itens.json` |
+| `gerador/` | Scripts: `indices.py` (índices), `links.py` (valida/corrige links), `itens_local.py all --write` (listas de itens dos hubs), `gen_*`/`enrich_*` (notas a partir dos módulos de dados da wiki; baixe os dados com `fetch_all.py`) |
+| `rag_core.py`, `rag_eval.py`, `rag_eval2.py` | Testes de busca. Rode depois de mudanças grandes: `python3 _MODELOS/rag_eval.py 5`, `python3 _MODELOS/rag_eval.py 5 --geral`, `python3 _MODELOS/rag_eval2.py` |
+| `MODELO_inventario_jogador.md`, `GUIA_RECOMENDACAO_IA.md` | Formato do inventário do jogador e regras para a IA recomendar ações |
+| `_PENDENCIAS.md`, `_STATUS_opus.md` | O que falta e histórico do trabalho |
 
-## Protocolo de arranque
+## Rotina de atualização (ex.: novo update do jogo)
 
-1. Cada agente lê `_CONVENCOES.md` + `_INDICE_DE_CAMINHOS.md` + o modelo da sua pasta.
-2. Cada agente faz o **lote de calibração** (5–10 arquivos) e **para**.
-3. Revisão humana de um arquivo por agente.
-4. Aprovado, segue em lotes de 10–20 com commit por lote.
-
-## Estado auditado em 2026-09-09
-
-| Pasta | Arquivos | Situação |
-|---|---|---|
-| `warframes/` | 116 | 109 templates vazios · 3 fichas básicas · 4 "gold" com dados suspeitos |
-| `armas/` | 385 | 380 só com frontmatter |
-| `mods/` | 221 | 216 vazios |
-| `recursos/` | 161 | 160 vazios |
-| `missoes/` | 95 | 94 vazios |
-| `lore/` | 73 | 55 vazios |
-| `mecanicas/` | 47 | 45 vazios |
-| `companheiros/` | 46 | praticamente todos vazios |
-| `locais/` | 25 | parcialmente preenchidos |
-| `cosmeticos/` | 11 | parcialmente preenchidos |
-
-**Auditoria de links nos 3 arquivos "gold":** 202 wikilinks, **6 válidos**, 196 quebrados. Causa: caminhos inventados (`sistemas/`, `NPCs/`, `empresas/`, `cosmeticos/skins/`). É o defeito que este conjunto de documentos existe para não deixar acontecer de novo.
+1. Escreva/atualize as notas seguindo `_CONVENCOES.md` e o `MODELO_*.md` da pasta; fonte: wiki.warframe.com.
+2. `python3 _MODELOS/exportar_itens.py` → `python3 _MODELOS/gerador/indices.py` → `python3 _MODELOS/gerador/itens_local.py all --write`.
+3. `python3 _MODELOS/gerador/links.py` (0 quebrados) e os testes de busca acima.
+4. Commit e push. No Mac, reinicie a API do agente para ele reler o vault.
